@@ -1,0 +1,900 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/pfiles/94MNQ560FC1A/$file/Proposed%20Budget%20presentation%20-%20Feb%20%205%202013%20FINAL.pdf | DATE: 2013-02-05 | TITLE: Regular Meeting - 7:30 p.m.* | 11.1 2013-14 Budget Discussion: Instruction, Technology, Central Data, Benefits and Revenue | Proposed Budget presentation - Feb  5 2013 FINAL.pdf
+
+IRVINGTON UFSD
+
+   Budget Projections for:
+Instruction, Technology, Central
+  Data, Benefits and Revenue
+
+       February 5, 2013
+
+                              2
+
+
+
+Budget Development Process Thus Far
+
+
+December 18, 2012   Maintenance Budget Projections
+
+January 8, 2013     Business Office, Debt Service,
+                    Insurance, Building & Grounds,
+                    Transportation, Inter-fund transfers
+
+January 22, 2013    Athletics, Special Education, Pupil
+                    Personnel Services
+
+February 5, 2013    Instruction, Technology, Central
+                    Data, Benefits and Revenue
+
+                             3
+
+
+
+
+Cost Escalation Beyond BOE Control
+  Pension Contributions
+  Health Insurance
+  Tax Certs
+    Potential exposure through 13-14
+    Transportation (spec. ed/private)
+
+  Special Education Services
+
+
+  How does this translate to the 2013-2014 budget
+         and, ultimately, the tax cap?
+
+                                                    4
+
+
+
+
+                   TOTAL BUDGET 2013-14
+                                                  2012-13       2013-14
+                                   2012-13      ESTIMATED     PROPOSED
+CODE    DESCRIPTION                BUDGET        TO SPEND      BUDGET       CHANGE
+
+ 1000   Board of Education             59,820        58,793        75,419      15,599
+ 1200   Chief School Admin.           348,068       332,076       339,768      (8,300)
+ 1300   Finance                       614,256       617,302       644,391      30,135
+ 1400   Staff                         349,395       400,239       390,025      40,630
+ 1600   Operation & Maint           3,182,645     3,133,245     3,600,647     418,002
+ 1670   Messenger/Mailing              58,240        55,900        57,900        (340)
+ 1680   Central Data Processing             0        13,878        14,500      14,500
+ 1900   Special Items                 405,751       404,444       413,069       7,318
+ 2000   Inst.Improv./Admin                                                          0
+ 2110   Instruction                                                                 0
+ 2200   Special Education           7,155,761     7,097,421     7,680,387     524,626
+ 2280   Occupational Education                                                      0
+ 2600   Library                                                                     0
+ 2630   Instructional Tech                                                          0
+ 2800   Pupil Personnel Svcs        1,668,029     1,634,117     1,732,587      64,558
+ 2850   Co-Curricular                                                               0
+ 2855   Interscholastic               640,445       622,515       694,028      53,583
+ 5500   Transportation              2,268,782     2,130,322     2,318,630      49,848
+ 9000   Employee Benefits                                                           0
+ 9700   Debt Service                5,270,916     5,270,916     4,671,361    (599,555)
+ 9900   Interfund Transfers           360,000       406,712       117,000    (243,000)
+                                                                                    0
+        TOTAL BUDGET              $22,382,108   $22,177,880   $22,749,712    $367,604
+
+                                                                                1.64%
+
+              5
+
+
+
+
+Tonight’s focus:
+
+Instruction, Technology,
+Central Data, Benefits
+and Revenue
+
+                                                   6
+
+
+
+
+                                   Proposed Budget 2013-14
+                                    Central Data Processing
+
+
+
+                                                            2012-13      2013-14
+                                           2012-13       ESTIMATED TO   PROPOSED
+CODE          DESCRIPTION                  BUDGET           SPEND        BUDGET           CHANGE
+
+1680 Central Data Processing
+
+        400   Other Expense                          0                       72,649          72,649
+        490   BOCES services                         0                       63,125          63,125
+
+       TOTAL CENTRAL DATA PROCESSING      $          0   $          0   $   135,774   $     135,774
+
+                                                                      7
+
+
+
+
+A1680.400 OTHER EXPENSE
+
+Lightspeed System -                                                                                     $9,500
+           Security Manager, network traffic manager, e-mail, web access, etc.(NYS contract)
+
+
+Vmware -    Virtualization system contract ( 5 year contract - renewal)                                $20,000
+
+
+Microsoft Office (renewal)                                                                             $20,000
+
+
+Adobe - campus license                                                                                  $9,924
+
+
+Backup Exec - (3 year contract - renewal)                                                              $13,000
+
+Survey Monkey - on-line survey subscription service                                                      $225
+
+                                                                                               TOTAL   $72,649
+
+                                          8
+
+
+
+
+A1680.490   BOCES Services
+
+
+
+
+eSchool Plus - student data base system                    58,000
+
+
+Edline -                                                    5,125
+               web hosting service            $4,800
+               SIS link                        $325
+                                                       $   63,125
+
+                                                              9
+
+
+
+
+                                      Instructional Improvement / Administration
+
+                                                                     2012-13        2013-14
+                                                                  ESTIMATED TO     PROPOSED
+  CODE                                             2012-13 BUDGET    SPEND          BUDGET         CHANGE
+2010 Curriculum Development                 Curr
+      150 Administrative Salaries           1.0           160,000        180,000        184,700          24,700
+      160 Non-Instructional Salaries        1.0            63,500         63,500         64,214             714
+      200 Equipment                                         5,000          4,909          1,000         (4,000)
+      400 Other & Curr.Improvement Plan                    32,390         18,500         20,890        (11,500)
+      401 Supt. Conference Days                             1,000          1,000          3,000           2,000
+      406 Tri-State Consortium                              9,000          8,500          9,000               0
+      450 Supplies                                          7,300          7,700          8,000             700
+      490 BOCES                                            16,300         28,029         56,748          40,448
+           Total Curriculum Development                  $294,490       $312,138       $347,552        $53,062
+
+2020 Supervision
+      150 Administrative Salaries           6.5            992,004       972,004         976,749       (15,255)
+      160 Non-Instructional Salaries        3.0            199,865       196,694         201,592          1,727
+      200 Equipment                                          2,750         2,750           2,000          (750)
+      400 Other Expense                                     19,544        19,500          18,950          (594)
+      400 Supv. - Prof. Development                          6,370         5,500           5,475          (895)
+      450 Supplies                                          24,840        20,000          20,750        (4,090)
+      490 BOCES                                             60,920        60,920         107,200         46,280
+                        Total Supervision               $1,306,293    $1,277,368      $1,332,716         26,423
+
+ TOTAL INSTRUCTIONAL IMPROVEMENT /
+           ADMINISTRATION                               $1,600,783    $1,589,506      $1,680,268       $79,485
+
+                                                                                                        4.97%
+
+                                                                         10
+
+
+                         A2010. CURRICULUM DEVELOPMENT
+                                      2013-14
+
+A2010.200 EQUIPMENT                                                            $1,000.00
+
+A2010.400 OTHER EXPENSE
+                          membership dues - Asst. Supt. For Curr.                $500.00
+                         mileage/reimbursements - Asst. Supt. For Curr.          $300.00
+                         Conferences                                           $3,000.00
+A2010.400 OTHER - SCHOOL IMPROVEMENT PLAN
+                      Edith Winthrop Teacher Center - membership fee          $17,090.00
+
+                                                      TOTAL                   $20,890.00
+A2010.401 SUPT. CONFERENCE DAYS
+                             costs for guest speakers, travel,etc.             $3,000.00
+
+A2010.406 TRI-STATE CONSORTIUM
+                      Annual dues                                              $7,000.00
+                      Training sessions, est.                                  $2,000.00
+
+                                                             TOTAL             $9,000.00
+A2010.450 SUPPLIES                                                             $8,000.00
+                            Curriculum books & instructional materials
+                            Office supplies
+A2010.490 BOCES
+                         Teachscape Admin.& Teacher evaluation costs          $15,000.00   Observation and walk-through
+                         Data Warehouse Tools (new)                            $5,848.00   Final evaluation and professional development
+                         Professional Learning Services                        $8,200.00
+                         Rubicon Atlas-Curriculum Mapping (new)               $10,500.00
+                         PNW membershp in Curriculum Center                    $3,700.00
+                         PNW membership in Social Studies Curriculum           $2,400.00
+                         My Learning Plan - admin. Fee                         $4,700.00
+                         BOCES workshops - est.based on prior usage            $6,400.00
+
+                                                             TOTAL            $56,748.00
+
+                                                         11
+
+
+
+
+                         A2020. SUPERVISION - PRINCIPALS
+                                         2013-14
+A2020.200 EQUIPMENT
+          Clerical desk & add'l office furniture - Dows Lane               $2,000.00
+A2020.400 OTHER EXPENSE
+          contractual obligations                                         $12,100.00
+          Building allocations - school org. membership fees,              $6,850.00
+
+              reimbursements, newspaper subscriptions &
+
+              HS - parking permits, MS - spelling bee
+
+                                                  TOTAL                   $18,950.00
+
+
+
+A2020.450 SUPPLIES                                                        $20,750.00
+
+           Prof. development materials
+
+           Office supplies for principals, asst. principals,
+
+              office secretaries,etc.
+
+A2020.490 BOCES
+          Math, ELA, Science & Social Studies consultants:
+             total anticipated cost                        $154,600.00
+             less: anticipated grant funding                $51,000.00
+                     net cost to district                                $103,600.00
+          DASA - Dignity for All Students contract                         $3,600.00
+                                              TOTAL                      $107,200.00
+
+                                                               12
+
+
+                                                     Instruction
+                                                                                 2012-13       2013-14
+                                                               2012-13         ESTIMATED      PROPOSED
+CODE      DESCRIPTION                               FTE        BUDGET           TO SPEND       BUDGET        CHANGE
+2110 Teaching - Regular School                 Adj Current
+     110 Teaching Salaries (K-3)               1.0   35.00       3,740,338        3,836,491      3,906,453      166,115
+     120 Teaching Salaries (4-6)                     27.93       3,193,223        3,166,987      3,166,274      (26,949)
+     130 Teaching Salaries (7-12)               .6   66.07       6,837,721        6,828,535      6,995,924      158,203
+     140 Substitute Salaries                                       245,000          245,000        250,000         5,000
+     160 Non-instructional Salaries            3.0    13.55        509,417          533,559        619,445      110,028
+     200 Equipment                                                  18,340           18,000         20,300         1,960
+     400 Other Expense - Instruction                               100,407           87,000        109,559         9,152
+     403 Other Expense - Equipment Repair                           15,000           10,000         10,000       (5,000)
+     404 Other Expense- Commencement                                14,750           14,000         14,750             0
+     405 Rental of Instructional Equipment                         114,650           94,164         89,869      (24,781)
+     406 Professional Development - Conf.                           14,725           30,000         35,300        20,575
+     410 Student Assistance Services                                52,948           52,695         53,748           800
+     415 Student Accident Insurance                                 17,050           17,171         17,857           807
+     450 Supplies                                                  145,942          140,000        147,560         1,618
+     480 Textbooks                                                 126,292          126,000        128,818         2,526
+     490 BOCES Services                                            158,295          164,265        133,153      (25,142)
+        Total Teaching Regular School                          $15,304,098      $15,363,867    $15,699,010     $394,912
+                                                                                                                  2.58%
+2280 Occupational Education
+     150 Instructional Salaries-Indust.Arts                           92,311        92,311         92,692           381
+
+     400 Other Expense - CAD software (expense move to 2630)           3,500             0              0        (3,500)
+     450 Supplies - Ind. Arts                                         $4,425        $3,300         $3,375        (1,050)
+       Total Occupational Education                                 $100,236       $95,611        $96,067        (4,169)
+                                                                                                               (-4.16%)
+
+                                                               13
+
+
+
+
+A2110.200 EQUIPMENT                                                       $20,300
+Includes student & teacher desks/chairs, projectors, musical instruments,
+
+band equipment, classroom furniture
+
+
+A2110.400 OTHER EXPENSE - INSTRUCTION                                  $109,559
+
+Home Tutoring                                  $30,000.00
+
+Test scoring                                   $29,000.00            current regents scoring service $7,000 +
+                                                                    new standardized test scoring NWEA $22,000
+
+Professional Development                        $5,000.00
+
+In-Service Program (new)                       $21,000.00
+
+Building allocations - to cover:               $24,559.00
+    staff mileage reimb.
+    HS Model UN
+    HS Yearbook
+    HS Literary Magazine
+    HS Paw Print
+    Academic Challenge
+
+School memberships:
+   Iparadigms (HS English)
+   NYSSMA
+   Math Challenge
+                                              $109,559.00
+
+                                                             14
+
+
+
+
+A2110.403 EQUIPMENT REPAIR                                                $10,000.00
+repairs to district equipment - (other than computers)
+projectors, musical instruments,etc
+
+A2110.403 COMMENCEMENT                                                    $14,750.00
+expenses for HS & MS graduation ceremonies
+
+A2110.405 RENTAL OF INSTRUCTIONAL EQUIPMENT                               $89,869.00
+Lease agreements with Xerox - photocopiers
+
+A2110.406 PROFESSIONAL DEVELOPMENT                                        $35,300.00
+Instructional staff attendance at workshops & conferences
+
+A2110.410 STUDENT ASSISTANCE SERVICES                                     $53,748.00
+Contracted services with SAS Corporation to provide .80 FTE
+student assistance counselor - drug & alcohol prevention &
+intervention services
+
+
+A2110.415 STUDENT ACCIDENT INSURANCE                                      $17,857.00
+covers students injured during school sessions (parental health
+insurance is primary, this is additional coverage for deductibles,etc.)
+This would also cover uninsured students.
+
+                                                      15
+
+
+
+
+                                 A2110.490 BOCES SERVICES
+
+                                                           2012-13            2013-14
+Code               Description                             Budget             Budget
+
+2110.490.00-0000   Test Scoring                               $8,891.00             $9,070.00
+                   E-School Plus                             $62,191.00   moved to A1680 code
+                   scoring for new grades 3-8                $17,000.00            $17,500.00
+                    math & ELA
+
+2110.490-00-0001   Arts in Education                         $60,000.00            $80,000.00
+
+2110.490-40-7000   Sub reimbursement - prof.development       $5,400.00             $5,800.00
+
+2110.490-40-7001   Data Warehousing                          $14,594.00            $14,813.00
+
+2110.490-40-7002   AESOP substitute calling service                                 $5,970.00
+
+                   TOTAL                                                          $133,153.00
+
+                                                          16
+
+
+
+
+                                            Proposed Budget 2013-14
+                                               Instructional Media
+
+                                                                    2012-13       2013-14
+                                                   2012-13        ESTIMATED      PROPOSED
+CODE           DESCRIPTION                         BUDGET          TO SPEND       BUDGET       CHANGE
+2610 Library                                FTE
+        150    Librarian Salaries           3.0      309,802.00        308,934       310,551          749
+        160    Non-Instructional Salaries   3.0      114,718.00        113,943       117,613        2,895
+        200    Equipment                                   0.00              0         1,200        1,200
+        400    Other Expense (copiers)                 3,600.00            150           100      (3,500)
+        450    Supplies                                6,696.00          6,500         5,355      (1,341)
+        461    Library Books & Materials              39,340.00         38,500        34,900      (4,440)
+        490    BOCES Services                         40,137.00         36,730        37,007      (3,130)
+                        Total Library               $514,293.00       $504,757      $506,726      (7,517)
+
+                                                                                                 (-1.47%)
+
+                                                        17
+
+
+
+
+                 Software Item           Requestor           Type       New Request
+Discovery Education Streaming (K-8)      Dows/MSS/IMS        Web        N
+Discovery Education Streaming (9-12)     IHS                 Web        N
+Mandarin M3 SUA                          District            Software   N
+WebOPAC                                  District            Web        N
+BookWhereOnline                          District            Web        N
+Bloom's Literary Reference               IHS                 Web        N
+Britannica Online School Edition K-12    District            Web        N
+Country Watch                            IMS/IHS             Web        N
+Country Watch - Youth Edition            MSS                 Web        N
+CQ Researcher Online                     IMS/IHS             Web        N
+Essential Database Package               IMS/IHS             Web        N
+Gale Student Resource Center             IMS                 Web        N
+Maps 101                                 MSS/IMS/IHS         Web        N
+Noodle Tools                             IMS/IHS             Web        N
+Opposing Viewpoints in Context           IHS                 Web        N
+PebbleGo                                 Dows                Web        N
+ProQuest: SIRS Discoverer w/WebFind      MSS                 Web        N
+World Book Online - Children's Edition   MSS                 Web        N
+Gale eBooks Hosting Fee                  IMS/IHS             Web        N
+OverDrive                                IMS/IHS             Web        N
+OverDrive Advantage                      IMS/IHS             Web        N
+
+                                                                        18
+
+
+
+
+                                                       Proposed Budget 2013-14
+                                                       Instructional Technology
+
+                                                                                           2012-13       2013-14
+                                                                            2012-13      ESTIMATED      PROPOSED
+CODE       DESCRIPTION                                       FTE            BUDGET        TO SPEND       BUDGET       CHANGE
+A2630 - Instructional Technology                        Adj. Current
+
+    150    Instructional Salaries *                      1.0    1.8            350,800        203,626       337,381     (13,419)
+    160    Computer Staff (orig.budget 2.75FTE) **              3.0            127,700        137,322       143,724       16,024
+    400    Other Expense                                                       276,700        276,500       311,169       34,469
+    403    Computer- Equip. Repair                                               4,600          2,500         2,500      (2,100)
+    450    Computer Supplies                                                    28,929         30,000        41,230       12,301
+    462    State Aided Computer Software                                        27,698         24,000        24,670      (3,028)
+    490    BOCES                                                                18,300         15,865        15,400      (2,900)
+
+                      TOTAL INSTRUCTIONAL
+                   INFORMATION TECHNOLOGY                                     $834,727       $689,813      $876,074     $41,347
+
+                                                                                                                         4.95%
+ * 150    1.00 FTE teacher replaced with .20 FTE for 2012-13
+**160     .25 clerical moved from athletic code to be 1.00 FTE Technology
+
+                                                 19
+
+
+
+
+    Proposed Budget 2013-14
+     Information Technology
+
+                                                  2013-14
+                                     2012-13     PROPOSED
+DESCRIPTION                          BUDGET       BUDGET         CHANGE
+A2630.400 - Other Expenses
+
+Edu-Tek                               $177,150        $179,470     $2,320
+Cablevision Lightpath                   96,000          96,000           0
+E-Rate Exchange                          3,550               0     (3,550) moved to A1620 telephone code
+Hardware warranty policies:
+   CISCO Smartnet                                       16,874      16,874
+   Meru                                                  2,600       2,600
+   APC Symmetra                                          5,500       5,500
+Software Programs:
+  Reading A-Z Classroom (Main St)                        3,575       3,575
+  Wizard Test Maker & upgrade (HS)                       1,300       1,300
+  Turnitin.com (HS)                                      1,900       1,900
+  Project Lead the Way (HS)                              3,600       3,600
+  SenorWooly.com (MS)                                      100         100
+  Tregoed.org (MS)                                          50          50
+  TryCicero.org (MS)                                       100         100
+  Apple Store App (all bldgs)                              100         100
+
+                                      $276,700        $311,169     $34,469
+
+                                          20
+
+
+
+
+                           Proposed Budget 2013 -14
+                             Information Technology
+
+
+
+
+DESCRIPTION
+
+A2630.450 - Supplies                  $41,230
+
+Network supplies: labels, forms, mouse, keyboards, etc.    $7,000.00
+
+Building supplies: printer cartridges, cables, etc.       $34,230.00
+
+                                                       21
+
+
+
+
+A2630.462       State Aided Computer Software (programs used by students)
+
+PROGRAM                                     BUILDING (S)          COST         DESCRIPTION
+Aha! Math                                   Dows/MSS                6,900.00
+Raz-Kids classroom program                  Dows                    1,800.00
+Brain Pop Jr.                               Dows                      675.00
+Brain Pop Jr.                               Dows/MSS/IMS            1,750.00
+Enchanted Learning                          Dows/MSS                  250.00
+Typing Pal                                  MSS/IMS                   575.00
+NetTrekker                                  MSS/IMS                 1,900.00
+Bridge Builder for Windows 30               IMS                       135.00   Technology Dept.
+Car Builder software                        IMS                       125.00   Technology Dept.
+Audible.com                                 IMS                       700.00
+Sibelius                                    IMS                     2,040.00   Music
+Noteflight                                  IMS                       300.00   Music
+Musician/Auralia                            HS                        275.00   AP Music Theory
+Smart Music Program                         IMS/HS                    720.00
+Finale Software                             IMS/HS                    775.00   used w/Smart Music
+Protools Audio Pkg/Avid recording           IMS/HS                  1,900.00   covers 15 computers
+Aleks Assessing & Learning Program          IMS/HS                  1,700.00   Math Dept
+Glogster                                    Main St                   175.00
+CountryReports.org                          Main St                    75.00
+JSTOR                                       IMS/HS                  1,900.00   Library
+                                                                  $24,670.00
+
+                                                  22
+
+
+
+
+                                Proposed Budget 2013-14
+                                Instructional Technology
+
+
+CODE         DESCRIPTION                                                       2013-14
+
+A2630 - Instructional Technology
+
+       490   BOCES Services                                         Co-ser #
+             NYS Data Validation - tests SIS & Special Ed.          611.530      3,500
+               system data against State Reporting regs.-daily
+             Model Schools - membership                             554.100      9,200
+               Tri-County shared instructional services, focusing
+               on instructional technology
+             Technology Leadership Institute - membership           554.500      2,700
+               Provides speakers,workshops to share best
+               practices in technology
+
+
+
+
+                         TOTAL BOCES SERVICES                                  $15,400
+
+                                                             23
+
+
+
+
+                                            Proposed Budget 2013-14
+                                             Co-Curricular Activities
+
+
+                                                                2012-13
+                                                             ESTIMATED TO      2013-14
+CODE       DESCRIPTION                    2012-13 BUDGET        SPEND     PROPOSED BUDGET    CHANGE
+
+
+2850 Co-Curricular Activities
+     150    Advisors Salaries                       86,000              86,734      99,000       13,000
+     150    Chaperones/Food Concessions              7,550               7,000       7,550             0
+     160    Non-Instructional Salaries              11,500              11,827       9,700       (1,800)
+     160    Chaperones/Food Concessions              3,300               3,000       3,300             0
+            Total Co-
+            Curricular
+            Activities                            $108,350          $108,561      $119,550      $11,200
+
+                                                                                                10.34%
+
+                                       24
+
+
+
+
+                                DOWS LANE
+Recycling Rangers
+
+                        MAIN STREET SCHOOL
+4th Grade Homework Club                School Store
+5th Grade Homework Club                Stock Market Club
+Mathletes - 4                          Television Club
+Mathletes - 5
+
+                             MIDDLE SCHOOL
+French Club                              Student Council - Gr. 7
+Homework Center - Gr. 6                  Student Council - Gr. 8
+Homework Center - Gr. 7/8                Theater
+Literary Magazine                        Yearbook
+Midnight Run                             Tri-M Honor Society
+Nat'l Junior Honor Society               Environmental Club
+School Store                             Ping Pong Club
+Science Olympiad                         Intramurals Club (new)
+Spanish Club (new)                       IMS Talent Show (new)
+
+                                HIGH SCHOOL
+Academic Challenge                            Literary Magazine
+AV Club MS/HS                                 Mock Trial
+Community Service Coordinator                 Model UN
+Dance Club                                    Senior Class Aadvisor
+Envir./Recycling Club                         Student Government
+Flag Team                                     TV Club
+Fresh/Soph. Class Sdvisor                     World of Difference
+HiGH School Band                              Yearbook
+Key Club                                      Yearbook Asst.
+Latin Club                                    Drama Production
+
+                                               25
+
+
+
+
+                                                      2012-13        2013-14
+                                     2012-13       ESTIMATED TO     PROPOSED
+CODE        DESCRIPTION              BUDGET           SPEND          BUDGET        CHANGE
+
+9010.800    Employees' Retirement        890,725          890,725      1,038,782      148,057
+9020.800    Teachers' Retirement       2,422,036        2,422,036      3,395,007      972,971
+9030.800    Social Security            1,951,774        1,950,000      2,048,194        96,420
+9040.800    Workmen's Compensation       169,367          169,368         95,000      (74,367)
+9045.800    Life Insurance                31,800           30,379         31,800             0
+9050.800    Unemployment Insurance        72,000           65,000         65,000       (7,000)
+9055.800    Disability Insurance          36,000           34,065         36,000             0
+9060.800    Health Insurance           4,448,403        4,435,147      4,672,959      224,556
+9070.800    Union Welfare Benefits       289,300          289,000        297,000         7,700
+
+       TOTAL EMPLOYEE BENEFITS       $10,311,405      $10,285,720    $11,679,742    $1,368,337
+
+
+                                                                                       13.27%
+
+                                                 26
+
+
+
+
+                                       2012-13           2013-14
+NYS Employees Retirement System
+Tiers 3 & 4 rate      7/1 - 1/31       15.90%            18.70%                 18% rate increase
+                      2/1 - 6/30       18.70%            21.10%                 13% rate increase
+
+
+NYS Teachers Retirement System         11.84%     15.50% - 16.50% est           35% rate increase
+
+
+Health Insurance                   8% increase    est.8% increase
+
+Workers Comp.Insurance             consortium     self-funded w/excess ins. Policy
+
+                                                          27
+
+
+                                         Proposed Budget 2013-14
+
+                                                                               2013-14
+                                         2012-13             2012-13          PROPOSED
+CODE           DESCRIPTION               BUDGET        ESTIMATED TO SPEND      BUDGET        CHANGE
+
+       1000    Board of Education             59,820                 58,793         75,419        15,599
+       1200    Chief School Admin.           348,068                332,076        339,768        (8,300)
+       1300    Finance                       614,256                617,302        644,391        30,135
+       1400    Staff                         349,395                400,239        390,025        40,630
+       1600    Operation & Maint           3,182,645              3,133,245      3,600,647       418,002
+       1670    Messenger/Mailing              58,240                 55,900         57,900          (340)
+       1680    Central Data Processing             0                      0        135,774       135,774
+       1900    Special Items                 405,751                404,444        413,069          7,318
+       2000    Inst.Improv./Admin          1,600,783              1,609,506      1,680,268        79,485
+       2110    Instruction                15,304,098             15,363,867     15,699,010       394,912
+       2200    Special Education           7,155,761              7,097,421      7,680,387       524,626
+       2280    Occupational Education        100,236                 95,611         96,067        (4,169)
+       2600    Library                       514,293                504,757        506,726        (7,567)
+       2630    Instructional Tech            834,727                689,813        876,074        41,347
+       2800    Pupil Personnel Svcs        1,668,029              1,634,117      1,732,587        64,558
+       2850    Co-Curricular                 108,350                108,561        119,550        11,200
+       2855    Interscholastic               640,445                622,515        694,028        53,583
+       5500    Transportation              2,268,782              2,130,322      2,318,630        49,848
+       9000    Employee Benefits          10,311,405             10,285,720     11,679,742     1,368,337
+       9700    Debt Service                5,270,916              5,270,916      4,671,361     (599,555)
+       9900    Interfund Transfers           360,000                406,712        117,000     (243,000)
+
+              TOTAL BUDGET               $51,156,000            $50,821,837    $53,528,423    $2,372,423
+
+                                                                                               4.64%
+
+                                                              28
+
+
+
+
+                                       Proposed Budget 2013-14
+                                            Debt Service
+                         REVISED TO INCLUDE B.A.N. PAYMENT FOR TAX CERTS.
+
+                                              2012-13         2012-13         2013-14
+ CODE              DESCRIPTION                BUDGET       EST. TO SPEND PROPOSED BUDGET              CHANGE
+
+9711.600   Construction Bond Principal         2,940,000            2,940,000             2,490,000    (450,000)
+9711.700   Construction Bonds Interest         2,022,531            2,022,531             1,911,057    (111,474)
+9731.600   B.A.N. Principal **                         0                    0               680,000      680,000
+9731.700   B.A.N. Interest **                          0                    0                20,000       20,000
+9760.700   T.A.N. Interest                        25,000               25,000                25,000             0
+9780.600   ERS Loan - Principal *                 19,089               19,089                20,043           954
+9780.700   ERS Loan - Interest *                   3,159                3,159                 2,205         (954)
+9785.600   Lease Purchase Principal **           238,238              238,238               206,471     (31,767)
+9785.700   Lease Purchase Interest **             22,899               22,899                16,585       (6,314)
+           TOTAL DEBT SERVICE                 $5,270,916           $5,270,916            $5,371,361    $100,445
+
+
+                                                                                                          1.91%
+
+           **Est. first B.A.N. payment to cover approx. $3.5m in tax cert. settlements
+
+                                                    29
+
+
+
+                                Proposed Budget 2013-14
+                                                     2012-13         2013-14
+                                    2012-13       ESTIMATED TO      PROPOSED
+CODE      DESCRIPTION               BUDGET           SPEND           BUDGET          CHANGE
+
+   1000   Board of Education             59,820            58,793           75,419      15,599
+   1200   Chief School Admin.           348,068           332,076          339,768      (8,300)
+   1300   Finance                       614,256           617,302          644,391      30,135
+   1400   Staff                         349,395           400,239          390,025      40,630
+   1600   Operation & Maint           3,182,645         3,133,245        3,600,647     418,002
+   1670   Messenger/Mailing              58,240            55,900           57,900        (340)
+   1680   Central Data Processing             0                 0          135,774     135,774
+   1900   Special Items                 405,751           404,444          413,069        7,318
+   2000   Inst.Improv./Admin          1,600,783         1,609,506        1,680,268      79,485
+   2110   Instruction                15,304,098        15,363,867       15,699,010     394,912
+   2200   Special Education           7,155,761         7,097,421        7,680,387     524,626
+          Occupational
+   2280   Education                     100,236            95,611           96,067       (4,169)
+   2600   Library                       514,293           504,757          506,726       (7,567)
+   2630   Instructional Tech            834,727           689,813          876,074       41,347
+   2800   Pupil Personnel Svcs        1,668,029         1,634,117        1,732,587       64,558
+   2850   Co-Curricular                 108,350           108,561          119,550       11,200
+   2855   Interscholastic               640,445           622,515          694,028       53,583
+   5500   Transportation              2,268,782         2,130,322        2,318,630       49,848
+   9000   Employee Benefits          10,311,405        10,285,720       11,679,742    1,368,337
+   9700   Debt Service                5,270,916         5,270,916        5,371,361      100,445
+   9900   Interfund Transfers           360,000           406,712          117,000    (243,000)
+
+       TOTAL BUDGET                 $51,156,000      $50,822,487       $54,228,423   $3,072,423
+
+                                                    Includes B.A.N. for tax certs.       6.01%
+
+                                                        30
+
+                                  Proposed Budget 2013-14
+                                         REVENUE
+                                               2012-13        2012-13         2013-14
+CODE    DESCRIPTION                           BUDGET      Est. to Receive     BUDGET          CHANGE
+A1081   PILOT (Payments in Lieu of Taxes          $630,000       $652,697         $655,000       $25,000
+A1120   Non-Property Taxes (Sales Tax)            $420,000       $420,000         $420,000            $0
+A1311   Day School Tuition                        $495,000       $495,000         $510,000       $15,000
+A2280   Health Services                            $40,000        $45,000         $50,0000       $10,000
+A2401   Interest Earned on Investments             $45,000        $35,000          $30,000      -$15,000
+A2413   Rentals - BOCES classrooms                $219,692       $219,692         $220,000          $308
+A2703   Refund of Prior Years Expenses             $95,000        $95,000         $100,000        $5,000
+A2770   Misc. Revenue                             $150,000       $191,166         $175,000       $25,000
+A2772   Reimbursements-JCOC                       $165,000       $165,000         $165,000            $0
+A3101   State Aid                               $1,888,754     $1,836,658       $2,016,973      $128,219
+A3101   Excess Cost Aid                           $242,397       $210,547         $235,427       -$6,970
+A3103   BOCES Aid                                 $236,635       $277,419         $346,425      $109,790
+A3260   Textbook, Software & Library Aid          $155,978       $148,799         $154,176       -$1,802
+A4601   Medicaid reimbursements                    $20,000        $11,500          $20,000            $0
+        Total Revenues                          $4,803,456     $4,803,478       $5,098,001      $294,545
+
+
+        Appropriated Fund Balance                 $422,000       $422,000         $400,000      -$22,000
+        Total Revenue to offset budget          $5,225,456     $5,225,478       $5,498,001      $272,545
+
+
+
+        Total Budget - proposed                $51,156,000                     $54,228,423     $3,072,423
+
+        Tax Levy needed to balance budget      $45,930,544                     $48,712,943     $2,782,399
+
+
+
+        Tax Levy Cap                           $45,931,262                     $46,660,267       729,005
+
+        Budget vs the Tax Cap                         $718                     ($2,052,676)
+                                            UNDER TAX CAP                   OVER TAX CAP
+
+                                                  31
+
+
+
+
+2013-14 Proposed Budget                                           $54,228,423
+
+2012-13 Budget                                                    $51,156,000
+
+Change - Budget Increase                                           $3,072,423
+
+
+New borrowing to pay tax cert. settlements                          $700,000
+
+Employee benefit increases (not within dist.control)               $1,368,337
+
+                                                                   $1,004,086
+
+Tax cap increase we are not
+receiving due to debt service formula within tax cap   $623,903
+
+Tax cap allowable increase - actual 1.59%              $729,723
+Tax cap would have been w/o debt svc change                        $1,353,626
+
+Amount we WOULD have had to cut in the budget                      ($349,540)
+without the above extenuating circumstances
+
+                   32
+
+
+
+
+Next Steps:
+
+• Board to provide guidance to the
+  Administration on February 12, 2013
+• Public discussion and establishment
+  of priorities
+• Future budget meetings
+
+                                                         33
+
+
+
+
+                               BOARD MEETING DATES AND
+                               COMMUNITY MEETING DATES
+                               TO DISCUSS 2013-14 BUDGET
+             Meeting                            Date                Time             Location
+
+Board of Education Meeting           Tuesday, February 12     7:30 pm        CPR
+
+Coffee and Conversation with Supt.   Thursday, February 21    7:00-8:30 pm   DL Multi-Purpose*
+
+Board of Education Meeting           Tuesday, March 5         7:30 pm        CPR
+
+Preschool Parents/General Public     Monday, March 18         9:30 am        Irvington Public Library
+
+Board of Education Meeting           Tuesday, March 19        7:30 pm        CPR
+
+Coffee and Conversation with Supt.   Tuesday, April 2         7:00-8:30 pm   Irvington Public Library
+
+PTSA Sponsored General Meeting       Friday, April 5          9:30 am        Irvington Public Library
+
+Board of Education Meeting           Tuesday, April 9         7:30 pm        CPR
+
+Board of Education Meeting           Tuesday, April 23        7:30 PM        CPR
+
+Superintendent to Present to         Monday, May 6            7:30 pm        Village Hall
+Village Trustees
+
+PTSA Sponsored Public Meeting        Thursday, May 16         7:00-8:30 pm   CPR
+
+Irvington Senior Center              TBD                      TBD
+

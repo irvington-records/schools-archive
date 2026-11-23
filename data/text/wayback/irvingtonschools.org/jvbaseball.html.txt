@@ -1,0 +1,23 @@
+SOURCE http://www.irvingtonschools.org:80/jvbaseball.html | DATE 2002-08-27 | TITLE JV Baseball
+
+Varsity/Junior Varsity Sports
+Coach: Jamie Lent
+| DATE | OPPONENT | TIME | 
+| Apr. 3 | at Briarcliff | 4:30 PM | 
+| Apr. 4 | Edgemont at Scenic Hudson #1 | 4:15 PM | 
+| Apr. 8 | at Blind Brook | 4:30 AM | 
+| Apr. 10 | Tuckahoe | 4:15 PM | 
+| Apr. 15 | at Scarsdale | 4:15 PM | 
+| Apr. 16 | Dobbs Ferry | 4:15 PM | 
+| Apr. 19 | Pleasantville | 4:15 PM | 
+| Apr. 24 | at Westlake | 4:30 PM | 
+| Apr. 25 | at White Plains | 4:15 PM | 
+| Apr. 29 | Rye Neck | 4:15 PM | 
+| May 2 | at Valhalla | 4:30 PM | 
+| May 4 | at Hastings | 12:00 PM | 
+| May 6 | Valhalla | 4:15 PM | 
+| May 8 | Hastings at Scenic Hudson #1 | 4:15 PM | 
+| May 10 | at Hastings | 4:30 PM | 
+| May 14 | at Bronxville | 4:30 PM | 
+| May 16 | Bronxville | 4:15 PM | 
+| May 20 | at Rye Neck | 4:30 PM |

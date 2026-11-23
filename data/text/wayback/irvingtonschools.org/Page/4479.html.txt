@@ -1,0 +1,11 @@
+SOURCE https://www.irvingtonschools.org/Page/4479 | DATE 2025-11-13 | TITLE Accessibility Practice / Michele's Test Page
+
+Accessibility Practice
+Page Navigation
+- Creating Accessible Content Checklist for Blackboard WCM Content Editors While creating website content it is crucial to consider accessibility. There are a few basic steps that should be followed in order to assure your content is accessible: 
+  - Add built-in Headings to document and do not skip numbers (e.g. jumping from Heading 1 to Heading 3)
+  - Use built-in List options (e.g. bullets or numbers)
+  - Add Alt Text for links
+  - Add Alt Text for images
+  - Define Table Headers and simplify Tables as much as possible
+Helpful Information Links Blackboard Accessibility Help Site (https://cerc.blackboard.com/domain/102) Blackboard Training Site Files Blackboard Accessibility PowerPoint Handout Click Here for Resources Word Document

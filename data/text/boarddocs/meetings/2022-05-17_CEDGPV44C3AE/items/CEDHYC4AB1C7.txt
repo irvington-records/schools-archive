@@ -1,0 +1,47 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/goto?open&id=CEDHYC4AB1C7 | DATE: 2022-05-17 | TITLE: Regular Meeting | 8.1 Budget Amendment
+
+Meeting: May 17, 2022 - Regular Meeting
+Date: 2022-05-17
+Category: 8. Business Office Matters
+Subject: 8.1 Budget Amendment
+Type: Action
+
+Amount
+			Description
+			Budget Code
+			Notes
+
+			$30,368
+			COVID Supplies
+
+			A1620.450.40.9000
+			PPE
+
+			$25,467.21
+			Custodian OT
+
+			A1620.161.00.0000
+			Extra cleaning particularly cafeterias
+
+			$27,794
+			Firewall
+
+			A1680.200.00.0000
+			Reduced from 22-23 Budget request
+
+			$68,000
+			Devices
+
+			A2630.450.10.6000
+			Reduced from 22-13 Budget request, resulting in deferred purchases due to 1:1 chromebooks for Remote learning
+
+			$80,683
+			Utilities
+
+			A1620.425.40.0000
+			Inflation and prior period adjustments from estimated bills by Con Ed and rate adjustments by NYPA
+
+			$232,312.21
+			Total
+
+As discussed in our budget presentations and other public meetings about our grants for COVID relief, the District submitted the applications for CRRSA and FEMA funds based on the increased expenses for maintaining health and safety within the schools.  Additionally, the District deferred purchases for aged or needed technology items such as desktop, monitor and printer  replacements to ensure all students and staff had devices for remote learning.  Now that the funds have been received by the District, we are adding those funds to the current year budget as we stated publicly that we would do so.  These funds have greatly reduced stress on our operating budget and have allowed the District to maintain all educational programs for our students.

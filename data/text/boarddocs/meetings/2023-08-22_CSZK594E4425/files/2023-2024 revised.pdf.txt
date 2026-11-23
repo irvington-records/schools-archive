@@ -1,0 +1,55 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/pfiles/CURGG343AC38/$file/2023-2024%20revised.pdf | DATE: 2023-08-22 | TITLE: Regular Meeting | 11.19 Amendment of Coach Stipends | 2023-2024 revised.pdf
+
+First NameLast Name     Sport                Level                 Season Step New Group Revised Stipend
+Chris      Barry        Cross Country        Varsity Head           Fall    8      1         $8,410.00
+Michael    McQuillan    Cross Country        Varsity Assistant      Fall    4      1         $5,318.00
+Williams   Jason        Cross Country        Varsity Assistant      Fall    1      1         $5,208.00
+Skyler     Mosenthal    Cross Country        Modified Head          Fall    3      1         $4,875.00
+Berkowitz Michael       Cross Country        Modified Assistant     Fall    1      1         $4,406.00
+Arielle    Rodriguez    Field Hockey         Varsity Head           Fall    2      1         $8,069.00
+Olivia     Evanko       Field Hockey         Modified Head          Fall    4      1         $4,909.00
+ChristopherLombardi     Soccer (Boys)        Varsity Head           Fall    1      1         $8,012.00
+David      Kendall      Soccer (Boys)        Modified Head          Fall    5      1         $4,943.00
+Patrick    DiBenedetto Soccer (Girls)        Varsity Head           Fall    8      1         $8,410.00
+Randi      Myers        Soccer (Girls)       Varsity Assistant      Fall    2      1         $5,245.00
+Jessica    Geller       Soccer (Girls)       Junior Varsity Head    Fall    2      1         $5,648.00
+Suzanne    Carroll      Soccer (Girls)       Modified Head          Fall    4      1         $4,909.00
+Gina       Maher        Tennis (Girls)       Varsity Head           Fall    8      2         $7,273.00
+Blake      Guzman       Tennis (Girls)       Junior Varsity Head    Fall    3      2         $4,892.00
+Carol      Labella      Tennis (Girls)       Modified Head          Fall    8      2         $4,364.00
+Gia        Saul         Volleyball (Girls)   Varsity Head           Fall    2      1         $8,069.00
+Leano      Monsanto     Volleyball (Girls)   Junior Varsity Head    Fall    2      1         $5,648.00
+Luann      Riccardi     Volleyball (Girls)   Modified Head          Fall    5      1         $4,943.00
+Laura      Shaw         Intramurals          Main Street School     Fall    8      3         $5,000.00
+Kate       Becker       Intramurals          Middle School          Fall    8      3         $5,000.00
+Martin     Resendiz     Intramurals          High School            Fall    8      3         $5,000.00
+James      Madison      Bowling              Varsity Head          Winter   2      2         $6,932.00
+Peter      Kunz         Fencing              Varsity Head          Winter   3      2         $6,989.00
+Kaleigh    Kessler      Fencing              Varsity Assistant     Winter   2      2         $4,506.00
+Kevin      Hagen        Ice Hockey           Varsity Head          Winter   8      1         $8,410.00
+Chris      Barry        Winter Track         Varsity Head          Winter   8      1         $8,410.00
+Jason      Williams     Winter Track         Varsity Assistant     Winter   2      1         $5,245.00
+Jennifer   Lentini      Winter Track         Modified Head         Winter   8      1         $5,046.00
+Edgar      Solis        Wrestling            Varsity Head          Winter   5      1         $8,239.00
+Ryan       Duffy        Wrestling            Varsity Assistant     Winter   2      1         $5,245.00
+Rocco      Cipriano     Baseball             Varsity Head          Spring   5      1         $8,239.00
+Zach       Richardson   Baseball             Varsity Assistant     Spring   2      1         $5,245.00
+David      Erosa        Baseball             Junior Varsity Head   Spring   5      1         $5,767.00
+Michael    DiNardo      Baseball             Modified Head         Spring   8      1         $5,046.00
+Carleen    Julien       Flag Football (Girls)Varsity Head          Spring   2      1         $8,069.00
+Kate       Becker       Golf (Boys)          Varsity Head          Spring   8      1         $7,273.00
+Michael    Schaefer     Lacrosse (Boys)      Varsity Head          Spring   7      1         $8,353.00
+Brian      Agosti       Lacrosse (Boys)      Modified Head         Spring   8      1         $5,046.00
+Patrick    DiBenedetto Lacrosse (Girls)      Varsity Head          Spring   8      1         $8,410.00
+Randi      Myers        Lacrosse (Girls)     Varsity Assistant     Spring   3      1         $5,282.00
+Arielle    Rodriguez    Lacrosse (Girls)     Junior Varsity Head   Spring   2      1         $5,648.00
+Olivia     Evanko       Softball             Varsity Assistant     Spring   4      1         $5,318.00
+Gia        Saul         Softball             Modified Head         Spring   2      1         $4,841.00
+Blake      Guzman       Tennis (Boys)        Varsity Head          Spring   3      1         $8,125.00
+Carol      Labella      Tennis (Boys)        Modified Head         Spring   8      2         $4,364.00
+Chris      Barry        Track & Field (Boys)Varsity Head           Spring   8      1         $8,410.00
+Michael    McQuillan    Track & Field (Girls)Varsity Head          Spring   5      1         $8,239.00
+Jason      Williams     Track & Field        Varsity Assistant     Spring   2      1         $5,245.00
+Skyler     Mosenthal    Track & Field        Modified Head         Spring   6      1         $4,978.00
+Luann      Ricciardi    Track & Field        Modified Assistant    Spring   8      1         $4,625.00
+

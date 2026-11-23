@@ -1,0 +1,358 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/pfiles/CFWLXM58B572/$file/Public%20Draft%202022-2025%20Tech%20Plan%20-%20Irvington%20UFSD.pdf | DATE: 2022-07-05 | TITLE: 2022-23 Reorganization Meeting/Regular Meeting | 16.2 Adoption of Irvington Technology Plan 2022-2025 | Public Draft 2022-2025 Tech Plan - Irvington UFSD.pdf
+
+                     Irvington Union Free School District
+                      District Technology Plan 2022-2025
+
+Dr. Kristopher Harrison        Dr. Gail Duffy                   Jason Strumwasser
+Superintendent                 Assistant Superintendent         Director of Technology
+
+
+
+Technology Planning
+This document represents a plan designed to launch both short- and long-range
+planning for technology for the Irvington Union Free School District. The plan is
+based on a framework that was developed to guide the decisions and next steps for
+the District. The plan includes the following:
+   ➢ Theories of Action and Goals, which reflect the current work of the District and
+     the vision for future work and expectations for teaching and learning
+   ➢ The structure for group representation and creation of future technology
+     planning and documentation
+
+Irvington UFSD Technology Goals
+
+
+ ➢ Technology Goal #1: All learners will have equitable access to a range of digital
+   resources appropriate for instructional goals and all learning styles, using an
+   anytime, anywhere, supportive computing environment.
+
+ ➢ Technology Goal #2: All learners will gain and develop foundational technology
+   proficiency, media literacy skills, and the ability to practice digital citizenship
+   across all grade levels and content areas.
+
+ ➢ Technology Goal #3: All staff members will be provided with ongoing
+   differentiated professional development targeted to their individual needs,
+   grade level/content area with a continual focus on emerging and innovative
+   technologies.
+
+
+The design of this document assumes:
+   ➢ The structure of the goals will provide a consistent approach including defined
+      expectations.
+   ➢ The plan will be reviewed and refined as needed, while maintaining
+      District-wide goals.
+   ➢ Each building will use the goals and expectations to create developmentally
+      appropriate curriculum and instruction.
+
+                         Irvington UFSD Strategic Plan Goals
+
+
+
+To achieve its mission and vision, and to provide for the future of its students, the
+Irvington Union Free School District will:
+
+   1.   Provide students with a rigorous, comprehensive, enriched and diversified
+        curricula that will prepare students to achieve their personal best, and will
+        integrate technology in their learning.
+   2. Encourage innovation, creativity and risk taking to inspire a dynamic learning
+      environment.
+   3. Foster the social and emotional growth of all students and promote a culture
+      where students are active participants in society.
+   4. Support educators through targeted professional learning and opportunities
+      for collaboration.
+   5. Strengthen local connections to and ownership of our schools.
+   6. Ensure the fiscal health of the District and provide for a high-quality learning
+        environment.
+
+                              Theories of Action & Goals
+
+
+
+Theory of Action
+If we provide students with rigorous, authentic learning experiences rooted in a
+comprehensive curriculum, then they will acquire the knowledge, skills and
+dispositions of successful 21st Century learners that will prepare them to thrive in a
+rapidly evolving global society.
+
+Goal
+In order to develop successful 21st Century learners that will be prepared to thrive in
+a rapidly evolving global society, the Irvington School District will:
+
+     ➢ Provide students with rigorous authentic, learning experiences.
+     ➢ Develop a comprehensive curriculum that includes:
+         ○ aligned and articulated content
+         ○ defined learning outcomes
+         ○ a balanced and systematic approach to assessment
+         ○ 21st Century skills and dispositions - problem-solver, flexible thinker,
+             collaborative learner, effective communicator, empathetic citizen, and
+             self-reliant, reflective, creative risk-taker.
+
+Theory of Action
+If we value and foster the professional learning and growth of all members of our
+school community, then we will (increase ownership and) build our collective
+capacity to support student success.
+
+Goal
+In order to (increase ownership of our school community and) build our collective
+capacity to support student success, the District will:
+      ➢ Engage all members of our school community in the process of continuous
+          improvement through the articulation of District goals.
+      ➢ Involve all members of the school community in learning and developing
+          the knowledge and skills to support student success.
+      ➢ Provide educators with professional learning designed to support student
+          growth.
+      ➢ Provide all staff with professional learning to develop the skills necessary to
+          meet District needs.
+
+Theory of Action
+If we engage in a systematic approach of classroom observation, collecting data and
+offering feedback to one another, then evidence-based decisions will promote
+reflective practice, inform instructional design and guide professional learning in
+order to continuously improve/advance student achievement.
+
+Goal
+In order to continuously improve student achievement through professional
+learning, reflective practice, and instructional design, the District will:
+     ➢ Engage all K-12 instructional leaders in various approaches to classroom
+       visitation to collect evidence of teaching and learning.
+     ➢ Utilize the Instructional Rounds protocol as a tool to assess our progress
+       toward our relevant theories of action and in addressing instructional goals.
+     ➢ Use the Framework for Teaching as the benchmark for instructional best
+       practices.
+     ➢ Use the Annual Professional Performance Review as one indicator of
+       student performance and teacher effectiveness.
+
+                            Representation and Planning
+
+
+District-Wide Technology Planning Committee (Formerly Steering Committee)
+The mission of the District-Wide Technology Planning Committee is to develop a
+comprehensive technology plan to represent the current needs and expectations of
+the District K-12. This team of District staff will provide oversight of the plan through
+regular review and revision. The team will include administrators, teachers, and
+students and will be representative of grades K-12.
+
+Plan Development
+The team will develop this framework in detail including defining the application of
+standards and expectations for all students and teachers K-12 based on the New York
+State Computer Science and Digital Fluency Learning standards.
+          ➢ Expansion of goals and specific expectations.
+          ➢ Examining and changing technology-related policies and procedures
+            on a continual basis to address the needs of instruction.
+          ➢ Meet monthly to collaborate on determining the technology needs of
+            the District.
+          ➢ Review recommendations made by the Model Schools Instructional
+            Technology Cohort and the Instructional Support team concerning the
+            implementation and use of existing and emerging technologies.
+          ➢ Communicate policies and procedures to staff via grade level and
+            department representatives.
+          ➢ Encourage and support innovative technology use and practices.
+          ➢ Define professional development needs of the District.
+          ➢ Assess the technology needs and concerns of staff.
+          ➢ Encourage and support professional development and training for all
+            employees.
+          ➢ Explore and recommend the implementation of emerging
+            technologies.
+          ➢ Utilize researched-based information in all work related to instructional
+            technology.
+          ➢ Explore and apply to grant opportunities related to technology needs.
+          ➢ Revise the District Technology Plan as needed.
+          ➢ Support the mission, focus, and funding mechanisms for the
+            continuation of the innovation fund that will encourage students and
+            faculty to demonstrate entrepreneurial thinking to expand the District’s
+            instruction and use of technology and expansion of STEAM
+            opportunities K-12.
+
+     NY State Computer Science and Digital Fluency Learning Standards
+
+
+Concept Areas
+  ➢ Impacts of Computing
+        ○ Society
+        ○ Ethics
+        ○ Accessibility
+        ○ Career Paths
+  ➢ Computational Thinking
+      ○ Modeling and Simulation
+      ○ Data Analysis and Visualization
+      ○ Abstract and Decomposition
+      ○ Algorithms and Programming
+  ➢ Networks and Systems Design
+      ○ Hardware & Software
+      ○ Networks & The Internet
+  ➢ Cybersecurity
+      ○ Risks
+      ○ Safeguards
+      ○ Response
+  ➢ Digital Literacy
+       ○ Digital Use
+       ○ Digital Citizenship
+
+                                  Technology Goal #1
+
+All learners will have equitable access to a range of digital resources appropriate for
+instructional goals and all learning styles, using an anytime, anywhere, supportive
+computing environment.
+
+Action Steps
+   ➢ Provide proper training and communication about available resources (to
+      support equitable access)
+   ➢ Continue to provide devices to all stakeholders to ensure equitable access
+      including internet, home-based services, internal connections.
+          ○ This includes replacement cycles for end of life devices and broken
+             devices.
+   ➢ Creation of a 3-year plan to accommodate requests and ensure a replacement
+      cycle is ongoing.
+   ➢ Research to ensure that digital resources and devices are continuing to meet
+      needs, and are aligned to state laws (ex. NYS Education Law 2-d).
+   ➢ Implement appropriate innovative technology (hardware and software) that
+      meet educational goals, and are aligned to state laws (ex. NYS Education Law
+      2-d).
+   ➢ Increase communication/collaboration with community partners (vendors,
+      LHRIC, etc.).
+   ➢ Assess, refine, revise appropriate innovative technology (hardware and
+      software) that meet educational goals, and are aligned to state laws (ex. NYS
+      Education Law 2-d).
+
+Assessment of Progress
+Utilizing surveys including BrightBytes and Google Surveys, to identify the range of
+equitable access to digital resources for all learners. Checkpoints will be scheduled
+over the next three years (ongoing), as evidenced in our action plan. This data will be
+used to make revisions and provide additional resources aligned to NYS Education
+Law 2-d. Formative data will also be collected including student project-based
+learning examples, teacher-created activities, and local assessments. Further, using
+data from various sources including Classlink and anecdotal survey data, we will be
+able to identify if our goal has been met, and make changes to our plan moving
+forward. Additionally, annual surveys of students, staff and community members will
+assess the use of technology and related instruction. Further, technology use will be
+reflected in teacher and Department goal-setting. When gaps are identified with
+home accessibly - whether devices or internet access - the District will bridge the
+gap by providing necessary resources. This data will be tracked annually to inform
+planning. We will know we accomplished this goal when we see a decrease in the
+number of support tickets for issues related to internet connectivity, device reliability,
+and access to resources.
+
+                                  Technology Goal #2
+
+All learners will gain and develop foundational technology proficiency, media literacy
+skills, and the ability to practice digital citizenship across all grade levels and content
+areas.
+
+Action Steps
+   ➢ Identify/Establish District-wide technology planning committee.
+   ➢ Identify standards to be taught/use foundational skills survey.
+   ➢ Identify resources to be used that align to NYS Education Law 2-d, shared list
+      created for teachers.
+   ➢ Complete an updated foundational curriculum technology needs assessment.
+   ➢ Develop a scope/sequence.
+   ➢ Use a method that allows for consistency across grade levels/content areas
+      K-12, but rolls out over a 2-year period of time in small, manageable ways.
+   ➢ Assess, refine, and revise scope and sequence for program and curricular
+      effectiveness.
+
+Assessment of Progress
+Utilizing surveys including BrightBytes and Google Surveys, to identify foundational
+technology proficiency, media literacy skills, and the ability to practice digital
+citizenship across all grade levels and content areas. Checkpoints will be scheduled
+over the next three years (ongoing), as evidenced in our action plan. This data will be
+used to make revisions and provide additional resources aligned to NYS Education
+Law 2-d. Formative data will also be collected including student work samples,
+project-based learning experiences, student and teacher focus groups,
+teacher-created activities, and local assessments. Further, there will be a review of
+work across grade levels and content areas to ensure alignment with NYS Computer
+Science and Digital Fluency Standards. Using data from student assessments, and
+teacher-created assessments, we will be able to determine whether our students
+have met this goal. Additionally, teacher surveys will be administered to identify
+where additional support is needed. We will know that we have met this goal by
+looking at evidence from student work examples. An example of a third-grader
+showing competency might be the use of Google documents,and sharing and
+collaborating in and outside of the classroom. We expect to see students’
+application of these skills in typing proficiency, internet safety, and digital etiquette
+across all grade levels.
+
+                                Technology Goal #3
+
+All staff members will be provided with ongoing differentiated professional
+development targeted to their individual needs, grade level/content area with a
+continual focus on emerging and innovative technologies.
+
+Action Steps
+   ➢ Anticipated hiring of an instructional technology coach (ITC) in 2023-24
+      budget review process.
+   ➢ Using local and regional partnerships for on-demand professional
+      development/scheduled webinars/coaching.
+   ➢ Cohort of teachers/administrators plan to create a curriculum aligned to
+      Educational Technology using previously used needs assessment. Plans will
+      be developed based on results.
+   ➢ Develop a strategic plan that allows for consistency across grade levels/content
+      areas K-12, but rolls out over a 2-year period of time in small, manageable ways.
+   ➢ Assess, refine, and revise professional development offerings, courses, and
+      implementation strategies.
+
+Assessment of Progress
+The Professional Development Plan Committee (PDPC) is committed to making the
+needs of instructional technology a focus of District-wide professional development.
+A needs assessment has been shared with teachers to identify areas of professional
+development needs and to determine the current capacity of our educators. This
+data will inform the planning process over the next three years. Professional
+development will be delivered in a number of ways including:
+
+   ➢ On-demand professional development using vendor partners including LHRIC
+   ➢ 1:1 coaching by our Instructional Support Team
+   ➢ Instructional Technology Coach (ongoing budget request).
+
+As part of the PDPC committee, professional development will be evaluated on an
+ongoing basis through exit surveys, interviews with teachers, and classroom
+observations.
+
+Ongoing evaluation of curriculum development and implementation will occur to
+determine whether an adequate goal is being attained. When such evidence is not
+observed, support will be provided to further develop curricula and offer professional
+learning. We will know when we met this goal based on teacher feedback based on
+the type and variety of professional learning opportunities, and how it met their
+overall professional needs.
+
+
+
+
+Thank you to all the teachers and administrators who participated in our 2021-22
+Technology Planning Steering Committee. It is through your creative thinking and
+
+    collective work that we have been able to develop our framework into a plan that
+    defines how teaching and learning needs to be reflected in our classrooms, if we are
+    to reach our technology goals.
+
+                 2021-22 Technology Planning Steering Committee Membership
+
+
+Dr. Kristopher Harrision     Superintendent of Schools
+
+Dr. Gail Duffy               Assistant Superintendent of Instruction and Human Resources
+
+Jason Strumwasser            Director of Technology, CIO, Data Privacy Officer
+
+Joyce Chapnick               Principal, Main Street School
+
+David Sottile                Principal, Irvington Middle School
+
+Alyssa Fisher                PLTW Teacher, Dows Lane School
+
+Christine Rosner             K-5 Instructional Coach
+
+Rachel Nevins                K-5 Computer Aide
+
+Nicole Fisk                  Teacher, Main Street School
+
+Lisa Gervasi                 Teacher, Main Street School, Instructional Technology Support Team
+
+Diana Cassidy                PLTW Teacher, IMS/IHS, Instructional Technology Support Team
+
+Jacqueline Richardson        Library Media Specialist, IMS/IHS
+
+Karen Bodnar                 PLTW Teacher, IMS
+
+Jeffery Rieck                Teacher, Irvington Middle School
+
+Jackie Grant                 Teacher, Irvington High School
+
+Dympna Kenny                 PTSA Parent Representative
+

@@ -1,0 +1,87 @@
+SOURCE https://www.irvingtonschools.org/cms/lib/NY02208289/Centricity/domain/4/district%20documents/pediatric-5-11_covid19_immunization_screening_and_consent_form_5.21.22.pdf | DATE 2025-07-23 | TITLE pediatric-5-11_covid19_immunization_screening_and_consent_form_5.21.22.pdf
+
+Name of Child: ___________________________________ Date of Birth: ________________ Date: ________________
+
+                                                          Screening Questionnaire
+   1.      Are you between the ages of 5 and 11 years old?                                                         □ Yes      □ No
+   2.      Are you 12 years old or older?                                                                          □ Yes      □ No
+    3.     Are you feeling sick today?                                                                             □ Yes       □ No
+    4.     In the last 10 days, have you had a COVID-19 test because you had symptoms and are still                □ Yes       □ No     □ Unknown
+           awaiting your test results or been told by a health care provider or health department to
+           isolate or quarantine at home due to COVID-19 infection or exposure?
+    5.     Have you been treated with antibody therapy or convalescent plasma for COVID-19 in the past 90          □ Yes       □ No     □ Unknown
+           days (3 months)? If yes, when did you receive the last dose? Date:
+    6.     Have you ever had an immediate allergic reaction (e.g., hives, facial swelling, difficulty breathing,   □ Yes       □ No     □ Unknown
+           anaphylaxis) to any vaccine, injection, or shot or to any component of the COVID-19 vaccine, or a
+           severe allergic reaction (anaphylaxis) to anything?
+    7.     Do you have cancer, leukemia, HIV/AIDS or any other condition that weakens the immune system?            □ Yes      □ No     □ Unknown
+    8.     Do you take any medications that affect your immune system, such as cortisone, prednisone or             □ Yes      □ No    □ Unknown
+           other steroids, anticancer drugs, or have you had any radiation treatments?
+    9.      Do you have a bleeding disorder, a history of blood clots or are you taking a blood thinner?            □ Yes     □ No     □ Unknown
+
+  10.       Do you have a history of myocarditis (inflammation of the heart muscle) or pericarditis                 □ Yes     □ No     □ Unknown
+            (inflammation of the lining around the heart)?
+
+  11.       Do you have a history of MIS-C (Multisystem Inflammatory Syndrome in Children)?                         □ Yes     □ No     □ Unknown
+
+  12.      Have you received a previous dose of the Pfizer, Moderna, or Janssen vaccine?                            □ Yes     □ No
+  13.*     Have you received 2 doses of the Pfizer vaccine with the second dose being at least 5 months ago?        □ Yes     □ No
+  14.      Have you received a previous dose of a COVID-19 vaccine recognized by the WHO but NOT by the             □ Yes     □ No      □ Unknown
+           FDA (AstraZeneca - VAXZEVRIA, Sinovac - CORONAVAC, Serum Institute of India - COVISHIELD,
+           Sinopharm / BIBP, Covaxin, Serum Institute of India - Covovax / Novavax- NUVAXOVID, or CanSino
+           Biologics - Convidecia)?
+ *Question 13 pertains to booster dose eligibility.
+
+
+Emergency Use Authorization
+The FDA has made the COVID-19 vaccine available under an emergency use authorization (EUA). The EUA is used when circumstances exist to justify
+the emergency use of drugs and biological products during an emergency, such as the COVID-19 pandemic. This vaccine has not undergone the same
+type of review as an FDA-approved or cleared product. However, the FDA’s decision to make the vaccine available is based on the totality of scientific
+evidence available, showing that known and potential benefits of the vaccine outweigh the known and potential risks. Please note: FDA approved
+the Pfizer-BioNTech COVID-19 vaccine as a two-dose series in individuals 16 years of age and older. The vaccine continues to be available under an
+EUA for certain populations, including for those individuals 5 through 15 years of age and for the administration of a third dose in the populations
+set forth in the consent section below.
+ Consent
+ I have read, or had explained to me, the information sheet about the COVID-19 vaccination. I understand that if my vaccine requires two doses, I
+ will need to be administered (given) two doses to be considered fully vaccinated. Further, I understand that a booster dose of COVID-19 vaccine
+ may be recommended at least 2 months following the first dose of Janssen vaccine or at least 6 months following the second dose of Pfizer-
+ BioNTech or Moderna COVID-19 vaccine if I am a member of a certain population (e.g., 65 years or older, 18 years old or older and a resident of
+ a long term care facility, 50-64 years with an underlying medical condition, 18-49 years old with an underlying medical condition based on
+ individual benefits and risks, 18-64 years old and at an increased risk for COVID-19 exposure and transmission because of working or living in a
+ high-risk setting and based on individual benefits and risks) to increase my protection.
+ I have had a chance to ask questions which were answered to my satisfaction (and ensured the person named above for whom I am authorized
+ to provide surrogate consent was also given a chance to ask questions). I understand the benefits and risks of the vaccination as described.
+ I request that the COVID-19 vaccination be given to me (or the person named above for whom I am authorized to make this request and provide
+ surrogate consent). I understand there will be no cost to me for this vaccine. I understand that any monies or benefits for administering the
+ vaccine will be assigned and transferred to the vaccinating provider, including benefits/monies from my health plan, Medicare or other third
+ parties who are financially responsible for my medical care. I authorize release of all information needed (including but not limited to medical
+ records, copies of claims and itemized bills) to verify payment and as needed for other public health purposes, including reporting to applicable
+ vaccine registries.
+
+
+
+
+    Recipient/Surrogate/Guardian (Signature)              Date / Time           Print Name                               Relationship to Patient
+    recipient                                                                                                            (if other than recipient)
+
+
+
+    Telephonic Interpreter’s ID #                         Date / Time
+           OR
+
+
+    Signature: Interpreter                                Date/ Time            Print: Interpreter’s Name and Relationship to Patient
+
+                                                   Area Below to be Completed by Vaccinator
+                                                          Which vaccine is the patient receiving today?
+         Vaccine Name                                     Administration                           EUA Fact Sheet Date           Manufacturer & Lot #
+       Pfizer/BioNTech            □ First Dose       □ Second Dose      □ Booster Dose
+       Moderna                    NA                 NA
+       Janssen                    NA
+     Administration Site          □ Left Deltoid           □ Right Deltoid       □    Left Thigh         □    Right Thigh
+     Dosage                                                □ 0.2 ml
+     □ I have provided the patient (and/or parent, guardian or surrogate, as applicable) with information about the vaccine
+     and consent to vaccination was obtained.
+
+     Vaccinator Signature:
+* Use of this form is optional.                                                                                                Updated May 21, 2022

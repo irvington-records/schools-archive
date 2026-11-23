@@ -1,0 +1,671 @@
+SOURCE https://www.irvingtonschools.org/site/handlers/filedownload.ashx?moduleinstanceid=5099&dataid=7208&FileName=Athletic%20Re-Entry%20Plan%20-%20Irvington%20UFSD_10.9.20.pdf | DATE 2022-01-22 | TITLE filedownload.ashx
+
+IRVINGTON UFSD
+               ATHLETIC RE-ENTRY PLAN
+                       2020-21
+
+
+
+This document is subject to change based on future guidance from CDC, NYSDOH, NYSED & NYSPHSAA.
+                               This document was updated on 10/9/20.
+Mission
+Our top priority is to provide the safest possible re-entry to interscholastic athletics for our student-athletes,
+coaches, support staff and spectators. The Irvington Athletic Department will follow standards and guidelines
+provided by the Centers for Disease Control (“CDC”), the New York State Department of Health (“NYSDOH”) and
+local health departments, and the New York State Education Department (“NYSED”), while coordinating with best
+practices established by the New York State Public High School Athletic Association (NYSPHSAA) and the Section
+One COVID-19 Task Force. The Athletic Department will also operate in consultation with our District’s Medical
+Director to ensure proper measures are being considered with respect to our school community.
+
+Goals
+The following goals are meant to provide a safe and enjoyable playing environment for all.
+
+  1.    Establish precautions, based on CDC, NYSDOH, NYSED, and local health department guidance, to help
+        protect against the spread of COVID-19
+
+         1.1.     Signage,* Stanchions and/or Floor and Bleacher Markings
+                  Signs must be posted throughout the site, consistent with and pursuant to DOH requirements
+                  and guidance. Customized signage specific to a workplace or setting may be developed, provided
+                  that such signage is consistent with DOH signage. Signage should be used to remind individuals
+                  to: Cover their nose and mouth with a face covering; Properly store and, when necessary, discard
+                  personal protective equipment (“PPE”); Adhere to physical distancing instructions; Report
+                  symptoms of or exposure to COVID-19, and how they should do so; Follow hand hygiene and
+                  cleaning and disinfection guidelines; Follow appropriate respiratory hygiene and cough etiquette;
+                  Remain home if not feeling well.
+
+         1.2.     Self-monitoring of symptoms (Quarantine if directed by medical professional)
+                1.2.1.   According to the Centers for Disease Control and Prevention (CDC), people with
+                         COVID-19 have had a wide range of symptoms reported – ranging from mild symptoms to
+                         severe illness. Symptoms may appear 2-14 days after exposure to the virus. People with
+                         these symptoms may have COVID-19: ​A temperature of 100 degrees or greater, Feeling
+                         feverish or having chills, Cough, Shortness of breath or difficulty breathing,
+                         Fatigue/feeling of tiredness, Muscle or body aches, Headache, New loss of taste or smell,
+                         Sore throat, Congestion or runny nose, Nausea or vomiting, Diarrhea.
+                1.2.2.   Responsible Parties must implement mandatory health screenings, including temperature
+                         checks, of students, faculty, staff, and, where applicable, contractors, vendors, and
+                         visitors to identify any individuals who may have COVID-19 or who may have been
+                         exposed to the COVID-19 virus.
+                1.2.3.   Screening practices may be performed remotely (e.g. by telephone or electronic survey),
+                         before the employee reports to the site, to the extent possible; or may be performed on
+                         site.
+
+
+
+
+                                                                                                                     1
+ 1.2.4.   Screening should be coordinated to prevent employees from intermingling in close contact
+          with each other prior to completion of the screening.
+ 1.2.5.   At a minimum, screening should be required of all employees and completed using a
+          questionnaire that determines whether the employee has: (a) knowingly been in close or
+          proximate contact in the past 14 days with anyone who has tested positive for COVID-19
+          or who has or had symptoms of COVID-19 in the past 14 days; (b) tested positive for
+          COVID-19 in the past 14 days; and/or (c) has experienced any symptoms of COVID-19 in
+          the past 14 days.
+ 1.2.6.   Refer to CDC and DOH guidance on “Symptoms of Coronavirus” for the most up to date
+          information on symptoms associated with COVID-19.
+ 1.2.7.   Student-athletes, and their immediate household members, must be asymptomatic from
+          illness before participating in practice and competition (if there is doubt stay home).
+ 1.2.8.   Athletes should tell coaches immediately when they are not feeling well.
+ 1.2.9.   Employees must immediately disclose if and when their responses to any of the
+          aforementioned screening questions changes, such as if they begin to experience
+          symptoms, including during or outside work hours.
+1.2.10.   In addition to the screening questionnaire, temperature checks may also be conducted
+          per EEOC or DOH guidelines.
+            NOTE: Responsible parties are ​prohibited​ from keeping records of employee health data
+            (e.g. the specific temperature data of an individual), but are permitted to maintain
+            records that confirm individuals were screened and the result of such screening (e.g.,
+            pass/fail, cleared/not cleared).
+1.2.11.   Responsible Parties must ensure that any personnel performing screening activities,
+          including temperature checks, are appropriately protected from exposure to potentially
+          infectious workers or visitors entering the site. Personnel performing screening activities
+          should be trained by employer-identified individuals who are familiar with CDC, DOH, and
+          OSHA protocols.
+1.2.12.   Screeners should be provided and use PPE, including at a minimum, a face mask, and may
+          include gloves, a gown, and/or a face shield.
+1.2.13.   An individual who screens positive for COVID-19 symptoms must not be allowed to enter
+          the worksite and must be sent home with instructions to contact their healthcare
+          provider for assessment and testing.
+1.2.14.   Responsible Parties should provide such individuals with information on healthcare and
+          testing resources.
+1.2.15.   Responsible Parties must immediately notify the state and local health department about
+          the case if test results are positive for COVID-19.
+1.2.16.   Responsible Parties should refer to DOH’s “Interim Guidance for Public and Private
+          Employees Returning to Work Following COVID-19 Infection or Exposure” regarding
+          protocols and policies for employees seeking to return to work after a suspected or
+          confirmed case of COVID-19 or after the employee had close or proximate contact with a
+          person with COVID-19.
+
+
+
+
+                                                                                                   2
+       1.2.17.   Responsible Parties must designate a central point of contact, which may vary by activity,
+                 location, shift or day, responsible for receiving and attesting to having reviewed all
+                 questionnaires, with such contact also identified as the party for individuals to inform if
+                 they later are experiencing COVID-19- related symptoms, as noted on the questionnaire.
+       1.2.18.   Responsible Parties must designate a site safety monitor whose responsibilities include
+                 continuous compliance with all aspects of the site safety plan.
+       1.2.19.   Identified point of contact should be prepared to receive notifications from individuals of
+                 positive cases and initiate the respective cleaning and disinfection procedures.
+       1.2.20.   To the extent possible, Responsible Parties should maintain a log of every person,
+                 including employees, who may have close contact with other individuals at the site;
+                 excluding patrons/players/spectators and deliveries that are performed with appropriate
+                 PPE or through contactless means. Log should contain contact information, such that all
+                 contacts may be identified, traced and notified in the event an employee is diagnosed
+                 with COVID-19. Responsible Parties must cooperate with state and local health
+                 department contact tracing efforts.
+       1.2.21.   Responsible Parties shall provide and maintain an option for patrons/players/spectators
+                 to provide names and contact information so they can be logged and contacted for
+                 contact tracing, if necessary. Responsible Parties may not mandate that
+                 patrons/players/spectators leave their information and may not require identification
+                 before providing services or deny services if identification is not required.
+       1.2.22.   Look for emergency warning signs* for COVID-19. If someone is showing any of these
+                 signs, seek emergency medical care immediately: Trouble breathing, Persistent pain or
+                 pressure in the chest, New confusion, Inability to wake or stay awake, Bluish lips or face.
+                 *This list is not all possible symptoms. Please call your medical provider for any other
+                 symptoms that are severe or concerning to you.
+       1.2.23.   Call 911 or call ahead to your local emergency facility: Notify the operator that you are
+                 seeking care for someone who has or may have COVID-19.
+
+1.3.      Reduce interpersonal contact and congregation, through methods such as:
+        1.3.1.  Adjusting workplace hours;
+        1.3.2.  Reducing on-site workforce to accommodate social distancing guidelines;
+        1.3.3.  Shifting design (e.g. A/B teams, staggered arrival/departure times)
+        1.3.4.  Batching activities, where possible, to employees can adhere to social distancing;
+        1.3.5.  Developing protocols for the safe use of common office equipment, such as telephones,
+                radios, copiers, printers, registers, etc; and/or
+        1.3.6.  The use of shared sporting equipment that cannot be cleaned and disinfected between
+                individual users should, as much as is possible, (1) avoid touching of shared equipment,
+                (2) clean and disinfect equipment between uses by different individuals, or (3) not use
+                shared equipment at all.
+        1.3.7.  Monitor and control the flow of traffic into the facility or area to ensure adherence to
+                maximum capacity requirements
+
+
+
+
+                                                                                                           3
+1.4.     Proper Hygiene & Respiratory Etiquette (Handwashing, apparel & towels)
+       1.4.1.   Wash hands with soap and warm water for at least 20 seconds.
+       1.4.2.   Provide soap, running water, and disposable paper towels.
+       1.4.3.   If handwashing facilities are not available or practicable, hand sanitizer that contains at
+                least 60% alcohol will be supplied and used.
+       1.4.4.   Students should wear their own appropriate workout clothing (do not share clothing),
+                and individual clothing/towels should be washed and cleaned after every workout
+                immediately upon returning home.
+       1.4.5.   Spitting is prohibited.
+       1.4.6.   Cover coughs and sneezes with a tissue or use the inside of your elbow.
+       1.4.7.   Used tissues should be thrown in the trash and hands washed immediately with soap and
+                water for at least 20 seconds or with sanitizer if soap and water are not available.
+       1.4.8.   Hand sanitizer must be placed throughout the site for use by employees and
+                patrons/players/spectators. It should be placed in convenient locations such as points of
+                entrance/exit.
+       1.4.9.   Prohibit shared food and beverages among employees (e.g. self-serve meals and
+                beverages), encourage employees to bring lunch from home, and reserve adequate space
+                for employees to observe social distancing while eating meals.
+
+1.5.     Protective Equipment
+       1.5.1.   Ensure individuals not participating in sports or recreation activities (e.g. coaches,
+                spectators) wear appropriate face coverings when they are within less than six feet of
+                other individuals, unless a physical barrier is present. Additionally, employees must wear
+                face coverings any time they interact with patrons/players/spectators, regardless of
+                physical distance.
+       1.5.2.   In addition to the necessary PPE as required for certain workplace activities, procure,
+                fashion, or otherwise obtain acceptable face coverings, and provide such coverings to
+                their employees while at work at no cost to the employee. Have an adequate supply of
+                face coverings, masks and other required PPE on hand should an employee need a
+                replacement. Acceptable face coverings include, but are not limited to, cloth (e.g.
+                homemade sewn, quick cut, bandana), surgical masks, N95 respirators, and face shields.
+       1.5.3.   Face coverings must be cleaned or replaced after use and may not be shared. Please
+                consult the CDC guidance for additional information on cloth face coverings and other
+                types of PPE, as well as instructions on use and cleaning.
+       1.5.4.   Allow employees to use their own acceptable face coverings, but do not require
+                employees to supply their own face coverings. Further, this guidance shall not prevent
+                employees from wearing their personally owned additional protective coverings (e.g.
+                surgical masks, N95 respirators, or face shields), or if the Responsible Parties otherwise
+                require employees to wear more protective PPE due to the nature of their work.
+                Employers should comply with all applicable OSHA standards.
+       1.5.5.   Put in place measures to limit the sharing of objects, such as equipment and vehicles, as
+                well as the touching of shared surfaces, such as cash registers; or, require workers to
+
+
+
+                                                                                                         4
+                 wear gloves (trade-appropriate or medical) when in contact with shared objects or
+                 frequently touched surfaces; or, require workers to perform hand hygiene before and
+                 after contact. For activities involving the handling of shared objects (e.g. payment
+                 devices), areas (e.g. pick-up area) and/or surfaces (e.g. doors), ensure that such shared
+                 areas and objects are cleaned and disinfected daily, at a minimum.
+       1.5.6.    Train workers on how to adequately don, doff, clean (as applicable), and discard PPE,
+                 including but not limited to, appropriate face coverings.
+
+1.6.     Tracing and Tracking
+       1.6.1.    Responsible Parties must notify the state and local health department immediately upon
+                 being informed of any positive COVID-19 test result by an employee at their site.
+       1.6.2.    In the case of an individual who interacted at the site testing positive, the Responsible
+                 Parties must cooperate with the state and local health department to trace all contacts in
+                 the work area and notify the state and local health department of all employees,
+                 vendors, and other individuals who entered the site dating back to 48 hours before the
+                 employee began experiencing COVID-19 symptoms or tested positive, whichever is
+                 earlier, but maintain confidentiality as required by federal and state law and regulations.
+       1.6.3.    State and local health departments will implement monitoring and movement
+                 restrictions of infected or exposed persons including home isolation or quarantine.
+       1.6.4.    Individuals who are alerted that they have come into close or proximate contact with a
+                 person with COVID-19, and have been alerted via tracing, tracking or other mechanism,
+                 are required to self-report to their employer at the time of alert and shall follow the
+                 protocol referenced above.
+
+1.7.     Pods
+       1.7.1.    Maintain “pods” of the same athletes and coaches for 80% of the practice, and combine
+                 pods for the last 20% of practice when necessary for team related activities. (80/20 Rule)
+       1.7.2.    If possible, pods must train and rotate together during conditioning and individual skill
+                 work during practices to ensure more limited exposure if someone develops an infection.
+
+1.8.     Daily pre-practice/game wellness checks
+       1.8.1.    Practices are ​closed ​to all non-essential personnel.
+       1.8.2.    Responsible Parties must implement mandatory daily health screening practices,
+                 including temperature checks, of students, faculty, staff, and, where applicable,
+                 contractors, vendors, and visitors to identify any individuals who may have COVID-19 or
+                 who may have been exposed to the COVID-19 virus. Specifically, all individuals must have
+                 their temperature checked each day.
+       1.8.3.    If an individual presents a temperature of greater than 100.0°F, the individual must be
+                 denied entry into the facility and sent directly to a dedicated area prior to being picked
+                 up or otherwise sent home.
+       1.8.4.    Coaches and student-athletes must complete mandatory health screenings prior to each
+                 practice or event. This includes temperature checks.
+
+
+
+                                                                                                             5
+         1.8.5.   Wellness checks will utilize district approved screening questions.
+         1.8.6.   Coaches will be screened using a district approved app one-hour prior to practice.
+         1.8.7.   Coaches must conduct ​wellness checks​ of each athlete prior to the day's practice or
+                  event.
+         1.8.8.   Arrival and departure times and locations will be staggered by the team to limit contact
+                  between groups and guardians as much as possible.
+         1.8.9.   Coaches will designate a predetermined area at least 50-feet from the practice site for
+                  students screenings prior to practice/games.
+
+ 1.9.      Athletic Training Services/Medkits
+         1.9.1.   Weather permitted, all Athletic Training services will be provided outside of the side
+                  entrance to the TG.
+         1.9.2.   All athletes must sign-in to the athletic training room using the QR code posted.
+         1.9.3.   This sign-in will serve as the order as to who will be seen.
+         1.9.4.   No athletes will be seen unless they have completed the sign-in form.
+         1.9.5.   All athletes and staff must wear a face covering/mask while signing in, waiting for
+                  services, and receiving services.
+         1.9.6.   Athletes must sanitize hands before entering the Athletic Training Room (ATR) and/or
+                  receiving services.
+         1.9.7.   Bags, food and equipment will not be permitted in the ATR.
+         1.9.8.   Certified Athletic Trainer (ATC) will notify/designate athletes to a training table to sit on
+                  depending on treatment needed.
+         1.9.9.   ATR must be thoroughly cleaned each night.
+        1.9.10.   Tables/chairs, equipment, etc. will be wiped down between each treatment/use.
+        1.9.11.   Treatments will be limited to: taping deemed necessary by the ATC, evaluations of new
+                  injuries, and first aid.
+        1.9.12.   Ice bags will be distributed by Athletic Trainer.
+        1.9.13.   Coaches MUST be responsible for their own medical kits. Coaches should be the only
+                  person going into the medical kits to get first aid items.
+        1.9.14.   Water jugs and/or water bottles will not be provided to teams for practice.
+        1.9.15.   Every athlete will be responsible for bringing their own water bottles to practices and
+                  games (we recommend at least one gallon of water).
+        1.9.16.   ATC will have additional water sources to refill water containers.
+        1.9.17.   Water containers must be clearly labeled with the athlete's name.
+        1.9.18.   Medkits will contain additional PPE, gloves, masks, & sanitation products.
+        1.9.19.   Access to medkits will be restricted to the coaching staff, unless it is a medical
+                  emergency.
+
+1.10.      Isolation & notification system for symptomatic participants
+        1.10.1.    Isolate athlete(s) from practice facility.
+        1.10.2.    Contact parent/guardian
+        1.10.3.    Outdoor participants must return home or remain approximately 50ft from the practice
+                   area if awaiting parent/guardian pickup.
+
+
+
+                                                                                                                  6
+        1.10.4.    Indoor participants must return home; Weather permitting, exit the building or enter an
+                   isolation room while under a coach’s supervision, while awaiting parent/guardian pickup.
+        1.10.5.    Refer the student-athlete to their primary care physician for guidance.
+        1.10.6.    Immediately notify Athletic Trainer and Athletic Director
+
+1.11.    Positive Tests
+     1.11.1.     When a student or personnel reports to their school or administration a positive
+                 COVID-19 test. The school should immediately call 914-813-5110 during business hours,
+                 or 914-813-5100 evenings and weekends, to initiate the contact tracing.
+     1.11.2.     Identify potential at-risk persons who may have had close contact with the positive
+                 COVID 19 individual (close contact is defined in most literature/protocols as exposure to
+                 a person within 6 feet for >15 minutes with or without a mask).
+     1.11.3.     Document those individuals and refer them to their primary care physician.
+     1.11.4.     Contact the Director of Athletics and make them aware of the diagnosis.
+     1.11.5.     At the discretion of the primary care physician, individuals who are deemed "at risk" may
+                 be required to self-isolate and monitor symptoms for 14 days AND/OR obtain a COVID-19
+                 test for verification.
+     1.11.6.     Those who test positive and develop symptoms in isolation, should then monitor
+                 symptoms for 10 days after onset and be fever free for 24 hours before returning to
+                 school or sport.
+     1.11.7.     Those who test positive and do not develop symptoms can return after 10 days from the
+                 initial positive test with a Doctor’s clearance note.
+     1.11.8.     Provide for the cleaning and disinfection of exposed areas, with such cleaning to include,
+                 at a minimum, all heavy transit areas and high-touch surfaces (e.g. shared equipment,
+                 cash registers, machines, vehicles, handrails, toilets).
+     1.11.9.     Close off areas used by the person suspected or confirmed to have COVID-19.
+    1.11.10.     Open outside doors and windows to increase air circulation in the area.
+    1.11.11.     Wait 24 hours before you clean and disinfect. If 24 hours is not feasible, wait as long as
+                 possible.
+    1.11.12.     Once the area has been appropriately cleaned and disinfected, it can be reopened for
+                 use.
+
+1.12.      Return to Play
+        1.12.1.   Clearance from a medical professional is required prior to returning to play.
+        1.12.2.   The athletic department will consult with the District's Medical Director, on a
+                  case-by-case basis to determine appropriate re-entry to athletic participation. ​The
+                  Graduated Return to Play Protocol​ may be used to return student-athletes to
+                  participation following a positive COVID-19 diagnosis.
+
+1.13.      Use of face covering
+        1.13.1.    Individuals ​must​ ​wear acceptable face coverings, unless players are unable to tolerate a
+                   face covering for the physical activity (e.g. practicing, playing)
+
+
+
+                                                                                                                 7
+        1.13.2.    Coaches, trainers, and other individuals who are not directly engaged in physical activity
+                   are ​required​ to wear a face covering. (i.e. Game day personnel, Spectators,etc.)
+        1.13.3.    Face coverings must be worn by athletes when not physically active, i.e. bench, sideline,
+                   huddles, halftime, or walking to/from source of transportation.
+        1.13.4.    Cloth face coverings are permitted. (As per ​CDC​, two or more layers)
+        1.13.5.    Bandanas, gaiters & vented masks are ​PROHIBITED​.
+        1.13.6.    People wearing face coverings should be reminded to not touch the face covering and to
+                   wash their hands frequently.
+        1.13.7.    How to Safely Wear and Take Off a Cloth Face Covering
+
+1.14.      Personal/Shared equipment (Limitations/Restrictions)
+        1.14.1.   Athletes are expected to provide and label their own water bottles & face coverings.
+        1.14.2.   The use of shared sporting equipment that cannot be cleaned and disinfected between
+                  individual users should, as much as is possible, (1) avoid touching of shared equipment,
+                  (2) clean and disinfect equipment between uses by different individuals, or (3) not use
+                  shared equipment at all.
+        1.14.3.   All shared athletic equipment, including balls, bats, helmets, protective eyewear and
+                  goalie/catcher’s gear must be cleaned between each use, and prior to the next workout.
+        1.14.4.   Other equipment, such as hockey helmets/pads, wrestling ear guards, football
+                  helmets/other pads, lacrosse helmets/ pads/gloves/eyewear must be worn by only one
+                  individual and not shared.
+
+1.15.      Locker Room & Weight Room Facilities (Limitations/Restrictions)
+        1.15.1.   Access to the locker rooms and the weight room are currently ​PROHIBITED​.
+        1.15.2.   Use of these facilities will be reevaluated after initial re-entry.
+
+1.16.      Cleaning & disinfection of athletic equipment/facilities
+        1.16.1.   Ensure adherence to hygiene and cleaning and disinfection requirements as advised by
+                  the CDC, DOH & District re-entry plan. Refer to DOH’s “Interim Guidance for Cleaning and
+                  Disinfection of Public and Private Facilities for COVID-19” for detailed instructions on how
+                  to clean and disinfect facilities. Also refer to the Department of Environmental Control
+                  “DEC” list of products registered in New York State and identified by the Environmental
+                  Protection Agency (“EPA”) as effective against COVID-19.
+        1.16.2.   If cleaning or disinfection products or the act of cleaning or disinfection causes safety
+                  hazards or degrades the material, equipment or machinery, ensure that hand hygiene
+                  stations are put in place between use and/or provide a supply of disposable gloves
+                  and/or limitations on the number of employees and patrons/players using such
+                  equipment or machinery.
+        1.16.3.   District will provide appropriate cleaning supplies to coaches.
+        1.16.4.   Maintain cleaning logs that include the date, time, and scope of cleaning and disinfection.
+        1.16.5.   Appropriate clothing/shoes should be worn at all times in the weight room to minimize
+                  sweat from transmitting onto equipment/surfaces.
+
+
+
+                                                                                                            8
+            1.16.6.    Any equipment such as weight benches, athletic pads, etc. having holes with exposed
+                       foam should be covered.
+
+2.   Educate All Involved Parties on Protocols
+
+     2.1.       Coaches and/or Responsible Parties
+             2.1.1.   Will be required to complete free ​COVID-19 for Coaches and Administrators​ course.
+             2.1.2.   All Responsible Parties must affirm that they have reviewed and understand the
+                      state-issued industry guidelines, and that they will adhere to them.
+             2.1.3.   Responsible Parties should, in partnership with community organizations, leagues, etc.,
+                      develop a communications plan for employees and patrons/players/spectators that
+                      includes applicable instructions, training, signage, and a consistent means to provide
+                      employees with information. Responsible Parties may consider developing webpages,
+                      text and email groups, and social media.
+             2.1.4.   Responsible Parties should encourage patrons/players/spectators to adhere to CDC and
+                      DOH guidance regarding the use of PPE, specifically face coverings when a social distance
+                      of six feet cannot be maintained, through verbal communication and signage.
+             2.1.5.   Responsible Parties should post signage inside and outside of the retail location to
+                      remind personnel and patrons/players/spectators to adhere to proper hygiene, social
+                      distancing rules, appropriate use of PPE, and cleaning and disinfecting protocols.
+             2.1.6.   Will review guidance & protocols for practice and games during Pre-season Meetings
+             2.1.7.   Will be supplied with NYSPHSAA Sport specific guidance and considerations.
+             2.1.8.   Will communicate guidelines in a clear and consistent manner to students and parents.
+             2.1.9.   Will consider conducting workouts in “pods” of the same students, always training and
+                      rotating together in practice, to ensure more limited exposure if someone develops an
+                      infection.
+            2.1.10.   Will keep accurate records of those athletes and staff who attend each practice and
+                      game/contest in case contact tracing is needed.
+            2.1.11.   Should limit game day team/ roster sizes for social distancing purposes.
+            2.1.12.   Should bring their own water bottle(s) and follow established guidelines for hydration.
+
+     2.2.      Student-athlete
+             2.2.1.   Will review expectations & protocols during pre-season meetings with their coach.
+             2.2.2.   Must ensure a distance of at least six feet is maintained among individuals at all times,
+                      whether indoor or outdoor, unless safety or the core activity (e.g. practicing, playing)
+                      requires a shorter distance. If a shorter distance is required, individuals must wear
+                      acceptable face coverings, unless players are unable to tolerate a face covering for the
+                      physical activity (e.g. practicing, playing);
+             2.2.3.   Wear acceptable face coverings for COVID-19 include but are not limited to cloth-based
+                      face coverings and disposable masks that cover both the mouth and nose.
+             2.2.4.   Bandanas, gaiters & vented masks are ​PROHIBITED​.
+             2.2.5.   Will tell coaches immediately when they are not feeling well.
+
+
+
+                                                                                                                  9
+        2.2.6.    Will refrain from hugging, high fives, shaking hands, or fist bumps.
+        2.2.7.    Will be responsible for their own supplies.
+        2.2.8.    Will wear their own appropriate workout clothing and not share clothing.
+        2.2.9.    Should wash and clean their Individual clothing/towels after every workout.
+       2.2.10.    Will be encouraged to keep their mouth guards in their mouth throughout the
+                  competition/ practice, however, if this is not possible, proper disinfection of the mouth
+                  guard should be performed prior to reinsertion.
+       2.2.11.    Will wash or disinfect hands before doing so.
+       2.2.12.    Will be advised to bring and use their own water bottle.
+       2.2.13.    Should drink enough fluid before, during and after practice and competition.
+       2.2.14.    Should follow established guidelines for hydration. Please see National Athletic Trainer
+                  Association (NATA) Resource: Healthy Hydration For Young Athletes
+       2.2.15.    Are encouraged to shower at home as quickly as possible after practice and games.
+
+2.3.      Chaperones and/or Responsible Parties
+        2.3.1.  Will complete a training to review guidance & protocols during pre-season meetings
+        2.3.2.  All Responsible Parties must affirm that they have reviewed and understand the
+                state-issued industry guidelines, and that they will adhere to them.
+        2.3.3.  Responsible Parties should, in partnership with community organizations, leagues, etc.,
+                develop a communications plan for employees and patrons/players/spectators that
+                includes applicable instructions, training, signage, and a consistent means to provide
+                employees with information. Responsible Parties may consider developing webpages,
+                text and email groups, and social media.
+        2.3.4.  Responsible Parties should encourage patrons/players/spectators to adhere to CDC and
+                DOH guidance regarding the use of PPE, specifically face coverings when a social distance
+                of six feet cannot be maintained, through verbal communication and signage.
+        2.3.5.  Responsible Parties should post signage inside and outside of the retail location to
+                remind personnel and patrons/players/spectators to adhere to proper hygiene, social
+                distancing rules, appropriate use of PPE, and cleaning and disinfecting protocols.
+        2.3.6.  Will screen gate list spectators using district approved questions and provide
+                temperature checks prior to admittance.
+
+2.4.      Officials
+        2.4.1.    Will contact school athletic administration leading up to the contest about (1) school
+                  expectations, (2) to determine where you should enter the host school’s property and (3)
+                  to obtain other information that you or the school may want to communicate to each
+                  other prior to your arrival.
+        2.4.2.    Will designate one crew member to contact the host school and provide information to
+                  other members of the crew.
+        2.4.3.    Will use hand sanitizer between periods and during time outs; officials are encouraged to
+                  bring their own in the event none is available.
+        2.4.4.    Will come to contests fully dressed in uniform.
+
+
+
+                                                                                                          10
+            2.4.5.    Will be screened prior to arrival.
+
+     2.5.     Parents/Spectators
+            2.5.1.   Must maintain six feet of physical distance between individuals and/or family/household
+                     units at all times and all spectators.
+            2.5.2.   Must wear face coverings when they are in common areas and situations where six feet
+                     of distancing is not able to be maintained, so long as they are over the age of two and
+                     medically able to tolerate such covering.
+            2.5.3.   Will be limited to no more than two spectators per player as per accordance with
+                     NYSDOH guidance.
+            2.5.4.   Will provide personal items to children and clearly label them.
+            2.5.5.   Will disinfect your student’s personal equipment after each game or practice.
+
+3.   Safely Reintroduce Student-Athletes to Physical Activity
+
+     3.1.   Implement National, State & Section Guidance
+          3.1.1.   NYS DOH ​Interim Guidance for In-Person Instruction​ (August 26th, 2020)
+          3.1.2.   NYS DOH ​Interim Guidance for Sports & Recreation​ (August 15th, 2020)
+          3.1.3.   NYSPHSAA ​Return to Interscholastic Athletics & Considerations for Fall Sports
+     3.2.   Additional Resources
+          3.2.1.   CDC ​Cleaning & Disinfecting Your Facility
+          3.2.2.   NYS DOH ​Stop The Spread​ Poster
+
+     3.3.     Training modifications
+            3.3.1.    Pods will be developed for practices by position, specialty or other means and
+                      determined by coaching staff.)
+            3.3.2.    Use of indoor facilities during inclement weather will be initially prohibited.*
+            3.3.3.    Modify layouts so that individuals are at least six feet apart in all directions, to the
+                      greatest extent possible, particularly during field exercises, drills, and other practice
+                      activities.
+            3.3.4.    Virtual Chalk Talks/remote conditioning sessions will be utilized in the event of a practice
+                      cancellation due to inclement weather.
+            3.3.5.    Utilize guidance as per NYSPHSAA ​Return to Interscholastic Athletics & Considerations for
+                      Fall Sports
+            3.3.6.    First week of practice shall not exceed an hour and fifteen minutes (1:15).
+            3.3.7.    Starting in week two, practices will resume standard practice lengths as determined by
+                      coaching staff, not to exceed 2 hours.
+            3.3.8.    Practice structures will incorporate the 80/20 Rule. (80% or more of practice time will be
+                      facilitated as individual/pod activities, and if necessary, up to 20% of the remaining time
+                      will be dedicated to full team activities.)
+            3.3.9.    Gradual activity progressions (Frequency, Intensity, Time & Type; 50, 30, 20, 10 Rule)
+
+
+
+
+                                                                                                               11
+            3.3.10.    Stagger conditioning formations (Avoid single-file lines)
+
+               *If inclement weather is prolonged we will reevaluate the use of Gyms for practices
+
+4.   Safely Return to Interscholastic Competitions
+
+     4.1.      Opponent Screening
+             4.1.1.  Confirm with competing districts of completed screening prior to arrival
+             4.1.2.  Athletic office will provide visiting schools with district protocols
+             4.1.3.  Screen all spectators prior to entering
+
+     4.2.      Sidelines
+             4.2.1.    Essential Personnel Only (Coaches, Players, ATC, Event Staff)
+             4.2.2.    Masks worn by all essential personnel at all times.
+             4.2.3.    Essential personnel must maintain 6 ft of social distancing.
+             4.2.4.    Personal and shared equipment bags must be spaced 6 feet apart.
+             4.2.5.    Benches will be marked in accordance with social distancing guidelines.
+             4.2.6.    Limit the table to essential personnel, including the home team scorer and timer. Visiting
+                       team personnel (scorer, statisticians, etc.) are not deemed essential and may need to find
+                       an alternative location. Space availability at the table is a variable in determining the
+                       number of individuals permitted at the officials’ table and observing social distancing
+                       requirements.
+
+     4.3.      Pre, Post & In game sportsmanship practices
+             4.3.1.    Acknowledge opponents from at least 6 feet away prior to and/or after competition.
+             4.3.2.    No hugging, hand shaking, or fist bumps for support/encouragement
+
+     4.4.      Event Management
+             4.4.1.   Adhere to the NYS DOH gathering requirements. (Including essential personnel)
+             4.4.2.   Ensure that for any indoor sport or recreational activity, capacity is limited to no more
+                      than 50% of the maximum occupancy for a particular area as set by the certificate of
+                      occupancy, inclusive of employees and patrons/players/spectators.
+             4.4.3.   Ensure spectators maintain 6 feet of distance by adhering to ground and/or seating
+                      markings, and/or other signage. Post signage and distance markers denoting spaces of six
+                      feet in all commonly used areas indoors for employees and any areas in which lines are
+                      commonly formed or people may congregate (e.g. clock in/out stations, health screening
+                      stations, break rooms, equipment checkout areas, cash register areas, locker rooms,
+                      etc.).
+             4.4.4.   Put in place measures to reduce bi-directional foot traffic of patrons/players/spectators
+                      walking through the space using barriers, tape, or signs with arrows on sidewalks, walking
+                      paths, aisles, or hallways.
+
+
+
+
+                                                                                                             12
+        4.4.5.   Ensure that, among all spectators, no individual group exceeds the gathering limit that is
+                 currently in place for the region.
+        4.4.6.   Facilitate appropriate gathering size through the use of signage and/or staff to ensure
+                 groups are aware of and adhere to guidelines.
+        4.4.7.   Families may sit together in designated areas.
+        4.4.8.   For sports events (e.g. games), spectators are limited to two spectators per player.
+        4.4.9.   Spectators maintain six feet of physical distance between individuals and/or
+                 family/household units at all times and all spectators must wear face coverings when
+                 they are in common areas and situations where six feet of distancing is not able to be
+                 maintained, so long as they are over the age of two and medically able to tolerate such
+                 covering.
+       4.4.10.   Reserve adequate space for employees and patrons/players/spectators to move within
+                 the facility or area, considering appropriate social distancing. This may include, but is not
+                 limited to, creating one-way lines, rearranging traffic flow, or otherwise using alternating
+                 cash registers/appointment desks.
+       4.4.11.   Prohibit the use of small spaces (e.g. behind cash registers, equipment checkout areas) by
+                 more than one individual at a time, unless all individuals in such space at the same time
+                 are wearing acceptable face coverings. However, even with face coverings in use,
+                 occupancy must not exceed 50% of the maximum capacity of the space or vehicle, unless
+                 it is designed for use by a single occupant.
+       4.4.12.   Adhere to DOH’s “Interim Guidance for Food Services during the COVID-19 Public Health
+                 Emergency” and all other applicable state, local and/or region-issued guidance for and
+                 beverage service on the premise of the facility.
+       4.4.13.   Adhere to retail guidelines applicable to the region for any retail services activities.
+       4.4.14.   Department will provide a ​google form​ link to coaches for the purpose of identifying two
+                 spectators per players who will be added to a ​guest lists the night before each event.
+       4.4.15.   Will implement mandatory health screenings, including temperature checks, of all
+                 spectators using district approved questions to identify any individuals who may have
+                 COVID-19 or who may have been exposed to the COVID-19 virus.
+       4.4.16.   Ensure facilities have been properly sanitized and have hand sanitizer and disposable
+                 masks readily available for practices and contests.
+       4.4.17.   Clean and disinfect frequently touched surfaces and equipment including balls.
+
+4.5.      Controlled entry & exiting of facilities
+        4.5.1.   Designate single point of entry for home and away spectators.
+        4.5.2.   Spectators must exit the venue immediately following the contest.
+        4.5.3.   Congregating in common areas is strictly prohibited.
+        4.5.4.   Spectators will check-in at a designated location with an event chaperone.
+        4.5.5.   Chaperones will check-in spectators using a gate list provided by the athletic department.
+        4.5.6.   Re-entry to athletic events is prohibited.
+        4.5.7.   Designate and mark Home and Away sections & entry points.
+
+
+
+
+                                                                                                          13
+        4.5.8.    Ensure that employees at check-in or appointment desks maintain six feet from other
+                  employees and patrons/players/spectators, unless there is a physical barrier between the
+                  employee and other individual(s). Any time employees (e.g. cashiers, ticket takers, etc.)
+                  interact with patrons/players/spectators (e.g. operating appointment desks), they must
+                  wear acceptable face coverings, regardless of physical distance. If used, physical barriers
+                  should be put in place in accordance with OSHA guidelines.
+        4.5.9.    Implement touchless payment options or pay ahead or reserve options to be used by
+                  patrons/players, when available. Minimize handling of cash, credit cards, reward cards,
+                  and mobile devices, where possible.
+
+4.6.      Restrooms
+        4.6.1.   Ensure regular cleaning and disinfection of restrooms. Restrooms should be cleaned and
+                 disinfected more often depending on frequency of use.
+        4.6.2.   Ensure distancing rules are adhered to by using signage, occupied markers, or other
+                 methods to reduce restroom capacity where feasible.
+
+4.7.       Transportation
+        4.7.1.    District will conduct transportation activities that are consistent with state- issued public
+                  transit guidance and NYSED School Reopening guidelines.
+        4.7.2.    Students and coaches will follow screening procedures prior to entering the bus.
+        4.7.3.    Coaches will conduct screening of all athletes prior to entry.
+        4.7.4.    Athletes will maintain 6ft of distance and wear a mask while awaiting entry to the bus.
+        4.7.5.    Athletes presenting symptoms or a temperature of 100˚ or above will be denied entry to
+                  the bus. (Coach will follow previously mentioned screening procedures)
+        4.7.6.    Coaches will maintain a passenger log for each run to assist with contact tracing when
+                  needed. (FamilyID Attendance and Screening Feature)
+        4.7.7.    All students and school staff must wear acceptable face coverings at all times on school
+                  buses (e.g., entering, exiting, and seated).
+        4.7.8.    Spare, clean cloth face coverings will be available to ensure all students wear face
+                  coverings on the school bus.
+        4.7.9.    Maintain appropriate social distancing to the extent practicable.
+       4.7.10.    Members of the same household may be seated in the same seat.
+       4.7.11.    When possible, seating will be arranged to provide social distance on the bus.
+       4.7.12.    Students will be loaded from the back to the front of the bus.
+       4.7.13.    Students will unload from front to the back of the bus.
+       4.7.14.    Students who are able, will be required to wear masks to the extent practicable;
+                  however, students whose physical or mental health would be impaired are not required
+                  to wear a face covering, and will be appropriately socially distanced at the rear of the
+                  bus. ​(This decision will require medical documentation and approval by the District
+                  Medical Director.)
+       4.7.15.    When temperatures are above 45 degrees Fahrenheit, drivers will increase bus
+                  ventilation by opening the top hatches of buses or opening windows
+
+
+
+                                                                                                             14
+            4.7.16.   Students and school staff remain at least 6 feet apart while waiting for transportation,
+
+5.   Provide Social/Emotional Support
+
+     5.1.      Coaches
+             5.1.1.  Preseason training with IHS & IMS School Psychologists.
+             5.1.2.  Daily check-ins (Coaches w/Coaches, AD, Trainer, etc.)
+
+     5.2.      Student-Athletes
+             5.2.1.   Coaches will discuss and implement school psychologists social and emotional
+                      recommendations.
+             5.2.2.   Daily check-in at the start of practices.
+
+
+
+
+                                                                                                                 15

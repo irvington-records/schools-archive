@@ -1,0 +1,8 @@
+SOURCE https://www.myschoolbucks.com/ver2/getmain.action?clientKey=&requestAction=home | DATE unknown | TITLE MySchoolBucks
+
+Creating possibilities for every student
+								From the cafeteria to the classroom, pay for your student's fees from your phone or computer
+									Experience the convenience of easily managing all of your student's fees in one place
+									Access your account anytime, anywhere with the MySchooBucks app
+									Keeping your family's personal & financial information secure is our top priority
+									Our dedicated support team is available to assist with any questions you may have

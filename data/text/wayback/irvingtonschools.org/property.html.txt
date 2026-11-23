@@ -1,0 +1,42 @@
+SOURCE http://irvingtonschools.org:80/property.html | DATE 2005-02-13 | TITLE property.html
+
+<META NAME="Generator" CONTENT="Microsoft Word 97">
+<TITLE>Sale/Disposal of Property Policy</TITLE>
+</HEAD>
+<BODY BGCOLOR="008080" Text="ffffff" LINK="#0000ff" VLINK="#800080">
+<B><CENTER><h1>IRVINGTON UNION FREE SCHOOL DISTRICT</h1></CENTER></P>
+</B></FONT><P ALIGN="CENTER"><B>Irvington, N.Y. 10533</B></P>
+<CENTER><IMG SRC="graphics/bar7.gif"></CENTER>
+<BR>
+<BR>
+<FONT SIZE=4><B><P ALIGN="CENTER">SALE AND DISPOSAL OF DISTRICT PROPERTY</P></FONT></B>
+<P ALIGN="CENTER">&nbsp;</P>
+<h3>
+<P><U>Sale of School Property</U></P>
+<P>No school property shall be sold without prior approval of the Board of Education.  However, the responsibility for such sales may be delegated.  The net proceeds from the sale of school property shall be deposited in the General Fund, and full records of all transactions shall be maintained and reported to the Board of Education following generally accepted accounting procedures.</P>
+<BR>
+<P><U>Disposal of District Personal Property</U></P>
+<P><U>Equipment</U></P>
+<P>School district equipment that is obsolete, surplus, or unusable by the District shall be disposed of in such a manner that is advantageous to the District.</P>
+<P>The Superintendent or designee will be responsible for selling the equipment in such a way so as to maximize the net proceeds of sale, which may include a bona fide public sale preceded by adequate public notice.  If it is determined that reasonable attempts to dispose of the equipment have been made and such attempts have not produced an adequate return, the Superintendent or his/her designee may dispose of the equipment in any manner which he/she deems appropriate.</P>
+<BR>
+<P><U>Textbooks</U></P>
+<P>Textbooks may lose their value to the educational program because of changes in the curriculum or they contain outdated material and/or are in poor condition.</P>
+<P>If textbooks are no longer useful or usable, the procedures for disposal shall adhere to the following order of preference:<P>
+<UL><OL>
+<LI>Sale of textbooks.  If reasonable attempts to dispose of surplus textbooks fail to produce monetary return to the School District; then</LI>
+<LI>Donation to charitable organizations; or</LI>
+<LI>Disposal as trash.</LI>
+
+</h3>
+<BR>
+<BR>
+<CENTER><A HREF="index.html"><IMG Border=0 SRC="graphics/pencil.gif"></A><h2>Nationally Recognized</h2>
+<h1>Schools of Excellence</h1>
+
+
+<CENTER><IMG SRC="graphics/plasma.gif"></CENTER>
+<BR>
+
+</BODY>
+</HTML>

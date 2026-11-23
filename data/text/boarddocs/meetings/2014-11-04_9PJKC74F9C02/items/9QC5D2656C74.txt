@@ -1,0 +1,23 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/goto?open&id=9QC5D2656C74 | DATE: 2014-11-04 | TITLE: Regular Meeting | 11.4 Re-Appropriation of 2014-15 Budget
+
+Meeting: Nov 04, 2014 - Regular Meeting
+Date: 2014-11-04
+Category: 11. Business Office Matters
+Subject: 11.4 Re-Appropriation of 2014-15 Budget
+Type: Action (Consent)
+
+Re-Appropriation of 2014-15 Budget
+
+					Debit A510 Estimated Revenue
+
+					    Revenue Code A2770 Misc. Revenue
+
+				$130,000.00
+
+					Credit A960 Appropriations
+
+					    Expense Code A2630.200 (Technology Equipment)
+
+				$130,000.00
+
+	To account for receipt of funds from the Village of Irvington per Inter-Municipal Cooperation Agreement approved by the Board of Education on October 14, 2014.  Revenue will be used to purchase equipment as outlined in the agreement.

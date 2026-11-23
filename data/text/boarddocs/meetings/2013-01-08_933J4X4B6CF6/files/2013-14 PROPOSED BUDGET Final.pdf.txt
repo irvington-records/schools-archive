@@ -1,0 +1,777 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/pfiles/93RM45593B7B/$file/2013-14%20PROPOSED%20BUDGET%20Final.pdf | DATE: 2013-01-08 | TITLE: Regular Meeting - *7:30 p.m. | 10.1 2013-14 Budget Discussion: Business Office, Debt Service, Insurance, Buildings and Grounds, Transportation and Interfund Transfers. | 2013-14 PROPOSED BUDGET Final.pdf
+
+IRVINGTON UFSD
+
+  Budget Projections for:
+ Business Office, Debt Service,
+Insurance, Buildings & Grounds,
+ Transportation, and Interfund
+           Transfers
+
+       January 8, 2013
+
+                                        Board of Education
+
+                                                         2012-13       2013-14
+                                           2012-13     ESTIMATED      PROPOSED
+CODE         DESCRIPTION                   BUDGET       TO SPEND       BUDGET    CHANGE
+
+1010 Board of
+Education
+      400   Other Expense                     30,960         32,000       43,500     12,540
+      450   Supplies                           1,000          1,000        1,100        100
+            Total Board of Education $        31,960   $     33,000   $   44,600 $   12,640
+
+1040 District Clerk
+      160     Clerical Salaries           $   13,250   $     13,193   $   13,459 $      209
+      400     Other Expense                    3,200          3,200        7,950      4,750
+      450     Supplies                         1,710          1,700        1,710          0
+                 Total District Clerk     $   18,160   $     18,093   $   23,119 $    4,959
+
+1060 District Meeting
+      400     Other Expense               $    9,000          7,000        7,000     (2,000)
+      450     Supplies                    $      700   $        700   $      700 $         0
+               Total District Meeting     $    9,700   $      7,700   $    7,700 $   (2,000)
+
+   TOTAL BOARD OF EDUCATION               $   59,820   $     58,793   $   75,419 $   15,599
+
+                                                                                               26.08%
+
+A1010. 400 BOARD OF EDUCATION - OTHER EXPENSE $43,500
+
+             NYS School Board Association Dues
+                WP School Board Assn. Dues
+               Filming of school board meetings
+             Board Docs software - annual renewal
+             School Board training & retreat - New
+
+   A1010.450 BOARD OF EDUCATION _ SUPPLIES $1,100
+
+            Office supplies -binders, envelopes,etc.
+                          Copy paper
+
+   A1040. 400 DISTRICT CLERK - OTHER EXPENSE $7,950
+
+     NYS School Boards - E-policy annual maintenance fee
+        NYS School Boards - E-policy annual updates
+         NYS School Boards - E-policy review - New
+
+      A1040.450 DISTRICT CLERK - SUPPLIES $1,710
+
+                      School Law books
+                   Computer toner & supplies
+                         Copy paper
+
+  A1060.400 DISTRICT MEETING - OTHER EXPENSE $7,000
+                       Election Inspectors
+              Voting machines - set up & moving
+           Legal ads - vote notices (2 newspapers)
+           Printing of brochures for annual meeting
+
+      A1060.450 DISTRICT MEETING- SUPPLIES $700
+
+       Misc. supplies for budget vote - binders, pens, etc.
+           Official oath envelopes - absentee ballots
+
+                                      Chief School Administrator
+
+
+                                                                 2012-13           2013-14
+                                                 2012-13      ESTIMATED TO        PROPOSED
+CODE         DESCRIPTION             FTE         BUDGET          SPEND             BUDGET          CHANGE
+
+1240 Chief School Administrator
+       150 Administrative Salaries     1.0   $      249,450   $     249,124   $      249,124   $        (326)
+       160 Clerical Salaries           1.0           81,718          71,052           73,744          (7,974)
+       200 Equipment                                  3,000               0            3,000                0
+       400 Other Expense                             12,000          10,000           12,000                0
+       450 Supplies                                   1,900           1,900            1,900                0
+
+          TOTAL CHIEF SCHOOL
+            ADMINISTRATOR                    $      348,068   $     332,076   $      339,768   $      (8,300)
+
+                                                                                                                (-2.38%)
+
+A1240. 400 CHIEF SCHOOL ADMINISTRATOR - OTHER EXPENSE $12,000
+
+                              CSA Dues
+                             LHED dues
+         Lower Hudson Council of School Superintendents - dues
+             NYS Council of School Superintedents - dues
+                             AASA dues
+                       Fall Leadership Summit
+                          AASA Conference
+                       Mid-winter Conference
+                   Travel/mileage reimbursements
+                    Education Week subscription
+
+                                                        Finance
+                                                                                                 2013-14
+                                                     2012-13                2012-13             PROPOSED
+CODE             DESCRIPTION          FTE            BUDGET           ESTIMATED TO SPEND         BUDGET      CHANGE
+1310 Business
+Administration
+      150        Administrative Salaries         $    128,520     $               137,484   $      138,248   $     9,728
+      160        Clerical Salaries       4.00         272,746                     270,053          280,574         7,828
+      200        Equipment                              1,000                       1,000           10,000         9,000
+      400        Other Expense                         46,000                      44,000           43,509       (2,491)
+      450        Supplies                               6,500                       6,000            6,500             0
+      490        BOCES Services                        59,900                      59,900           62,000         2,100
+                 Total Business Administration   $    514,666     $               518,437   $      540,831   $   26,165
+1320 Auditing
+      400        External Auditor                $     35,000     $                34,275   $       37,000   $    2,000
+      401        Internal Auditor                      25,000                      25,000           26,000        1,000
+      402        Claims Auditor                         6,200                       6,200            6,500          300
+                 Total Auditing                  $     66,200     $                65,475   $       69,500   $    3,300
+1325 Treasurer
+       160       Treasurer Salary                $     33,000     $                33,000   $       33,660   $      660
+       450       Supplies                                 390                         390              400           10
+                 Total Treasurer                 $     33,390     $                33,390   $       34,060   $      670
+
+         TOTAL FINANCE                           $    614,256     $               617,302   $      644,391   $   30,135
+
+                                                                                                                           4.91%
+
+  A1310. 200 BUSINESS ADMINISTRATION - EQUIPMENT $10,000
+
+    New office lobby furniture & office replacements (filing cabinets)
+
+A1310. 400 BUSINESS ADMINISTRATION - OTHER EXPENSE $43,509
+
+              Omni Group - 403b administration fees
+         SWN Communications - Emergency alert system fees
+                      CBIZ asset inventory fees
+         NY Municipal Advisors (financial advisors borrowing)
+            NYS Assn. of School Business Officials - dues
+                      Bond administration fees
+                 Ed Data - Bid purchasing services
+                     Business office copier fees
+
+
+
+A1310. 490 BUSINESS ADMINISTRATION - BOCES SERVICES $59,450
+
+                Questar State Aid Planning service
+                    GASB 45 compliance service
+      Finance Manager - Accounting/payroll software license fees
+         NYS reporting service (annual financial reports, etc.)
+                      Co-operative bid service
+
+                               Legal, Personnel and Public Information
+
+                                                               2012-13      2013-14
+                                                2012-13      ESTIMATED     PROPOSED
+CODE     DESCRIPTION                            BUDGET        TO SPEND      BUDGET           CHANGE
+
+1420 Legal
+   400 Other Expense                        $      245,000   $   296,950       284,000   $      39,000
+        Total Legal                         $      245,000   $   296,950   $   284,000   $      39,000
+
+1430 Personnel
+   160 Clerical Salaries            (1.0)           52,795        54,780        55,875           3,080
+   400 Other Expense                                29,000        29,000        29,000               0
+   450 Supplies                                        500           500           500               0
+   490 BOCES/Recruitment                            11,000        10,000        11,000               0
+         Total Personnel                    $       93,295   $    94,280   $    96,375   $       3,080
+
+1480 Public Information
+   400 Other Expense                                 6,500         4,500         5,000          (1,500)
+   490 BOCES Services                                4,600         4,509         4,650               50
+         Total Public Information           $       11,100   $     9,009   $     9,650   $      (1,450)
+
+           TOTAL STAFF                      $      349,395   $   400,239   $   390,025   $      40,630
+                                                                                                          11.63%
+
+                                  1420 LEGAL FEES
+Services for:
+                                   General Counsel
+                                      Negotiations
+                                 Tax Certiorari cases
+                   Student & Staff Discipline (other than Special Ed.)
+                                        Lawsuits
+
+                                 1430 PERSONNEL
+.400 OTHER EXPENSE
+            HR consultant contract
+            classified ads for open positions
+            mileage reimb. & HR workshop
+
+.450 SUPPLIES
+            office supplies, toner cartridges
+
+.490 BOCES SERVICES
+            Co-op negotiation service - Negotiatons Clearinghouse
+            reports
+            OLAS - on-line recruitment service
+            fingerprinting - mandatory
+            regional certification assistance service - teacher cert.
+            inquiries
+            co-op printing - CD discs
+
+                             PROPOSED OPERATIONS AND MAINTENANCE BUDGET
+                                                              2012-13     2013-14
+                                                  2012-13   Estimated to Proposed
+ Code              Description                    Budget       Spend      Budget                         Change
+1620 Operations
+       160       Custodial Staff                          $ 1,611,900    $ 1,610,000   $ 1,663,711   $     51,811
+       200       Equipment                                     17,630         17,630        25,555          7,925
+       400       Other Expense - daily operations              58,600         56,000        36,200       (22,400)
+       420       Utilities                                    932,000        915,000       932,000              0
+       450       Supplies-Custodial. Operations               107,000        107,000       117,000         10,000
+       490       BOCES - Telephone                              5,100          5,600         5,800            700
+      SUB-TOTAL OPERATIONS                                $ 2,732,230    $ 2,711,230   $ 2,780,266   $     48,036
+1621 Maintenance
+       160       Maintenance Staff                              67,500        68,000       121,582       54,082
+       200       Equipment                                       4,015         4,015        35,000       30,985
+       400       District-Wide Building Repairs                100,000        85,000       213,369      113,369
+       400       Contractual maint. services                   220,000       200,000        62,750    (157,250)
+       400       Maint.-Inspections                              8,000         8,000        35,680       27,680
+       410       Major Capital Building Repairs **                   0             0       290,000      290,000
+       450       Supplies, Maintenance                          57,000        57,000        62,000        5,000
+      SUB-TOTAL MAINTENANCE                               $    456,515   $   422,015   $   820,381   $ 363,866
+
+TOTAL OPERATIONS AND MAINTENANCE                          $ 3,188,745    $ 3,133,245   $ 3,600,647   $    411,902
+
+                                                                                                          12.92%
+** Transferred from A9900 code as this is an annual appropriation
+
+                        CUSTODIAL STAFFING
+                              2012-13                                 2013-14 Proposed
+                                                                          Additions
+   Position               Day      Night      Supervisor   Total
+Head Custodian             2.00      0.00                      2.00
+Custodian                  8.00      0.00                      8.00
+Cleaner                    1.00     12.00                     13.00
+Floater                    0.00      1.00                      1.00
+District Office            0.00      0.00           1.00       1.00
+
+                           11.00     13.00          1.00      25.00
+
+
+
+                          Maintenance Staff
+Head
+custodian/Mai
+nt.                          1.0                                1.0
+    Maintenance Staff       0.00                                  0         1 est. $52,410
+
+                                    CUSTODIAL EQUIPMENT
+                                          2013-14
+
+
+DOWS LANE
+
+ 1   Sewer snake 100 ft.                         @            935           935
+ 1    7 1/4" skill saw                           @            160           160
+ 1   10" table saw                               @            500           500
+ 1   Multi-meter                                 @            200           200
+ 1   Jigsaw                                      @            160           160
+ 3   Upright vacuums w/ wand attachments         @            350         1,050
+ 1   2 yard metal trash dumpster                 @            850           850
+
+                MAIN STREET
+
+ 1   Walk behind wet vac w/ attached squeegee    @            630          630
+ 1   flatbed cart                                @            300          300
+
+                  CAMPUS
+
+ 1   Walk behind floor burnisher                   @         7,650        7,650
+ 1   10" table saw                                 @           500          500
+ 8   Upright vacuums w/ wand attachments           @           350        2,800
+ 2   6 ft. fiberglass step ladders                 @           600        1,200
+ 2   2 yard metal trash dumpsters                  @           850        1,700
+ 8   replacement trash bins in corridors at IMS    @           240        1,920
+ 5   replacement trash & recycle bins in courtyard @         1,000        5,000
+
+                                                 TOTAL
+                                                 EQUIPMENT           $   25,555
+
+                                A1620 Other Expense
+                                      2013-14
+Vehicle Maintenance                                   $    4,000
+
+Tractor Maintenance                                   $    1,000
+
+Fuel for vehicles (purchased from Village)            $    7,000
+
+Mop service                                           $    5,000
+
+Southeastern Zone Chapter - dues                      $     450
+
+Tree Service - beech trees yearly maintenance         $    2,000
+
+AED/CPR annual training for all B & G staff           $    2,000
+
+Workshops/conferences for all B & G staff             $    2,000
+
+Architectural/survey services                         $    2,000
+
+Services as needed                                    $   10,750
+  ( sewer service, signage, equipment repairs)
+
+                                                      $   36,200
+
+                                     Utilities
+
+
+
+
+                                                        2012-13 Est. to   2013-14 Proposed
+ Code        Description         2012-13 Budget             Spend              Budget            Change
+
+1620.420 Utilities
+
+421-40       Fuel                $        220,000   $     180,000     $         220,000      $            0
+
+422-40       Electricity                  445,000         430,000               445,000                   0
+
+423-40       Water Fees *                  55,000           50,000               55,000                   0
+
+424-40       Telephone                     27,000           30,000               27,000                   0
+
+425-40       Gas/ Con Edison**            185,000         225,000               185,000                   0
+
+            TOTAL UTILITIES      $        932,000   $     915,000     $         932,000      $            0
+
+                                         BREAKDOWN OF COSTS
+                                               2013-14
+                                                                                         Proposed
+           Supplies,                                                        2012-13       2013-14
+1620.450   Operations                                                       Budget        Budget
+           Custodial & cleaning supplies, including:
+           paper products - toilet tissue, paper towels, seat covers,
+           packing boxes
+           hand soap
+           trashcan liners
+           cleaning supplies: cleaners and disinfectants
+           brooms,mops, rags
+           pads & sealer for terrazzo floors
+           floor cleaner & finish for gym
+           floors
+           floor stripper & finish for VCT tile floors
+
+.10.0000   High School                                                        30,000        30,000
+
+.20.0000   Middle School                                                      25,000        30,000
+
+.30.0000   Dows Lane                                                          27,000        27,000
+
+.35.000    Main Street                                                        20,000        25,000
+
+.40.000    District Wide                                                        5,000        5,000
+
+                    TOTAL SUPPLIES, OPERATION                           $    107,000 $     117,000
+
+                                          MAINTENANCE EQUIPMENT
+                                                 2013-14
+
+
+GROUNDS
+
+ 1 4 x 4 pickup truck w/dump body & plow package         @           35,000       35,000
+   (to replace truck that failed NYS inspection due to
+   severe rusted body. Truck sold 11/2012 as surplus)
+
+
+                                                         TOTAL
+                                                         EQUIPMENT            $   35,000
+
+                           BUILDING REPAIRS
+                                2013-14
+
+A1621.400 District Wide Building Repairs                            Estimated Cost
+
+DISTRICT WIDE - as needed
+Roof repairs                                                        $        2,500
+Glass repairs                                                       $        3,000
+Bleacher repairs                                                    $        2,500
+Electrical & light pole repairs                                     $       15,000
+Emergency funding expenses                                          $        5,000
+Add more surfacing to playgrounds                                   $        4,000
+Door & hardware repairs                                             $        5,000
+Fence repairs                                                       $        3,000
+Asphalt/concrete repairs                                            $       10,000
+Plumbing services                                                   $        5,000
+Painting services                                                   $        7,000
+Intercom/clock service                                              $        5,000
+                                                                    $       77,000
+
+HIGH SCHOOL
+Paint & repair walls in the ground floor corridor                   $        3,750
+Paint & repairs walls in H224                                       $        1,400
+Paint & repair walls in H016 (2 areas)                              $        1,900
+Exterior painting & repairs to atrium entrance                      $        3,300
+Exterior painting & repairs to north & south side a-wing ceilings   $          550
+Paint 2 center stairwells                                           $        3,500
+Paint Asst. Principal's suite                                       $        1,100
+                                                                    $       15,500
+MIDDLE SCHOOL
+Paint C and D wing corridor walls                                   $        3,900
+Paint C and D wing corridor door frames and trim                    $        1,000
+Paint north and south stairwells                                    $        4,200
+
+Paint Asst. Principal's suite                                             $      1,550
+Paint staff lounge                                                        $      1,150
+Paint classrooms C101,C103,C104,C105,C106                                 $      6,250
+Paint classrooms D101,D103,D104,D105,D106                                 $      6,250
+Paint classrooms C201 and D202                                            $      1,700
+                                                                          $     26,000
+
+CAMPUS
+Verti-Drain aerationi on Meszaros field (semi-annually)                   $      5,000
+
+DOWS LANE
+Add privacy partitions in cafeteria bathrooms                             $        900
+Replace the3 lobby-side gym doors and hardware                            $      5,000
+Replace exterior boiler room door and hardware                            $      1,600
+Install window shades in 1st & 2nd floor new wing classrooms              $      9,500
+Replace section of the 12 x 12 ceiling tiles in new wing corridor         $      3,450
+Exterior painting/ repairs to new wing entrance arches & upper overhang
+ceiling                                                                   $      2,250
+Paint first floor corridor in the old wing                                $      4,200
+Paint second floor corridor in the old wing                               $      5,250
+Paint classrooms 201, 203,205,207,209                                     $     16,900
+                                                                          $     49,050
+
+MAIN STREET
+Fire-resistant window drapery in the auditorium                           $     5,500
+Removal of existing gym divider/replace with walk/draw divider curtain    $    10,000
+Paint classrooms 301,303,304,306,307,308                                  $     9,500
+Restoration of the main entrance,walls,f loors and stairs                  $   14,370
+Replace window blinds in the Computer Lab                                  $      767
+Replace carpeting in the principal's office                                $       682
+                                                                          $    40,819
+
+TOTAL BUILDING REPAIRS                                                    $    213,369
+
+A1621.400.40.0000        MAINTENANCE CONTRACTUAL SERVICES
+
+Security and fire alarm monitoring
+(daily)                                                       $    6,000
+
+Kitchen hood & duct cleaning (semi-annually)                  $    2,000
+
+Intercom/clock maintenance                                    $    5,000
+
+Exterminating services (monthly)                              $    2,000
+
+Water treatment (monthly)                                     $    4,500
+
+HVAC/temp control maint. Annual contract                      $   20,000
+
+Boiler cleaning - fireside/waterside (annually)               $    8,000
+
+Boiler/burner repair (as needed)                              $    7,500
+
+Window cleaning, interior & exterior (priced per cleaning)    $    7,000
+
+Truck rentals (HS graduation set up, large equipment moves)   $     250
+
+Fuel tank testing                                             $     500
+
+              Total Contractual Services                      $   62,750
+
+                                 A1621.400 MAINTENANCE INSPECTIONS
+
+Gym & basketball equipment, folding partitions, climbing apparatus (annually)   $    1,300
+
+Fire alarm testing/cleaning (annually)                                          $    7,000
+
+Fire extinguisher inspections/maintenance (annually)                            $    1,600
+
+Elevator inspections (monthly)                                                  $   20,500
+
+Fire sprinkler systems (annually)                                               $     750
+
+Ansul range hood inspection (annually)                                          $     130
+
+Boiler inspections (annually)                                                   $     900
+
+Playground equipment                                                            $    1,500
+
+Roof inspections (annually)                                                     $    2,000
+
+              TOTAL SCHEDULED INSPECTIONS                                       $   35,680
+
+                  CAPITAL BUILDING REPAIRS 2013-14
+
+A1621.410                   $290,000 (same amount in 2012-13 budget)
+
+To cover, as needed, repairs/upgrades other than maintenance projects
+such as:
+
+lighting upgrades
+
+heating control
+upgrades
+
+window, door replacements
+
+move district offices
+
+security upgrades (buzzer systems, swipe cards,
+etc.)
+
+                                                     2013-14
+
+
+                                                                                               Proposed
+           Supplies,                                                           2012-13          2013-14
+1621.450   Maintenance                                                         Budget           Budget
+           Maintenance supplies, including:
+           grass seed
+           landscaping items
+           small tools
+           repair parts (plumbing,electrical,etc.) for work performed by
+           staff
+
+
+.10.0000   High School                                                             7,000           9,000
+
+.20.0000   Middle School                                                           3,000           4,000
+
+
+.30.0000   Dows Lane                                                               4,000           6,000
+
+.35.000    Main Street                                                             3,000           3,000
+
+.40.000    District Wide                                                          22,000          22,000
+
+.40.001    Snow removal (calcium chloride, rock salt)                             18,000          18,000
+
+                    TOTAL SUPPLIES, OPERATION                              $      57,000   $      62,000
+
+                                          Messenger and Mailing
+
+
+                                                                   2012-13       2013-14
+                                                    2012-13     ESTIMATED TO    PROPOSED
+CODE          DESCRIPTION                           BUDGET         SPEND         BUDGET          CHANGE
+
+1670 Messenger and Mailing              FTE
+
+        190   Salaries Messenger *      0.6     $      17,940   $      16,500   $   16,800   $     (1,140)
+        400   Other Expense - Postage                  29,000          29,000       30,600           1,600
+        401   Rental of Machines **                     8,700           8,700        8,700               0
+        409   Mail Permits                              2,500           1,600        1,700           (800)
+        450   Supplies **                                 100             100          100               0
+
+          TOTAL MESSENGER & MAILING             $      58,240   $      55,900   $   57,900   $       (340)
+
+                                                                                                             (-0.58%)
+
+                                                 Special Items
+
+                                                                     2012-13            2013-14
+                                                      2012-13     ESTIMATED TO        PROPOSED
+CODE            DESCRIPTION                          BUDGET          SPEND             BUDGET           CHANGE
+
+Special Items
+
+   1910.400     Insurance - NYSIR                $      174,000   $     172,693   $       177,480   $      3,480
+   1950.400     North Yonkers Sewer Tax                  65,000          65,000            66,000          1,000
+   1981.490     BOCES Charge - Administration           113,316         113,316           116,323          3,007
+   1981.490     BOCES Charge - Capital                   53,435          53,435            53,266          (169)
+   1989.400     Refund of Prior Years Revenues                0                                                0
+
+                TOTAL SPECIAL ITEMS              $      405,751   $     404,444   $       413,069   $       7,318
+                                                                                                           1.80%
+
+                                                        Transportation
+
+
+                                                                                  2012-13            2013-14
+                                                                 2012-13       ESTIMATED TO         PROPOSED
+CODE      DESCRIPTION                                            BUDGET           SPEND              BUDGET            CHANGE
+5510 Transportation Services                 Adj   Current
+   150    Transportation Director                   .34      $       55,000    $      54,540    $        55,630    $         630
+   400    Transportation Coordinator                                 82,782           82,782             89,000            6,218
+   490     BOCES                                                    131,000           45,000             50,000          (81,000)
+             Total Transportation Services                   $      268,782    $     182,322    $       194,630    $     (74,152)
+
+5540.400 Private Carrier Contracts
+400.00    Transportation - in-district                       $       789,000   $      755,000   $        805,000   $       16,000
+400.01    Transportation - private schools                           705,000          630,000            635,550         (69,450)
+400.04    Transportation - occ. Educ.                                  3,000            3,000              3,000                0
+400.04    Transportation - special educ.                             385,000          410,000            522,450         137,450
+   402    Transportation - field trips                       $       158,000   $      150,000   $        158,000   $            0
+          Total Private Carrier Services                     $     2,040,000   $    1,948,000   $      2,124,000   $       84,000
+
+
+     TOTAL PUPIL TRANSPORTATION                              $     2,308,782   $    2,130,322   $      2,318,630   $       9,848
+
+                                                                                                                          0.43%
+
+                                    Potential budget savings
+                         (as presented by last year's Budget Task Force)
+
+Removal of all bus monitors                   =   approx. $100,000 savings
+
+Reduction of one bus at Dows Lane             =   approx. $80,000 savings
+
+Increase distance for ridership eligibility   =   approx. $320,000 savings
+ (would require a referendum)
+
+
+
+
+                                     Potential budget increases
+
+One additional Special Education student would result in approx. $50,000 additional cost annually
+
+One additional private school student would cost approx. $18,000 - $20,000 additional cost
+annually
+
+                                                Debt Service
+
+                                          2012-13         2012-13               2013-14
+ CODE             DESCRIPTION             BUDGET       EST. TO SPEND       PROPOSED BUDGET         CHANGE
+
+9711.600   Construction Bond Principal   $ 2,940,000   $       2,940,000   $       2,490,000   $    (450,000)
+9711.700   Construction Bonds Interest     2,022,531           2,022,531           1,911,057        (111,474)
+9760.700   T.A.N. Interest                    25,000              25,000              25,000                0
+9780.600   ERS Loan - Principal *             19,089              19,089              20,043              954
+9780.700   ERS Loan - Interest *               3,159               3,159               2,205            (954)
+9785.600   Lease Purchase Principal **       238,238             238,238             206,471         (31,767)
+9785.700   Lease Purchase Interest **         22,899              22,899              16,585          (6,314)
+           TOTAL DEBT SERVICE            $ 5,270,916   $       5,270,916   $       4,671,361   $    (599,555)
+
+
+                                                                                                    (-11.37%)
+
+                                        2013-14SCHEDULE OF BOND PAYMENTS
+DUE ISSUE     REFUNDING   BOND             AMOUNT         DUE    RATE    A9711.600         A9711.700        TOTAL
+DATE DATE       DATE      ISSUE                          DATE      %     PRINCIPAL         INTEREST
+2013
+                            Capital
+Aug.15 2004                 Project      15,925,000.00   2022    3.92%       935,000.00      197,731.25    1,132,731.25
+Aug.15 2004               Tax Cert.       2,615,000.00   2015    3.32%       300,000.00       10,525.00      310,525.00
+                            Capital
+Oct. 1 2002     2005        Project      34,195,000.00   2032    4.56%             0.00      665,793.75      665,793.75
+Oct.15 2008               Tax Cert.       1,700,000.00   2024    4.93%       100,000.00       34,837.50      134,837.50
+Dec.15 2008               Tax Cert.       4,175,000.00   2023    3.79%       265,000.00       61,462.50      326,462.50
+
+2014
+                            Capital
+Feb.15 2004                 Project      15,925,000.00   2022                                180,200.00      180,200.00
+Feb.15 2004               Tax Cert.       2,615,000.00   2015                                  5,425.00        5,425.00
+                            Capital
+ Apr.1 2002     2005        Project      34,195,000.00   2032                890,000.00      665,793.75    1,555,793.75
+Apr.15 2008               Tax Cert.       1,700,000.00   2024                                 32,462.50       32,462.50
+Jun.15 2008               Tax Cert.       4,175,000.00   2023                                 56,825.00       56,825.00
+
+                                      TOTAL BOND PAYMENTS:               $2,490,000.00    $1,911,056.25 $ 4,401,056.25
+
+                                                   LOAN PAYMENTS
+                                                                            A9780.600     A9780.700
+                                                                            PRINCIPAL     INTEREST      TOTAL
+ERS LOAN      Amortized Pension Loan - final payment 2015-16                     20,043         2,205     22,248
+
+
+
+
+                                          LEASE/PURCHASE AGREEMENTS
+                                                                            A9785.600     A9785.700
+                                                                            PRINCIPAL     INTEREST      TOTAL
+              Installment purchase for computer technology - 5 yr.payment
+TECHNOLOGY:   plan                                                              206,471        16,585    223,056
+
+                           COMPUTER LEASE PURCHASE AGREEMENTS
+
+CLOSING     APPROVED
+DATE        BORROWING            2012-13          2013-14          2014-15        2015-16       2016-17     2017-18
+
+
+7/23/2007    330,000 Principal    $   72,367.43
+                 Interest         $    3,494.79
+
+8/29/2008    200,000 Principal    $   41,828.00    $   43,835.74
+                 Interest         $    4,111.86    $    2,104.12
+
+7/31/2009    210,000 Principal    $   41,935.78    $   43,609.02    $ 45,349.00
+                 Interest         $    5,222.66    $    3,549.42    $ 1,809.00
+
+7/9/2010     240,000 Principal    $   46,566.04    $   47,958.36    $ 49,392.00   $ 50,869.00
+                 Interest         $    5,824.10    $    4,431.78    $ 2,998.00    $ 1,521.00
+
+7/19/2011    186,000 Principal    $   35,540.42    $   36,351.49    $ 37,181.00   $ 38,030.00 $ 38,897.00
+                 Interest         $    4,244.71    $    3,433.64    $ 2,604.00    $ 1,756.00 $     888.00
+
+9/14/2012    179,606 Principal                     $   34,715.72    $ 35,308.00   $ 35,911.00 $ 36,524.00    $ 37,147.00
+                 Interest                          $    3,065.32    $ 2,473.00    $ 1,870.00 $ 1,257.00      $    634.00
+
+
+TOTAL PRINCIPAL PAYMENTS          $ 238,237.67 $ 206,470.33 $ 167,230.00 $ 124,810.00 $ 75,421.00 $ 37,147.00
+TOTAL INTEREST PAYMENTS          $ 22,898.12 $ 16,584.28 $ 9,884.00 $ 5,147.00 $ 2,145.00 $          634.00
+
+                                                Debt Service
+
+                                          2012-13         2012-13               2013-14
+ CODE             DESCRIPTION             BUDGET       EST. TO SPEND       PROPOSED BUDGET         CHANGE
+
+9711.600   Construction Bond Principal   $ 2,940,000   $       2,940,000   $       2,490,000   $    (450,000)
+9711.700   Construction Bonds Interest     2,022,531           2,022,531           1,911,057        (111,474)
+9760.700   T.A.N. Interest                    25,000              25,000              25,000                0
+9780.600   ERS Loan - Principal *             19,089              19,089              20,043              954
+9780.700   ERS Loan - Interest *               3,159               3,159               2,205            (954)
+9785.600   Lease Purchase Principal **       238,238             238,238             206,471         (31,767)
+9785.700   Lease Purchase Interest **         22,899              22,899              16,585          (6,314)
+           TOTAL DEBT SERVICE            $ 5,270,916   $       5,270,916   $       4,671,361   $    (599,555)
+
+
+                                                                                                    (-11.37%)
+
+                                                 Interfund Transfer
+
+                                                 2012-13          2012-13            2013-14
+                                                                  EST. TO           PROPOSED
+CODE              DESCRIPTION                    BUDGET           SPEND              BUDGET                CHANGE
+
+9901.95 Transfer to Special Aid Fund *              70,000            116,712                   117,000        47,000
+9950.90 Transfer to Capital Fund **                290,000            290,000                         0     (290,000)
+
+        TOTAL INTERFUND TRANSFER             $     360,000    $       406,712   $               117,000   $ (243,000)
+
+                                                                                                    (-67.50%)
+        * Beginning in the 2012-13 year, districts are responsible for 34% of the tuition paid
+          to state supported schools (i.e. NYS School for Deaf, NY Institute for Special Ed.) - new mandate
+
+        ** This line item was transferred to the Buildings & Grounds budget as it is a yearly
+        appropriation.
+
+                                Proposed Budget 2013-14
+
+
+                                                     2012-13            2013-14
+                                    2012-13       ESTIMATED TO         PROPOSED
+CODE      DESCRIPTION               BUDGET           SPEND              BUDGET            CHANGE
+
+   1000   Board of Education    $        59,820 $         58,793   $         65,419   $         5,599
+   1200   Chief School Admin.           348,068          332,076            339,768           (8,300)
+   1300   Finance                       614,256          617,802            635,391           21,135
+   1400   Staff                         349,395          400,239            390,025           40,630
+   1600   Operation & Maint           3,188,745        3,133,245          3,600,647          411,902
+   1670   Messenger/Mailing              58,240           55,900             57,900             (340)
+   1900   Special Items                 405,751          404,444            413,480             7,729
+   2000   Inst.Improv./Admin                                                                        0
+          Instructio
+   2110   n                                                                                        0
+   2200   Special Education                                                                        0
+          Occupational
+   2280   Education                                                                                0
+   2600   Library                                                                                  0
+   2630   Instructional Tech                                                                       0
+          Pupil Personnel
+   2800   Svcs                                                                                      0
+   2850   Co-Curricular                                                                             0
+   2855   Interscholastic                                                                           0
+   5500   Transportation              2,308,782        2,130,322          2,318,630             9,848
+   9000   Employee Benefits                                                                         0
+   9700   Debt Service                5,270,916        5,270,916          4,671,361         (599,555)
+   9900   Interfund Transfers           370,000          406,712            117,000         (253,000)
+                                                                                                    0
+          TOTAL BUDGET          $    12,973,973 $     12,810,449   $     12,609,621   $     (364,352)
+
+                                                                                            (-2.81%)
+

@@ -1,0 +1,105 @@
+SOURCE https://www.irvingtonschools.org/fs/resource-manager/view/cd54e9cb-649a-466c-94f0-df007863df48 | DATE 2025-07-08 | TITLE leadtesting-26-23.pdf
+
+Ã RegCom
+Regulatory Compliance
+_______________________________________________________________________
+
+Rich Pittore                                                             March 26, 2023
+Irvington UFSD
+6 Dows Lane
+Irvington, NY 10533
+
+
+Dear Rich,
+
+Please find enclosed the lead in drinking water report/Water Management Plan for Main
+Street (report issued 3.10.23) and Dows Lane School. Attached is an electronic copy.
+Once the other schools are completed, I will mail a single report to include all of the
+buildings in the district.
+
+All of the samples collected were within NYSDOH action level and compliant, with the
+exception of the water fixture noted below – immediate action is required.
+
+                                       Results     Action Limit    Compliant
+ Building      Location     Fixture                                              Remediation
+                                       (mg/L)        (mg/L)          (Y/N)
+Main St.
+School       Room 304      Sink         0.041         0.005            N           Required
+
+Dows Lane    Room 112      Bubbler      0.007         0.005            N           Required
+
+Dows Lane    Room 115      Sink         0.024         0.005            N           Required
+
+Dows Lane    Room 204      Bubbler      0.006         0.005            N           Required
+
+Dows Lane    Room 202      Sink         0.012         0.005            N           Required
+
+Below is a summary of actions required for action level exceedance which requires an
+immediate response. Please review sections 6-10, which describe remediation actions and
+notification requirements in detail.
+
+    Steps following an Action Level Exceedance Immediate Response
+       • Prohibit the use of the outlet immediately (take outlet out of service or turn
+            off) until:
+            (1) A lead remedial action plan is implemented to mitigate the lead level at the
+            outlet, and
+            (2) Post-remediation test results indicate that the lead levels are at or below
+            the action level;
+
+
+                      245 Albany Avenue • Thornwood • New York • 10594
+        Tel (914) 439-6513 • REGCOMP2@HOTMAIL.COM • WWW.REGCOMP.ORG
+_____________________________________________________________________________________
+Occupational                               Safety                         Environmental
+
+                                  COMPLIANCE IS SAFETY
+   RegCom - Page 2
+
+
+       •   Provide building occupants with an adequate supply of water for drinking and
+           cooking until remediation is performed;
+       •   Report the test results to the local health department as soon as practicable,
+           but no more than 1 business day after the school received the laboratory
+           report;
+       •   Notify all staff and all persons in parental relation to students of the test
+           results, in writing, as soon as practicable but no more than 10 business days
+           after the school received the laboratory report.
+
+
+   Corrective Actions / Remediation Options
+      • Permanent removal of an outlet
+      • Outlet replacement with “lead-free” plumbing materials
+      • Pipe replacement with “lead-free” plumbing materials
+      • Remove other sources of lead (lead pipe, lead solder joints, and brass
+          plumbing components with “lead-free” materials)
+      • Flushing (systematic flushing program)
+      • Point of Use (POU) Filters
+      • Supervision
+      • Engineering controls
+      • Education
+      • Signage
+
+Attached is slide from, NYSDOH Program Review and Updates Environmental Health
+Conference October 25, 2022, summarizing steps following an action level exceedance.
+For all outlets not used or potentially used for drinking or cooking, the school must have
+a remedial action plan that includes details on how those outlets will not be accessed
+and/or utilized for drinking or cooking purposes (“non- applicable outlets”). If you can
+generate a list, I will incorporate them into the report. If you need assistance, please
+contact me.
+
+If you need more information or have any questions, please do not hesitate to contact me
+at (914) 439-6513. Thank you for considering RegCom for your safety and compliance
+needs.
+
+                                               Sincerely,
+
+                                               Ernest Coon
+                                               Ernest C. Coon, MS, RPIH, HEM
+
+
+IRV.1015.23.IH Cov Ltr Dows Lane School
+
+             245 Albany Avenue • Thornwood • New York • 10594 •(914) 439-6513 •
+                              REGCOMP2@HOTMAIL.COM
+______________________________________________________________________________________________
+Occupational                                 Safety                                Environmental

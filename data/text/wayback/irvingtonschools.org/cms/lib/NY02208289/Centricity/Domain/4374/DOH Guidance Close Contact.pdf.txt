@@ -1,0 +1,73 @@
+SOURCE https://www.irvingtonschools.org/cms/lib/NY02208289/Centricity/Domain/4374/DOH%20Guidance%20Close%20Contact.pdf | DATE 2022-01-24 | TITLE DOH Guidance Close Contact.pdf
+
+Guidance on the Contacts of a Close or Proximate Contact of a
+                      Confirmed or Suspected Case of COVID-19
+
+Background
+As more cases of Novel Coronavirus (COVID-19) are identified or suspected across
+New York State, and individuals and families are required or recommended for
+mandatory or precautionary quarantine, it is important that there is a common
+understanding of the risk to contacts of contacts of a suspected or confirmed case.
+
+DOH Policy Guidance
+Person A is diagnosed with laboratory-confirmed COVID-19. If Person B had contact,
+close1 or proximate2, with Person A, Person B would be subject to mandatory
+quarantine3 (if close contact) or precautionary quarantine4 (if proximate contact).
+
+Any individual (Person C) who is a contact of Person B (i.e. spouse, children, co-
+workers, etc.) is considered a “contact of a contact”. Person C is not at risk for infection
+and would not be subject to quarantine unless Person B had or developed symptoms,
+or tested positive for the virus causing COVID-19.
+
+    Person A                                Person B                                 Person C
+
+     •Confirmed Case                           •Contact of Case                         •Contact of a Contact
+     •Required to be in                        •Required to be in                       •Unless Person B has
+      isolation                                 mandatory (direct                        or develops
+                                                contact) or                              symptoms of COVID-
+                                                precautionary                            19, or tests postive
+                                                (proximate contact)                      for COVID-19,
+                                                quarantine                               Person C is not
+                                                                                         subject to
+                                                                                         quarantine
+
+
+
+1
+  Close contact is defined as “being within 6 ft of a person displaying symptoms of COVID-19 or someone who has
+tested positive of COVID-19”
+2
+  Proximate contact is defined as “being in the same enclosed environment such as a classroom, office, or
+gatherings but greater than 6 ft from a person displaying symptoms of COVID-19 or someone who has tested
+positive for COVID-19”
+3
+  Mandatory quarantine is required for a person who “has been in close contact (6 ft.) with someone who is
+positive, but is not displaying symptoms for COVID-19; or person has traveled to China, Iran, Japan, South Korea or
+Italy and is displaying symptoms of COVID-19”
+4
+  Precautionary quarantine is required for a person who “meets one or more of the following criteria: (i) has
+traveled to China, Iran, Japan, South Korea or Italy while COVID-19 was prevalent, but is not displaying symptoms;
+or (ii) is known to have had a proximate exposure to a positive person but has not had direct contact with a
+positive person and is not displaying symptoms”
+Examples of “Contact of a Contact” Scenarios:
+
+      Household Members:
+         o If an asymptomatic individual is contacted by a local health department to
+            be notified that they are a contact of a confirmed case, they will be
+            required to be under mandatory quarantine or precautionary quarantine in
+            their home, depending on if contact was close or proximate respectively,
+            following the guidelines provided by the state.
+         o Any spouse, children or other household members, assuming both they
+            and the individual under quarantine are asymptomatic, are considered a
+            “contact of a contact” and therefore are not required to be in quarantine.
+            They can go to school, work, and engaged other activities following
+            recommendations for social distancing as appropriate.
+
+      Co-Workers:
+          o If an asymptomatic employee calls their supervisor and notifies them that
+            they are required to stay home in quarantine because they were a contact
+            of a confirmed case, the contacts they had at work are considered
+            “contacts of a contact” and therefore not at risk. These “contacts of a
+            contact” are not required to be in quarantine and should be permitted to
+            continue to work, following recommendations for social distancing as
+            appropriate.

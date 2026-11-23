@@ -1,0 +1,548 @@
+SOURCE https://docs.google.com/presentation/d/19zJxyY9uPbzt9h8rUDNO87DS7bdk68ORFx1DSFadTGM/present | DATE unknown | TITLE Making at All Levels: Implementing Bite-Size Changes for Choice and Creativity in the Classroom.pdf
+
+Making at All Levels:
+  Implementing Bite-Size
+  Changes for Choice and
+Creativity in the Classroom
+           Stephanie Peborde Burke, Ed.D.
+        NYSCATE Saturday, November 18, 2023
+           Grand A, Session 2: 1:45-2:45pm
+
+
+https://bit.ly/MakingAtAllLevelsNYSCATE
+Hello!
+I’m Stephanie Peborde Burke
+I am the K-12 Instructional
+Innovation Coach and Specialist at
+the Irvington Union Free School
+District.
+
+
+I am here for Maker Education,
+innovation, and opportunities for
+students to ﬁnd their passion!
+                                     2
+In a normal school day, when do students
+   have the opportunity to be creative?
+
+     Let’s jam some answers
+          together on here →
+                                           3
+In a normal school day, when do students
+   have the opportunity to be creative?
+
+
+
+                                           4
+ Being creative is part of what it
+      means to be human
+
+
+  How and what we create has
+    much to do with the tools
+and materials we have available ,
+   and what we make of them
+There are many ways of interacting
+with screens . It doesn’t make sense
+      to treat them all the same.
+
+Rather than trying to choose between
+   high tech, low tech, and no tech,
+   parents and teachers should be
+   searching for activities that will
+    engage children in creative
+ thinking and creative expression .
+Rather than trying to minimize screen
+time, parents and teachers should try
+     to maximize creative time .
+  Need to create more opportunities
+where children can work on creative
+ projects and develop their creative
+ capacities . We need better ways to
+document and demonstrate the power
+ of projects, passion, peers, and play.
+
+
+This is the only way we can ensure that
+ all children, from all backgrounds ,
+will have the opportunity to become full
+       and active participants in
+      tomorrow’s creative society .
+What are the Job Skills of Tomorrow?
+ Sooo…
+ How Can We Get There?
+
+⊹ Active/Dynamic Learning
+  with a Maker Mindset
+
+⊹ Project-Based Learning
+
+⊹ Student Choice            10
+Why Active Learning?
+
+Support learning environments in which
+students can think critically, collaborate
+     effectively, ask questions, solve
+problems, communicate new ideas, and
+create content rather than only consume
+                       it
+                                             11
+     Why Active Learning?
+“       Through allowing students to pursue
+    their own interests, and enlisting hands-on,
+    inquiry-based approaches, students
+    become creators rather than consumers.
+
+    In this process, students practice many 21st
+    century skills and become prepared for the
+    ever-developing future of our society.”
+
+    (Freeman, Adams Becker, Cummins, Davis, & Hall Giesinger, 2017; Thomas, 2012)
+                                                                                    12
+              The Maker Mindset
+Maker Mindset and Maker Education:
+● Allow for creativity
+● Provide problem-based learning opportunities that make use of hands-on
+  collaborative learning as an approach to authentic problem solving
+● Fall in line with a growth mindset
+● Prepare students for jobs of the future, many of which don’t even yet exist!
+
+                                                                                 13
+Main Course, Not Dessert
+
+PBL can stand for problem-based learning or
+project-based learning . While both are similar,
+there are some differences you can read about
+here .
+
+
+
+
+                                                   14
+        Examples of Desserts
+
+
+Cells          Artifacts   Book Report
+
+
+
+
+                                         15
+  Why PBL ?
+                                             Main Courses:
+                                             ● Teach significant content
+Project Based Learning is a ﬁlling meal of
+rich content knowledge and the skills        ● Require critical thinking, problem
+                                               solving, collaboration
+valued by employers in a globalized
+economy (Wagner, 2008).                      ● Require inquiry as part of the process
+                                               of learning & creating something new
+                                             ● Organized around an open-ended
+If we wish to prepare a generation of          driving question
+students who can solve real-world            ● Allows for some student voice & choice
+problems, we must give them real-world       ● Allows for revision and reflection
+problems to solve.
+                                             ● Involves a public audience
+17
+      Examples of Main Courses
+
+
+ Healthier   Personal Finance    Geometry
+Happy Meal      Credit Game     Playground
+
+
+
+
+                                             18
+        At the core of it all is CHOICE
+       3D Printing                   3D Printing                  Audio/Video
+ Check out the Thingiverse,             Use Tinkercad        (Green Screen & Padcaster)
+     or Yeggi, which are          to create your own 3D     Create a video or audio
+ repositories of 3D designs       designs to be printed     recording for your project
+  other people have made        (sign in with your school
+                                       Google account)
+                                             OR
+                                       Use Fusion 360
+                                   (if you have access &
+                                      know how to use)
+
+ Integrate Technology                 Materials                  App Prototypes
+QR Codes                      Use recycled materials,        ●    Keynote
+                              construction paper,            ●    Swift Playgrounds
+                              cardboard,                     ●    Xcode
+                              arts and crafts                ●    Other programming
+Augmented                                                         platforms
+Reality (AR):
+Halo AR
+                                                                                          19
+20
+Digital Menu for Student Creation
+
+
+
+
+ By Tommy Spall via Shake Up Learning/Kasey Bell   21
+                           Writing &
+        Audio & Video
+                           Drawing
+
+
+Full videos & GIF Export
+  You don’t have to do
+     a unit or lesson
+  overhaul mid-year to
+    embed creativity!
+
+       You can implement
+ bite-size changes to allow for
+active learning, maker mindset,
+    PBLs and student choice
+Foundations of Research HS English
+Elective: Sustainable School
+The 9th grade Foundations of Research classes recently
+designed a Sustainable School!
+
+In a ﬁrst phase, students built their ideal school with a focus
+on sustainability and guided by the UN Sustainable
+Development Goals. Students conducted research, used
+NoodleTools, and created a brochure that laid out details and
+images with a Works Cited.
+
+For the design portion, which was new this year, students built
+their school using Floorplanner.com.
+                                                                  BITE-SIZE CHANGE:
+                                                                   ● Add Floorplanner.com instead of just
+In a ﬁnal stage, students recorded a walk-through video of             stopping at the brochure
+their school and discussed the connections between the             ● Next year, swap out brochure for
+objects they chose and the sustainability goals.                       Floorplanner entirely              24
+25
+HS Precalculus: Ozobots & Rates of Change
+Precalculus students experimented
+                                         BITE-SIZE CHANGE:
+with Ozobots (line-following robots).
+                                          ● Add Ozobots to
+After completing a tutorial and
+                                              existing lesson
+training, students ﬁgured out how to
+estimate the speed for each color code
+key and calculate rates of change for
+each speed. This was a fantastic and
+fun way to introduce this topic!
+Elementary Phys Ed: Create Your Own Game
+                                         BITE-SIZE CHANGE:
+Students had the opportunity to create    ● Swap using life-size materials for creating table-top
+and design their own games! They              versions in Tinkercad
+designed the game materials in
+Tinkercad and wrote 2 paragraphs to
+explain the game that included 5-10
+rules. They wrapped up the activity
+with a gallery walk.
+
+Some classes even had their games
+3D printed and were able to play each
+other’s creations!
+  Elementary Library: STEAM through Literacy
+When students visit the Library they   Examples:
+choose their books for the week and     ● Read Bear Snores
+then engage in STEAM activities            On and design a
+based on literature.                       cave out of straws
+                                           and connectors
+The Library Media Specialist reads a
+book and then the students will do a   ● Read Biscuit’s Snow
+STEAM activity.                          Day Race and
+                                         design something to
+                                         help the children dry
+                                         their mittens faster
+
+
+
+
+                                           BITE-SIZE CHANGE:
+                                            ● Add STEAM activities to reading a story
+ Elementary Library: Interactive Fairy Tales
+Students in Library Enrichment are either retelling and
+summarizing or writing their own fairy tale!
+
+They are breaking the story down into four components:
+First, Next, Then, Last
+
+For each of those sections, they are writing about two
+sentences, then recording each section using the
+MakeyMakey Audio Sampler app.
+
+They are drawing a scene from the story and adding
+conductive components using copper tape, conductive
+ink, or paper clips.
+                                                                 BITE-SIZE CHANGE:
+Then students will connect the MakeyMakey and do a                ● Add STEAM activities to literacy
+gallery walk to experience all of the interactive fairy tales!
+
+Read the article                                                                                       29
+3rd Grade Science Unit:                         BITE-SIZE CHANGE:
+                                                 ● Revamp existing packaged
+ Weather and Climate                                 curriculum unit, add a creative,
+                                                     engaging ﬁnal product
+ Green Screen Videos
+3rd graders created their own green screen
+videos using WeVideo where they became
+meteorologist travel agents! Students
+researched information about a particular
+location, and then created their video where
+they shared news about patterns in
+average monthly temperature and
+precipitation data, the best activity and
+month of year to visit for that activity, and
+things someone would need to prepare for
+the temperature, precipitation, and the
+activity. This project took the last three
+lessons of this Science21 unit, and created
+a fun and engaging way for students to
+share their research and ﬁndings!
+
+Read the article and watch one of the videos                                            30
+9th Grade English: Odyssey Reboot
+                     9th Grade English classes read a
+                     different section of the Odyssey and
+                     created a project to teach the content
+                     in a modern approach palatable to
+                     teenage readers.
+
+                     Students were able to choose how they
+                     presented their adaptation and did so
+                     through board games, game shows,
+                     interviews, podcasts, stop motion
+                     animation videos, and more!
+
+                     Groups created all the components of
+                     their projects including 3D printed
+                     pieces.
+
+                      BITE-SIZE CHANGE:
+                       ● Add student choice to the
+                           ﬁnal project/product
+9th Grade English: Odyssey Reboot
+Explore and play with some
+  of these tools and ideas
+ Floorplanner.com                         Native Apple      Design, Build, Model
+                                              Apps             with Materials
+                                                         Use recycled materials,
+                                                         construction paper, cardboard,
+                                                         straws and connectors, Legos, K’Nex,
+                                                         duct tape, perler beads, any arts and
+                                                         crafts, to create,
+                                                         design, build, and model
+
+
+   Google Earth Tour            MakeyMakey
+
+                       Plug the device into
+                       Your computer.
+                       Check out the
+                       Plug and Play apps.
+                                                                                                 33
+                           Writing &
+        Audio & Video
+                           Drawing
+
+
+Full videos & GIF Export
+Wrap Up
+● Start with small changes!
+
+● Through active learning with a
+  maker mindset, PBLs, student choice
+
+● Creativity can happen in all content areas!
+
+● AI will require educators to ask for authentic products
+  from students and these concepts can help!
+Padlet
+Please take a moment to contribute to the Padlet!
+
+
+
+
+                                                    36
+Thank You! Questions?
+To the following faculty and staff who contributed to the ideas and/or collaborated on
+the projects shown in this presentation:
+
+Blind Brook:                     Bedford:                    Yorktown:
+Nick Bianculli                   Bob Alspach                 Christine Breen
+Angela Donahoe                   Margaret
+Mackenzie Gasparini              Browning-Barnickel
+
+Elise Kraeger                    Amy Fishkin
+
+Marko Markolovic                 Kathy Herson
+
+Theresa Swertfager               Erica Rogan
+                                 Elizabeth Russell
+                                                                                         37
+Connect
+⊹ stephanie.burke@irvingtonschools.org
+
+⊹ Follow me! @Geeky_Goggles
+
+⊹ My website
+
+
+
+
+                                         38
+                                                                        ← Click
+
+   About Stephanie                                                     for more!
+
+
+
+Stephanie Peborde Burke has been an educator for over 17 years with experience teaching middle school, high school, and coaching teachers. She
+previously taught 6th Grade Science at Fox Lane Middle School, and Science Research at Fox Lane and Yorktown High Schools. In 2021-2022, she was
+the K-12 DICE (Design, Innovation, Creation, and Expression) Facilitator at the Blind Brook-Rye Union Free School District where she ran the high school
+and middle school’s FabLab and supported K-12 teachers with experiential, hands-on learning in all content areas. Last year, she returned to
+Bedford/Fox Lane as the EdTech Specialist and STEAM Coach. As a member of the leadership team, she supported K-12 teachers with STEAM and
+EdTech through coaching, co-teaching, active learning, interdisciplinary experiences, enrichment, and the NYS Computer Science and Digital Fluency
+Standards. Currently, she serves as the Instructional Innovation Coach and Specialist in the Irvington Union Free School District. Her role can support,
+but is not limited to:
+- Instructional Technology
+- NYS Computer Science and Digital Fluency Standards
+- Creative and innovative teaching & learning
+- K-12 experiential, hands-on, interdisciplinary experiences in all content areas
+
+Dr. Burke has been involved with the Westchester and Science and Engineering Fair (WESEF) since its inception in 2001 and currently serves on its
+executive board as treasurer. She has also served on the leadership committee for the Westchester-Rockland Junior Science and Humanities
+Symposium (WR-JSHS) since 2014.
+In May 2023, she graduated with her Ed.D. in Educational Technology Leadership from New Jersey City University. Her dissertation is titled, The Impact
+of a High School Maker Education Program on Student Interest in STEM Careers: A Mixed Methods Study. She has also presented about Maker
+Education at SITE, NYSCATE 2018, NYSCATE 2022, and LHRIC TLI Tech Expo 2023 (same presentation for both events).
+
+Dr. Burke is a nature lover, birder, Geocacher, foodie, geek, and enjoys spending time with her husband and two young children. As a maker herself, she
+enjoys being creative through arts and crafts and a variety of media, including 3D designing and printing.
+
+EdTech Certiﬁcations and Achievements:
+
+    ■    Google for Education Certiﬁed Educator: Levels 1 & 2
+    ■    Apple Teacher
+    Making at All Levels:
+  Implementing Bite-Size
+  Changes for Choice and
+Creativity in the Classroom
+           Stephanie Peborde Burke, Ed.D.
+        NYSCATE Saturday, November 18, 2023
+           Grand A, Session 2: 1:45-2:45pm
+
+
+https://bit.ly/MakingAtAllLevelsNYSCATE
+Resources
+Click through the next several slides to
+ﬁnd resources that can support the
+bite-size changes 🍟🍣🍿🍪🍡🍬🍱
+
+
+
+
+                                           41
+The Creative Learning Spiral from          ISTE Standards for Students
+Lifelong Kindergarten by Mitchel Resnick
+ More Ways to Make Bite-Size Changes
+Content:                                      Creation:
+● Why do students need to know this?          ● How might students show their learning?
+● How would this be used in everyday life?    ● How might students develop their
+● How does it have meaning to the student?      learning by creating something?
+                                              ● Who is the audience?
+
+
+
+Choice:                                       Collaboration:
+● What choice(s) could you give students to    ● How can students work together to
+  learn and deliver content and still be         complete the task?
+  effective?                                   ● What tools are accessible to promote
+● How can you connect new scenarios and          collaboration?
+  creation based on standards?                 ● Can students develop and decide on
+● How can the choice of learning setting         roles?
+  personalize instruction for students?
+Full PBLs and Bite-Size Pieces
+
+“
+
+
+
+                                 44
+Essential PBL Design Elements Checklist
+  Consider the following as you make small changes to lessons/units/projects:
+
+             UDL                                 Key Knowledge,
+                                                                                       Challenging problem or
+     (Universal Design for                      Understanding, and
+                                                                                              question
+          Learning)                               Success Skills
+
+       Sustained Inquiry                             Authenticity                    Student Voice and Choice
+
+      Allow for reﬂection                      Critique and Revision                         Public Product
+
+
+
+
+  Chart based on: http://doloreshuerta.org/wp-content/uploads/2020/04/Essential-Project-Design-Elements-Checklist-1.pdf
+
+                                                                                                                          45
+SAMR Entry Points          Triple E
+                         Framework
+                    for Tech Integration
+
+
+
+
+                                           46
+    Moving from Static to
+     Dynamic Learning
+⊹    Static learning is learning that lacks movement, action, or change.
+
+⊹    Dynamic blended learning happens through constant change and
+     activity, growing and evolving over time
+       ×   It can take place anywhere, anytime, and is personalized
+           and differentiated
+       ×   Learner-centered, giving students choice, embedding
+           communication, collaboration, critical thinking, and
+           creativity skills where they align with learning goals
+       ×   Digital tools are used for more than substitution, to do and
+           create things previously unconceived
+
+    Do This, Not That Dynamic Learning vs. Static Learning Blog Post
+ Dynamic Learning
+⊹ Every dynamic learning experience should
+  integrate one or more of the 4 C’s:
+    × Communication
+    × Collaboration
+    × Critical Thinking
+    × Creativity
+
+Dynamic Learning Characteristics blog post
+Empowering Student
+  Voice and Choice
+● Students choose their own:
+    ○   Digital Tools
+    ○   Devices
+    ○   Learning Goals
+    ○   Reading/Topic/Project/Problem
+● Give students choice with learning menus or choice boards
+
+                       What are learning menus and choice boards?
+Kasey Bell’s Free Resources
+Do schools kill creativity?
+
+
+
+
+                              51
+Credits
+Special thanks to all the people who made and
+released these awesome resources for free:
+⊹ Presentation template by SlidesCarnival
+⊹ Photographs by Unsplash
+
+
+
+
+                                                52

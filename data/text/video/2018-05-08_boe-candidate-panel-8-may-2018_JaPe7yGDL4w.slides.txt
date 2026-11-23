@@ -1,0 +1,4 @@
+2018-05-08 | BOE Candidate Panel 8 May 2018 | https://www.youtube.com/watch?v=JaPe7yGDL4w
+(slides auto-extracted from 1280x720 video; scene>0.08, OCR words>=12, phash<=8; 0 slides from 226 candidate views; Apple Vision OCR)
+
+(no shared-screen slides detected)

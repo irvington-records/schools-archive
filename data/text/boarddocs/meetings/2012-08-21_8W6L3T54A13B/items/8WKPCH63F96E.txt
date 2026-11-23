@@ -1,0 +1,39 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/goto?open&id=8WKPCH63F96E | DATE: 2012-08-21 | TITLE: Regular Meeting - 6:30 p.m. | 10.1 Budget Transfers
+
+Meeting: Aug 21, 2012 - Regular Meeting - 6:30 p.m.
+Date: 2012-08-21
+Category: 10. Business Office Matters
+Subject: 10.1 Budget Transfers
+Type: Action (Consent)
+
+Budget Transfer 12/13-03
+
+	Credit A2010-150 (Curr. Admininstrator)                          $20,000
+
+	Debit  A2020-150 (Supervision-Instr. salaries)                 $20,000
+
+	This transfer is to cover Dr. Kor's contract that was signed after budget was set.
+
+	Budget Transfer 12/13-04
+
+	Credit A9901-950-00-0002 (Transfer to Spec. Aid-Blind Deaf Schools)  $24,476
+
+	Debit  A2250-470 (Spec. Ed Tuition-Special Schools)                               $24,476
+
+	This transfer is to cover District share of tuition for State Deaf School.
+
+	Budget Transfer 12/13-05
+
+	Credit A9901-950 (Transfer to Spec. Aid- Summer School)          $27,347
+
+	Debit  A1620-422-40 (Plant-Electricity)                                           $27,347
+
+	This transfer is to cover prior years' summer handicap tuition.
+
+	Budget Transfer 12/13-06
+
+	Credit A9901-950-00-0002 (Transfer to Spec. Aid-Blind Deaf Schools) $21,663
+
+	Debit  A2250-470 (Spec. Ed Tuition-Special Schools)                              $21,663
+
+	This transfer  is to cover District cost of State supported school.

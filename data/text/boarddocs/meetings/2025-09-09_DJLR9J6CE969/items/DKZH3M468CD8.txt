@@ -1,0 +1,360 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/goto?open&id=DKZH3M468CD8 | DATE: 2025-09-09 | TITLE: Regular Meeting | 8.2 Renumbering of Policies
+
+Meeting: Sep 09, 2025 - Regular Meeting
+Date: 2025-09-09
+Category: 8. Policy
+Subject: 8.2 Renumbering of Policies
+Type: Information
+
+The old polices are being renumbered as per NY State School Boards Association (NYSSBA).  There have been no changes or revisions to these polices.
+Therefore, this is informational item only and no Board action is required.
+
+Old Manual
+	New Manual
+
+Old Section 1000 - Bylaws
+
+Old #
+	Policy Title
+	New #
+	New Section
+
+1334
+	Duties of the External Independent Auditor
+	6600
+	6000 Fiscal Management
+
+1335
+	Appointment and Duties of the Claims Auditor
+	6650
+	6000 Fiscal Management
+
+1336
+	Duties of the Extraclassroom Activities Fund
+	5252.1
+	5000 Students
+
+Old Section 3000 – Community Relations
+
+Old #
+	Policy Title
+	New #
+	New Section
+
+3271
+	Solicitation of Charitable Donations from Students
+	5251.1
+	5000 Students
+
+3281
+	Use of School-Owned Materials and Equipment
+	8330
+	8000 Support Services
+
+3290
+	Operation of Motor-Driven Vehicles on District Property
+	8240
+	8000 Support Services
+
+Old Section 5000 - Operations
+
+Old #
+	Policy Title
+	New #
+	New Section
+
+5110
+	Budget Planning and Development
+	6110
+	6000 Fiscal Management
+
+5250
+	Disposal of School District Property
+	6900
+	6000 Fiscal Management
+
+5350
+	Reimbursement for Meals/Refreshments
+	9170
+	9000 Personnel
+
+5360
+	District Cell Phone and Use
+	8332
+	8000 Support Services
+
+5400
+	Purchasing Authority
+	6710
+	6000 Fiscal Management
+
+5450
+	Contract Authorization
+	6701
+	6000 Fiscal Management
+
+5510
+	Accounting of Funds
+	6600
+	6000 Fiscal Management
+
+5511
+	Fund Balance Policy
+	6245
+	6000 Fiscal Management
+
+5530
+	Petty Cash Funds and Cash in School Buildings
+	6670
+	6000 Fiscal Management
+
+5570
+	Financial Accountability
+	6000
+	6000 Fiscal Management
+
+5572
+	Audit Committee
+	6690
+	6000 Fiscal Management
+
+5573
+	Internal Audit Function
+	6680
+	6000 Fiscal Management
+
+5620
+	Inventories
+	6640
+	6000 Fiscal Management
+
+5630
+	Facilities: Inspection, Operation and Maintenance
+	8220
+	8000 Support Services
+
+5633
+	Integrated Pest Management
+	8115
+	8000 Support Services
+
+5634
+	Naming Facilities
+	7500
+	7000 Facilities Development
+
+5651-E
+	Irvington Union Free School District Birthdays and Celebrations – K-5 Guidelines
+	5405-E
+	5000 Students
+
+5660
+	Energy/Water Conservation and Recycling of Solid Waste
+	8910
+	8000 Support Services
+
+5683
+	Cardiac Automated External Defibrillators (AEDs) in Public School Facilities
+	5425
+	5000 Students
+
+5683-R
+	Cardiac Automated External Defibrillators (AEDs) in Public School Facilities Regulation
+	5425-R
+	5000 Students
+
+5683-A
+	Appendix A – Example Letter
+	5425-E.1
+	5000 Students
+
+5683-B
+	Appendix B – Public Access Defibrillation (PAD) Collaborative Agreement
+	5425-E.2
+	5000 Students
+
+5683-C
+	Appendix C – Notice of Intent to Provide Public Access Defibrillation
+	5425-E.3
+	5000 Students
+
+5683-D
+	Appendix D – Automated External Defibrillator (AED) Monthly Inspection Report
+	5425-E.4
+	5000 Students
+
+5683-E
+	Appendix E – Automated External Defibrillator (AED) Annual Inspection Report
+	5425-E.5
+	5000 Students
+
+5683-F
+	Appendix F – School Public Access Defibrillation (PAD) QA/QI Report Form
+	5425-E.6
+	5000 Students
+
+5683-G
+	Appendix G – Cardiac Automated External Defibrillators (AEDs) in Public School Facilities
+	5425-E.7
+	5000 Students
+
+5683-H
+	Appendix H – Maintenance
+	5425-E.8
+	5000 Students
+
+5683-I
+	Appendix I – All AEDs
+	5425-E.9
+	5000 Students
+
+5685
+	Procedures for Video Surveillance and Recording
+	8210.1
+	8000 Support Services
+
+5692
+	Human Immunodeficiency Virus (HIV) Related Illnesses
+	0150
+	0000 Philosophy, Goals and Objectives
+
+5693
+	E-Mail
+	8634
+	8000 Support Services
+
+5694
+	Password Policy
+	8632
+	8000 Support Services
+
+5695
+	Electronic Social Networking Policy
+	9151
+	9000 Personnel
+
+5720
+	Scheduling and Routing
+	8411
+	8000 Support Services
+
+5740
+	Use of Buses by Community Groups
+	8416
+	8000 Support Services
+
+5761
+	Drug and Alcohol Testing for School Bus Drivers and Other Safety-Sensitive Employees
+	8414.5
+	8000 Support Services
+
+5770
+	School Bus Idling
+	8414.6
+	8000 Support Services
+
+Old Section 6000 - Personnel
+
+Old #
+	Policy Title
+	New #
+	New Section
+
+6122
+	Complaints and Grievances by Employees
+	9140.1
+	9000 Personnel
+
+6130
+	Evaluation of Personnel: Purposes
+	9420
+	9000 Personnel
+
+6151
+	Drug-Free Workplace
+	9320
+	9000 Personnel
+
+6170
+	Staff-Student Relations (Fraternization)
+	9150
+	9000 Personnel
+
+6180
+	Safety of Students (Fingerprinting Clearance of New Hires)
+	9260
+	9000 Personnel
+
+6190
+	Disclosure of Wrongful Conduct (Whistleblower)
+	9645
+	9000 Personnel
+
+6551
+	Family and Medical Leave Act
+	9520.2
+	9000 Personnel
+
+Old Section 7000 - Students
+
+Old #
+	Policy Title
+	New #
+	New Section
+
+7410
+	Extracurricular Activities
+	5210
+	5000 Students
+
+7411
+	Censorship of School Sponsored Student Publications and Activities
+	5220
+	5000 Students
+
+7412
+	Selection/Classification
+	5280.1
+	5000 Students
+
+7420
+	Sports and The Athletic Program
+	5280
+	5000 Students
+
+7421
+	Concussion Management Guidelines and Procedures
+	5421
+	5000 Students
+
+7450
+	Fund Raising by Students
+	5251
+	5000 Students
+
+7530
+	Child Abuse
+	5460
+	5000 Students
+
+7540
+	Suicide
+	5431
+	5000 Students
+
+7621
+	Section 504 of the Rehabilitation Act of 1973
+	5020.3
+	5000 Students
+
+Old Section 8000 - Students
+
+Old #
+	Policy Title
+	New #
+	New Section
+
+8350
+	Use of Copyrighted Materials
+	8650
+	8000 Support Services

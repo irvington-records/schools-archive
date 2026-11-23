@@ -1,0 +1,17 @@
+SOURCE https://sites.google.com/irvingtonschools.org/irvington-hour-of-code/3-5 | DATE unknown | TITLE Hour of Code at Irvington UFSD - 3-5
+
+Embedded Files
+Make music and learn to code with Music Lab: Jam Session! In this self-guided, one-hour activity, students remix tracks from artists like Sabrina Carpenter, Lady Gaga, and Shakira while mastering coding basics such as sequencing, functions, and exploring AI-driven beat creation. This hands-on interactive experience sparks creativity and boosts confidence—leaving students proud of their custom track and the coding skills they've gained.
+Type: Block coding
+Learn to program droids, and create your own Star Wars game in a galaxy far, far away.
+Type: Block coding OR JavaScript
+Welcome to The Show Must Go On, where your creativity and coding skills take center stage! The big show is in chaos—the Agent has vanished! Use problem-solving and computational thinking to code through fun challenges, unlock surprises, and bring the show to life. Compose a song, choreograph a dance, craft a costume and save the show—all while learning key coding skills in blocks or Python.
+Type: Block coding OR Python
+Build your very own 3D Mario game, while learning the basics of programming. Learn about the fundamentals of game development; form an understanding of motion in 3D space; learn to add score, lives and cool sound effects to your game, all in less than an hour. And the best part, you can share your game with your family and friends in just one click and play with them on any device in your home.
+Type: Block
+Computer science is about so much more than coding! Learn about AI, machine learning, training data, and bias, while exploring ethical issues and how AI can be used to address world problems.
+Type: AI and Machine Learning
+Remix our starter project to design your own invention, share the invention's goal or purpose through text and/or a voice recording, and learn about Gitanjali's innovation process.
+Images retrieved from https://hourofcode.com/us/learn
+Page updated 
+Report abuse

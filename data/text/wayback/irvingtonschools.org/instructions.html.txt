@@ -1,0 +1,70 @@
+SOURCE https://www.irvingtonschools.org/instructions? | DATE 2026-02-15 | TITLE Instructions - Irvington Union Free School District
+
+Website Instructions
+Overview
+Your Website is built on Finalsite’s Composer Content Management System (CMS).
+This page is a custom features reference for Composer website administrators. These instructions assume a basic knowledge of Composer CMS and its core concepts (such as editing and publishing a page). If you are new to Composer, we recommend starting with the following training and informational resources:
+| Resource | Description | 
+|---|---|
+| Finalsite Training | Composer CMS training courses, webinars & live events | 
+| Finalsite Support | Composer CMS knowledge base, announcements & downloads | 
+| Normal Workflow for Adding Content | How to add a Content Element to a page, and how to use it | 
+| Adding Styles in a Content Element | This article will show you how to customize your text in a Content element with text styles found in the styles dropdown. | 
+| How to add a Button Link | Using the Styles dropdown to add Button links. | 
+| Common Element Settings | The common settings shared by all Composer elements. | 
+| Optimizing Video | Best practices for optimizing video for the web. | 
+| Image & Video Best Practices | Best practices for using images and videos in Composer. | 
+For a comprehensive collection of instructional articles, visit our support page for Composer.
+Page Setup & Appearance
+This section includes instructions for setting up and styling pages within your Composer website. A default interior page on the website should include a set of banners, and a theme. These banners can be added from the Page Layouts and Appearance menu, which can be accessed by clicking the Page Layout icon located next to the Compose button. From the pop up menu, selections can be made from the dropdown menus.
+| Setting | Value | 
+|---|---|
+| Theme Name | default_25 | 
+| Header | default top | 
+| Menu | mobile menu | 
+| Left Banner |  | 
+| Right Banner |  | 
+| Footer | default footer | 
+Important: Please refer to the Style Guide page of the Production branch for a complete library of available styles.
+Header & Footer
+Important: Do Not make edits to the default top and bottom banners (header and footer). If you need to make an alternate version of either of these banners, first clone the banner and apply your changes to the clone. Altering the settings in the default banner can and most likely will break the appearance of your site!
+Most links in your header/footer can be edited in the Composer sitemap. Below we will note where to find these pages.
+| Section | Notes | 
+|---|---|
+| Header Hamburger Menu (Main Menu) | The pages in the main menu (that you see when you click the Menu button in the header) are found under the site Home page in the main branch of the Composer sitemap. | 
+| Header Links | Update these pages in the "Header Portals Nav" or "District Nav" branch of the sitemap. | 
+| Find it Fast | Each icon tile in the search menu can be updated under the 'Search Icons Nav' or 'Popular Searches' branch. Each of the pages under Search Icons Nav branch can be given a specific icon from your Icon Library under Page Settings > Custom Nav Class | 
+| Footer | Update these pages in the "Footer Utility" or "Footer Links" or "Social Media Links" branch of the sitemap. Footer Address: Click on the 'Modules' icon to the left of Composer and select 'Locations'. Click on ‘Locations’ and select school. Edit fields here. Update the changes. | 
+Homepage
+To ensure proper visual presentation, many elements on the homepage, as well as the header and footer banners, have custom classes added to their settings. These classes are essential for the features to display correctly and should not be removed or modified. Additionally, they are specifically designed for these areas and should not be used on other pages or panels.
+For most treatments on the homepage, images are converted to backgrounds and are set to cover the whole container, so in general, using the largest image you have should work fine. Composer will automatically serve smaller versions of each image on mobile breakpoints. If the design shows as portrait orientation it'll generally crop better if the orientation of the original photo is also portrait, same for landscape. If there are any specific image dimensions required for treatments on your homepage, we will list them below, otherwise, just adhere to the minimum width and orientation listed below.
+Note*:
+The homepage contains a variety of custom treatments that use Javascript code that can interfere with CMS function and editor accessibility. To allow homepage treatments to be accessible for editing, refresh the homepage while the 'COMPOSE' toggle is toggled ON/Blue. This will temporarily disable the custom code tied to the treatments so that everything is stationary and available for editing.
+When finished making your edits, refresh the page once more while the 'COMPOSE' toggle is toggled OFF/Grey. This restores the custom code on the treatments so you can preview your work with everything in place.
+| Section | Element Type | Custom Class | Image Size |  | Notes | 
+|---|---|---|---|---|---|
+| Hero Slideshow | Resource > Slideshow | hero-banner | 1920X1080 |  | Select Gallery of images and/or videos from Resources to display in this panel. Add overlay text to description field. | 
+| Icons Navigation | Navigation element |  |  |  | The list of links can be found under the 'CTA Nav' branch. Each of the pages in this branch can be given a specific icon from your Icon Library under Page Settings > Custom Nav Class | 
+| Irvington News | Container Post element | hp-news-container hp-news-featured | Big - 595X620 Small - 215X210 |  | Container Element 				
+Update text in Header Content.  Post Element 				
+List Element to select which Posts are displayed in this panel. Update button in Footer Content. Save | 
+| Latest Events | Container Calendar elements | hp-tabs hp-calendar | 290X475 |  | Tab Element 				
+Update text in Header Content.  Tab 				
+Update Element Title The Calendar List should be set to show 1 item 				
+Update button in Footer Content. Button style - 'Arrow Green' | 
+| Portrait of a Graduate | Container Resource elements | hp-testimonials | 475X475 |  | Container Element 				
+Update title in Header Content.  Content Element 				
+Update Element Title Browse to select image. Update text in Header Content. Update link in Footer Content. | 
+Style Guide
+To enhance the visual presentation of certain Composer elements on interior pages, you can add custom classes within their settings.
+For optimal image quality and loading speed, we recommend using the following pixel dimensions when uploading images to Composer's Resource Manager. Adhering to these guidelines will help maintain a balanced and polished appearance for your content.
+| Style | Notes | 
+|---|---|
+| Interior Hero Image/Video | Resource Element > Single/Slideshow. Custom Class: hero. Copy element and add to desired page. Suggested image size: 1440X625 | 
+| Heading / Title Styles | Article: Best Practice: Heading Structure | 
+| Decorative Rule | Edit Content Editor update panel body text. Add a text, highlight it and select 'HR Decorative' from the styles dropdown. | 
+| Text Styles | Article: Customize with text styles in a Content Element | 
+| Content Cards | Article: Customize with Content Cards in Composer | 
+| Tabs & Accordions Layout Elements | Articles: Tab Element, Accordion Element. Additional Layout Element articles | 
+| Tables | Article: Using Tables | 
+| Buttons | Article: How to Make A Button in Composer |

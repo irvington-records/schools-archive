@@ -1,0 +1,190 @@
+SOURCE http://irvingtonschools.org:80/Tech.html | DATE 2005-02-11 | TITLE Technology Plan
+
+June 26, 1998
+Table of Contents
+Executive Summary
+Vision Statement
+Mission Statement
+Impact of Technology
+Recommendations
+Model Environments
+The Mission Statement of the Board of Education of the Irvington Union Free School District for the 1997-1998 school year determined that the district must focus its attention on long range planning and, specifically, that the integration of technology into our educational program would be a major area of Board efforts. Towards this end, the Board created a sub-committee on technology (Penny Delany and Paul Mandel) whose goals included:
+- Analyzing the district’s technology requirements for the next 3-5 years and presenting a comprehensive plan to the community, and
+- Determining the level of and the sources of the district’s financial commitment to technology funding.
+To accomplish these goals, the Board resolved to form a committee of appropriate faculty and to hire a technology consultant. The Board engaged the consulting services of the Lower Hudson Regional Information Center of Southern Westchester BOCES under the supervision of Director of Educational Technology Peter Reilly and assisted by Don Beverly. In addition to Penny Delany and Paul Mandel, ten members of the administrative staff and faculty were chosen to participate in committee deliberations:
+Dows Lane
+  Joseph Rodriguez, Principal
+Betty Carle, Technology teacher
+Barbara Ginsberg, Librarian
+Jennifer Harriton, Technology teacher
+Gail Osterman, Teacher
+Middle School
+  Marion Fioretti, Technology teacher
+Carol Tschupp, Teacher
+High School
+  Dr. Scott Mosenthal, Principal-designate
+Pat Corey, Technology teacher
+Pat Costabile, Teacher
+The committee began meeting on December 16, 1997. Its basic charge was to present to the Board of Education an initial draft of a long range strategic plan for the further integration of technology into the district’s curriculum on March 3, 1998. The timing of the presentation of the initial draft of this report was designed to dovetail with the 1998-1999 budget formulation process. The committee’s report was to focus on the educational aspects of technology and be strategic in its orientation. The result of the committee’s work would be general recommendations leading to the district’s acquisition of technology, to the district’s active and intensive utilization of technology across all grades and disciplines, and to the acceptance (through training) of technology as a major pedagogical tool by our faculty. The precise scope of the district’s technology purchases (i.e., numbers, types and locations) would be addressed during the next phase of this process, the implementation phase.
+The committee met eight times, deliberating more than fifty hours. This process culminated with the committee’s presentation to the Board and public on March 3, 1998. In building this technology plan, the members of the committee:
+- studied past Irvington UFSD technology plans,
+- visited 7 nearby districts, reviewed the current technology plans from those 7 as well as those of other districts,
+- collected research and visited Internet sites,
+- reviewed district resources, and
+- polled district faculty on their technology familiarity and needs.
+The end product of this labor, we believe, will help to build support for technology in our community and to focus our attention on fully integrating technology into our schools so as to provide our children with the tools which they will need to succeed in the future.
+The Irvington UFSD Technology Committee believes that the School District must provide our children with the tools and the experience to become well-rounded, productive citizens of our technologically advanced society and community. Our children face a new and more challenging world: a world in which a limitless wealth of research can be available at one’s fingertips; a world in which communications can be global and instantaneous; a world in which the organization, analysis and presentation of information can be effortless. It is up to our School District to enable our children to take advantage of these fantastic new opportunities. In order to accomplish this goal, our District must make a significant and sustained commitment regarding technology:
+The Irvington UFSD Technology Committee believes that our School District must seize the opportunities offered by technology to enhance our educational system. We must empower teachers in every classroom to use technology as they prepare our students for a lifetime of learning and employment in the 21st century. This will require significant innovation in the way we educate our students, in the way we support our teachers, and in the way we shape our curriculum.
+The Irvington UFSD Technology Committee strongly recommends that our School District make a significant investment in technology and implement a fresh educational approach today in order to insure our children’s success in the future.
+The Irvington Union Free School District strives to help each student discover and achieve his or her highest potential and to develop a life-long dedication to learning. In order to reach these goals, our schools must always provide an educational environment that is both challenging and supportive. Our schools must also place emphasis on mastery of the tools and skills necessary for critical thinking as well as for succeeding in our modern world. Clearly, technology has become one of the most critical tools that we must use to assist in educating our children.
+With this in mind, the Board of Education appointed a Technology Committee comprised of Board members, teachers and administrators to devise a Long Range Instructional Technology Plan. The committee’s mission included:
+- Designing a plan that would focus on the integration of technology into the everyday curriculum of our schools.
+- Making recommendations to the Board of Education at the March 3, 1998 Board of Education public meeting which would become part of the 1998-1999 Irvington School District budget.
+- Preparing for the subsequent implementation phase.
+The Technology Committee’s recommendations do not focus on specific technology choices, such as types of hardware to be purchased or the order in which District priorities are to be fulfilled. Rather, the mission of the Committee is to present the Board of Education, Administration and community with a strategic blueprint for the utilization of technology in the education of our students.
+Without question, the most important focus of the Irvington Long Range Instructional Technology Plan is its impact on the students in our district. The New York State Education Department mandates that any planning process must be focused on student achievement. The State Education Department also requires that technology be integrated into all curriculum areas and, as a result, each State Standard is written with an expectation of technology utilization.
+The focus of this long range instructional technology plan is to insure that the Irvington School District will have an educationally challenging and supportive environment wherein technology is utilized constantly, as an integral part of the curriculum, so as to maximize its benefits to our children. Proper technology implementation will improve achievement, give students the tools to be life-long learners and provide students with the skills necessary for creative and critical thinking. The following section outlines the specific areas in which technology will impact our students.
+Specific curriculum goals will be developed as part of the implementation process. We believe if we implement all the recommendations of the plan:
+- Students will have mastered a core of technology skills and tools needed for the challenges that they will face in the 21st century.
+  Students will be constantly immersed in the use of technology as a resource as they access information, refine their problem solving skills through simulations, expand their understanding of the world around them, and integrate subject matter as they complete projects. This will require both students and teachers to integrate a core set of computer skills into their daily lives.
+- Motivated students will be more engaged as active participants in the learning process.
+  As a direct result of using technology, students will be more active participants in the educational process. Students will feel empowered by a technologically rich and interactive environment which will allow them to easily access information as they seek to ask and answer their own questions. This, in turn, will promote more in-depth and complex research.
+The use of technology as a learning tool encourages project-based learning, fosters cooperative learning, and promotes teamwork.
+The highly visual aspects of technology will help engage students of different learning styles.
+- Students will be better communicators.
+  Students using technology will have increased interaction with outside learning communities including the library, other classrooms, outside experts and other communities through potential distance learning experiences. This exposure will increase the knowledge base of students.
+  Students will communicate using a variety of technology tools. Presently, these tools include word processing, e-mail, and the utilization of multi-media presentation software. Using these technologies will encourage students to write more often for a variety of audiences and will result in work of higher technical quality.
+The ability to communicate electronically will increase parent/teacher, teacher/teacher, and school/community communications. It will also support articulation between buildings and within buildings (grade levels/ subject areas).
+- Students will have access to current information.
+  Students will have access to resources such as electronic tools, graphics, videos, and
+    information located throughout the building from any location at any time. This access
+    will give students the tools to become better researchers and more complex thinkers. 
+- Students will have improved problem solving abilities.
+  Technology will allow students to more easily utilize a multi-disciplinary approach to research, promoting non-linear thinking.
+As a result of increased access to information and the use of software designed to simulate real life problems, students will become better critical thinkers, able to more easily evaluate and analyze information and sources. Simulation software will help provide a safe environment for students to take risks and make mistakes. It will also increase cooperative learning skills through group work.
+Teachers will be able to demonstrate multiple problem-solving strategies by using tools
+    such as simulations and other creative approaches.
+- Students will be more prepared to meet the new State Standards.
+  The new State Standards require students to be critical thinkers, able to integrate their learning from different subject areas. Technology is cross-disciplinary in nature, requiring students to think critically.
+Utilizing technology, students will eventually be able to work on individualized curriculum. Focused drill and practice in skills such as phonics, mathematical computation, and typing will be available. In addition, students with specialized needs including English as a Second Language (ESL) populations or students in need of language support will have lessons that are enhanced by the use of technology.
+In order to achieve these goals and objectives the Irvington Technology Planning Committee recommends that:
+- The Irvington UFSD, the Board of Education and the community commit to the ongoing
+    funding of technology in our schools.
+- The District have an ongoing mechanism and process to administer and evaluate the
+    technology plan.
+- The District provide an ongoing program of staff development focused on the application of technology for instruction and teacher productivity.
+- The District use good models of technology, which will dovetail with curricula.
+- Technical assistance be timely and effective, with a recognition that educational
+    concerns are a top priority.
+- The Irvington learning community -- staff, students, and parents -- have access to technology tools when needed so as to better promote the educational experience.
+Recommendation 1
+Critical Success Factors:
+- In year one and year two of implementation of this plan the District will fund the necessary purchases to acquire hardware and software, complete initial training, and make changes in staffing.
+- Thereafter, the District will commit for the foreseeable future a minimum of 1% of the yearly budget to technology. The District will create a line item in the yearly budget dedicated to technology. It will include moneys for:
+- system maintenance/upgrades/software and system support,
+- hardware replacement on a 3-5 year cycle, and
+- training on an ongoing basis.
+- The District will initially commit a substantial percentage (approximately 10%-15%) of technology funding for training, workshops, and curriculum integration.
+- While implementing this plan, the District will strive to be cost-effective and will investigate alternative funding sources including BOCES contracts, grants, foundation funding, and business partnerships.
+Recommendation 2
+- The District will hire a district-wide Technology Coordinator who will:
+- oversee the implementation of the plan
+- oversee day-to-day technical issues
+- execute policy and monitor progress
+- evaluate instructional technology requirements
+- supervise and schedule staff development
+- oversee software review and proposals
+- keep current with emerging technologies
+- work with consultant on technical issues
+- assess and revise the plan
+- carry out the priorities of the committee
+- make recommendations for the ordering, purchasing, and distribution of hardware
+- There will be a technology committee in each building made up of a building "point person," computer teachers, representatives from each grade or team, the specials and the support staff. These people will help implement the plan and discuss building technology needs. Representatives from this committee will serve on the Executive Committee.
+- There will be an Executive Committee, facilitated by the district-wide coordinator, with representation from each building (principal and "point person") for:
+- communication about implementation
+- staff development
+- articulation
+- review of plan
+- policy making
+- prioritization of needs
+- There will be a software sub-committee, which will review software and recommend its integration.
+Recommendation 3
+- All staff and administration will understand the importance of technology and
+    demonstrate a commitment to its successful integration into the curriculum.
+The technology initiative will be a central focus for the District and staff development
+    program.
+- In order to insure that technology is integrated into the curriculum, the District will target 10-15 hours of staff development per teacher, based on a needs assessment. The District will provide a variety of formal learning opportunities, focused on integrating technology into the teaching/learning process, and scheduled so as to minimize interruptions to the teaching day. These opportunities will be closely coordinated with installation schedules and may include:
+- summer institutes
+- in-service training
+- after-school workshops
+- Superintendent conference days.
+- One staff member from each grade level, team or discipline will be designated as a staff development support person. This support position will perform the following functions: 
+  - provide input in the development of staff development opportunities
+  - mentor new teachers
+  - model the uses of technology
+  - assist in software reviews
+  - deliver in-house staff development
+  - represent the grade level, team or discipline on planning teams.
+Staff development support personnel will be volunteers who make a commitment to be trained beyond the average staff member. They will serve for one year. Incentives for these individuals will be essential and may include: in-service credit, discounted hardware and software, free Internet access via school facilities, or use of a District-owned lap top computer.
+- In order to build staff competency and to develop and sustain leadership in each building, in-house personnel will be used to deliver staff development with outside help when necessary.
+- The District will encourage personal commitment on the part of its staff by:
+- providing facilities in the district available for staff development
+- providing Internet connections and e-mail accounts for teachers which will be used to design curricula and to contact parents of students
+- providing technology that can be borrowed by staff for home use.
+- When hiring new staff the District will search for those with technology experience.
+- The District will create an orientation for new staff to familiarize them with the district goals for the use of technology, as well as the technology resources and training available to them in their classrooms, in their school building and at the district level.
+- Each building will be expected to schedule time to allow for informal learning where staff can share expertise with other staff members. This information will be collected by the building point person and shared with others.
+- Staff development will enable personnel to remain current in both instructional and productivity technology applications.
+Recommendation 4
+- Student competencies, articulated by the grade level teams or departments, will be developed and updated on a regular basis.
+- Technology will be treated as part of the curriculum district-wide. The new model will eventually have computer technology located in every classroom and used as an integrated instructional tool. In addition, the District will maintain labs for special projects and training. There will be a phase-in period to allow for equipment acquisition and staff training.
+- Technological applications will be incorporated into the curriculum during periodic review cycles.
+- The District, through the Technology Coordinator, will stay informed of developing opportunities that may arise as a result of technological advances in hardware, software and applications.
+- A resource guide, updated periodically, should be developed for use by the teaching staff.
+- Each building must facilitate technology utilization through a careful analysis of scheduling.
+- Teachers should be exposed to model uses of technology in order to enable its proper integration into the curriculum.
+- Cooperative learning skills will be emphasized through technology projects.
+- Technology will be integrated into regular classroom activities by the beginning of Year 2 of this plan. This will require a shift in how technology services are delivered with regard to computer lab usage. Rather than being treated as a "special," computer labs will be used by classes under the guidance of their teacher who will conduct a lesson or guide project work. Students will learn specific technological skills while working on normal curriculum in their regular classroom setting.
+Recommendation 5
+- There will be a 24-hour response to most technical problems. There will be a dedicated
+    technology aide(s) available at each school as appropriate. This person will be the first
+    level of technical response for minor technical maintenance. Logs will be kept to record
+    routine maintenance and repairs. The technology aides will report to the district-wide
+    Technology Coordinator.
+- A process will be developed for prioritizing and monitoring support calls.
+- A process will be developed for maintaining an inventory of the supplies necessary for
+    the successful operation and upgrading of District hardware.
+- Maintenance and equipment upgrades will be scheduled on an on-going basis. Extensive
+    maintenance of hardware will be done semi-annually.
+Recommendation 6
+The Irvington learning community - students, staff, and parents - have easy access to technology tools, when needed, in order to promote the educational experience.
+- Students and staff will eventually have easy access to technology as their curriculum
+    demands. This will include access to a computer network throughout the school day for each
+    instructor for management, planning, curriculum development and parental contact.
+- Infrastructure that is up-to-date, high speed, and flexible will connect classrooms,
+    buildings and the community. This will require: 
+- electrical upgrades where needed
+- air conditioning where needed
+- input from teachers on locations of drops in the classroom
+- furniture that is ergonomically designed for children of all ages
+- provisions for special needs students.
+- Infrastructure should be audited on a regular basis to ensure that it remains current.
+- Hardware and software standards will be developed and revised as needed to ensure
+    compatibility during plan implementation. 
+- Hardware and software will be kept current and a process will be developed to analyze
+    the use of older equipment.
+- Systems should be integrated for all data management throughout District including the
+    administration, library, nurse and guidance office.
+- Teachers will have access to display devices, which will be easily accessible to every
+    classroom, when engaged in instruction.
+- District technology resources will be accessible to students, parents and the community. The District should keep the Computer Lab in the Irvington Middle School open after normal school hours for student access. Teachers will be given e-mail accounts to communicate with parents and access to District technology resources after normal school hours in order to develop curricula and access /maintain tudent records. Community members should have access to District technology resources through continuing education opportunities.
+- The District will investigate becoming involved in a distance learning network and other emerging technologies.
+- Each school in the District will have a web page maintained by the building technology point person and student members of a Computer Club (under strict supervision of the building technology point person).
+- A plan should be developed, in concert with the Irvington Education Foundation and PTSA, to make technology equipment available to children whose families may not be able to afford their own computers. Consider the purchase of lap tops for teachers and students to borrow for home use and e-mates for students in the primary and middle grades to borrow for home use.
+The Model Environments outlined below represent ideal and optimal goals, which we will endeavor to reach over the next 4 years. The actual technological environment in the Irvington Union Free School District which results from this Long Range Instructional Technology Plan will almost certainly differ from this description of Model Environments. The precise shape of the technological environment will be determined during the implementation phase of this plan by the District Technology Coordinator, in concert with the Building Technology Committees and the District Technology Committees. Over the next 5 years, the Model Environment will be modified by factors such as financial constraints, actual instructional needs as determined by the District Technology Coordinator and technological innovation. It is the charge of the District Technology Coordinator and the Technology Committees to continually analyze the needs of the District, while keeping in mind cost effectiveness to insure that the technology we acquire is necessary, desirable and, in the end, properly utilized.
+| Infrastructure | Classrooms | Lab | Library | Building Resources | 
+| Finish cabling/electronics Upgrade cabling/electronics Upgrade speed of lines | 4 student stations 1 teacher station 1 color printer 1 display device 1 VCR connection to building resources productivity suite and e-mail for staff | 26 student stations printers and other peripheral devices connection to building resources | 12 research stations connection to building resources large screen display laser disc upgrade Follett cirulation system color printers | CD tower scanner digital cameras and other peripheral devices | 
+| Infrastructure | Classrooms | Lab | Library | Building Resources | 
+| Finish/upgrade wiring/electronics move drops | 1 computer per room (Clusters of 4 where     appropriate) 1 display device 1 color printer 1 VCR connection to building resources productivity suite and e-mail | 26 workstations 1 scanner printers and other peripheral devices connection to building resources | automated 6 research stations printer and other peripheral devices 1 display device connection to building resources | CD tower scanner large display for auditorium digital camera and other peripheral devices | 
+| Infrastructure | Classrooms | Lab | Library | Building Resources | 
+| cable/electronics WAN access | 1 computer per room (Clusters of     4 where appropriate) 1 display device 1 printer 1 VCR connection to building resources productivity suite and e-mail | 25 workstations 1 scanner printers and other peripheral devices connection to building resources | automated 12 research stations 1 display device printer and other peripheral devices connection to building resources  | CD tower scanner large display for auditorium digital camera and other peripheral devices Distance Learning Lab |

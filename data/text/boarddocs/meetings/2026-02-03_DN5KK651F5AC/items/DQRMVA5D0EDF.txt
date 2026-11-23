@@ -1,0 +1,11 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/goto?open&id=DQRMVA5D0EDF | DATE: 2026-02-03 | TITLE: Regular Meeting | 13.8 Payment for Extracurricular Clubs
+
+Meeting: Feb 03, 2026 - Regular Meeting
+Date: 2026-02-03
+Category: 13. Personnel Matters
+Subject: 13.8 Payment for Extracurricular Clubs
+Type: Action (Consent)
+
+Name	Club	Group	Step	Payment	School
+John Leyden	Tech Director of Construction	6	3	$1,936	MS
+Christopher Siley	Tech Director of Lights and Sound	6	0	$1,760	MS

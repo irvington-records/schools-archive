@@ -1,0 +1,27 @@
+SOURCE http://www.irvingtonschools.org:80/softball.html | DATE 2001-04-23 | TITLE Softball
+
+Varsity Sports
+Coach: Denise Hamlin
+Assistant Coach: Flo Audevard
+| DATE | OPPONENT | TIME | 
+| Apr. 5 | Tuckahoe | 4:15 PM | 
+| Apr. 9 | Alexander Hamilton | 11:00 AM | 
+| Apr. 17 | at Briarcliff | 4:15 PM | 
+| Apr. 19 | at Woodlands | 4:15 PM | 
+| Apr. 20 | Rye Neck | 4:15 PM | 
+| Apr. 23 | Pleasantville | 4:30 PM | 
+| Apr. 25 | Edgemont | 4:15 PM | 
+| Apr. 27 | at Hastings | 4:15 PM | 
+| May 1 | Hastings | 4:15 PM | 
+| May 2 | at Westlake | 4:30 PM | 
+| May 5 | Ardsley Tournament at Losee Field, Tarrytown | 2:00 PM | 
+| May 5 | Ardsley Tournament at Losee Field, Tarrytown | 4:00 PM | 
+| May 7 | Valhalla | 4:15 PM | 
+| May 9 | at Valhalla | 4:15 PM | 
+| May 11 | Keio Academy | 4:15 PM | 
+| May 12 | Briarcliff Tournament at Losee Field, Tarrytown | 2:00 PM | 
+| May 12 | Briarcliff Tournament at Losee Field, Tarrytown | 4:00 PM | 
+| May 14 | Dobbs Ferry | 4:15 PM | 
+| May 15 | at Keio Academy | 4:15 PM | 
+| May 17 | at Dobbs Ferry | 4:15 PM | 
+| May 21 | at Blind Brook | 4:15 PM |

@@ -1,0 +1,32 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/goto?open&id=DA3NNF60A23D | DATE: 2024-10-22 | TITLE: Work Session | 11.13 Payment for Extracurricular Clubs
+
+Meeting: Oct 22, 2024 - Work Session
+Date: 2024-10-22
+Category: 11. Personnel Matters
+Subject: 11.13 Payment for Extracurricular Clubs
+Type: Action (Consent)
+
+Name
+	Club
+	Group
+	Step
+	Split
+	Payment	School
+Barbara Schoeller
+	Reader's Theater,
+Gr. 5
+	VIII
+	5
+	100%
+	$1,155.00	MSS
+Nadia Parikka
+	Science Research
+	V
+	3
+	50%
+	$1,530.00	HS
+Laura Gardner	French Club	VIII	0	67%	$580.22	MS
+Tia Fitzpatrick	French Club	VIII	0	33%	$285.78	MS
+Diana Cassidy	Senior Awards Coordinator	VII	2	50%	$779.50	HS
+Deanna Kahl	Senior Awards Coordinator	VII	2	50%	$779.50	HS
+Taylor O'Sullivan	Walking Club	VIII	0	100%	$866.00	MS

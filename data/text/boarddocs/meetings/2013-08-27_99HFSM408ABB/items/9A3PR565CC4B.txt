@@ -1,0 +1,29 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/goto?open&id=9A3PR565CC4B | DATE: 2013-08-27 | TITLE: Regular Meeting - 6:45 p.m. | 11.3 Budget Transfers
+
+Meeting: Aug 27, 2013 - Regular Meeting - 6:45 p.m.
+Date: 2013-08-27
+Category: 11. Business Office Matters
+Subject: 11.3 Budget Transfers
+Type: Action (Consent)
+
+Budget Transfer 12/13-16
+
+	Debit   A2250-490-00-0000 (Spec. Ed.-BOCES-Tuition)   $45,932
+
+	Credit  A9901-950-00-0002 (Transfer to Special Aid for State Supported Schools)  $45,932
+
+	This is to cover 2012/13 costs at NY School for the Deaf and NY Institute for Special Ed.
+
+	Budget Transfer 13/14 -01
+
+	Credit  A1620-410 (Building Security Services)                      $107,109.90
+
+	Debit   A2110-160 (Non-Instructional Salaries)                        $ 74,849.00
+
+	Debit   A9030-800 (Social Security)                                         $   5,726.00
+
+	Debit   A9010-800 (ERS)                                                          $ 13, 997.00
+
+	Debit   A1620-421-40 (Plant-Fuel)                                            $ 12,537.90
+
+	This is to cover Summit Security Contract.  Funds were budgeted for in-district personnel.

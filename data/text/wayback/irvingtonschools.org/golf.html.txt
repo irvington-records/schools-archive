@@ -1,0 +1,14 @@
+SOURCE http://www.irvingtonschools.org:80/golf.html | DATE 2002-05-04 | TITLE Golf
+
+Varsity/Junior Varsity Sports
+Coach: Bill Dyer
+| DATE | OPPONENTS | LOCATION/TIME | 
+| Apr. 1 | Dobbs Ferry | Ardsley CC at 4:00 PM | 
+| Apr. 8 | at Bronxville | Siwanoy CC at 4:00 PM | 
+| Apr. 9 | at Tuckahoe | Lake Isle at 4:00 PM | 
+| Apr. 17 | at Keio Academy | Canyon CC at 4:00 PM | 
+| Apr. 25 | at Edgemont | Sunnydale CC at 4:00 PM | 
+| Apr. 29 | Dobbs Ferry & Blind Brook | Ardsley CC at 4:00 PM | 
+| May 1 | at Blind Brook | Blind Brook CC at 4:00 PM | 
+| May 6 | Dobbs Ferry & Putnam Valley | Ardsley CC at 4:00 PM | 
+| May 13 | Conference Tournament | Sunnydale CC at 4:00 PM |

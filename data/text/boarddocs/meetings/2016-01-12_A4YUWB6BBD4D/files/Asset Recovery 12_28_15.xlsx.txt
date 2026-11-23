@@ -1,0 +1,223 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/pfiles/A5WQDC5797FF/$file/Asset%20Recovery%2012_28_15.xlsx | DATE: 2016-01-12 | TITLE: Regular Meeting | 12.5 Declaration of Obsolete/Surplus Equipment | Asset Recovery 12_28_15.xlsx
+
+--- sheet Sheet1 ---
+Type	Make	Model	Serial Number	ETL
+Monitor	Acer	V193W		117571
+Monitor	Acer	V193W		117594
+Monitor	Acer	V193W		116669
+Monitor	Dell	Ultra Sharp 1504f		105019
+Monitor	Dell	Ultra Sharp 1504f		104996
+Monitor	Dell	Ultra Sharp 1504f		105451
+Monitor	Dell	Ultra Sharp 1504f		105009
+Monitor	Dell	Ultra Sharp 1504f		105571
+Monitor	Dell	Ultra Sharp 1504f		105165
+Monitor	HP	1740	CNC62410R4	106288
+Monitor	HP	1740	CNC6240YH9	106377
+Monitor	HP	1740	CNC6241DX3	106279
+Monitor	HP	1740	CNC6240YG1	106357
+Monitor	HP	1740	CNC6240YJ1	106438
+Monitor	Dell	Ultra Sharp 1504f		106020
+Monitor	Dell	Ultra Sharp 1504f		104994
+Printer	HP	p1505	CNBK629669	116706
+Printer	Dell	2500	3QXR621	106072
+Printer	Dell	2500		117905
+Printer	HP	p1505	VND3C52574	117432
+Printer	HP	D4160	T0072DD106H04D6	115968
+Printer		D4160	T00726D299304D6	115748
+Printer		3845	T0053V1805D040R	115980
+Printer		D4160	T0072AD12GK04D6	116675
+Printer		D4160	T0072CD16TP04D6	115734
+Printer		D4160	T0072CD16TH04D6	115898
+Printer		3845	T0055E171BT040R	105875
+Printer		3845	T0055E1719F040R	105905
+Printer		3845	T0053V18064040R	106124
+Printer		D4160	T0072AD12RX04D6	115787
+Scanner	HP	Scanjet G3010	CN864A505B04R1	115808
+Scanner		4370	CN661A27DB04CM	116733
+Scanner		4370	CN63XA205V04CM	115768
+Scanner		4370	CN661A27C904CM	115740
+Scanner		3110	CN96VA51WK054T	117433
+Monitor	HP	1740	CNC6241DWL	106376
+Monitor			CNC6240YGQ	106339
+Monitor	Dell	Ultra Sharp 1504f		105001
+Monitor		Ultra Sharp 1504f		106069
+Monitor		Ultra Sharp 1504f		105107
+Monitor		Ultra Sharp 1504f		105007
+Monitor	Acer	V193W	99802788209	117589
+Monitor	Opriquest	q19wb	QCW071121875	106644
+Desktop Computer	Lenovo	m58e	1S7269B7UMJ19220	116687
+Desktop Computer		m58e	1S7269B7UMJ19283	116327
+Desktop Computer		m58e	1S7269B7UMJ19243	116435
+Desktop Computer		m58e	1S7269B7UMJ12815	116292
+Desktop Computer		m58e	1S7269B7UMJ19282	116437
+Desktop Computer		m58e	1S7269B7UMJ19212	116433
+Desktop Computer		m58e	1S7269B7UMJ19250	116426
+Desktop Computer		m58e	1S7269B7UMJ19266	116685
+Desktop Computer		m58e	1S7269B7UMJ17253	116417
+Desktop Computer		m58e	1S7269D7UMJXMY03	116423
+Desktop Computer		m58e	1S7269B7UMJ19229	
+Desktop Computer		m58e	1S7269B7UMJ16006	116673
+Desktop Computer		m58e	1S7269B7UMJ19264	116424
+Desktop Computer		m58e	1S7269B7UMJ19240	116682
+Desktop Computer		m58e	1S7269B7UMJ19195	116350
+Desktop Computer		m58e	1S8910ARUMJZBDR7	116428
+Desktop Computer		m58e	1S7269D7UMJWKX28	117493
+Monitor	HP	1740		117271
+Monitor	HP	1740		106397
+Monitor	HP	1740		106322
+Monitor	HP	1740		117126
+Monitor	HP	1740		106347
+Monitor	HP	1740		106435
+Monitor	HP	1740		106285
+Monitor	HP	1740		105574
+Monitor	HP	1740		106659
+Monitor	HP	1740		106660
+Monitor	HP	1740		106618
+Monitor	HP	1740		106425
+Monitor	HP	1740		106423
+Monitor	HP	1740		106670
+Monitor	HP	1740		106663
+Monitor	HP	1740		116065
+Monitor	HP	1740		106437
+Monitor	HP	1740		106421
+Monitor	HP	1740		117179
+Monitor	HP	1740		115725
+Monitor	HP	1740		106658
+Monitor	HP	1740		106362
+Monitor	HP	1740		106351
+Monitor	HP	1740		106404
+Monitor	HP	1740		117127
+Monitor	HP	1740		106418
+Monitor	HP	1740		106295
+Monitor	HP	1740		106386
+Monitor	HP	1740		106286
+Monitor	HP	1740		106365
+Monitor	HP	1740		104836
+Monitor	HP	1740		106378
+Monitor	HP	1740		106266
+Monitor	HP	1740		116088
+Monitor	HP	1740		106360
+Monitor	HP	1740		106383
+Monitor	HP	1740		106290
+Monitor	HP	1740		106400
+Monitor	HP	1740		106400
+Monitor	HP	1740		106399
+Monitor	HP	1740		106420
+Monitor	HP	1740		106699
+Monitor	HP	1740		116857
+Monitor	HP	1740		106444
+Monitor	HP	1740		106096
+Monitor	HP	1740		106049
+Monitor	HP	1740		106366
+Monitor	HP	1740		106393
+Monitor	HP	1740		106389
+Monitor	HP	1740		106305
+Monitor	HP	1740		106446
+Monitor	HP	1740		106330
+Monitor	HP	1740		106319
+Monitor	HP	1740		106310
+Monitor	HP	1740		106390
+Monitor	HP	1740		106298
+Monitor	HP	1740		106307
+Monitor	HP	1740		106277
+Monitor	HP	1740		106344
+Monitor	HP	1740		106394
+Monitor	HP	1740		106358
+Monitor	HP	1740		106388
+Monitor	HP	1740		106387
+Monitor	HP	1740		106556
+projector	infocus	in2114	BEHB03000001	118361
+monitor	dell	1504fp	MX05R1084760535SCHMS	116881
+monitor	dell	1504fp	MX05R1084760535SCHML	105277
+monitor	optiquest	vs11443	QCW071220841	106579
+battery	APC		b0305032213jaf	
+battery			SU48XLBP	
+monitor	hp	hp1740	CNC6241DW1	106367
+monitor	hp	hp1740	CNC6240YGR	117138
+monitor	optiquest	q19wb	QCW071220918	106669
+printer	hp laserjet	4200n		104858
+printer	hp laserjet	1200 series		115719
+printer	hp laserjet	1022n	VNB3D37019	106683
+laptop	dell	e6500	F1DRBM1	
+scanner	hp scanjet	4370	CN63XA208W04CM	116208
+desktop	lennovo	m58	1S6305B1ULKPMXBG	115855
+desktop	dell	BOCES	42964	
+printer	hp laserjet	1505n	VND3C51854	
+projector	mitsubishi	xd250u		117292
+projector	mitsubishi	xd280u		116296
+projector	infocus		BEHB03801522	117968
+projector	infocus		BEKB11300082	117485
+projector	NEC	VT580		106545
+projector	NEC	VT580		106470
+projector	mitsubishi	xd430u		116024
+printer	hp laserjet	1022n	VNB3M32802	106689
+printer	hp deskjet	d4160	T00726D14YD04D6	116036
+printer	hp laserjet	p4015n	CNDY122482	116072
+scanner	hp	l1911b	SG8AA5R0M3W0	117340
+desktop	lennovo	m58	1S7269B7UMJ17281	116413
+desktop	lennovo	m58	1S7269D7UMJWHA05	116938
+desktop	lennovo	m58	1S7269B7UMJ17279	116322
+battery	ups		S4A0733P32818	
+battery	ups		S4A0733P32818	
+battery	ups		1PRBC11	
+battery	ups		1PRBC11	
+printer	hp deskjet	d4160	T00726D14W404D6	115783
+printer	hp deskjet	d4160	T0072DD125F04D6	117304
+printer	hp deskjet	d4160	T0072DD125704D6	116707
+projector	mitsubishi	xd430c		118360
+projector	mitsubishi	xd221u		118159
+scanner	hp scanjet	4570c	SCN29PT807P1R	
+scanner	hp scanjet	4370	CN661A27CV04CM	115755
+scanner	hp scanjet	5200c	SG02G170GPHT	105864
+monitor	dell	ultra sharp	MX05R1084760535SCHR6	105375
+monitor	dell	ultra sharp	MX05R1084760535SCHQV	105196
+scanner	hp scanjet	4370	CN661A27CC04CM	115739
+scanner	hp scanjet	g3010	CN85UA508W04R1	115953
+scanner	hp scanjet	g3110	CN96VA50W0054T	117334
+monitor	acer	v179	884483086122	116691
+monitor	acer	v179	ETLE10D0339170A04F8521	116291
+monitor	dell	ultra sharp	MX05R1084760535SCGRQ	103531
+monitor	dell	ultra sharp	MX05R1084760535SCHS4	116468
+monitor	dell	ultra sharp	MX05R1084760535SCGSB	105038
+monitor	optiquest	q19wb	QCW071122768	106637
+monitor	optiquest	q19wb	QCW071220899	106678
+printer	hp laserjet	b2035n	CNB9D33470	117306
+printer	hp laserjet	4059tn	USCC184760	105402
+printer	hp laserjet	1022n	VNB3M32817	116017
+printer	hp laserjet	4250n	CNRXX34730	116227
+monitor	hp	1740	CNC62410RW	117746
+monitor	hp	1740	CNP517XCVP	104606
+monitor	hp	1740	CNC6241DWP	106267
+monitor	hp	1740	CNP517XCVR	104841
+monitor	dell	ultra sharp	MX05R1084760535SCHRJ	105383
+monitor	dell	ultra sharp	MX05R1084760535SCHRV	105306
+monitor	optiquest	q19wb	QCW071220910	106623
+monitor	optiquest	q19wb	QCW071220894	115704
+scanner	hp scanjet	g3010	CN85UA508604R1	116209
+projector	NEC	VT580		115717
+laptop	hp pavillon	6000		
+desktop	lennovo	m58	1S8910ARUMJZBDZ4	117499
+desktop	lennovo	m58	1S8910ARUMJZRNV9	117942
+desktop	lennovo	m58	1S7269B7UMJ17294	116337
+desktop	lennovo	m58	1S8910ARUMJZRNC9	117949
+desktop	lennovo	m58	1S7269D7UMJWKX25	116950
+desktop	dell	optiplex gx260	17BSP81	
+battery	APc		7A1147L11074	
+battery	APC		7A1147L11074	
+battery	APC		SU1400BX120	
+battery	APC		SU1400BX120	100679
+battery	APC		WS9931003044	
+battery	APC		7A1147L11074	
+desktop	lennovo	m58	11S45K6232ZVJ59705K07L	116922
+desktop	lennovo	m58	1S6305B1UMJ00927	115852
+desktop	lennovo	m58	1S7269B7UMJ19287	116419
+desktop	lennovo	m52	1S7269B7UMJ19198	117446
+switch	cisco	catalyst 4000	FOX06220YM0	100676
+copy writer	olympia	mastertype 3		
+printer	xerox	phaser 6360		116584
+battery	APC	smart ups 2200xl	JS0822008387	
+battery	APC	smart ups 2200xl	JS0822008380	
+battery	APC	smart ups 2200xl	JS0822008384	
+--- sheet Sheet2 ---
+--- sheet Sheet3 ---
+

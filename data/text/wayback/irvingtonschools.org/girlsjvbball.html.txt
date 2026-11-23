@@ -1,0 +1,23 @@
+SOURCE http://www.irvingtonschools.org:80/girlsjvbball.html | DATE 2003-04-19 | TITLE Girls JV Basketball
+
+Varsity/Junior Varsity Sports
+JV Coach: Kathleen Annicharico
+| DATE | OPPONENT | TIME | 
+| Dec. 6 | Rye Neck | 6:00 PM | 
+| Dec. 9 | at North Salem | 4:30 PM | 
+| Dec. 11 | Hastings | 6:15 PM | 
+| Dec. 16 | at Keio Academy | 6:15 PM | 
+| Dec. 20 | at Rye Neck | 6:15 PM | 
+| Jan. 6 | at Tuckahoe | 6:15 PM | 
+| Jan. 7 | at Croton-Harmon | 4:30 PM | 
+| Jan. 9 | Cedar Knolls | 5:00 PM | 
+| Jan. 11 | at Pleasantville | 5:00 PM | 
+| Jan. 13 | Briarcliff | 4:15 PM | 
+| Jan. 15 | Haldane | 7:00 PM | 
+| Jan. 17 | at Westlake | 5:00 PM | 
+| Jan. 25 | Croton-Harmon | 11:00 AM | 
+| Jan. 31 | Briarcliff | 4:15 PM | 
+| Feb. 4 | at Haldane | 4:30 PM | 
+| Feb. 6 | Westlake | 6:15 PM | 
+| Feb. 7 | Pleasantville | 6:15 PM | 
+| Feb. 11 | Cedar Knolls | 4:15 PM |

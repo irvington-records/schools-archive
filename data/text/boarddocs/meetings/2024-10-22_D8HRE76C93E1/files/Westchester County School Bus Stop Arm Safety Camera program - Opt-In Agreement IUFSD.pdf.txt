@@ -1,0 +1,766 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/pfiles/DA4PYS66F0B5/$file/Westchester%20County%20School%20Bus%20Stop%20Arm%20Safety%20Camera%20program%20-%20Opt-In%20Agreement%20IUFSD.pdf | DATE: 2024-10-22 | TITLE: Work Session | 9.7 Agreement with the County of Westchester for Participation in the Stop Arm Program | Westchester County School Bus Stop Arm Safety Camera program - Opt-In Agreement IUFSD.pdf
+
+     THIS OPT-IN AGREEMENT (THE “OPT-IN AGREEMENT”) TO
+PARTICIPATE IN THE WESTCHESTER COUNTY SCHOOL BUS STOP ARM
+SAFETY PROGRAM IS MADE AS OF THIS 22nd DAY OF October, 2024, BY AND
+BETWEEN
+
+
+       THE COUNTY OF WESTCHESTER, a municipal corporation of the State of New
+       York, having an office and place of business in the Michaelian Office Building, 148
+       Martine Avenue, White Plains, New York 10601 (hereinafter referred to as the “County”),
+       and
+       THE IRVINGTON UNION FREE SCHOOL DISTRICT, a school district of the State
+       of New York, having an office and principal place of business at 40 North Broadway,
+       Irvington, NY 10533 (hereinafter referred to as the “School District”).
+
+       and
+       BUSPATROL AMERICA LLC, a limited liability company, having its principal place
+       of business at 8560 Cinder Bed Road, Suite 100, Lorton, VA 22079 (“BusPatrol” or
+       “Contractor”).
+                                             RECITALS
+
+       WHEREAS, pursuant to New York Session Law Chapter 145 of the Laws of 2019, the
+County enacted Local Law 6-2023 (the “Local Law”) to establish a demonstration program (the
+“Program”) imposing vehicle owner liability for failure of an operator thereto to comply with
+Section 1174 of the New York Vehicle and Traffic Law (“VTL”) when meeting a school bus
+marked and equipped as provided in subdivisions 20 and 21-c of section 375 of the VTL and
+operated in the County pursuant to Section 1174-a; and
+
+        WHEREAS County has entered into an agreement with BusPatrol, dated June 10, 2024,
+(hereinafter the “Agreement”) to install and operate the Program through, among other things, the
+installation of school bus photo violation monitoring systems on school buses that can be used to
+automatically produce recorded images of a vehicle at the time it is used or operated in violation
+of Section 1174-a of the VTL; and
+
+        WHEREAS, the County and Participating School District are authorized, pursuant to New
+York Session Law Chapter 145 of the Laws of 2019, as amended by New York Session Law
+Chapter 56 of the Laws of 2024, and the Local Law, as amended from time to time (collectively,
+referred to as the “Stop Arm Law”), to enter into an agreement for, among other things, the
+installation, maintenance, and use of school bus photo violation monitoring systems on school
+buses owned or operated by the school district or privately owned and operated for compensation
+under a contract with such school district; and
+
+        WHEREAS, Participating School District desires to enter into this agreement to authorize
+the County, through its contractor BusPatrol, to install, maintain and use the school bus photo
+violation monitoring systems on school buses operated within the Participating School District as
+authorized by the Stop Arm Law.
+
+                                                1
+
+       NOW, therefore, it is mutually agreed by and between the Parties hereto as follows:
+
+1. Purpose. This Opt-In Agreement constitutes a formal, binding agreement between the
+   Participating School District, the County and BusPatrol (together, the “Parties”), for the
+   installation, maintenance, and use of school bus photo violation monitoring systems on school
+   buses owned or operated by the Participating School District or privately owned and operated
+   for compensation under a contract with such Participating School District in accordance with
+   the Stop Arm Law (the “BusPatrol System”).
+2. Authorization. The Parties’ execution of this Opt-In Agreement will serve as authorization
+   for the County, through its contractor BusPatrol, to install, maintain and use the BusPatrol
+   System on buses owned and operated by the Participating School District or privately owned
+   and operated for compensation under contract with such Participating School District
+   according to the terms of this Opt-In Agreement.
+   The Participating School District represents and warrants that it has not entered into an
+   agreement with any city, town or village within the County to participate in a school bus stop
+   arm program.
+3. Payment. In accordance with the Stop Arm Law and the Agreement, the County will be solely
+   responsible for paying BusPatrol for the installation, maintenance and use of the BusPatrol
+   System on buses owned and operated by the Participating School District or privately owned
+   and operated for compensation under contract with such district as set forth in the Agreement.
+   Nothing in this Opt-In Agreement shall be deemed to amend the Agreement. Participating
+   School District will have no responsibility for payment of any amounts due to BusPatrol for
+   the installation, maintenance or use of the BusPatrol System under this Opt-In Agreement.
+4. Responsibilities of the Parties:
+           a. BusPatrol. BusPatrol is responsible for:
+              i.  providing all equipment and services necessary to install, maintain and use
+                  the BusPatrol System;
+
+              ii.    Installing the BusPatrol System in a safe and secure manner;
+
+              iii.   Installing the BusPatrol System so that it is out of reach of the children and
+                     any other occupants of the bus;
+
+              iv.    Installing the BusPatrol System so that its installation and use do not interfere
+                     with the operation of the school bus;
+
+              v.     Providing for remote monitoring on the BusPatrol System with periodic
+                     checks to detect any problems with the BusPatrol System and promptly
+                     correcting, repairing and addressing any problems detected;
+
+              vi.    Promptly repairing and replacing any part of the BusPatrol System, as
+                     necessary, throughout the term of the Opt-In Agreement so that it remains in
+                     good condition and proper working order; and
+
+                                                  2
+
+   vii. Complying with all applicable federal, state and local laws, rules, regulations,
+        orders or ordinances applicable to the Opt-In Agreement or the work to be
+        performed under the Opt-In Agreement.
+
+b. County. County is responsible for establishing the Program pursuant to Stop Arm
+   Law, including, but not limited to:
+      i. Arranging for County Enforcement Technician to review evidence
+          packages and approve or disapprove potential notices of violation of the
+          Stop Arm Law;
+       ii. Installing signage provided by BusPatrol and as set forth in the Local Law
+           in conformance with standards established in the Manual of Uniform Traffic
+           Control Devices;
+      iii. Reviewing and approving BusPatrol invoices for payment, in accordance
+           with the Agreement; and
+      iv. Submitting an annual report on the results of the BusPatrol System to the
+          governor, the temporary president of the senate and the speaker of the
+          assembly.
+c. Participating School District. Participating School District is responsible for:
+        i. Providing BusPatrol or its agents with access to buses owned or operated
+           by the District beginning on the installation start date to be mutually agreed
+           upon by the District, the County and BusPatrol with the understanding that
+           the Parties want the maximum amount of buses outfitted with Enforcement
+           Cameras to the extent reasonably possible. If Participating School District
+           does not own and operate the buses customarily used on the routes in its
+           district, then Participating School District shall use reasonable efforts to
+           enter into an agreement with the private owner(s) and operator(s) of those
+           buses to allow BusPatrol to install and operate its equipment on such buses,
+           at no cost to BusPatrol. If Participating School District does not enter into
+           such agreement with the private owner(s) and operator(s), or if any private
+           owner or operator fails to provide BusPatrol will access to school buses, the
+           County or BusPatrol or Participating School District, at its option, may
+           terminate the Opt-In Agreement;
+       ii. Providing BusPatrol with ongoing access to any and all BusPatrol
+           equipment installed on buses owned or operated by the Participating School
+           District or its third-party bus operator, as reasonably necessary for
+           BusPatrol to operate, maintain, and, upon expiration or termination of the
+           Opt-In Agreement, remove, the BusPatrol Equipment and BusPatrol
+           Systems;
+      iii. Providing BusPatrol with electronic copies of school bus routing
+           information, in Excel or CSV format, if possible, for the purpose of
+           identifying high risk routes and prioritizing an installation schedule;
+
+                                     3
+
+                  iv. To the extent practicable, use reasonable efforts to maintain the routes
+                      identified in Subsection 4(c)(iii);
+                   v. Using all reasonable efforts to properly store, secure, maintain, and repair
+                      the school buses when not in use to reasonably safeguard the BusPatrol
+                      System;
+                  vi. Appointing a designated point of contact, identified above, who shall be
+                      authorized to act on behalf of the Participating School District on all matters
+                      relating to this Opt-In Agreement and Participating District’s use of and
+                      participation in the Program;
+                 vii. The Participating School District shall use reasonable steps to ensure that
+                      all buses are equipped and operated in compliance with the specifications
+                      required by the Federal, State, or local law, including New York State VTL
+                      § 375 to the extent applicable, and provide BusPatrol with certificates of
+                      inspection issued by the New York State Department of Transportation
+                      (DOT) pursuant to section 140 of the New York Transportation Law and
+                      the safety rules and regulations promulgated thereunder, and other
+                      documents or declarations pertaining to the inspection of the buses by the
+                      DOT;
+                viii. The Participating School District shall provide the County with any
+                      information concerning the buses and routes necessary for the County to
+                      meet its reporting requirements under the Stop Arm Law; and
+                  ix. The Participating School District shall provide BusPatrol with a list of the
+                      school buses for which the BusPatrol Equipment will be installed and the
+                      model of each such school bus.
+5. License, Restricted Use. The Participating School District grants to BusPatrol a license to
+   use the school buses to install the BusPatrol System, including BusPatrol Equipment and
+   BusPatrol Software and other BusPatrol Intellectual Property (collectively “BusPatrol
+   Intellectual Property”), solely for purposes of carrying out this Opt-In Agreement. This license
+   shall continue for so long as this Opt-In Agreement remains in effect and shall expire
+   immediately upon termination or expiration of this Agreement. BusPatrol shall immediately
+   cease any and all use of the BusPatrol Intellectual Property on the school buses upon
+   termination or expiration of this Opt-In Agreement.
+   The Participating District agrees that it will not use the BusPatrol Intellectual Property for any
+   purpose. Participating School District will not disclose the BusPatrol Intellectual Property to
+   any third parties without the prior express written permission of BusPatrol; will not make any
+   modifications to the BusPatrol System; and will not attempt to disassemble, de-compile or
+   otherwise perform any type of reverse engineering to the BusPatrol System or cause any other
+   person to do any of the foregoing.
+   Any image or images captured by BusPatrol Systems shall be inadmissible in any disciplinary
+   proceeding convened by the Participating School District or any school bus contractor thereof,
+   and any proceeding initiated by the department of motor vehicle involving licensure privileges
+
+                                                 4
+
+   of school bus operators. Any school bus photo violation monitoring device mounted on a
+   school bus shall be directed outwardly from such school bus to capture images of vehicles
+   operated in violation of Section 1174 of the VTL, and images produced by such device shall
+   not be used for any other purpose.
+
+6. Nothing in the preceding paragraph shall prohibit the Participating School District from
+   entering into a separate written agreement with BusPatrol for the installation of Non-
+   Enforcement Cameras in its school buses. Non-Enforcement Cameras means internal cameras
+   and other related equipment, including audio recording equipment, installed by BusPatrol on
+   the school bus to allow authorized personnel within the Participating School Districts to
+   monitor student safety on board the bus. The Parties acknowledge and agree that the County
+   shall have no responsibility or liability with regard to Non-Enforcement Cameras.
+7. Reporting. Participating School District, acting by and through the Superintendent of Schools
+   of such District, or his or her designee shall provide any report required of the Participating
+   School District pursuant to Stop Arm Law, to the State or any official thereof. BusPatrol and
+   County agree to work with the Participating School District to provide any information or other
+   reasonable assistance necessary for the Participating School District to prepare and submit any
+   required reports.
+8. Restrictions on Access to Enforcement Data. In accordance with the Stop Arm Law and the
+   Agreement, the Parties agree that BusPatrol will implement controls and configure the
+   BusPatrol System to safeguard enforcement data generated by the external cameras and other
+   components of the BusPatrol Stop Arm Enforcement Solution as follows:
+           a. Pursuant to Section 1174-a (a)(3)(i) of the Vehicle and Traffic Law, BusPatrol will
+              implement controls and configure the BusPatrol system to: (i) prevent Participating
+              School District from accessing any photographs, microphotographs, videotapes,
+              other recorded images and data from the BusPatrol Systems; (ii) to provide for the
+              proper handling and custody of such photographs, microphotographs, videotapes,
+              other recorded images and data produced by such systems; and (iii) to provide for
+              the forwarding of such photographs, microphotographs, videotapes, other recorded
+              images and data to the County for the purpose of determining whether a motor
+              vehicle was operated in violation of Section 1174-a of the VTL and imposing
+              monetary liability on the owner of such motor vehicle therefor.
+           b. BusPatrol will implement controls and configure the BusPatrol Systems to ensure
+              that all photographs, microphotographs, videotapes, other recorded images and data
+              produced by the BusPatrol Systems shall be destroyed (i) ninety days after the date
+              of the alleged imposition of liability if a notice of liability is not issued for such
+              alleged imposition of liability pursuant to the Local Law or (ii) upon final
+              disposition of a notice of liability issued pursuant to the Local Law.
+9. Insurance and Indemnification. BusPatrol agrees to procure and maintain insurance naming
+   the County and the Participating School District as additional insured, as provided and
+   described in Schedule “A,” entitled "Standard Insurance Provisions", which is attached hereto
+   and made a part hereof. In addition to, and not in limitation of the insurance provisions
+   contained in Schedule “A”, the Contractor agrees:
+
+                                                 5
+
+    PROFESSIONAL SERVICES: For all matters arising out of the Contractor's professional
+    services, the Contractor agrees, to the fullest extent permitted by law, to defend, indemnify
+    and hold harmless the County, its officers, employees and elected officials, as well as the
+    Participating School District, its officers, employees, and elected officials against damages,
+    liabilities and costs, including reasonable attorney's fees, to the extent caused by the negligent
+    performance of the Contractor, or third parties under the direction or control of the Contractor,
+    in the performance of professional services under this Opt-In Agreement.
+
+   GENERAL LIABILITY: For all matters other than those arising out of the Contractor's
+   professional services (such other matters commonly referred to as "General Liability Claims"),
+   the Contractor agrees to the fullest extent permitted by law to defend, indemnify and hold the
+   County, its officers, employees, and elected officials, as well as the Participating School
+   District, its officers, employees and elected officials, harmless from any and all such losses,
+   claims, liens, demands and causes for action, including but not limited to, judgments, penalties,
+   interest, court costs, and legal fees incurred by the County or the Participating School District
+   on behalf of any party, in connection with or arising directly or indirectly from this Opt-In
+   Agreement. The Contractor shall investigate, handle, respond to and defend any such claims,
+   demands or suits at its sole expense, and shall bear all other related costs and expenses even if
+   such claims, demands or suits are groundless, false or fraudulent. This indemnification section
+   shall survive the expiration or termination of Opt-In Agreement.
+
+   In any matter in which indemnification hereunder for either professional or non-professional
+   services would violate Section 5-322.1 this of the New York General Obligations Law or any
+   other applicable legal prohibition, the foregoing provisions shall not be construed to indemnify
+   the County or Participating School District for damage arising out of bodily injury to persons
+   or to property caused by or resulting from the sole negligence of County employees or
+   Participating School District employees. The term "employee" shall include all officers,
+   elected officials, advisory board members and/or volunteers serving the County or
+   Participating School District.
+
+
+10. Changes. Changes to this Opt-In Agreement may be made only by mutual written agreement
+    of the Parties.
+11. Term, Termination.
+           a. This Opt-In Agreement shall commence on the date of the last signature below and
+               continue for a term that is coterminous with the term of the Agreement, including
+               any renewals and extensions thereof, unless sooner terminated as provided for
+               below
+
+           b. This Opt-In Agreement may be terminated by the Participating School District by
+               providing 120 days prior written notice to the other parties.
+
+           c. The Participating School District, the County or BusPatrol may terminate this Opt-
+              In Agreement in the event of a breach by another party, which is not remedied
+              within thirty (30) days following written notice to the breaching party, or in the
+
+                                                 6
+
+                case of a breach, which cannot with due diligence be cured within said thirty (30)
+                day period, the breaching party fails within such thirty (30) day period to
+                commence to cure the same and thereafter to diligently and continuously prosecute
+                such cure to the completion (it being intended in connection with a default not
+                susceptible of being cured with due diligence within such thirty (30) day period
+                that the breaching party’s time to cure the same shall be extended for such period
+                as may be reasonably necessary to complete the same with due diligence).
+
+            d. This Opt-In Agreement will automatically terminate in the event the Agreement is
+                terminated in accordance with the terms of said Agreement.
+
+            e. In the event of a termination, Participating School District shall allow BusPatrol
+               reasonable access to buses owned and operated by the Participating School District
+               or its third-party bus operator, to allow BusPatrol to remove the BusPatrol
+               Equipment in accordance with the wind down provisions of the Agreement.
+
+12. Non-Assignment. This Opt-In Agreement may not be assigned by any party without prior
+    written consent of all other parties. Any purported delegation of duties or assignment of rights
+    under this Opt-In Agreement without the such prior express written consent is void.
+13. Executory. All amounts to be paid to BusPatrol for the performance of the services called for
+    in this Opt-In Agreement will be paid solely from the civil fines and penalties collected from
+    the operation of the BusPatrol System, as provided for in the Agreement and by the Stop Arm
+    Law. BusPatrol assumes the risk that program revenues will be sufficient to cover its costs and
+    expenses, and therefore agrees that neither this Opt-In Agreement nor any representation by
+    any public employee or officer creates any legal or moral obligation to request, appropriate or
+    make available moneys for the purpose of this Opt-In Agreement in the event that gross
+    revenues collected over the life of this Opt-In Agreement (including any extensions thereof)
+    are insufficient to cover any costs, expenses or fees associated with this Opt-In Agreement
+    owed to BusPatrol. BusPatrol will have no claim against the County or Participating School
+    District for the payment of any such unpaid costs, expenses, or fees.
+14.WAIVER OF CONSEQUENTIAL DAMAGES. In no event shall any Party be liable to the
+   other Party for any indirect, special, consequential, or punitive damages, however caused,
+   regardless of the theory of liability (contract, tort or otherwise), including, but not limited to,
+   loss of revenue or profits, foreseen or unforeseen, associated with any aspect of the Program.
+   For the avoidance of doubt, BusPatrol in no event shall be liable for loss of revenue, including,
+   but not limited to, loss of revenue caused by the malfunctioning or nonfunctioning of the
+   BusPatrol System.
+
+15. Notice. All notices of any nature referred to in this Opt-In Agreement shall be in writing and
+    either sent by registered or certified mail postage pre-paid, or delivered by hand or overnight
+    courier, or sent by facsimile (with acknowledgment received and a copy of the notice sent by
+    registered or certified mail postage pre-paid), to the addresses as set forth below or to such
+    other addresses as the respective parties hereto may designate in writing. Notice shall be
+    effective on the date of receipt. Notices shall be sent to the following:
+
+
+
+                                                  7
+
+       To the County:
+
+                              Commissioner
+                              Westchester County Department of Public Safety
+                              1 Saw Mill River Parkway
+                              Hawthorne, New York 10532
+
+                      with a copy to:
+
+                              Westchester County Attorney
+                              Michaelian Office Building
+                              148 Martine Avenue, Room 600
+                              White Plains, New York 10601-3311
+
+       To BusPatrol America LLC:
+
+                              Karoon Monfared, CEO
+                              8560 Cinder Bed Road, Suite 100
+                              Lorton, Virginia 22079
+                              karoon@buspatrol.com
+
+                              with a copy to:
+
+                              Christiana Stover, Associate General Counsel
+                              8560 Cinder Bed Road, Suite 100
+                              Lorton, Virginia 22079
+                              christiana.stover@buspatrol.com
+
+       To the Participating School District:
+
+                              Carol Stein, Assistant Superintendent for Business
+                              6 Dows Lane
+                              Irvington, NY 10533
+                              carol.stein@irvingtonschools.org
+
+16. Non-Waiver. Failure of either Party to exercise any rights under this Opt-In Agreement for a
+    breach thereof shall not be deemed a waiver thereof or a waiver of any subsequent breach.
+
+17. Severability. If any provision of this Opt-In Agreement shall be held unenforceable, the rest
+    of the Opt-In Agreement shall nevertheless remain in full force and effect.
+
+18. Choice of Law, Venue. This Opt-In Agreement shall be governed, construed, and enforced
+    in accordance with the laws of the State of New York. In addition, the Parties agree that any
+    cause of action arising out of this Opt-In Agreement will be brought in the County of
+    Westchester.
+
+
+
+                                                8
+
+19. No Arbitration. Disputes involving this contract, including the breach or alleged breach
+    thereof, may not be submitted to binding arbitration but must instead be heard in accordance
+    with the Paragraph above entitled “Choice of Law, Venue.”
+
+20. Counterparts. This Opt-In Agreement may be executed in any number of counterparts, all of
+    which taken together shall constitute one agreement, and any of the Parties hereto may execute
+    this Opt-In Agreement by signing any such counterpart.
+
+21. Entire Agreement. The terms of this Opt-In Agreement, including its attachments and
+    exhibits, represent the final intent of the Parties. Any modification, rescission, or waiver of
+    the terms of this Opt-In Agreement must be in writing and executed and acknowledged by the
+    Parties with the same formalities accorded this basic Opt-In Agreement.
+
+22. County Attorney Approval. The Opt-In Agreement shall not be enforceable until signed by
+    the Parties and approved by the Office of the County Attorney.
+
+
+
+                                    [Intentionally Left Blank.
+                                      Signatures to Follow.]
+
+
+
+
+                                                9
+
+       IN WITNESS WHEREOF, the Parties hereto have caused this Opt-In Agreement to be
+executed by their respective duly authorized officers in counterparts.
+
+
+BUSPATROL AMERICA LLC:
+
+
+By: _____________________________
+Name: Karoon Monfared
+Title: CEO, BusPatrol America LLC
+Date: __________________________
+
+
+
+
+                                         10
+
+                               UNIFORM ACKNOWLEDGMENT
+                                      (BUSPATROL)
+
+
+STATE OF NEW YORK                 )
+                                  ) ss.:
+COUNTY OF                         )
+
+
+
+                 On the __________ day of ________________ in the year 20__ before me, the
+undersigned, personally appeared _____________________________, personally known to me
+or proved to me on the basis of satisfactory evidence to be the individual(s) whose name(s) is
+(are) subscribed to the within instrument and acknowledged to me that he/she/they executed the
+same in his/her/their capacity(ies), and that by his/her/their signature(s) on the instrument, the
+individual(s), or the person upon behalf of which the individual(s) acted, executed the
+instrument.
+
+
+
+
+Date: _____________                            ___________________________________
+                                                      Notary Public
+
+
+
+
+RPL § 309-a; NY CPLR § 4538
+
+
+
+
+                                                 11
+
+            CERTIFICATE OF AUTHORITY-LIMITED LIABILITY COMPANY
+                               (BUSPATROL)
+
+
+       I, ______________ _________________________________________,
+             (member or manager other than person executing the agreement)
+
+certify that I am the ____________________________________________________________
+                      (member/manager)            (Name of Limited Liability Company)
+
+(the “LLC”) duly organized under the Laws of the State of _________________________; that
+                                                                  (Name of State)
+
+____________________________________ who signed said Agreement on behalf of the LLC
+       (Person Executing Agreement)
+
+was, at the time of execution, a manager of the LLC; that said Agreement was duly signed for and
+on behalf of said LLC and as the act of said LLC for the purposes therein mentioned.
+
+
+
+                      ______________________________
+                            (Signature)
+
+
+
+STATE OF NEW YORK           )
+                                ss.:
+COUNTY OF ____________)
+
+
+On the ______ day of ___________ in the year 20__ before me, the undersigned, a Notary Public
+in and for said State, ________________________________personally appeared, personally
+known to me or proved to me on the basis of satisfactory evidence to be the member/manager
+described in and who executed the above certificate, who being by me duly sworn did depose and
+say that he/she resides at ______________________________________, and he/she is a
+member/manager of said LLC; that he/she is duly authorized to execute said certificate on behalf
+of said LLC, and that he/she signed his/her name thereto pursuant to such authority.
+
+
+Date: _______                                ________________________________
+                                                         Notary Public
+
+
+
+
+                                              12
+
+COUNTY OF WESTCHESTER:
+
+By: _______________________________
+Name: Terrance Raynor
+Title: Commissioner, Department of Public Safety
+Date: _______________________________
+
+Approved by the Westchester County Board of Acquisition and Contract on the ______ day of
+___________, 2024.
+
+Approved:
+
+
+________________________________
+Associate Westchester County Attorney
+
+
+
+
+                                             13
+
+PARTICIPATING SCHOOL DISTRICT:
+
+By: _______________________________
+Name: Susan Brunenavs_
+Title: President of the Board of Education
+Date: ______________________________
+
+
+
+
+                                             14
+
+                                    ACKNOWLEDGMENT
+                              (PARTICIPATING SCHOOL DISTRICT)
+
+
+STATE OF NEW YORK    )
+                     ) ss.:
+COUNTY OFWESTCHESTER )
+
+
+
+                 On the __________ day of ________________ in the year 2024 before me, the
+undersigned, personally appeared Susan Brunenavs, personally known to me or proved to me on
+the basis of satisfactory evidence to be the individual(s) whose name(s) is (are) subscribed to the
+within instrument and acknowledged to me that he/she/they executed the same in his/her/their
+capacity(ies), and that by his/her/their signature(s) on the instrument, the individual(s), or the
+person upon behalf of which the individual(s) acted, executed the instrument.
+
+
+
+
+Date: _____________                          ___________________________________
+                                                     Notary Public
+
+
+
+
+RPL § 309-a; NY CPLR § 4538
+
+
+
+
+                                                15
+
+                               CERTIFICATE OF AUTHORITY
+                             (PARTICIPATING SCHOOL DISTRICT)
+
+
+        I,                    Susan Brunenavs,
+                   (School Official other than official signing contract)
+
+certify that I am the           President of the Board of Education of
+                                           (Title)
+the                             Irvington Union Free School District
+                                    (Name of School)
+
+a School duly organized and in good standing under the New York Education Law named in the
+foregoing agreement; that
+                             Susan Brunenavs
+                             (Person executing agreement)
+who signed said agreement on behalf of the Irvington Union Free School District
+                                               (Name of School)
+
+was, at the time of execution President of the Board of Education
+                                    (Title of such person)
+
+of the School and that said agreement was duly signed for and on behalf of said School by authority
+of its Board of Education, thereunto duly authorized and that such authority is in full force and
+effect at the date hereof.
+
+
+
+                                        ______________________________
+                                                    (Signature)
+
+
+STATE OF NEW YORK     )
+                      ) ss.:
+COUNTY OF WESTCHESTER )
+
+        On the ______ day of ___________ in the year 202___ before me, the undersigned, a
+Notary Public in and for said State, ________________________________personally appeared,
+personally known to me or proved to me on the basis of satisfactory evidence to be the officer
+described in and who executed the above certificate, who being by me duly sworn did depose and
+say that he/she resides at ___________________________________________________, and
+he/she is an official of said school district; that he/she is duly authorized to execute said certificate
+on behalf of said school district, and that he/she signed his/her name thereto pursuant to such
+authority.
+
+
+                                                        ___________________________________
+                                                        Notary Public
+                                                        Date
+
+
+
+
+                                                   16
+
+                      SCHEDULE “A” TO THE OPT IN AGREEMENT
+                             STANDARD INSURANCE PROVISIONS
+                                   (BusPatrol/Contractor)
+
+
+        1.      Prior to commencing work, and throughout the term of the Agreement, the
+Contractor shall obtain at its own cost and expense the required insurance as delineated below
+from insurance companies licensed in the State of New York, carrying a Best's financial
+rating of A or better. Contractor shall provide evidence of such insurance to the County of
+Westchester (“County”), either by providing a copy of policies and/or certificates as may be
+required and approved by the Director of Risk Management of the County (“Director”). The
+policies or certificates thereof shall provide that ten (10) days prior to cancellation or material
+change in the policy, notices of same shall be given to the Director either by overnight mail or
+personal delivery for all of the following stated insurance policies. All notices shall name the
+Contractor and identify the Agreement.
+
+                 If at any time any of the policies required herein shall be or become
+unsatisfactory to the Director, as to form or substance, or if a company issuing any such
+policy shall be or become unsatisfactory to the Director, the Contractor shall upon notice to
+that effect from the County, promptly obtain a new policy, and submit the policy or the
+certificate as requested by the Director to the Office of Risk Management of the County for
+approval by the Director. Upon failure of the Contractor to furnish, deliver and maintain such
+insurance, the Agreement, at the election of the County, may be declared suspended,
+discontinued or terminated.
+
+              Failure of the Contractor to take out, maintain, or the taking out or maintenance
+of any required insurance, shall not relieve the Contractor from any liability under the
+Agreement, nor shall the insurance requirements be construed to conflict with or otherwise
+limit the contractual obligations of the Contractor concerning indemnification.
+
+             All property losses shall be made payable to the “County of Westchester” and
+adjusted with the appropriate County personnel.
+
+                In the event that claims, for which the County or Participating School District
+may be liable, in excess of the insured amounts provided herein are filed by reason of
+Contractor’s negligent acts or omissions under the Agreement or by virtue of the provisions of
+the labor law or other statute or any other reason, the amount of excess of such claims or any
+portion thereof, may be withheld from payment due or to become due the Contractor until such
+time as the Contractor shall furnish such additional security covering such claims in form
+satisfactory to the Director.
+
+                In the event of any loss, if the Contractor maintains broader coverage and/or
+higher limits than the minimums identified herein, the County and Participating School
+District shall be entitled to the broader coverage and/or higher limits maintained by the
+Contractor. Any available insurance proceeds in excess of the specified minimum limits of
+insurance and coverage shall be available to the County and Participating School District.
+
+
+
+                                                  17
+
+       2       The Contractor shall provide proof of the following coverage (if additional
+coverage is required for a specific agreement, those requirements will be described in the
+Agreement):
+
+   a) Workers' Compensation and Employer’s Liability. Certificate form C-105.2 or State Fund
+      Insurance Company form U-26.3 is required for proof of compliance with the New York
+      State Workers' Compensation Law. State Workers' Compensation Board form DB-120.1
+      is required for proof of compliance with the New York State Disability Benefits Law.
+      Location of operation shall be "All locations in Westchester County, New York."
+
+
+       Where an applicant claims to not be required to carry either a Workers' Compensation
+       Policy or Disability Benefits Policy, or both, the employer must complete NYS form CE-
+       200, available to download at: http://www.wcb.ny.gov.
+
+       If the employer is self-insured for Workers’ Compensation, he/she should present a
+       certificate from the New York State Worker's Compensation Board evidencing that fact
+       (Either SI-12, Certificate of Workers’ Compensation Self-Insurance, or GSI-105.2,
+       Certificate of Participation in Workers’ Compensation Group Self-Insurance).
+
+   b) Commercial General Liability Insurance with a combined single limit of $1,000,000
+      (c.s.1) per occurrence and a $2,000,000 aggregate limit naming the “County of
+      Westchester” and the Participating School District as an additional insured on a primary
+      and non-contributory basis. This insurance shall include the following coverages:
+
+
+         i. Premises - Operations.
+
+         ii. Broad Form Contractual.
+
+        iii. Independent Contractor and Sub-Contractor.
+
+        iv. Products and Completed Operations.
+
+
+   c) Commercial Umbrella/Excess Insurance: $2,000,000 each Occurrence and Aggregate
+      naming the “County of Westchester” and the Participating School Districts as
+      additional insured, written on a “follow the form” basis.
+
+
+       NOTE: Additional insured status shall be provided by standard or other endorsement that
+       extends coverage to the County of Westchester for both on-going and completed
+       operations.
+
+       All Contracts involving the use of explosives, demolition and/or underground work
+       shall provide proof that XCU is covered.
+
+   d) Automobile Liability Insurance with a minimum limit of liability per occurrence of
+      $1,000,000 for bodily injury and a minimum limit of $100,000 per occurrence for
+      property damage or a combined single limit of $1,000,000 unless otherwise indicated
+
+                                               18
+
+       in the contract specifications. This insurance shall include for bodily injury and
+       property damage the following coverages and name the “County of Westchester” and
+       the Participating School District as additional insured:
+
+
+               (i) Owned automobiles.
+              (ii) Hired automobiles.
+             (iii) Non-owned automobiles.
+
+   e) Cyber Liability insurance with a combined single limit of $1,000,000 (c.s.1) per
+   occurrence and a $2,000,000 aggregate limit naming the “County of Westchester” and the
+   Participating School District as an additional insured on a primary and non-contributory
+   basis.
+
+
+       3.    All policies of the Contractor shall be endorsed to contain the following clauses:
+              (a) Insurers shall have no right to recovery or subrogation against the County
+(including its employees and other agents and agencies) or the Participating School District, it
+being the intention of the parties that the insurance policies so effected shall protect both
+parties and be primary coverage for any and all losses covered by the above-described
+insurance.
+
+              (b) The clause "other insurance provisions" in a policy in which the County or
+Participating School District is named as an insured, shall not apply to the County or
+Participating School District.
+
+              (c) The insurance companies issuing the policy or policies shall have no
+recourse against the County (including its agents and agencies as aforesaid) or the
+Participating School District for payment of any premiums or for assessments under any form
+of policy.
+
+            (d) Any and all deductibles in the above described insurance policies shall be
+assumed by and be for the account of, and at the sole risk of, the Contractor.
+
+
+
+
+                                                19
+

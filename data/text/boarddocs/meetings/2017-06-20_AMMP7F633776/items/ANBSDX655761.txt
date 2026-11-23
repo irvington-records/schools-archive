@@ -1,0 +1,55 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/goto?open&id=ANBSDX655761 | DATE: 2017-06-20 | TITLE: Work Session/Special Meeting | 11.15 Budget Transfer 16/17-11
+
+Meeting: Jun 20, 2017 - Work Session/Special Meeting
+Date: 2017-06-20
+Category: 11. Business Office Matters
+Subject: 11.15 Budget Transfer 16/17-11
+Type: Action (Consent)
+
+Transfer Out Code A1480.490.00.0000 for $6,550.00
+
+Transfer In Code A2010.490.00.0000 for $6,550.00
+
+Transfer Out Code A2630.400.40.6000 for $12,500.00
+
+Transfer In Code A2020.490.00.0000 for $12,500.00
+
+Transfer Out Code A2110.400.40.4000 for $12,500.00
+
+Transfer In Code A2110.490.00.0000 for $12,500.00
+
+Transfer Out Code A2110.490.10.0000 for $4,390.00
+
+Transfer In Code A2110.490.35.0000 for $4,390.00
+
+Transfer Out Code A2110.4901.20.0000 for $1,680.00
+
+Transfer In Code A2110.490.35.0000 for $1,680.00
+
+Transfer Out Code A2110.490.40.7000 for $620.00
+
+Transfer In Code A2110.490.35.0000 for $620.00
+
+Transfer Out Code A2110.400.40.4000 for $775.00
+
+Transfer In Code A2110.490.35.0000 for $775.00
+
+Transfer Out Code A2110.490.10.0000 for $1,862.00
+
+Transfer In Code A2110.490.30.0000 for $1,862.00
+
+Transfer Out Code A1680.490.00.0000 for $4,800.00
+
+Transfer In Code A2280.490.00.0000 for $4,800.00
+
+Transfer Out Code A1310.490.00.0000 for $1,646.00
+
+Transfer In Code A2280.490.00.0000 for $1,646.00
+
+Transfer Out Code A2250.400.40.4000 for $12,240.00
+
+Transfer In Code A2250.490.00.0000 for $12,240.00
+
+Transfer Out Code A2250.40.3500 for $2,000.00
+
+Transfer In Code A2250.490.00.0000 for $2,000.00

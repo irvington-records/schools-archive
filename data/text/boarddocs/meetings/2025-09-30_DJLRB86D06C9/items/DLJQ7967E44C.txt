@@ -1,0 +1,26 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/goto?open&id=DLJQ7967E44C | DATE: 2025-09-30 | TITLE: Regular Meeting | 12.10 Appointment of Winter 2025/26 Coaches
+
+Meeting: Sep 30, 2025 - Regular Meeting
+Date: 2025-09-30
+Category: 12. Personnel Matters
+Subject: 12.10 Appointment of Winter 2025/26 Coaches
+Type: Action (Consent)
+
+First Name	Last Name	Sport	Level	Season	Group	Step	Stipend
+Rocco	Cipriano	Basketball (Boys)	Varsity Head	Winter	1	2	$8,329.00
+Brendan	O'Sullivan	Basketball (Boys)	Varsity Assistant	Winter	1	2	$5,414.00
+James	DeRonda	Basketball (Boys)	Junior Varsity Head	Winter	1	2	$5,830.00
+Barbara	Constantine	Basketball (Girls)	Varsity Assistant	Winter	1	8	$6,024.00
+Kaitlin	Degnan	Basketball (Girls)	Junior Varsity Head	Winter	1	6	$6,405.00
+Martin	Resendiz	Basketball (Girls)	Modified Head	Winter	1	8	$5,560.00
+James	Madison	Bowling	Varsity Head	Winter	2	4	$7,273.00
+Tiffany	Flynn	Fencing	Varsity Head	Winter	2	3	$7,214.00
+Kaleigh	Kessler	Fencing	Varsity Assistant	Winter	2	2	$4,651.00
+Kevin	Hagen	Ice Hockey	Varsity Head	Winter	1	8	$8,681.00
+Jason	Williams	Winter Track	Varsity Head	Winter	1	2	$8,329.00
+Michael	McQuillan	Winter Track	Varsity Assistant	Winter	1	2	$5,414.00
+Antionette	Watkins	Winter Track	Varsity Assistant	Winter	1	1	$5,376.00
+Jennifer	Lentini	Winter Track	Modified Head	Winter	1	8	$5,208.00
+Sarah	Reilly	Winter Track	Modified Assistant	Winter	1	2	$4,581.00
+Edgar	Solis	Wrestling	Varsity Head	Winter	1	7	$8,622.00
+Ryan	Duffy	Wrestling	Varsity Assistant	Winter	1	4	$5,490.00

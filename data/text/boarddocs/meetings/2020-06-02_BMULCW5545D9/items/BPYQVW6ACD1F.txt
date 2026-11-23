@@ -1,0 +1,63 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/goto?open&id=BPYQVW6ACD1F | DATE: 2020-06-02 | TITLE: Public Hearing/Regular Meeting | 12.3 Rescission of Spring Modified Coaching Positions
+
+Meeting: Jun 02, 2020 - Public Hearing/Regular Meeting
+Date: 2020-06-02
+Category: 12. Personnel Matters
+Subject: 12.3 Rescission of Spring Modified Coaching Positions
+Type: Action (Consent)
+
+First Name
+			Last Name
+			SPORT
+			Level
+			Group
+			Step
+			Salary
+
+			Michael
+			Esteves
+			Baseball
+			Mod Head
+			III
+			2
+			$ 4,303.00
+
+			Carol
+			Labella
+			Boys Tennis
+			Mod Head
+			IV
+			8
+			$ 3,521.00
+
+			Suzanne
+			Carroll
+			Girls Lacrosse
+			Mod Head
+			III
+			1
+			$ 3,293.00
+
+			James
+			Horan
+			Softball
+			Mod Head
+			III
+			3
+			$ 4,336.00
+
+			Jim
+			Buckley
+			Track (Boys/Girls)
+			Mod Head
+			III
+			8
+			$ 4,499.00
+
+			Luann
+			Ricciardi
+			Track (Boys/Girls)
+			Mod Asst
+			III
+			8
+			$ 4,124.00

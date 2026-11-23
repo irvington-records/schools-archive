@@ -1,0 +1,17 @@
+SOURCE https://sites.google.com/irvingtonschools.org/irvington-hour-of-code/middle-school | DATE unknown | TITLE Hour of Code at Irvington UFSD - Middle School
+
+Embedded Files
+Learn the basics of coding in Python, then create a game that shoots a sprite to the stars! To shoot your shot you'll first need to learn how to create key, interval, and collision events. BLAST OFF!
+Type: Python
+Play, design game characters(sprites), and code a shark attack game.
+Type: Block coding
+Create a climate clock that counts down to a specific day in the future when the time to save our planet from human-induced climate change has run out. Use knowledge on objects, properties, functions, loops.
+Type: JavaScript
+Start coding for good by creating animations featuring notable women leaders and quotes that express their point of view.
+Type: Drag and drop/JavaScript
+Create a paint editor to draw with the mouse, then add features such as a clear button and the ability to fill areas with color.
+We need your help! Embark on an epic quest where you take control of the game through your powers of programming. Become the hero, unlock loot, and expand your arsenal of code to rescue the town. Then use AI strategies to assemble a party for a final goblin boss battle!
+Type: Javascript, Python
+Images retrieved from https://hourofcode.com/us/learn
+Page updated 
+Report abuse

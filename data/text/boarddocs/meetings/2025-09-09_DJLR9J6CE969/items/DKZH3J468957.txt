@@ -1,0 +1,205 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/goto?open&id=DKZH3J468957 | DATE: 2025-09-09 | TITLE: Regular Meeting | 8.3 Rescindment of Policies from Old Policy Manual
+
+Meeting: Sep 09, 2025 - Regular Meeting
+Date: 2025-09-09
+Category: 8. Policy
+Subject: 8.3 Rescindment of Policies from Old Policy Manual
+Type: Action
+
+The polices contained in the old manual are redundant and have been incorporated within polices covered in the new manual.  Board resolution is required.
+
+Old manual
+	Already covered in new manual
+
+Old Section 3000 - Community Relations
+
+Old #
+	Policy Title
+	New #
+	Policy title
+
+3210
+	Visitors to the Schools
+	5300
+	Code of Conduct
+
+3282
+	Public Conduct on School Property
+	5300
+	Code of Conduct
+
+3282-R
+	Public Conduct on School Property
+	5300
+	Code of Conduct
+
+3220
+	Confidentiality of Computerized Information
+	8635
+	Information and Data Privacy, Security, Breach and Notification
+
+3410
+	Maintenance of Public Order on School Property
+	5300
+	Code of Conduct
+
+3411
+	Unlawful Possession of a Weapon Upon School Property
+	5300
+	Code of Conduct
+
+3412
+	Threats of Violence in School
+	5300
+	Code of Conduct
+
+Old Section 5000 - Operations
+
+Old #
+	Policy Title
+	New #
+	Policy title
+
+5520
+	Extraclassroom Activities Fund
+	5252
+	5000 Students
+
+5571
+	Allegations of Fraud
+	9645
+	Disclosure of Wrongful Conduct (to be renumbered 6190)
+
+5651
+	Celebrations in Irvington Schools District
+	5405
+	Student Wellness
+
+5681
+	Emergency Management Plan
+	8130
+	School Safety Plans and Teams
+
+5682
+	Crisis Response
+	8130
+	School Safety Plans and Teams
+
+5684
+	Fire Drills, Bomb Threats and Bus Emergency Drills
+	8130
+	School Safety Plans and Teams
+
+5684-R
+	Fire Drills, Bomb Threats and Bus Emergency Drills Regulation
+	8130
+	School Safety Plans and Teams
+
+5710-R
+	Purchasing Regulation
+	6700-R
+	Purchasing Regulation
+
+Old Section 7000 - Students
+
+Old #
+	Policy Title
+	New #
+	Policy title
+
+7110
+	Attendance
+	5100
+	Student Attendance
+
+7122
+	Attendance Records
+	5100
+	Student Attendance
+
+7122.1
+	Excuses and Absences
+	5100
+	Student Attendance
+
+7130
+	Entitlement to Attend -- Age and Residency
+	5150
+	School Admissions
+
+7131
+	Admission of Non-Resident Students
+	5152
+	Admission of Non-Resident Students
+
+7310.1
+	School Conduct and Discipline
+	5300
+	Code of Conduct
+
+7312
+	Student Dress Code
+	5300
+	Code of Conduct
+
+7313
+	Suspension of Students
+	5300
+	Code of Conduct
+
+7315
+	Academic Honesty
+	5300
+	Code of Conduct
+
+7320
+	Alcohol, Drugs and Other Substances (Students)
+	5300
+	Code of Conduct
+
+7330
+	Searches and Interrogations
+	5300
+	Code of Conduct
+
+7340
+	Bus Rules and Regulations
+	5300
+	Code of Conduct
+
+7350
+	Corporal Punishment
+	5300
+	Code of Conduct
+
+7351
+	Use of Time Out Rooms and Physical Restraints
+	4321.12
+	Timeout and Physical Restraint (All Students)
+
+7360
+	Weapons in School
+	5300
+	Code of Conduct
+
+7550
+	Complaints and Grievances by Students
+	0100
+	Non-Discrimination and Equal Opportunity
+
+7560
+	Notification of Sex Offenders
+	5450.1
+	Notification of Sex Offenders
+
+Old Section 8000 - Instruction
+
+Old #
+	Policy Title
+	New #
+	Policy title
+
+8110
+	Curriculum Development, Resources, and Evaluation
+	4200
+	Curriculum Management

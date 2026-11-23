@@ -1,0 +1,43 @@
+SOURCE https://www.irvingtonschools.org/fs/resource-manager/view/5fab875a-f2ba-45cc-9e0a-00c1464a42fc | DATE 2025-07-08 | TITLE leadtestingwatersampling-19-23.pdf
+
+EAS Batch No.      2302350                                                                                                                                 Page 1 of 1
+                                                                 Eastern Analytical Services, Inc.
+                                                                                 Water Sample Report
+                                                                        RE: Irvington Middle/High School
+
+
+Date Collected:    04/19/2023                                                                                          Client: RegCom
+Collected By:      Nicholas Coon                                                                                               245 Albany Avenue
+Date Received:     04/19/2023                                                                                                  Thornwood, NY 10594
+Date Analyzed:     04/20/2023
+Analyzed By:       Ernest Sanchez
+Signature:
+Analyte:           Pb Water
+Analytical Method: EPA 200.9
+NYS Lab Number: 10851
+
+
+Sample ID# /                        Sample Location                                             Sample Notes                                          Concentration
+Lab ID#
+
+1                                   Gym Entrance Side                                           Bottle Filler                                      BDL < 0.001 mg/L
+2909393
+
+
+2                                   B-Wing                                                      Bottle Filler                                      BDL < 0.001 mg/L
+2909394
+
+3                                   Nurses Waiting Room                                         Sink                                               BDL < 0.001 mg/L
+2909395
+
+
+4                                   Not Applicable                                              Blank                                              BDL < 0.001 mg/L
+2909396
+
+
+
+
+BDL = Below Detectable Limits
+Liability Limited to Cost of Analysis
+Results Applicable to Those Items Tested
+Rhode Island DOH No. LAO00107 Massachusetts DOL No. A A 000072    Connecticut DOH No. PH-0622   Maine DEP No. LA-024   Vermont DOH No. AL-709936

@@ -1,0 +1,74 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/pfiles/9R7NUA52A655/$file/Extracurricular%20clubs%202014-2015.xls | DATE: 2014-12-02 | TITLE: Regular Meeting | 10.3 Payment for Extracurricular Clubs | Extracurricular clubs 2014-2015.xls
+
+--- sheet CLUBS ---
+2014-2015	EXTRACURRICULAR CLUBS				
+Advisor	Club/Stipended Position	GROUP	STEP	AMOUNT	
+DOWS LANE					
+Chris Cullen	Recycling Rangers	VI	0.0	1587.0	
+MSS					
+Lisa Gervasi	Destination Imagination (PTSA funded)	V	0.0	2646.0	
+Georgia Tasigiannis	Destination Imagination (PTSA funded)	V	0.0	2646.0	
+Amy Jones	Homework Club 4th Grade (split)	III	5.0	1852.0	
+Jessica Knoblich	Homework Club 4th Grade (split)	III	0.0	1720.0	
+Julie Cangelosi	Homework Club 5th Grade (split) 25%	III	3.0	900.0	
+Danielle Lee	Homework Club 5th Grade (split) 50%	III	0.0	1720.0	
+Alison Meiseles	Homework Club 5th Grade (split) 25%	III	3.0	900.0	
+Christine Rosner	Mathletes-4	VIII	8.0	1217.0	
+Nancy Woeckener	Mathletes-5	VIII	4.0	1005.0	
+Diane Watkinson	School Store 4-5	VII	5.0	1587.0	
+Nina Rossi	Set Design	VII	6.0	1640.0	
+Georgia Tasigiannis	Stage Manager	VII	2.0	1429.0	
+Deb Ottaviano	Theatre Club	VI	8.0	2011.0	
+IMS					
+Deanna Tessler	French Club	VIII	8.0	1217.0	
+Debra Scofield	Geography Club	VIII	0.0	794.0	
+Luann Ricciardi	Green Team	VII	4.0	1535.0	
+Judy Nadler	Homework Center 6  	III	4.0	3651.0	
+Caroline Lehoczky	Homework Center 7/8	III	2.0	3545.0	
+Philip Levine	IMS Music Honor Society	VII	5.0	1587.0	
+Samantha Gold	Literay Magazine	IV	0.0	3175.0	
+Luann Ricciardi	Midnight Run	VII	7.0	1693.0	
+Linda Palumbo	National Junior Honor Society	VII	2.0	1429.0	
+Bernie Keating	Ping Pong Club (split)	VIII	4.0	503.0	
+Griffin Murray	Ping Pong Club (split)	VIII	4.0	503.0	
+Mary Bachrach	School Store	VII	8.0	1746.0	
+Karen Bodnar 	Science Olympiad (split)	V	8.0	1535.0	
+Nicole Medina	Science Olympiad (split)	V	4.0	1429.0	
+Allyson Tempest	Spanish Club	VIII	2.0	900.0	
+Carol LaBella	Student Council	VII	3.0	1482.0	
+Diana Cassidy	Student Council	VII	0.0	1323.0	
+Teresa Hunt	Talent Show  	VIII	0.0	794.0	
+Diana Tomaselli	Yearbook	IV	5.0	3439.0	
+IHS					
+Alison Zerbo	Academic Challenge	V	0.0	2646.0	
+Stephen DiGiovanni	AV Club MS/HS	I	6.0	2408.0	
+Gina Maher	AV Club MS/HS	I	6.0	2408.0	
+Trish Many	Community Service Coordinator	V	0.0	2646.0	
+Victoria Romano	Dance Club	VII	2.0	1429.0	
+Stephen DiGiovanni	Drama Production (Instrumental) (Fall)	II	2.0	4074.0	
+Stephen DiGiovanni	Drama Production (Instrumental) (Spring)	II	2.0	4074.0	
+Holly Sewalk	Environmental/Recycling Club	VIII	7.0	1164.0	
+Lisa Bednarz	Flag Team	VIII	8.0	1217.0	
+Luann Ricciardi	Freshman/Sophomore Class Advisor	VII	3.0	1482.0	
+Deb Tuzman	High School Band	VII	3.0	1482.0	
+Trish Many	Key Club (split)	VIII	8.0	609.0	
+Holly Koester	Key Club (split)	VIII	5.0	529.0	
+Jonathan Silverman 	Latin Club (split)	VIII	8.0	609.0	
+Michele Cella	Latin Club (split)	VIII	8.0	609.0	
+Jennifer McArdle	Literary Magazine	VII	0.0	1323.0	
+Erik Weiselberg	Mock Trial	VIII	8.0	1217.0	
+Jeff Rieck	Model UN	V	2.0	2752.0	
+Carleen Julian	Senior Class Advisor	IV	8.0	3598.0	
+Claudia Rodriguez	Student Government (split)	V	4.0	1429.0	
+Sara Lake-Garcia	Student Government (split)	V	5.0	1455.0	
+Donna Devaney	TV Club	VII	3.0	1482.0	
+Jessica Hughes	Yearbook Assistant	IV	0.0	3175.0	
+Diana Selenow	Drama Production/director (Fall)	I	8.0	4921.0	BOCES
+Diana Selenow	Drama Production/director (Spring)	I	8.0	4921.0	BOCES
+Jane Abbott	Drama production/choreographer (Fall)	IV	2.0	3281.0	BOCES
+Jane Abbott	Drama production/choreographer (Spring)	IV	2.0	3281.0	BOCES
+Ryan Frame	Theatrical prod. (Tech Ass't. Fall)	II	3.0	4127.0	BOCES
+Ryan Frame	Theatrical Prod. (Tech. Asst./Spring)	II	3.0	4127.0	BOCES
+--- sheet Sheet2 ---
+--- sheet Sheet3 ---
+

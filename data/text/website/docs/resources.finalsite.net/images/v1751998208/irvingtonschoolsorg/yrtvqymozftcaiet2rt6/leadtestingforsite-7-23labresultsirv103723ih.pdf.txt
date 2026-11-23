@@ -1,0 +1,53 @@
+SOURCE https://www.irvingtonschools.org/fs/resource-manager/view/6d2b0f1c-94e4-4062-bfe2-ed4fc20fed83 | DATE 2025-07-08 | TITLE leadtestingforsite-7-23labresultsirv103723ih.pdf
+
+EAS Batch No.      2303144                                                                                                                                 Page 1 of 1
+                                                                 Eastern Analytical Services, Inc.
+                                                                                 Water Sample Report
+                                                                              RE: CPN IRV-1037-23-IH
+
+
+Date Collected:    05/25/2023                                                                                          Client: RegCom
+Collected By:      Nicholas Coon                                                                                               245 Albany Avenue
+Date Received:     05/25/2023                                                                                                  Thornwood, NY 10594
+Date Analyzed:     05/26/2023
+Analyzed By:       Ernest Sanchez
+Signature:
+Analyte:           Pb Water
+Analytical Method: EPA 200.9
+NYS Lab Number: 10851
+
+
+Sample ID# /                        Sample Location                                             Sample Notes                                          Concentration
+Lab ID#
+
+1                                   Room 112                                                    Sink                                                     0.001 mg/L
+2917520
+
+
+2                                   Room 112                                                    Bubbler                                            BDL < 0.001 mg/L
+2917521
+
+3                                   Room 115                                                    Sink                                                     0.001 mg/L
+2917522
+
+
+4                                   Room 115                                                    Bubbler                                                  0.001 mg/L
+2917523
+
+5                                   Room 204                                                    Sink                                                     0.007 mg/L
+2917524
+
+
+6                                   Room 202                                                    Sink                                               BDL < 0.001 mg/L
+2917525
+
+7                                   Not Applicable                                              Blank                                              BDL < 0.001 mg/L
+2917526
+
+
+
+
+BDL = Below Detectable Limits
+Liability Limited to Cost of Analysis
+Results Applicable to Those Items Tested
+Rhode Island DOH No. LAO00107 Massachusetts DOL No. A A 000072    Connecticut DOH No. PH-0622   Maine DEP No. LA-024   Vermont DOH No. AL-709936

@@ -1,0 +1,935 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/pfiles/A7VKPT4E9F6C/$file/2016-17%20Budget%20Development%20Presentation%20Curriculum%20Tech%20PPS%20Athletics%20V14%20FINAL.pdf | DATE: 2016-03-08 | TITLE: Regular Meeting* | 4.1 Budget Presentation: Curriculum, Athletics, Technology and Special Education/Pupil Personnel Services and Employee Benefits | 2016-17 Budget Development Presentation Curriculum Tech PPS Athletics V14 FINAL.pdf
+
+     Irvington UFSD
+             2016-17
+       BUDGET DEVELOPMENT
+
+CURRICULUM, TECHNOLOGY, ATHLETICS,
+ PPS, SPECIAL EDUCATION, & EMPLOYEE
+               BENEFITS
+
+           MARCH 8, 2016
+
+                      Public Meetings
+                                    2
+
+ January 12           Administrative Roundtable-Discussion of Needs
+ February 9           State of the Budget
+ February 23          Business, Debt Service, B&G, Transportation, &
+                       Insurance
+ March 8              Curriculum, Technology, Athletics, PPS, Special
+                       Education, & Employee Benefits
+ March 22             Superintendent’s Proposed Budget, Revenue,
+                       Tax Cap
+ April 5              Budget Discussion
+ April 12             Budget Discussion & Revisions
+ April 19             Budget Adoption
+ May 3                Budget Hearing
+ May 17               Budget Vote & BOE Trustee Election
+
+                *Additional Public Forums To Be Facilitated*
+
+           Budget Development Objectives
+                                           3
+
+ Develop fiscally responsible budget that is mindful of the impact of the school
+  budget on the entire school community
+ Provide opportunity for:
+   New and expanded student experiences
+
+   Enhanced curriculum
+
+   Professional development
+
+   Maintain and improve facilities
+
+ Sustain required and valued services and programs:
+   Extracurricular experiences
+
+     ▪ Clubs & athletics
+   AP courses, honors, electives
+
+   Music programs
+
+   Bus monitors
+
+   Special education
+
+   Support services (i.e. Guidance & Student Assistance Counselor)
+
+        Challenges in Meeting Objectives
+                                    4
+
+
+ Limitations as a result of the Tax Levy Cap
+ Uncertainty of State Aid
+   Governor unjustly withholding state aid amidst political wrangling
+   Restoration of Gap Elimination Adjustment (GEA)
+
+   State aid increases unknown at this time
+
+ Maintenance of responsible tax rate
+ District’s financial obligations:
+   Pension
+
+   Benefits
+
+   Salary
+
+   Debt service
+     NYS, SED & Federal mandates
+
+          Budget Presentation Structure
+                                    5
+
+
+ Overview of variances between the 2015-16 budget & 2016-17 proposals
+ Itemized outlines of budget categories
+ Supporting documents available
+ Tax cap, tax rate & overall taxation impact will be reviewed as a
+  component of the Superintendent’s Proposed Budget on March 22
+
+     Tonight’s Presentation & Discussion
+                                  6
+
+
+ Outline anticipated expenditures and introduce budgetary
+  considerations:
+   Curriculum & Instruction
+
+   Technology
+
+   Pupil Personnel Services & Special Education
+
+   Athletics
+
+   Employee Benefits
+
+      Proposed Instruction Related Budgets
+                                    7
+
+
+ The instruction-related budgets will be introduced by budgeting
+  categories
+ These budgets include expenses associated with:
+   Instructional personnel
+
+   Curricular materials (supplies, textbooks, equipment, etc.)
+
+   Professional development
+
+     Other expenses such as copiers, BOCES services, etc.
+
+             Instruction Budget Points
+                                 8
+
+
+ 2.46% ($420,373) budget category variance
+   Actual budget-to-budget increase without new budgetary
+    considerations
+     Contractual salary increases
+     Decrease in homebound instruction requirements
+     Increase in necessary textbook requests
+     Accounting for BOCES photocopying of instructional
+      materials – previously covered by budget transfers
+
+                                     Proposed Instruction Budget
+                                                                                                   9
+
+                                                          2015-16           2016-17*                                                  2016-17**               2016-17
+                                                         APPROVED         PUSH AHEAD          CHANGE          % VARIANCE            NEW BUDGET              PROPOSED           CHANGE     % VARIANCE
+                                                          BUDGET            BUDGET                                                 CONSIDERATIONS            BUDGET
+CODE      DESCRIPTION                         FTE
+
+2110 Teaching - Regular School
+    110 Teaching Salaries (K-3)              36.04        4,066,315          4,140,385             74,070             1.82%                         0          4,140,385         74,070        1.82%
+    120   Teaching Salaries (4-6)            34.21        3,677,811          3,731,229             53,418             1.45%                         0          3,731,229         53,418        1.45%
+    130   Teaching Salaries (7-12)           69.28        7,531,853          7,813,086            281,233             3.73%                         0          7,813,086        281,233        3.73%
+    140   Substitute Salaries                               240,000            250,000             10,000             4.17%                         0            250,000         10,000        4.17%
+                                              7+
+    160   Non-instructional Salaries          hrly          708,500            705,493             (3,007)           -0.42%                         0           705,493          -3,007        -0.42%
+    200   Equipment                                          48,213             46,510             (1,703)           -3.53%                         0            46,510          -1,703        -3.53%
+    400   Other Expense - Instruction                       148,722             85,390            (63,332)          -42.58%                         0            85,390         -63,332       -42.58%
+    403 Other Expense - Equipment Repair                   10,000               10,000                  0             0.00%                         0             10,000              0        0.00%
+    404 Other Expense- Commencement                        14,750               15,750              1,000             6.78%                         0             15,750          1,000        6.78%
+    405 Rental of Instructional Equipment                  99,000              100,000              1,000             1.01%                         0            100,000          1,000        1.01%
+    406 Professional Development - Conf.                   39,000               44,195              5,195            13.32%                         0             44,195          5,195       13.32%
+    410 Student Assistance Services                        56,022               56,900                878             1.57%                         0             56,900            878        1.57%
+    415 Student Accident Insurance                         27,350               34,000              6,650            24.31%                         0             34,000          6,650       24.31%
+    450 Supplies                                          175,429              175,236              (193)            -0.11%                         0            175,236           -193       -0.11%
+    480 Textbooks                                         138,417              165,545             27,128            19.60%                         0            165,545         27,128       19.60%
+    490 BOCES Services                                    138,164              166,200             28,036            20.29%                         0            166,200         28,036       20.29%
+   TOTAL TEACHING REGULAR SCHOOL                     $ 17,119,546     $     17,539,919            420,373             2.46%    $                    0   $     17,539,919 $      420,373        2.46%
+
+
+
+2280 Occupational Education
+    150 Instructional Salaries-Indust.Arts     1.0           96,334             96,334                   0            0.00%                         0            96,334              0         0.00%
+    450 Supplies - Ind. Arts                                  4,150              4,150                   0            0.00%                         0             4,150              0         0.00%
+    490 BOCES Services                                       31,458             32,400                 942            2.99%                         0            32,400            942         2.99%
+   TOTAL OCCUPATIONAL EDUCATION                      $      131,942   $        132,884                 942            0.71%    $                    0   $       132,884    $       942         0.71%
+
+
+
+                                                     * Push Ahead Budget: cost of maintaining existing programs and services
+                                                     ** New Considerations: recommended enhancements from Administration
+                                                      # Increase in health ins. waivers + summer curr. work
+
+         Co-Curricular Budget Points
+                                10
+
+
+ 1.63% ($2,011) budget category variance
+   Actual budget-to-budget increase without new budgetary
+    considerations
+     Contractual salary movement - current rates
+
+                        Proposed Co-Curricular Budget
+                                                                                     11
+
+
+
+                                              2015-16          2016-17                                             2016-17           2016-17
+                                             APPROVED        PUSH AHEAD         CHANGE     % VARIANCE           NEW BUDGET          PROPOSED       CHANGE    % VARIANCE
+                                              BUDGET           BUDGET                                          CONSIDERATIONS        BUDGET
+CODE       DESCRIPTION
+
+2850 Co-Curricular Activities
+     150   Advisors Salaries                   105,728            105,728              0           0.00%                    0          105,728           0        0.00%
+     150   Chaperones/Food Concessions           7,000              7,000              0           0.00%                    0            7,000           0        0.00%
+     160   Non-Instructional Salaries            8,000             10,011          2,011          25.14%                    0           10,011       2,011       25.14%
+     160   Chaperones/Food Concessions           2,900              2,900              0           0.00%                    0            2,900           0        0.00%
+
+TOTAL CO-CURRICULAR ACTIVITIES           $     123,628   $       125,639    $      2,011           1.63%   $               -    $      125,639 $     2,011        1.63%
+
+
+
+
+                                         * Push Ahead Budget: cost of maintaining existing programs and
+                                         services
+                                         ** New Considerations: recommended enhancements from
+                                         Administration
+
+Curriculum Improvement/Administration Budget Points
+
+                                   12
+
+
+  4.24% ($73,827) budget category variance
+    2.96% ($51,612) result of recoding of one clerical staff member –
+     there are four building secretaries
+    0.40% ($6,950) results of recoding of Rubicon
+    0.88% ($15,265) actual budget-to-budget increase without new
+     budgetary considerations
+
+Proposed Curriculum Improvement/Administration Budget
+
+                                                                                                     13
+
+
+                                                          2015-16           2016-17*                                                    2016-17**           2016-17
+                                                                                                                     %
+                                                         APPROVED         PUSH AHEAD            CHANGE                                NEW BUDGET          PROPOSED          CHANGE      % VARIANCE
+                                                                                                                  VARIANCE           CONSIDERATIONS
+                                                          BUDGET            BUDGET                                                                         BUDGET
+CODE      DESCRIPTION                        FTE
+2010 Curriculum Development                  1.0
+   150    Administrative Salaries                             191,873            191,873                   0             0.00%                    0           191,873               0          0.00%
+   160    Non-Instructional Salaries                           67,672             67,672                   0             0.00%                    0            67,672               0          0.00%
+   200    Equipment                                             2,000                  0             (2,000)          -100.00%                    0                 0         (2,000)       -100.00%
+   400    Other & Curr.Improvement Plan                        21,800             21,800                   0             0.00%                    0            21,800               0          0.00%
+   401    Supt. Conference Days                                 3,000              3,000                   0             0.00%                    0             3,000               0          0.00%
+   406    Tri-State Consortium                                  9,140              9,140                   0             0.00%                    0             9,140               0          0.00%
+   450    Supplies                                              8,000              8,000                   0             0.00%                    0             8,000               0          0.00%
+   490    BOCES                                                47,203             64,568             17,365             36.79%                    0            64,568         17,365          36.79%
+            Total Curriculum Development             $        350,688 $          366,053    $        15,365              4.38%   $                0   $       366,053   $     15,365           4.38%
+
+
+
+2020 Supervision
+   150   Administrative Salaries               7.0          1,050,384          1,045,908             (4,476)            -0.43%                    0         1,045,908         (4,476)         -0.43%
+   160   Non-Instructional Salaries          # 4.0            200,360            251,972             51,612             25.76%                    0           251,972         51,612          25.76%
+   200   Equipment                                             12,500              5,500             (7,000)           -56.00%                    0             5,500         (7,000)        -56.00%
+   400   Other Expense                                         21,700             20,950               (750)            -3.46%                    0            20,950           (750)         -3.46%
+   400   Supv. - Prof. Development                             10,375             13,200               2,825            27.23%                    0            13,200           2,825         27.23%
+   450   Supplies                                               9,399             12,850               3,451            36.72%                    0            12,850           3,451         36.72%
+   490   BOCES                                                 87,500            100,300             12,800             14.63%                    0           100,300         12,800          14.63%
+                         Total Supervision           $      1,392,218 $        1,450,680   $         58,462              4.20%   $                0   $     1,450,680   $     58,462           4.20%
+
+
+TOTAL INSTRUCTIONAL IMPROVEMENT /
+          ADMINISTRATION                             $     $1,742,906 $        1,816,733    $         73,827             4.24%   $                0   $     1,816,733   $    $73,827          4.24%
+
+
+
+
+                                                     * Push Ahead Budget: cost of maintaining existing programs and services
+                                                     ** New Considerations: recommended enhancements from Administration                                                                      4.24%
+                                                      # Recoded 1.0 Staff Member from A2110.160
+
+                Library Budget Points
+                                 14
+
+
+ -0.07% (-$404) budget category variance
+  о Actual budget-to-budget increase without new budgetary
+    considerations
+     Staffing changes
+
+                                             Proposed Library Budget
+                                                                                                     15
+
+
+
+                                                     2015-16             2016-17                                                     2016-17          2016-17
+                                                    APPROVED           PUSH AHEAD             CHANGE        % VARIANCE            NEW BUDGET        PROPOSED        CHANGE      % VARIANCE
+                                                     BUDGET              BUDGET                                                  CONSIDERATIONS      BUDGET
+CODE      DESCRIPTION                  FTE
+
+
+2610 Library
+    150   Librarian Salaries             3.0          337,995                335,340             (2,655)            -0.79%                    0         335,340       (2,655)        -0.79%
+    160   Non-Instructional Salaries   #2.5           123,573                116,106             (7,467)            -6.04%                    0         116,106       (7,467)        -6.04%
+    200   Equipment                                      631                       500             (131)           -20.76%                    0            500         (131)        -20.76%
+    400   Other Expense                                  100                       100                 0            0.00%                     0            100           -            0.00%
+    406   Prof. Development                                -                       500              500           100.00%                     0            500          500         100.00%
+    450   Supplies                                      2,740                     3,211             471            17.19%                     0           3,211         471          17.19%
+    461   Library Books & Materials                    27,826                    32,600            4,774           17.16%                     0          32,600       4,774          17.16%
+    490   BOCES Services                               48,896                    53,000            4,104            8.39%                     0          53,000       4,104           8.39%
+
+
+          TOTAL LIBRARY                         $     541,761      $         541,357      $        (404)            -0.07%   $                0 $       541,357 $      (404)         -0.07%
+
+
+
+
+                                               * Push Ahead Budget: cost of maintaining existing programs and services
+                                               ** New Considerations: recommended enhancements from Administration
+                                               # Change in health ins. waivers
+
+  Instructional Technology Budget Points
+                                 16
+
+
+ 11.56% ($120,214) budget category variance
+   8.31% ($86,512) result of change in purchasing practice
+   3.25% ($33,702) actual budget-to-budget increase without new
+    budgetary considerations
+     Contractual salary increases
+     Increased cost of outside contracts
+     Supplies for PLTW
+     Transfer of BOCES fee for Rubicon to A2010 code
+
+        Proposed Instructional Technology Budget
+                                                                                           17
+
+
+
+
+                                                                                                                                              2016-17
+                                                   2015-16           2016-17*                                           2016-17
+                                                                                                                                              TOTAL
+CODE    DESCRIPTION                     FTE       APPROVED         PUSH AHEAD         CHANGE      % VARIANCE         NEW BUDGET                               CHANGE        % VARIANCE
+                                                                                                                                            PROPOSED
+                                                   BUDGET            BUDGET                                         CONSIDERATIONS
+                                                                                                                                             BUDGET
+
+
+
+
+A2630 - Instructional Technology
+
+  150   Instructional Salaries          3.6          421,623            432,988         11,365          2.70%                       0             432,988       11,365            2.70%
+  160   Computer Staff                  4.0          184,476            187,264          2,788          1.51%                       0             187,264         2,788           1.51%
+  200   Equipment                                        688             87,200         86,512        12574%                        0              87,200       86,512          12574%
+  400   Other Expense                                327,692            337,878         10,186          3.11%                       0             337,878       10,186            3.11%
+  403   Computer- Equip. Repair                        3,000              3,000             -           0.00%                       0               3,000             0           0.00%
+  450   Computer Supplies                             43,780             54,030         10,250         23.41%                       0              54,030       10,250           23.41%
+  462   State Aided Computer Software                 35,055             39,667          4,612         13.16%                       0              39,667         4,612          13.16%
+  490   BOCES                                         23,959             18,460         (5,499)       -22.95%                       0              18,460       (5,499)         -22.95%
+
+
+
+            TOTAL INSTRUCTIONAL
+         INFORMATION TECHNOLOGY               $    1,040,273   $      1,160,487   $    120,214         11.56%   $               -       $       1,160,487 $     120,214 $       11.56%
+
+
+
+
+                                                                                                                                                                                11.56%
+
+  Central Data Processing Budget Points
+                                    18
+
+
+ 3.56% ($6,567) budget category variance
+   Increased costs in current services
+
+   Proposed Central Data Processing Budget
+                                                                                     19
+
+
+
+
+                                       2015-16          2016-17*                                                  2016-17**        2016-17
+                                      APPROVED        PUSH AHEAD           CHANGE         % VARIANCE            NEW BUDGET        PROPOSED       CHANGE     % VARIANCE
+                                       BUDGET           BUDGET                                                 CONSIDERATIONS      BUDGET
+
+CODE          DESCRIPTION
+
+1680 Central Data Processing
+
+        400   Other Expense                 76,424             75,775            (649)            -0.85%                    0         75,775        (649)        -0.85%
+        490   BOCES services               108,209            115,425            7,216             6.67%                    0        115,425        7,216         6.67%
+
+TOTAL CENTRAL DATA
+PROCESSING                            $    184,633    $       191,200 $          6,567            3.56%    $                0 $      191,200 $      6,567        3.56%
+
+
+
+
+                        * Push Ahead Budget: cost of maintaining existing programs and services
+                        ** New Considerations: recommended enhancements from
+                        Administration
+
+         Guidance (PPS) Budget Points
+                                 20
+
+
+ 3.22% ($27,219) budget category variance
+   Actual budget-to-budget increase without new budgetary
+    considerations
+     Contractual salary increases and obligations
+     Costs of PSAT exams
+
+                   Proposed Guidance (PPS) Budget
+                                                                                        21
+
+
+
+
+                                                           2016-17*
+                                            2015-16                                                              2016-17**          2016-17
+                                                             PUSH                                %
+                                           APPROVE                             CHANGE                          NEW BUDGET          PROPOSED        CHANGE     % VARIANCE
+                                                            AHEAD                             VARIANCE        CONSIDERATIONS
+                                           D BUDGET                                                                                 BUDGET
+                                                           BUDGET
+CODE     DESCRIPTION           FTE
+
+2810. Guidance
+   150 Teaching Salaries       # 6.0         699,855          722,509             22,654          3.24%                   -          722,509        22,654         3.24%
+         Non-Instructional
+   160 Salaries                 2.0          126,526          127,837                 1,311       1.04%                   -          127,837         1,311         1.04%
+   400 Other Expense                          10,076           13,480                 3,404      33.78%                   -           13,480         3,404        33.78%
+         Other Expense-Prof.
+   406 Development                            8,100              7,950        (150)              -1.85%                   -            7,950          (150)        -1.85%
+   450 Supplies                               1,150              1,150                   -        0.00%                   -            1,150             -          0.00%
+         TOTAL GUIDANCE                $     845,707   $      872,926     $       27,219          3.22%   $               -    $     872,926   $    27,219         3.22%
+
+
+
+                                       * Push Ahead Budget: cost of maintaining existing programs and
+                                       services
+                                       ** New Considerations: recommended enhancements from
+                                       Administration
+                                       # Changes in health ins. waivers
+
+ Understanding Increased Special Education Expenses
+                                     22
+
+Over the past 10 years, special education services and requirements have
+changed dramatically
+ As a result of these shifts in the landscape of education and student
+  needs, the budget has increased significantly:
+   2005-06 Special Ed Budget            $4,156,392
+   2010-11    Special Ed Budget         $6,574,022
+   2015-16    Special Ed Budget         $8,381,916
+                Increase over 10 years: $4,225,524
+ Excess Cost Aid (includes public, private & high cost) decreased while
+  expenses have increased:
+   2005-06 Aid                           $697,763
+   2010-11    Aid                        $667,623
+   2015-16    Aid                        $661,494
+                Decrease over 10 years:   $ 36,269
+
+    Understanding Increased Special Education Expenses
+                                                            23
+
+●    Shifts in Student Needs/Disabilities
+      Number of students with IEPs 10 year history
+         о Low: 171
+         о Mean: 184
+         о High/Current: 207
+      Out of District Placements:
+         о   Tuition/transportation/related services costs typically exceed $100,000/student
+         о   Low: 21
+         о   Median: 25
+         о   High: 28
+         о   Current : 24
+      Although our numbers have not fluctuated greatly over the past ten years the types of disabilities
+       represented in our population has shifted
+
+
+    The complexity of the needs of the students has increased
+      The Other Health Impaired Classification which notably includes ADHD increased from 7.5% or our
+       disabled population to 25.6% over the time span
+      Autism has risen from 11.5 to 16.9% over the time span. Many autistic students have significant needs
+       which tend to be very costly to address
+      Speech Language Impaired dropped from 25% to 15%. This category tends to be relatively inexpensive to
+       serve. Many are now served by preventative services outside of special education
+      Learning Disabilities have dropped from 33% to 28%. This also tends to be a relatively less expensive
+       group to serve
+
+Understanding Increased Special Education Expenses
+                                      24
+
+Regulatory Changes
+ Residential costs for students placed in residential placements were shifted
+  from Department of Social Services to local districts
+                        School Year    Residential Costs
+
+                         2009-2010         $200,286
+
+                          2010-2011        $180,199
+
+                          2011-2012        $239,078
+
+                          2012-2013        $265,680
+
+                          2013-2014        $435,830
+
+                          2014-2015        $545,931
+
+                          2015-2016        $427,759
+
+
+
+ ADHD was added to the Other Health Impaired category under IDEA 2004
+ Continual state and federal litigation in special education has had huge
+  legal ramifications in the last ten years that amount to unfunded mandates
+
+ Understanding Increased Special Education Expenses
+                                     25
+
+Staff Increases
+In response to needs, staffing has increased over the past 10 years
+ Teachers
+   3 FTE
+
+ Psychologists
+   0.5 FTE
+
+ PPS Clerical
+   1 FTE
+
+ 1:1 Aides
+   Fluctuate with student need
+
+Understanding Increased Special Education Expenses
+                                     26
+
+There have been numerous shifts in the financial landscape related
+to special education:
+ Out of district tuitions rise, on average, 8% per year
+ Despite increases in tuition obligations, there’s been a $33,000 decline
+  in federal aide
+ State aid for “excess cost” for special educations services has declined.
+ State supported schools and Children’s Residential Project (CRP)
+  placements are no longer paid directly by the state and were shifted to
+  district budgets
+ John Cardinal O’Connor School did not exist before the 09-10 school
+  year for which we provide CSE oversight and staffing
+ Legal fees were moved from the general legal fees line to a budget line
+  in the PPS budget
+
+      Special Education Budget Points
+                                27
+
+
+ 2.30% ($192,482) budget category variance
+   Actual budget-to-budget increase without new budgetary
+    considerations
+     Contractual salary increases
+     Increased costs for out-of-district tuition
+
+                 Proposed Special Education Budget
+                                                                                                  28
+
+
+
+                                                          2015-16           2016-17*                                                  2016-17**           2016-17
+                                                                                                                                                                                           %
+                                                        APPROVED          PUSH AHEAD          CHANGE           % VARIANCE           NEW BUDGET          PROPOSED          CHANGE
+                                                                                                                                   CONSIDERATIONS                                       VARIANCE
+CODE     DESCRIPTION                        FTE          BUDGET             BUDGET                                                                       BUDGET
+
+2250. Special Education
+    150 Instructional Salaries              34.94         3,365,823           3,451,873             86,050             2.56%                    0         3,451,873           86,050         2.56%
+    160 Non-Instructional Salaries          45.00         1,689,824           1,715,558             25,734             1.52%                    0         1,715,558           25,734         1.52%
+    200 Equipment                                             6,000               6,000                  0             0.00%                    0             6,000                 0        0.00%
+  400.4 Other Expense – CSE                                  20,000              20,000                  0             0.00%                    0            20,000                 0        0.00%
+  400.4 Contractual Expense                                     600                 600                  0             0.00%                    0               600                 0        0.00%
+  400.4 Stipulation Agreements/Parent placements             50,533              43,000             -7,533           -14.91%                    0            43,000           (7,533)      -14.91%
+  400.4 Physical/OT Services                                 70,000              70,000                  0             0.00%                    0            70,000                 0        0.00%
+  400.4 Other – Testing                                       5,000               5,000                  0             0.00%                    0             5,000                 0        0.00%
+  400.4 Other - Homebound                                    50,000              50,000                  0             0.00%                    0            50,000                 0        0.00%
+  400.5 Contractual -JCOS                                   300,000             300,000                  0             0.00%                    0           300,000                 0        0.00%
+    400 Other Exp.-copier, prof.develop.                     14,500              14,500                  0             0.00%                    0            14,500                 0        0.00%
+    401 Other Expenses - Legal                               50,000              50,000                  0             0.00%                    0            50,000                 0        0.00%
+    450 Supplies                                             10,700              15,700              5,000            46.73%                    0            15,700             5,000       46.73%
+    460 Computer Software                                     5,000               5,000                  0             0.00%                    0             5,000                 0        0.00%
+    470 Tuition (Private, Agencies)                       1,921,149           1,480,513           -440,636           -22.94%                    0         1,480,513        (440,636)       -22.94%
+    480 Textbooks                                             4,200               4,200                  0             0.00%                    0             4,200                 0        0.00%
+    490 BOCES                                               818,587           1,342,454            523,867            64.00%                    0         1,342,454          523,867        64.00%
+
+          TOTAL SPECIAL EDUCATION                   $     8,381,916   $       8,574,398 $         192,482              2.30%   $                0   $     8,574,398   $     192,482         2.30%
+
+
+
+
+                                                    * Push Ahead Budget: cost of maintaining existing programs and services
+                                                    ** New Considerations: recommended enhancements from Administration
+
+                   PPS Budget Points
+                                   29
+
+
+ 6.97% ($79,373) budget category variance
+   Actual budget-to-budget increase without new budgetary
+    considerations
+     Contractual salary increases
+     Increase in health services for students out-of-district
+
+                                                  Proposed PPS Budget
+                                                                                                   30
+
+
+                                                      2015-16            2016-17                                                  2016-17     NEW           2016-17
+                                                     APPROVED          PUSH AHEAD            CHANGE           % VARIANCE               BUDGET              PROPOSED          CHANGE      % VARIANCE
+                                                      BUDGET             BUDGET                                                    CONSIDERATIONS           BUDGET
+CODE      DESCRIPTION                     FTE
+
+2815. Health Services
+160      Nurses' Salaries                  4.0          331,202              345,435             14,233              4.30%                         0          345,435          14,233          4.30%
+200      Equipment                                           60                  860                800           1333.33%                         0              860             800       1333.33%
+400.40   School Physician                                22,000               23,000              1,000              4.55%                         0           23,000           1,000          4.55%
+400.50   Health Services - Out of District              129,000              140,000             11,000              8.53%                         0          140,000          11,000          8.53%
+450      Supplies                                         6,660                6,175               (485)            -7.28%                         0            6,175           (485)         -7.28%
+         Total Health Services                   $      488,922    $         515,470             26,548              5.43%    $                    0   $      515,470          26,548          5.43%
+
+2820. Psychologists
+150      Instructional Salaries       # 5.50            581,787              594,570             12,783               2.20%                        0          594,570          12,783          2.20%
+400      Other Expense- Prof. Development                   180                  180                  -               0.00%                        0              180                0         0.00%
+450      Supplies                                         1,890                1,800                 (90)            -4.76%                        0            1,800             (90)        -4.76%
+         Total Psychologists                     $      583,857    $         596,550             12,693               2.17%   $                    0   $      596,550          12,693          2.17%
+
+2825. Social Work Services
+160      Social Worker Salaries           1.00            65,000             105,132             40,132              61.74%                        0          105,132          40,132         61.74%
+450      Supplies                                          1,000               1,000                 -                0.00%                        0            1,000               0          0.00%
+         Total Social Work Services              $        66,000   $         106,132     $       40,132              60.81%   $                    0   $      106,132          40,132         60.81%
+
+
+     TOTAL PUPIL PERSONNEL
+        SERVICES BUDGET                          $    1,138,779    $       1,218,152     $         79,373             6.97%   $                -       $     1,218,152   $     79,373          6.97%
+
+
+
+
+                                                 * Push Ahead Budget: cost of maintaining existing programs and services
+                                                 ** New Considerations: recommended enhancements from Administration
+                                                 # Change in health ins. Waivers
+
+               Athletics Budget Points
+                                  31
+
+
+ -0.73% (-$6,313) budget category variance
+   Actual budget-to-budget increase without new budgetary
+    considerations
+     Current salaries
+     Decrease in equipment
+
+                                        Proposed Athletics Budget
+                                                                                                  32
+
+
+
+                                                                                                                                    2016-17
+                                                      2015-16          2016-17                                                                       2016-17
+                                                                                                                                  NEW BUDGET
+                                                     APPROVED        PUSH AHEAD             CHANGE          % VARIANCE                             PROPOSED         CHANGE       % VARIANCE
+                                                                                                                                 CONSIDERATION
+                                                      BUDGET           BUDGET                                                                       BUDGET
+                                                                                                                                       S
+
+CODE       DESCRIPTION                   FTE
+
+2855 Interscholastic Athletics
+       150 Coaches & Instr. Salaries     #1.0            405,361             411,574               6,213             1.53%                   0        411,574            6,213         1.53%
+       151 Chaperones                                     35,000              37,000               2,000             5.71%                   0         37,000            2,000         5.71%
+       155 Timekeepers                                     2,500               2,500                   0             0.00%                   0          2,500                0         0.00%
+       160 Non-Instructional Salaries    #.21            147,816             151,290               3,474             2.35%                   0        151,290            3,474         2.35%
+       161 Chaperones                                     19,000              17,000             (2,000)           -10.53%                   0         17,000          (2,000)       -10.53%
+       165 Timekeepers                                     5,000               5,500                 500            10.00%                   0          5,500              500        10.00%
+       200 Equipment                                      32,500              12,000            (20,500)           -63.08%                   0         12,000         (20,500)       -63.08%
+       400 Other Expense                                  78,000              78,000                   0             0.00%                   0         78,000                0         0.00%
+       403 Equipment Repair                               10,000              12,000               2,000            20.00%                   0         12,000            2,000        20.00%
+       450 Supplies                                       52,000              52,000                   0             0.00%                   0         52,000                0         0.00%
+       490 BOCES                                          82,000              84,000               2,000             2.44%                   0         84,000            2,000         2.44%
+
+TOTAL INTERSCHOLASTICS ATHLETICS                 $       869,177 $           862,864   $         (6,313)            -0.73%   $               0 $      862,864   $      (6,313)        -0.73%
+
+
+
+
+                                                * Push Ahead Budget: cost of maintaining existing programs and services
+                                                ** New Considerations: recommended enhancements from Administration
+                                                # Coaches not included in FTE
+
+        Employee Benefits Budget Points
+                                       33
+
+
+
+
+ 1.78% ($219,806) budget category variance
+   ERS blended rate was 19.78% for 2015-16, 17.72% for 2016-17
+   TRS rate was 13.26% for 2015-16, EST. 12.00% for 2016-17
+   Health insurance rates increasing 4.05% active employees
+
+                 Proposed Employee Benefits Budget
+                                                                                                        34
+
+
+
+
+                                                2015-16              2016-17*                                                   2016-17**            2016-17
+                                               APPROVED            PUSH AHEAD            CHANGE          % VARIANCE           NEW BUDGET            PROPOSED           CHANGE       % VARIANCE
+                                                BUDGET               BUDGET                                                  CONSIDERATIONS          BUDGET
+CODE        DESCRIPTION
+
+ 9010.800   Employees' Retirement                  1,096,658          1,035,677              (60,981)           -5.56%                  -             1,035,677          (60,981)     -5.56%
+ 9020.800   Teachers' Retirement                   2,993,548          2,835,522             (158,026)           -5.28%                  -             2,835,522         (158,026)     -5.28%
+ 9030.800   Social Security                        2,177,532          2,319,372               141,840            6.51%                  -             2,319,372           141,840     6.51%
+ 9040.800   Workmen's Compensation                   105,000            125,000                20,000           19.05%                  -               125,000            20,000     19.05%
+ 9045.800   Life Insurance                            32,863             35,000                 2,137            6.50%                  -                35,000             2,137     6.50%
+ 9050.800   Unemployment Insurance                    40,000             40,000                     0            0.00%                  -                40,000                 0     0.00%
+ 9055.800   Disability Insurance                      45,000             47,000                 2,000            4.44%                  -                47,000             2,000     4.44%
+ 9060.800   Health Insurance                       5,538,095          5,807,931               269,836            4.87%                  -             5,807,931           269,836     4.87%
+ 9065-800   Flex Administrative Charges                1,500              1,500                     0            0.00%                  -                 1,500                 0     0.00%
+ 9070.800   Union Welfare Benefits                   306,000            309,000                 3,000            0.98%                  -               309,000             3,000     0.98%
+
+    TOTAL EMPLOYEE BENEFITS               $     12,336,196     $      12,556,002     $      219,806              1.78%   $                  -   $     12,556,002   $     219,806       1.78%
+
+
+
+
+                                              * Push Ahead Budget: cost of maintaining existing programs and services
+                                              ** New Considerations: recommended enhancements from Administration
+
+        Proposed Budget Revenue
+                                                      35
+
+CODE    DESCRIPTION                                   BUDGET              BUDGET     CHANGE
+A1001   Taxes                                           50,927,598      50,890,518        (37,080)
+A1081   PILOT (Payments in Lieu of Taxes                   697,000         689,000          (8,000)
+A1120   Non-Property Taxes (Sales Tax)                     480,000         500,000          20,000
+A1311   Day School Tuition                                 900,000         800,000       (100,000)
+A1335   Other Student Fees & Charges                         1,900           1,900                0
+A2280   Health Services                                     75,000          85,000          10,000
+A2401   Interest Earned on Investments                      20,000          18,000          (2,000)
+A2410   Rental of Real Property-Individuals                 25,000          40,000          15,000
+A2413   Rentals - BOCES classrooms                         315,000         300,537        (14,463)
+A2703   Refund of Prior Years Expenses                     100,000          90,000        (10,000)
+A2770   Misc. Revenue                                      115,000         115,000                0
+A2772   Reimbursements-JCOC                                290,000         290,000                0
+A3101   State Aid                                        2,538,523       2,686,659         148,136
+A3101   Excess Cost Aid                                    214,853         229,549          14,696
+A3103   BOCES Aid                                          373,580         405,663          32,083
+A3260   Textbook, Software & Library Aid                   158,546         151,708          (6,838)
+A4601   Medicaid reimbursements                             10,000               0        (10,000)
+        Total Revenues                                  57,242,000      57,293,534          51,534
+
+        Appropriated Fund Balance                            422,000       500,000          78,000
+        Total Revenue to offset budget                    57,664,000    57,793,534         129,534
+
+
+
+        Total Budget - proposed                                        $58,889,510
+        Add'l Tax Levy or cuts needed to balance budget                  1,095,976
+
+                                                         Budget Summary
+                                                                                       36
+
+
+
+                                           2015-16         2016-17                                       2016-17           2016-17
+                                                                                                                                            TOTAL
+                                          APPROVED       PUSH AHEAD      CHANGE        % VARIANCE     NEW BUDGET          PROPOSED                       % VARIANCE
+                                                                                                                                           CHANGE
+                                           BUDGET          BUDGET                                    CONSIDERATIONS        BUDGET
+CODE     DESCRIPTION
+
+  1000   Board of Education                     69,195          72,243        3,048          4.40%                  -             72,243        3,048          4.40%
+  1200   Chief School Admin.                   359,459         361,330        1,871          0.52%                  -            361,330        1,871          0.52%
+  1300   Finance                               597,608         607,289        9,681          1.62%                  -            607,289        9,681          1.62%
+  1400   Staff                                 372,818         392,822       20,004          5.37%             13,500            406,322       33,504          8.99%
+  1600   Operation & Maint                   3,834,990       4,052,087      217,097          5.66%                  -          4,052,087      217,097          5.66%
+  1670   Messenger/Mailing                     51,450          47,400        (4,050)        -7.87%                    -          47,400        (4,050)        -7.87%
+  1680   Central Data Processing              184,633         191,200          6,567         3.56%                    -         191,200          6,567         3.56%
+  1900   Special Items                        451,337         467,547        16,210          3.59%                    -         467,547        16,210          3.59%
+  2000   Inst.Improv./Admin                  1,742,906       1,816,733       73,827          4.24%                    -        1,816,733       73,827          4.24%
+  2110   Instruction                        17,119,546      17,539,919      420,373          2.46%                    -       17,539,919      420,373          2.46%
+  2200   Special Education Occupational      8,381,916       8,574,398      192,482          2.30%                    -        8,574,398      192,482          2.30%
+  2280   Education                             131,942         132,884          942          0.71%                    -          132,884          942          0.71%
+  2600   Library                               541,761         541,357        (404)         -0.07%                    -          541,357        (404)         -0.07%
+  2630   Instructional Tech                  1,040,273       1,160,487      120,214         11.56%                    -        1,160,487      120,214         11.56%
+  2800   Pupil Personnel Svcs                1,138,779       1,218,152       79,373          6.97%                    -        1,218,152       79,373          6.97%
+  2810   Guidance                              845,707         872,926       27,219          3.22%                    -          872,926       27,219          3.22%
+  2850   Co-Curricular                        123,628         125,639         2,011          1.63%                    -         125,639         2,011          1.63%
+  2855   Interscholastic                      869,177         862,864        (6,313)        -0.73%                    -         862,864        (6,313)        -0.73%
+  5500   Transportation                      2,280,967       2,211,000      (69,967)        -3.07%                    -        2,211,000      (69,967)        -3.07%
+  9000   Employee Benefits                  12,336,196      12,556,002       219,806         1.78%                    -       12,556,002       219,806         1.78%
+  9700   Debt Service                        5,134,712       5,016,731     (117,981)        -2.30%                    -        5,016,731     (117,981)        -2.30%
+  9900   Interfund Transfers                    55,000          55,000             -         0.00%                    -           55,000             -         0.00%
+
+            TOTAL BUDGET                   $57,664,000     $58,876,010    $1,212,010         2.10%            $13,500        $58,889,510     1,225,510         2.13%
+
+           New Budgetary Considerations
+                                        37
+
+● Consideration #1
+IMS/IHS 1.0  FTE Library Media Specialist                      $106,000
+We currently have 1 LMS for over a 1,000 students. This position has been
+developed to support the needs of the library as well as a ripple effect in
+technology and study skills. This position would allow for the increase of PLTW
+and technology instruction at the MS and HS. Additionally, we would increase the
+librarian staff at the Campus by .06 FTE. This person would also assume
+responsibility for teaching a revamped study skills curriculum at the MS that will
+focus on research skills, study strategies, and organization.
+
+● Consideration #2
+IHS     0.2  FTE PLTW Principles of Engineering                $21,200
+This position allows for expansion and will permit us to add another required
+class to the PLTW engineering sequence. The additional engineering class could
+be taught within the science department.
+
+           New Budgetary Considerations
+                                        38
+
+● Consideration #3
+MSS/DL 1.0   FTE Technology Teacher                             $106,000
+This will permit the growth of PLTW to grades 2 and 5 while creating the
+opportunity for increased technology instruction in all elementary grades. The
+latter has always been a challenge as we only have one technology teacher for
+grades K-5.
+
+● Consideration #4
+MSS/DL 0.5   FTE School Psychologist                            $53,000
+We currently have a psychologist who is part-time (.8 at MSS and .2 MS/HS).
+Therefore, 1 day a week Main Street School does not have the necessary support
+for students. In addition, the increase as well as ongoing mental health needs that
+continue to be present at all levels, has increased the need for psychologist
+support. With the additional FTE, we could increase levels of support, provide
+more proactive programming to support students in need, and continue to
+decrease the overwhelming caseloads of our psychologists.
+
+Total of New Considerations:                                    $286,200
+
+Budgetary Impact with New Considerations
+                                39
+
+
+
+ 2.62% ($59,175,710) budget increase
+   2016-2017 Proposed Budget $58,889,510
+   Budgetary Considerations $286,200
+
+                   Recap of Proposals
+                                   40
+
+
+ The proposals discussed tonight strive to maintain and, possibly,
+  expand programs
+ Will be under consideration for the coming month:
+   Priority, viability and implementation
+
+   Affordability
+
+                Tax Cap Ramifications
+                                 41
+
+ Determination must be made as to whether to stay under the tax-
+  levy cap or to exceed it.
+ To remain under cap, reductions would have to be made.
+
+ The following reductions/adjustments are illustrative in nature
+
+                   Tax Cap Ramifications
+                                    42
+
+ Budgetary reductions/changes could include:
+  Increase Fund Balance allocation      $500,000
+  Reduce transportation                 $ 90,000
+  Reduce building repairs/maintenance   $145,000
+  Eliminate new website                 $ 10,000
+  Reduce 2 teaching positions           $200,000
+      TBD – likely secondary
+    Reduce 1 clerical position          $ 50,000
+      TBD
+    Miscellaneous reductions            $100,000
+      Technology, prof. development,
+        supplies, etc
+    Total                               $1,095,000
+
+                          Next Steps
+                                  43
+
+
+ Discussion, question & answer tonight
+ Board must provide the administration with direction to inform the
+  proposed budget
+   % budget increase
+
+   Remain under or override the tax-levy cap
+
+ Dialogue to continue at future meetings
+ Feedback will be reflected in Superintendent’s Proposed Budget on
+  March 22nd
+
+                  Future Budget Discussions
+                                              44
+
+
+                        BOE meeting - Budget Presentation on business office, debt service,
+Tuesday, Feb 23, 2016   buildings & grounds, transportation and insurance
+
+                        BOE meeting - Budget Presentation on curriculum, technology, athletics,
+Tuesday, Mar 8, 2016    special education/pupil personnel services & employee benefits
+
+                        BOE meeting – Superintendent’s Proposed 2016-17 Budget and revenue
+Tuesday, Mar 22, 2016   presentation
+
+Tuesday, Apr 5, 2016    BOE meeting – Budget Discussion
+
+Tuesday, Apr 12, 2016   BOE meeting – Budget Discussion & Revision – Additional Meeting
+
+Tuesday, Apr 19, 2016   BOE meeting - Budget Adoption
+
+Tuesday, May 03, 2016   BOE Budget Hearing followed by regular meeting
+
+Tuesday, May 17, 2016   Annual Meeting - BUDGET VOTE
+
+   Question & Answer
+
+
+
+
+Budget@IrvingtonSchools.org
+
+
+
+
+            45
+

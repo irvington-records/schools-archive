@@ -1,0 +1,15 @@
+SOURCE http://irvingtonschools.org:80/referenda.html | DATE 2003-12-30 | TITLE Referenda Results
+
+IRVINGTON BOARD OF EDUCATION
+Bond/Transportation Referenda Results April 3, 2003
+The Results of the Irvington School District Referenda Votes are as follows:
+Bond:
+Yes - 357
+No - 170
+The Bond passes.
+Transportation:
+Yes - 396
+No - 116
+The Transportation Proposal passes.
+Nationally Recognized
+Schools of Excellence

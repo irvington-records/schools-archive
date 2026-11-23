@@ -1,0 +1,914 @@
+SOURCE https://www.irvingtonschools.org/fs/resource-manager/view/45d5feda-e968-48f2-a729-484cfe2d64df | DATE 2025-07-08 | TITLE 2019-20budgetpresentationsheetsfor-23-19.pdf
+
+IRVINGTON UNION FREE SCHOOL DISTRICT
+                                                  Proposed Budget Summary 2019-20
+
+                                 2018‐19        2019‐20                                2019‐20         2019‐20
+                                                                           %                                        TOTAL         %
+                                APPROVED      PUSH AHEAD    CHANGE                   NEW BUDGET       PROPOSED
+                                                                        VARIANCE                                   CHANGE      VARIANCE
+                                 BUDGET         BUDGET                              CONSIDERATIONS     BUDGET
+CODE    DESCRIPTION
+
+1000    General Support           2,846,202    2,940,352      94,150        3.3%           25,000      2,965,352    119,150       4.2%
+1600    Operation & Maint         4,300,145    4,329,908      29,763        0.7%           44,136      4,374,044     73,899       1.7%
+2110    Instruction              18,310,717   18,377,726      67,009        0.4%          161,420     18,539,146    228,429       1.2%
+2250    Special Education         8,805,699    9,354,719     549,020        6.2%              ‐        9,354,719    549,020       6.2%
+2280    Instructional Support     6,823,728    7,056,418     232,690        3.4%          112,761      7,169,179    345,451       5.1%
+5500    Transportation            2,419,477    2,639,209     219,732        9.1%           10,000      2,649,209    229,732       9.5%
+9000    Employee Benefits        13,624,069   13,612,310     (11,759)      ‐0.1%           51,000     13,663,310     39,241       0.3%
+9700    Debt Service              4,218,138    4,178,595     (39,543)      ‐0.9%           60,000      4,238,595     20,457       0.5%
+
+       TOTAL BUDGET             $61,348,175 $62,489,237 $1,141,062          1.9%         $464,317    $62,953,554   1,605,379      2.6%
+
+                                                                        Revenue                      $62,953,554
+
+
+
+
+                                                                                                                               4/12/2019
+                                                        IRVINGTON UNION FREE SCHOOL DISTRICT
+                                                           Proposed Budget Summary 2019-20
+
+                                        2018‐19         2019‐20                                          2019‐20         2019‐20
+                                                                                            %                                           TOTAL
+                                       APPROVED       PUSH AHEAD       CHANGE                          NEW BUDGET       PROPOSED                   % VARIANCE
+                                                                                         VARIANCE                                      CHANGE
+                                        BUDGET          BUDGET                                        CONSIDERATIONS     BUDGET
+CODE   DESCRIPTION
+
+1000   Board of Education                  133,640        133,950             310              0.2%                 0       133,950         310          0.2%
+1200   Chief School Admin.                  359,692       366,517           6,825              1.9%                 0        366,517      6,825          1.9%
+1300   Finance                             630,768        646,735          15,967              2.5%                 0       646,735      15,967          2.5%
+1400   Staff                               500,408        505,169           4,761              1.0%            25,000       530,169      29,761          5.9%
+1600   Operation & Maint                 4,300,145      4,329,908          29,763              0.7%            44,136     4,374,044      73,899          1.7%
+1670   Messenger/Mailing                    47,850         47,950             100              0.2%                 0        47,950         100          0.2%
+1680   Central Data Processing             607,545        637,000          29,455              4.8%               ‐         637,000      29,455          4.8%
+1900   Special Items                       566,299        603,031          36,732              6.5%                 0       603,031      36,732          6.5%
+2000   Curr Dev & Supervision            1,861,156      2,016,483         155,327              8.3%               ‐       2,016,483     155,327          8.3%
+2110   General Education Instruction    18,179,157     18,327,560         148,403              0.8%           161,420    18,488,980     309,823          1.7%
+2250   Special Education Instruction     8,805,699      9,354,719         549,020              6.2%               ‐       9,354,719     549,020          6.2%
+2280   Occupational Education              131,560         50,166         (81,394)           ‐61.9%               ‐          50,166     (81,394)       ‐61.9%
+2610   Library                             640,545        654,671          14,126              2.2%               ‐         654,671      14,126          2.2%
+2630   Instructional Tech                1,110,225      1,189,766          79,541              7.2%            72,831     1,262,597     152,372         13.7%
+2800   Pupil Personnel Svcs              1,206,096      1,134,800         (71,296)            ‐5.9%            33,700     1,168,500     (37,596)        ‐3.1%
+2810   Guidance                            915,761        950,452          34,691              3.8%               ‐         950,452      34,691          3.8%
+2850   Co‐Curricular                       147,800        157,700           9,900              6.7%             6,230       163,930      16,130         10.9%
+2855   Interscholastic                     894,145        897,546           3,401              0.4%               ‐         897,546       3,401          0.4%
+5500   Transportation                    2,419,477      2,639,209         219,732              9.1%            10,000     2,649,209     229,732          9.5%
+9000   Employee Benefits                13,624,069     13,612,310         (11,759)            ‐0.1%            51,000    13,663,310      39,241          0.3%
+9700   Debt Service                      4,218,138      4,178,595         (39,543)            ‐0.9%            60,000     4,238,595      20,457          0.5%
+9900   Interfund Transfers                  48,000         55,000           7,000             14.6%                 0        55,000       7,000         14.6%
+       Tax Certs
+         TOTAL BUDGET                  $61,348,175    $62,489,237      $1,141,062             1.9%           $464,317   $62,953,554    1,605,379         2.6%
+
+
+
+
+                                                                                                          Revenue       $62,953,554
+
+                                                                                                         Over/Under              $0
+
+
+
+
+                                                                                     2                                                                   4/12/2019
+                                                                    IRVINGTON UNION FREE SCHOOL DISTRICT
+                                                                            Proposed Budget 2019-20
+                                                                             BOARD OF EDUCATION
+
+
+                                                                    2019-20
+                                                   2018-19                                                                 2019-20             2019-20
+                                                                     PUSH                                  %                                                                %        2017-18
+                                                  APPROVED                            CHANGE                            NEW BUDGET            PROPOSED        CHANGE
+                                                                     AHEAD                              VARIANCE       CONSIDERATIONS
+                                                                                                                                                                         VARIANCE    ACTUAL
+                                                   BUDGET                                                                                      BUDGET
+CODE        DESCRIPTION                 FTE                         BUDGET
+
+1010 Board of Education
+     400   Other Expense                              37,000            37,000              -               0.0%                  -              37,000            0         0.0%     29,682
+     450   Supplies                                    2,520             2,550               30             1.2%                  -               2,550           30         1.2%      1,286
+     490   BOCES #                                    11,000            11,275              275             2.5%                  -              11,275          275
+            Total Board of Education          $       50,520    $       50,825    $         305             0.6%   $                  0   $      50,825   $      305         0.6%     30,968
+
+1040 District Clerk
+     160    Salary                      .6            44,495            44,500                  5           0.0%                  -              44,500             5        0.0%     30,589
+     400    Other Expense                              9,000             9,000              -               0.0%                  -               9,000             0        0.0%      4,788
+     450    Supplies                                   2,000             2,000              -               0.0%                  -               2,000             0        0.0%        122
+                 Total District Clerk         $       55,495    $       55,500    $             5           0.0%   $                  0   $      55,500   $         5        0.0%     35,499
+
+1060 District Meeting
+     400    Other Expense                             26,125            22,125          (4,000)           -15.3%                  -              22,125        (4,000)      -15.3%    12,383
+     450    Supplies                                   1,500             5,500           4,000            266.7%                  -               5,500         4,000       266.7%       718
+               Total District Meeting         $       27,625    $       27,625    $          0              0.0%   $                  0   $      27,625   $         0         0.0%    13,101
+
+TOTAL BOARD OF EDUCATION                      $      133,640    $      133,950    $         310             0.2%   $                  0   $     133,950   $      310         0.2%     79,568
+
+
+
+
+                                        #         Restated from Code 1680 thus no actuals
+
+
+PUSH AHEAD VARIANCES - cost of maintaining existing programs and services                                              NEW CONSIDERATIONS:
+1060.400 Less second vote for Capital Project
+1060.450 Requirement to publish documents in Spanish
+
+
+
+
+                                                                                                    3                                                                                  4/12/2019
+                                                                 IRVINGTON UNION FREE SCHOOL DISTRICT
+                                                                         Proposed Budget 2019-20
+                                                                      CHIEF SCHOOL ADMINISTRATOR
+
+                                                                 2019-20
+                                                  2018-19                                                         2019-20             2019-20
+                                                                  PUSH                            %                                                               %       2017-18
+                                                 APPROVED                        CHANGE                        NEW BUDGET            PROPOSED        CHANGE
+                                                                  AHEAD                        VARIANCE       CONSIDERATIONS
+                                                                                                                                                               VARIANCE   ACTUAL
+                                                  BUDGET                                                                              BUDGET
+CODE         DESCRIPTION            FTE                          BUDGET
+
+1240 Chief School Administrator
+  150/160    Salary                    2.0         339,192         344,717         5,525           1.6%                  -             344,717         5,525       1.6%    328,386
+      200    Equipment                                   0               0             0           0.0%                  -                   0             0       0.0%      1,999
+      400    Other Expense                          16,000          17,000         1,000           6.3%                  -              17,000         1,000       0.0%     23,102
+      450    Supplies                                4,500           4,800           300           6.7%                  -               4,800           300       0.0%      3,381
+
+TOTAL CHIEF SCHOOL ADMINISTRATOR             $     359,692   $     366,517   $     6,825           1.9%   $                  0   $     366,517   $     6,825       1.9%    356,868
+
+
+
+
+PUSH AHEAD VARIANCES - cost of maintaining existing programs and services                                     NEW CONSIDERATIONS:
+
+
+
+
+                                                                                           4                                                                              4/12/2019
+                                                                           IRVINGTON UNION FREE SCHOOL DISTRICT
+                                                                                   Proposed Budget 2019-20
+
+                                                                                          FINANCE
+
+
+                                                      2018-19           2019-20                                           2019-20             2019-20
+                                                                                                       %                                                                    %       2017-18
+                                                     APPROVED         PUSH AHEAD        CHANGE                         NEW BUDGET            PROPOSED         CHANGE
+                                                                                                    VARIANCE                                                             VARIANCE   ACTUAL
+                                                      BUDGET            BUDGET                                        CONSIDERATIONS          BUDGET
+CODE        DESCRIPTION                    FTE
+
+1310 Business Administration
+  150/160    Salary                        3.7          319,875           325,755          5,880        1.8%                     -              325,755          5,880       1.8%   307,095
+      200    Equipment                                        0                 0              0        0.0%                     -                    0              0       0.0%       959
+      400    Other Expense                               63,500            64,500          1,000        1.6%                     -               64,500          1,000       1.6%    38,212
+      450    Supplies                                     8,700             8,700              0        0.0%                     -                8,700              0       0.0%     4,536
+      490    BOCES Services                              68,224            70,000          1,776        2.6%                     -               70,000          1,776       2.6%    61,342
+             Total Business Administration     $        460,299   $       468,955   $      8,656        1.9%      $                  0   $      468,955   $      8,656       1.9%   412,144
+1320 Auditing                                                                                                                    -
+      400    External Auditor                            38,000            38,000             0         0.0%                     -               38,000             0        0.0%    30,000
+      401    Internal Auditor                            30,000            30,000             0         0.0%                     -               30,000             0        0.0%    10,000
+      402    Claims Auditor                               8,400             8,500           100         1.2%                     -                8,500           100        1.2%     7,920
+             Total Auditing                    $         76,400   $        76,500   $       100         0.1%      $                  0   $       76,500   $       100        0.1%    47,920
+1325 Treasurer                                                                                                                   -
+      160    Salary                        1.0           93,769           100,980          7,211        7.7%                     -              100,980          7,211       7.7%    92,083
+      450    Supplies                                       300               300              0        0.0%                     -                  300              0       0.0%         0
+             Total Treasurer                   $         94,069   $       101,280          7,211        7.7%      $                  0   $      101,280   $      7,211       7.7%    92,083
+                                                                                                                                 -
+          TOTAL FINANCE                          $      630,768   $       646,735   $     15,967        2.5%      $                  0   $      646,735   $     15,967       2.5%   552,147
+
+
+
+
+PUSH AHEAD VARIANCES - cost of maintaining existing programs and services                                             NEW CONSIDERATIONS:
+1325.160 Treasurer Salary reflect current salaries
+
+
+
+
+                                                                                                    5                                                                                 4/12/2019
+                                                                   IRVINGTON UNION FREE SCHOOL DISTRICT
+                                                                             Proposed Budget 2019-20
+                                                                             LEGAL/HR/PUBLIC INFO
+
+                                                                 2019-20
+                                                  2018-19                                                           2019-20                2019-20
+                                                                  PUSH                          %                                                                           %        2017-18
+                                                 APPROVED                        CHANGE                          NEW BUDGET               PROPOSED            CHANGE
+                                                                  AHEAD                      VARIANCE           CONSIDERATIONS
+                                                                                                                                                                         VARIANCE    ACTUAL
+CODE      DESCRIPTION                FTE          BUDGET                                                                                   BUDGET
+                                                                 BUDGET
+
+1420 Legal
+   400   Other Expense                             343,000         343,000           -              0.0%                      -                 343,000             0        0.0%    224,367
+   490   BOCES - Hearing Officer                       500             500               0          0.0%                      -                     500             0        0.0%          0
+         Total Legal                         $     343,500   $     343,500   $           0          0.0%    $                     0   $         343,500   $         0        0.0%    224,367
+
+1430 Personnel
+   160   Salary                        1.0          71,058          75,819         4,761             6.7%                    -                   75,819         4,761         6.7%    71,308
+   400   Other Expense                               4,500           5,500         1,000            22.2%                 25,000                 30,500        26,000       577.8%     1,274
+   450   Supplies                                    2,000           1,000        (1,000)          -50.0%                    -                    1,000        (1,000)      -50.0%       608
+   490   BOCES/Recruitment                          16,000          16,000           -               0.0%                    -                   16,000             0         0.0%    10,397
+         Total Personnel                     $      93,558   $      98,319   $     4,761             5.1%   $             25,000      $         123,319   $    29,761        31.8%    83,587
+
+1480 Public Information
+   400    Other Expense                             20,000          20,000           -            0.0%                                           20,000             0         0.0%     5,438
+   450    Supplies                                   2,250           2,250           -          100.0%                        -                   2,250             0       100.0%       628
+   490    BOCES Services                            41,100          41,100           -            0.0%                        -                  41,100             0         0.0%    20,848
+          Total Public Information           $      63,350   $      63,350   $       -            0.0%      $                     0   $          63,350   $         0         0.0%    26,914
+
+           TOTAL STAFF                       $     500,408   $     505,169   $     4,761            1.0%    $             25,000      $         530,169   $    29,761        5.9%    334,868
+
+
+
+
+PUSH AHEAD VARIANCES - cost of maintaining existing programs and services                                       NEW CONSIDERATIONS:
+                                                                                                                Funds to enhance HR functions
+
+
+
+
+                                                                                               6                                                                                      4/12/2019
+                                                                                          IRVINGTON UNION FREE SCHOOL DISTRICT
+                                                                                                  Proposed Budget 2019-20
+
+                                                                                                 OPERATIONS AND MAINTENANCE
+
+
+
+                                                                 2018-19                2019-20                                                  2019-20               2019-20
+                                                                                                                                %                                                                           %        2017-18
+                                                                APPROVED              PUSH AHEAD             CHANGE                            NEW BUDGET             PROPOSED              CHANGE
+                                                                                                                             VARIANCE        CONSIDERATIONS
+                                                                                                                                                                                                         VARIANCE    ACTUAL
+                                                                 BUDGET                 BUDGET                                                                         BUDGET
+CODE        DESCRIPTION                           FTE
+1620 Operations
+   160     Custodial Staff                          27.0           1,943,091               1,973,983          30,892             1.6%                                     1,973,983   $        30,892        1.6%    1,805,209
+   200     Equipment                                                  18,000                  23,500           5,500            30.6%                     -                  23,500             5,500       30.6%       40,965
+   400     Other Expense - Daily operations                           74,600                  74,600               0             0.0%                     -                  74,600                 0        0.0%       42,307
+   410     Building Security Services                                272,175                 263,236          (8,939)           -3.3%                  44,136               307,372            35,197       12.9%      179,866
+   420     Utilities                                                 903,800                 901,300          (2,500)           -0.3%                     -                 901,300            (2,500)      -0.3%      759,174
+   450     Supplies-Custodial. Operations                            170,574                 166,355          (4,219)           -2.5%                                       166,355            (4,219)      -2.5%      119,469
+   490     BOCES                                                      59,250                  59,500             250             0.4%                                        59,500               250        0.4%       27,467
+SUB-TOTAL OPERATIONS                                        $      3,441,490      $        3,462,474     $    20,984             0.6%    $             44,136     $       3,506,610   $        65,120        1.9%    2,974,457
+
+1621 Maintenance
+   160     Maintenance Staff                         2.0             199,105                   206,884         7,779             3.9%                                       206,884             7,779         3.9%    135,991
+   200     Equipment                                                       0                     7,500         7,500             0.0%                                         7,500             7,500         0.0%      5,408
+   400     District-Wide Building Repairs                            141,400                   142,150           750             0.5%                                       142,150               750         0.5%    251,102
+   400     Contractual Maintenance Services                          196,500                   215,750        19,250             9.8%                                       215,750            19,250         9.8%    134,694
+   400     Architect Fees                                             25,000                    25,000                                                                       25,000                 0         0.0%
+   400     Maintenance Inspections                                    30,300                    34,950          4,650            15.3%                                       34,950             4,650        15.3%     12,034
+   410     Major Capital Building Repairs                            194,000                   163,500        (30,500)          -15.7%                    -                 163,500           (30,500)      -15.7%    286,639
+   450     Supplies, Maintenance                                      72,350                    71,700           (650)           -0.9%                    -                  71,700              (650)       -0.9%     59,726
+ SUB-TOTAL MAINTENANCE                                      $        858,655      $            867,434   $      8,779             1.0%   $                    0   $         867,434   $         8,779         1.0%    885,594
+
+
+TOTAL OPERATIONS AND MAINTENANCE                            $      4,300,145      $        4,329,908     $    29,763             0.7%    $             44,136     $       4,374,044   $        73,899        1.7%    3,860,051
+
+
+
+
+PUSH AHEAD VARIANCES - cost of maintaining existing programs and services                                                                    NEW BUDGET CONSIDERATIONS
+1620.200 includes needed cleaning equipment; autoscrubber, burnisher, disinfectant spraye                                                    1620.410 Afternoon and event security guards     $44,136
+1620.420 Utilities include increased water usage offset by lower anticipated electrical rate
+1621.400 Maint Contractual includes external gym floor care and air duct cleaning
+1621.400 Addiitonal $10,000 for vehicle maintenance until new trucks can be purchased
+
+
+
+
+                                                                                                                         7                                                                                                 4/12/2019
+                                                                IRVINGTON UNION FREE SCHOOL DISTRICT
+                                                                        Proposed Budget 2019-20
+                                                                       MESSENGER AND MAILING
+
+
+
+                                          2018-19          2019-20                                        2019-20             2019-20
+                                                                                       %                                                                  %       2017-18
+                                         APPROVED        PUSH AHEAD     CHANGE                         NEW BUDGET            PROPOSED         CHANGE
+                                                                                    VARIANCE          CONSIDERATIONS
+                                                                                                                                                       VARIANCE   ACTUAL
+                                          BUDGET           BUDGET                                                             BUDGET
+CODE     DESCRIPTION
+
+1670 Messenger and Mailing
+
+  190    Salaries Messenger                 17,000           17,000          -             0.0%                  -               17,000          -         0.0%    11,267
+  400    Other Expense - Postage            20,000           20,000           0            0.0%                  -               20,000            0       0.0%    16,700
+  401    Rental of Machines                  8,700            8,800         100            1.1%                  -                8,800          100       1.1%     6,516
+  409    Mail Permits                        1,450            1,450           0            0.0%                  -                1,450            0       0.0%     1,400
+  450    Supplies                              700              700           0            0.0%                  -                  700            0       0.0%        95
+
+   TOTAL MESSENGER & MAILING         $      47,850   $       47,950         100            0.2%   $                  0   $       47,950   $      100       0.2%    35,978
+
+
+
+
+PUSH AHEAD VARIANCES - cost of maintaining existing programs and services                             NEW BUDGET CONSIDERATIONS
+
+
+
+
+                                                                                       8                                                                            4/12/2019
+                                                               IRVINGTON UNION FREE SCHOOL DISTRICT
+
+                                                                           Proposed Budget 2019-20
+
+                                                                       CENTRAL DATA PROCESSING
+
+                                         2018-19           2019-20                                              2019-20           2019-20
+                                                                                             %                                                                  %        2017-18
+                                        APPROVED         PUSH AHEAD         CHANGE                           NEW BUDGET          PROPOSED         CHANGE
+                                                                                          VARIANCE                                                           VARIANCE    ACTUAL
+                                         BUDGET            BUDGET                                           CONSIDERATIONS        BUDGET
+CODE          DESCRIPTION
+
+1680 Central Data Processing
+
+        200   Equipment                      170,000         189,200           19,200          100.0%                               189,200         19,200      100.0%     64,372
+        400   Other Expense                  317,800         317,800                0            0.0%                               317,800              0        0.0%    287,571
+        490   BOCES services                 119,745         130,000           10,255            8.6%                               130,000         10,255        8.6%    126,410
+
+TOTAL CENTRAL DATA PROCESSING           $    607,545     $   637,000   $       29,455           4.8%    $               0    $      637,000   $     29,455       4.8%     478,353
+
+
+
+
+PUSH AHEAD VARIANCES - cost of maintaining existing programs and services                                   NEW CONSIDERATIONS
+1680.200 Includes additional amount offset by reduced installment debt
+                           Zero based budget each year
+                           Battery units                            $26,200
+                           Lightspeed Rockets                       $14,000
+                           Barracuda Backup                         $20,000
+                           Meru saturation (wireless)               $65,000
+                           Meru Controllers                         $40,000
+                           Network Switches                         $24,000
+
+1680.490      Reflects costs of current BOCES services
+
+
+
+
+                                                                                           9                                                                              4/12/2019
+                                                                           IRVINGTON UNION FREE SCHOOL DISTRICT
+                                                                                   Proposed Budget 2019-20
+                                                                                          SPECIAL ITEMS
+
+
+
+
+                                                                      2019-20
+                                                     2018-19                                                              2019-20            2019-20
+                                                                       PUSH                             %                                                                 %       2017-18
+                                                    APPROVED                         CHANGE                             NEW BUDGET         PROPOSED         CHANGE
+                                                                      AHEAD                          VARIANCE                                                          VARIANCE   ACTUAL
+                                                     BUDGET                                                           CONSIDERATIONS        BUDGET
+CODE         DESCRIPTION                                              BUDGET
+
+1900 SPECIAL ITEMS
+
+ 1910.400     Insurance - NYSIR                       195,000            195,000                0          0.0%                               195,000              0       0.0%    180,717
+ 1950.400     North Yonkers Sewer Tax                  60,000             60,000                0          0.0%                                60,000              0       0.0%     27,443
+ 1964.400     Refund of Property Taxes                 75,000             75,000                0          0.0%                                75,000              0       0.0%    607,451
+ 1981.490     BOCES Charge - Administration           183,740            218,279           34,539         18.8%                               218,279         34,539      18.8%    161,476
+ 1981.490     BOCES Charge - Capital                   52,559             54,752            2,193          4.2%                                54,752          2,193       4.2%     52,922
+
+            TOTAL SPECIAL ITEMS                 $     566,299    $       603,031           36,732         6.5%    $               0    $      603,031   $     36,732       6.5%   1,030,009
+
+
+
+
+PUSH AHEAD VARIANCES - cost of maintaining existing programs and services                                             NEW CONSIDERATIONS
+
+1981.490 Reflects BOCES high retiree health expenses and Other Post Employment Benefits
+
+Note:
+State Comptroller has required all BOCES to eliminate OPEB reserves (Other Post
+Employment Benefits). There is now only a small reserve left to offset these
+costs in BOCES Operating Budget, thus the increase in admin costs.
+
+
+
+
+                                                                                                     10                                                                             4/12/2019
+                                                                              IRVINGTON UNION FREE SCHOOL DISTRICT
+                                                                                      Proposed Budget 2019-20
+                                                                           INSTRUCTIONAL IMPROVEMENT / ADMINISTRATION
+
+
+
+                                                         2018-19             2019-20                                                   2019-20           2019-20
+                                                                                                                      %                                                                               2017-18
+                                                        APPROVED           PUSH AHEAD          CHANGE                               NEW BUDGET          PROPOSED         CHANGE      % VARIANCE
+                                                                                                                   VARIANCE                                                                           ACTUAL
+                                                         BUDGET              BUDGET                                                CONSIDERATIONS        BUDGET
+CODE      DESCRIPTION                       FTE
+2010 Curriculum Development
+150/160 Administrative Salaries              2.0            276,679            281,726              5,047               1.8%                    0         281,726           5,047           1.8%      272,631
+  200     Equipment                                               0                  0                  0               0.0%                    0               0               0           0.0%            0
+  400     Other & Curr.Improvement Plan                      21,800             51,800             30,000             137.6%                    0          51,800          30,000         137.6%       19,968
+  401     Supt. Conference Days                               3,000                  0             (3,000)           -100.0%                    0               0          (3,000)       -100.0%        3,720
+  406     Tri-State Consortium                                9,140                  0             (9,140)           -100.0%                    0               0          (9,140)       -100.0%        7,400
+  450     Supplies                                            9,000              9,000                  0               0.0%                    0           9,000               0           0.0%        7,374
+  490     BOCES                                              70,285            223,695            153,410             218.3%                    0         223,695         153,410         218.3%       71,076
+           Total Curriculum Development             $       389,904   $        566,221    $       176,317              45.2%   $                0   $     566,221    $    176,317          45.2%      382,169
+
+
+2020 Supervision
+  150    Administrative Salaries              7.0         1,088,957          1,114,205              25,248              2.3%                    0        1,114,205         25,248          2.3%    1,094,212
+  160    Non-Instructional Salaries           4.0           253,545            262,332               8,787              3.5%                    0          262,332          8,787          3.5%      272,502
+  200    Equipment                                                0                  0                   0              0.0%                    0                0              0          0.0%          529
+  400    Other Expense                                       20,950             23,325               2,375             11.3%                    0           23,325          2,375         11.3%       17,384
+  406    Supv. - Prof. Development/Tri States                14,000             32,500              18,500            132.1%                    0           32,500         18,500        132.1%        5,319
+  450    Supplies                                            16,500             16,000                (500)            -3.0%                    0           16,000           (500)        -3.0%       10,774
+  490    BOCES                                               77,300              1,900             (75,400)           -97.5%                    0            1,900        (75,400)       -97.5%      166,193
+                        Total Supervision           $     1,471,252   $      1,450,262    $        (20,990)            -1.4%   $                0   $    1,450,262   $    (20,990)        -1.4%    1,566,913
+
+TOTAL INSTRUCTIONAL IMPROVEMENT /
+          ADMINISTRATION                            $     1,861,156    $     2,016,483    $       155,327               8.3%   $                0   $    2,016,483   $   $155,327          8.3%    1,949,082
+
+
+
+
+          PUSH AHEAD VARIANCES - cost of maintaining existing programs and services                                                NEW CONSIDERATIONS: Recommended enhancements from Administration
+          Realignment of expenses between A2010, A2020 and A2110
+          All Curriculum Development expenses are now in A2010 per guidelines
+          $30,000 moved from A2110 to A2010
+          $75,400 moved from A2020 to A2010 for Curriculum workshops run through BOCES
+          $18,000 moved from A2010 to A2020 for Tri States; 19-20 adds $10,000 for 3 year cycle visit
+          Receive approximately 56% back in revenue for BOCES expenses, resulting in net cost of $98,426
+
+
+
+
+                                                                                                              11                                                                                        4/12/2019
+                                                                               IRVINGTON UNION FREE SCHOOL DISTRICT
+                                                                                       Proposed Budget 2019-20
+                                                                                           INSTRUCTION
+                                                           2018-19           2019-20                                                     2019-20              2019-20
+                                                                                                                                                                                                                  2017-18
+                                                          APPROVED         PUSH AHEAD       CHANGE                % VARIANCE           NEW BUDGET            PROPOSED            CHANGE        % VARIANCE
+                                                                                                                                     CONSIDERATIONS
+                                                                                                                                                                                                                  ACTUAL
+CODE      DESCRIPTION                          FTE         BUDGET            BUDGET                                                                           BUDGET
+
+2110 Teaching - Regular School
+   110    Teaching Salaries (K-3)             36.10      4,221,248            4,033,389          (187,859)              -4.5%                                   4,033,389         -187,859             -4.5%       4,020,671
+   120    Teaching Salaries (4-6)             30.50      3,551,103            3,542,933            (8,170)              -0.2%                 120,000           3,662,933          111,830              3.1%       3,408,409
+   130    Teaching Salaries (7-12)            73.40      8,378,025            8,517,787           139,762                1.7%                       0           8,517,787          139,762              1.7%       8,072,010
+   140    Substitute Salaries                              280,000              300,000            20,000                7.1%                       0             300,000           20,000              7.1%         376,550
+   160    Non-instructional Salaries            18         697,468              959,853           262,385               37.6%                       0             959,853          262,385             37.6%         609,701
+   200    Equipment                                         50,000                    0           (50,000)            -100.0%                       0                   0          -50,000           -100.0%          53,799
+   400    Other Expense - Instruction                       37,800               46,585             8,785               23.2%                   1,250              47,835           10,035             26.5%          37,995
+          Other Expense - Homebound                         50,000               50,000                 0                0.0%                       0              50,000                0              0.0%          18,801
+   403    Other Expense - Equipment Repair                   9,700               12,550             2,850               29.4%                       0              12,550            2,850             29.4%           3,780
+   404    Other Expense- Commencement                       15,550               15,550                 0                0.0%                       0              15,550                0              0.0%          12,137
+   405    Rental of Instructional Equipment                 95,000               95,000                 0                0.0%                       0              95,000                0              0.0%          80,712
+   406    Professional Development - Conf.                  44,500               14,500           (30,000)             -67.4%                       0              14,500          -30,000            -67.4%          31,497
+   410    Student Assistance Services                       58,000               59,160             1,160                2.0%                       0              59,160            1,160              2.0%          57,020
+   415    Student Accident Insurance                        36,000               36,750               750                2.1%                       0              36,750              750              2.1%          35,144
+   450    Supplies                                         301,001              255,585           (45,416)             -15.1%                  33,530             289,115          -11,886             -3.9%         264,907
+   480    Textbooks                                        147,483              167,418            19,935               13.5%                   6,640             174,058           26,575             18.0%         128,354
+   490    BOCES Services                                   206,280              220,500            14,220                6.9%                       0             220,500           14,220              6.9%         235,266
+    TOTAL TEACHING REGULAR SCHOOL                     $ 18,179,158     $     18,327,560           148,402                0.8%   $             161,420    $     18,488,980    $     309,822              1.7%      17,446,753
+
+
+2280 Occupational Education
+   150   Instructional Salaries                                   0                   0                 0                0.0%                        0                  0                0              0.0%               0
+   450   Supplies                                                 0                   0                 0                0.0%                        0                  0                0              0.0%               0
+   490   BOCES Services                                     131,560              50,166           (81,394)             -61.9%                        0             50,166          -81,394            -61.9%          32,548
+     TOTAL OCCUPATIONAL EDUCATION                     $     131,560    $         50,166           (81,394)             -61.9%   $                    0   $         50,166    $     -81,394            -61.9%          32,548
+
+        TOTAL ADJUSTED TEACHING                       $   18,310,718   $     18,377,726           67,008                0.4%    $              161,420   $      18,539,146   $     228,428              1.2%      17,479,301
+          REGULAR SCHOOL/OCC ED
+
+
+
+
+                     PUSH AHEAD VARIANCES - cost of maintaining existing programs and services                                      NEW CONSIDERATIONS: Recommended enhancements from Administration
+                     Salary code variances reflects actual contractual salaries                                                     .6 FTE Music teacher
+                     2110.406 Moved $30,000 to A2010 Curriculum Development                                                         1.0 Elementary World Language teacher
+                     2110.450 Moved purchases for computing devices to A2630 ($45,600)                                              Increases in Textbooks, Supplies and Other Exp Instructional is for Amplify
+                     2280.490 Fewer seats at Occ Ed program based on current projection                                                Science materials. Total for Amplify with licences expenditure in A2630
+                     2110.110, 120, 130 Reduction in Summer Curriculum work                                                            is proposed at $46,100
+
+
+
+
+                                                                                                             12                                                                                                       4/12/2019
+                                                                        IRVINGTON UNION FREE SCHOOL DISTRICT
+                                                                                Proposed Budget 2019-20
+
+                                                                                       LIBRARY
+
+
+                                                                  2019-20
+                                                   2018-19                                                            2019-20           2019-20
+                                                                   PUSH                          %                                                                              2017-18
+                                                  APPROVED                        CHANGE                           NEW BUDGET          PROPOSED        CHANGE      % VARIANCE
+                                                                   AHEAD                      VARIANCE                                                                          ACTUAL
+                                                   BUDGET                                                         CONSIDERATIONS        BUDGET
+CODE      DESCRIPTION                  FTE                        BUDGET
+2610 Library
+   150    Librarian Salaries            4.0         438,647         449,899         11,252             2.6%                    0         449,899         11,252          2.6%        423,963
+   160    Non-Instructional Salaries    2.5         111,548         113,872          2,324             2.1%                    0         113,872          2,324          2.1%        109,310
+   200    Equipment                                     -                 0              0             0.0%                    0               0            -            0.0%              0
+   400    Other Expense                                 -                 0              0             0.0%                    0               0            -            0.0%              0
+   406    Prof. Development                             -                 0              0             0.0%                    0               0            -            0.0%              0
+   450    Supplies                                    2,850           2,900             50             1.8%                    0           2,900             50          1.8%          2,551
+   451    Library Books & Materials                  32,500          32,000           (500)           -1.5%                    0          32,000           (500)        -1.5%         25,213
+   490    BOCES Services                             55,000          56,000          1,000             1.8%                    0          56,000          1,000          1.8%         51,098
+
+          TOTAL LIBRARY                       $     640,545   $     654,671   $     14,126            2.2%    $                0   $     654,671   $     14,126          2.2%        612,135
+
+
+
+
+          PUSH AHEAD VARIANCES - cost of maintaining existing programs and services                               NEW CONSIDERATIONS: Recommended enhancements from Administration
+
+
+
+
+                                                                                                 13                                                                                     4/12/2019
+                                                                              IRVINGTON UNION FREE SCHOOL DISTRICT
+                                                                                      Proposed Budget 2019-20
+                                                                                     INSTRUCTIONAL TECHNOLOGY
+
+
+                                                        2018-19             2019-20                                               2019-20                2019-20
+                                                                                                                                                                                                                 2017-18
+CODE    DESCRIPTION                      FTE           APPROVED           PUSH AHEAD           CHANGE      % VARIANCE          NEW BUDGET               PROPOSED            CHANGE           % VARIANCE
+                                                                                                                                                                                                                 ACTUAL
+                                                        BUDGET              BUDGET                                            CONSIDERATIONS             BUDGET
+
+A2630 - Instructional Technology
+
+ 150    Instructional Salaries           4.4              516,920               522,894           5,974           1.2%                                        522,894           5,974                 1.2%        410,108
+ 160    Computer Staff                   3.5              172,287               176,092           3,805           2.2%                         0              176,092           3,805                 2.2%        104,441
+ 200    Equipment                                          91,735                74,735         (17,000)        -18.5%                         0               74,735         (17,000)              -18.5%         88,951
+ 400    Other Expense                                     200,240               212,120          11,880           5.9%                         0              212,120          11,880                 5.9%        272,832
+ 403    Computer- Equip. Repair                             3,000                 3,000             -             0.0%                         0                3,000               0                 0.0%          2,989
+ 450    Computer Supplies                                  55,630               126,750          71,120         127.8%                    68,151              194,901         139,271               250.4%         40,588
+ 462    State Aided Computer Software                      41,163                44,175           3,012           7.3%                     4,680               48,855           7,692                18.7%         34,504
+ 490    BOCES                                              29,250                30,000             750           2.6%                         0               30,000             750                 2.6%         24,292
+
+
+           TOTAL INSTRUCTIONAL
+        INFORMATION TECHNOLOGY                     $    1,110,225     $       1,189,766    $     79,541          7.2%    $                72,831    $       1,262,597   $     152,372    $           13.7%        978,705
+
+
+
+
+        PUSH AHEAD VARIANCES - cost of maintaining existing programs and services                                            NEW CONSIDERATIONS: Recommended enhancements from Administration
+        450 includes computer expenses no longer in lease and transfer of $45,600 from A2110                                 450 for additional devices for 1:1 device program at MS and increase of classroom buckets
+                                                                                                                             462 for additional Amplify Science licenses
+
+
+
+
+                                                                                                           14                                                                                                        4/12/2019
+                                                                     IRVINGTON UNION FREE SCHOOL DISTRICT
+                                                                              Proposed Budget 2019-20
+
+                                                                                  GUIDANCE SERVICES
+
+
+                                                 2018-19          2019-20                                              2019-20           2019-20
+                                                                                                                                                                               2017-18
+                                                APPROVED        PUSH AHEAD         CHANGE     % VARIANCE            NEW BUDGET          PROPOSED        CHANGE    % VARIANCE
+                                                                                                                   CONSIDERATIONS
+                                                                                                                                                                               ACTUAL
+CODE     DESCRIPTION                 FTE         BUDGET           BUDGET                                                                 BUDGET
+
+2810. Guidance
+   150    Teaching Salaries           6.0         779,855           810,190          30,335             3.9%                    -         810,190        30,335         3.9%    721,136
+   160    Non-Instructional Salaries  2.0         115,806           120,062           4,256             3.7%                    -         120,062         4,256         3.7%    110,962
+   400    Other Expense                            11,950            11,950               -             0.0%                    -          11,950             -         0.0%     10,739
+   406    Other Expense-Prof. Development           7,000             7,000               -             0.0%                    -           7,000             -         0.0%      5,791
+   450    Supplies                                  1,150             1,250             100             8.7%                    -           1,250           100         8.7%      1,715
+         TOTAL GUIDANCE                     $     915,761   $       950,452   $      34,691             3.8%   $                -   $     950,452   $    34,691         3.8%    850,343
+
+
+
+
+         PUSH AHEAD VARIANCES - cost of maintaining existing programs and services                                 NEW CONSIDERATIONS: Recommended enhancements from Administration
+         Salaries per contract
+
+
+
+
+                                                                                              15                                                                               4/12/2019
+                                                                                  IRVINGTON UNION FREE SCHOOL DISTRICT
+                                                                                          Proposed Budget 2019-20
+                                                                                            SPECIAL EDUCATION
+
+
+
+                                                               2018-19           2019-20                                             2019-20            2019-20
+                                                                                                                                                                                                    2017-18
+                                                              APPROVED         PUSH AHEAD         CHANGE       % VARIANCE          NEW BUDGET          PROPOSED         CHANGE       % VARIANCE
+                                                                                                                                 CONSIDERATIONS
+                                                                                                                                                                                                    ACTUAL
+CODE      DESCRIPTION                              FTE         BUDGET            BUDGET                                                                 BUDGET
+
+2250. Special Education
+    150 Instructional Salaries                     35.8        3,691,414          3,649,590         -41,824          -1.1%                     0        3,649,590         (41,824)        -1.1%     3,694,450
+    160 Non-Instructional Salaries                 36.8        1,629,882          1,613,959         -15,923          -1.0%                     0        1,613,959         (15,923)        -1.0%     1,603,554
+    200 Equipment                                                      0                  0               0           0.0%                     0                0               0          0.0%         3,161
+  400.4 Physical/OT Services                                      80,000            100,000          20,000          25.0%                     0          100,000          20,000         25.0%       122,129
+  400.4 Homebound Service                                         30,000             30,000               0           0.0%                     0           30,000               0          0.0%        25,049
+  400.5 Contractual -JCOS                                        202,700            240,000          37,300          18.4%                     0          240,000          37,300         18.4%       254,544
+    400 Other Contractual                                         31,300             31,300               0           0.0%                     0           31,300               0          0.0%       110,681
+    450 Supplies                                                  16,000             16,000               0           0.0%                     0           16,000               0          0.0%        15,939
+    460 Computer Software                                          5,000              2,000          -3,000         -60.0%                     0            2,000          (3,000)       -60.0%           290
+    470 Tuition (Private, Public, Parent Placed)               1,307,077          1,801,891         494,814          37.9%                     0        1,801,891         494,814         37.9%     1,319,404
+    480 Textbooks                                                  4,000              4,000               0           0.0%                     0            4,000               0          0.0%         2,081
+    490 BOCES                                                  1,808,326          1,865,979          57,653           3.2%                     0        1,865,979          57,653          3.2%     1,315,351
+
+            TOTAL SPECIAL EDUCATION                       $    8,805,699   $      9,354,719   $     549,020          6.2%    $                 0   $    9,354,719   $     549,020          6.2%     8,466,633
+
+
+
+
+          PUSH AHEAD VARIANCES - cost of maintaining existing programs and services                                              NEW CONSIDERATIONS: Recommended enhancements from Administration
+          Salaries reflect actual contractual salaries
+          160 includes partial recode to A2110 based on tasks assigned
+          2250.400.5 Increase in JCOS students; amount matches to revenue increase
+          2250.470/490 Changes in Out of District Placements for current students
+             Includes known placements only
+
+
+
+
+                                                                                                              16                                                                                        4/12/2019
+                                                                             IRVINGTON UNION FREE SCHOOL DISTRICT
+                                                                                        Proposed Budget 2019-20
+
+                                                                                   PUPIL PERSONNEL SERVICES
+
+
+
+
+                                                          2018-19           2019-20                                                2019-20                2019-20
+                                                                                                                                                                                                               2017-18
+                                                         APPROVED         PUSH AHEAD           CHANGE       % VARIANCE          NEW BUDGET               PROPOSED            CHANGE        % VARIANCE
+                                                                                                                                                                                                               ACTUAL
+                                                          BUDGET            BUDGET                                             CONSIDERATIONS             BUDGET
+CODE      DESCRIPTION                          FTE
+
+2815. Health Services
+160       Nurses' Salaries                 #   4.8         307,045            303,334            (3,711)           -1.2%                       0              303,334           (3,711)            -1.2%         298,738
+200       Equipment                                          2,500              2,500               -             100.0%                       0                2,500                0            100.0%               0
+400.40    School Physician/Contractual                      34,560             35,560             1,000             2.9%                       0               35,560            1,000              2.9%          44,919
+400.50    Health Services - Out of District                125,000            130,000             5,000             4.0%                       0              130,000            5,000              4.0%          94,998
+450       Supplies                                           8,950             10,300             1,350            15.1%                       0               10,300            1,350             15.1%           5,227
+          Total Health Services                      $      478,055   $       481,694             3,639             0.8%   $                   0     $        481,694            3,639              0.8%         443,882
+
+2820. Psychologists
+150      Instructional Salaries       # 6.00               612,704            535,921           (76,783)          -12.5%                                      535,921          (76,783)           -12.5%         596,014
+400      Other Expense- Prof. Development                      180                500               320           177.8%                       0                  500              320            177.8%             250
+450      Supplies                                            1,900              2,400               500            26.3%                       0                2,400              500             26.3%           1,617
+         Total Psychologists                         $      614,784   $       538,821           (75,963)          -12.4%   $                    0    $        538,821          (75,963)           -12.4%         597,881
+
+2825. Social Work Services
+160       Social Worker Salaries           # 1.00          112,257           113,285              1,028             0.9%                       0              113,285            1,028              0.9%        107,758
+400       Contractual                                            0                 0                -               0.0%                  33,700               33,700           33,700            100.0%              0
+450       Supplies                                           1,000             1,000                -             100.0%                       0                1,000                0              0.0%              0
+          Total Social Work Services                 $     113,257    $      114,285       $      1,028             0.9%   $              33,700     $        147,985           34,728             30.7%        107,758
+
+
+
+       TOTAL PUPIL PERSONNEL
+          SERVICES BUDGET                            $    1,206,096   $     1,134,800      $    (71,296)           -5.9%   $              33,700     $      1,168,500    $     (37,596)            -3.1%       1,149,521
+
+
+
+
+          PUSH AHEAD VARIANCES - cost of maintaining existing programs and services                                            NEW CONSIDERATIONS: Recommended enhancements from Administration
+          Staff changes of Pyschologists                                                                                       A2825 Funds for increased social work and social emotional learning services/programs
+
+
+
+
+                                                                                                           17                                                                                                    4/12/2019
+                                                                 IRVINGTON UNION FREE SCHOOL DISTRICT
+                                                                            Proposed Budget 2019-20
+
+                                                                       CO-CURRICULAR ACTIVITIES
+
+
+
+                                               2018-19          2019-20                                              2019-20                2019-20
+                                                                                                                                                                                             2017-18
+                                              APPROVED        PUSH AHEAD         CHANGE     % VARIANCE             NEW BUDGET             PROPOSED          CHANGE      % VARIANCE
+                                                                                                                                                                                             ACTUAL
+                                               BUDGET           BUDGET                                           CONSIDERATIONS            BUDGET
+CODE        DESCRIPTION
+
+2850 Co-Curricular Activities
+     150    Advisors Salaries                   120,700           128,000           7,300             6.0%                  3,230            131,230         10,530              8.7%         112,354
+     150    Chaperones/Food Concessions           8,200             9,800           1,600            19.5%                      0              9,800          1,600             19.5%          15,135
+     160    Non-Instructional Salaries           12,200            12,200               0             0.0%                      0             12,200              0              0.0%           5,358
+     160    Chaperones/Food Concessions           3,500             4,500           1,000            28.6%                      0              4,500          1,000             28.6%           2,850
+     400    Event Expenses                        3,200             3,200               0           100.0%                  3,000              6,200          3,000            100.0%           6,051
+
+TOTAL CO-CURRICULAR ACTIVITIES            $     147,800   $       157,700    $      9,900             6.7%   $              6,230     $      163,930    $    16,130             10.9%         141,748
+
+
+
+
+            PUSH AHEAD VARIANCES - cost of maintaining existing programs and services                            NEW CONSIDERATIONS: Recommended enhancements from Administration
+                                                                                                                 Additional club stipends for programs at Dows, MSS and MS and for Science Research
+
+
+
+
+                                                                                               18                                                                                                4/12/2019
+                                                                       IRVINGTON UNION FREE SCHOOL DISTRICT
+                                                                                 Proposed Budget 2019-20
+                                                                              INTERSCHOLASTIC ATHLETICS
+
+
+
+                                                   2018-19           2019-20                                                2019-20           2019-20
+                                                                                                                                                                                      2017-18
+                                                  APPROVED         PUSH AHEAD         CHANGE       % VARIANCE            NEW BUDGET          PROPOSED        CHANGE      % VARIANCE
+                                                                                                                                                                                      ACTUAL
+                                                   BUDGET            BUDGET                                             CONSIDERATIONS        BUDGET
+CODE     DESCRIPTION                    FTE
+2855 Interscholastic Athletics
+     150 Coaches & Instr. Salaries #    1.0         316,359            336,557           20,198              6.4%                   0          336,557         20,198          6.4%    310,484
+ 151/155 Chaperones/Timekeepers                      34,500             26,500           (8,000)           -23.2%                   0           26,500         (8,000)       -23.2%     27,675
+     160 Non-Instructional Salaries #   0.5         270,886            258,658          (12,228)            -4.5%                   0          258,658        (12,228)        -4.5%    221,120
+ 161/165 Chaperones/Timekeepers                      31,500             30,000           (1,500)            -4.8%                   0           30,000         (1,500)        -4.8%     28,776
+     200 Equipment                                        0                  0                               0.0%                                    0              0          0.0%          0
+     400 Other Expense                               90,700             90,700               0               0.0%                   0           90,700              0          0.0%     89,640
+     403 Equipment Repair                            12,000             15,000           3,000              25.0%                   0           15,000          3,000         25.0%      9,321
+     450 Supplies                                    52,400             53,400           1,000               1.9%                   0           53,400          1,000          1.9%     41,204
+     490 BOCES                                       85,800             86,731             931               1.1%                   0           86,731            931          1.1%     92,512
+
+TOTAL INTERSCHOLASTICS ATHLETICS              $     894,145    $       897,546    $      3,401              0.4%    $               0    $     897,546   $     3,401           0.4%    820,732
+
+
+
+
+                                              # Coaches not included in FTE
+
+         PUSH AHEAD VARIANCES - cost of maintaining existing programs and services                                      NEW CONSIDERATIONS: Recommended enhancements from Administration
+                 Changing mix of coach salaries between 150 and 160 codes
+
+
+
+
+                                                                                                     19                                                                                    4/12/2019
+                                                                              IRVGINTON UNION FREE SCHOOL DISTRICT
+                                                                                        Proposed Budget 2019-20
+                                                                                           TRANSPORTATION
+
+
+                                                                                    2019-20
+                                                                2018-19                                                              2019-20                 2019-20
+                                                                                     PUSH                            %                                                                          %       2017-18
+                                                               APPROVED                              CHANGE                       NEW BUDGET                PROPOSED              CHANGE
+                                                                                     AHEAD                        VARIANCE                                                                   VARIANCE   ACTUAL
+                                                                BUDGET                                                           CONSIDERATIONS              BUDGET
+CODE         DESCRIPTION                            FTE                             BUDGET
+5510 Transportation Services
+    150    Transportation Director                  0.30           54,087              55,450           1,363         2.5%                      -                   55,450          1,363        2.5%     53,288
+    400    Transportation Coordinator                             102,300             105,000           2,700         2.6%                  10,000                  115,000         12,700      12.4%      94,872
+      Total Transportation Services                        $      156,387    $        160,450    $      4,063         2.6%   $               10,000     $           170,450   $     14,063       9.0%     148,160
+
+5540.400 Private Carrier Contracts
+  400.00    Transportation - In-District                          901,565              861,419        (40,146)       -4.5%                                        861,419          -40,146      -4.5%     831,263
+  400.01    Transportation - Private schools                      593,375              646,989         53,614         9.0%                      -                 646,989           53,614       9.0%     462,929
+  400.04    Transportation - Occ. Educ.                            25,000               30,381          5,381        21.5%                      -                  30,381            5,381      21.5%           0
+  400.04    Transportation - Special Education                    574,650              680,243        105,593        18.4%                      -                 680,243          105,593      18.4%     579,849
+     402    Transportation - Athletic/Field trips                 168,500              259,727         91,227        54.1%                                        259,727           91,227      54.1%     140,579
+            Total Private Carrier Services                 $    2,263,090    $       2,478,759   $     215,669        9.5%   $                 -        $       2,478,759     $    215,669       9.5%   2,014,620
+
+
+             TOTAL PUPIL TRANSPORTATION                    $    2,419,477    $      2,639,209    $    219,732         9.1%   $              10,000      $      2,649,209      $   229,732        9.5%   2,162,780
+
+
+
+
+PUSH AHEAD VARIANCES - cost of maintaining existing programs and services                                                        NEW CONSIDERATIONS
+Special Ed and Private school costs are variable depending on quad assigments and
+          student placement which varies year to year.                                                                           Funds for a transportation study
+Increase for expected monitor rate increase
+Offset by elimination of late bus $10,484
+Expected increase in bid for Athletic/Field Trips
+
+
+
+
+                                                                                                            20                                                                                             4/12/2019
+                                                                         IRVINGTON UNION FREE SCHOOL DISTRICT
+                                                                                 Proposed Budget 2019-20
+
+                                                                                     EMPLOYEE BENEFITS
+
+                                                  2018-19           2019-20                                               2019-20            2019-20
+                                                                                                                                                                                             2017-18
+                                                 APPROVED         PUSH AHEAD          CHANGE       % VARIANCE          NEW BUDGET           PROPOSED          CHANGE      % VARIANCE
+                                                                                                                                                                                             ACTUAL
+                                                  BUDGET            BUDGET                                            CONSIDERATIONS         BUDGET
+CODE        DESCRIPTION
+
+9010.800    Employees' Retirement                   904,859            825,326          (79,533)          -8.8%                                 825,326        (79,533)       -8.8%             686,312
+9020.800    Teachers' Retirement                  2,597,748          2,174,895         (422,853)         -16.3%                10,632         2,185,527       (412,221)      -15.9%           2,329,100
+9030.800    Social Security                       2,391,400          2,400,000            8,600            0.4%                 9,180         2,409,180         17,780        0.7%            2,256,821
+9040.800    Workmen's Compensation                  175,000            280,500          105,500           60.3%                   -             280,500        105,500       60.3%              271,628
+9045.800    Life Insurance                           36,000             36,000                0            0.0%                   -              36,000              0        0.0%               27,855
+9050.800    Unemployment Insurance                   15,000             10,000           (5,000)         -33.3%                   -              10,000         (5,000)      -33.3%               8,169
+9055.800    Disability Insurance                     52,000             52,000                0            0.0%                   -              52,000              0        0.0%               47,932
+9060.800    Health Insurance                      7,084,062          7,438,589          354,527            5.0%                28,988         7,467,577        383,515        5.4%            6,790,958
+9065-800    Flex Administrative Charges               3,000              5,000            2,000           66.7%                   -               5,000          2,000       66.7%                4,626
+9070.800    Contract/Welfare Fund Benefits          365,000            390,000           25,000            6.8%                 2,200           392,200         27,200        7.5%              409,219
+
+     TOTAL EMPLOYEE BENEFITS                 $   13,624,069   $     13,612,310   $      (11,759)          -0.1%   $            51,000   $    13,663,310   $     39,241        0.3%           12,832,620
+
+
+
+
+PUSH AHEAD VARIANCES - cost of maintaining existing programs and services                                             NEW CONSIDERATIONS: Recommended enhancements from Administration
+Workers Comp to go fully insured                                                                                      Increases resulting from new positions identified on other schedules
+TRS rate reduction from 10.62% to 8.86%
+
+
+
+
+                                                                                                      21                                                                                           4/12/2019
+                                                                             IRVGINTON UNION FREE SCHOOL DISTRICT
+                                                                                        Proposed Budget 2019-20
+                                                                                            DEBT SERVICE
+
+
+
+                                                    2018-19             2019-20                                                 2019-20                 2019-20
+                                                                                                           %                                                                               %         2017-18
+   CODE              DESCRIPTION                   APPROVED           PUSH AHEAD         CHANGE                              NEW BUDGET                PROPOSED             CHANGE
+                                                                                                        VARIANCE                                                                        VARIANCE    ACTUALS
+                                                    BUDGET              BUDGET                                              CONSIDERATIONS              BUDGET
+
+  9711.600    Serial Bonds - Principal              2,920,000           3,035,000           115,000           3.9%                         -                3,035,000        115,000         3.9%   2,815,000
+  9711.700    Serial Bonds - Interest               1,125,150           1,025,556           (99,594)         -8.9%                         -                1,025,556        (99,594)       -8.9%   1,236,819
+  9731.600    B.A.N. Principal                              0                   0               -             0.0%                         -                        0              0         0.0%     700,000
+  9731.700    B.A.N. Interest                               0                   0                 0           0.0%                         -                        0              0         0.0%      10,360
+  9785.600    Lease Purchase Principal                168,792             116,528           (52,264)        -31.0%                      60,000                176,528          7,736         4.6%     203,069
+  9785.700    Lease Purchase Interest                   4,196               1,511            (2,685)        -64.0%                         -                    1,511         (2,685)      -64.0%       7,698
+              TAN/State Ret Loan
+
+              TOTAL DEBT SERVICE               $    4,218,138     $     4,178,595   $        (39,543)           -0.9%   $               60,000    $         4,238,595   $     20,457       0.48%    4,972,946
+
+
+
+
+PUSH AHEAD VARIANCES - cost of maintaining existing programs and services                                                   NEW CONSIDERATIONS
+Based on debt schedules for current bonds or leases outstanding                                                             Phone system - 3-5 year lease
+
+Savings from Lease principal and interest to Technology devices
+
+
+
+
+                                                                                                           22                                                                                          4/12/2019
+                                                                       IRVINGTON UNION FREE SCHOOL DISTRICT
+
+                                                                                 Proposed Budget 2019-20
+                                                                                  INTERFUND TRANSFER
+
+
+                                                                                                                                                                        %
+                                                 2018-19            2019-20                                             2019-20             2019-20        CHANGE    VARIANC
+                                                                                                       %                                                                         2017-18
+                                                APPROVED             PUSH             CHANGE                          NEW BUDGET           PROPOSED                     E
+CODE     DESCRIPTION                                                                                VARIANCE                                                                     ACTUAL
+                                                 BUDGET             AHEAD                                           CONSIDERATIONS          BUDGET
+
+9901.95 Transfer to Special Aid Fund                48,000              55,000            7,000         14.6%                  -              55,000         7,000      14.6%      52,344
+        Transfer to Capital Fund                                                                                                                   0                       n/a
+
+         TOTAL Interfund Transfer           $       48,000     $        55,000    $       7,000         14.6%   $                  0   $      55,000   $     7,000      14.6%      52,344
+
+
+
+
+PUSH AHEAD VARIANCES - cost of maintaining existing programs and services                                           NEW CONSIDERATIONS
+Transfer to Special Aid fund to record district 20% share of providing summer Special Ed services
+Tuition costs for summer programs have increased in recent years and student placement
+can vary year to year.
+
+
+
+
+                                                                                                                                                                                 4/12/2019

@@ -1,0 +1,23 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/goto?open&id=9PQGP644B839 | DATE: 2014-10-14 | TITLE: Work Session/Special Meeting | 11.5 Budget Transfers 14/15 - 05
+
+Meeting: Oct 14, 2014 - Work Session/Special Meeting
+Date: 2014-10-14
+Category: 11. Business Office Matters
+Subject: 11.5 Budget Transfers 14/15 - 05
+Type: Action (Consent)
+
+Budget Transfer 14/15-05
+
+					Debit A1060.400-00-0000
+
+					(District Meeting)
+
+				$919.07
+
+					Credit A1040.161-00-0000
+
+					((District Clerk)
+
+				$919.07
+
+	This transfer is to cover payroll for election inspectors

@@ -1,0 +1,1699 @@
+SOURCE https://www.irvingtonschools.org/fs/resource-manager/view/f20a2544-1ab3-4efe-a260-98935e192840 | DATE 2025-07-08 | TITLE concussionmanageguidelines.pdf
+
+Guidelines for
+Concussion Management
+      In Schools
+         2018
+
+
+
+
+        The University of the State of New York
+              The State Education Department
+            Office of Student Support Services
+                                                    Table of Contents
+Foreword ..................................................................................................................................................... II
+Acknowledgements................................................................................................................................. IV
+Concussion Overview .............................................................................................................................. 1
+    LEGISLATIVE BACKGROUND ...................................................................................................................... 1
+Policy And Protocol Development ........................................................................................................ 4
+Prevention And Safety ............................................................................................................................. 5
+Identification ............................................................................................................................................... 7
+    SYMPTOMS ................................................................................................................................................ 8
+    SIDELINE ASSESSMENT AND NEUROCOGNITIVE TESTING ....................................................................... 8
+    INJURY CHARACTERISTICS ...................................................................................................................... 11
+    SYMPTOMS .............................................................................................................................................. 12
+    RISK FACTORS TO RECOVERY ............................................................................................................... 12
+Post Concussion Management ............................................................................................................ 13
+    COGNITIVE REST ..................................................................................................................................... 13
+    RETURN TO ACADEMIC ACTIVITIES......................................................................................................... 15
+    PHYSICAL REST ....................................................................................................................................... 16
+    RETURN TO PHYSICAL ACTIVITIES .......................................................................................................... 17
+The Concussion Management Team .................................................................................................. 20
+    PARENT/GUARDIAN ................................................................................................................................. 23
+    SCHOOL ADMINISTRATOR/ PUPIL PERSONNEL SERVICES STAFF (PPS) ............................................... 24
+    MEDICAL DIRECTOR ................................................................................................................................ 25
+    PRIVATE HEALTHCARE PROVIDERS/ SPECIALISTS ................................................................................. 26
+    DIRECTOR OF PHYSICAL EDUCATION AND/OR ATHLETIC DIRECTOR ................................................... 29
+    CERTIFIED ATHLETIC TRAINER ................................................................................................................ 30
+    PHYSICAL EDUCATION TEACHER/ COACHES .......................................................................................... 32
+    TEACHER ................................................................................................................................................. 33
+Resources.................................................................................................................................................. 35
+
+
+
+
+                                                                               i
+NYSED Guidelines for Concussion Management
+In Schools 2018
+                                       Foreword
+
+      The purpose of this document is to provide school district personnel,
+parents/guardians, students, and private health providers with information on
+concussion management in school settings.             It explains the purpose of a
+concussion management program in schools and provides guidance for
+developing an effective program including planning, implementation, and follow-up
+protocols. This will assist in identifying a student with a potential concussion and
+ensure that a student who has been diagnosed with a concussion receives the
+appropriate care and attention at school to aid in his/her recovery.
+
+        Every attempt has been made to ensure that the information and resources
+contained in this document reflect best practice in the fields of medicine and
+nursing practice. Local educational agencies should review these guidelines with
+their counsel as necessary to incorporate the guidance with district policy.
+
+
+
+
+                                             ii
+NYSED Guidelines for Concussion Management
+In Schools 2018
+                        THE UNIVERSITY OF THE STATE OF NEW YORK
+                                 Regents of The University
+
+BETTY A. ROSA, Chancellor, B.A., M.S. in Ed., M.S. in Ed., M.Ed., Ed.D. .................                                    Bronx
+T. ANDREW BROWN, Vice Chancellor, B.A., J.D. ...........................................................                     Rochester
+ROGER TILLES, B.A., J.D. .................................................................................................   Great Neck
+LESTER W. YOUNG, JR., B.S., M.S., Ed.D. . ......................................................................             Beechhurst
+CHRISTINE D. CEA, B.A., M.A., Ph.D. . ...........................................................................            Staten Island
+WADE S. NORWOOD, B.A. ...............................................................................................        Rochester
+KATHLEEN M. CASHIN, B.S., M.S., Ed.D. ......................................................................                 Brooklyn
+JAMES E. COTTRELL, B.S., M.D. ......................................................................................         New York
+JOSEPHINE VICTORIA FINN, B.A., J.D. .............................................................................            Monticello
+JUDITH CHIN, M.S. in Ed. ..............................................................................................      Little Neck
+BEVERLY L. OUDERKIRK, B.S. in Ed., M.S. in Ed. ..........................................................                    Morristown
+CATHERINE COLLINS, R.N., N.P., B.S., M.S. in Ed., Ed.D. ...........................................                          Buffalo
+JUDITH JOHNSON, B.A., M.A., C.A.S. .............................................................................             New
+Hempstead
+NAN EILEEN MEAD, B.A. ................................................................................................       Manhattan
+ELIZABETH S. HAKANSON, A.S., M.S., C.A.S. ................................................................                   Syracuse
+LUIS O. REYES, B.A., M.A., Ph.D. ...................................................................................         New York
+SUSAN W. MITTLER, B.S., M.S. .......................................................................................         Ithaca
+
+
+Commissioner of Education and President of The University
+MARYELLEN ELIA
+
+
+Executive Deputy Commissioner
+ELIZABETH R. BERLIN
+
+
+Associate Commissioner of School Operations and Management Services
+RENEE L RIDER
+
+
+
+
+The State Education Department does not discriminate on the basis of age, color, religion, creed, disability,
+marital status, veteran status, national origin, race, gender, genetic predisposition or carrier status, or sexual
+orientation in its educational programs, services and activities. Portions of this publication can be made
+available in a variety of formats, including braille, large print or audio tape, upon request. Inquiries
+concerning this policy of nondiscrimination should be directed to the Department’s Office for Diversity and
+Access, Room 530, Education Building, Albany, NY 12234.
+
+
+
+
+                                                                         iii
+NYSED Guidelines for Concussion Management
+In Schools 2018
+                                        Acknowledgements
+        These guidelines were developed with the assistance of an advisory group
+consisting of the following participants. Participants who assisted with the 2018 revision
+are marked with an asterisk (*).
+        The State Education Department and the Department of Health would also like to
+give a special thanks to the NYS BIANYS Concussion Initiative Advisory Committee for
+their assistance with the 2018 revisions.
+
+
+ Judith Avner, Esq.                                   Kathleen M. Doyle, Ph.D.
+ Executive Director,                                  Executive Secretary
+ Brain Injury Association of New York State.          State Boards for Psychology, Massage
+                                                      Therapy,
+ Linda Bakst                                          Clinical Laboratory Technology
+ Deputy Director of Policy Services                   Psychoanalysis/Psychotherapy Review Unit
+ New York State School Boards Association             Office of Professions
+                                                      New York State Education Department
+ Jeffrey J. Bazarian, MD, MPH
+ Associate Professor of Emergency Medicine            Robert Duarte, MD
+ University of Rochester School of Medicine           Director of North Shore Long Island Jewish
+ and Dentistry                                        Health System Concussion Center
+                                                      Assistant Professor of Neurology at Hofstra,
+                                                      NSLIJ Medical School
+ Kyle McCauley Belokopitsky, Esq.                     Director, Pain Institute, Cushing's
+ Assistant Director for Governmental Relations        Neuroscience Institute,
+ NYS Council of School Superintendents                NSLIJ Health System
+
+ Brian J. Blyth, MD                                   Maria Fletcher, RN, PhD, CNE
+ Assistant Professor                                  President, NYS PTA
+ Department of Emergency Medicine                     Albany, NY
+ and Center for Neural Development and
+ Disease                                              Eileen M. Franko, MS, Dr.P.H.
+ University of Rochester Medical Center               Director
+                                                      Bureau of Occupational Health
+ *Brain Injury Association of New York                New York State Department of Health
+ State
+ Concussion Initiative Advisory Committee             *Kitty Gelberg
+                                                      Director
+ Karen Cofino, RN, BSN, NCSN                          Bureau of Occupational Health and Injury
+ NY State Association of School Nurses-               Prevention
+ President                                            New York State Department of Health
+ Mamaroneck UFSD-School Nurse
+                                                      Andrew Getzin, MD
+ *Darryl Daily, MSEd                                  Cayuga Medical Center
+ Associate in Physical Education                      Sports Medicine and Athletic Performance
+ Associate in School Health Education
+ (Former)                                             *Karen Hollowood, RN, BSN, MSEd
+ Student Support Services                             Associate in School Nursing
+ New York State Education Department                  Student Support Services
+                                                      New York State Education Department
+ Cynthia DiLaura Devore, MD, MA, MS,
+ FAAP                                                 June Janssen, RN
+ Chair, Committee on School Health and                Southern Cayuga Central School District
+ Sports Medicine, District II, American               Past Treasurer NYSASN
+ Academy of Pediatrics                                By-Laws/OG Chair NYSASN
+
+ Anthony N. Donatelli Jr., MD, FAAFP, D-              Robert J. Jones, ATC, M. Ed.
+ ABFM                                                 Certified Athletic Trainer/
+ Private Practice, School Physician                   Health Educator / Physical Education Teacher
+ Section XI Athletic Safety Committee                 Queensbury Union Free School District
+
+
+
+
+                                                 iv
+NYSED Guidelines for Concussion Management
+In Schools 2018
+ Barry D. Jordan, MD, MPH
+ Director, Brain Injury Program                               Walter Ramos, RN, J.D.
+ Burke Rehabilitation Hospital                                Executive Secretary NYS Board for Medicine,
+                                                              Athletic Training and Medical Physics Office of
+ Marilyn A. Kacica, MD, M.P.H., F.A.A.P                       Professions
+ Medical Director                                             Veterinary Medicine, Dietetics and Nutrition, New York
+ Division of Family Health                                    State Education Department
+ New York State Department of Health
+                                                              Mary Schworm, RN, M.Ed.
+ *Kathryn A. Koshansky, MS, ATC                               School Nurse
+ Chair, Athletic Training Program                             Monroe High School
+ Associate Professor                                          Rochester City School District
+ Stony Brook University
+ Member NYS Committee for Athletic                            Linda Seaman, MSEd
+ Training                                                     Associate in Education Improvement Services
+ NYSED - Office of Professions                                Student Support Services
+                                                              New York State Education Department
+ *Martha Morrissey, RN, BS, MA                                Kenneth Shapiro, MD
+ Associate in School Nursing                                  Medical Director, Brain Injury Program
+ Student Support Services                                     Sunnyview Rehabilitation Hospital
+ New York State Education Department
+                                                              Nina Van Erk
+ Todd Nelson                                                  Executive Director
+ Assistant Director                                           New York State Public High School Athletic Association
+ New York State Public High School Athletic Association       Gail Wold, RN, BSN
+                                                              Coordinator
+ Paul Novak, MS, OTR                                          New York Statewide School Health Services Center
+ Director, Neuro-Rehabilitation Institute
+ Sunnyview Rehabilitation Hospital
+                                                              *Rick Zappala, ATC
+  Laurene O’Brien, MS, RN                                     Certified Athletic Trainer
+ Interim Executive Secretary                                  Paul D Schreiber High School
+ New York State Board for Nursing
+ Office of Professions
+ New York State Education Department
+
+
+
+
+                                                          v
+NYSED Guidelines for Concussion Management
+In Schools 2018
+                          Concussion Overview
+
+        Concussion is a type of traumatic brain injury (TBI) and is sometimes
+referred to as a mild TBI. Concussions are injuries to the brain that occur as the
+result of a fall, motor vehicle accident, or any other activity that results in an impact
+to the head or body.
+      According to the Centers for Disease Control and Prevention (CDC),
+Morbidity and Mortality Weekly Report (MMWR), Surveillance Summaries [March
+17, 2017/ 66(9); 1-16]:
+   • An estimated 661,349 people under age 15 were treated at a hospital or
+      emergency department or died from a head injury in 2013.
+
+In New York State for 2012 to 2014, on average:
+    • Approximately 48,357 children under the age of 19 visited the emergency
+      room for traumatic brain injury and approximately 2,157 were hospitalized.
+
+       A concussion is a reaction by the brain to a force transmitted to the head
+from an impact or blow occurring anywhere on the body. Essentially, a concussion
+results from the brain moving back and forth or twisting rapidly inside the skull.
+
+       The symptoms of a concussion result from a temporary change in the
+brain’s function causing a short-term impairment of brain function. The signs of a
+concussion may occur immediately or evolve over minutes or days. There is a
+range of symptoms from a concussion, and students with concussions may display
+very different signs and symptoms.
+
+        In most cases, the symptoms of a concussion generally resolve over a brief
+period ranging from a few days or weeks; however, in some cases symptoms can
+last for several weeks or months. In a small number of cases, or in cases of re-
+injury during the recovery phase, permanent brain injury is possible. Children and
+adolescents are more susceptible to concussions and take longer than adults to
+fully recover. Therefore, it is imperative that any student who is suspected of
+having sustained a concussion be immediately removed from cognitive, athletic
+activity and other physical activities and remain out of cognitive, athletic and other
+physical activities until evaluated and cleared to return to activity by a licensed
+health care provider. Athletic activities are defined by commissioner's regulations,
+see below. Physical activities are all other types of physical movement that raise
+the heart rate, such as PE class, recess etc. Cognitive activities are those that
+stimulate activity in the brain and may occur with or without physical movement.
+
+
+Legislative Background
+
+
+                                             1
+NYSED Guidelines for Concussion Management
+In Schools 2018
+       The Concussion Management and Awareness Act, ( Chapter 496 of the
+Laws of 2011) requires the Commissioner of Education, in conjunction with the
+Commissioner of Health, to promulgate rules and regulations related to students
+who sustain a concussion, also known as a mild traumatic brain injury (MTBI), at
+school and at any district-sponsored event or related activity.          Among other
+mandates, the law requires that school coaches, physical education teachers,
+nurses, and certified athletic trainers complete a New York State Education
+Department (NYSED) approved course on concussions and concussion
+management every two years. This course must address guidelines for a student’s
+return to school and certain school activities after sustaining a concussion
+regardless of whether the concussion occurred outside of school. Additionally, ,
+the law requires that students who sustained, or are suspected to have sustained,
+a concussion during Athletic Activities (interscholastic sports) are to be
+immediately removed from such activities. Such students may not return to
+Athletic Activities (interscholastic sports) until they have been symptom-free
+for a minimum of 24 hours and have been evaluated by and receive written and
+signed authorization to return to activities from a duly licensed physician. Although
+nonpublic schools are not required to, but are strongly encouraged to adopt such
+policies, when participating in interschool athletics with public school districts,
+nonpublic schools should check with their governing athletic body (e.g., New York
+State Public High School Athletic Association, NYSPHAA; or Public School Athletic
+League, PSAL) to see if complying with the Concussion Management and
+Awareness Act is a condition of participation.
+
+         All public schools are required to employ a director of school health
+services, commonly referred to as the medical director, who is a physician or nurse
+practitioner. (Education Law Article 19 §902). In instances where a school district
+affiliates itself with a medical practice for its required health and welfare services,
+one physician or nurse practitioner within that medical practice is to be designated
+the medical director. The medical director should be consulted when developing
+district policies and protocols for health-related matters such as concussion
+management.
+
+        In accordance with the Concussion Management and Awareness Act,
+NYSED has promulgated Commissioner’s regulations regarding concussion
+management and awareness which can be found at Section 136.5 of Title 8 of the
+New York Code of Rules and Regulations [8 N.Y.C.R.R.]              In accordance with
+those regulations, a school shall require the immediate removal from athletic
+activities of any pupil who has sustained, or who is believed to have sustained, a
+mild traumatic brain injury. If there is any doubt as to whether a pupil has sustained
+a concussion, it shall be presumed that the pupil has been so injured until proven
+otherwise. No such pupil shall resume athletic activity until the pupil has been
+symptom free for not less than twenty-four hours and has been evaluated by and
+received written and signed authorization from a licensed physician; and for extra
+class athletic activities, has received clearance from the medical director to
+participate in such activity. [8NYCRR 136.5 (d)]
+
+                                             2
+NYSED Guidelines for Concussion Management
+In Schools 2018
+        Extra-class periods of physical education (PE) means those sessions
+organized for instruction and practice in skills, attitudes, and knowledge through
+participation in individual, group, and team activities organized on an intramural,
+extramural, or interschool athletic basis to supplement regular physical education
+class instruction [8NYCRR 135.1(h)].
+
+
+
+
+                                             3
+NYSED Guidelines for Concussion Management
+In Schools 2018
+               Policy and Protocol Development
+        Local boards of education are strongly advised to develop a written
+concussion management policy. This policy should reference the district’s
+protocols, written collaboratively with the district medical director to give direction
+to staff involved in the identification of a potential concussion. These policies and
+protocols assist a student who will return to school and need accommodations after
+being diagnosed with a concussion. Policies should provide clear protocols, but
+permit accommodations for individual student needs, as determined by the
+student’s healthcare provider and/or district medical director. When developing
+concussion management plans, districts should promote an environment where
+reporting signs and symptoms of a concussion is required and important.
+
+    The New York State Education Department (NYSED) and the New York State
+Department of Health (NYSDOH) recommend the following be included in a
+district’s policy on concussion management:
+
+   •   A commitment to implement strategies that reduce the risk of head injuries
+       in the school setting and during district sponsored events. A specific list of
+       preventative strategies should be included in a guidance document
+       appended to the board policy.
+
+   •   A procedure and treatment plan developed by the district medical director
+       and other licensed healthcare professionals employed by the district, to be
+       utilized by district staff who may respond to a person with a head injury.
+       The procedure and treatment plan should be appended to the board policy.
+
+   •   A procedure to ensure that school nurses, certified athletic trainers, physical
+       education teachers, and coaches have completed the NYSED-approved,
+       required training course (See Guidelines for the Team beginning on page
+       16 for each profession). Additionally, the policy should address the
+       education needs of teachers and other appropriate staff, students, and
+       parents/guardians, as needed.
+
+   •   A procedure for a coordinated communication plan among appropriate staff
+       to ensure that private provider orders for post-concussion management are
+       implemented and followed, and for students to resume participation in
+       athletic activities with district medical director approval.
+
+   •   A procedure for periodic review of the concussion management policy.
+
+
+
+
+                                             4
+NYSED Guidelines for Concussion Management
+In Schools 2018
+                          Prevention and Safety
+        Protecting students from head injuries is one of the most important ways to
+prevent a concussion. Although the risk of a concussion may always be present
+with certain types of activities, to minimize the risk, districts should ensure that
+(where appropriate) education, proper equipment, and supervision to minimize the
+risk is provided to district staff, students, and parents/guardians. Instruction should
+include:
+            ✓ signs and symptoms of concussions:
+            ✓ how such injuries occur: and
+            ✓ possible long-term effects resulting from such injury.
+
+        It is imperative that students know the symptoms of a concussion and to
+inform appropriate personnel, even if they believe they have sustained the mildest
+of concussions. This information should be reviewed periodically with student
+athletes throughout each season. Emphasis must be placed on the need for
+medical evaluation should such an injury occur to prevent persisting symptoms of
+a concussion and following the guidelines for return to school and activities.
+Providing supporting written material is advisable. Additionally, the Concussion
+Management and Awareness Act requires that consent forms (required for
+participation in interscholastic athletics) contain information on concussions and/or
+reference how to obtain information on concussions from the NYSED and
+NYSDOH websites. This information is available at New York State Education
+Department- School Health Services, New York State Department of Health
+Bureau of Injury Prevention- Traumatic Brain Injury
+
+        It is extremely important that all students be made aware of the importance
+of reporting any symptoms of a concussion to their parent/guardian and/or
+appropriate district staff. District staff members must follow district emergency
+protocols and procedures for any student reporting signs and symptoms of injury
+or illness. The Required NYS School Health Examination Form and the Sample
+Recommended NYSED Interval Health History for Athletics completed prior to
+each sports season both require notation of previous concussion.
+
+       School personnel should be aware of the types of activities that present a
+higher than average risk for concussion. These activities include, but are not
+limited to:
+            ✓ interscholastic athletics,
+            ✓ extramural activities,
+            ✓ physical education classes and recess.
+
+       Districts should evaluate the physical design of their facilities and their
+emergency safety plans to identify potential risks for falls or other injuries. Recess
+should include adult supervision, with all playground equipment in good repair, and
+play surfaces composed of approved child safety materials. Physical education
+programs should include:
+                                             5
+NYSED Guidelines for Concussion Management
+In Schools 2018
+           ✓ Plans that emphasize safety practices.
+           ✓ Lessons on the need for and correct use of safety equipment.
+           ✓ Review of rules of play prior to taking part in the physical activity
+             and enforced throughout the duration thereof.
+
+        Commissioner’s regulation §135.4(c)(4) requires that each school district
+operating a high school employ a director of physical education who shall have
+certification in physical education and administrative and supervisory service.
+Such director shall provide leadership and supervision for the class instruction,
+intramural activities, and interschool athletic competition in the total physical
+education program. Where there are extenuating circumstances, a member of the
+physical education staff may be designated for such responsibilities, upon approval
+of the Commissioner. School districts may share the services of a director of
+physical education.
+
+       It is strongly recommended that the physical education (PE) director and/or
+the athletic director (AD) of a school district ensure that:
+            1. all interscholastic athletic competition rules are followed,
+            2. appropriate safety equipment is used, and
+            3. rules of sportsmanship are enforced.
+
+        PE directors should instruct and encourage PE teachers, coaches, and
+student athletes from initiating contact to another player with their head or to the
+head of another player. Players should be proactively instructed on sport-specific
+safe body alignment and encouraged to be aware of what is going on around them.
+These practices will reduce the number of unexpected body hits that may result in
+a concussion and/or neck injury. In addition, proper instruction should include the
+rules of the sport, defining unsportsmanlike like conduct, and enforcing penalties
+for deliberate violations.
+
+
+
+
+                                             6
+NYSED Guidelines for Concussion Management
+In Schools 2018
+                                  Identification
+       Any student who is observed to, or is suspected of, suffering a significant
+blow to the head or body, has fallen from any height, or collides hard with another
+person or object, may have sustained a concussion. Such injuries can occur in
+Athletic Activities (interscholastic sports) recess, PE and other classes. Symptoms
+of a concussion may appear immediately, may become evident in a few hours, or
+evolve and worsen over a few days. Concussions may also occur at places other
+than school. Therefore, district staff members who observe a student displaying
+signs and/or symptoms of a concussion, or learn of a head injury from the student,
+should have the student accompanied to the school health office. If there isn’t a
+school nurse, or he/she is unavailable, the school should contact the
+parent/guardian to pick up their child and strongly recommend they have their child
+evaluated by a medical professional (i.e. physician assistant, nurse practitioner, or
+physician- an evaluation by a physician is required if the injury occurred during
+Athletic Activities (interscholastic sports) see Table 1 for more information. The
+parent/guardian should be provided written information about concussion. Such
+written information is available on the
+
+   •   Centers for Disease Control and Prevention's -HEADS UP to schools-
+       parents
+
+       At no point in time should a student who is suspected of suffering a
+concussion be left alone or out of eyesight of the school personnel responsible for
+the student. This includes sitting on the team bench unattended or lying down in a
+separate room in the heath office or locker room. The reason for this is that
+concussion symptoms may be evolving, and at any time the student may need
+further assistance or transportation for emergency medical care.
+
+        Students who are suspected of having suffered a concussion outside of
+school, or in school but not occurring during Athletic Activities (interscholastic
+sports) should be seen by a healthcare provider who may be a physician, nurse
+practitioner or physician assistant for diagnosis. Such healthcare providers may
+choose to refer the student to a specialist as needed. Districts should be cognizant
+of the various constraints that many students’ families face. This is in contrast for
+students who suffer or are suspected as having suffered a concussion during
+Athletic Activities (interscholastic sports). Per the Concussion Management
+and Awareness Act such student's evaluation and clearance authorizing return to
+Athletic Activities (interscholastic sports) must be performed, written, and signed
+by a duly licensed physician. Such written clearance must be sent to school for
+review by the district medical director and is to be kept in the student’s cumulative
+health record. Although districts may assist parents/guardians with finding an
+appropriate healthcare provider, they should not require students to see a
+district-chosen provider for a fee to be cleared to return to Athletic Activities
+(interscholastic sports).
+
+                                             7
+NYSED Guidelines for Concussion Management
+In Schools 2018
+Symptoms
+
+Symptoms of a concussion include, but are not necessarily limited to:
+
+   •   Amnesia (e.g., decreased or absent memory of events prior to or
+       immediately after the injury, or difficulty retaining new information)
+   •   Confusion or appearing dazed
+   •   Headache or head pressure
+   •   Loss of consciousness
+   •   Balance difficulty or dizziness, or clumsy movements
+   •   Double or blurry vision
+   •   Sensitivity to light and/or sound
+   •   Nausea, vomiting, and/or loss of appetite
+   •   Irritability, sadness or other changes in personality
+   •   Feeling sluggish, foggy, groggy, or lightheaded
+   •   Concentration or focusing problems
+   •   Slowed reaction times, drowsiness
+   •   Fatigue and/or sleep issues (e.g., sleeping more or less than usual)
+
+       Students who develop any of the following signs, or if the above listed
+symptoms worsen, must be seen and evaluated immediately at the nearest
+hospital emergency room:
+
+   •   Headaches that worsen
+   •   Seizures
+   •   Looks drowsy and/or cannot be awakened
+   •   Repeated vomiting
+   •   Slurred speech
+   •   Unable to recognize people or places
+   •   Weakness or numbing in arms or legs, facial drooping
+   •   Unsteady gait
+   •   Dilated or pinpoint pupils, or change in pupil size of one eye
+   •   Significant irritability
+   •   Any loss of consciousness
+   •   Suspicion of skull fracture: blood draining from ear, or clear fluid from nose
+
+
+Sideline Assessment and Neurocognitive Testing
+
+        Districts may choose to allow school staff who are appropriate licensed or
+certified healthcare professionals and are credentialed to use validated
+neurocognitive computerized testing concussion assessment tools such as Impact
+(Immediate Post Concussion Assessment & Cognitive Testing), CogSport (also
+
+                                             8
+NYSED Guidelines for Concussion Management
+In Schools 2018
+known as Axon), Headminders, and ANAM (Automated Neuropsychological
+Assessment Metrics); can review and obtain baseline and post-concussion
+performance data. Districts may also choose to allow trained school personnel or
+licensed health professionals as indicated by test, to use sideline assessment tools
+such as SCAT 5 (Sport Concussion Assessment Tool 5), SAC (Standardized
+Assessment of Concussion), K-D Test, or BESS (Balance Error Scoring System).
+When choosing to use assessment tests and tools, it is important that districts are
+cognizant of credentialing requirements of assessors, required testing conditions,
+along with conditions and time intervals required for post-concussion testing. The
+school district must seek authorization from the parent/guardian prior to the testing.
+Additionally, parents/guardians should be given a copy of the results upon request.
+
+      Neurocognitive computerized tests and sideline assessments may
+assist district staff in determining the severity of a student’s symptoms.
+However, they are not a replacement for a medical evaluation to diagnose a
+concussion. All students with a suspected concussion are to be removed
+from athletic activities and physical activities. Results from assessment
+tools or tests completed at school should be provided to healthcare
+providers to aid in the diagnosis and treatment of students.
+
+
+
+
+                                             9
+NYSED Guidelines for Concussion Management
+In Schools 2018
+                                     Diagnosis
+       In New York State, the diagnosis of a concussion remains within the scope
+of practice of the following healthcare providers: physicians, nurse practitioners,
+and physician assistants. These healthcare professionals may refer the student to
+other specialists once a diagnosis of concussion is made.
+
+       As part of their licensure in accordance with the New York State Education
+Department’s Board of Regents rules, licensed healthcare professionals are to
+remain current on best practices in their fields. Healthcare providers who are not
+familiar with current best practice on concussion management are strongly
+encouraged to seek out professional development updates. One such resource
+from the Centers for Disease Control and Prevention (CDC) is a free online course:
+Online Concussion Training for Healthcare Providers . This section provides a
+general overview of current best practice to familiarize district healthcare
+professionals and should not be utilized as a replacement for professional
+development education.
+
+       It cannot be emphasized enough that any student suspected of having a
+concussion – either based on the disclosure of a head injury, observed or reported
+symptoms, or by sustaining a significant blow to the head or body – must be
+removed from cognitive, athletic and/or physical activities (e.g., PE class, recess),
+and observed until an evaluation can be completed by a healthcare provider. In
+accordance with the Concussion Management and Awareness Act, students
+removed from school Athletic Activities (interscholastic sports) for a suspected
+concussion must be evaluated by and receive written and signed authorization
+from a physician to return to school Athletic Activities (interscholastic sports).
+
+         Evaluation by a healthcare provider of a student suspected of having a
+concussion should include a thorough health history and a detailed account of the
+injury. The (CDC) recommends that physicians, nurse practitioners, and physician
+assistants use the Acute Concussion Evaluation Form- Clinicians to conduct an
+initial evaluation.
+
+The CDC recommends evaluation of three areas:
+     • Characteristics of the injury
+     • Type and severity of cognitive and physical symptoms
+     • Risk factors that may prolong recovery
+
+
+Please note - the activity/location where the injury occurred determines who
+can diagnose and clear a student to return to school activities. This is outlined in
+Table 1.
+
+
+
+                                             10
+NYSED Guidelines for Concussion Management
+In Schools 2018
+  Table 1- Diagnosis and Clearance of Concussions
+    Where injury Who can          Who can clear                    Who has final        Additional
+    occurred       diagnose       to return to                     clearance for        Information
+                                  school activities                student to
+                                                                   return to
+                                                                   athletic
+                                                                   activities
+     School Athletic     Physician           Physician             District Medical     Must be symptom
+     Activities                                                    Director*            free for 24 hours
+     (interscholastic                                                                   prior to return to
+     sports)                                                                            Athletic
+                                                                                        Activities
+                                                                                        (interscholastic
+                                                                                        sports)
+                         Per Concussion      Per Concussion        Per Commissioner's
+                         Management and      Management and        Regulation part      Per Concussion
+                         Awareness Act       Awareness Act         136.5(d)(2)          Management and
+                                                                                        Awareness Act
+
+
+     School during       Physician           Physician             District Medical     School must
+      non-Athletic       Nurse               Nurse Practitioner    Director*            follow private
+     Activities          Practitioner        Physician Assistant                        health care
+      (interscholastic   Physician           Or Designee (e.g.                          provider orders
+     sports)             Assistant           Neuropsychologist)
+                                                                   Per Commissioner's   Per Concussion
+                                                                   Regulation part      Management and
+                         Per Title VIII of   Per Title VIII of
+                                                                   136.5(d)(2)          Awareness Act
+                         Education Law       Education Law
+     Outside of          Physician           Physician             District Medical     School must
+     school              Nurse               Nurse Practitioner    Director*            follow private
+                         Practitioner        Physician Assistant                        health care
+                         Physician           or Designee (e.g.                          provider orders
+                         Assistant           Neuropsychologist)
+
+                                                                   Per Commissioner's   Per Concussion
+                         Per Title VIII of   Per Title VIII of
+                                                                   Regulation part      Management and
+                         Education Law       Education Law
+                                                                   136.5(d)(2)          Awareness Act
+
+
+   *The district medical director is the final person to clear a student to return to
+   athletic activities (interscholastic sports). It is at the discretion of the district
+   medical director to accept a private health care provider clearance or to
+   require the student to complete a gradual return to play protocol prior to
+   permitting the student to return to participation in interscholastic
+   athletics.
+
+
+Injury Characteristics
+
+      The student, and/or the parent/guardian or district staff member who
+observed the injury, should be asked about the following as part of an initial
+evaluation:
+
+                                                       11
+NYSED Guidelines for Concussion Management
+In Schools 2018
+   •   Description of the injury
+   •   Cause of the injury
+   •   Student’s memory before and after the injury
+   •   If any loss of consciousness occurred
+   •   Physical pains and/or soreness directly after injury
+
+
+Symptoms
+
+       Students should be assessed for symptoms of a concussion including, but
+not limited to, those listed previously.
+
+
+Risk Factors to Recovery
+
+       According to the Consensus Statement on Concussion in Sport-the 5th
+International Conference October 2016, students with these conditions are at a
+higher risk for prolonged recovery from a concussion:
+
+   •   History of concussion, especially if currently recovering from an earlier
+       concussion
+   •   Personal and/or family history of migraine headaches
+   •   History of learning disabilities or developmental disorders
+   •   History of depression, anxiety, or mood disorders
+
+       Students, whose symptoms worsen or generally show no reduction after 7-
+14 days or sooner depending on symptom severity, should be considered for
+referral to a neuropsychologist, neurologist, physiatrist, or other medical specialist
+in traumatic brain injury.
+
+
+
+
+                                             12
+NYSED Guidelines for Concussion Management
+In Schools 2018
+                  Post Concussion Management
+        Students who have been diagnosed with a concussion require both physical
+and cognitive rest as determined by the treating healthcare provider. How long that
+rest is, and what activities may or may not be permitted will be different for each
+student. Delay in instituting healthcare provider orders for such rest may prolong
+recovery from a concussion. Private healthcare provider’s orders for avoidance of
+cognitive and physical activity and graduated return to activity should be followed
+and monitored both at home and at school. Districts should consult their medical
+director if further discussion and/or clarification is needed regarding a private
+healthcare provider’s orders, or in the absence of private healthcare provider
+orders.
+       Children and adolescents are at increased risk of protracted recovery and
+severe, potential permanent disability (e.g., early dementia also known as chronic
+traumatic encephalopathy), or even death if they sustain another concussion
+before fully recovering from the first concussion. Therefore, it is imperative that a
+student is fully recovered before resuming activities that may result in another
+concussion. Best practice warrants that, whenever there is a question of safety, a
+healthcare provider err on the side of caution.
+
+
+
+Cognitive Rest
+
+       Cognitive rest requires that the student avoid participation in, or exposure
+to, activities that require concentration or mental stimulation including, but not
+limited to:
+    • Computers and video games
+    • Television viewing
+    • Driving
+    • Texting
+    • Reading or writing
+    • Studying or homework
+    • Taking a test or completing significant projects
+    • Participation in band, chorus, plays, etc.
+    • Employment
+    • Loud music
+    • Bright lights
+
+       Parents/guardians, teachers, and other district staff should watch for signs
+of concussion symptoms such as fatigue, irritability, headaches, blurred vision, or
+dizziness; reappearing with any type of mental activity or stimulation. If any these
+signs and symptoms occur, the student should cease the activity. Return of
+symptoms should guide whether the student should participate in an activity. See
+
+                                             13
+NYSED Guidelines for Concussion Management
+In Schools 2018
+pp. 14-16 for further information on concussion symptoms and how they may
+manifest as behaviors in school.
+
+      Most consensus and agreement statements for managing sports related
+concussion recommend that athletes rest until they become symptom-free.
+Accordingly, prescribed rest is one of the most widely used interventions in this
+population. The basis for recommending physical and cognitive rest is that rest
+may ease discomfort during the acute recovery period by mitigating post-
+concussion symptoms and/or that rest may promote recovery by minimizing brain
+energy demands following concussion.
+        There is currently insufficient evidence that prescribing complete rest
+achieves these objectives. After a brief period of rest during the acute phase (24–
+48 hours) after injury, patients can be encouraged to become gradually and
+progressively more active while staying below their cognitive and physical
+symptom-exacerbation thresholds (i.e., activity level should not bring on or worsen
+their symptoms). It is reasonable for athletes to avoid vigorous exertion while they
+are recovering. The exact amount and duration of rest is not yet well defined in the
+literature and requires further study.1
+
+       Initially a student with a concussion may only be able to attend school for a
+few hours per day and/or need rest periods during the day. Students may exhibit
+increased difficulties with focusing, memory, learning additional information, and/or
+an increase in irritability or impulsivity. School personnel particularly teachers,
+including home tutors, should have clear directions on the student’s gradual return
+to academic activities. They should be instructed that any activity may cause the
+student to become fatigued easily and the student should be allowed to rest, as
+needed. They should also be reminded that even lights and noise (such as walking
+between classes in crowded hallway or cafeteria) may cause a recurrence of
+concussion symptoms.
+
+       The CDC Heads Up program has resources to assist teachers on
+accommodations for students with concussion, Helping Students Recover from a
+Concussion: Classroom Tips for Teachers. Examples of accommodations include
+but are not limited to, eliminating homework, shortened classroom assignments,
+lengthened time to complete assignments. See page 32 for more information on
+accommodating students with concussions in the classroom.
+
+       Teachers will need to be instructed to listen to the student’s report of a
+symptom and watch for clues reflecting a return of symptoms. If a student
+complains of return of symptoms they must cease the activity. If a school nurse is
+available, they should be seen in the health office. If a school nurse is not
+available, the parent/guardian should be notified. Teachers and other school
+personnel who do not cease activities with return of symptoms may inadvertently
+
+
+1
+    McCrory P, et al. Br J Sports Med 2017;0:1–10. doi:10.1136/bjsports-2017-097699
+                                                           14
+NYSED Guidelines for Concussion Management
+In Schools 2018
+prolong the student’s recovery- therefore it is imperative that student complaints
+are acted on (e.g. blurry vision, headaches etc.).
+
+        Districts should have policies and/or procedures in place for transitioning
+students back to academic activities as ordered by the healthcare provider, and
+for making accommodations for missed tests and/or assignments. Administrators
+should review with teaching staff methods to provide short term accommodations
+aligned with provider recommendations for students diagnosed with a concussion.
+The district medical director may develop a return to cognitive activities protocol
+for students with concussions whose provider does not provide direction on
+limitations or needed accommodations.
+
+        In some situations, a 504 plan may be appropriate for students whose
+concussion symptoms are significant or last 6 months or longer. Section 504 is
+part of the Rehabilitation Act of 1973 and is designed to protect the rights of
+individuals with disabilities in programs and activities that receive Federal financial
+assistance from the U.S. Department of Education. Section 504 requires a school
+district to provide a "free appropriate public education" (FAPE) to each qualified
+student with a disability who is in the school district's jurisdiction, regardless of the
+nature or severity of the disability. Under Section 504, FAPE consists of the
+provision of regular or special education and related aids and services designed
+to meet the student's individual educational needs as adequately as the needs of
+nondisabled students are met. More information is available on Section 504 law at
+the US Department of Education Office of Civil Rights Protecting Students with
+Disabilities Q&A on Section 504 which includes information on addressing
+temporary impairments such as concussions
+
+
+Return to Academic Activities
+
+        After an initial period of complete rest lasting approximately 24-48 hours, a
+healthcare provider may clear a student to begin a gradual return to academic (aka
+cognitive) activities. This may or may not coincide with the student’s return to
+physical activities. The healthcare provider should give clear orders on the gradual
+activity protocol for that the district must follow. If a district has concerns or
+questions about the private healthcare provider’s orders, the district medical
+director should contact that provider to discuss and clarify
+
+       Even with classroom accommodations, a student with a concussion will
+need to gradually return to all academic activities. Current research suggests that
+some level of sub symptoms with activity is acceptable; however, symptoms
+should not be made worse (e.g., no more than 1 to 2 points on a 10 point scale).
+Therefore, schools will need to follow provider orders on return to activities.
+Students should be monitored by district staff daily following each progressive level
+of physical activity, for any return of signs and symptoms of concussion. A gradual
+
+
+                                             15
+NYSED Guidelines for Concussion Management
+In Schools 2018
+progression should be followed based on private healthcare provider’s or other
+specialist’s orders and recommendations.
+
+        Students with concussions may become fatigued easily and may need time
+to rest in school. Classroom teachers should delay testing a child diagnosed with
+a concussion until cleared by their provider for return to full academic activities.
+Generally, school principals are permitted to authorize certain testing
+accommodations for students who incur an injury within 30 days prior to state test
+administration. Principals should refer to test manuals available at Test Access
+and Accommodations for Students with Disabilities for information on the
+procedures they must follow in authorizing such accommodations. These manuals
+also provide information on the provisions for a student to be medically excused
+from a State test, as well as opportunities for make ups.
+
+Table 2- Graduated return to school strategy 2
+ Stage Aim                              Activity                                           Goal of each step
+ 1        Daily activities at home that Typical activities of the child during the         Gradual return to typical
+            do not give the child             day as long as they do not increase          activities
+            symptoms                          symptoms (e.g., reading, texting, screen
+                                              time). Start with 5–15 min at a time and
+                                              gradually build up
+ 2          School activities                 Homework, reading or other cognitive         Increase tolerance to
+                                              activities outside of the classroom          cognitive work
+ 3          Return to school part-time        Gradual introduction of schoolwork.          Increase academic
+                                              May need to start with a partial school      activities
+                                              day or with increased breaks during the
+                                              day
+ 4          Return to school full-time        Gradually progress school activities until   Return to full academic
+                                              a full day can be tolerated                  and catch up on missed
+                                                                                           work
+
+
+
+
+Physical Rest
+
+      Physical rest includes getting adequate sleep, taking frequent rest periods
+or naps, and avoiding physical activity that requires exertion. Some activities that
+should be avoided include, but are not limited to:
+    • Ones that result in contact and collision and are elevated risk for re-injury
+    • High speed and/or intense exercise and/or sports
+    • Any activity that results in an increased heart rate or increased head
+      pressure (e.g., straining or strength training)
+
+    Students may find that they need to rest during the school day and should be
+allowed to do so if needed. Every student will be different and should treated
+individually. One student may be able to attend school full days without difficulties,
+
+
+
+2 McCrory P, et al. Br J Sports Med 2017;0:1–10. doi:10.1136/bjsports-2017-097699
+
+
+
+                                                         16
+NYSED Guidelines for Concussion Management
+In Schools 2018
+while another may find lights, noise and other stimulation causes fatigue and needs
+rest periodically.
+
+       As with cognitive rest, after a period of no physical activity for the first 24-
+48 hours, a private healthcare provider may choose to clear the student to begin a
+graduated return to physical activities. The healthcare provider should give clear
+orders on the gradual activity protocol that the district must follow.
+
+       As stated earlier, most consensus and agreement statements for managing
+sports related concussion recommend that athletes rest until they become
+symptom-free. Accordingly, prescribed rest is one of the most widely used
+interventions in this population. The basis for recommending physical and
+cognitive rest is that rest may ease discomfort during the acute recovery period by
+mitigating post-concussion symptoms and/or that rest may promote recovery by
+minimizing brain energy demands following concussion. 3
+
+         Staff members should report any observed return of signs and symptoms
+to the school nurse, certified athletic trainer, or administration in accordance with
+district policy.
+
+
+Return to Physical Activities
+
+        A gradual return to physical activity typically is done by progressing a
+student through levels of activity that increase in duration and/or intensity. Gradual
+return to activity should occur with the introduction of new activity level every 24
+hours. If any post-concussion symptoms return, the student should stop the
+activity and drop back to the previous level of activity. Current research suggests
+that some level of symptoms with activity is acceptable. Therefore, schools will
+need to follow provider orders on return to activities. Students should be monitored
+by district staff daily following each progressive level of physical activity, for any
+return of signs and symptoms of concussion. A gradual progression should be
+followed based on private healthcare provider’s or other specialist’s orders and
+recommendations.
+
+       After a brief period of initial rest (24–48 hours), symptom-limited activity can
+be begun while staying below a cognitive and physical exacerbation threshold
+(stage 1). Once concussion-related symptoms have resolved, the athlete should
+continue to proceed to the next level if he/she meets all the criteria (e.g., activity,
+heart rate, duration of exercise, etc.) without a recurrence of concussion-related
+symptoms. Generally, each step should take 24 hours, so that athletes would take
+a minimum of 1 week to proceed through the full rehabilitation protocol once they
+are asymptomatic at rest. However, the time frame for RTS may vary with player
+age, history, level of sport, etc., and management must be individualized.
+
+3
+    McCrory P, et al. Br J Sports Med 2017;0:1–10. doi:10.1136/bjsports-2017-097699
+                                                                17
+NYSED Guidelines for Concussion Management
+In Schools 2018
+    In athletes who experience prolonged symptoms and resultant inactivity, each
+step may take longer than 24 hours simply because of limitations in physical
+conditioning and recovery strategies outlined above. This specific issue of the role
+of symptom-limited exercise prescription in the setting of prolonged recovery is
+discussed in an accompanying systematic review. If any concussion-related
+symptoms occur during the stepwise approach, the athlete should drop back to the
+previous asymptomatic level and attempt to progress again after being free of
+concussion-related symptoms for a further 24-hour period at the lower level. 4
+
+
+Table 3- Graduated return to sport strategy 5
+ Stage Aim               Activity                                                  Goal of each step
+ 1       Symptom-limited Daily activities that do not provoke                      Gradual reintroduction of
+               activity               symptoms                                     work/school activities
+    2          Light aerobic          Walking or stationary cycling at slow        Increase heart rate
+               exercise               to medium pace. No resistance
+                                      training
+    3          Sport-specific         Running or skating drills. No head           Add movement
+               exercise               impact activities
+    4          Non-contact            Harder training drills, e.g., passing        Exercise, coordination and
+               training drills        drills. May start progressive resistance     increased thinking
+                                      training
+    5          Full contact           Following medical clearance,                 Restore confidence and
+               practice               participate in normal training               assess functional skills by
+                                      activities                                   coaching staff
+    6                                 Return to sport                              Normal game play
+
+
+    NOTE: An initial period of 24–48 hours of both relative physical rest and cognitive rest is recommended
+    before beginning the RTS progression.
+    There should be at least 24 hours (or longer) for each step of the progression. If any symptoms worsen
+    during exercise, the athlete should go back to the previous step. Resistance training should be added
+    only in the later stages (stage 3 or 4 at the earliest). If symptoms are persistent (e.g., more than 10–14
+    days in adults or more than 1 month in children) the athlete should be referred to a health care
+    professional who is an expert in the management of concussions.
+
+
+
+        If a district has concerns or questions about the private healthcare
+provider’s orders, the district medical director or his/her designee should contact
+that provider to discuss and clarify. The district medical director may develop a
+return to physical activity protocol for students with concussions whose provider
+does not provide direction on limitations or needed accommodations. Additionally,
+the district medical director has the final authority to clear students to participate in
+or return to extra-class activities (interscholastic athletics or intramurals) in
+accordance with 8NYCRR 135.4(c)(7)(i). See Table 1.
+
+      Students may feel upset about having to limit activities, or having difficulties
+keeping up in school. Students should be reassured that the situation is most likely
+
+4
+    Br J Sports Med 2017; 0:1–10. doi:10.1136/bjsports-2017-097699McCrory P, et al. 2017.
+5
+    McCrory P, et al.
+                                                                18
+NYSED Guidelines for Concussion Management
+In Schools 2018
+temporary, that the goal is to help the student get back to full activity as soon as it
+is safe, and to avoid activities which will delay their recovery. Students should be
+informed that the concussion will resolve more quickly when they follow their
+healthcare provider’s orders as supported by numerous studies. Students will need
+encouragement and support at home and school until symptoms fully resolve.
+
+        When returning to Athletic Activities (interscholastic sports), once the district
+receives the written clearance from a physician the student will need to be
+approved to return to Athletic Activities (interscholastic sports) by the medical
+director, regardless of whether the medical director is a physician or a nurse
+practitioner.
+
+
+
+
+                                             19
+NYSED Guidelines for Concussion Management
+In Schools 2018
+                 The Concussion Management Team
+         Concussion management requires a coordinated, collective effort among
+district personnel along with parent(s)/guardian(s) to monitor an individual
+student’s progress. They should advocate for academic and physical
+accommodations as appropriate, to reduce delays in a student’s ability to return to
+full activities.
+
+       A school concussion management team can be a useful strategy to achieve
+coordination between all parties. School districts/buildings may choose to form a
+concussion management team to oversee and implement the school district’s
+concussion policies and protocols. Per the Concussion Management and
+Awareness Act, this team may include, but is not limited to:
+   ▪ Student
+   ▪ Parents/Guardians
+   ▪ School Administration/ Pupil Personnel Services Staff
+   ▪ Medical Director
+   ▪ Private Healthcare provider and other Specialists
+   ▪ School Nurse(s)
+   ▪ Director of Physical Education and/or Athletic Director
+   ▪ Certified athletic trainer
+   ▪ Physical Education Teacher/Coaches
+   ▪ Teacher
+
+        Whether the district has a formal concussion management team, district
+staff in collaboration with the private healthcare provider, the student, and the
+student’s family play a substantial role in assisting the student to recovery. The
+following section outlines the vital role every member of the team contributes to
+ensuring students are healthy, safe, and achieving their maximum potential. The
+primary focus of all members should be the student’s health and recovery.
+
+         Education Law §902 requires districts to employ a medical director who
+must be either a physician or nurse practitioner. In instances where a school district
+affiliates itself with a medical practice for its required health and welfare services,
+one physician or nurse practitioner within that medical practice is to be designated
+the medical director. Additionally, Education Law §902, allows districts to employ
+school nurses who are registered professional nurses (RN). If districts also choose
+to employ licensed practical nurses (LPN) they should be cognizant that LPNs are
+not independent practitioners and must work under the direction of the RN, medical
+director, or other appropriate licensed healthcare professional6. LPNs’ scope of
+practice does not permit them to assess or triage; therefore, they cannot be the
+healthcare professional assessing and triaging injured students or assessing a
+student’s progress in return to school activities.
+
+6 Education Law Article 139 section 6902(2)
+
+
+
+                                              20
+NYSED Guidelines for Concussion Management
+In Schools 2018
+(See NYS Board for Nursing, Nursing Guide to Practice pp. 36-37)
+
+        The Commissioner’s regulations at 8 NYCRR §135.4(c)(4)(iii) requires
+districts that operate a high school to employ a director of physical education. The
+director of physical education shall have certification in physical education and
+administrative and supervisory service. Such director shall provide leadership and
+supervision for the class instruction, intramural activities, and interschool athletic
+competition in the total physical education program. Where there are extenuating
+circumstances, a member of the physical education staff may be designated for
+such responsibilities, upon approval of the Commissioner. School districts may
+share the services of a director of physical education according to Commissioner’s
+Regulation 135.4.
+
+       Districts may also employ certified athletic trainers at the secondary school
+level. Athletic trainers employed by secondary schools must be certified athletic
+trainers according to 8 NYCRR §135.4(7) and must be supervised by a physician
+in accordance with Education Law Article 162 § 8351. NYSED Office of
+Professions, Athletic Trainers
+
+
+
+
+                                             21
+NYSED Guidelines for Concussion Management
+In Schools 2018
+Student
+
+        Students should be encouraged to communicate any symptoms promptly
+to district staff and/or parents/guardians, since a concussion is primarily diagnosed
+by reported and/or observed signs and symptoms. It is the information provided
+by the student about their signs and symptoms that guide the other members of
+the team in transitioning the student back to activities. The amount and type of
+feedback reported by the student will be dependent on age and other factors.
+Therefore, it is recommended that students:
+
+   ▪   Be educated about the prevention of head injuries.
+   ▪   Be familiar with signs and symptoms that must be reported to the coach,
+       certified athletic trainer, school nurse, parent/guardian, or other staff.
+   ▪   Be made aware of the risk of concussion and be encouraged to tell their
+       coach, parent/guardian, certified athletic trainer, school nurse or other staff
+       members about injuries and symptoms they are experiencing.
+   ▪   Be educated about the risk of severe injury, permanent disability, and even
+       death that can occur with re-injury by resuming normal activities before
+       recovering from a concussion.
+   ▪   Follow instructions from their private healthcare provider.
+   ▪   Be encouraged to ask for help and to inform teachers of difficulties they
+       experience in class and when completing assignments.
+   ▪   Encourage classmates and teammates to report injuries.
+   ▪   Promote an environment where reporting signs and symptoms of a
+       concussion is considered acceptable.
+
+
+
+
+                                             22
+NYSED Guidelines for Concussion Management
+In Schools 2018
+Parent/Guardian
+
+        Parent/guardians play an integral role in assisting their child and are the
+primary advocate for their child. When their child is diagnosed with a concussion,
+it is important that the parent/guardian communicates with both the healthcare
+provider and the school. Understandably this is a stressful time for the
+parent/guardian as they are concerned about their child’s well-being. Therefore, it
+is recommended that parents/guardians:
+
+   ▪   Be familiar with the signs and symptoms of concussions. This may be
+       accomplished by reading pamphlets, Web-based resources, and/or
+       attending meetings prior to their child’s involvement in interscholastic
+       athletics.
+   ▪   Be familiar with the Concussion Management and Awareness Act’s
+       requirement that any student believed to have suffered a concussion must
+       immediately be removed from Athletic Activities (interscholastic sports).
+   ▪   Be familiar with any concussion policies or protocols implemented by the
+       school district and understand these policies are in place to protect their
+       child.
+   ▪   Be made aware that concussion symptoms that are not addressed can
+       prolong concussion recovery.
+   ▪   Provide any forms and written orders from the healthcare provider to the
+       school in a timely manner.
+   ▪   Monitor their child’s physical and mental health as they transition back to
+       full activity after sustaining a concussion.
+   ▪   Report concerns to their child’s private healthcare provider and the school,
+       as necessary.
+   ▪   Communicate with the school to assist in transitioning their child back to
+       school after sustaining a concussion.
+   ▪   Communicate with school staff if their child is experiencing significant
+       fatigue or other symptoms at the end of the school day.
+   ▪   Follow the private healthcare provider orders at home for return to activities.
+
+
+
+
+                                             23
+NYSED Guidelines for Concussion Management
+In Schools 2018
+School Administrator/ Pupil Personnel Services Staff (PPS)
+
+      The school administrator and/or their designee, such as PPS staff, should
+ensure that the district’s policies on concussion management are followed. The
+administrator may choose to designate a formal concussion management team to
+oversee that district policies are enforced, and protocols are implemented.
+Therefore, administrators should:
+
+   ▪   Review the district’s concussion management policy with all staff.
+   ▪   Arrange for professional development sessions regarding concussion
+       management for staff and/or parent meetings.
+   ▪   Provide emergency communication devices for school activities.
+   ▪   Provide guidance to district staff on districtwide policies and protocols for
+       emergency care and transport of students suspected of sustaining a
+       concussion.
+   ▪   Develop plans to meet the needs of individual students diagnosed with a
+       concussion in accordance with healthcare provider orders, and after
+       consultation with the medical director, school nurse, or certified athletic
+       trainer.
+   ▪   Enforce district concussion management policies and protocols.
+   ▪   Assign a staff member as a liaison to the parent/guardian. The liaison
+       should contact the parent/guardian on a regular basis with information about
+       their child’s progress at school.
+   ▪   Encourage parent/guardian to communicate to appointed district staff if their
+       child is experiencing significant fatigue or other symptoms at the end of the
+       day.
+   ▪   Invite parent/guardian participation in determining their child’s needs at
+       school.
+   ▪   Encourage parent/guardian to communicate with the private healthcare
+       provider on the status of their child and their progress with return to school
+       activity.
+   ▪   Where appropriate, ask a parent/guardian to sign FERPA (Family
+       Educational Rights and Privacy Act) release for district staff to provide
+       information regarding the student’s progress to the private healthcare
+       provider.
+
+
+
+
+                                             24
+NYSED Guidelines for Concussion Management
+In Schools 2018
+Medical Director
+
+       The district medical director who is a physician or nurse practitioner public
+school districts must employ to oversee school health services, plays a very
+important role in setting protocols and procedures related to identifying students
+who may have sustained a concussion, along with post-concussion management
+in school. Therefore, the medical director should:
+
+   ▪   Collaborate with district administration in developing concussion
+       management policies and protocols.
+   ▪   Assist district staff by acting as a liaison to the student’s healthcare provider
+       and contacting that provider as necessary to discuss or clarify orders and
+       plan of care.
+   ▪   Attend 504 and CSE meetings when requested by 504 or CSE director.
+   ▪   Review all healthcare providers’ written clearance for students to begin
+       graduated physical and cognitive activity unless the medical director
+       chooses to delegate this to the school nurse or certified athletic trainer. If
+       this task is delegated, the medical director should provide concise written
+       protocols for the school nurse or certified athletic trainer to follow when
+       accepting a private healthcare provider’s clearance. Such protocols should
+       specify the type of symptoms, medical history, and concussion severity, etc.
+       that the medical director will need to personally review. This protocol may
+       include permitting the school nurse or certified athletic trainer to act as the
+       medical director’s delegate to inform appropriate district staff of the
+       student’s return to activity.
+   ▪   Clear all students returning to extra-class Athletic Activities (interscholastic
+       sports) in accordance with Commissioner’s regulations. This can be done
+       at the discretion of the medical director either by reviewing a private
+       healthcare provider’s clearance, or personally assessing the student.
+   ▪   Implement district policy on return to activities.
+   ▪   Work with the Concussion Management Team to monitor the progress of
+       individual students with protracted recovery, multiple concussions, and
+       atypical recovery.
+   ▪   Encourage school health personnel (school nurses, certified athletic
+       trainers, and other licensed healthcare professionals) to collaborate and
+       communicate with each other about any student who is suspected of having
+       or is diagnosed with a concussion.
+   ▪   Become educated in the use and interpretation of neurocognitive testing
+       (e.g., IMPACT, Headminders, and ANAM), if such tests are utilized by the
+       school district.
+   ▪   Participate in professional development activities as needed to maintain
+       knowledge base and keep practice current on concussion management.
+
+
+
+
+                                             25
+NYSED Guidelines for Concussion Management
+In Schools 2018
+Private Healthcare providers/ Specialists
+
+      The private healthcare provider is vital to all the other Concussion
+Management Team members by providing orders and guidance that determine
+when the student can begin transitioning back to school and activities.
+
+       Due to the different laws that govern confidentiality of information, private
+healthcare providers and other specialists need to be aware that while they are
+governed by HIPAA (Health Insurance Portability and Accountability Act), districts
+are governed by FERPA. To send information to the district regarding the student,
+the provider will need parent/guardian consent. Likewise, a district must require a
+parent/guardian consent to release information to the provider. Further information
+on how these laws interact is available in the Joint Guidance on the Application of
+HIPAA and FERPA to student health records
+
+Therefore, the provider should:
+
+   ▪   Provide orders regarding restrictions and monitoring for specific symptoms
+       that the provider should be made aware of by family and/or district staff
+       members.
+   ▪   Provide the district with a graduated return to both academic and physical
+       activities schedule to follow or approve use of the district’s graduated return
+       to activity schedule if deemed appropriate.
+   ▪   Readily communicate with the school nurse, certified athletic trainer, or
+       medical director to clarify orders.
+   ▪   Provide written signed orders to the district within 48 hours of giving verbal
+       orders to school healthcare professionals.
+   ▪   Provide written clearance for return to full activities. For a student to return
+       to academic and Athletic Activities (interscholastic sports) after he or she
+       sustained a concussion during school Athletic Activities (interscholastic
+       sports), an evaluation must be completed by, written, and signed by a
+       licensed physician to meet the requirements of the Concussion
+       Management and Awareness Act.
+
+
+
+
+                                             26
+NYSED Guidelines for Concussion Management
+In Schools 2018
+School Nurse
+
+       The school nurse (RN) is often the person who communicates with the
+private healthcare provider, medical director, parent/guardian, and district staff.
+Often, he/she is the district staff member who collects written documentation and
+orders from the healthcare provider. The school nurse also plays an integral role
+in identifying a student with a potential concussion. Additionally, they assess the
+student’s progress in returning to school activities based on private healthcare
+provider orders or district protocol. Therefore, the school nurse should:
+
+   ▪   Perform baseline validated neurocognitive computerized tests if permitted
+       by district policy and credentialed in their use.
+   ▪   Assess students who have suffered a significant fall or blow to the head or
+       body for signs and symptoms of a concussion. Observe for late onset of
+       signs and symptoms and refer as appropriate.
+   ▪   Assess the student to determine if any signs and symptoms of concussion
+       warrant emergency transport to the nearest hospital emergency room per
+       district policy.
+   ▪   Refer parents/guardians of students believed to have sustained a
+       concussion to have the student evaluated by a healthcare provider. Alert
+       parent/guardians of need for a physician evaluation if the concussion was
+       sustained during Athletic Activities (interscholastic sports).
+   ▪   Provide parents/guardians with oral and/or written instructions (best
+       practice is to provide both) on observing the student for concussive
+       complications that warrant immediate emergency care.
+   ▪   Assist in the implementation of the private healthcare provider’s or other
+       specialist’s requests for accommodations.
+   ▪   Use the private healthcare provider’s or other specialist’s orders to develop
+       an emergency care plan for staff to follow.
+   ▪   Monitor and assess the student’s return to school activities, assessing the
+       student’s progress with each step and communicating with the private
+       healthcare provider or other specialist, medical director, certified athletic
+       trainer, parent/guardian, and appropriate district staff when necessary.
+   ▪   Collaborate with the district concussion management team in creating
+       accommodations as requested by the private healthcare provider or other
+       specialist if it is determined that a 504 plan is necessary.
+   ▪   Review a private healthcare provider’s or other specialist’s written
+       statement to clear a student to return to academic and/or physical activities
+       (if the district’s medical director has written a policy delegating this to the
+       school nurse). Such protocols should specify the type of symptoms, medical
+       history, and concussion severity etc. that the medical director will need to
+       personally review. This protocol may include permitting the school nurse to
+       act as the medical director’s delegate to inform appropriate district staff of
+       the student’s return to activity.
+   ▪   Perform post-concussion assessments or use validated neurocognitive
+       computerized tests or other assessment tools, if credentialed or trained in
+                                             27
+NYSED Guidelines for Concussion Management
+In Schools 2018
+       their use, and provide the results to the private healthcare provider and/or
+       district medical director to aid him/her in determining the student’s status.
+   ▪   Educate students and staff in concussion management and prevention.
+
+      School nurses must complete the Department-approved course* for school
+nurses and athletic trainers every two (2) years. NYSED has approved the free
+web-based course, CDC Heads Up to Clinicians Training Course
+
+      Licensed healthcare professionals are encouraged to seek out further
+professional development on concussions.
+
+*Note: This is not a NYS specific training video, therefore the scope of practice of
+certified athletic trainers and school nurses in NYS may differ from what is
+described in the training. Registered professional nurses, licensed practical
+nurses, and certified athletic trainers practicing in NYS must follow NYS laws
+regarding licensing and scope of practice.
+
+
+
+
+                                             28
+NYSED Guidelines for Concussion Management
+In Schools 2018
+Director of Physical Education and/or Athletic Director
+
+        The director of physical education (PE) provides leadership and supervision
+for PE class instruction, intramural activities, and interscholastic athletic
+competition within a school district’s total physical education program. In some
+districts, there may be an athletic director solely in charge of the interscholastic
+athletic program. The director of physical education and/or the athletic director
+must be aware of district policies regarding concussion management. They should
+educate PE teachers, coaches, parents/guardians, and students about such
+policies. The director of PE and/or the athletic director often act as the liaison
+between district staff and coaches. Therefore, the director of PE and/or athletic
+director should:
+
+   ▪   Ensure that pre-season consent forms include information from the NYSED
+       Web site as required by the Concussion Management and Awareness Act,
+       as well as information about the district’s policies and protocols for
+       concussion management.
+   ▪   Offer annual educational programs to parents/guardians and student
+       athletes that educate them about concussions.
+   ▪   Inform the school nurse, certified athletic trainer, or medical director of any
+       student who is suspected of having a concussion.
+   ▪   Ensure that any student identified as potentially having a concussion is not
+       permitted to participate in any Athletic Activities (interscholastic sports) until
+       written clearance is received from the district medical director.
+   ▪   Ensure that game officials, coaches, PE teachers, or parent/guardian are
+       not permitted to determine whether a student with a suspected head injury
+       can continue to play.
+   ▪   Educate coaches each sports season on the school district’s policies on
+       concussions and care of injured students during interscholastic athletics,
+       including when to arrange for emergency medical transport.
+   ▪   Ensure NYSPHAA (New York State Public High School Athletic
+       Association), PSAL (Public School Athletic League), and other NYS athletic
+       associations’ policies are followed and enforced for interscholastic athletics.
+   ▪   Support staff implementation of graduated return to athletics protocol.
+   ▪   Enforce district policies on concussions including training requirements for
+       coaches, PE teachers, and certified athletic trainers in accordance with
+       Commissioner’s Regulation 135.4.
+   ▪   If the district medical director has authorized the school nurse or certified
+       athletic trainer to review and accept a private provider’s clearance, that
+       written policy should be made readily available to the athletic director, PE
+       teachers, and coaches.
+
+
+
+
+                                             29
+NYSED Guidelines for Concussion Management
+In Schools 2018
+Certified Athletic Trainer
+
+       A certified athletic trainer under the supervision of a qualified physician can
+assist the medical director and director of PE by identifying a student with a
+potential concussion. The certified athletic trainer can also evaluate the student
+diagnosed with a concussion in their progress in return to Athletic Activities
+(interscholastic sports) based on private healthcare provider orders and/or district
+protocol. They also play an integral role in ensuring the student athlete receives
+appropriate post-concussion care as directed by the student’s healthcare provider.
+Therefore, certified athletic trainers should:
+
+   ▪   Oversee student athletes taking baseline validated standardized
+       computerized tests if permitted by district policy and credentialed in their
+       use.
+   ▪   Evaluate student athletes who may have suffered a significant fall or blow
+       to the head or body for signs and symptoms of a concussion when present
+       at athletic events. Observe for late onset of signs and symptoms and refer
+       as appropriate.
+   ▪   Evaluate the student to determine if any signs and symptoms of concussion
+       warrant emergency transport to the nearest hospital emergency room per
+       district policy.
+   ▪   Refer parents/guardians of student athletes believed to have sustained a
+       concussion to their healthcare provider for evaluation.
+   ▪   Provide parents/guardians with oral and/or written instructions (best
+       practice is to provide both) on observing the student for concussive
+       complications that warrant immediate emergency care.
+   ▪   Assist in implementation of the private healthcare provider’s or other
+       specialists’ requests for accommodations.
+   ▪   Monitor the student’s return to school activities, evaluating the student’s
+       progress with each step, and communicating with the private healthcare
+       provider or other specialist, medical director, school nurse, parent/guardian
+       and appropriate district staff.
+   ▪   Communicate with school personnel on a student's return to activity
+       progress.
+   ▪   Review a private physician’s written statement to clear a student for return
+       to activities (if the district’s medical director has written a policy delegating
+       this to the certified athletic trainer). Such protocols should specify the type
+       of symptoms, medical history, and concussion severity etc. that the medical
+       director will need to personally review. This protocol may include permitting
+       the school nurse or certified athletic trainer to act as the medical director’s
+       delegate to inform appropriate district staff of the student’s return to activity.
+   ▪   May perform post-concussion observations or oversee student athletes
+       taking validated standardized computerized tests if credentialed or trained
+       in their use, and provide the results to the private healthcare provider and/or
+       district medical director to aid him/her in determining the student’s status.
+   ▪   Educate students and staff in concussion management and prevention.
+                                             30
+NYSED Guidelines for Concussion Management
+In Schools 2018
+       Certified athletic trainers in secondary schools must complete the
+Department-approved course* for school nurses and certified athletic trainers
+every two (2) years.
+NYSED has approved the free web-based course CDC Heads Up to Clinicians
+Training Course.
+
+      Licensed healthcare professionals are encouraged to seek out further
+professional development on concussions.
+
+*Note: This is not a NYS specific training video, therefore the scope of practice of
+certified athletic trainers and school nurses in NYS may differ from what is
+described in the training. Registered professional nurses, licensed practical
+nurses, and certified athletic trainers practicing in NYS must follow NYS laws
+regarding licensing and scope of practice.
+
+
+
+
+                                             31
+NYSED Guidelines for Concussion Management
+In Schools 2018
+Physical Education Teacher/ Coaches
+
+       Concussions often occur during Athletic Activities (interscholastic sports).
+Coaches are typically the only district staff at all interscholastic athletic practices
+and competitions. It is essential that coaches and physical education (PE)
+teachers are familiar with potential causes of concussions along with the signs and
+symptoms. Coaches and physical education teachers should always put the safety
+of the student first. Therefore, PE teachers and coaches should:
+
+   ▪ Remove any student who has taken a significant blow to head or body or
+     presents with signs and symptoms of a head injury immediately from play
+     because the Concussion Awareness Management Act requires immediate
+     removal of any student believed to have sustained a concussion.
+   ▪ Contact the school nurse or certified athletic trainer (if available) for
+     assistance with any student injury.
+   ▪ Send any student exhibiting signs and symptoms of a more significant
+     concussion (see page 5) to the nearest hospital emergency room via
+     emergency medical services (EMS) or as per district policy.
+   ▪ Inform the parent/guardian of the need for evaluation by their healthcare
+     provider. The coach should provide the parent/guardian with written
+     educational materials on concussions along with the district’s concussion
+     management policy.
+   ▪ Inform the PE director, certified athletic trainer, the school nurse and/or
+     medical director of the student’s potential concussion. This is necessary to
+     ensure that the student does not engage in activities at school that may
+     complicate the student’s condition prior to having written clearance by a
+     healthcare provider.
+   ▪ Ensure that students diagnosed with a concussion do not participate in any
+     Athletic Activities (interscholastic sports) until, in conjunction with the
+     student’s physician, the PE teacher/coach has received written
+     authorization from the medical director or their designee that the student
+     has been cleared to participate.
+   ▪ Assist the medical director, school nurse, and/or athletic trainer in the
+     gradual return to activity protocols in accordance with district policy.
+   ▪ Ensure that students diagnosed with a concussion do not substitute mental
+     activities for physical activities unless healthcare provider clears the student
+     to do so (e.g., Due to the need for cognitive rest, a student should not be
+     required to write a report if they are not permitted to participate in PE class
+     by their healthcare provider).
+
+       Complete the Department-approved course for coaches and PE teachers
+every two years. NYSED has approved the course Concussion in Sports Training
+Course these professions, which is a free web-based course that has been
+developed by the CDC and the National Federation of State High School
+Associations. District athletic personnel are encouraged to seek out further
+professional development on concussions.
+                                       32
+NYSED Guidelines for Concussion Management
+In Schools 2018
+Teacher
+
+        Teachers can assist students in their recovery from a concussion by making
+accommodations that minimize aggravating symptoms so that the student has
+sufficient cognitive rest. Teachers should refer to district protocols and private
+healthcare provider orders in determining academic accommodations. Section 504
+plans may need to be considered for some students with severe symptoms
+requiring an extended time frame for accommodations (see p. 10 for more
+information on 504 plans). Students spend most of the school day in classrooms.
+Therefore, Teachers should:
+
+     ▪    Review the district’s concussion management policy.
+     ▪    Attend professional development sessions regarding concussion
+          management.
+     ▪    Review the emergency care plan for the student with a concussion with the
+          school nurse or medical director.
+     ▪    Know signs and symptoms to observe for that warrant the student ceasing
+          the activity and sending the student to the health office.
+     ▪     Provide accommodations to the student in the classroom in alignment with
+          the healthcare provider’s orders and direction from administration.
+     ▪    Communicate with the assigned school liaison or directly to the
+          parent/guardian about observations of the student in the classroom,
+          including any concussive symptoms.
+     ▪    Invite parent/guardian participation in determining their child’s needs at
+          school.
+
+      Table 4 provides some of the areas of difficulties a student with a
+concussion may have, along with suggested accommodations.
+
+Table 4 7
+ Problem Area                              Problem Description                       Accommodations
+ Expression                                Word Retrieval: May have trouble          • Allow students time to express
+                                           thinking of specific words (word          themselves
+                                           finding problems) or expressing the       • Ask questions about specific
+                                           specifics of their symptoms or            symptoms and problems (i.e., are you
+                                           functional difficulties                   having headaches?)
+ Comprehension                             Spoken:                                   • Speak slowly and clearly
+                                           • May become confused if too much         • Use short sentences
+                                           information is presented at once or       • Repeat complex sentences when
+                                           too quickly                               necessary
+                                            • May need extra time processing          • Allow time for students to process
+                                           information to understand what            and comprehend
+                                           others are saying                          • Provide both spoken and written
+                                            • May have trouble following             instructions and directions
+                                           complex multi-step directions
+                                            • May take longer than expected to
+                                           respond to a question
+
+
+
+7 Adapted from the Center for Disease Control and Prevention, Heads Up Facts for Physicians About Mild Traumatic Brain Injury,
+
+
+                                                             33
+NYSED Guidelines for Concussion Management
+In Schools 2018
+                                Written:                               • Allow students extra time to read
+                                • May read slowly                      and complete forms
+                                • May have trouble reading material    • Provide written material in simple
+                                in complex formats or with small       formats and large print when
+                                print                                  possible
+                                • May have trouble filling out forms   • Have someone read the items and
+                                                                       fill out the forms for students who
+                                                                       are having trouble
+                                                                       •Provide word prompts
+                                                                       •Use of multiple choice responses
+                                                                       need to be distinctly different.
+
+
+
+
+More information on classroom accommodations can be found at:
+Upstate Medical University Concussion in the Classroom
+
+
+
+
+                                                34
+NYSED Guidelines for Concussion Management
+In Schools 2018
+                                        Resources
+
+American Association of Neurological Surgeons
+accessed 3/22/18
+
+Brain Injury Association of New York State
+accessed 3/22/18
+
+BrainSTEPS Pennsylvania- Strategies for Teaching Educators, Parents, & Students
+Accessed 3/22/18
+
+CDC Heads Up
+accessed 3/22/186/8/17
+
+Child Health Plus
+accessed 3/22/18
+
+2016 Consensus Statement on Concussion in Sport – The 5th International Conference
+accessed 3/22/18
+
+NYS Local Departments of Social Services
+accessed 3/22/18
+
+Nationwide Children’s Hospital- An Educator’s Guide to Concussions in the Classroom
+accessed 3/22/18
+
+NYS Department of Health TBI and Concussions
+accessed 3/22/18
+
+New York State Public High School Athletic Association, Safety and Research
+accessed 3/22/18
+
+Upstate Medical University Concussion in the Classroom
+accessed 3/22/18
+
+
+
+
+                                             35
+NYSED Guidelines for Concussion Management
+In Schools 2018

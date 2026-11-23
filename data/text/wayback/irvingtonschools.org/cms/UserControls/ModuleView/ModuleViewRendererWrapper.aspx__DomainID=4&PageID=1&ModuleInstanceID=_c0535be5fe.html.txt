@@ -1,0 +1,21 @@
+SOURCE https://www.irvingtonschools.org//cms/UserControls/ModuleView/ModuleViewRendererWrapper.aspx?DomainID=4&PageID=1&ModuleInstanceID= | DATE 2022-07-07 | TITLE ModuleViewRendererWrapper.aspx
+
+<div id='sw-module-00'>
+    <script type="text/javascript">
+        $(document).ready(function() {
+            var DomainID = '4';
+            var PageID = '1';
+            var RenderLoc = '0';
+            var MIID = '0';
+
+            //added to check to make sure moderated content doesn't bleed through the dialog
+            if ($('#dialog-overlay-WindowLargeModal-body.moderateContent').length > 0) {
+                $("#module-content-" + MIID).find(".ui-widget-detail").find(".ui-article").append("<p>&nbsp;</p>");
+            }
+        });
+    </script>
+
+    
+    
+    
+</div>

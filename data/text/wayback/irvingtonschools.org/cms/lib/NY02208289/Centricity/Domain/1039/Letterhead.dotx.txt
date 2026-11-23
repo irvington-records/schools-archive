@@ -1,0 +1,3 @@
+SOURCE https://www.irvingtonschools.org/cms/lib/NY02208289/Centricity/Domain/1039/Letterhead.dotx | DATE 2025-10-12 | TITLE Letterhead.dotx
+
+[extraction error: ValueError: file '/Users/ddriscoll/projects/iufsd-corpus/wayback/files/irvingtonschools.org/cms/lib/NY02208289/Centricity/Domain/1039/Letterhead.dotx' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.wordprocessingml.template.main+xml']

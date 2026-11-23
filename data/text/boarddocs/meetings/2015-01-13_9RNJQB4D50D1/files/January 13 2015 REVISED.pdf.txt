@@ -1,0 +1,309 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/pfiles/9SRLNE8179A1/$file/January%2013%202015%20REVISED.pdf | DATE: 2015-01-13 | TITLE: Regular Meeting - 7:30 p.m.* | 10.1 Districtwide Technology Planning | January 13 2015 REVISED.pdf
+
+         
+January 13, 2015
+[OCR]
+Technology: Moving Forward
+
+Sa) CS
+
+
+ Tonight, we will:
+   o Highlight our progress
+   o Provide examples of how we planned
+   o Demonstrate our progress
+       •   Instructionally
+       •   Curriculum
+       •   Capacity
+       •   Infrastructure
+ We will:
+   o Share our thinking for the future
+   o Outline opportunities for program growth
+   o Commit to building teacher capacity
+   o Provide students with rich experiences to prepare them for their future
+
+ All students should possess essential technology skills and
+participate in critical technology learning experiences that will
+ equip them for success in our schools and prepare them for
+                  the challenges of their future.
+
+
+This vision is supported through the District goals and
+Theories of Action and will be delivered through the lens of the
+Technology Framework.
+
+ Clearly define goals & expectations for the use and
+  integration of technology
+ Develop courses and curriculum to increase the integration
+  of technology
+ Increase alignment with standards based on a continuum of
+  knowledge and skills
+ Increase communication and planning among faculty
+ Re-evaluate software for current and future needs
+ Increase use of mobile devices
+ Increase professional development to support teaching and
+  learning
+ Define infrastructure plan to meet current needs and future
+  growth
+
+ Apply the collective thinking of our school community to plan our
+  work in technology:
+   o Technology Leadership Team – ETDT - a group of teachers, students and
+     administrators who meet on a regular basis to assess the status of the
+     curriculum, instruction, assessment and professional development in the
+     district.
+   o Technology Think Tank –designed to open the dialogue to a broad range of
+     thinkers – parents, students, teachers and administrators. Continue this
+     model inviting new members to join on a regular basis to ensure inclusivity of
+     all levels of expertise.
+
+ Technology Goal #1: Mobile Student Centered Computing
+   o Bring Your Own Technology (BYOD)
+ Technology Goal #2: Interactive Multimedia Capable
+ Technology Goal #3: Professional Development
+ Technology Goal #4: Electronic Resources
+ Technology Goal #5:
+ Technology Goal #6: Curriculum Integration
+ Technology Goal #7: Global Education and Citizenship
+ Technology Goal #8: Innovation
+
+Simply stated, we must:
+ Embed technology standards in our curricula
+ Provide our teachers with skills and resources to utilize
+  technology within their instruction
+ Develop sequences of technology courses/learning
+  experiences
+ Enrich curricula by integrating STEM learning experiences
+ Continue to build out an infrastructure to support
+  technology-rich learning
+
+What can Irvington look like moving forward?
+[OCR]
+So...2.
+
+What can Irvington look like moving forward?
+
+
+   
+[OCR]
+(lassroom Integration of Technology
+
+wo
+
+
+                                    Technology Goal #6: Curriculum Integration
+
+            Observable Teacher Behavior                                              ISTE Standard
+Teachers demonstrate awareness and knowledge of 2. Design and develop digital age learning experiences and assessments
+their respective technology integrated curriculum. Teachers design, develop, and evaluate authentic learning experiences and assessments
+                                                         incorporating contemporary tools and resources to maximize content learning in context
+                                                         and to develop the knowledge, skills, and attitudes identified in the Standards
+                                                         a. Design or adapt relevant learning experiences that incorporate digital tools and resources to
+                                                         promote student learning and creativity
+
+                                                      5. Engage in professional growth and leadership
+                                                         Teachers continuously improve their professional practice, model lifelong learning, and
+                                                         exhibit leadership in their school and professional community by promoting and
+                                                         demonstrating the effective use of digital tools and resources.
+                                                         c. Evaluate and reflect on current research and professional practice on a regular basis to
+                                                         make effective use of existing and emerging digital tools and resources in support of student
+                                                         learning
+            Observable Student Behavior                                                   ISTE Standard
+Students use technology in productive ways to         4. Critical thinking, problem solving, and decision making
+improve learning.                                        Students use critical thinking skills to plan and conduct research, manage projects, solve
+                                                         problems, and make informed decisions using appropriate digital tools and resources.
+                                                         a. Identify and define authentic problems and significant questions for investigation
+                                                         c. Collect and analyze data to identify solutions and/or make informed decisions
+
+   
+[OCR]
+Technology Curriculum
+
+wo
+
+
+        Science, Technology, Engineering, & Mathematics
+
+   “STEM-related disciplines are responsible for many of the
+       societal innovations that make our world better.”
+
+    “As we look to the future, improving the size and the
+ composition of the STEM education pipeline will strengthen
+   our country’s global competitiveness and unleash new
+        innovations that will propel society forward.”
+                                ~Rodney Adkins, Forbes, 2012
+
+  Rodney C. Adkins, senior vice president of IBM’s Systems & Technology Group;
+National Academy of Engineering inductee; and serves on the national board of the
+                             Smithsonian Institution.
+
+ Project Lead the Way (PLTW)
+   o Introduce units starting in third grade
+   o Units of Study - Engineering, Biomedical Science, Computer
+     Science
+   o Add PLTW to 7th Grade Curriculum
+   o Increase 8th Grade Exploratory to allow for introduction and
+     acceleration
+   o Add Biomedical Science at the HS
+ Google Apps for Education (GAFE)
+ Integration of ISTE Standards
+
+Module                                          Grade
+
+Stability and Motion: Sciences of Flight        3rd Grade
+
+Stability and Motion: Forces and Interactions   3rd Grade
+
+Variation of Traits                             3rd Grade
+
+Technology Toolbox                              3rd Grade
+
+Energy: Collisions                              4th Grade
+
+Energy: Conversions                             4th Grade
+
+Input/Output: Computer Systems                  4th Grade
+
+Input/Output: Human Brain                       4th Grade
+
+   Foundation Units                                  Specialization Units
+     o Design & Modeling                                o Energy & Environment
+       Students apply the design process to
+       solve problems and understand the                o Flight & Space
+       influence of creativity and innovation in        o Science of Technology
+       their lives. They work in teams to design
+       a playground and furniture, capturing            o Magic of Electrons
+       research and ideas in their engineering          o Green Architecture
+       notebooks. Using Autodesk® design                o Medical Detectives
+       software, students create a virtual
+       image of their designs and produce a
+       portfolio to showcase their innovative
+       solutions.
+     o Automation & Robotics
+       Students trace the history,
+       development, and influence of
+       automation and robotics as they learn
+       about mechanical systems, energy
+       transfer, machine automation, and
+       computer control systems. Students
+       use the VEX Robotics® platform to
+       design, build, and program real-world
+       objects such as traffic lights, toll
+       booths, and robotic arms.
+
+   PLTW Engineering                                Biomedical Science
+     o Foundation Courses                             o Foundation Courses
+          • Introduction to Engineering and                • Principles of the Biomedical Sciences
+             Design                                        • Human Body Systems
+          • Principles of Engineering                      • Medical Interventions
+     o Specialization Courses                         o Capstone Course
+          • Aerospace Engineering                          • Biomedical Innovation
+          • Biotechnical Engineering
+          • Computer Science and Software           Computer Science
+             Engineering                              o Introductory Course
+          • Civil Engineering and Architecture             • Introduction to Computer Science
+          • Computer Integrated Manufacturing         o Foundation Courses
+          • Digital Electronics                            • Computer Science and Software
+     o Capstone Course                                        Engineering
+          • Engineering Design and                         • Computer Science Applications
+             Development                              o Specialization Courses
+                                                           • Simulation and Modeling
+                                                           • Artificial Intelligence
+                                                           • Cybersecurity
+                                                      o Capstone Course
+                                                           • Computational Problem Solving
+
+
+                     Explore the expansion of existing offerings with
+                               AP Computer Programming
+
+   
+[OCR]
+Professional Learning
+
+wo
+
+
+ Survey faculty and staff on their needs
+ Develop and identify professional learning specific to needs
+ Support professional learning as deemed necessary
+ Provide necessary PTLW training for lead teachers
+
+ Quad Village PD – Google Bootcamp
+ Rollout to staff and students
+ Google Apps PD Team
+   o Cohort of point-people to provide ongoing support for each building
+   o HV Google Summit
+   o Training baseline (1 day in-house training)
+   o Creation of building PD plans for GAFE
+
+   
+[OCR]
+Infrastructure
+
+wo
+
+
+                                    Hardware
+Teaching & Learning                         Systems & Infrastructure
+Teachers use tools to engage students and   • Servers
+deepen understanding                        • Wifi
+• Classroom Computers/ipads
+• SmartBoards
+• Document Cameras
+
+
+                                    Software
+Teaching & Learning                         Systems & Infrastructure
+• Web-based applications                    • Student Information System
+• Tool-based applications                      (eSchool Plus)
+• Content-specific                          • Finance and Human Resources
+• Blogs                                     • Observation & Evaluation
+• Research
+
+ Computers/Mobile Devices
+   o Physical Desktops: 560
+   o Laptops: 80
+   o Additional Mobile Devices: 181
+   o Virtualized Workstations: 138
+
+
+ Current Status of Wireless: Campus (Saturation)
+
+
+ Bandwidth: 100Mbps to the Internet, 1Gbps building-to-building
+
+ Technology Lease for 2014-2015 (~380K)
+   o Includes MSS Machine Replacements (and Dows Lab), Wireless
+     Infrastructure for Campus, Annual Replacement Cycle for SMART
+     Boards, Projectors, Printers, etc. in each building
+
+ Technology Lease for 2015-2016 (~360K)
+   o Includes Wireless Infrastructure for Dows and MSS, Annual
+     Replacement Cycle for SMART Boards, Projectors, Printers, etc. in each
+     building. Finish replacement of MSS machines. Purchase of 180
+     Chromebooks and 6 charging carts.
+
+ Tonight’s Discussion
+ Budget Planning
+   o   Introduction of STEM sequence
+   o   Integration of technology standards
+   o   Professional learning
+   o   Hardware & software
+
+ Tremendous focus has been placed on the role of technology
+  in our students’ education
+   o Structures created to:
+       • Inform future actions
+       • Plan for curriculum (& course) development
+       • Equip faculty to identify and employ technology to support learning
+   o Specific attention to:
+       • Instruction of technology
+       • Integration of technology
+       • Professional learning
+       • Expansion of infrastructure to support learning
+ We have progressed and have developed a pathway for
+  continued, on-going growth
+
+   
+

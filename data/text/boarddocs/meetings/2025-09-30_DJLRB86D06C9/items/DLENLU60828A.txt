@@ -1,0 +1,23 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/goto?open&id=DLENLU60828A | DATE: 2025-09-30 | TITLE: Regular Meeting | 12.8 Payment for Extracurricular Clubs
+
+Meeting: Sep 30, 2025 - Regular Meeting
+Date: 2025-09-30
+Category: 12. Personnel Matters
+Subject: 12.8 Payment for Extracurricular Clubs
+Type: Action (Consent)
+
+Name
+	Club
+	Group
+	Step
+	Payment
+	School
+
+Chad Beckim
+	Costume Designer
+	VI
+	0
+	$1,760 (Arts and Ed)
+	HS
+
+Adam Schwartz	Math Club (grade 3)	VIII	1	$938	Dows

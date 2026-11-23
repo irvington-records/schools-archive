@@ -1,0 +1,10 @@
+SOURCE http://irvingtonschools.org:80/vote.html | DATE 2005-02-14 | TITLE Referenda Results
+
+Budget/Trustee Election Results May 18, 2004
+he Results of the Irvington School District Budget Vote are as follows:
+Bond:
+Yes - 462
+The Results of the Bussing Referendum are as follows:
+Yes - 484
+Trustee Election:
+Carol Gutman - 515

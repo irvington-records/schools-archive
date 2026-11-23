@@ -1,0 +1,374 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/pfiles/CKTPZR66050C/$file/Board%20of%20Education%20Meeting%20November%209%2C%202022.pdf | DATE: 2022-11-09 | TITLE: Regular Meeting | 6.2 Presentation Instructional Technology Plan | Board of Education Meeting November 9, 2022.pdf
+
+2022 Update: Technology In Irvington
+
+
+
+
+       Board of Education Meeting
+             November 9, 2022
+
+Mission
+
+The mission of the Irvington Union Free School District is to create a challenging
+and supportive learning environment in which each student attains his or her
+highest potential for academic achievement, critical thinking and lifelong learning.
+Our schools encourage the discovery and development of students’ individual
+strengths, skills and talents, and foster social and civic responsibility.
+
+
+
+
+                                                                                       2
+
+3
+[OCR]
+The Irvington Strategic Objectives serve as a foundation for all aspects of District and Board of Education
+work. Critical decision making such as budgeting, program development and facility enhancement is aligned with
+the District Mission and Strategic Objectives. To achieve its mission and vision, and to provide for the future of its
+students, the Irvington Union Free School District:
+
+Provides students with a Encourages innovation,
+rigorous, comprehensive, creativity and risk-taking
+enriched and diversified to inspire a dynamic
+curriculum that prepares learning environment.
+
+them to achieve their
+personal best and
+integrates technology into
+their learning.
+
+Fosters the social and
+emotional growth of all
+students and promotes
+
+culture where students
+
+are active participants in
+society.
+
+Supports educators
+through targeted
+professional learning
+and opportunities for
+collaboration,
+
+The Irvington Schools are
+committed to fostering the
+development of the 21st century
+skills and dispositions
+Problem-Solver Reflective
+Flexible Thinker Self Refiant
+Collaborative Learner Empathetic Citizen
+Effective Communicator | Creative Risk-Taker
+
+Ensures the fiscal
+health of the District
+and provides fora
+high-quality learning
+environment,
+
+Strengthens local
+connections to and
+ownership of our schools.
+
+
+4
+[OCR]
+Provides students with a
+rigorous, comprehensive,
+enriched and diversified
+curriculum that prepares
+them to achieve their
+
+personal best and
+integrates technology into
+their learning.
+
+
+Technology Goals 2022-25
+➢ Technology Goal #1: All learners will have equitable access to a range of
+ digital resources appropriate for instructional goals and all learning styles,
+ using an anytime, anywhere, supportive computing environment.
+
+➢ Technology Goal #2: All learners will gain and develop foundational
+ technology proﬁciency, media literacy skills, and the ability to practice
+ digital citizenship across all grade levels and content areas.
+
+➢ Technology Goal #3: All staff members will be provided with ongoing
+ differentiated professional development targeted to their individual needs,
+ grade level/content area with a continual focus on emerging and innovative
+ technologies.
+
+
+ Adopted by the Board of Education, July 2022                                     5
+
+Introduction to NYS Computer Science
+      Digital Fluency Standards
+
+
+
+
+                                       6
+
+Guiding Principles
+EQUITY & ACCESS                                 COHERENCE
+• Flexibility in how students show proﬁciency   • Streamlined to include the most
+• Cultural view of learning                      important knowledge and skills
+
+• Multiple expressions of diversity             • Vertical and horizontal alignment
+                                                • Clear learning progression
+
+
+
+INTERDISCIPLINARY                               RELEVANCE & ENGAGEMENT
+CONNECTIONS                                     • Motivate and empower with real-world
+• Complement and promote learning across all     challenges
+  disciplines                                   • Prepare students to adapt
+
+                                                                                      7
+
+Review Lenses
+ ✔ CLARITY & FOCUS – Limited in number, focused on most important concepts and skills
+ ✔ COHERENCE & PROGRESSION – Organized progressions over multiple grades, uniﬁed
+   vision, connections among major areas of study
+ ✔ EQUITY – Flexibility for how students demonstrate proﬁciency, cultural view of learning
+ ✔ INTERDISCIPLINARY CONNECTIONS – Complement other NYS Learning Standards,
+   across disciplines
+ ✔ RIGOR – Appropriate level of challenge to prepare students for success in college and
+   careers
+ ✔ RELEVANT & ENGAGING – Connected to real-world challenges,
+   empower students, promote lifelong learning, prepare students
+   to adapt in the world
+ ✔ SPECIFICITY – Precise, with speciﬁc details to convey level of
+   performance expected, without being prescriptive or limiting
+                                                                                             8
+
+Reaching All Learners
+DIGITAL EQUITY                                            EARLY LEARNING
+• Access to computing devices AND high-speed              • Understanding of child development
+  broadband                                               • Developmentally appropriate
+• Understanding of technology and the ability to use it   • Social-Emotional
+• Flexibility in how to demonstrate proﬁciency            • Familiar key skills and concepts
+                                                          • Standards taught with or without
+                                                            computing devices, as appropriate
+
+
+
+
+ ELLs                                                     STUDENTS WITH DISABILITIES
+ • Multiple ways to demonstrate understanding             • Supports and services
+    and skills                                            • Same high-quality instruction and high
+                                                            standards
+
+                                                                                                     9
+
+10
+[OCR]
+* ys
+FED
+"NEWYORK STATE.
+
+COMPUTER SCIENCE
+DIGITAL FLUEN
+
+3 me ee,
+
+VERVE
+
+tae fe ee |
+
+
+Why Filtering?
+As part of the Federal grant process called E-Rate, public schools and libraries that
+receive funding are required to purchase ﬁltering tools (ﬁrewalls) and software to
+protect end-users from inappropriate content for school consumption
+(obsecenity, pornography, other content harmful to minors).
+
+As districts shifted to mobile devices, schools and libraries, under the E-Rate
+program, were required to extend ﬁltering to those devices to work off campus as
+well.
+
+                   Provides for safe computing environments
+                                         &
+                Greatly reduces risks from viruses, hacking, etc.
+
+
+                                                                                        11
+
+GoGuardian
+
+Since the summer of 2022, the District moved toward a new ﬁltering system,
+GoGuardian. The previous vendor, Lightspeed, was unable to meet the District’s
+needs for compliance ﬁltering for self-harm, violence, and bullying. Furthermore,
+the District took reactive steps based on feedback about the inability to ﬁlter by
+grade level and school to ﬁnd a better platform.
+
+Communications regarding device acceptable use were updated with the new
+vendor’s name, which all returning students’ parents saw in the new registration
+process.
+
+
+
+
+                                                                                     12
+
+Student Online Safety
+                    On Campus                                                             Off Campus
+
+How is filtering    Firewalls- hardware that helps with filtering content that is         Cloud-based filtering (using Google account) which has permissions based on
+completed?          educational and appropriate for student/staff consumption. This       user (administrator, staff, student) and allows for more granular filtering to take
+                    is the origin of filtering while onsite.                              place:
+                                                                                              -   An example of this is YouTube filtering
+                    Cloud-based filtering (using Google account) which has
+                    permissions based on user (administrator, staff, student) and         Students/Staff can choose to switch profiles with Google to avoid this on
+                    allows for more granular filtering to take place                      personal devices only.
+                        -    An example of this is YouTube filtering
+                                                                                          Students/Staff that use the school-provided profile also gain the ability to sign
+                                                                                          into applications that are purchased by the District to alleviate password
+                                                                                          issues (Classlink), as well as use resources not available to personal
+                                                                                          accounts (Mote, Kami, Screencastify, among others)
+
+What is filtered?   Role and/or age-specific rules exist                                  Role and/or age-specific rules exist
+                        -    Protect students/staff                                           -    Protect students/staff
+                        -    Student email, docs, and browsing history are                    -    Student email, docs, and browsing history are monitored using AI
+                             monitored using Artificial Intelligence (AI) technology to            technology to alert end-users and staff about inappropriate searches,
+                             alert end-users and staff about inappropriate searches,               content that is typed, and access to inappropriate websites.
+                             content that is typed, and access to inappropriate               -    Identify safety risks such as self-harm and violence
+                             websites.                                                    This pertains to District-owned devices and logged in users (Google accounts)
+                        -    Identify safety risks such as self-harm and violence
+                    This pertains to District-owned devices and logged in users
+                    (Google accounts)
+
+                                                                                                                                                                                13
+
+GoGuardian Beacon
+ ●   This, or a similar tool, is widely used in school districts across the country
+ ●   IUFSD has employed such applications for several years
+ ●   Monitors District applications for potential risks
+ ●   Key risks include:
+      ○   Suicide, self-harm, bullying and potential threats of violence
+ ●   When a risk is identiﬁed:
+      ○   Alerts are reviewed by trained professionals who determine if the activity was innocent (search for
+          a class assignment) or a possible risk is present
+      ○   When a risk may be present, the school response team is notiﬁed. The teams are typically
+          comprised of administrators, school counselors, and mental health professionals
+      ○   Staff evaluate, report and determine if further interventions are necessary
+      ○   Appropriate measures are taken to provide for the health and safety of the student and school
+          community
+      ○   Parents are always engaged in the process
+ ●   Personal computer or device applications and ﬁles are not reviewed, assessed,
+     viewed, or documented in any way. Only school District applications, such as the use of
+     Google ﬁles, internet searches when signed into the District account
+                                                                                                                14
+
+SEL and Technology
+
+ Using BrightBytes (formerly Clarity) survey data, we are able to assess trends on
+ the impact of Technology on students pre- and post-pandemic hybrid instruction.
+ Since technology is not a replacement for learning, and rather a supplemental
+ resource, this is an important distinction to be made.
+
+ Data trends can be monitored over time and compared with national data
+
+
+
+
+                                                                                     15
+
+Students' self awareness of three emotions in response to:
+Students | Please tell us how easy or difﬁcult each of the following is:
+Knowing when my feelings are making it hard for me to focus;
+Knowing the emotions I feel; and
+Knowing ways to calm myself down.
+**N/A reﬂects respondents who skipped this question.
+                                                                           16
+Data provided from the 2021-22 Brightbytes Survey
+
+Comparison of student, teacher, parent. and school leader responses to:
+Students | I feel safe while working online.;
+Teachers | My students feel safe participating online.;
+Parents | My child feels safe participating in online coursework.; and
+School Leadership | Our students feel safe participating online.
+**N/A reﬂects respondents who skipped this question.
+                                                                          17
+Data provided from the 2021-22 Brightbytes Survey
+
+Triple E Framework
+
+
+
+
+                     18
+[OCR]
+Triple E Framework
+
+Trip
+
+h
+
+Does the technology allow
+students to focus on the task of
+the assignment or activity with loss
+distraction (Time-on-Task)?
+
+Doas the technology motivate
+students to start the learning
+process?
+
+Does the technology cause a shift
+in the behavior of the students,
+‘wnere they move from passive to
+active social learners (co-use or
+co-engagement)?
+
+le E
+
+Framework
+
+| do, we do,
+
+Engage\*
+
+7 Enhance *
+
+Strategies
+otacire
+Tum & Talk
+
+Does the technology create
+‘opportunities for students to learn
+outside of their typical school
+dey?
+
+Does the technology create a
+bridge between school leaming
+‘and everyday life experiences?
+Does the technology allow
+‘students to build skis, that they
+can use in their everyday lives?
+
+
+Technology Usage
+
+Technology usage varies by school-level, grade-level, content, and
+course:
+●   Its use is consistently reviewed by staff with adjustments being made
+
+●   Traditional forms of teaching and learning are not replaced by technology.
+    Rather, it is extended, enriched, or increases engagement
+
+●   Use and instructional practice will continue to evolve to maximize learning,
+    meet student needs, and fulﬁll curricular standards
+
+
+
+
+                                                                                   19
+
+Discussion & Questions
+
+
+
+                         20
+

@@ -1,0 +1,63 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/pfiles/BQNKQM52F925/$file/Irvington%20Union%20Free%20School%20District%208635-E%20Parent%20Bill%20of%20Rights.docx | DATE: 2020-06-23 | TITLE: Special Meeting/Work Session | 8.1 Adoption of Policies | Irvington Union Free School District 8635-E Parent Bill of Rights.docx
+
+NYSSBA Sample Exhibit 8635-E
+
+PARENTS’ BILL OF RIGHTS FOR STUDENT
+DATA PRIVACY AND SECURITY
+
+NEW NOTE:  The underlined text below has been added to reflect the requirements of recently adopted state regulations implementing Education Law §2-d.  This exhibit was previously numbered 5500-E.4 to go with the policy on student records.  We recommend keeping it instead with the policy on data privacy and security, 8635.
+NYSSBA offers the following template to comply with state law.  Please review with the school attorney in order to customize it appropriately.
+
+	The Irvington Union Free School District, in recognition of the risk of identity theft and unwarranted invasion of privacy, affirms its commitment to safeguarding student personally identifiable information (PII) in educational records from unauthorized access or disclosure in accordance with State and Federal law.  The Irvington Union Free School District establishes the following parental bill of rights:
+
+Student PII will be collected and disclosed only as necessary to achieve educational purposes in accordance with State and Federal Law.
+
+A student's personally identifiable information cannot be sold or released for any marketing or commercial purposes by the district or any a third party contractor.  The district will not sell student personally identifiable information and will not release it for marketing or commercial purposes, other than directory information released by the district in accordance with district policy;
+	
+Parents have the right to inspect and review the complete contents of their child's education record (for more information about how to exercise this right, see 5500-R);
+
+State and federal laws, such as NYS Education Law §2-d and the Family Educational Rights and Privacy Act, protect the confidentiality of students’ personally identifiable information.  Safeguards associated with industry standards and best practices, including but not limited to, encryption, firewalls, and password protection, must be in place when data is stored or transferred;
+
+A complete list of all student data elements collected by the State Education Department is available for public review at http://nysed.gov.data-privacy-security or by writing to: Chief Privacy Officer, New York State Education Department, 89 Washington Avenue, Albany, NY 12234
+NYSSBA Sample Exhibit 8635-E
+
+Parents have the right to have complaints about possible breaches and unauthorized disclosures of student data addressed. Complaints should be directed to (insert district contact information including title, phone number, email and mailing address here).   Complaints can also be directed to the New York State Education Department online at http://nysed.gov.data-privacy-security, by mail to the Chief Privacy Officer, New York State Education Department, 89 Washington Avenue, Albany, NY 12234 or by email to privacy@mail.nysed.gov or by telephone at 5178-474-0937.
+
+Parents have the right to be notified in accordance to applicable laws and regulations if a breach or unauthorized release of their student’s PII occurs.
+
+Parents can expect that educational agency workers who handle PII will receive annual training on applicable federal and state laws, regulations, educational agency’s policies and safeguards  which will be in alignment with industry standards and best practices to protect PII
+
+In the event that the District engages a third party provider to deliver student educational services, the contractor or subcontractors will be obligated to adhere to State and Federal Laws to safeguard student PII. Parents can request information about third party contractors by contacting (insert district contact information including title, phone number, email and mailing address here) or can access the information on the district’s website (insert district website address). 
+
+
+*	*	*
+NYSSBA Sample Exhibit 8635-E
+
+PARENT BILL OF RIGHTS FOR STUDENT
+DATA PRIVACY AND SECURITY
+THIRD PARTY CONTRACTOR SUPPLEMENT
+
+NOTE:  The district will prepare a supplement for each third party contractor that receives student PII.  NYSSBA offers this approach to comply with the law.  Some school attorneys may recommend a single, generic statement that covers all third party contractors.  Please consult with your school attorney to determine which approach is best for your district.
+
+The (insert name of contractor) has been engaged by the (insert name of school district) to provide services.  In this capacity, the company may collect, process, manage, store or analyze student or teacher/principal personally identifiable information (PII).
+
+The (insert name of contractor) will provide the district with (describe specific purpose for which the PII will be used).
+
+The (insert the name of contractor) will ensure that subcontractors or others that the company shares PII will abide by data protection and security requirements of district policy, and state and federal law and regulations by (describe methods/procedures to safeguard data use by subcontractors).
+
+PII will be stored (describe the location in a manner that protects data security).
+
+Parents may challenge the accuracy of PII held by (insert name of contractor) by contacting (insert contact information, including title, phone number, mailing address and email address).
+
+The (insert name of contractor) will take reasonable measures to ensure the confidentiality of PII by implementing the following (describe the following, as applicable):
+
+Password protections
+Administrative procedures
+Encryption while PII is in motion and at rest
+Firewalls
+
+The contractor’s agreement with the district begins on (insert date) and ends on (insert date).  Once the contractor has completed its service to the district, records containing student PII will be (select one: destroyed or returned) by (insert date) via the following (insert method if destroyed or format if returned).
+
+
+Adoption date:
+

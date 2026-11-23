@@ -1,0 +1,24 @@
+SOURCE https://www.irvingtonschools.org/departments/pupil-personnel-services/what-is-special-education/speechlanguage/phonological-development | DATE 2026-07-10 | TITLE Phonological Development
+
+Phonological Development
+Phonological Development
+Elimination of Phonological Processes in Typical Development
+Phonological processes are typically gone by these ages (in years ; months)
+| PHONOLOGICAL PROCESS | EXAMPLE | GONE BY APPROXIMATELY | 
+| Pre-vocalic voicing | pig = big | 3;0 | 
+| Word-final de-voicing | pig = pick | 3;0 | 
+| Final consonant deletion | comb = coe | 3;3 | 
+| Fronting | car = tar ship = sip | 3;6 | 
+| Consonant harmony | mine = mime kittycat = tittytat | 3;9 | 
+| Weak syllable deletion | elephant = efant potato = tato television =tevision banana = nana | 4;0 | 
+| Cluster reduction | spoon = poon train = chain clean = keen | 4;0 | 
+| Gliding of liquids | run = one leg = weg leg = yeg | 5;0 | 
+| Stopping /f/ | fish = tish | 3;0 | 
+| Stopping /s/ | soap = dope | 3;0 | 
+| Stopping /v/ | very = berry | 3;6 | 
+| Stopping /z/ | zoo = doo | 3;6 | 
+| Stopping 'sh' | shop = dop | 4;6 | 
+| Stopping 'j' | jump = dump | 4;6 | 
+| Stopping 'ch' | chair = tare | 4;6 | 
+| Stopping voiceless 'th' | thing = ting | 5;0 | 
+| Stopping voiced 'th' | them = dem | 5;0 |

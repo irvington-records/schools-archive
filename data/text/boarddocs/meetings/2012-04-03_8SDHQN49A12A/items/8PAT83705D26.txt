@@ -1,0 +1,59 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/goto?open&id=8PAT83705D26 | DATE: 2012-04-03 | TITLE: Regular Meeting - 7:30 p.m.* | 9.4 Budget Transfers
+
+Meeting: Apr 03, 2012 - Regular Meeting - 7:30 p.m.*
+Date: 2012-04-03
+Category: 9. Business Office Matters
+Subject: 9.4 Budget Transfers
+Type: Action (Consent)
+
+Budget Transfer 2011/12-1
+
+	  Credit  A1620-425-40-0000(Plant-gas/Con Edison $60,000
+
+	  Debit   A1620-421-40-0000(Plant-Fuel) $60,000
+
+	    This is to cover the gas charges from Con Edison.
+
+	Budget Transfer 2011/12-17
+
+	  Credit  A1984-400(Unclassified) $12,500
+
+	  Debit   A2250-471 (Special Ed. Tuition-NYS Public)  $12,500
+
+	This is to cover write off (2010-11 invoice) for a student that never attended.
+
+	Budget Transfer 2011/12-18
+
+	     Credit  A1620-163 (Cust/Cleaner Substitute)                     $568
+
+	     Debit   A1620-168 (Cust./Cleaner - Health Payout)            $568
+
+	     Credit  A2855-151 (Interschl.-Chaperone)                         $10,020
+
+	     Debit   A2020-150 (Supervision-Inst. Salaries)                  $10,020
+
+	     Credit  A2855-160 (Non-Instruc. Coaches Salaries)          $20,127
+
+	     Debit   A2020-150 (Supervision-Inst. Salaries)                  $20,127
+
+	     Credit  A2855-161 (Interschl. Chaperones)                       $3,720
+
+	     Debit   A5510-490-00-2250 (Trans. BOCES-Spec. Ed)      $3,720
+
+	     Credit  A2855-165 (Interschl.-Timekeeper)                        $2,660
+
+	     Debit   A5510-490-00-2250 (Trans. BOCES-Spec. Ed)      $2,660
+
+	This is to cover payroll transfer for substitute cleaners and Athletics.  The Interscholastic sports budget codes were under budgeted for 2011-12 by approximately $65,260.
+
+	Budget Transfer 2011/12-18
+
+	     Credit  A2250-400-40-4000 (Special Ed-Homebound)        $18,000
+
+	     Debit   A2250-400-40-2250 (Physical/OT Services)           $18,000
+
+	     Credit  A2110-400-40-4000 (Other Expenses-Dist. Homebound) $15,000
+
+	     Debit   A9760-700-00-0000 (Debt Service-TAN)                  $15,000
+
+	This is to cover Special Ed. home instruction.

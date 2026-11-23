@@ -1,0 +1,17 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/goto?open&id=A4BJA64C3180 | DATE: 2015-12-08 | TITLE: Regular Meeting | 10.2 Budget Transfers
+
+Meeting: Dec 08, 2015 - Regular Meeting
+Date: 2015-12-08
+Category: 10. Business Office Matters
+Subject: 10.2 Budget Transfers
+Type: Action
+
+Budget Transfer 15/16-03
+
+	Transfer Out-Account Code A9711.700-00-0007 for $36,226.40
+
+	Transfer Out-Account Code A9734.700-00-0001 for $6,395.00
+
+	Transfer In-Account Code A9950.900.00-0000 for $42,621.40
+
+	This budget transfer is needed to partially cover change order for Pearl River Co.

@@ -1,0 +1,4 @@
+2013-05-01 | 2013 Irvington Board Member Debate | https://www.youtube.com/watch?v=e1T9Ge5wVG4
+(slides auto-extracted from 720x480 video; scene>0.08, OCR words>=12, phash<=8; 0 slides from 223 candidate views; Apple Vision OCR)
+
+(no shared-screen slides detected)

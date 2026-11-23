@@ -1,0 +1,1510 @@
+SOURCE https://www.irvingtonschools.org/fs/resource-manager/view/79bbb670-20ff-4f1a-9ae9-894b672e263b | DATE 2025-07-08 | TITLE dowslaneleadtestingresults.pdf | OCR tesseract
+
+7]
+RegCom
+
+Regulatory Compliance
+
+Gary M. Knowles October 4, 2016
+
+Director of Facilities
+
+Irvington UFSD R By
+
+6 Dows Lane Ce r
+Irvington, NY 10533 Var Db
+
+By.
+
+Dear Mr. Knowles, —
+Please find attached the water testing laboratory report for the Irvington UFSD, Dows
+
+Elementary School. The investigation was completed on the 9/24/16.
+
+Sinks that exceeded the NYS Action Level of 0.015 mg/L:
+
+Sample # Location Lead Conc.(mg/L)
+42 Dows Elementary Classroom 103 Bathroom Sink 0.126
+48 Dows Elementary Classroom 104 Bathroom Sink 0.047
+51 Dows Elementary Classroom 105 Bathroom Sink 0.032
+59 Dows Elementary Classroom 109 Bathroom Sink 0.023
+62 Dows Elementary Classroom 111 Bathroom Sink 0.050
+70 Dows Elementary Library Classroom Sink 0.095
+115 Dows Elementary Cafeteria Sink (with pot cleaning hose) 0.048
+
+For all outlets that exceed the NYS Action Level action is required. In accordance with
+the Lead testing in School Drinking Water — 10 NYCRR Subpart 67-4, if lead is detected
+the school is obligated to:
+
+© Prohibit use of the outlet until a remediation plan is implemented and test results
+indicate that the lead levels are at or below the action level. —
+
+« Provide building occupants with an adequate supply of potable water for drinking
+and cooking until! remediation is performed. [
+
+e Report the results to the local health department as soon as practicable but no
+more than | business day after the school received the laboratory report.
+
+e Notify all staff and all persons in parental relation to students of the test results in
+writing as soon as practicable but no more than 10 business days after the school
+teceived the laboratory report. ()
+
+Attached is the laboratory data sheet. A full report will be mailed within the week.
+
+245 Albany Avenue » Thornwood e New York e 10594
+Tel (914) 439-6513 ¢ Email: REGCOMP2@HOTMAIL.COM
+
+Occupational Safety Environmental
+
+COMPLIANCE IS SAFETY
+RegCom - Page 2
+
+If there are any questions or further information is needed, please don’t hesitate to
+contact me (914) 439-6513. Thank you for considering RegCom for your safety and
+compliance needs.
+
+Sincerely,
+
+Ernest C. Coon, MSc, RPIH, HEM
+
+IRV.1115.16.0H
+
+245 Albany Avenue e Thornwood ¢ New York © 10594 0(914) 439-6513
+REGCOMP2@HOTMAIL.COM
+
+‘Occupational Safety Environmental
+Eastern Analytical Services, Inc. Page 1 of 13
+Water Sample Report
+
+RE: CPN IRV-1115-16-IH - Irvington UFSD - Dow's Elementary
+
+Date Collected: 09/24/2016
+
+Collected By: Emest Coon
+
+Date Received: 09/24/2016
+
+Date Analyzed: 10/05/2016
+
+Analyzed By: Peter P. Argyrakis
+PE
+
+Signature:
+
+Analyte: Pb Water
+Analytical Method: EPA 200.9
+
+NYS Lab Number: 10851
+
+Sample ID#/
+Lab ID#
+
+DEO!
+2455660
+
+DE-02
+2455661
+
+DE-03
+2455662
+
+DE-04
+2455663
+
+DE-0S
+2455664
+
+DE-06
+2455665
+
+DE-07
+2455666
+
+DE-08
+2455667
+
+DE-09
+2455668
+
+BDL. Below Detectable Lamits
+Lisbitty Limited to Cost of Analysis
+Results Applicable o Thove [tems Tested
+
+Sample Location
+
+Dows Elementary - 2nd Floor -
+Room 201 - Sink
+
+Dows Elementary - 2nd Floor -
+Room 201 - Water Fountain (On
+Sink)
+
+Boys Bathroom - Right Sink -
+Near Window)
+
+Boys Bathroom - Across from
+201 - Left Sink
+
+Water Fountain Next to Room 203
+
+Girls Restroom - Across from
+Room 203 - Sink 1 - Right Near
+Window
+
+Girls Restroom - Across from
+Room 203 - Sink 2 - Middle
+
+Girls Restroom - Across from
+Room 203 - Sink 3 - Left
+
+Room 203 - Sink
+
+Client: RegCom
+245 Albany Avenue
+Thornwood, NY 10594
+
+Sample Notes Concentration
+Water 0,001 mg/L
+Water 0.002 mg/L
+Water 0,008 mg/L
+Water 0.006 mg/L
+Water 0.001 mg/L
+‘Water 0.004 mg/L
+Water 0.005 mg/L
+Water 0.004 mg/L
+Water 0.004 mg/L
+
+‘AINA Acereditation No.418 Rhode island DOH No, AALO72T3 Massachusetts DOL, No. A A.000072 Connecticut DOH No. PH11622 Maine DEM No. LAO24 Vermont DOLL No, AAS-2095
+Eastern Analytical Services, Inc.
+
+‘Water Sample Report
+
+RE: CPN [RV-1115-16-IH - Irvington UFSD - Dow's Elementary
+
+Date Collected: — 09/24/2016
+Collected By: Emest Coon
+
+Date Received: 09/24/2016
+
+Date Analyzed: 10/05/2016
+Analyzed By: Peter P. Argyrakis
+Signature: Bia
+Analyte: Pb Water
+Analytical Method: EPA 200.9
+
+NYS Lab Number: 10851
+
+Sample ID# / Sample Location
+
+Lab ID#
+
+DE-i0 Room 203 - Water Fountain on
+2455669 Sink
+
+DE-11 DE. - 2nd Floor - Room 202R -
+2455670 Sink
+
+DE-12 DE. - 2nd Floor - Room 202R -
+2455671 Water Fountain on Sink
+
+DE-13 DE. - 2nd Floor - Room 205 -
+2455672 Sink
+
+DE-14 DE. - 2nd Floor - Room 205 -
+2455673 Water Fountain on Sink
+
+DE-15 D.E. - 2nd Floor - Room 204 -
+2455674 Sink
+
+DE-16 D.E. - 2nd Floor - Room 204 -
+2455675 Water Fountain on Sink
+
+DE-17 DE. - 2nd Floor - Room 207 -
+2455676 Sink
+
+DE-18 D.E. - 2nd Floor - Room 207 -
+2455677 ‘Water Fountain on Sink
+
+BDL. = Below Detectable Limits
+Liability Limited to Cost of Analysis
+
+Resulu Applicable tn Those lems Tested
+
+AIILA Accreditation No.418 Rhode [send DOILNo. AAL-O7273 Mausachusetis DOL No. A.A 000072
+
+Sample Notes
+
+Water
+
+Water
+
+Water
+
+Water
+
+Water
+
+Water
+
+Water
+
+Water
+
+Client: RegCom
+245 Albany Avenue
+Thomwood, NY 10594
+
+Page 2 of 13
+
+Concentration
+
+0.003 mg/L
+
+0.003 mg/L.
+
+0.002 mg/L.
+
+0.001 mg/L
+
+0.002 mg/L
+
+0.004 mg/L
+
+0.008 mg/L
+
+0.004 mg/L
+
+0.010 mg/L
+
+Connecticut DOH No. PU-0622 Maine DEP No. LAO24 Vermont DOH No. AAS-2095
+Eastern Analytical Services, Inc.
+
+Water Sample Report
+
+RE: CPN IRV-1115-16-1H - Irvington UFSD - Dow's Elementary
+
+Date Collected: 09/24/2016
+Collected By: Ernest Coon
+
+Date Received: 09/24/2016
+
+Date Analyzed: 10/05/2016
+Analyzed By: Peter P. Argyrakis _
+Signature: Bhagyge
+Analyte: Pb Water
+Analytical Method: EPA 200.9
+
+NYS Lab Number: 10851
+
+Sample ID# / Sample Location
+
+Lab ID#
+
+DE-19 DE. - 2nd Floor - Room 206 -
+2455678 Sink
+
+DE-20 DE. - 2nd Floor - Room 209 -
+2455679 Sink
+
+DE-21 DE. - 2nd Floor - Room 209 -
+2455680 Water Fountain on Sink
+DE-22 DE. - 2nd Floor - Room 208 -
+2455681 Sink
+
+DE-23 DE. - 2nd Floor - Room 208 -
+2455682 Water Fountain on Sink
+DE-24 Room 211 - Art Sink
+2455683
+
+DE-25 Room 211 - Regular Sink
+2455684
+
+DE-27 Room 210 - Sink
+
+2455685
+
+DE-28 Room 210 - Water Fountain on
+2455686 Sink
+
+BDL = Below Detecuble Limits
+Liability Limited 10 Cost of Analysis
+
+Results Applicable to Those items Tested
+
+ANIA Accreditation No.41B Rhode laland DOI No, AALO72T3  Massachusctts DOL Na, A A 000072
+
+Sample Notes
+
+Water
+
+Water
+
+Water
+
+‘Water
+
+‘Water
+
+Water
+
+Water
+
+Water
+
+Water
+
+Client:
+
+RegCom
+245 Albuny Avenue
+Thomwood,NY 10594
+
+Page 3 of 13
+
+Concentration
+
+0.009 mg/L.
+
+0.002 mg/L
+
+0.004 mg/L
+
+0.006 mg/L
+
+0.014 mg/L.
+
+0.012 mg/L
+
+0.004 mg/L.
+
+0.003 mg/L
+
+0.002 mg/L
+
+Connecticut DOH Na PH-0622 Msine DEP No, LAM Vermont DOH No. AAS-2095,
+Eastern Analytical Services, Inc.
+
+‘Water Sample Report
+
+RE: CPN IRV-1115-16-IH - Irvington UFSD - Dow's Elementary
+
+Date Collected: 09/24/2016
+Collected By: Ernest Coon
+
+Date Received: 09/24/2016
+
+Date Analyzed: 10/05/2016
+Analyzed By: Peter P. Argyrakis
+Signature: Bhayp
+Analyte: Pb Water
+Analytical Method: EPA 200.9
+
+NYS Lab Number: 10851
+
+Sample ID# / Sample Location
+
+Lab ID#
+
+DE-29 Room 212A - Sink
+
+2455687
+
+DE-30 Gym Water Fountain Near
+2455688 Coaches Office (Porcelain)
+DE-31 Gym Water Fountain Near Stage
+2455689 Next to Door (Porcelain)
+
+DE-32 Men's Faculty Bathroom - Sink #1
+2455690
+
+DE-33 Men's Faculty Bathroom - Sink #2
+2455691
+
+DE-34 ‘Classroom 101 (Staff Lounge) -
+2455692 Sink
+
+DE-35 ‘Classroom 101 (Staff Lounge) -
+2455693 Bathroom Sink
+
+DE-36 ‘Classroom 101 (Staff Lounge) -
+2455694 ‘Water Fountain (Bubbler)
+
+DE-37 Ladies Bathroom Next to CR
+2455695 103 - Sink #1
+
+DL. = Below Detectable Limits
+Liability Limuted ta Coxt of Analysis
+Results Applicable to Those hems Tested
+
+Sample Notes
+
+Water
+
+Water
+
+Water
+
+Water
+
+Water
+
+‘Water
+
+Water
+
+Water
+
+Water
+
+Client: RegCom
+245 Albany Avenue
+Thornwood, NY 10594
+
+Page 4 of i3
+
+Concentration
+
+0.003 mg/L.
+
+0.003 mg/L
+
+0.002 mg/L
+
+0.00] mg/L
+
+0.004 mg/L
+
+0.001 mg/L.
+
+0.010 mg/L
+
+0.001 mg/L
+
+0.001 mg/L.
+
+‘AIHA Accreditation Na.418 Rhode Island DOH No. AALATTZT3 Massachusetis DOLNo.A AQ00072 Connecticu DOI No.PIH-0622 Maine DEM Na.LAO14 Vermont DOI No, AAS-2095
+Date Collected:
+Collected By:
+Date Received:
+Date Analyzed:
+Analyzed By:
+Signature:
+Analyte:
+
+Eastern Analytical Services, Inc.
+
+Water Sample Report
+RE: CPN IRV-1115-16-IH - Irvington UFSD - Dow's Elementary
+
+09/24/2016
+
+Emest Coon
+09/24/2016
+10/05/2016
+
+Peter P. Argyrakis
+
+Pb Water
+
+Analytical Method: EPA 200.9
+NYS Lab Number: 10851
+
+Sample ID#/
+Lab ID#
+
+DE-38
+2455696
+
+DE-39
+2455697
+
+DE-~40
+2455698
+
+DE-41
+2455699
+
+DE-42
+2455700
+
+DE-~43
+2455701
+
+DE-44
+2455702
+
+DE-45
+2455703
+
+DE-46
+2455704
+
+DL» Below Detectable Limits
+
+Sample Location
+Ladies Bathroom Next to CR
+
+103 - Sink #2
+
+Ladies Bathroom Next to CR
+
+103 - Sink #3
+
+Classroom 103 - Sink
+
+Classroom 103 - Water Fountain
+
+Classroom 103 - Bathroom Sink
+
+Classroom 102 - Sink
+
+Classroom 102 - Water Fountain
+
+Classroom 102 - Bathroom Sink
+
+Classroom 104 - Sink
+
+Unbitity Limited to Cost of Analysis
+Results Applicable to Those liems Tested
+AIHA Aceteditauon No 418° Rhode Island DOW No, AALO72T3. Massachusetts DOL No. A A DO0072
+
+Sample Notes
+
+Water
+
+Water
+
+Water
+
+Water
+
+Water
+
+Water
+
+Water
+
+Water
+
+Water
+
+Page 5 af 13
+
+Client. RegCom
+
+245 Albany Avenue
+Thornwood, NY 10594
+
+Concentration
+
+0.005 mg/L.
+
+0.004 mg/L.
+
+BDL <0.001 mg/L
+
+BDL <0.001 mg/L
+
+0.126 mg/L
+
+0.004 mg/L
+
+0.003 mg/L.
+
+0.013 mg/L
+
+0.002 mg/L
+
+‘Conneeticut DOH No. PH-0622 Main DEN. LA024 Vermont DOH No, AAS-2095
+Date Collected:
+Collected By:
+Date Received:
+Date Analyzed:
+Analyzed By:
+Signature:
+Analyte:
+
+Eastern Analytical Services, Inc.
+
+Water Sample Report
+RE: CPN IRV-1115-16-IH - Irvington UFSD - Dow's Elementary
+
+09/24/2016
+Emest Coon
+09/24/2016
+10/05/2016
+
+Peter P. Argyrakis
+Pb Water
+
+Analytical Method: EPA 200.9
+NYS Lab Number: 10851
+
+Sample [D#/
+Lab D#
+
+DE-47
+2455705
+
+DE-48
+2455706
+
+DE-49
+2455707
+
+DE-50
+2455708
+
+DE-51
+2455709
+
+DE-52
+2455710
+
+DE-53
+2455711
+
+DE-54
+2455712
+
+DE-55
+2455713
+
+BDI. = Below Deectable Limits
+
+Sample Location
+
+Classroom 104 - Water Fountain
+
+Classroom 104 - Bathroom Sink
+
+Classroom 105 - Sink
+
+Classroom 105 - Water Fountain
+
+Classroom 105 - Bathroom Sink
+
+Classroom 107 - Sink
+
+Classroom 107 - Water Fountain
+
+‘Classroom 106 - Sink
+
+Classroom 106 - Water Fountain
+
+Liability Limited 10 Cout af Anafyais
+Results Applicable to Those ftems Tested
+
+AINA Accreditation No.418 Rhode Island OOH No, AAL-O72T3 — Massachasests DOL No. A 900072
+
+Sample Notes.
+
+Water
+
+Water
+
+Water
+
+Water
+
+Water
+
+Water
+
+Water
+
+‘Water
+
+Water
+
+Page 6 af 13
+
+Client: RegCom
+
+245 Albany Avenue
+Thornwood, NY 10594
+
+‘Concentration
+
+0.002 mg/L
+
+0.047 mg/L
+
+0.001 mg/L
+
+0.004 mg/L
+
+0.032 mg/L
+
+BDL <0.001 mg/L
+
+0.003 mg/L.
+
+0.004 mg/L
+
+0.009 mg/L
+
+Connecticut DOH No. PII-0622 Maine DEP No. LA-024 Vermont DOI No. AAS-2095
+Eastern Analytical Services, Inc.
+
+Water Sample Report
+
+RE: CPN IRV-1115-16-IH - Irvington UFSD - Dow's Elementary
+
+Date Collected: 09/24/2016
+Collected By: Emest Coon
+
+Date Received: 09/24/2016
+
+Date Analyzed: ‘10/05/2016
+Analyzed By: Peter P. Argyrakis
+Signature: Bh =
+Analyte: Pb Water
+Analytical Method: EPA 200.9
+
+NYS Lab Number: 10851
+
+Sample ID# / Sample Location
+
+Lab ID#
+
+DE-56 Classroom 106 - Bathroom Sink
+2455714
+
+DE-57 Classroom 109 - Sink
+
+2455715
+
+DE-58 Classroom 109 - Water Fountain
+2455716
+
+DE-59 Classroom 109 - Bathroom Sink
+2455717
+
+DE-60 Classroom 111 - Sink
+
+2455718
+
+DE-61 Classroom 111 - Water Fountain
+2455719
+
+DE-62 Classroom 111 - Bathroom Sink
+2455720
+
+DE-63 Nurses Office - Sink
+
+2455721
+
+DE-64 Nurses Office - Bathroom Sink
+2455722
+
+BDL» Below Detsctable Limits
+
+Liability Limited to Cost of Analysis
+
+Retults Applicable to These hhoms Tested
+
+AIHA Aecteditation No. 418 Rhode Islané DOH No, AAL-O77T3  Mastachwscus DOL Na. A A 000072
+
+Sample Notes
+
+Water
+
+‘Water
+
+‘Water
+
+Water
+
+Water
+
+Water
+
+Water
+
+‘Water
+
+‘Water
+
+Client: RegCom
+245 Albany Avenue
+Thornwood, NY 10594
+
+Page 7 of 13
+
+Concentration
+
+0.010 mg/L.
+
+0.003 mg/L
+
+0.002 mg/L
+
+0.023 mg/L.
+
+0.006 mg/L
+
+0.004 mg/L
+
+0.050 mg/L
+
+0.003 mg/L
+
+0.001 mg/L
+
+Connecticut DOINa. PI1-0622 Maine DED No, LA.024 Vermont DOH No, AAS-2095
+Eastern Analytical Services, Inc.
+Water Sample Report
+
+RE: CPN [RV-1115-16-IH - Irvington UFSD - Dow's Elementary
+
+Page 8 of 13
+
+Date Collected: 09/24/2016 Client: RegCom
+
+Collected By: Emest Coon 245 Albany Avenue
+
+Date Received: 09/24/2016 Thornwood, NY 10594.
+
+Date Analyzed: — 10/05/2016
+
+Analyzed By: Peter P. Argyrakis
+
+Signature: Bhoayg or
+
+Analyte: Pb Water
+
+Analytical Method: EPA 200.9
+
+NYS Lab Number: 10851
+
+Sample ID#/ Sample Location Sample Notes Concentration
+Lab ID#
+
+DE-65 Conference Room - Room 110 - ‘Water 0.003 mg/L
+2458723 Sink
+
+DE-66 Computer Room - Sink Water 0.002 mg/L
+2455724
+
+DE-67 Computer Room - Water Fountain Water 0.003 mg/L
+2455725
+
+DE-68 Library Classroom - Sink Water 0.006 mg/L
+2455726
+
+DE-69 Library Classroom - Water ‘Water 0.002 mg/L.
+2455727 Fountain
+
+DE-70 Library Sink Classroom - Sink Water 0.095 mg/L.
+2455728
+
+DE-71 Library Water Fountain Water 0.007 mg/L
+2455729 Classroom - Sink
+
+DE-72 Library Sink Close to Computer Water 0.003 mg/L
+2455730 Lab
+
+DE-73 Library Water Fountain Close to Water 0.007 mg/L
+2455731 Computer Lab
+
+BDL = Relow Detectable Lima
+
+Liability Limited to Cou of Analysis
+
+Results Applicable to Those ema Tented
+
+AIA Acsrediiaion No.418- Rhoue Istend DOI No. AAL-72T3 Massachusetts DOL No. A A 000072
+
+‘Connecticut DOU No. PII-0622 Maine DEP No. LA-O24 Vermont DOIt No. AAS-209
+Date Collected:
+Collected By:
+Date Received:
+Date Analyzed:
+Analyzed By:
+Signature:
+Analyte:
+
+Eastern Analytical Services, Inc. Page 9 of 13
+Water Sample Report
+
+RE: CPN IRV-1115-16-IH - Irvington UFSD - Dow's Elementary
+
+09/24/2016
+
+Emest Coon
+09/24/2016
+10/05/2016
+
+Peter P. Argytakis
+Pb, E
+
+Pb Water
+
+Analytical Method: EPA 200.9
+NYS Lab Number: 10851
+
+Sample ID# /
+Lab ID#
+
+DE-74
+2455732
+
+DE-75
+2455733
+
+DE-76
+2455734
+
+DE-77
+2455735
+
+DE-78
+2455736
+
+DE-79
+2455737
+
+DE-80
+2455738
+
+DE-81
+2455739
+
+DE-82
+2455740
+
+BDL = Below Detectable Limits
+
+Sample Location
+
+Classroom 126 - Sink #1 (From
+Left to Right)
+
+Classroom 126 - Sink #2 (From
+Left to Right)
+
+Classroom 126 - Water Fountain
+
+Classroom 126 - Bathroom
+
+Classroom 128 - Sink #1 (From
+Left to Right)
+
+Classroom 128 - Sink #2 (From
+Left to Right)
+
+Classroom 128 - Water Fountain
+
+Classroom 128 - Bathroom Sink
+
+Classroom 127 - Sink #1 (From
+Left to Right)
+
+Liability Limited to Cont of Analysis
+Results Applicable to Those lems Tested
+AIHA Accreditalion No 418 Rhode Inland DOHENo. AAL-OTZT} Maachuscits DOL No. A A 000072
+
+Sample Notes.
+
+Water
+
+Water
+
+Water
+
+Water
+
+Water
+
+Water
+
+Water
+
+Water
+
+‘Water
+
+Client:
+
+RegCom
+245 Albany Avenue
+Thornwood, NY 10594
+
+Concentration
+
+BDL < 0.001 mg/L
+
+BDL <0.001 mg/L
+
+0.002 mg/L
+
+0.003 mg/L
+
+BDL < 0,001 mg/L
+
+BDL < 0,001 mg/L
+
+BDL < 0.001 mg/L.
+
+0.015 mg/L.
+
+0.003 mg/L
+
+‘Connecticut BOK Na PH-0622 Maine DEP No. LA.O24 Vermont DOH No, AAS.2095
+Date Collected:
+
+Collected By:
+
+Date Received:
+Date Analyzed:
+
+Analyzed By:
+Signature:
+Analyte:
+
+Eastern Analytical Services, Inc.
+
+Water Sample Report
+RE: CPN IRV-1115-16-IH - Irvington UFSD - Dow's Elementary
+
+09/24/2016
+
+Emest Coon
+09/24/2016
+10/05/2016
+
+Peter P. Argyrakis
+
+Pb Water
+
+Analytical Method: EPA 200.9
+NYS Lab Number: 10851
+
+Sample ID# /
+Lab ID#
+
+DE-83
+2455741
+
+DE-84
+2455742
+
+DE-85
+2455743
+
+DE-86
+2455744
+
+DE-87
+2455745
+
+DE-88
+2455746
+
+DE-89
+2455747
+
+DE-90
+2455748
+
+DE-91
+2455749
+
+Sample Location
+
+Classroom 127 - Sink #2 (From
+Left to Right)
+
+Classroom 127 - Water Fountain
+
+Classroom 127 - Bathroom Sink
+
+Classroom 130 - Sink #1 (From
+Left to Right)
+
+Classroom 130 - Sink #2 (From
+Left to Right)
+
+Classroom 130 - Water Fountain
+
+Classroom 130 - Bathroom Sink
+
+‘Classroom 129 - Sink #1 (From
+Left to Right)
+
+‘Classroom 129 - Sink #2 (From
+Left to Right)
+
+BDL = Helow Detectable Limits
+Liability Limited to Cost of Analysis
+Resutis Applicable to Those lems Tested
+
+ANILA Acereditaion Na.418 Rhode fsland DOW No.AAL-07273 AMtassachusetts DOL. No, A A 000072
+
+Sample Notes.
+
+Water
+
+Water
+
+Water
+
+Water
+
+Water
+
+Water
+
+Water
+
+Watcr
+
+Water
+
+Page 10 of 13
+
+Client: RegCom
+
+245 Albany Avenue
+Thornwood, NY 10594
+
+‘Concentration
+
+0.003 mg/L
+
+0.006 mg/L
+
+BDL < 0.001 mg/L
+
+0.002 mg/L.
+
+0.002 mg/L.
+
+0.001 mg/L
+
+0.002 mg/L
+
+0.008 mg/L
+
+0.002 mg/L
+
+Connecticut DOI No. FII-0622 Maine DEPNo, LA-O24 Vermont DOI No. AAS-2005
+Date Collected:
+Collected By:
+Date Received:
+Date Analyzed:
+Analyzed By:
+Signature:
+Analyte;
+
+Eastern Analytical Services, Inc. AU SE
+Water Sample Report
+
+RE: CPN IRV-1115-16-IH - Irvington UFSD - Dow's Elementary
+
+09/24/2016
+Emest Coon
+09/24/2016
+10/05/2016
+
+Peter P. Argyrakis
+
+Pb Water
+
+Analytical Method: EPA 200.9
+NYS Lab Number: 10851
+
+Sample ID# /
+Lab ID#
+
+DE-92
+2455750
+
+DE-93
+2455751
+
+DE-94
+2455752
+
+DE-95
+2455753
+
+DE-96
+2455754
+
+DE-100
+2455755
+
+DE-101
+2455756
+
+DE-102
+2455757
+
+DE-103
+2455758
+
+Sample Location
+
+Classroom 129 - Water Fountain
+
+Classroom 129 - Bathroom Sink
+
+Administration Bathroom - Sink
+
+Superintendent's Bathroom - Sink
+
+Not Applicable
+
+Boys Bathroom - Sink - High
+
+Near Window
+
+Boys Bathroom - Sink - Low
+Right)
+
+Sink Near Boy's Bathroom
+(Alcove Area) I
+
+Sink Closer to Water Fountain 2
+
+BDL» Below Detectable Limits
+Liabitity Limited to Cast of Analysis
+
+Results Applicable to Those Items Tested
+
+AIIIA Accteditation No. 418 Rhode Island DOW No. AAL-O72T3 Massachusclts DOL No. A A 000072
+
+Sample Notes
+
+Water
+
+Water
+
+Water
+
+Water
+
+Water Blank
+
+Water
+
+Water
+
+‘Water
+
+Water
+
+Client: RegCom
+
+245 Albany Avenue
+Thomwood, NY 10594
+
+Concentration
+
+0.004 mg/L
+
+0.001 mg/L.
+
+BDL < 0.001 mg/L
+
+BDL <6.001 mg/L
+
+0.004 mg/L
+
+0.001 mg/L
+
+BDL < 0.001 mg/L
+
+0.001 mg/L
+
+0.001 mg/L
+
+Connecticut BOI No. PH0622 Maine DEF No, LAG24  Vermons DOI Na. AAS-2095
+Date Collected:
+Collected By:
+Date Received:
+Date Analyzed:
+Analyzed By:
+Signature:
+Analyte:
+
+Eastern Analytical Services, Inc.
+
+Water Sample Report
+RE: CPN IRV-1115-16-IH - Irvington UFSD - Dow's Elementary
+
+09/24/2016
+
+Ernest Coon
+
+09/24/2016
+10/05/2016
+
+Peter P. Argyrakis
+Bia
+
+Pb Water
+
+Analytical Method: EPA 200.9
+NYS Lab Number: 10851
+
+Sample ID#/
+Lab ID#
+
+DE-104
+2455759
+
+DE-105
+2455760
+
+DE-106
+2455761
+
+DE-107
+2455762
+
+DE-L08
+2455763
+
+DE-109
+2455764
+
+DE-110
+2455765
+
+DE-I11
+2455766
+
+DE-112
+2455767
+
+BDL, » Below Detectable Limits
+
+Sample Location
+
+Water Fountain Near Girls
+Bathroom
+
+Girls Restroom - Sink Near
+Window
+
+Girls Restroom - Middle Sink
+
+Girls Restroom - Sink Near Stalls
+
+Ground Floor - Multi-Purpose
+Room - Water Fountain
+
+‘Ground Floor - Boys Bathroom -
+Sink Near Toilet
+
+‘Ground Floor - Boys Bathroom -
+Sink Near Door
+
+‘Ground Floor - Girls Bathroom -
+Sink Near Toilet
+
+‘Ground Floor - Multi-Purpose
+Room - Girls Restroom - Sink
+Near Door
+
+Liabikty Limited to Cout of Analysis
+Results Applicable to Those tems Tested
+AIKA Accreditation No.418 Rhode Island DOW No. AAL-O72T3. Massachusetts DOL Na. A A 000072
+
+Sample Notes
+
+Water
+
+Water
+
+Water
+
+Water
+
+Water
+
+Water
+
+Water
+
+Water
+
+Water
+
+Page 12 of 13
+
+Client: RegCom
+
+245 Albany Avenue
+Thornwood, NY 10594
+
+Concentration
+
+BDL < 0.001 mg/L
+
+0.001 mg/L
+
+0.001 mg/L
+
+BDL < 0.001 mg/L
+
+BDL < 0.00) mg/L
+
+BDL <0.00] mg/L
+
+0.001 mg/L
+
+BDL < 0.001 mg/L
+
+BDL < 0.001 mg/L.
+
+‘Connecticut DOI No. PI-0622 Maine DEM No. LA-G24 Vermont DOI Na. AAS-2095
+Eastern Analytical Services, Inc. Page 13 0f 13
+Water Sample Report
+
+RE: CPN IRV-1115-16-1H - Irvington UFSD - Dow's Elementary
+
+Date Collected: 09/24/2016 Client: RegCom
+Collected By: Ernest Coon 245 Albany Avenue
+Date Received: 09/24/2016 Thornwood, NY 10594
+
+Date Analyzed: —_ 10/05/2016
+Analyzed By: Peter P, Argyrakis
+Signature: Bhagg
+Analyte: Pb Water
+Analytical Method: EPA 200.9
+
+NYS Lab Number: 10851
+
+Sample ID#/ Sample Location Sample Notes Concentration
+Lab ID#
+DE-113 Ground Floor - Cafeteria - Girls ‘Water 0.001 mg/L
+2455768 Bathroom - Sink
+DE-114 Ground Floor - Cafeteria - Boys Water 0.001 mg/L
+2455769 Bathroom - Sink
+DE-LiS Ground Floor - Cafeteria - Water 0.001 mg/L
+2455770 Custodians Bathroom - Sink
+DE-115 Ground Floor - Cafeteria - Kitchen Water 0.048 mg/L
+2455771 Area - Slop Sink with Pot
+
+Cleaning Hose 4
+DE-116 Ground Floor - Cafeteria - Kitchen Water 0.003 mg/L
+2455772 Area - Slop Sink with Pot
+
+Cleaning Hose 3
+DE-117 Ground Floor - Cafeteria - Kitchen ‘Water BDL < 0.001 mg/L
+2455773 Arca - Far Sink with Pot Cleaning
+
+Hose 2
+DE-118 Ground Floor - Cafeteria - Kitchen ‘Water 0.002 mg/L
+2455774 Arca - Small Sink 1
+
+BDL = Below Dewccutble Limits
+Liabity Limited 10 Cost of Analysis
+
+Reaulss Applicable to Those lems Tested
+
+AULA Accreditation No, 418 Rhode Island DOW No. AALO72T3 Masachusetts DOL.No. AA 000072 Connecticut DOH No, PII-0622. Maine DEF No.LA.024 Vermont DOH Na. AAS.2095

@@ -1,0 +1,26 @@
+SOURCE http://www.irvingtonschools.org:80/Policies.html | DATE 2006-08-25 | TITLE New Policies
+
+Policy Book Section 1000: Board Bylaws ~ 12/3/04
+Policy Book Section 2000: Internal Operations ~ 12/3/04
+Policy Book Section 3000: Community Relations ~ 12/9/04
+Policy Book Section 4000: Administration ~ 5/25/06
+Policy Book Section 5000: Business Operations ~ 12/13/05
+Policy Book Section 6000: Personnel ~ 1/12/06
+Policy Book Section 7000: Students ~ 5/25/06
+Policy Book Section 8000: Instruction ~ 6/20/06
+Attendance Policy ~ 10/22/02
+Revised Building Security Policy ~ 10/12/99
+Bullying ~ 6/7/05
+Code of Conduct ~ 6/7/05
+Appointment of Impartial Hearing Officers ~ 6/7/05
+Notification of Sex Offenders ~ 1/4/05
+Sexual Harassment Policy for Employees ~ 12/13/05
+Facilities Usage ~ 12/13/05
+Admission of Non-resident Students ~ 12/13/05
+Sexual Harassment Policy for Students ~ 12/13/05
+Allergens ~ 1/12/06
+Integrated Pest Management ~ 2/7/06
+Wellness ~ 5/25/06
+Duties of Claims Auditors ~ 7/1/06
+Duties of Independent Auditor ~ 7/1/06
+Financial Accountability ~ 5/25/06

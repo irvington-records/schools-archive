@@ -1,0 +1,36 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/goto?open&id=DTVJEH4C5E82 | DATE: 2026-07-07 | TITLE: 2026-27 Reorganization Meeting/Regular Meeting | 17.1 Appointment of Fall 2026/27 Coaches
+
+Meeting: Jul 07, 2026 - 2026-27 Reorganization Meeting/Regular Meeting
+Date: 2026-07-07
+Category: 17. Personnel Matters
+Subject: 17.1 Appointment of Fall 2026/27 Coaches
+Type: Action (Consent)
+
+First Name	Last Name	Sport	Level	Group 	Salary
+Chris	Barry	Cross Country	Varsity Head	Group I	$8,965
+Michael	McQuillan	Cross Country	Varsity Assistant	Group I	$5,828
+Jason	Williams	Cross Country	Varsity Assistant	Group I	$5,828
+Skyler	Mosenthal	Cross Country	Modified Head	Group III	$5,379
+Sarah	Reilly	Cross Country	Modified Assistant	Group III	$4,931
+Arielle	Rodriguez	Field Hockey	Varsity Head	Group I	$8,965
+Jason	Dore	Field Hockey	Modified Head	Group III	$5,379
+James	Madison	Football	Varsity Head	Group I	$10,177
+Michael	Broder	Football	Varsity Assistant	Group I	$5,828
+Neil	Cole	Football	Varsity Assistant	Group I	$5,828
+James	DeRonda	Football	Modified Head	Group III	$5,379
+Andrew	Lund	Football	Modified Assistant	Group III	$5,597
+Zach	Richardson	Football	Modified Assistant	Group III	$4,931
+Christopher	Lombardi	Soccer (Boys)	Varsity Head	Group I	$8,965
+Brendan	O'Sullivan	Soccer (Boys)	Varsity Assistant	Group I	$5,828
+Nick	Johnson	Soccer (Boys)	Junior Varsity Head	Group I	$6,276
+David	Kendall	Soccer (Boys)	Modified Head	Group III	$5,379
+Patrick	DiBenedetto	Soccer (Girls)	Varsity Head	Group I	$8,965
+Randi	Myers	Soccer (Girls)	Varsity Assistant	Group I	$5,828
+Jennifer	Lentini	Swimming (Girls)	Varsity Head	Group II	$8,360
+Gina	Maher	Tennis (Girls)	Varsity Head	Group II	$7,754
+Blake	Guzman	Tennis (Girls)	Junior Varsity Head	Group II	$5,428
+Carol	Labella	Tennis (Girls)	Modified Head	Group III	$5,379
+Cole	Giancuzzi	Unified Flag Football	Varsity Head	Group III	$2,302
+Tony	Hastings	Volleyball (Girls)	Varsity Assistant	Group I	$5,828
+Leano	Monsanto	Volleyball (Girls)	Junior Varsity Head	Group I	$6,276
+Julia	Bretts	Volleyball (Girls)	Modified Head	Group III	$5,379

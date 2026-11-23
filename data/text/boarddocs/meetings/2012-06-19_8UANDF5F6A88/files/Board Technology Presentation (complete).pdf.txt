@@ -1,0 +1,271 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/pfiles/8VEPDC641626/$file/Board%20Technology%20Presentation%20(complete).pdf | DATE: 2012-06-19 | TITLE: Special Meeting - 7:30 p.m. | 4.1 Technology Lease Agreement and Overview of EduTek | Board Technology Presentation (complete).pdf
+
+Irvington UFSD
+  Technology
+    June 19th, 2012
+Campus Presentation Room
+
+Agenda
+ Technology/Data Staffing
+ IT Audit
+ Current Infrastructure
+ 2012/2013 Technology Lease Purchase
+ Future Initiatives
+
+
+
+
+                                        2
+
+Technology/Data Staffing
+            2001-2002                          2011-2012
+
+1.0 Director of Technology         1.0 Technology Coordinator / CIO
+
+0.5 Clerical Support               0.75 Clerical Support / SMS *
+
+1.0 Data Coordinator/SMS           2.0 Tech Support Aides (Level 1)
+
+0.4 BOCES On-Site Support          1.5 Tech Support (Level 2)
+
+3.0 Tech Support Aides (Level 1)
+
+1.5 Tech Support (Level 2)
+
+Total: 7.4 FTE                     Total: 5.25 FTE
+
+
+
+
+                                                                      3
+
+Technology Staffing Roles
+   Technology Coordinator / CIO
+      Technology Coordinator (~50%)
+
+         Oversee Information Technology operations
+
+         Support web applications & educational
+
+          technology
+      Chief Information Officer (~50%)
+
+         Responsible for all data stored in SIS & submitted
+
+          to NYS
+         Ensure certification of data and compliance with
+
+          state regulations
+
+                                                               4
+
+Technology Staffing Roles
+ EduTek
+   On-site personnel
+
+     1.0 Senior Network Administrator
+     0.5 Junior Network Administrator
+
+   Project Executive & Project Manager
+
+   Manage and support desktops and infrastructure
+
+   Provide and manage Help Desk
+
+   Assist with technology budget and procurement
+
+
+
+
+                                                     5
+
+Irvington UFSD IT Audit
+ Performed by Accume Partners
+ Rated on the following areas
+    IT Strategy & Planning
+
+    Outsourced Vendor Management
+
+    Business Continuity
+
+    IT Infrastructure & Maintenance
+
+    Information Security
+
+    Systems Operations
+
+    IT Governance
+
+
+
+                                       6
+
+Accume Partners Report – June 2011
+    Audit Ratings: Significant Issues, Needs Improvement,
+     Adequate/Satisfactory
+    Category                              Rating
+    IT Strategy & Planning                Adequate/Satisfactory
+    Outsourced Vendor Management          Needs Improvement
+    Business Continuity                   Adequate/Satisfactory
+    IT Infrastructure & Maintenance       Adequate/Satisfactory
+    Information Security                  Needs Improvement
+    Systems Operations                    Adequate/Satisfactory
+    IT Governance                         Adequate/Satisfactory
+
+
+
+                                                                  7
+
+Current Infrastructure
+ Bandwidth
+   10 Mbs to the Internet (7/3 split Data/Voice)
+
+   1 Gb from Campus to MSS and Campus to Dows
+
+ Data Security
+   Travels through single firewall
+
+   Passes through TTC (Total Traffic Control)
+
+
+
+
+                                                    8
+
+Irvington Bandwidth Usage
+(March – May 2012)
+
+
+
+
+                            9
+
+Current Bandwidth Comparisons
+      District              Bandwidth     Enrollment
+
+      Irvington             10            1959
+      Yorktown              50            4183
+      Hendrick Hudson       50            2845
+      Ardsley               25 *          2321
+      Croton                50            1685
+      Peekskill             50            3075
+
+
+  Source: Enrollment numbers taken from http://newyorkschools.com
+
+
+                                                                    10
+
+Recommended Bandwidth
+Recommendation from SETDA (State Educational Technology
+Directors Association)
+
+
+
+
+Source: http://www.setda.org/c/document_library/get_file?folderId=353&name=DLFE-1515.pdf
+
+
+
+                                                                                           11
+
+Current Infrastructure
+ Servers
+    Located in Network Operations Center.
+
+    Reduced to 11 physical servers over past four years.
+
+ Workstations
+    Approx. 880 workstations in district (~600 physical)
+
+    Mix of virtualized and stand-alone
+
+                  2008-2009   2009-2010   2010-2011
+       Physical   633         633         602
+       Total      635         727         879
+
+
+
+                                                        12
+
+Virtualization (Workstations)
+
+
+
+
+                                13
+
+2012/2013 Technology Lease
+ Technology equipment purchased on a 5-
+  year deferred lease
+ Pre-2011-2012 Lease Amounts: ~250K
+ Post-2011-2012 Lease Amounts: ~175K
+ 75K reduction = approx. 30% reduction
+
+
+
+
+                                           14
+
+2012-13
+Computer Replacement Cycle
+ 2012-2013 is
+  Phase 3 of our 5
+                                                                    Phase 2 2011-12
+
+  year cycle.                                                    Replaced All HP Dc-7600
+
+
+
+
+                                                                     5 Year Technology
+                                                                     Replacement Cycle                   Phase 3 2012-13
+                          Phase 1 2010-11                                                            Phase 3½2011-2012
+                                                                                                    Replace    of Lenovo Mx 55
+                   Replace all HP DC-5000's and                                                      Replace  All Lenovo
+                                                                                                        (Qty. 150        MX 55
+                                                                                                                   Needed)
+                 finalize K-8 virtualization standard
+
+
+
+
+                                                                                Phase 4
+                                                   Phase 5 2014-15             20013-14
+                                                                         Servers & Infrastructure
+
+
+
+
+                                                                                                                           15
+
+2012-13 Technology Lease Purchase
+Budget Equipment
+ Annual Computer Replacement Cycle Phase 3
+   $97,500
+ Annual Printer/Scanner Replacement Cycles
+   $9,000
+ Annual Projector Replacement / SMART Boards
+   $18,000
+ Replacement Network Switches
+   $8,000
+ Wireless Infrastructure
+   $37,110
+
+                                              16
+
+Future Initiatives
+ BYOD (Bring Your Own Device)
+ Cloud Storage
+ Further Tap Into Areas for Cost Savings
+   Green Power Initiatives
+
+   Paperless Initiatives
+
+   Asset Recovery
+
+
+
+
+                                            17
+

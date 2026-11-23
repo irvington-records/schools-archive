@@ -1,0 +1,1590 @@
+SOURCE https://docs.google.com/presentation/d/1ZxQlEng6Hw-1fPfiR1LuY0NRlqpgYZIUhxTLcqfSmBk/edit | DATE unknown | TITLE [Shared] 40+ ways to use Google Workspace for Education Plus.pdf
+
+40+ ways
+to use Google
+Workspace for
+Education Plus
+goo.gle/use-edu-workspace
+                                                       Companion resources
+
+How to use                                            Explore other resources to
+                                                      help support your institution.
+
+this resource                                         Compare Google Workspace for Education editions
+                                                      Add the enhanced capabilities you need for your institution.
+
+
+                                                      Get started with Google for Education
+                                                      Explore our comprehensive set of resources to get you up and running
+This deck is a selection of popular use cases that    quickly. Get help for Google for Education products, including links to the
+                                                      Help Center, help forums, our partners, and specialized support for IT
+are available if you’re using Google Workspace for    administrators.
+
+Education Plus. These tools can help increase data    Professional development
+security, teacher efficiency, student engagement,     Learning never stops. Explore free-of-charge technology training and
+                                                      resources for educators.
+schoolwide collaboration, and more.
+                                                      100+ ways to use Gemini and Gemini Notebook in education
+                                                      Find expert tips and guidance on how schools can get started with gen AI.
+The deck is organized by feature, followed by
+common use cases and simple how-to
+                                                      View product demos
+instructions for using the feature. Review the full
+                                                      Navigate through each interactive demo to experience the key features of
+deck and see how much you can do with Google          the paid editions of Google Workspace for Education.
+
+Workspace for Education Plus.
+                                                      Stay up to date with product announcements
+                                                      This official feed from the Google Workspace team provides
+                                                      essential information about new features and improvements for
+                                                      Google Workspace customers.
+     Offering summary
+
+
+Customize Google Workspace for Education
+to meet the needs of your institution
+1. Choose an edition for
+                                      Education Fundamentals                             Education Plus
+your entire domain
+
+                             A suite of innovative features and AI-driven       An all-in-one solution with advanced security
+                             tools to create more personalized and engaging     and analytics, premium teaching and learning
+                             learning experiences on a secure platform.         features, and additional AI-driven tools.
+
+
+
+                             Available at no cost for qualifying institutions   $6/year/license (priced for all users in USD)
+
+
+Optional                        Google AI Pro for Education                        Google AI Pro for Education
+2. Provide premium
+                                Workspace Additional Storage                       Workspace Additional Storage
+functionality for specific
+users with add-ons              Endpoint Education Upgrade
+
+                                Teaching and Learning
+Unlock the power of Gemini in
+Workspace with two options
+ Education Plus (and Teaching and Learning add-on)                                                           Google AI Pro for Education (paid add-on)
+
+                           Access to select capabilities                                                        Full access to Gemini in Docs, Slides, Sheets, Forms, Vids,
+                                                                                                                         Workspace Studio, and Classroom, plus:
+
+
+ Helps you visualize             Helps you create                  Helps you write
+                                                                                                              Helps you connect                                  Helps you organize
+
+
+    Google Slides               Google       Google              Google        Gmail*
+                                 Vids        Forms                Docs      (coming soon)
+                                                                                                       Google Meet           Google Chat                             Google Drive
+
+
+
+ Helps you organize              Helps you plan*                Helps you automate*
+                                                                                                                         Expanded access to models and features
+
+
+    Google Sheets                Google Classroom                   Workspace Studio
+
+
+
+
+                       * Available at no cost with all Google Workspace for Education accounts, with advanced capabilities available with Education Plus and select add-ons.
+  Google Workspace for Education add-ons
+
+
+Add premium functionality for specific users
+with Google Workspace for Education add-ons
+
+Teaching and Learning                                           Google AI Pro for Education
+Enhance instructional impact with powerful AI-driven tools      Unleash your potential with our premium AI solution for
+you can rely on. Enrich and personalize learning, create        education, which integrates Gemini into the Google Workspace
+classroom efficiency, and enable teaching and learning from     apps you’re already using every day, like Meet. It also provides
+                                                                expanded access to premium models and features in the Gemini
+anywhere.
+                                                                app and Gemini Notebook.
+
+
+
+
+Endpoint Education Upgrade                                      Workspace additional storage
+Get advanced mobile device management with enhanced             Meet your institution’s storage needs with Google Drive.
+security controls to help you manage devices and laptops that   Purchase as much additional pooled storage as you need – and
+access your institution’s data.                                 easily manage it across your institution.
+Your admin guide to strategic use cases
+with Education Plus
+
+
+
+ Advanced security              Management and controls          Teaching and learning
+                                                                 tool management
+ Protect your education         Use granular management and
+ community with advanced        access controls to easily        Seamlessly manage teaching
+ tools that provide automatic   provision accounts, enforce      and learning tools with flexible
+ protections, centralized       security policies, and monitor   controls that empower you to
+ visibility and controls, and   user activity across your        enable add-ons and tailor
+ powerful analytics.            educational domain.              access for your educators
+                                                                 and students.
+                                                Security dashboard
+
+
+
+
+Advanced
+security                                        Security health page
+
+
+Get more control across your domain with
+proactive security tools that help you defend
+against threats, analyze security incidents,    Investigation tool
+and protect student and faculty data.
+                                               Use cases
+
+                                                Volume of spam
+
+
+
+Security                                        External file sharing
+
+
+
+dashboard                                       Third-party applications
+
+
+                                                Phishing attempt
+What is it?
+The security dashboard is a centralized
+location where you can see an overview of
+your various security reports. By default,
+each security report panel displays data
+from the last seven days. You can
+customize the dashboard to view data
+from today, yesterday, this week, last week,
+this month, last month, or a specific
+number of days ago (up to 180 days).
+Volume of spam                   The security dashboard provides a visual representation
+                                 of activity across your Google Workspace for Education
+                                 environment, including:
+
+                                       Spam                           Suspicious attachments
+
+                                       Phishing                       And more
+I want to be able to control
+                                       Malware
+excessive and unnecessary
+emails while reducing security
+threats for my school.”
+
+
+
+
+                                       Additional resources
+
+                                   ●   About the security dashboard
+External                       Use the file exposure report from the security
+file sharing                   dashboard to see external file sharing metrics for your
+                               domain, including:
+
+                                     Number of sharing events to users outside of your domain for a
+                                     specified time period
+
+                                     Number of views an external file received over a specified time
+                                     period
+I want to see external file
+sharing activity to prevent
+against sensitive data being
+shared with third parties.”
+
+
+
+
+                                     Additional resources
+
+                                 ●   Files exposure report
+Third-party                     Use the OAuth grant activity report from the security
+applications                    dashboard to monitor which third-party applications are
+                                connected to your domain and what data they can access.
+
+                                      Auth grants permission to third-party services to access a user’s
+                                      account information without exposing the user’s password. You
+                                      may want to limit which third-party apps have access.
+
+                                      Use the OAuth grant activity panel to monitor grant activity by
+I want to see the third-party         app, scope, or user and to update grant permissions.
+applications that have access         Manage access to unconfigured third-party apps, review the
+to my domain’s data.”                 third-party apps that users designated as under 18 have
+                                      requested access to, and grant access to apps.
+
+
+
+
+                                      Additional resources
+
+                                  ●   OAuth grant activity report
+                                  ●   Manage access for users under 18
+Phishing attempt                The user reports panel on the security dashboard allows
+                                you to view messages that were flagged as phishing or
+                                spam during a specific time period. You can view
+                                information about emails flagged as phishing, such as
+                                recipients and opens.
+
+                                      User reports allow you to view how users are marking their
+                                      messages – whether they’re spam, not spam, or phishing – for
+Users reported a phishing             a specific time period.
+attempt. I want to be able to         You can customize the graph to provide details about only
+track when the phishing email         certain types of messages – for example, filtering by whether
+                                      the messages were sent internally or externally, by date range,
+came in, what exactly the             and so on.
+email was that my user
+received, and what risk
+they were exposed to.”                Additional resources
+
+                                  ●   How are users marking their emails
+                                  ●   User reports
+                                            Use cases
+
+                                             Security best practices
+
+
+
+Security                                     Recommendations for risk areas
+
+
+
+Health page
+What is it?
+The security health page is a centralized
+location where you can see a
+comprehensive overview of the security
+posture of your Google Workspace
+environment, and it allows you to
+compare your configurations against
+recommendations from Google to
+proactively protect your organization.
+Security best                Open up the security health page to receive
+practices                    best practices on security policies with:
+
+
+                                   Recommendations for potential
+                                   risk areas in your domain
+
+                                   Recommendations on optimal settings
+                                   to increase security effectiveness
+Point me in the direction          Direct links to the settings
+of best practices or               Additional information and support articles
+recommendations on how to
+set up security policies.”
+
+
+
+                                   Additional resources
+
+                               ●   Get started with the security health page
+                               ●   Monitor the health of your security settings
+Recommendations                The security health page reviews your security
+for risk areas                 configuration and flags recommended changes.
+                               On the security health page, you can:
+
+                                     Quickly identify areas of potential risk in your domain
+
+                                     Get recommendations on optimal settings to increase your
+                                     security effectiveness
+
+I want a digestible snapshot         Read additional information and support articles on the
+                                     recommendations
+of my domain’s security
+settings with actionable
+recommendations to address
+potential risk areas.”
+
+
+
+                                     Additional resources
+
+                                 ●   Get started with the security health page
+                                 Use cases
+
+                                 Abusive material sharing      Stopping malicious actors
+
+
+Investigation                    Accidentally shared files     Gaining deeper security insights
+
+
+tool                             Email triage                  Preventing unsupervised virtual
+                                                               meetings
+
+What is it?                      Phishing and malware emails
+
+It’s a tool that helps you to
+identify, triage, and take
+action on security and privacy
+issues in your domain.
+Abusive                             Drive log events within the investigation tool can help you
+material sharing                    find, track, and isolate or delete an undesirable file within
+                                    your domain. By accessing Drive log events data, you can:
+
+                                          Search for documents by name, actor, owner, and more
+
+                                          Take action by changing file permissions or deleting the file
+
+                                          Search content that users create in Google Workspace and
+I know there’s a file containing          content they upload to Drive
+
+abusive material being                    View all of the log information related to that document
+shared. I want to know who                 ● Date of creation
+                                           ● Who owns it, who viewed it, and who edited it
+created it, when it was                    ● When it was shared
+created, who shared it with
+whom, and who made edits
+to it – and I want to delete it.”         Additional resources
+
+                                      ●   Conditions for Drive log events
+                                      ●   Actions for Drive log events
+Accidentally                  Drive log events within the investigation tool can help you
+shared files                  find, track, and isolate or delete an undesirable file within
+                              your domain. By accessing Drive log events data, you can:
+
+                                    Search for documents by name, actor, owner, and more
+
+                                    View all of the log information related to the document,
+                                    including who viewed it and when it was shared
+
+There was a file shared             Take action by changing permissions and disabling
+                                    download, print, and copy
+accidentally with a group
+that should NOT have
+access to it. I want to
+remove their access to it.”
+
+
+                                    Additional resources
+
+                                ●   Conditions for Drive log events
+                                ●   Take action based on search results
+Email triage                     The Gmail logs within the investigation tool can help you
+                                 identify and act on dangerous or abusive emails within your
+                                 domain. By accessing your Gmail logs, you can:
+
+                                       Search for specific emails by subject, message ID, attachment,
+                                       sender, and the like
+
+                                       View email details, including author, recipient, opens,
+                                       and forwards
+Somebody sent an email that
+                                       Take action based on search results – actions on Gmail
+should not have been sent.             messages include delete, restore, mark as spam or
+We want to know who they               phishing, send to inbox, and send to quarantine
+
+sent it to, if the recipients
+opened it, if they responded,
+and we want to delete the              Additional resources
+email. I also want to know the     ●   Conditions for Gmail logs and Gmail messages
+
+content of the email.”             ●
+                                   ●
+                                       Take action based on search results
+                                       Use the investigation tool to view sensitive content
+Phishing and                       Opening the investigation tool, specifically the Gmail logs,
+malware emails                     can help you find and isolate malicious emails within your
+                                   domain. By accessing your Gmail logs, you can:
+
+                                         Search email messages for specific content, including attachments
+
+                                         View information about specific emails, including recipients and opens
+
+                                         View the messages and the thread to determine if they’re malicious
+A phishing or malware email              Scan email attachments for detailed threat context and reputation data
+                                         with VirusTotal reports
+was sent to users. We want to
+                                         Take action by marking messages as spam or phishing,
+see if users clicked on the link         sending to a specific inbox or quarantine, or deleting the
+in the email or downloaded
+the attachment, because
+doing so has potential to                Additional resources
+expose the users and our             ●   Conditions for Gmail logs and Gmail messages
+
+domain to harm.”                     ●
+                                     ●
+                                         Take action based on search results
+                                         Use the investigation tool to view sensitive content
+                                     ●   View VirusTotal reports from the investigation tool
+Stopping                         The user log within the investigation tool can help you:
+malicious actors
+                                       Identify and investigate attempts to hijack user accounts in
+                                       your organization
+
+                                       Monitor which 2-step methods users in your organization are using
+
+                                       Learn more about failed sign-in attempts by users in your organization
+
+A bad actor is constantly              Create activity rules with the investigation tool: Automatically
+                                       block messages and other malicious activities from specific actors
+targeting high-profile users
+                                       Protect high-profile users further with the
+within my domain, while I play         Advanced Protection Program
+whack-a-mole trying to                 Restore or suspend users
+stop them.
+
+How can I stop this?”                  Additional resources
+
+                                   ●   Search and investigate user log events
+                                   ●   Create and manage activity rules
+Gaining deeper                  VirusTotal reports expand on the results of a security
+security insights               investigation by providing a comprehensive overview,
+                                allowing admins to check the security of a particular domain, file
+                                attachment, IP address, or URL based on crowdsourced insights.
+
+
+                                      Gain additional security insights into Gmail and Chrome log events
+
+Students are staying on               Analyze suspicious files, URLs, domains, and IP addresses
+
+Google Meet calls after their         Access crowdsourced details on why an attachment or
+                                      website might be considered risky
+class has ended. I need a
+                                      Get assistance on decision-making as you address
+way to end the Meet call for          security concerns
+
+all everyone to prevent
+learning disruptions.”
+                                      Additional resources
+
+                                  ●   Run a search in the security investigation tool
+                                  ●   View VirusTotal reports from the investigation tool
+Preventing                      Google Workspace administrators can use the End meeting for
+unsupervised                    all action in the investigation tool to remove all users from any
+
+virtual meetings                meeting within your organization. For their individual Google
+                                Meet calls, meeting hosts also have this ability.
+
+
+                                      The meeting will end for all users currently in the meeting, including
+                                      those in breakout rooms
+
+                                      Prevents anyone from attending future instances of
+                                      that meeting without the host being present
+Students are staying on
+Google Meet calls after their
+class has ended. I need a
+way to end the Meet call for
+everyone to prevent learning
+                                      Additional resources
+disruptions.”
+                                  ●   Run a search in the security investigation tool
+                                  ●   View VirusTotal reports from the investigation tool
+                                                 Domain management
+                                                 and controls
+
+
+                                                 Gemini
+
+
+
+
+Management                                       Gemini in Google Workspace
+
+
+
+and controls                                     Gemini in Classroom
+
+
+Use granular management and access
+                                                 Gemini Notebook
+controls to easily provision accounts, enforce
+security policies, and monitor user activity
+                                                 Streamline workflows
+across your educational domain.
+                                                 Data security and
+                                                 compliance controls
+                                           Use cases
+                                           Control access to Google      Manage Microsoft Windows
+                                           services by age               devices
+
+
+
+Domain                                     Create usage dashboards and
+                                           reports
+                                                                         Custom settings for Windows
+                                                                         10 devices
+
+
+management                                 Automatically populate
+                                           department groups
+                                                                         Automate updates for Windows
+                                                                         10 devices
+
+and controls                               Manage endpoint devices
+Admins have access to Google
+Workspace advanced tools to manage
+their organization’s data, set controls,
+and monitor usage.
+Control access to         To make it easier to tailor experiences for your users, you can
+Google services           set access to some Google services based on age. The default
+
+by age                    age-based access setting depends on your institution type.
+
+
+                               Primary and secondary education institutions: All users designated as
+                               under the age of 18 get an age-restricted experience for some
+                               Google services.
+
+                               Higher education institutions: Users designated as 18 and older have
+                               no additional restrictions on Google services. However,
+How can I limit student        administrators in these organizations are required to identify any
+                               users under the age of 18.
+access to certain
+Google tools?”                 Users designated as under the age of 18 have restrictions in
+                               some Google services when they’re signed in to their Google
+                               Workspace for Education account. Also, some services aren’t
+                               available to users under the age of 18.
+
+
+                                Additional resources
+
+                           ●   Control access to Google services by age
+Create usage           With BigQuery export and Data Studio template, admins can
+dashboards             use Classroom activity logs to create custom dashboards and
+
+and reports            reporting with analytics tools like Data Studio and third-party
+                       visualization partners integrated into BigQuery.
+
+
+                            Export Classroom log data from the Admin console to BigQuery and
+                            Data Studio.
+
+                            View usage and adoption reports quickly across your entire domain.
+                            Pinpoint who removed a student from a class, who archived a class
+How can I understand        on a certain date, and more.
+Classroom usage
+                            Understand overarching trends and take action faster with
+across my domain?”          customizable Data Studio dashboard templates.
+
+
+
+
+                             Additional resources
+
+                        ●   Set up BigQuery export and Data Studio template
+Automatically               Dynamic groups allow administrators to update schoolwide
+populate                    group membership with custom criteria.
+
+department groups
+                                 Create dynamic groups that manage membership automatically
+
+                                 Keeps groups up to date based on a membership query you create
+
+                                 Use dynamic groups as:
+
+                                  ●    Email and distribution lists
+                                       Moderated groups and collaborative inboxes
+How can I automate group
+                                  ●
+                                  ●    Security groups
+membership so that every
+time a new educator joins
+our institution, they are
+included in my ‘educator’
+email list?”
+                                  Additional resources
+
+                             ●   Manage membership automatically with dynamic groups
+Manage                           Using enterprise endpoint management can give you more
+endpoint                         control over your organization’s data through mobile devices.
+
+devices                          Restrict mobile device features, require device encryption,
+                                 manage apps on Android devices or iPhones and iPads, and even
+                                 wipe data from a device.
+
+
+                                      You can approve, block, unblock, or delete devices from the
+                                      Admin console.
+
+I need a way to manage and            If someone loses a device or is disenrolled from the school, you can
+                                      wipe their account, their profile, or even all data from their specific
+push policies to all types of         managed mobile device. This data would still be available on a
+devices – iOS, Windows 10,            computer or web browser.
+
+etc. – across my district, not
+just Chromebooks, especially
+                                       Additional resources
+if one is compromised.”
+                                  ●   Manage devices with Google endpoint management
+                                  ●   Set up advanced mobile management
+Manage                     Manage and secure your institution’s Windows 10 devices
+Microsoft                  through the Admin console, just as you do for Android, iOS, and
+
+Windows devices            Chrome devices.
+
+
+                                Enable single sign-on so users can more easily access Google
+                                Workspace on their Windows 10 devices
+
+                                Ensure Windows 10 devices used to access Google Workspace are
+                                updated, secure, and within compliance standards by managing
+                                devices on the Admin console
+Some of my educators use
+                                Wipe a Windows 10 device, push configuration updates to it, and
+Windows 10 devices. How         more from the cloud
+can I manage all of my
+institution’s devices in
+the same place?”
+                                 Additional resources
+
+                            ●   Enable Windows device management
+                            ●   Enroll a device in Windows device management
+Custom                 Using Google’s Windows device management,
+settings for           admins can add custom settings to their fleet’s devices.
+
+Windows 10 devices
+                            Control custom device settings from the Admin console
+
+                            Apply settings across:
+
+                              ●   Device management
+                             ●    Security
+                             ●    Hardware and network
+How can I set up             ●    Software
+Wi-Fi profiles on my         ●    Privacy
+Windows 10 devices?”
+
+
+                             Additional resources
+
+                        ●   Common custom settings for Windows 10 or 11 devices
+                        ●   Add, edit, or delete custom settings for Windows 10 or 11 devices
+Automate                Specify how and when your institution’s Windows 10 devices
+updates for             receive security updates and other important downloads
+
+Windows 10 devices      through the Windows automatic updating service.
+
+
+                             Set up notifications to download updates from the
+                             Windows Update control panel, set hours where update
+                             reboots are not scheduled, and much more
+
+                             Apply settings to your entire institution or to specific
+                             organizational units
+I want to ensure the
+                             Changes can take up to 24 hours, but typically
+Windows 10 devices in        happen more quickly
+my fleet receive the
+latest updates.”
+
+
+                              Additional resources
+
+                         ●   Manage automatic updates for Windows 10 or 11 devices
+                                         Use cases
+
+                                          Control who uses Gemini
+
+
+
+
+Gemini                                    Did you know?
+                                          Schools can access Gemini free of charge with added data protection
+What is it?                               at gemini.google.com.
+                                          By providing AI that is free of charge and equipped with enterprise-grade
+Gemini is your AI-powered assistant
+                                          data protection, Google empowers you to provide your entire education
+for education. Chat with the Gemini       community with industry-leading AI.
+app to brainstorm ideas for planning
+and content, answer questions quickly,
+summarize content and more – all in
+a private and secure environment.
+Control                   Institutions with Education Plus licenses have access to the Gemini app as a
+who uses                  Core Service, which provides additional admin controls and reporting and is
+
+
+Gemini
+                          governed by the Google Workspace for Education Terms of Service. Admins
+                          can determine which users in their domain have access to this tool.
+
+
+
+
+                                Gemini is included with all Google Workspace for Education editions free of charge with
+                                added data protection, and can be accessed at gemini.google.com.
+
+                                Chats and uploaded files are not reviewed by anyone to improve AI models, used to train AI
+                                models, or shared with other users or institutions.
+How can I grant certain
+                                Students of all ages can now use Gemini. Strict content policies prevent users under 18 from
+users access to                 seeing inappropriate or harmful responses.
+
+
+gen AI tools?”                  Gemini onboarding for youth includes an AI literacy video, endorsed by ConnectSafely and
+                                the Family Online Safety Institute (FOSI), with tips on using gen AI responsibly.
+
+
+
+
+                                 Additional resources
+
+                            ●   Turn Gemini on or off
+                            ●   Explore 100+ ways to use Gemini in education for expert tips and guidance
+                                on how schools can getting started with gen AI
+                                       Use cases
+
+                                        Empower classrooms with Gemini in Workspace
+
+
+
+
+Gemini in Google                        Did you know?
+                                        Google Workspace for Education includes access to
+Workspace                               cutting-edge AI tools – like Gemini for Education, Gemini
+                                        Notebook, and Gemini in Classroom – at no cost. Advanced
+                                        capabilities are available with Education Plus and select
+What is it?                             add-ons.
+
+Gemini in Workspace is a generative
+AI integration designed to help
+educators and students save time and
+increase creativity by embedding AI
+capabilities directly into Google’s
+productivity tools.
+Empower                      Generative AI is now integrated directly into the Google Workspace for
+                             Education tools you use every day. Users 18+ with Education Plus or
+classrooms with              Teaching and Learning licenses can now leverage these powerful
+
+Gemini in Workspace          capabilities to draft, refine, and visualize content at no additional cost.
+                             Manage access with granular administrator controls to enable or disable
+                             Gemini for individual Google Workspace apps.
+
+                              Available in Education Fundamentals:
+                                 ● Gemini in Classroom: Get contextual AI for teaching and learning.
+                                 ● Gemini in Gmail: Quickly draft emails and summarize long threads with Help Me Write,
+                                      Suggested Replies, and AI Overviews for email threads.
+
+                              Available in Education Plus and the Teaching and Learning add-on:
+
+How can I help my                ● Gemini in Docs: Create content in seconds with Help Me Write and Gemini in the side panel
+                                      of Docs.
+
+educators remove the             ● Gemini in Slides: Enhance presentations with the ability to create original images and slides
+                                      in the side panel of Slides.
+
+friction of starting from        ● Gemini in Forms: Quickly create forms and see AI summaries of responses.
+                                 ● Gemini in Vids: Create polished videos with a simple text prompt or from existing slides.
+
+blank pages and                  ● Gemini in Sheets: Organize and analyze data with AI custom functions and Gemini in the
+                                      side panel of Sheets.
+
+communicate ideas faster?”
+                                    Additional resources
+
+                               ●   Get started with Google Workspace with Gemini
+                               ●   Premium Google AI for more educators and students
+Manage AI data                Workspace Intelligence provides Gemini with a real-time
+                              understanding of your institution’s work by grounding AI tasks in
+sources with                  your Google Workspace data. Administrators can easily manage
+Workspace                     or restrict access to specific data sources in the Admin console
+
+Intelligence                  to align with district policies.
+
+                                   Granular admin control: Choose which data sources (such as Gmail,
+                                   Drive, Chat, Calendar) Workspace Intelligence can search across your
+                                   domain, specific organizational units, or custom groups.
+
+                                   ON by default: Workspace Intelligence is enabled by default to deliver
+                                   optimal AI performance, but admins retain full toggling controls.
+I want to deploy Gemini
+                                   Strict data privacy: AI responses respect user-level permissions –
+across our domain, but I           users will only see search results and grounded content they already
+need control over which            have explicit access to view.
+
+school data sources – like         Prompt-level flexibility: Even if a source is turned off domain-wide for
+                                   proactive searching, users can still explicitly attach or prompt a specific
+Gmail, Drive, Chat, or             file if needed.
+Calendar – it can search to
+                                    Additional resources
+generate responses.”
+                               ●   Introducing Workspace Intelligence with admin controls
+                               ●   Control Workspace Intelligence for generative AI features
+                                              Use cases
+
+                                               Control who uses Gemini in Classroom
+
+
+
+
+Gemini in                                      Did you know?
+Classroom                                      A revamped educator experience makes it even easier to
+                                               collaborate with Gemini from within Classroom, with a refreshed
+What is it?                                    design for the Gemini tab at classroom.google.com/ai.
+
+Gemini in Classroom is a suite of gen AI
+tools that acts as a collaborative partner,
+supporting educators throughout their
+workflows so they can focus on the art of
+teaching, rather than administrative tasks.
+With access to over 30 Google AI tools,
+educators can quickly go from idea
+to instruction and provide AI learning
+experiences for students.
+Control who        Gemini in Classroom is on by default for users designated as
+uses Gemini        18 years of age and over in your domain. You can switch off
+
+in Classroom       access for the entire domain, or you can restrict access
+                   to certain users.
+
+
+                        Gemini in Classroom is available with all Google Workspace for Education
+                        editions
+
+
+
+How can I adjust
+access to Gemini
+in Classroom?”
+
+
+
+                         Additional resources
+
+                    ●   Manage access to Gemini in Classroom
+                                        Use cases
+
+                                         Control who uses Gemini Notebook
+
+
+
+
+Gemini Notebook                          Did you know?
+                                         Schools can access Gemini Notebook free of charge with added data
+                                         protection at notebook.google.com.
+What is it?
+Gemini Notebook is your personalized
+AI-powered research and thinking
+partner, grounded only in the
+information you provide. Upload your
+sources and Gemini Notebook instantly
+becomes an expert in them.
+Control
+who uses Gemini
+Notebook                      Google Workspace for Education users have access to Gemini Notebook
+                              with data protection – free of charge
+
+                              Gemini Notebook is available to users of all ages
+
+                              Data you enter into Gemini Notebook – including your source uploads,
+                              queries, and responses – is not human-reviewed or used to train AI models
+
+
+How can I manage access
+to Gemini Notebook?”
+
+
+
+
+                               Additional resources
+
+                          ●   Manage access to Gemini Notebook
+                                        Use cases
+
+                                         Approve internal documents
+
+
+
+
+Streamline
+                                         Send signature requests and sign documents
+
+
+
+workflows                                Manage storage across your domain
+
+
+
+Access advanced tools to help you        Find files more easily
+
+streamline internal workflows, better
+                                         Organize documents across your domain
+manage files and storage, and more
+easily get signatures and approvals
+from staff and parents.
+Approve                      With Approvals, your school community can send documents
+internal                     in Google Drive through a formal approval process.
+
+documents
+                                  Reviewers can approve, reject, or leave feedback on the documents
+                                  directly within Drive, Docs, and other Google Workspace apps
+
+                                  Manage approvals on a contract or new hire, approve changes for a
+                                  document before publication, and more
+
+
+
+The science department is
+developing new curriculum.
+
+How can they ensure their
+curriculum proposal is
+approved by all
+department leaders?”               Additional resources
+
+                              ●   Manage approvals
+Send signature             With eSignature, your school community can create documents
+requests and               for signatures and send signature requests right in Google Docs
+
+sign documents             and Google Drive.
+
+
+                                Request and add signatures to official contracts, directly in Docs
+                                or Drive, without having to switch tabs
+
+                                Quickly request signatures, check the status of pending
+                                signatures, and find completed contracts
+
+I want to consolidate my        Create a new copy of the contract for each request so that you
+                                can use your document as a template and initiate multiple
+tech stack. Can I use           eSignature requests.
+Google Workspace to
+manage permission slips,
+contracts, and other
+                                 Additional resources
+forms for my school?”
+                            ●   Send signature requests & sign documents with eSignature
+Manage                  Institutions with Google Workspace for Education have a baseline of 100 TB
+storage across          of pooled storage; that’s enough storage for approximately over 100 million
+
+your domain
+                        documents, 8 million presentations, or 400,000 hours of video. Manage
+                        pooled Drive storage to ensure your institution is using storage effectively.
+
+
+                              Use administrator tools, reporting, and logs to:
+
+                                 ● Understand how much storage you’re using
+                                 ● Set storage limits
+                                 ● Identify accounts that use a disproportionate amount of storage
+
+I want to implement a         The Teaching and Learning add-on and Education Plus offer additional
+                              storage capacity on top of the provided baseline storage:
+new storage
+                                 ● Add 100 GB per license to the shared pool with the Teaching and
+management plan                    Learning add-on
+
+across my domain.”               ● Add 20 GB per license to the shared pool with Education Plus
+
+
+
+                               Additional resources
+
+                          ●   Storage guide for admins                    ●      Free up or get more storage
+                          ●   Understand storage availability and usage ●        Set storage limits
+Find files                   With Cloud Search, educators in your institution can quickly find
+more easily                  content throughout Google Workspace and third-party apps.
+
+
+
+                                  Find the information you need from anywhere, using your laptop,
+                                  mobile phone, or tablet
+
+                                  Search across Google Workspace apps – such as Drive, Contacts,
+                                  and Gmail – and third-party data sources
+
+
+I need to track down
+permission slips
+submitted through
+Gmail, Chat, and Docs.
+
+How can I find these files         Additional resources
+across my domain?”            ●   Cloud Search guide
+                              ●   Turn Cloud Search on or off for users
+Organize                             Drive labels help users find, organize, and apply policies
+documents across                     throughout their domain. Admins can create and manage
+
+your domain                          Drive labels to prevent file misuse and ensure student
+                                     data meets compliance requirements.
+
+
+                                          Labels are metadata that can help organize sensitive education
+                                          files likes IEP, DOD, or compliance documents.
+
+                                          Only admins can create, define the structures of, and publish labels.
+                                          Users in your organization can apply labels to the files they edit and
+I want to apply sensitivity labels        set the field values.
+to my institution’s files to align
+                                          Drive labels can be used to support automated
+with compliance requirements,             data loss prevention.
+
+prevent misuse, and improve
+file organization.”
+
+                                           Additional resources
+
+                                      ●   Manage Drive Labels
+                                      Scan Gmail attachments for threats
+
+
+                                      Safeguard Drive files from ransomeware
+
+
+
+
+Data security
+                                      Create audiences for internal file sharing
+
+
+
+and compliance                        Restrict file sharing
+
+
+
+controls                              Workspace app restrictions
+
+
+Keep your domain’s data protected     Data regulations
+with advanced controls that let you
+scan Gmail for potential threats,     Grant regulations
+manage how your users share files,
+place specific limits on the apps     Leverage client-side encryption
+your users can access, and more.
+                                      Enable data classification labels for Gmail
+
+
+                                      Connect Google Workspace logs with SecOps data connector
+Scan Gmail                 Email attachments can include malicious software. To identify
+attachments                these threats, Gmail can scan attachments in Security Sandbox.
+
+for threats                Attachments identified as threats are sent to the
+                           spam folder.
+
+
+                                Detect malware by virtually “executing” it in a private, secure
+                                sandbox environment and analyzing the side effects to determine
+                                malicious behavior
+
+                                Scan Microsoft Word, PowerPoint, PDF, and ZIP files – and more
+How can I better protect
+my domain against               Enable scanning for the entire domain, or create scanning rules
+                                based on specific conditions like sender, domain, and more
+zero-day malware and
+ransomware threats?”
+
+
+                                 Additional resources
+
+                            ●   Set up rules to detect harmful attachments
+Safeguard Drive                 Drive for desktop acts as a final line of defense. By monitoring
+files from                      file health during the synchronization process, Drive identifies
+
+ransomware                      corrupted or encrypted files before they can compromise your
+                                domain’s storage.
+
+
+                                     Pause file syncing automatically when ransomware is detected on a
+                                     user’s computer
+
+                                     Alert both users and administrators through instant desktop
+                                     notifications and the security center
+How can I stop local
+ransomware from                      Restore multiple files to their previous versions to undo changes
+                                     without paying a ransom
+spreading and damaging
+my institution’s cloud data?”
+
+
+                                      Additional resources
+
+                                 ●   Learn how to use ransomware detection and file restoration for Google Drive
+Create audiences               Target audience settings help improve the security of your
+for internal                   organization’s data by reducing the potential for users to
+
+file sharing                   accidentally overshare files.
+
+
+                                    Ensure files are shared with just the right people, like a specific team
+                                    or department
+
+                                    Target audiences are groups of people that admins can recommend
+                                    users share their items with
+
+My staff is accidentally            Admins can add target audiences to users’ sharing settings to
+                                    encourage sharing with a more specific audience
+sharing documents with our
+                                    Available in Google Drive, Docs, and Chat
+entire organization, putting
+sensitive data at risk.
+
+How can I help limit their           Additional resources
+sharing to a smaller, more      ●   About target audiences                          ●   Create a target audience
+
+relevant group?”                ●   Best practices for deploying target audiences
+Restrict                  Drive trust rules enable admins to set rules to control who can
+file sharing              get access to Google Drive files, helping ensure the privacy of
+                          institutional data. Policies can apply to individual users, groups,
+                          organizational units, and domains.
+
+
+                               Secure sensitive information and maintain compliance with industry
+                               standards and regulations.
+
+                               Restrict internal or external domain sharing, or both. Admins can
+                               create a trust rule to only allow students to share Drive files within
+How can I prevent my           your organization.
+secondary students from
+                               “Trust rules,” once enabled, replace existing “Sharing options” in the
+sharing documents with         Google Drive admin controls.
+
+primary students?”
+
+
+                                Additional resources
+
+                           ●   Create and manage trust rules for Drive sharing
+Google                      Using Context-Aware Access, you can create granular access-control
+Workspace                   policies for Google Workspace and third-party SAML (Security
+
+app restrictions            Assertion Markup Language) apps based on attributes such as user
+                            identity, location, device security status, and IP address. You can even
+                            restrict access to apps from outside the network.
+
+
+                                  You can apply Context-Aware Access policies to the core Google
+                                  Workspace for Education services
+
+                                  For example, only allow access to Google Workspace apps from
+I want to limit access to         institution-issued devices or only allow access to Drive if a user
+specific apps when users          storage device is encrypted
+
+are on our network.”              Set rules for how users and apps can access Google Workspace
+                                  data through Google APIs
+
+
+
+                                   Additional resources
+
+                              ●   Context-Aware Access overview
+                              ●   Assign Context-Aware Access levels to apps
+Data                             As an admin, you can choose to store data in a specific
+regulations                      geographic location, either the United States or UK/Europe, by
+                                 using a data region policy.
+
+
+                                      With Education Plus and Education Standard, you can choose one
+                                      data region for some of your users or assign different data regions
+                                      to specific departments. You can also monitor the progress of data
+                                      region migrations.
+My student, faculty, and staff
+data must remain in the EU            Put users in an organizational unit (OU) to apply the data region
+                                      policy by department, or put them in a configuration group to apply
+due to regulatory laws.”              the policy across or within departments.
+
+                                      Admins can configure US or EU storage and processing controls
+                                      specifically for the Gemini app down to the OU level.
+
+                                      Users who are not assigned an Education Standard or Education
+                                      Plus license are not covered by data region policies.
+
+
+                                       Additional resources
+
+                                  ●   Choose a geographic location for your data
+Grant                         As an administrator, you can choose to store your faculty’s
+regulations                   research in a specific geographic location, either the United
+                              States or Europe, by using a data region policy.
+
+
+                                   Data region policies cover the primary data at rest, including
+                                   backups, for the majority of Google Workspace for Education Core
+                                   Services – listed in this Help Center article
+My faculty’s research must
+                                   Consider the trade-offs before setting a data region policy, as users
+remain in the United States        outside the region where their data is located might experience
+                                   higher latency in some cases
+due to grant regulations.”
+
+
+
+
+                                    Additional resources
+
+                               ●   Choose a geographic location for your data
+Leverage                         Google Workspace already uses the latest cryptographic
+client-side                      standards to encrypt all data at rest and in transit between its
+
+encryption                       facilities. With client-side encryption, admins have direct control
+                                 of encryption keys and the identity provider used to access
+                                 those keys.
+
+
+                                      Use your own encryption keys to encrypt sensitive data, such as
+                                      your institution’s intellectual property
+
+I know Google has the                 Content encryption is handled in your browser before any data is
+                                      transmitted or stored in Google’s cloud-based storage
+highest standards regarding
+                                      Choose which users can create client-side encrypted content and
+data encryption, but I want to        share it internally or externally
+control the encryption keys
+for our university’s
+intellectual property and
+                                       Additional resources
+grant research.”
+                                  ●   About client-side encryption
+Enable data                      Empower admins to define and apply custom data classification
+classification                   labels for Gmail at the app level within the Admin console,
+
+labels for Gmail                 enabling more effective categorization and protection of
+                                 sensitive information.
+
+
+                                      Extended data classification: Admins can now apply data
+                                      classification labels, including custom and existing Drive labels, to
+                                      Gmail for a unified system of data protection
+
+                                      Automated protection and user education: The system uses
+How can I extend my existing          auto-classification and data loss prevention rules to block sensitive
+data classification and               emails and educate users on data protection policies in real time
+
+protection policies to emails,
+ensuring sensitive
+information is automatically
+categorized and secure?”
+                                       Additional resources
+
+                                  ●   About data classification labels
+Connect Google
+Workspace logs              Centralizing your data is the key to a proactive defense. The
+                            Google Workspace SecOps data connector allows you to
+with SecOps data            seamlessly forward activity logs from Gmail, Drive, and Calendar
+
+connector                   into a single, powerful security platform.
+
+
+                                 Correlate activity across your entire IT environment to spot complex
+                                 or coordinated threats
+
+                                 Investigate incidents faster by centralizing all Workspace audit data
+                                 in one searchable location
+How can I better detect
+complex threats and speed        Automate security responses to quickly suspend compromised
+                                 accounts or revoke file access
+up my team’s response to
+security incidents?”
+
+
+                                  Additional resources
+
+                             ●   About Google Workspace SecOps data connector
+                                                Google Classroom
+
+
+
+
+Teaching and
+                                                Originality reports
+
+
+
+
+learning tool                                   Google Meet
+
+
+management                                      Google Workspace LTI™
+Seamlessly manage teaching and learning
+tools with flexible controls that empower you
+to enable add-ons and tailor access for your    Classroom app in Gemini
+
+educators and students.
+                                                                                                                                                      Interoperability
+                                                                                                                                                      and extensibility
+
+                                                                                                                                                                        SIS integrations
+                                                                                                                      Forms
+                                                                                                             Sheets            Vids
+What is it?                                                                                           Docs                              Slides
+                                                                                                                Collaboration and
+                                                                                              Sites               productivity
+Google Classroom is where teaching and learning come together. Paid
+                                                                                     Calendar
+features in Classroom bring classroom tools together in one place to help
+personalize learning and deliver student performance insights faster,          Storage                                                               Plagiarism
+                                                                                                                                                                            Add-ons
+which empowers educators to help students unlock their potential.                                                                                    detection
+                                                                                                                                                                            and APIs
+                                                                                 Drive                                                            Originality reports
+
+
+Use cases                                                                                                                                        Email and
+                                                                            Visibility, analytics,
+                                                                                                                                                 messaging
+                                                                                and access
+                                                                                                                                                      Gmail
+  Manage access to Classroom add-ons                                               Data Studio
+                                                                                                                                                     Groups
+                                                                                         BigQuery
+                                                                                                                                                  Chat
+                                                                                         AppSheet
+                                                                                                                Privacy and security
+  Create classes at scale
+                                                                                                                                                            Device and mobile
+                                                                                                      Admin                             My
+                                                                                                                                      Account            application management
+  Designate users with temporary class access                                                                   Security   Vault
+                                                                                                                 Center
+Manage access               Determine which third-party education apps your institution can access
+to Classroom                with a domain allowlist. Enable educators to easily install add-ons and
+
+add-ons                     include them within student assignments, in just a few clicks.
+
+
+                                  Create an allowlist across your domain to determine which
+                                  third-party apps educators can install from the Google Workspace
+                                  Marketplace.
+
+                                  Support learning outcomes with supplemental education apps.
+                                  Educators can assign, review, and grade right within
+I wish there was                  Google Classroom.
+
+a way for me to provide           The Google Workspace Marketplace includes Turnitin Feedback
+                                  Studio, Quizlet, Adobe Express, BookWidgets, CK-12, Formative,
+single sign-on access             Genially, Google Arts & Culture, IXL, Kahoot!, Nearpod, Newsela,
+to my educators’ favorite         Pear Deck, and more.
+
+EdTech tools.”                     Additional resources
+
+                              ●   Manage Google Workspace Marketplace apps ●   Distribute a Marketplace app to users
+                              ●   Use Classroom add-ons                   ●    Manage Marketplace apps on your
+                                                                               allowlist
+Create                     SIS roster import enables automatic class creation and keeps
+classes                    class lists in sync with your school’s student information system
+
+at scale                   (SIS) with Clever.
+
+
+                                 Available to K-12 districts in the US and Canada using Education Plus
+
+                                 Admins can import class rosters from your SIS into Google Classroom to
+                                 automatically set up classes
+
+                                 Automate and manage class lists in Google Classroom seamlessly
+I need a way to automate
+the setup of classes and
+manage student rosters
+in Google Classroom.”
+
+                                  Additional resources
+
+                             ●   Get started with SIS roster import
+                             ●   Set up SIS roster import through Clever
+Designate users            As an admin, you can give designated users, such as school
+with temporary             administrators or support staff, temporary access to visit classes
+
+class access               in Classroom without having to add them as a permanent teacher
+                           or student to the class.
+
+                                Available to districts using Education Plus
+
+                                Designated users – such as principals, curriculum leaders, coaches, and
+                                school counselors – can temporarily visit a class to support a teacher or
+                                student
+
+I want a way to allow           When designated users visit a class, they can do anything a co-teacher
+                                can do, including view student profiles, post announcements, and more
+a curriculum leader,
+                                Admins can create an admin role with the Manage Classes privilege and
+principal, or substitute        assign it to designated users or security groups – and also restrict
+teacher to visit a class        access to classes by organizational unit
+
+without being made
+                                 Additional resources
+a co-teacher.”
+                            ●   Designate users with temporary class access
+                            ●   Visit a class as an education leader or staff
+                                                   Use cases
+
+                                                    Check originality against past student work
+
+
+
+
+Originality
+reports
+What do they do?
+Originality reports allow educators and students
+to check work for authenticity using Google
+Search to compare a student’s work against
+billions of webpages and over 40 million books.
+With Education Plus or the Teaching and
+Learning add-on, educators get unlimited
+originality reports and the ability to scan
+student submissions against a school-owned
+repository of past student work.
+Check originality      School matches in originality reports enable educators to
+against past           compare student work against past student submissions by
+
+student work           scanning student assignments against your institution’s private
+                       repository of student work.
+
+                            Compare student-to-student matches against current and
+                            previous student work to detect plagiarism with the Teaching and
+                            Learning add-on or Education Plus
+
+                            Student work can be securely stored and backfilled within your
+How can I enable            private school-owned, domain-wide repository
+
+teachers to compare
+a student’s work for
+plagiarism against
+student work from
+                             Additional resources
+past years?”
+                        ●   Turn on originality reports
+                        ●   Turn on school matches for originality reports in Classroom
+Google
+Meet
+                                                 Use cases
+What is it?
+Google Meet is a video conferencing tool with     Broadcast assemblies, school events, and meetings
+advanced features that include live streaming,
+breakout rooms, larger meetings, meeting          Control the Google Meet waiting room
+recordings, and more.
+Broadcast assemblies, Live stream to up to 100,000 viewers with Education Plus.
+school events,        Participants can join by selecting the live stream link provided by
+and meetings          the organizer in an email or Calendar invite.
+
+
+                                              Determine how broadly your live stream will be shared. Choose whether the stream is:
+                                                  ● Only visible to users in your organization (in-domain)
+                                                  ● Shared with other trusted Google Workspace domains
+                                                  ● Available to watch with YouTube
+
+
+We need the ability to live                   It’s recommended that IT admins enable live streaming for only faculty and staff
+
+
+stream our staff and faculty                  If a user misses the live stream, they can access the replay after the meeting is
+                                              completed
+meetings to a broad group of                  Add captions, polls, and Q&A to a live stream to increase inclusivity and engagement
+
+stakeholders and parents.”
+
+                                               Additional resources
+
+                                          ●   Turn live streaming on or off for Meet
+                                          ●   Live stream a video meeting
+Control the             Utilize a waiting room to fully manage attendee entry, including
+Google Meet             the power to push and pull individuals in and out. Configure all
+
+waiting room            attendees to enter the waiting room before joining the main call.
+
+                             Secure your meeting start by holding all participants – even those
+                             on the calendar invite – in a virtual lobby until a host or co-host is
+                             ready to admit them.
+
+                             Admit with precision by bringing in guests one-by-one for private
+                             check-ins or using the "Bring everyone in" feature to transition the
+                             entire group at once.
+We need the ability
+                             Communicate with those waiting by sending one-way chat
+to control the entry         messages from the main room to the lobby to provide updates,
+                             agendas, or expected start times.
+and exit of attendees
+with the Google              Manage transitions mid-call by moving participants back to the
+                             waiting room if they've joined too early or if you need to revert to
+Meet waiting room.”          a private host-only discussion.
+
+
+                              Additional resources
+
+                         ●   Use waiting rooms in Google Meet
+                                                    Use cases
+
+                                                     Use Google Workspace and AI tools in your LMS
+
+
+
+
+Google                                                                                                                LTI
+Workspace LTI®                                                             Turn on Google Workspace LTI
+What is it?                                                                                Admin
+
+Google Workspace LTI™ brings the
+collaborative power of Workspace to your              Classroom             Video
+learning management system (LMS). Integrate          collaboration       conferencing               Storage                      AI
+Google Drive, Meet, Assignments, and AI               Assignments LTI         Meet LTI                 Drive LTI               Gemini LTI
+solutions like the Gemini app and Gemini
+Notebook directly into your existing LMS platform
+using Workspace LTI – free of charge.
+
+Schools with Education Plus and the Teaching
+and Learning add-on get additional capabilities
+within Google Workspace LTI. To use, admins
+must enable access to Google Workspace LTI.
+
+                                                                                LTI® is a trademark of the 1EdTech® Consortium, Inc. (1edtech.org)
+Use Google                                                           Google Workspace Learning Tools Interoperability® (LTI) is a
+                                                                     collection of free-of-charge applications that securely integrate
+Workspace LTI®                                                       Google Workspace and AI tools with learning management systems.
+
+tools in your LMS                                                         Assignments LTI: Save time distributing, grading, and analyzing student
+                                                                          work with Assignments LTI™. Ensure authenticity with originality reports and
+                                                                          grade consistently and transparently with rubrics integrated into
+                                                                          assignments.
+
+                                                                          Google Meet LTI: Stay connected with Meet, providing easy-to-use, reliable,
+                                                                          and secure video conferencing. Host a class or faculty meeting right within
+                                                                          your LMS platforms – with just one click.
+
+Our school wants to                                                       Gemini LTI: Gemini is an AI-powered assistant that can help you save time,
+                                                                          create captivating learning experiences, and learn confidently. Gemini LTI™
+access Gemini and Google                                                  brings a collection of product experiences powered by Gemini – like the
+Workspace tools directly                                                  Gemini app and Gemini Notebook – into your LMS.
+
+within our LMS.”                                                          Google Drive LTI: Facilitate teaching, learning, and collaboration by easily
+                                                                          attaching Drive files – like Docs, Slides, and Sheets – directly in your LMS.
+
+
+                                                                           Additional resources
+
+                                                                      ●   Learn how to turn on Google Workspace LTITM   ●   Learn about Gemini LTI™
+                                                                      ●   Admins: Set up Google Meet LTI™               ●   About Assignments LTITM
+LTI® is a trademark of the 1EdTech® Consortium, Inc. (1edtech.org)                               TM
+                                                                      ●   Admins: Set up Drive LTI
+                                               Use cases
+
+                                                Manage access to the Google Classroom app in Gemini
+
+
+
+
+Classroom app
+in Gemini
+What is it?
+The Google Classroom app in Gemini
+enables educators to reference live class
+context – such as assignments, grades,
+and course materials – directly within
+Gemini to analyze student progress and
+quickly draft tailored activities. Access is
+governed through a central control setting
+in the Admin console.
+Manage access
+to the Google                     The Classroom app in Gemini allows educators (and students 18+)
+                                  to bring real classroom context – such as assignments,
+Classroom app                     announcements, and student submission status – directly into
+                                  Gemini using @Classroom prompts.
+in Gemini
+                                       Central admin control: Access is managed through a dedicated
+                                       Classroom app toggle under the Gemini section of the Admin console,
+                                       allowing admins to turn the feature on or off domain-wide or by
+                                       organizational unit.
+
+Our teachers want Gemini to            Actionable context for teachers: Educators can instantly draft
+                                       differentiated assignments, summarize who has turned in work, or
+understand their class context         analyze learning trends based on class history.
+to draft materials and                 Built-in safety and guardrails: Gemini cannot perform destructive
+summarize student progress,            actions. It cannot delete classes, post live announcements (only drafts),
+                                       or modify grades directly.
+but I need central control over
+who can connect Gemini to               Additional resources
+Google Classroom.”                 ●   Ask about your Google Classroom assignments, classes & more in Gemini Apps
+                                   ●   Turn apps in Gemini on or off
+                                   ●   Use apps connected to Gemini with a work or school Google Account
+Thank you

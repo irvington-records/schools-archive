@@ -1,0 +1,22 @@
+SOURCE http://www.irvingtonschools.org:80/soccer.html | DATE 2002-12-30 | TITLE Soccer
+
+Varsity/Junior Varsity Sports Fall 2002
+Varsity Coach: Bill Otivich
+| DATE | OPPONENT | TIME | 
+| Sept. 9 | Rye Neck | 4:30 PM | 
+| Sept. 13 | at Woodlands | 4:30 PM | 
+| Sept. 17 | at Valhalla | 4:30 PM | 
+| Sept. 19 | at Briarcliff | 4:30 PM | 
+| Sept. 22 | Huzinec Tournament vs. North Salem | 1:00 PM | 
+| Sept. 22 | Huzinec Tournament vs. Dobbs Ferry | 3:00 PM | 
+| Sept. 23 | at Pleasantville | 4:30 PM | 
+| Sept. 25 | at Croton-Harmon | 4:30 PM | 
+| Sept. 27 | Haldane | 4:30 PM | 
+| Sept. 29 | Huzinec Tournament | 1:00 PM or 3:00 PM | 
+| Oct. 1 | Westlake | 4:30 PM | 
+| Oct. 3 | Briarcliff | 7:00 PM | 
+| Oct. 7 | Pleasantville | 4:30 PM | 
+| Oct. 9 | Croton-Harmon | 4:30 PM | 
+| Oct. 11 | at Haldane | 4:30 PM | 
+| Oct. 15 | at Hastings | 4:30 PM | 
+| Oct. 16 | at Westlake | 4:30 PM |

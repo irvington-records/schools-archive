@@ -1,0 +1,119 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/goto?open&id=8ULJPS4DC89F | DATE: 2012-06-05 | TITLE: Regular Meeting - AMENDED AGENDA | 14 Budget Transfers
+
+Meeting: Jun 05, 2012 - Regular Meeting - AMENDED AGENDA
+Date: 2012-06-05
+Category: 9 Business Office Matters
+Subject: 14 Budget Transfers
+Type: Action (Consent)
+
+Budget Transfer 2011/12-24     5/11/12 -Payroll
+
+	     Credit A1240-150 (Chief School Adm.-Salary)                           $900 ( Dr. Harrison)
+
+	     Debit  A1240-160 (C.S.A.-Non-Instruct Salaries)                       $900
+
+	     Credit A1620-161-00-0001(Cust. OT-Recreation)                      $392
+
+	     Debit  A1240-160 (C.S.A. - Non-Instruct Salaries)                     $392
+
+	     Credit A1620-163 (Cust/Cleaners- Substitutes)                         $1,248
+
+	     Debit  A1240-160 (C.S.A. - Non-Instruct. Salaries)                    $1,248
+
+	     Credit A2020-150 (Supervision-Instruct. salaries)                     $10,152 (merit pay -new Adm. Contract)
+
+	     Debit  A1980-400 (MTA payroll tax)                                            $10,152
+
+	     Credit A2110-130 (7-12 Instruct. salaries)                                  $10,027 (Teach. course reimb./lane chg)
+
+	     Debit  A1980-400 (MTA payroll tax                                              $10,027
+
+	     Credit A2250-150-00-0001 (Spec. Ed. salaries-CSE Chair)        $6,000 ( merit pay - new Adm. Contract)
+
+	     Debit  A2250-471 (Spec. Ed. Tuition- NYS Public Schs)              $6,000
+
+	     Credit A2250-150 (Spec. Ed - Instruct. Salaries)                        $6,826 (Course reimburse & leave replace)
+
+	     Debit  A2250-471 (Spec. Ed. Tuition - NYS Public Schs)             $6,826
+
+	     Credit A2250-160 (Spec. Ed - Non-Instruct Salaries)                  $11,980 (Aide went to FT & sub-clerical)
+
+	     Debit  A2250-471 (Spec. Ed. Tuition - NYS Public Schs)             $11,980
+
+	This transfer is to cover payroll expenses.
+
+	Budget Transfer 2011/12-25
+
+	     Credit A1420-400-00-0004 (Legal-Construction)                          $25,000
+
+	     Debit  A1420-400-00-0006 (Legal-Spec. Ed)                                $25,000
+
+	This transfer is to cover Keane & Beane legal services for Capstone lawsuit.
+
+	Budget Transfer 2011/12-26
+
+	     Credit A2250-470 (Spec. Ed.Tuition-Special Schools)                 $25,486
+
+	     Debit  A2250-471 (Spec. Ed. Tuition - NYS Public Schs)             $25,486
+
+	This transfer is to cover tuition for a special ed. student at the NY Institute for Special Ed.
+
+	Budget Transfer 2011/12-27
+
+	     Credit A9901-950 (transfer to Special Aid Fund)                        $15,500
+
+	     Debit  A2250-471 (Spec. Ed. Tuition - NYS Public Schs)            $15,500
+
+	This transfer is to cover District portion of Handicap Summer 2011 expenses-additional students.
+
+	Budget Transfer 2011/12-28
+
+	     Credit A2020-490-40-7000 (Prof. Devel. BOCES)                      $121 (Curriculum Development)
+
+	     Debit  A2010-490-00-0000 (Curr. BOCES)                                 $121
+
+	     Credit A2110-490-00-0001 (BOCES-Arts In Ed)                         $19,834 (Arts in Ed Programs)
+
+	     Debit  A1420-400-00-0006 (Legal-Special Ed.)                          $19,834
+
+	Budget Transfer 2011/12-29      5/25/12 Payroll
+
+	     Credit A1040-160 (District Clerk-Salary)                                     $300 (Deputy District Clerk Stipend)
+
+	     Debit  A1060-450 (District Meeting-Supplies)                              $300
+
+	     Credit A1240-150 (Chief Sch. Adm. Salary)                                $900 (Dr. Harrison)
+
+	     Debit  A1240-160 (C.S.A.-Non-Instr. Salaries)                            $900
+
+	     Credit A1620-161-00-0001 (Cust. Ot/Recreation)                       $422 (Custodian OT)
+
+	     Debit  A1620-160-00-0000 (Plant Operation- Salaries)               $422
+
+	     Credit A1620-163 (Cust/Cleaner-Substitutes)                             $832 (Sub-Cleaners)
+
+	     Debit  A1620-160 (Plant Operation - Salaries)                             $832
+
+	     Credit A2020-150 (Supervision-Instr. Salaries)                           $4,000 (HS -Asst. Principal)
+
+	     Debit  A1620-160 (Plant Operation - Salaries)                             $4,000
+
+	     Credit A2110-127-00-7000 (4-6 Curr. Dev.)                                 $106 (Curriculum Work)
+
+	     Debit  A1620-160 (Plant Operation - Salaries)                             $106
+
+	     Credit A2110-130 (7-12 Instr. Salaries)                                        $7,375 (6th Period classes)
+
+	     Debit  A1620-160 (Plant Operation - Salaries)                             $7,375
+
+	     Credit A2250-150 (Spec. Ed. - Instr. Salaries)                             $15,875 (6th Periods & Leave Replace)
+
+	     Debit  A1620-160 (Plant Operation- Salaries)                              $15,875
+
+	     Credit A2250-160 (Spec. Ed - Non-Instr. Salaries)                      $1,329 (Part Time Aides - Extra hours)
+
+	     Debit  A1620-160 (Plant Operation - Salaries)                             $1,329
+
+	     Credit A2850-150 (Co- Curricular - Instr. Salaries)                      $6,285 (Club Stipends)
+
+	     Debit  A1620-160 (Plant Operation - Salaries)                             $6,285

@@ -1,0 +1,153 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/pfiles/9HDU5761FB6A/$file/Landfill%20Disturbance%20031111.pdf | DATE: 2014-03-20 | TITLE: Special Meeting - 7:00 PM | 3.2 Adoption of East Field Remedial Option | Landfill Disturbance 031111.pdf
+
+          New York State Dept. of Environmental Conservation/Region 3 Office/Solid Waste Program
+               Information Required for Department Approval of a Landfill Disturbance Plan
+                                         March 11, 2011
+           ‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐
+Disclaimer:
+
+The following was prepared by staff to assist property owners, developers or consultants in submitting
+information to support a request for a determination by the Department regarding eligibility for exemption from
+Part 360 regulations for projects which involve disturbance of old inactive landfills. This is not official
+Department guidance and has no bearing on how the regulations will be interpreted in a particular case, nor
+does it preclude the Department from requesting additional information.
+
+Applicability and Background Information:
+
+The following is a generalized summary of provisions from New York State’s (6 NYCRR Part 360) Solid
+Waste Management Facilities Regulations which apply to activities involving disturbance of old inactive solid
+waste landfills including, but not limited to, the excavation and relocation of solid waste as part of a
+construction project. The term “old landfill” and the applicability of this guidance is limited to landfills which
+ceased operation prior to December 31, 1988, are not subject to a permit or Order on Consent and do not have a
+Department-approved landfill closure plan. Disturbances or construction activities involving landfills which
+were closed in accordance with a Department-approved closure plan require Department approval of a
+modification to the closure plan and may require modification of the consent order. This guidance does not
+apply to landfills which are listed on the New York State Registry of Inactive Hazardous Waste Disposal Sites.
+
+360-1.5(a) requires that solid waste be disposed of only at a facility authorized by a Department-issued permit
+or registration, a facility authorized by a Department or Court-issued Order, or at a facility exempt from the
+regulations.
+
+360-1.2(a) defines the terms “solid waste” and “disposal” broadly enough to include the relocation or
+replacement of solid waste which has been excavated from an inactive landfill and is subsequently replaced or
+re-deposited either within or outside of the original landfill footprint.
+
+360-1.7(b)(9) exempts disposal of solid waste from a non-hazardous inactive landfill which has been excavated
+as part of a construction project and is being returned to the same excavation or other excavations containing
+similar solid waste or otherwise relocated within the landfill's existing footprint, provided the handling,
+relocation and disposal practices are deemed acceptable to the department in writing in advance.
+
+The Department’s “Transition Rules”, which are prescribed at 360-1.7(a)(3), generally require that inactive
+landfills comply with the closure requirements which were in effect at the time that the landfill ceased
+operation. Starting with the initial promulgation of State-wide solid waste regulations on January 1, 1963,
+landfill closure requirements have evolved and become more stringent over time. Application of the transition
+rules to a specific landfill is a case-by case determination which requires specific knowledge of the landfill’s
+history, design and construction. In general, inactive landfills are subject to Department regulation in cases
+where the landfill is disturbed or in cases where inspection reveals exposed solid waste, leachate discharges,
+impacts to water quality or other impacts to public health or environmental quality.
+
+Construction projects or post-closure uses which involve residences or other enclosed structures on or near a
+landfill, water supply wells in the vicinity of a landfill, utility or infrastructure encroaching on the landfill
+footprint, or public access to a landfill site raise special concerns with respect to environmental quality, public
+
+                                                                           1
+
+           New York State Dept. of Environmental Conservation/Region 3 Office/Solid Waste Program
+                Information Required for Department Approval of a Landfill Disturbance Plan
+                                          March 11, 2011
+             ‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐
+health and public safety which must be considered and addressed as part of any project involving disturbance of
+an inactive landfill.
+
+This attached form and plan outline were developed by Department staff to assist landfill owners and site
+developers in preparation of a landfill disturbance/waste handling, relocation & disposal plan which can be
+approved by the Department pursuant to 360-1.7(b)(9).
+
+---------------------------------------------------------------------------------------------------------------------------------
+
+Part A – Landfill Information:
+
+1. County:                                                       2. Municipality
+
+3. Tax ID:                                                        4. GPS Coordinates:
+
+5. Period of Operation:                                                                               6. Size (acres):
+
+7. Type of wastes accepted (check all that apply):    household waste    commercial waste
+    industrial waste     construction & demolition debris     yard waste
+    others- specify:
+
+8. Current Owner:      Corporation/Company                                Municipality              Government Agency
+    Private Individual    Other- specify:
+
+9. Owner Name & Address:
+
+10. Owner at the time of landfill operation:                       same as above _
+   other – specify:
+
+11. Present Condition of the Landfill (Check all that apply):
+
+a) Landfill capped            Y         N Cap completion date:                               c) Exposed waste present                    Y        N
+
+c) Type of cap:      soil only                 compacted clay                 geomembrane                 pavement
+    other – specify:
+
+d) Cap vegetated:              Y         N       e) Signs of Erosion Present                   Y           N
+
+f) Landfill Gas Management:                      None            Passive Vents                  Flares           Gas Recovery
+      Other – specify:
+
+g) Leachate collection system present                      Y          N
+
+h) Uncontrolled leachate discharges                    Y          N
+
+
+                                                                             2
+
+          New York State Dept. of Environmental Conservation/Region 3 Office/Solid Waste Program
+               Information Required for Department Approval of a Landfill Disturbance Plan
+                                         March 11, 2011
+           ‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐
+
+Part A – Landfill Information (continued)
+
+12. Have chemical tests been conducted to characterize contaminant types and levels in the waste ?
+     Y           N. If yes, attach a sampling report including a description of the sample collection and testing
+methods, a table summarizing the results, a site plan showing sampling locations and a copy of the laboratory
+analytical data package.
+
+
+Part B – Outline of Requirements for the Landfill Disturbance/Waste Handling, Relocation & Disposal Plan
+
+1. Describe the nature of the project including anticipated use of the site after the project is completed.
+
+2. If solid waste will be disposed of off-site, identify the disposal facility(s).
+
+3. If any of the solid waste will be left on site after completion of the project, describe the type and thickness
+of cover material and/or other measures that will be taken to prevent human or environmental exposure to
+contamination associated with the solid waste as well as leachate, dust and landfill gases. Describe what
+measures will be taken to address potential risks for health and safety both during site development and as a
+result of site use after the project is completed.
+
+4. Attach a site plan showing the original waste limits and the final limits of waste after project completion in
+relation to property boundaries, buildings, roads, water bodies, water supply wells, onsite wastewater disposal
+systems, sewers or other utilities and any other features which may impact or be impacted by the landfill.
+
+5. Attach a copy of the notice which will be affixed to the property deed to ensure that all future owners of the
+property are aware of the presence of the landfill and any landfill-related requirements or restrictions which
+apply to use of the property. Deed notices must make clear and unambiguous reference to the presence of solid
+waste on the property and should not refer to solid waste using vague or misleading terms such a “soil”,
+“material” or “fill material”.
+
+6. For projects involving construction of a residence or other enclosed structure within the boundaries of a
+landfill, attach a certification signed and sealed by a professional engineer, licensed in the State of New York
+which indicates that the special concerns which arise from construction on a landfill have been evaluated and
+addressed in the site development plan.
+
+7. Additional information as requested by the Department on a case-specific basis.
+
+
+
+
+                                                                           3
+

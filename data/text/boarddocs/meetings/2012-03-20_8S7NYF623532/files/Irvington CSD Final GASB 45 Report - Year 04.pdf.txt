@@ -1,0 +1,1263 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/pfiles/8SJQ5J67A2DA/$file/Irvington%20CSD%20Final%20GASB%2045%20Report%20-%20Year%2004.pdf | DATE: 2012-03-20 | TITLE: Audit Committee of the Irvington Union Free School District | 2.1 Report of GASB 45 as of July 1, 2011 | Irvington CSD Final GASB 45 Report - Year 04.pdf
+
+Irvington Union Free School District
+     Actuarial Valuation Postretirement Benefits
+               (GASB 45) as of July 1, 2011
+With Estimated Disclosures for the Year Ended June 30, 2012
+
+       (Roll Forward using the July 1, 2010 Census)
+
+
+
+
+                             Prepared by: Questar III - BOCES
+
+                                     TABLE OF CONTENTS
+
+                                                                                                                    PAGE
+
+SECTION I -     Executive Summary.......................................................................... 1
+
+SECTION II -    Certification ..................................................................................... 3
+
+SECTION III -   Notes to Financial Statements ........................................................... 4
+
+SECTION IV -    Development of Annual OPEB Expense .............................................. 6
+
+SECTION V -     Census Information .......................................................................... 8
+
+SECTION VI -    Assumptions and Methodology ........................................................ 11
+
+SECTION VII -   Plan Provisions............................................................................... 13
+
+Appendix 1 -    Illustration of Per Capita Costs ........................................................ 14
+
+Appendix 2 -    Additional Information on GASB 45 ................................................. 15
+
+Appendix 3 -    Glossary of Terms .......................................................................... 20
+
+Appendix 4 -    Comments for Auditor and the Preparer of the Financial Statements . 24
+
+Appendix 5 -    Sample Footnotes for Financial Statement Preparation (Estimated) ... 25
+
+Appendix 6 -    Supplemental Schedule SS-2 (Estimated) ........................................ 27
+
+SECTION I -            Executive Summary
+Introduction
+The Irvington Union Free School District is required to prepare its financial statements in
+accordance with accounting principles generally accepted in the United States. Accordingly, the
+school district is required to disclose its obligations for post employment benefits. In addition to
+pensions, these benefits include health insurance paid on behalf of retirees. Guidance for the
+disclosure required is contained in Governmental Accounting Standards Board Statement No. 45
+- “Accounting and Financial Reporting by Employers for Post-Employment Benefits Other than
+Pensions” (GASB No. 45). This report has been prepared to determine the future obligations of
+the Irvington Union Free School District and provide the information necessary to be included in
+the financial statements to satisfy the reporting and disclosure requirements as set forth in
+GASB No. 45.
+
+Summary of Results
+The following table displays the most important items derived from the July 1, 2011 valuation
+that are necessary for required GASB 45 disclosure.
+
+                                Disclosures                                           Valuation
+    Present Value of Future Benefits Payments                                        $101,796,613
+    Unfunded Actuarial Accrued Liability (UAAL)                                       $66,168,837
+    Annual Required Contribution (ARC)                                                 $7,045,065
+    Expected Benefit Payments for Fiscal Year Ended June 30, 2012                      $1,459,239
+    Increase in Net OPEB Obligation in Fiscal Year                                     $5,304,190
+    Net OPEB Obligation (NOO) as of June 30, 2012                                     $22,161,508
+
+                 Appendix 3 contains an explanation of these Disclosure items.
+
+The UAAL and participant count by benefit group is as follows:
+           Group                       Liability                           Count
+    Active                                $44,086,821                                 271
+    Retired                               $22,082,016                                 135
+    Total                                 $66,168,837                                 406
+
+Benefit Provisions
+The Irvington Union Free School District provides medical and Medicare Part B benefits to its
+retired employees and their spouses. Employees are eligible for these benefits upon retirement
+at age 55 or over with 5 to 10 years of service.
+
+The school district pays from 0% to 10% of the cost for individual coverage and 0% to 10% of
+the cost of their spouse or dependent coverage. The school district pays the entire cost of the
+Medicare part B premium for both the retiree and spouse.
+
+Surviving spouses will continue to receive benefits after the death of the retired employee.
+
+
+
+
+                                                 1
+
+Economic Assumptions:
+The employer, with the approval of the auditor, is responsible for selecting the economic
+assumptions as of the disclosure date. The following table details the selected economic
+assumptions for the current fiscal year:
+   Census Collection Date ............................................................................. July 1, 2010
+   Assumption Selection Date ....................................................................... July 1, 2011
+   Funding Interest Rate* .................................................................................... 4.00%
+   06/30/2012 Medical Cost Trend Rate ................................................................. 8.50%
+   Ultimate Medical Cost Trend Rate ..................................................................... 5.00%
+   Fiscal year Ultimate Medical Trend Rate Reached ....................................... 06/30/2017
+   Actuarial Cost Method .........................................................Projected Unit Credit (PUC)
+    * Reflects current funding policy (assumes no funding / pay-as-you-go funding).
+    Increasing the interest rate by 1% will decrease the liability by 16.87%.
+
+Changes included in current valuation:
+    1. Current year premiums were used for per capita costs.
+    2. Inflation factors (trends) were moved forward one year and the first year trend rate was
+       changed to better reflect anticipated experience.
+    3. Retirement and termination probabilities for Tier 2, 3, and 4 were adjusted to reflect the
+       most recent figures used in the NYS ERS and TRS annual reports.
+    4. Retirement probabilities have been included to reflect expectations for the Tier 5 groups.
+
+
+
+
+                                                         2
+
+SECTION II - Certification
+                               Actuarial Certification
+
+The financial results of the actuarial valuation are summarized in this report. The
+valuation has been prepared as of July 1, 2011. The detail charts included in this
+Executive Summary highlight the results of the valuation. Additional information
+summarizing the census, actuarial assumptions, plan provisions, and a glossary of
+selected terms used in this study are also included in this report.
+
+The valuation is based on the July 1, 2010 census data and plan information as
+provided by the employer. We have reviewed both the census and financial data for
+reasonableness, but have not completed an independent audit of the information.
+
+All costs, liabilities, and other factors under the plan were determined in accordance
+with generally accepted actuarial principles and procedures. The calculations are
+consistent and undertaken with our understanding of Statement of Governmental
+Accounting Standards Number 45 (GAS 45). In our opinion, the actuarial assumptions
+are reasonable, taking into account the experience of the plan and reasonable
+expectations and, individually represent our best estimate of the anticipated experience
+under the plan.
+
+I have no relationship with the employer or the plan that would objectively impair, or
+appear to impair, my ability to perform the work detailed in this report.
+
+I certify that I am member of the American Academy of Actuaries and meet its
+Qualification Standards to provide an actuarial opinion in accordance with GASB 45.
+
+
+
+
+                                                            February 6, 2012
+
+
+
+
+                                           4
+
+SECTION III - Notes to Financial Statements
+The GASB standard on accounting for postretirement benefits other than pensions
+requires the following disclosures in the financial statements with regard to the retiree
+benefit liability:
+
+1. A Brief Description of the Retiree Medical Plan:
+
+        a.     Plan Types:                           The school district provides medical benefits to its
+                                                     eligible retirees. The school reimburses the retiree
+                                                     and dependent for the cost of enrolling in Medicare
+                                                     Part B. The benefits are provided through fully
+                                                     insured plans that are sponsored by a regional
+                                                     health insurance consortium.
+
+        b.     Eligibility:                          Employees are required to reach age 55 and have 5
+                                                     to 10 years of service to qualify for OPEB. See
+                                                     discussion beginning on page 13 for eligibility
+                                                     requirements for each employee group.
+
+        c.     Benefit Cost Sharing:                 The school district pays from 0% to 10% of the
+                                                     retiree’s medical benefits depending on the
+                                                     employee group.
+
+        d.     Spouse Benefit:                       The school district contributes towards the cost of
+                                                     eligible spouses during the retiree’s lifetime. The
+                                                     district will pay 0% to 10% of the cost of the
+                                                     benefits depending on the employee group.
+
+        e.     Medicare Part B:                      The school district pays 100% of the cost for
+                                                     Medicare Part B for employees that are eligible for
+                                                     this benefit.
+        f.     Surviving Spouse Benefit:             Surviving spouses will continue to receive benefits
+                                                     after the death of the retired employee.
+
+        g.     Annual Premiums for
+               Retirees effective as of July
+               1, 2011:1                                  Coverage               SWSCHP          Oxford
+                                                     Pre 65:
+                                                      Individual                    $7,983.00     $7,770.36
+                                                      Employee and Dependent       $17,881.92    $20,754.12
+                                                      Employee and Family          $17,881.92    $20,754.12
+                                                     Post 65:
+                                                      Individual                    $4,777.44     $7,770.36
+                                                      Employee and Dependent       $10,543.08    $20,754.12
+                                                      1 Post / 1 Pre 65            $13,011.72    $20,754.12
+
+        h.     Medicare Part B                       Annual Cost $1,156.80 per person covered.
+
+
+
+
+1
+    Figures presented here reflect gross premiums.
+
+                                                         4
+
+2. GASB 45 Disclosure Requirements - Estimated:
+
+                                    Plan Results for GASB 45
+     Annual OPEB Cost and Net OPEB Obligation
+    1. Normal Cost                                                                                  $         3,228,880
+    2. Supplemental Cost*                                                                                     3,679,375
+    3. Interest                                                                                                 136,810
+    4. Annual Required Contribution (ARC) [ 1 + 2 + 3 ]                                             $         7,045,065
+    5. Interest on Net OPEB Obligation                                                                          674,293
+    6. Adjustment to ARC                                                                                        955,929
+    7. Annual OPEB Cost (Expense) [ 4 + 5 - 6 ]                                                     $         6,763,429
+    8. Contributions made (assumed mid of year)*                                                              1,459,239
+    9. Increase in net OPEB Obligation [ 7 - 8 ]                                                    $         5,304,190
+   10. Net OPEB Obligation - July 1, 2011                                                                    16,857,318
+   11. Net OPEB Obligation - June 30, 2012 [ 9 + 10 ]                                               $        22,161,508
+*Contribution was assumed to equal Expected Benefit Payments. The preparer of the financial statements should calculate the
+Net OPEB Obligation and related disclosure using the school district’s actual OPEB payments.
+Summary of Annual Results:
+Irvington Union Free School District’s annual OPEB Cost, the percentage of annual OPEB cost
+contributed to the plan, and the net OPEB obligation for fiscal year ending June 30, 2012 is as follows:
+                                                          Percentage of
+                                                          Annual OPEB
+   Fiscal Year                                                  Cost
+     Ending               Annual OPEB Cost                 Contributed            Net OPEB Obligation
+  June 30, 2009                           $7,845,814                           18.6%                          $6,386,275
+  June 30, 2010                           $6,624,390                           23.0%                         $11,484,929
+  June 30, 2011                           $6,813,437                           20.9%                         $16,857,318
+  June 30, 2012                           $6,763,429                           21.6%                         $22,161,508
+
+Funded Status and Funding Progress:
+                                   Actuarial                                                                  UAAL as a
+                 Actuarial          Accrual             Unfunded                          Estimated         Percentage of
+Actuarial        Value of           Liability              AAL            Funded           Covered             covered
+Valuation         Assets             (AAL)               (UAAL)            Ratio            Payroll         payroll (AAL)
+  Date              (a)                (b)                (b -a)          (a / b)             (c)             ((b-a)/c)
+7/1/2008     $           0   $     64,890,403     $     64,890,403             NA    $    23,790,852             272.75%
+7/1/2009     $           0   $     60,834,962     $     60,834,962             NA    $    23,176,762             262.48%
+7/1/2010     $           0   $     66,167,808     $     66,167,808             NA    $    22,071,527             299.79%
+7/1/2011     $           0   $     66,168,837     $     66,168,837             NA    $    22,959,047             288.20%
+
+
+
+
+                                                             5
+
+SECTION IV - Development of Annual OPEB Expense
+       GASB 45 LIABILITIES, ANNUAL REQUIRED CONTRIBUTION AND ANNUAL OPEB COST
+                                       Combined Results
+    I.    Present Value of Future Benefits
+             a. Retirees                                         $      22,082,016
+             b. Active Employees                                 $      79,714,597
+                c.   Total                                                                                 $         101,796,613
+
+    II.     Unfunded Actuarial Accrued Liability (UAAL)
+               a. Retirees                                                                                 $          22,082,016
+               b. Fully Eligible Employees                                                                 $          14,738,139
+               c. Other Active Employees                                                                   $          29,348,682
+               d. Total                                                                                    $          66,168,837
+
+    III.    Annual Required Contribution (ARC)
+               a. Normal Cost                                                                              $            3,228,880
+               b. Supplemental Cost
+                      i.  Funding liability                                                                $          66,168,837
+                     ii.  Actuarial Assets                                                                 $                   0
+                    iii.  Unfunded Actuarial Accrued Liability [ (i) - (ii)]                               $          66,168,837
+                    iv.   Amortization Period                                                                                 30
+                     v.   Supplemental Cost2                                                               $           3,679,375
+               c. Beginning Of Year Contribution [a. + b. (v)]                                             $                   0
+               d. Compound Interest to Year End                                                            $             136,810
+                e. Preliminary ARC [c. + d.]                                                               $            7,045,065
+    IV.     Annual OPEB Expense and Net OPEB Obligation:
+               a. Annual Required Contribution (ARC) [III. E.]                                             $            7,045,065
+               b. Interest on net OPEB Obligation, Beginning of year                                       $              674,293
+               c. Adjustment to ARC                                                                        $              955,929
+                d. Annual OPEB Cost (Expense) [ a + b - c]                                                 $           6,763,429
+                e. Net OPEB Obligation, July 1, 2011                                                       $          16,857,318
+                f. Expected Benefit Payments 3                                                             $           1,459,239
+                g. Net OPEB Obligation, June 30, 2012 [ d + e - f ]                                        $          22,161,508
+
+    Key Actuarial Assumptions
+    Census Collection Date                                                                                           July 1, 2010
+    Funding interest Rate                                                                                                  4.00%
+    06/30/2012 Trend Rate                                                                                                  8.50%
+    06/30/2013 Trend Rate                                                                                                  9.00%
+    Ultimate Trend Rate                                                                                                    5.00%
+    Fiscal year ultimate trend rate reached                                                                           06/30/2017
+
+
+2
+  The Supplemental cost is the amortization of the Unfunded Actuarial Accrued Liability. The school district has elected to amortize
+this liability over 30 years, as permitted by GASB No. 45.
+3
+  Contribution was assumed to equal Expected Benefit Payments. The preparer of the financial statements should calculate the Net
+OBEP Obligation and related disclosure using the school district ’s actual OPEB payments
+
+                                                                 6
+
+V.      Summary of Annual Results:
+Irvington Union Free School District’s annual OPEB Cost, the percentage of annual OPEB cost
+contributed to the plan, and the net OPEB obligation for fiscal year ending June 30, 2012 is as follows:
+                                                           Percentage of
+                                                            Annual OPEB
+   Fiscal Year                                                   Cost                   Net OPEB
+     Ending                Annual OPEB Cost                 Contributed                 Obligation
+  June 30, 2009                            $7,845,814                    18.6%                     $6,386,275
+  June 30, 2010                            $6,624,390                    23.0%                    $11,484,929
+  June 30, 2011                            $6,813,437                    20.9%                    $16,857,318
+  June 30, 2012                            $6,763,429                    21.6%                    $22,161,508
+
+VI.       Funded Status and Funding Progress:
+                                                                                                   UAAL as a
+                                    Actuarial                                                      Percentage
+                Actuarial            Accrual         Unfunded                        Estimated     of covered
+Actuarial       Value of             Liability          AAL         Funded            Covered        payroll
+Valuation        Assets               (AAL)           (UAAL)         Ratio             Payroll        (AAL)
+  Date             (a)                  (b)            (b -a)       (a / b)              (c)        ((b-a)/c)
+7/1/2008    $           0   $       64,890,403   $   64,890,403          NA      $   23,790,852      272.75%
+7/1/2009    $           0   $       60,834,962   $   60,834,962          NA      $   23,176,762      262.48%
+7/1/2010    $           0   $       66,167,808   $   66,167,808          NA      $   22,071,527      299.79%
+7/1/2011    $           0   $       66,168,837   $   66,168,837          NA      $   22,959,047      288.20%
+
+VII.     Projected Benefit Payments:
+    The table below illustrates the projected benefit payments for the ten year period ending June 30,
+    2021 and has been developed based on our understanding of the benefits offered to retirees. The
+    amount captured in the column labeled active, represents a proportionate share of emerging
+    retirees. Since these figures are estimates / projections, actual benefit payments should be used in
+    arriving at a final figure for the June 30, 2012 Net OPEB Obligation (NOO).
+                                     Active on          Retiree on
+ Years          Fiscal Year         07/01/2011         07/01/2011            Amount         Accumulated
+
+      1         06/30/2012      $        129,741     $       1,329,498    $      1,459,239   $     1,459,239
+      2         06/30/2013      $        251,912     $       1,341,423    $      1,593,335   $     3,052,574
+      3         06/30/2014      $        361,741     $       1,377,953    $      1,739,694   $     4,792,268
+      4         06/30/2015      $        485,573     $       1,411,150    $      1,896,723   $     6,688,991
+                06/30/2016      $        628,649     $       1,427,079    $      2,055,728   $     8,744,719
+
+
+      6         06/30/2017      $        789,690     $       1,430,549    $      2,220,239   $    10,964,958
+      7         06/30/2018      $        936,955     $       1,426,005    $      2,362,960   $    13,327,918
+      8         06/30/2019      $      1,114,750     $       1,413,101    $      2,527,851   $    15,855,769
+      9         06/30/2020      $      1,285,314     $       1,408,282    $      2,693,596   $    18,549,365
+   10           06/30/2021      $      1,465,247     $       1,395,988    $      2,861,235   $    21,410,600
+
+
+
+
+                                                         7
+
+SECTION V -                    Census Information
+This section details the statistics related to the participants in the postretirement benefit plan.                        The
+census collection date is July 1, 2010.
+
+The file that was used to prepare the GASB 45 valuation was provided by the school district. Our
+understanding is that this file represents the population of the school district’s active and retired
+employees as of July 1, 2010, the census collection date.
+
+The census file contained 422 records. The GASB 45 valuation excluded 16 records because the
+employee may have been hired after the census collection date (July 1, 2010) or the records represented
+individuals that are not entitled to benefits.
+
+Employee and Retiree Counts by Gender:
+                                                                      As of July 1, 2011
+                                                Actives                     Retirees                       Total
+                            Male                            71                           46                          117
+                          Female                           200                           89                          289
+                            Total                          271                          135                          406
+
+
+Active - Counts by Age and Eligibility Status:
+                                 Active Employees as of July 1, 2011
+                                Not Currently            Currently
+                                   Eligible to           Eligible to
+            Age                       Retire              Retire4                                         TOTAL
+     29 and Under                               15                                                                    15
+     30 - 34                                    34                                                                    34
+     35 - 39                                    50                                                                    50
+     40 - 44                                    35                                                                    35
+     45 - 49                                    48                                                                    48
+     50 - 54                                    24                                                                    24
+     55 - 59                                    12                   26                                               38
+     60 - 64                                     7                   14                                               21
+     65 and Over                                 3                    3                                                6
+     Total                                     228                   43                                              271
+
+Retiree and Covered Spouses - Counts by Age:
+                                    Retired as of July 1, 2011
+            Age                  Retirees                Spouses                                          TOTAL
+     54 and Under                                                 1                                                    1
+     55 - 59                                 6                    8                                                   14
+     60 - 64                                31                   16                                                   47
+     65 - 69                                26                   21                                                   47
+     70 - 74                                24                    3                                                   27
+     75 - 79                                22                    9                                                   31
+     80 and Over                            26                                                                        26
+     Total                                 135                   58                                                  193
+
+
+
+
+4
+    These active employees have met the minimum age and service requirements needed to vest in an OPEB benefit upon retirement.
+
+                                                                 8
+
+Average age and Service:
+
+                                   As of July 1,
+                                      2011
+       Active Employees:
+
+       A.   Average Age at Hire:
+
+                Males                    33.3
+                Females                  36.2
+
+
+       B.   Average Service
+
+                Males                    10.8
+                Females                   9.6
+
+
+       C.   Average Current Age
+
+                Males                    44.1
+                Females                  45.9
+
+
+
+       Current Retirees:
+
+       D.   Average Current Age
+
+                Males                    69.8
+                Females                  72.8
+
+
+
+
+                                           9
+
+Active Employees by Age and Service as of July 1, 2011 using the census collected on
+July 1, 2010:
+
+                                         YEARS OF SERVICE
+            Under             10 to    15 to    20 to       25 to   30 to    35
+AGE           5      5 to 9    14       19       24          29      34     Plus       TOTAL
+ 20 to 24
+ 25 to 29      10        2                                                                12
+ 30 to 34       9       17        2                                                       28
+ 35 to 39       8       22      16                                                        46
+ 40 to 44       2       20      14         3        2                                     41
+ 45 to 49       7       18      16         5        2           1                         49
+ 50 to 54       2        8        5        3        4           2                         24
+ 55 to 59       4        9      11         5        5           3       2          1      40
+ 60 to 64       1        2        8        4        5           1       1                 22
+ 65 Plus        1        1        4                 2                   1                  9
+ TOTAL         44       99      76       20       20            7       4          1     271
+
+
+
+
+                                        10
+
+SECTION VI - Assumptions and Methodology
+1.     Census Collection Date:              The census used in this report represents the eligible population as of July
+                                            1, 2010. This data was used for the purposes of developing the report
+                                            and estimated disclosures for the year ended June 30, 2012.
+2.     Mortality:                           RP-2000 Combined Mortality Table
+3.     Funding Interest Rate:               An interest rate of 4.00% was used
+4.     Retirement Rates:                    The following are representative assumed retirement rates for eligible employees:
+                                                                    Teaching Positions Tiers 2, 3, and 4
+                                                                                    Male                          Female
+                                                                          Under 30                          Under 30
+                                                                          Years of      >30 Years           Years of    >30 Years
+                                                    Age                    Service      of Service           Service    of Service
+                                                    55                     0.0941          0.3763           0.0767       0.3070
+                                                    60                     0.0751          0.3002           0.0585       0.2338
+                                                    65                     0.3229          0.3229           0.3251       0.3251
+                                                    70                     0.1870          0.1870           0.2567       0.2567
+                                                   >=71                    1.0000          1.0000           1.0000       1.0000
+                                                                  (Tier 5 - hired on or after January 1, 2010)
+                                                                                    Male                          Female
+                                                                          Under 30                          Under 30
+                                                                          Years of      >30 Years           Years of    >30 Years
+                                                    Age                    Service      of Service           Service    of Service
+                                                    55                    0.0470     0.0470                 0.0384       0.0384
+                                                    60                    0.0375     0.2581                 0.0292       0.1904
+                                                    65                    0.3229     0.3229                 0.3251       0.3251
+                                                    70                    0.1870     0.1870                 0.2567       0.2567
+                                                   >=71                   1.0000     1.0000                 1.0000       1.0000
+                                                                          Non-Teaching Positions5
+                                                                                     All Tiers
+                                            AGE                  10 to 19 Years            20 to 29 Years          Over 30 Years
+                                                 55                   0.0610                     0.0856                0.5292
+                                                 60                   0.0501                     0.0813                0.2215
+                                                 65                   0.1711                     0.2961                0.3222
+                                                 69                   0.1412                     0.2294                0.2700
+                                                >=70                  1.0000                     1.0000                1.0000
+5.     Termination Rates:                   These rates represent the percentage of employees who will terminate
+                                            employment at the given age each year, for reasons other than death, or
+                                            retirement:
+                                                                  ULTIMATE RATES (All Tiers)
+                                                           Teaching Positions:                       Non-Teaching
+                                                Age             Male               Female              Positions:
+                                                    35             0.00994             0.03704              0.02240
+                                                    40             0.00916             0.01975              0.01847
+                                                    45             0.00762             0.01113              0.01633
+                                                    50             0.00893             0.01185              0.01258
+
+
+
+
+5
+    Refers to employees that are eligible for the New York State Employees Retirement System
+
+                                                                11
+
+6.     Participation Rate:                     It was assumed that 100% of future retirees eligible for coverage will elect
+                                               to be covered under the SWSCHP plan at retirement.
+7.     Percent Married:                        It was assumed that 80% of future retirees will be married, with male
+                                               spouses assumed to be 3 years older than female spouses. For current
+                                               retirees, actual census information was used.
+8.     Trend:                                  It was assumed that health care costs would increase in accordance with the trend
+                                               rates in the following table:
+                                                                                                                Medicare
+                                                    Year                        Medical                          Part B
+                                               06/30/2012                             8.50%6                            -5.25%
+                                               06/30/2013                              9.00%                             2.99%
+                                               06/30/2014                              8.00%                             5.03%
+                                               06/30/2015                              7.00%                             4.06%
+                                               06/30/2016                              6.00%                             4.53%
+                                               06/30/2017                              5.00%                             5.53%
+                                               06/30/2018                              5.00%                             6.79%
+                                               06/30/2019                              5.00%                             6.10%
+9.     Actuarial Value of Assets:              None
+10. Per Capita Costs:                          Are based on the premiums levels of the plans utilized. The premium
+                                               levels are summarized in the plan provisions in section of this report.
+11. Administrative Expenses:                   Included in the premiums used
+12. Actuarial Cost Method:                     This report was developed using the Projected Unit Credit (PUC) cost method.
+
+                                               Actuarial Cost Method:
+                                               An Actuarial Cost Method develops an orderly allocation of the actuarial present
+                                               value of benefits payments over the working lifetime of the participants in the
+                                               plan. The actuarial present value of benefits and expenses which is allocated to a
+                                               particular valuation year by the actuarial cost method is called the Normal Cost.
+                                               The actuarial present value of benefits and expenses which is not provided by
+                                               future Normal Costs is called the Actuarial Accrued Liability. The Unfunded
+                                               Actuarial Accrued Liability is amortized over future years in accordance with the
+                                               employer’s established accounting policy.
+13. Additional Comments:                       The amounts in this OPEB valuation represent a closed group and do not reflect
+                                               new entrants after the census collection date, July 1, 2010.
+
+
+
+
+6
+    Based on actual experience for the current fiscal year.
+
+
+
+                                                                12
+
+SECTION VII - Plan Provisions
+The district provides medical benefits to retired employees and their eligible
+dependents. The school also reimburses the employee and spouse for the cost of
+enrolling in Medicare Part B. The benefits provided to employees upon retirement are
+based on provisions in various contracts that the district has in place with different
+classifications of employees.
+
+The school district obtains most of its health insurance through a consortium called the
+Statewide Schools Cooperative Health Insurance Program (SWSCHP), which is made
+up of many school districts in the region. SWSCHP's program benefits are administered
+by Alicare. The SWSCHP plan covers medical and pharmaceutical costs. Refer to the
+plan documents for the specifics and limitations of the coverage offered to
+retirees. Many of the services in SWSCHP require co-payments at various levels
+depending on the nature of the service. There are a few employees and retirees that
+participate in an HMO offered through United Healthcare Oxford.
+
+The benefits provided and the eligibility requirements are summarized below:
+
+                         Description of
+ Employee Group            Benefits                Contributions               Comments
+
+Superintendent         Medical and Medicare    None                     Require Age 55
+                       Part B                                           Required Service 5
+                                                                        Surviving spouse benefit
+
+
+Administrators         Medical and Medicare    None                     Require Age 55
+                       Part B                                           Required Service 5
+                                                                        Surviving spouse benefit
+
+
+Teachers               Medical and Medicare     15 or more years of    Require Age 55
+                       Part B                    service - 0%           Required Service 10
+                                                Retiring after         Surviving spouse benefit
+                                                 7/1/2008 with less
+                                                 than 15 years of
+                                                 service 10%
+
+
+Clerical and Teacher   Medical and Medicare    None                       Require Age 55
+Aides                  Part B                                             Required Service 10
+                                                                          Surviving spouse benefit
+                                                                          Clerical employees hired
+                                                                           after 07/01/2011 will be
+                                                                           required to work for 20
+                                                                           years to earn benefits.
+
+
+Custodial              Medical and Medicare    None                     Require Age 55
+                       Part B                                           Required Service 10
+                                                                        Surviving spouse benefit
+
+
+
+
+                                              13
+
+Appendix 1 -                 Illustration of Per Capita Costs
+                 Calculating the Annual Per Capita Cost for Future Retirees with 0% Contributions
+
+
+  Assumed Enrollment into the
+  SWSCHP Plan                                               Employee                         Spouse
+                                                    Pre 65          Post 65         Pre 65           Post 65
+  1. OPEB Benefit:
+    a. Medical                                      $7,983.00       $4,777.44      $17,881.92        $10,543.08
+    b. Less Cost of Individual Coverage ( 1a )               -                -     $7,983.00         $4,777.44
+  2. Adjusted cost for Coverage ( 1a - 1b )         $7,983.00       $4,777.44       $9,898.92         $5,765.64
+  3. Percentage Contributed by Retiree                    0%               0%             0%               0%
+  4. Contribution from Retiree ( 2 * 3 )                     -                -              -                 -
+  5. Medicare Part B                                         -      $1,156.80                -        $1,156.80
+    Net Cost to District ( 2 + 5 - 4 )              $7,983.00       $5,934.24       $9,898.92         $6,922.44
+
+                 Calculating the Annual Per Capita Cost for Future Retirees with 10% Contributions
+
+
+  Assumed Enrollment into the
+  SWSCHP Plan                                               Employee                         Spouse
+                                                    Pre 65          Post 65         Pre 65           Post 65
+  1. OPEB Benefit:
+    a. Medical                                      $7,983.00       $4,777.44      $17,881.92        $10,543.08
+    b. Less Cost of Individual Coverage ( 1a )               -                -     $7,983.00         $4,777.44
+  2. Adjusted cost for Coverage ( 1a - 1b )         $7,983.00       $4,777.44       $9,898.92         $5,765.64
+  3. Percentage Contributed by Retiree                   10%             10%             10%              10%
+  4. Contribution from Retiree ( 2 * 3 )              $798.30          $477.74        $989.89          $576.56
+  5. Medicare Part B                                         -      $1,156.80                -        $1,156.80
+    Net Cost to District ( 2 + 5 - 4 )              $7,184.70       $5,456.50       $8,909.03         $6,345.88
+
+
+
+
+                                                       14
+
+Appendix 2 -              Additional Information on GASB 45
+  GASB 45 Accounting - GASB 45 is an accounting regulation that requires the recognition of cost
+  associated with retirement benefits (other than pensions) during the period that an employees works for
+  an organization. Prior to GASB 45, expenses paid for healthcare and other fringe benefits in retirement
+  were recognized in periods for which the employee did not render any services. Consider the following
+  example:
+
+                                          Two Employees - 2009
+                  Alexandra                                                    James
+                 Age:    30                                                 Age:   59
+
+              Salary:               $50,000                              Salary:               $50,000
+          Health Ins:                $5,000                          Health Ins:                $5,000
+            Pension:                 $5,000                            Pension:                 $5,000
+             Fringe:                 $5,000                             Fringe:                 $5,000
+               Total:               $65,000                               Total:               $65,000
+
+
+
+                                   Two Employees - 2010 (James retires)
+                  Alexandra                                                    James
+                 Age:    31                                                 Age:   60
+
+              Salary:               $50,000                              Salary:                    $0
+          Health Ins:                $5,000                          Health Ins:                $5,000
+            Pension:                 $5,000                            Pension:                     $0
+             Fringe:                 $5,000                             Fringe:                     $0
+               Total:               $65,000                               Total:                $5,000
+
+     2009 - Both Employees provide services and the cost to the organization is $130,000.
+
+     2010 - James provides no services, but costs the system $5,000. The current accounting practice
+      generates costs after services have been performed and does not recognize the cost of benefits over
+      the employee’s active employment period.
+
+  Accrual accounting matches services with the cost of those services. Without GASB 45 there is a
+  mismatch and the organization incurs expenditures subsequent to the termination of employment.
+
+  GASB 45 accounting provides a basis for acknowledging the full cost of current benefits. In addition,
+  GASB 45 provides a mechanism for measuring and reporting the future obligation. This information can
+  be helpful in determining how to allocate resources, set pricing for services and assessing the demands
+  on future cash flow.
+
+  The rules of GASB 45 accomplish the following: 1. recognizes the fact that employees earn retiree
+  healthcare while working; 2. requires the employer to recognize the cost of retiree healthcare while the
+  employee is working (as is done with pension benefits); and 3. recognizes the employers liability for the
+  benefits that are not funded.
+
+
+
+
+                                                     15
+
+GASB 45 Funding - presently New York state law does not permit for funding the GASB 45 liability and
+benefits. During the spring of 2008, Comptroller Thomas DiNapoli proposed legislation that would permit
+funding, however, the matter remains unresolved. From an economic perspective, the state may have
+few options; funding may be inevitable.
+
+Funding Option - Organizations that have resources available to fund the liability will want to consider
+the following funding options:
+       1. Establish a dedicated trust. This trust would receive irrevocable contributions from the entity to
+          be used to pay future benefits.
+       2. Use insurance contracts such as annuities that can be used to prefund the liability and generate
+          the required cash flow at a future time.
+       3. Current benefit funding. Continue the current practice of paying the benefits for the retirees as
+          the bills come in.
+Earmarking funds for use for GASB 45 benefit payment does not count as funding under the rules of
+GASB 45. Funding under GASB 45 requires transferring the funds into an irrevocable trust or purchasing
+insurance contracts.
+
+Reasons to Fund the Liability -
+
+       1. To provide benefit security for current and future retirees.
+       2. Reduce the balance sheet liability for the GASB 45 benefits.
+       3. Lower long run costs.
+       4. Generate increased investment income on dedicated resources. This may result in the ability to
+          generate portfolio returns (similar to those earned on a funded pension plan) thereby allowing
+          the organization to increase its discount rate assumption and reduce the GASB 45 liability.
+            In this report a discount rate of 4.00% resulted in an accrued liability of $66,168,837. Increasing
+            the discount rate to a portfolio rate of return of 8% would have resulted in an accrued liability of
+            $34,485,451 decreasing the accrued liability by 47.88%.
+       5. Positive impact on borrowing costs. Funding the liability reduces liabilities on the balance sheet
+          and has the potential to improve the bond rating of the organization.
+       6. Reimbursements - some grants or funding sources may require that costs associated with GASB
+          45 must be paid rather than accrued to qualify for reimbursement.
+       7. Intergenerational equity - forces the population that will enjoy the benefits in the future to make
+          the adjustments or sacrifices necessary during their working lifetime. The current practice
+          pushes this burden on to employees in the future similar to the practice used to fund social
+          security.
+
+Reasons Not to Fund the Liability -
+
+       1. Lack of resources7.
+       2. Financial flexibility - setting funds aside in an irrevocable trust lacks flexibility since it requires the
+          use of those funds for employee benefits.
+       3. Restrictions on terminating the plan - future changes in healthcare could result in organizational
+          funds being indefinitely restricted.
+
+
+
+
+7
+    Raises the issue on why benefits are offered that are not affordable.
+
+                                                                   16
+
+The GASB 45 Liability is driven by a variety of factors. These include:
+
+                                                          Comment with Respect to Irvington Union
+                         Cost Driver                               Free School District
+1.       Rich benefits
+2.       Low retiree contributions                       Retirees receive the OPEB benefits without making
+                                                         contributions.
+                                                         Active teaching employees that retire in the future
+                                                         will contribute a maximum of 10% under the
+                                                         current contracts and policies.
+3.       Low turnover                                    Tenured employees tend to remain employed with
+                                                         the organization.
+4.       Mature population                               33% of the active population is 50 or older.
+5.       Generous early retirement                       Employees are permitted to retire as early as age
+                                                         55.
+6.       Collective bargaining restraints                Most of the benefits offered are through collective
+                                                         bargaining agreements. In the past, management
+                                                         did not have information to support decisions
+                                                         made with respect to postretirement health
+                                                         benefits. With the implementation of GASB 45,
+                                                         future negotiations should incorporate this cost
+                                                         element.
+7.       Unfunded obligation                             Currently, NYS does not permit the funding of the
+                                                         GASB 45 liability beyond the payment of the actual
+                                                         expense for employees that are currently retired.
+                                                         This will cause the liability to compound and grow
+                                                         exponentially.
+
+
+
+
+                                                    17
+
+Sustainability - This report reflects the following information with respect to the cost and liability for
+postretirement benefits:
+
+1. Present Value of Future Benefit Payments totaling $101,796,613. This is the figure that the
+   organization would set aside in an irrevocable trust to pay in a lump sum for the accumulated cost of
+   GASB 45 benefits. This figure is based on a discount rate of 4.00% and a premium growth rate of
+   5.00% to 8.50%.
+
+2. Unfunded Actuarial Accrued Liability in the amount of $66,168,837. This figure represents the
+   amount of the other post employment benefits (OPEB) that the retirees and active employees have
+   earned to date. This figure could also be described as the initial liability created upon implementing
+   GASB 45. The accounting regulations allow for the amortization of this figure over a period of 30
+   years.
+
+3. Annual Required Contribution (30 year amortization) is the amount that the organization would need
+   to set aside if it were to decide to fund the liability over a 30 year period; the maximum period
+   allowed under GASB 45. For this organization the amount would be $7,045,065 for the year ending
+   6/30/2012. This figure includes a portion of the initial liability, the cost accrued for active employees
+   and interest.
+
+4. Normal Cost is the amount that is associated with the cost of the postretirement benefits earned in
+   one year by the active employees. The cost associated with offering these benefits for the active
+   employees is $3,228,880.
+
+5. Amortization of the initial liability of $66,168,837 will cost the organization $3,679,375 per year under
+   the rules of GASB 45.
+
+6. Interest is used to recognize the time value of money. This report includes and interest cost of
+   $136,810.
+
+Mitigation - After giving recognition to the costs associated with postretirement benefits under GASB 45
+an organization needs to question the sustainability of the benefits that are offered to its future retirees.
+One way to assist with sustainability would be to mitigate costs. The organization should consider the
+following opportunities to reduce costs:
+
+   Review plan provision and determine if the benefits offered could be redesigned in way that may be
+    transparent to the retirees and provide savings to the employer.
+
+   Plan design - many organizations offer the same benefits to retired employees that are offered to
+    active employees. This may cause the organization to miss opportunities to utilize plans that take full
+    advantage of Medicare.
+
+   Plan Management - engage the benefactors of the plan so that they can become active consumers.
+    Educating retirees and active employees about health care decisions and the associated costs may go
+    al long way in controlling costs.
+
+   Identify the benefits that are the most costly and consider how these costs can be reduced or
+    redesigned.
+
+   Consider charging retiree specific rates; especially the pre 65 retiree group. Presently contributions
+    from retirees are based on a blended premium charged to active and retirees.
+
+
+
+
+                                                    18
+
+Changing Plan Provisions - Some suggestions for changing plan provisions may include:
+
+   Eligibility - employees qualify for benefits at age 55 with 5 to 10 years of service. Consider pushing
+    the age and service limits out to reduce costs.
+
+   Benefit Design:
+
+    o   Compare the benefits and compensation package offered to employees with those offered by
+        other similar organizations.
+
+    o   Evaluate copayments and deductibles. Consider using Health Savings Accounts to mitigate the
+        cost to employees impacted by any changes.
+
+    o   Encourage cost efficient behavior among plan participants.
+
+               Using mail order drug or drug carve outs with incentives for using generic prescriptions.
+
+               Offer incentives to enroll into Medicare Advantage plans.
+
+   Change Contributions from dollar based or percentage based to age and service based. Grandfather
+    current employees or those nearing retirement.
+
+   Place caps on employer costs.
+
+
+
+
+                                                   19
+
+Appendix 3 -        Glossary of Terms
+
+ GASB 45, or GASB Statement 45, is an accounting and financial reporting provision
+   requiring government employers to measure and report the liabilities associated with
+   other (than pension) postemployment benefits (or OPEB). Reported OPEBs may include
+   post-retirement medical, pharmacy, dental, vision, life, long-term disability and long-
+   term care benefits that are not associated with a pension plan. Government employers
+   required to comply with GASB 45 include all states, towns, education boards, water
+   districts, mosquito districts, public schools and all other government entities that offer
+   OPEB and report under GASB.
+
+ GASB - Acronym that stands for Governmental Accounting Standards Board. This is the
+   accounting board that sets standards for governmental entities. Following GASB
+   standards allows for the preparation of financial statements that are in conformity with
+   Generally Accepted Accounting Principles (GAAP).
+
+ OPEB - Acronym that stands for Other Post-Employment Benefits.
+
+ The Present Value of Future Benefit Payments (PVFBP) The PVFBP is the amount which,
+   if contributed at the valuation date, is expected to pay the employer-provided portion of
+   the retiree health premium for every current plan participant. A contribution equal to
+   the PVFBP will be just enough to pay for these employer-provided health premiums
+   provided the actuarial assumptions in the report are realized. The actuarial assumptions
+   include expected rates of medical premium inflation plus expected rates of participant
+   death, termination of employment, and retirement.
+   If the PVFBP is contributed at the valuation date then, provided all actuarial
+   assumptions are realized, and provided that no new participants are hired, no future
+   contributions will be required.
+
+   This present value is not used directly in the expense calculation nor is it disclosed. It
+   is, however, a good measure of total exposure.
+
+ The Unfunded Actuarial Accrued Liability (UAAL) is the amount which, if contributed on
+   the plan's first valuation date, makes the plan "well funded" according to a commonly
+   used standard. This standard says that, for participants who are either retired or active
+   but have satisfied the age and service requirements to be eligible for employer-
+   subsidized health benefits at retirement, the UAAL equals the present value of future
+   benefit payments PVFB.
+
+   For an active participant who hasn't satisfied these age and service requirements the
+   UAAL is the PVFB multiplied by a ratio. This ratio is the participant's years of service on
+   the valuation date divided by the years of service when the participant satisfies the
+   eligibility requirements.
+   If the requirement for eligibility is attainment of age 55 with 20 years of service, and a
+   participant is age 45 with 10 years of service on the valuation date, this ratio is 10/20.
+
+                                           20
+
+   - For retired employees and actives who have reached their Full Eligibility Date, the
+      UAAL equals the PVFBP.
+
+   - For active employees not yet eligible for full benefits, the UAAL equals a pro rata
+      portion of the PVFBP based on years of service worked prior to the valuation date to
+      those expected to be worked at the Full Eligibility Date.
+
+   The UAAL is used in the GASB accounting calculations to establish the plan's funded
+   status, develop the annual required contribution (ARC), and to develop the annual
+   OPEB cost.
+
+ Annual Required Contribution (ARC) / Annual OPEB Cost is an employer's periodic
+   required contribution to an OPEB plan. The ARC is made up of:
+
+          Normal Cost                  $3,228,880        (See Below)
+    Supplemental Cost                  $3,679,375        (See Below)
+         Interest Cost                   $136,810        (Calculated mid year at 4.00%)
+      Preliminary ARC                  $7,045,065
+         Interest Cost                   $674,293        (on beginning Net OPEB Obligation)
+      ARC Adjustment                     $955,929        (prior year amortization)
+    Annual OPEB Cost                   $6,763,429        (See Below)
+
+
+   The Annual Required Contribution (ARC) is the amount which, if contributed to a fund each
+   year, will allow the fund to pay for all future employer-provided health premiums.
+
+   The ARC has no direct relation to the present value of future benefit payments (PVFBP), but is
+   related to the unfunded actuarial accrued liability (UAAL) in two ways. First the ARC has a
+   supplemental component which amortizes the initial amount of the unfunded actuarial accrued
+   liability (UAAL) as of the first valuation date over a 30 year period. This amortization piece is
+   similar to the payment on a 30 year fixed rate mortgage. In this case the interest rate is the
+   funding interest rate, which is one of the actuarial assumptions.
+
+   The second component (normal cost) of the ARC equals one year's worth of benefit accrual for
+   active participants who haven't yet satisfied the age and service requirements.
+
+   In the example above the unfunded actuarial accrued liability (UAAL) of the participant age 45
+   with 10 years of service is 10/20 multiplied by the present value of future benefit payments
+   (PVFBP). In the following year's valuation this unfunded actuarial accrued liability (UAAL) will be
+   11/20 multiplied by the present value of future benefit payments (PVFBP). This second
+   component pays for this one year of benefit accrual, i.e, the increase in the participant's
+   unfunded actuarial accrued liability (UAAL) due to the 10/20 ratio changing to 11/20.
+
+   Annual OPEB Cost - amount is equal to the ARC plus interest on the beginning of the year Net
+   OPEB Obligation (NOO) calculated at 4.00%. The ARC is reduced for amortization amounts
+   recognized in prior periods using the formula below for supplemental cost. This ARC
+   adjustment is based on the prior year NOO of $16,857,318 as reported in the districts financial
+   statements. The Annual OPEB Cost will be presented as the post retirement benefit expense in
+   the entity-wide annual financial statements.
+
+                                               21
+
+ The Normal Cost is one year's pro rata share of the PVFBP for current active
+   employees. There is no Normal Cost for retirees or active employees who have already
+   met the eligibility conditions for full benefits.
+
+ The Supplemental Cost represents the amortization of the initial unfunded actuarial
+   liability. GASB 45 permits the use of a 10 to 30 year amortization period. This amount
+   is calculated using an annuity due amortization formula.
+
+ The Net OPEB Obligation (NOO) is the cumulative difference since the effective date of
+   GASB 45 between annual OPEB cost and the employer's contributions to the plan,
+   including the OPEB liability (asset) at transition, if any.
+
+ The Annual Required Contribution (ARC) is an employer's periodic required contribution
+   to an OPEB plan. The ARC includes the employer's normal cost and a provision for
+   amortizing the total unfunded actuarial accrued liability (UAAL).
+
+ The Annual OPEB Cost is the GASB 45 accrual-basis measure of the periodic cost of an
+   employer's participation in a defined benefit OPEB plan.
+
+ The Net OPEB Obligation is the cumulative difference since the effective date of GASB
+   45 between annual OPEB cost and the employer's contributions to the plan, including
+   the OPEB liability (asset) at transition, if any.
+
+ The Discount Rate is the interest rate selected as of the measurement date to
+   determine the present value of future cash outflow of postemployment payments. GASB
+   suggests that employers should look to the estimated long-term investment yield on the
+   investments that are expected to be used to finance the payment of benefits.
+
+
+
+
+                                       (Continued)
+
+
+                                          22
+
+The disclosures required by GASB 45 include8:
+ Benefit plan description. Refer to page 4 for this information.
+ Description of the Employer's funding policy. Presently, NYS school districts are not
+    permitted to fund GASB 45 Liabilities. The funding policy for this report should be
+    described as Pay - Go.
+ Components of Annual OPEB Cost (ARC, interest on the net OPEB obligation, and
+    adjustment to the ARC). This amounts are found on page 6 of this report.
+ Increase or decrease in the Net OPEB Obligation. This can be found on page 6 of this
+    report.
+        Information about:
+         o Funded status of the plan - The plan is unfunded
+         o Actuarial value of assets - There are no actuarial assets
+         o Actuarial accrued liability (UAAL) - This amount is presented on page 6 and 7 of
+              the report.
+         o Plan's funded ratio- Page 7 shows this as Not applicable due to that fact that the
+           district does not fund the liability.
+         o Annual covered payroll - This amount if provided by the school district appears
+           on page 7 of this report.
+        Actuarial methods and significant assumptions used to determine the ARC and
+         Annual OPEB Cost. The disclosures should include:
+         o Actuarial cost method. This report was prepared using the Percentage Unit
+              Credit Method (PUC)
+         o Methods used to determine the actuarial value of assets. Presently the school
+              district does not fund the GASB 45 liability, therefore, this matter is not
+              applicable.
+         o Assumptions used with respect to projected salary increases and the investment
+           return (including the method used to determine a blended rate for a partially
+           funded plan, if applicable). Projected salary increases were not used in
+              amortizing amounts in this report.
+         o Assumptions used with respect to initial and ultimate healthcare cost trend rates.
+              Refer to page 12 for this information.
+ Amortization method (level dollar or level percentage of projected payroll), amortization
+    period, and whether the period is closed or open. This report is prepared using level
+    dollar amortization.
+
+
+
+
+8
+ We suggest discussing financial statement presentation and disclosure requirements with your independent financial statement
+auditor.
+
+                                                              23
+
+Appendix 4 -     Comments for Auditor and the Preparer of the
+Financial Statements
+    The information supplied by the school district for the preparation of this
+   report has not been audited. We have placed reliance on the school district
+       with respect to completeness and accuracy of the following items:
+
+   Descriptions of benefits provided at retirement to various classifications of employees.
+
+   The Employee Census as of July 1, 2010. Please note, a census reconciliation has
+    been provided to the School district as part of the completion of this valuation.
+
+   Annual premiums used to develop per capita costs.
+
+   Covered payroll figures used on page 7.
+
+   OPEB Contributions presented in the prior period financial statement used to arrive at
+    the beginning of the year Net OPEB Obligation.
+
+   All assumptions used in this report have been reviewed and approved by
+    management of the school district.
+
+  Auditor’s questions regarding this valuation should be directed to:
+
+   Donna Veltre of the Irvington Union Free School District; or to
+
+   Raymond Cerrone of Questar III BOCES. Ray can be reached at 518-265-8246 or by
+    email at Rcerrone@Questar.Org.
+
+   Auditor requests for confirmation of any information used in preparing this valuation
+    must be made in writing by the school district. These requests should be sent to
+    Rcerrone@Questar.Org.
+
+  Use of Estimates:
+
+  Several estimated figures have been used in this report. The use of estimated numbers
+  is due to the timing of when this report was prepared.
+
+        Please consider the following when preparing the year end financial statements:
+
+            a. Due to the timing of this report, Expected Benefit payments have been
+               estimated.
+
+            b. Due to the timing of this report, covered payroll is estimated.
+
+
+
+
+                                              24
+
+Appendix 5 -      Sample                        Footnotes               for        Financial            Statement
+Preparation (Estimated)
+
+   The school district is encouraged to consult with the financial statement auditors in determining the
+                                       suitability of the notes below
+
+  POST EMPLOYMENT BENEFITS
+  The District provides postemployment health insurance coverage to retired employees in accordance with the
+  provisions of various employment contracts.
+
+  The school district implemented GASB Statement 45, Accounting and Financial Reporting by Employers for Post-
+  Employment Benefits Other than Pensions, in the school year ended July 1, 2008. This required the school district to
+  calculate and record a net other post-employment benefit obligation at year end. The net other post-employment
+  benefit obligation is basically the cumulative difference between the actuarially required contribution and the actual
+  contributions made.
+
+  The school district recognizes the cost of providing health insurance annually as expenditures In the General Fund of
+  the funds financial statements as payments are made. For the year ended June 30, 2012, the school district
+  recognized $1,459,239 for its share of insurance premiums for currently enrolled retirees.
+
+  The school district has obtained an actuarial valuation report as of July 1, 2011 which indicates that the total liability
+  for other post-employment benefits is $66,168,837 ($22,082,016 related to retirees and $44,086,821 related to
+  employees).
+
+  Plan Description: The District provides medical benefits to retired employees and their eligible dependents. The
+  District also reimburses the employee and spouse for the cost of enrolling in Medicare Part B. The District obtains
+  most of its health insurance through a health insurance consortium called Statewide Schools Cooperative Health
+  Insurance Program (SWSCHP), which is made up of many school districts in the region. There are also a few retirees
+  that participate in an HMO offered through Healthnet. The plans cover medical and pharmaceutical costs. Section
+  2503(1 O-a) of the New York State Education Law assigns the authority to establish and amend benefit provisions to
+  the Board of Education.
+
+  Funding Policy: The contribution requirements of Plan members and the District are established by the Board of
+  Education. The required contribution is based on projected pay-as-you-go financing requirements. For fiscal year
+  2012, the District contributed $1,459,239 to the plan, the total amount for current premiums. Most plan members
+  are not required to contribute towards the cost of benefits.
+
+  The school district’s annual other post-employment benefit (OPEB) cost (expense) for its plan is calculated based on
+  the annual required contribution of the employer (ARC), an amount actuarially determined in accordance with the
+  parameters of GASB Statement 45. The ARC represents a level of funding that, if paid on an ongoing basis, is
+  projected to cover normal cost each year and to amortize any unfunded liabilities (or funding excess) over a period
+  not to exceed thirty years. The following table shows the components of the school district annual OPEB cost for the
+  year, the amount actually contributed to the plan, and changes in the school district’s net OPEB obligation:
+
+                                                                                             For the Year Ended
+                                                                                               June 30, 2012
+             Annual required contribution                                            $                   7,045,065
+             Interest on Net OPEB Obligation, beginning of period                                          674,293
+             Less ARC Adjustment                                                                           955,929
+             Annual OPEB Cost                                                        $                   6,763,429
+             Less Contributions made                                                                     1,459,239
+             Increase in net OPEB obligation                                                             5,304,190
+             Net OPEB obligation - beginning of year                                                    16,857,318
+             Net OPEB obligation - end of year                                       $                  22,161,508
+
+
+
+
+                                                             25
+
+The school district’s annual OPEB cost, the percentage of annual OPEB cost contributed to the plan, and the net
+OPEB obligation were as follows:
+
+                                                         Percentage of
+                                                         Annual OPEB
+          Fiscal Year            Annual OPEB                 Cost                  Net OPEB
+            Ending                  Cost                  Contributed              Obligation
+         June 30, 2009             $7,845,814                    18.6%               $6,386,275
+         June 30, 2010             $6,624,390                    23.0%              $11,484,929
+         June 30, 2012             $6,763,429                    21.6%              $22,161,508
+
+As of July 1, 2011, the most recent actuarial valuation date, the plan was 0% funded. The actuarial accrued liability
+for benefits was $66,168,837 and the actuarial value of assets was $0, resulting in an unfunded actuarial accrued
+liability (UAAL) of $66,168,837. The covered payroll (annual payroll of active employees covered by the plan) was
+$22,959,047, and the ratio of the UAL to the covered payroll was 288.20%. Actuarial valuations of an ongoing plan
+involve estimates of the value of reported amounts and assumptions about the probability of occurrence of events far
+into the future. Examples include assumptions about future employment, mortality, and the healthcare cost trend.
+Amounts determined regarding the funded status of the plan and the annual required contributions of the employer
+are subject to continual revision as actual results are compared with past expectations and new estimates are made
+about the future. The schedule of funding progress, presented as required supplementary information following the
+notes to the financial statements, presents multiyear trend information about whether the actuarial value of plan
+assets is increasing or decreasing over time relative to the actuarial accrued liabilities for benefits.
+
+Actuarial methods and assumptions
+Projections of benefits for financial reporting purposes are based on the substantive plan (the plan as understood by
+the employer and the plan members) and include the types of benefits provided at the time of each valuation and
+the historical pattern of sharing of benefit costs between the employer and plan members to that point. The actuarial
+methods and assumptions used include techniques that are designed to reduce the effects of short-term volatility in
+actuarial accrued liabilities and the actuarial value of assets, consistent with the long-term perspective of the
+calculations.
+
+In July 1, 2011 the actuarial valuation, the Projected Unit Credit cost method was used, The actuarial assumptions
+included a 0.04 investment rate of return (net of administrative expenses), which Is a blended rate of the expected
+long-term investment returns on plan assets and on the employer's own investments calculated based on the funded
+level of the plan at the valuation date, and an annual healthcare cost trend rate of 8.50% initially, increased to
+9.00% in the second year and then reduced by 1% decrements to an ultimate rate of 5.00% after 4 years. The UAAL
+is being amortized on an open basis. The remaining amortization period at June 30, 2012 was 29 years.
+
+
+
+
+                                                        26
+
+Appendix 6 -                          Supplemental Schedule SS-2 (Estimated)
+  Supplemental Schedule SS-2 - Estimated
+  Statement of Non-Current Governmental Liabilities
+  Irvington Union Free School District
+
+  Type of Other Post Employment Benefit Plan                         15   Single-Employer Defined
+                                                                          Benefits
+  Annual Required Contribution(ARC)                                  16                    7,045,065
+  Interest on Net OPEB Obligation                                    17                      674,293
+  Adjustment to Annual Required Contribution                         18                    (955,929)
+  Annual OPEB Expense                                                19                    6,763,429
+  Less: Actual Contribution Made                                     20                    1,459,239
+  Increase in Net OPEB Obligation                                    21                    5,304,190
+  Net OPEB Obligation - beginning of year                            22                  16,857,318
+  Net OPEB Obligation - end of year                                  23                  22,161,508
+  Percentage of Annual OPEB Cost Contributed (Actual Contribution    24                        21.6%
+  Made/Annual OPEB Cost)
+
+  Funded Status and Funding
+  Process
+  Actuarial Accrued Liability (AAL)                                  25                  66,168,837
+  Less: Actuarial Value of Plan Assets                               26                               0
+  Unfunded Actuarial Accrued Liability (UAAL)                        27                  66,168,837
+  Funded Ratio (Actuarial Value of Plan Assets/AAL)                  28                             NA
+  Annual Covered Payroll(of active employees covered by the plan)    29                  22,959,047
+  UAAL as Percentage of Annual Covered Payroll                       30                     288.20%
+  Other OPEB Information                                             31
+  Date of most recent actuarial valuation(mm/dd/yyyy)                32                 July 1, 2011
+  Actuarial method used                                              33                             PUC
+  Assumed rate of return on investments discount rate                34                             0.04
+  Amortization period of UAAL (in years)                             35                              30
+
+
+
+
+                                                                    27
+

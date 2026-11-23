@@ -1,0 +1,539 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/pfiles/CAVRW969B1DC/$file/BOE%20Tech%20Presentation%20Jan%2025%2C%202022.pdf | DATE: 2022-01-25 | TITLE: Special Meeting/Work Session | 6.1 IHS 1:1 Technology Update | BOE Tech Presentation Jan 25, 2022.pdf
+
+2022 Update: Technology In Irvington
+
+
+
+
+       Board of Education Meeting
+             January 25, 2022
+
+2
+[OCR]
+rotting tam,
+the f@a@Cher is the most important.
+
+
+Guiding Questions
+
+
+  1.) What themes emerged as a result of the 1:1 expansion at IHS?
+
+  2.) What adjustments have been made to respond to feedback
+      from stakeholders?
+
+  3.) What additional considerations were taken into account when
+      planning for the 2022-23 school year?
+
+
+
+
+                                                                     3
+
+Mission
+
+  The mission of the Irvington Union Free School District is to create a
+  challenging and supportive learning environment in which each
+  student attains his or her highest potential for academic
+  achievement, critical thinking and lifelong learning. Our schools
+  encourage the discovery and development of students’ individual
+  strengths, skills and talents, and foster social and civic responsibility.
+
+
+
+
+                                                                               4
+
+5
+[OCR]
+The Irvington Strategic Objectives serve as a foundation for all aspects of District and Board of Education
+work. Critical decision making such as budgeting, program development and facility enhancement is aligned with
+the District Mission and Strategic Objectives. To achieve its mission and vision, and to provide for the future of its
+students, the Irvington Union Free School District:
+
+Provides students with a Encourages innovation,
+rigorous, comprehensive, creativity and risk-taking
+enriched and diversified to inspire a dynamic
+curriculum that prepares learning environment.
+
+them to achieve their
+personal best and
+integrates technology into
+their learning.
+
+Fosters the social and
+emotional growth of all
+students and promotes
+
+culture where students
+
+are active participants in
+society.
+
+Supports educators
+through targeted
+professional learning
+and opportunities for
+collaboration,
+
+The Irvington Schools are
+committed to fostering the
+development of the 21st century
+skills and dispositions
+Problem-Solver Reflective
+Flexible Thinker Self Refiant
+Collaborative Learner Empathetic Citizen
+Effective Communicator | Creative Risk-Taker
+
+Ensures the fiscal
+health of the District
+and provides fora
+high-quality learning
+environment,
+
+Strengthens local
+connections to and
+ownership of our schools.
+
+
+6
+[OCR]
+Provides students with a
+rigorous, comprehensive,
+enriched and diversified
+curriculum that prepares
+them to achieve their
+
+personal best and
+integrates technology into
+their learning.
+
+
+Feedback
+Feedback was collected in various ways, including classroom visits, focus
+groups with student council members, as well as using a Google survey
+administered to parents, students, and teachers in Irvington High School.
+The survey yielded 620 responses broken down as follows:
+
+
+                                            I am a…
+
+
+
+
+                                                                            7
+
+Feedback - Student Focus Groups
+In October 2021 and then again in January 2022, HS administrators as well as Dr. Duffy and Mr.
+Strumwasser met with student council leaders in 9th and 10th grade to hear feedback about the
+1:1 device rollout at IHS. Both warm and cool feedback was shared including the themes below
+with direct quotes from student participants:
+
+
+                     Warm Feedback                                   Cool Feedback
+         - Access to devices is a great thing to have.   - “Too many blocks on the computer”
+         - We are lucky to have the ability to get a     - Difﬁculty connecting to Wi-Fi (password
+           device                                          issues/speed issues)
+         - Charging Stations are helpful                 - “Many” want to use their personal device
+         - Student helpdesk is really helpful to have    - Not using them at home
+         - No real difference between personal           - Chargers left in bags
+           chromebooks and school-owned                  - Cases are bulky, can they be improved?
+           chromebooks
+                                                         - Room to improve on the entire process,
+         - Tech is the way of the future                   including the rollout
+         - Content ﬁlters are necessary
+
+
+                                                                                                      8
+
+Survey Feedback- Students
+
+
+
+
+              92% of all 9th graders responded                                                 91% of all 10th graders responded
+
+                 Warm Feedback                                                                      Cool Feedback
+      - It helps me do my work                                                          - 18% of students mentioned devices
+      - Enhances my learning                                                              were slow
+
+      - Works better this year vs. last                                                 - Internet ﬁlter limits access
+                                                                                        - Prefer my own device
+
+
+ Note: According to the White House Bureau of Consumer Affairs, a dissatisﬁed person will tell 9-15 people about their feelings.   9
+
+Feedback - Teachers
+The survey yielded 49 teachers who represented the following subjects:
+
+
+
+
+                                                                     80% of teachers responded   10
+
+Feedback - Teachers
+
+
+                  Warm Feedback                                                                  Cool Feedback
+ - Access to devices increases educational                                  - Desire for touch
+   opportunities                                                            - Wi-Fi issues linked to
+           - Assessment                                                       access/passwords/slowness
+ - Increased usage of technology since                                      - “We do not use technology”/”We don’t
+   having them                                                                want them”
+ - More digital options                                                     - Students can get off task
+ - Critical part of their instructional
+   procedure
+ - Students can learn at their own pace
+
+
+
+
+  Note: According to the White House Bureau of Consumer Affairs, a dissatisﬁed person will tell 9-15 people about their feelings.   11
+
+Feedback - Parents
+Parent survey yielded 116 results that indicated the following:
+
+
+
+
+                                                    18% of all parents responded   12
+
+Feedback - Parents
+
+
+                 Warm Feedback                                                                Cool Feedback
+                                                                         - Frustrated by the requirement
+ - The 76 parents (66%) that responded either
+   “it partially met” or “met their needs”, did                          - Prefers Own device
+   not provide any further information as to                             - Does not use it at home
+   why they felt that way.
+                                                                         - Small, no touch functionality
+
+
+
+
+     Note: According to the White House Bureau of Consumer Affairs, a dissatisﬁed person will tell 9-15 people about their feelings.
+
+                                                                                                                                       13
+
+Our Immediate Response to Feedback
+- We installed charging stations and added back charging buckets in classrooms
+  with surge protectors.
+- Filtering settings are constantly being adjusted to allow for increased access,
+  still being aware of safety as the primary focus.
+- A student ﬂyer was sent out to assist students with frequently asked questions
+  and access to our student helpdesk.
+- We began an exploration of new models of chromebooks, asking local districts
+  what devices worked best for them.
+- Increased opportunities for ongoing professional learning for teachers - the
+  Instructional Support team introduced “Techy Tuesdays” in response to our
+  needs assessment.
+     -   Sessions are recorded to help with continuity of learning, for those who may not be
+         able to attend.
+
+
+                                                                                               14
+
+Curriculum-based Experiences and Our 1:1 Expansion
+English/ENL:
+ ● Collaborating on group work more efﬁciently such as annotations of text. Also “Improved
+     rate of submission of assignments” and ability to provide feedback. Workﬂow is improved
+     for teachers (sharing and collecting assignments and providing feedback).
+
+Math/Technology:
+ ● Access to resources using their 1:1 devices: class notes, Smart Notebook notes, materials,
+    lessons, activities, homework answers and more.
+
+Science:
+ ● Ability to collaborate in the collection of data during labs and the use of simulation
+     programs such as Gizmos. Also, assessments using locked Google forms - “I like that the
+     students can't access other tabs while taking a google forms quiz.”
+
+Social Studies:
+ ● Students can answer questions and see results and receive feedback in real-time - surveys,
+     polls and Castle Learning. Paperless model, “Paper savings alone is tremendous.”
+
+
+                                                                                                15
+
+Curriculum-based Experiences and our 1:1 Expansion
+  World Language:
+    ● Formative Assessment- “This has provided many opportunities for formative assessment and
+       checking for understanding.” Use of Pear Deck to interact with Google slides has allowed for
+       greater ease in assessing speaking because students can take out their devices and
+       record/upload a video submission directly to Classroom.
+
+  Special Education/VIP:
+     ● All students have equal access to materials they can manipulate for themselves and have access
+       to at all times. One location to store ﬁles necessary for class instruction.
+     ● Students in VIP complete Google Forms associated with lessons and their incredible work at the
+       O’Hara Nature Center this year, they are learning to use email, access IXL and more!
+
+  Music:
+    ● Students can use MusicFirst to sight read, compose, and complete exercises.
+
+  Art:
+      ● Can aid in research to review examples of art and techniques.
+
+  PE/Health:
+     ● Webquest and research related to nutrition and current events.
+
+
+
+                                                                                                        16
+
+Highlights of Practical Uses of Technology in a 1:1 Setting
+ Practical uses of technology with assessment:
+  - Students are able to complete “do nows,” open notes quizzes, (using Google forms) at the
+    beginning of class on a regular basis. Quizzes provide feedback for teacher.
+  - Students use Pear Deck to pace themselves in the lesson.
+  - Students use Padlet to explain their answers and reasoning.
+  - Students can type individual responses to questions and formal lab reports.
+  - Independent learning activities/small groups via breakouts while maintaining distance
+    and safety.
+  - “Being able to work collaboratively with my ENL students on a document allows us to
+    exchange ideas and helps to improve skills from home and at school.”
+  - Students can use MusicFirst to sight read, compose, and complete exercises.
+  - Students can use Gizmos to perform lab experiments in a virtual environment, when
+    in-person opportunities were limited.
+
+
+                                                                                               17
+
+Limitations/Responses in a 1:1 Environment
+
+ Limitation posed                         Reaction/Response to this limitation
+ Unable to use Chromebooks in subjects:   ●   Imac Lab was upgraded in summer 2021
+ Photography (Photoshop)                  ●   Laptops were purchased in summer 2021 for new physics probe programming and PLTW.
+ Science (Physics Probes)/PLTW
+
+ Charging concerns                        ●   Loaner system was created by HS Administration
+                                          ●   Charging stations were installed in high trafﬁc locations and in classrooms, buckets were
+                                              added with surge protectors
+
+ Ability to write on a chromebook         ●   Using Kami, we were able to offer a way to digitally annotate a document.
+                                          ●   Future plans include purchasing touch-screen devices
+
+ Project Lead the Way, Photography        ●   Using Cameyo (virtualization software), we were able to provide a slightly limited version of
+                                              the software needed to meet this need on chromebooks/personal devices.
+
+ Unable to monitor what students are      ●   We can explore a screen monitoring tool, such as Lightspeed Classroom, and pilot the
+ doing on devices                             experience with teachers interested, before deciding what to do at a whole district/school
+                                              level.
+
+ Internet connectivity and speed          ●   IT staff have done speed testing in classrooms and have made adjustments to the network.
+
+
+ Blocked websites                         ●   IT staff have been using helpdesk requests to monitor blocked site requests.
+                                          ●   PD has been ongoing with teachers to allow time for sites to be checked by IT staff for privacy
+                                              and security compliance.
+
+                                                                                                                                                18
+
+Budgetary Impact
+In 2021, no new chromebooks were purchased, as recent model chromebooks
+were still available from 2020-21. These devices were distributed as follows:
+   - 9th and 10th grade students each received a chromebook as part of the 1:1
+     program in September.
+   - 70 11th and 12th graders borrowed a device since the beginning of the 2021-22
+     school year.
+   - 6th graders in IMS were outﬁtted with the same new model in September.
+       - This model will loop up with students until 9th grade
+
+
+ECF - In 2022, Irvington was approved for the Emergency Connectivity Fund,
+which would offset the purchase of new chromebooks to meet the needs of
+students in IHS.
+
+
+
+
+                                                                                     19
+
+Budgetary Impact
+
+If we were to purchase laptops, we would have to factor in:
+ - Increased support costs (addition of at least one IT staff member for break/ﬁx and
+   management of device policies)
+
+ - Device policy/permissions management solutions
+
+ - Increased license costs for on-board software like Microsoft, Adobe, and security software.
+
+ - Increased vulnerability to malicious software
+       - Purchase additional licenses for antivirus software to protect the core network
+
+ - Increase Wi-Fi saturation as devices will be used in higher capacities, leading to increased
+   bandwidth needs
+
+
+
+
+                                                                                                  20
+
+Budgetary Impact
+
+                     Chromebooks (keeping to the                                Laptops
+                           original plan)
+
+ Device, License,   $400 with device, license, and              $1000 with device, license, and accidental
+ Insurance Costs    accidental warranty insurance               warranty insurance
+
+ Human Resources    No additional increase of IT stafﬁng, but   Addition of at least one IT staff member
+                    proposed support for additional             to deal with break/ﬁx, device and group
+                    computer aide and technology coach          permissions. ($100,000)
+
+ Security Costs     No additional virus software needed,        Average cost of $35/device for endpoint
+                    since chromebooks are limited to            protection.
+                    impact by viruses.
+
+ Software Costs     No additional software can be added to      Operating system, on-board licenses
+                    a chromebook, rather subscription           (Microsoft, Adobe, etc.) - $100
+                    services take its place (no added costs)
+
+
+
+                                                                                                             21
+
+Training and Technical Support- Responding to feedback
+
+In September 2021, during the Superintendent’s Conference Day, the Instructional
+Technology Support Team (Formerly Google PD Team), ran sessions to train
+teachers on ways to use chromebooks with various tools to utilize in in-person
+instruction.
+
+In October, a needs assessment survey was conducted District-wide to ask
+teachers to identify the programs they wanted more training on.
+
+In January, 2022, Techy Tuesdays was started, where members of the training
+team turnkeyed training from vendors they received as members of the team.
+ -   Kami, Nearpod, Padlet, Classlink, Gimkit, Newline, Google Workspace, trainings
+     will be lead by members of the IHS team
+
+
+
+
+                                                                                      22
+
+Teacher Needs
+We are exploring the opportunity to increase our professional development
+opportunities in the following possible ways:
+ 1.) Hire an Instructional Technology coach/consultant to provide trainings to our teachers in a
+     cohort model
+      a.) This has been an on-going budgetary request
+
+ 2.) Increase the Instructional Technology Support Team and provide them with training from
+     vendors to turnkey to their colleagues
+ 3.) Offer more vendor-led training during PLRD time
+ 4.) Subscribe to on-demand PD opportunities from our current vendors
+      a.) Newline University
+      b.) NewsELA PD Pass
+      c.) Otis for Educators by Lumio (formerly SMART)
+
+ 5.) Offer mobile technology for teachers to increase access to technology resources
+
+
+                                                                                                   23
+
+Where are we in January 2022 - Infrastructure
+All learners have access to technology in an anytime, anywhere, one-to-one
+computing environment as appropriate and relevant to instructional goals.
+
+  - Wi-Fi was upgraded District-wide to support increased connectivity across all campuses.
+    Outdoor Wi-Fi is available, but has been problematic.
+
+  - All students and staff were provided with a device during the COVID-19 quarantine and
+    the return to school, Fall 2020- June 2021.
+
+  - Devices were collected in the summer of 2021, and redistributed K-5 into charging
+    stations, and 1:1 for grades 6-10, (11/12 as requested) in September 2021.
+
+  - Devices were given out for take-home in December 2021, K-12, as needed in preparation
+    for possible remote instruction due to COVID-19.
+
+
+
+
+                                                                                              24
+
+Our Proposal
+In the 2022-23 school year, we will continue the chromebook 1:1 expansion to 11th
+grade, taking into account the following adjustments to the program:
+ -   Filtering settings are being adjusted to allow for increased access, still being aware of
+     safety as the primary focus
+ -   Passwords will be reset in February to align passwords to BYOD (for personal devices)
+ -   BYOD will continue to be available for 12th graders; all grades with teacher permission, and
+     free time
+ -   Device loaners will be available for quick swaps to allow for more seamless transitions and
+     allow students to get back to classes in a timely manner
+ -   The newest model of 1:1 devices identiﬁed will have:
+      -   Faster processor
+      -   Increased ram
+      -   Larger screen
+      -   Touchscreen as an option
+
+           (These were identiﬁed as biggest concerns with current devices)
+                                                                                                    25
+
+       Feedback                                Our Response                               Timeline
+
+Devices are blocking        - We will be investigating how to optimize our ﬁlter to   Winter 2022
+educational materials         allow for more educational materials, aligned to NYS
+                              Educational Law 2D Privacy Policies.
+                            - We will create a system for student requests to
+                              provide data for this new system.
+
+Devices are slow, and are   - The new model we explored has touch functionality,      Fall 2022
+not touch screen              larger screen, and faster processing.
+
+More Training Needed        - Using the needs assessment, we incorporated more        Winter 2022
+                              ongoing professional learning opportunities.
+
+Access to Wi-Fi/Password    - We will be resetting all users’ passwords over the      February 2022
+Issues                        February break, with ample communication ahead
+                              of time.
+
+Tech support needs          - Recommending hiring of an Instructional                 September 2022
+                              Technology coach and additional computer aide
+
+                                                                                                       26
+
+Technology Steering Committee
+Established in 2021, in order to help to create a new vision of technology in Irvington
+
+Committee Purpose: To review and update the 2022-2025 NYS Technology Plan as it relates to
+the integration of instructional technology in the Irvington Union Free School District.
+
+The committee is comprised of staff from all 4 buildings, administrators, and a parent
+representative.
+
+The committee will meet 4 times this year to discuss our current technology plan and answer
+the following guiding questions:
+     1.) What is most timely/relevant to keep as a goal for the new technology plan?
+     2.) What is considered redundant, and can be removed or combined?
+     3.) What is something new that you would like to see added as a possible goal?
+
+This body will develop strategies, and plans for future enhancements in the technology space in
+Irvington UFSD.
+
+
+
+
+                                                                                                  27
+
+Questions
+
+
+
+
+            ?
+
+
+
+                28
+[OCR]
+2022 Update: Technology In Irvington
+
+Board of Education Meeting
+January 25, 2022
+

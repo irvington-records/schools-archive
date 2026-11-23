@@ -1,0 +1,268 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/pfiles/BR2PZ466A620/$file/Obsolete%20Equipment.pdf | DATE: 2020-07-07 | TITLE: 2020-21 Reorganization Meeting/Regular Meeting | 17.9 Declaration of Obsolete/Surplus Equipment | Obsolete Equipment.pdf
+
+Manufacturer Device Type Serial                   ETL          Device Model #
+Dell         Monitor     MX05R1084760535SCHRU     105067     1504fp
+Computing    Pod         XD2C89256888             118349     XD2
+HP           Monitor     CNC62333ZX               106530     HP L1940T
+NEC          Projector   NP-M322X 5500472RJ       ET171083IR NP-M322X
+Mitsubishi   Projector   1821090                  116592     XD430U
+Mitsubishi   Projector   6345                     117996     XD560U
+Apple        iPad        DLXGF09KDJHG             118189     A1397
+Apple        iPad        DMPJ776SDNQR             118024     A1403
+Lenovo       Desktop     1S7518D7UMJTBAGD                    D7U
+Lenovo       Desktop     1S7518D4UMJRTWPW         117713     D4U
+Lenovo       Desktop     1S8910ARUMJZRNP5         117444     ARU
+Lenovo       Desktop     1S7518D7UMJTBAVX         117690     D7U
+Lenovo       Desktop     1S7518D7UMJTBALC         117795     D7U
+HP
+Optiquest    Monitor     CNC6241DXH
+                         QCW071220890             106308
+                                                  106586     HP1740
+                                                             Q19wb
+ACER         Monitor     8.84483E+11              116444     V173
+ACER         Monitor     ETLC108148021034DD4202   117084     V193w
+Dell         Monitor     MX05R1084760535SCGTB     104960     1504FP
+nComputing   Pod         XD2C39569203             118348     XD2
+Dell         Monitor     CN06R6444780432ML3WL     117581     E151FPp
+Mitsubishi   Projector   C018715                  116120     XD500U
+HP           Monitor     CNC62410S8               106273     1740
+Linksys      Switch                               106030     SD208
+Lenovo       Desktop     1S8910ARUMJZRNW7         117457     ARU
+Lenovo       Desktop     1S8910ARUMJZRND3         117458     ARU
+Lenovo       Desktop     1S8910ARUMJZBDH8         118150     ARU
+Lenovo       Desktop     1s7518D4UMJRTWRR         118021     D4U
+Lenovo       Desktop     1s7518D7UMJTBAGT         117844     D4U
+Lenovo       Desktop     1s7518D7UMJTBAMY         117726     D4U
+Lenovo       Desktop     1s7518D7UMJTBANY         117671     D7U
+ACER         Monitor     8.84483E+11              116402     V173
+Lenovo       Desktop     1S7518D4UMJRTLNX         118042     D4U
+InFocus      Projector   BEHB20100422             117849     IN2114
+Lenovo       Desktop     1S7518D4UMJRTWHH         118034     D4U
+Optiquest    Monitor     QCW071220849             106628     Q19wb
+HP           Monitor     CNC62410RS               106333     HP1740
+InFocus      Projector   BEHB03600428             ET171073IR IN2114
+Mitsubishi   Projector   8020739                  117319     XD250U
+Lenovo       Desktop     1S7518D7UMJTBALY         117811     M81
+Lenovo       Desktop     1S7518D7UMJTBAHX         117808     M81
+HP           Monitor     CNC6240YJ5               106284     HP1740
+NEC          Projector   NP-M311X 3301728FA       NA
+Mitsubishi   Projector   4125                     117913     XD650U
+NEC          Projector   NP-M322X 4700045EC       ET100376IR M322X
+NEC          Projector   NP-M311X 3301593FA       ET171081IR
+Lenovo       Desktop     1S10B6S00500MJ010LTL     118421     M73
+ACER         Monitor     ETLJE0W16811807D234307   et171058ir V193w
+Linksys      Switch      REF20H900358             116234     SD205
+Lenovo       Desktop     1s10b6s00500mj010lsu     118414     M73
+Lenovo       Desktop     1S7518D7UMJTBANW         117998     M81
+Lenovo       Desktop     MJZRNC8                  118108     ARU
+Lenovo       Desktop     1s7518D7Umjtbavc         117686     M81
+Lenovo       Desktop     1s7518D4Umjrtlrr         117654     M81
+Lenovo       Desktop     1s7518D7Umjtbanp         117723     M81
+
+HP          Monitor      cnc6241dw6               106278       1740
+Dell        Monitor      MX05R1084760535SCGTB     104960       1504fp
+Computing   Pod                                   118348       XD2
+Linksys     Switch                                106137       SD208
+Lenovo      Desktop      1S7518D4UMJRTWPM         117681       M81
+HP          Monitor      CNC6241DXC               106317       1740
+ACER        Monitor      8.84483E+11              116444       V173
+ACER        Monitor      ETLC108148021034DD4202   117084       V193w
+Apple       Airport xl   90241
+Apple       Airport      ET100467IR
+Lenovo      Desktop      1S10B6S00500MJ01737N     ET100127IR   M73
+Lenovo      Desktop      1S7518D4UMJRTWPA         117804       M81
+Lenovo      Desktop      1S10B6S00500MJ01734X     ET100104IR   M73
+Lenovo      Desktop      1S7518D4UMJTAXAV         118035       M81
+Lenovo      Desktop      1S8910ARUMJZRNE0         117440       Aru
+Lenovo      Desktop      1S7518D7UMJTBAVN         117728
+Lenovo      Desktop      1S8910ARUMJZRNG6         117451       Aru
+Lenovo      Desktop      1S7518D4UMJRTREX         118036       M81
+Lenovo      Desktop      1S10B6001SUSMJ03E2ZB     ET102068IR   M73
+Lenovo      Desktop      1S7518D4UMJRTLTH         118041       M81
+Lenovo      Desktop      1S7518D4UMJPXEFT         118031       M81
+Lenovo      Desktop      1S7518D4UMJRTLPD         118032       M81
+Lenovo      Desktop      1S7518D7UMJRTNZP         117685       M81
+Lenovo      Desktop      1S7518D4UMJRTWHG         117739       M81
+Lenovo      Desktop      1S7518D7UMJRTPBH         117805       M81
+Lenovo      Desktop      1S7518D7UMJTBATE         117688       M81
+Lenovo      Desktop      1S7518D4UMJPXEFK         117725       M81
+Lenovo      Desktop      1S7518D4UMJTAXAE         118326       M81
+Lenovo      Desktop      1S7518D4UMJRTLWL         118039       M81
+Lenovo      Desktop      1S7518D7UMJTBAGV         117858       M81
+Lenovo      Desktop      1S7518D7UMJRTPBN         118061       M81
+Lenovo      Desktop      1S8910ARUMJZRNW6         118113       Duo
+Lenovo      Desktop      1S7518D7UMJTBAVD         118110       M81
+Cisco       Desktop      443136                   104911       Catalyst 4507R
+Cisco       Desktop      CAT1128NHKY              116123       Catalyst 3750
+Lenovo      Desktop      1S7518D4UMJRTWRD         117994       M81
+Lenovo      Desktop      1S10B6001SUSMJ03E348     ET100549IR   M81
+Lenovo      Desktop      1S7518D7UMJTBAVZ         118117       M81
+Lenovo      Desktop      1S7518D4UMJRTWRK         117806       M81
+Lenovo      Desktop      1S7518D4UMJRTZWR         118037       M81
+Lenovo      Desktop      1S7518D7UMJTBAPM         117670       M81
+Lenovo      Desktop      1S7518D4UMJRTZWR         118037       M81
+Lenovo      Desktop      1S7518D7UMJTBAPM         117670       M81
+Lenovo      Desktop      1S7518D4UMJRTLXG         ET101172IR   M81
+Lenovo      Desktop      1S7518D7UMJTBATA         117714       M81
+Lenovo      Desktop      1S7518D4UMJRTLXD         117664       M81
+Lenovo      Desktop      1S7518D7UMJTBARX         117676       M81
+Lenovo      Desktop      1S7518D7UMJTARGN         117845       M81
+Lenovo      Desktop      1S7518D4UMJRTLTR         117655       M81
+Lenovo      Desktop      1S7269D7UMJXMY02         116913       D7U
+Lenovo      Desktop      1S7518D4UMJRTLNY         117659       M81
+Lenovo      Desktop      1S7518D4UMJRTWHK         118014       M81
+HP          Monitor      CNC6201GKB               106422       1740
+HP          Printer      VND3H03150                            P1505
+Lenovo      Desktop      1S7518D4UMJTAXAE         118326
+
+Lenovo      Desktop      1S7518D4UMJRTMXB         117792
+Lenovo      Desktop      1S7269B7UMJ17247         116308       87U
+Lenovo      Desktop      1S7518D7UMJTBAVK         117791       M81
+Lenovo      Desktop      1S10B6001SUSMJ03E35E     ET171361IR   M73
+HP          Printer      VND3C60945               118309       P1606dn
+HP          Printer      VND3C04871               117869       P1606dn
+HP          Printer      VND3H04193               116063       P1505
+HP          Printer      VNB3M32805               115653       P1022
+HP          Printer      VNB3C46325                            P1022
+Lenovo      Desktop      1S7518D4UMJRTWRT         118116       M81
+Lenovo      Desktop      11S0A65301ZVJ6H526G0W1   118029       M81
+Raptor      Raptor       54C18290262              ET171982IR
+Samsung     Chromebook   0Q9T91HJ401220L          ET170217IR   XE500c13
+Samsung     Chromebook   1K2Y9FAG500466A          ET100502IR   XE500c12
+Samsung     Chromebook   1K2Y9FCG501319T          ET100512IR   XE500c12
+Samsung     Chromebook   0Q9T91HK315654B          ET172209IR   XE500c13
+Dell        Chromebook   cqhf4m2                               11 3180
+Dell        Chromebook   hr9f1g2                               11 3180
+Optiquest   Monitor      QCW071126731             115698       Q19wb
+HP          Printer      VND3H04193               116063       P1505n
+Lenovo      Desktop      1S10ST002FUSMJ093CBP     ET171961IR   710S
+Lenovo      Desktop      1S10ST002FUSMJ094GE8     -            710S
+Lenovo      Desktop      1S10ST002FUSMJ094GE2     -            710S
+ASUS        Chromebook   H4NLCX00S31814E          ET171116IR   C100P
+Samsung     Chromebook   0UG99FCF305383F          ET170153IR   XE303C12
+Samsung     Chromebook   1K2Y9FCG501276D          ET170152IR   XE303C12
+ACER        Chromebook   NXGE8AA0046481D7B77600   ET171273IR   N15Q13
+ACER        Chromebook   NXGE8AA0046481DB437600   ET171356IR   N15Q13
+ACER        Chromebook   NXGE8AA0046481D8877600   ET171137IR   N15Q13
+ACER        Chromebook   NXGE8AA004706191FB7600   ET171397IR   N15Q13
+ACER        Chromebook   NXGE8AA004706191367600   ET171417IR   N15Q13
+ACER        Chromebook   NXGE8AA0046481DB877600   ET171360IR   N15Q13
+Lenovo      Desktop      1S7518D7UMJTBAMN                      M81
+Lenovo      Desktop      1S7518D7UMJTBAGG         117727       M81
+Lenovo      Desktop      1S7518D7UMJTBAMH         117677       M81
+Lenovo      Desktop      1S7518D4UMJRTMXB         117792       M81
+Lenovo      Desktop      1S10B6001SUSMJ03E2YX     ET101132IR   M81
+Lenovo      Desktop      1S10B6S00500MJ01738S     ET100164IR   M81
+Lenovo      Desktop      1.44553E+11                           M81
+Lenovo      Desktop      1S7518D7UMJTAREP         117797       M81
+Lenovo      Desktop      1S10B6001SUSMJ03E35G     ET100231IR   M81
+Lenovo      Desktop      1.86109E+11              117458       M81
+Lenovo      Desktop      1.86104E+11                           M81
+Lenovo      Desktop      1.86109E+11              117457       M81
+Lenovo      Desktop      1S7518D4UMJRTWPY         117799       M81
+Lenovo      Desktop                               118034       M81
+Lenovo      Desktop      1.86175E+11              ET100127IR   M81
+Lenovo      Desktop      1S10B6S00500MJ017379     ET100131IR   M81
+Lenovo      Desktop      1S10B6001SUSMJ03E35K     ET100579IR   M81
+Lenovo      Desktop      1S10B6001SUSMJ032P7K     118027       M81
+Lenovo      Desktop      1S10B6001SUSMJ03E34Y     ET100554IR   M81
+Lenovo      Desktop      1S10B6001SUSMJ03E2YW     ET101141IR   M81
+Dell        Monitor      MX05R1084760535SCHPZ     105843       Ultrasharp
+HP          Monitor      CNP517XCVC               104600       1740
+HP          Monitor      CNC62410RQ               106344
+
+Lenovo            Desktop         1S10B6S00500MJ013ZGW   118422       m73
+Lenovo            Desktop         1S7518D7UMJTBANB       117995       m81
+Lenovo            Desktop         1S10B6001SUSMJ03E345   ET100573IR   m73
+Acer              Monitor         VNB3M32827             106747       1022n
+Mitsubishi        Projector       15569                  118052       XD550U
+Mitsubishi        Projector       17411                  117989       XD550U
+NEC               Projector       NP-M322X 4700046EC     ET170993IR   M322X
+Seagate           Hardrive        W629WJX3               ET172010IR   5000C500902454D0
+Mitsubishi        Projector       1003409                ET172030IR   EX321U
+Axis              Camera          arm
+Axis              Camera          big dome
+Axis              Camera          big dome
+Axis              Camera          small dome
+Smart             Smartboard                             117339       660
+Smart             Smartboard                             117885       660
+Smart             Smartboard                             116834       660
+Smart             Smartboard                             116830       660
+Smart             Smartboard                             117920       660
+Smart             Smartboard                             117988       660
+Smart             Smartboard                             106789       660
+Smart             Smartboard                             117904       660
+Smart             Smartboard                             117286       660
+Smart             Smartboard                             117917       660
+Smart             Smartboard                             117892       660
+Smart             Smartboard                             116829       660
+Smart             Smartboard                             117295       660
+Smart             Smartboard                             ET172073IR   660
+                  Wooden podium
+Orttronics        Switch          615MMC-18p-00
+NEC               Projector       4700053EC              ET171043IR   M322X
+cisco             switch          3902S549               100524       catalyst 3550
+Lenovo            Laptop          1S25184HUR86LM09       117112       T410.
+Lenovo            Laptop          1S25184HUR86LL39       117118       T410.
+Lenovo            Laptop          1S25184HUR86LM39       117121       T410.
+Lenovo            Laptop          1S25184HUR86LL86       117099       T410.
+Lenovo            Laptop          1S25184HUR86LL80       117100       T410.
+Lenovo            Laptop          1S25184HUR86LL42       117098       T410.
+Lenovo            Laptop          1S25184HUR86LL99       117106       T410.
+hp                Laptop          CNU6260Z28             106481       compaq nv 6320
+Lenovo            Laptop          1S25184HUR86LL37       117111       T410.
+datamation systems inc
+                  Laptop cart
+ITE accessory     Metal Arm       E176225.
+ITE accessory     Metal Arm       E176225.
+ITE accessory     Metal Arm       E176225.
+ITE accessory     Metal Arm       E176225.
+ITE accessory     Metal Arm       E176225.
+ITE accessory     Metal Arm       E176225.
+ITE accessory     Metal Arm       E176225.
+ITE accessory     Metal Arm       E176225.
+ITE accessory     Metal Arm       E176225.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Notes
+
+
+
+Grey
+Projector mount
+Projector mount
+Projector mount
+Projector mount
+Projector mount
+Projector mount
+Projector mount
+Projector mount
+Projector mount
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,4 @@
+SOURCE http://irvingtonschools.org:80/Music.html | DATE 2005-02-14 | TITLE Music Award
+
+The Irvington High School Wind Ensemble received a silver medal at the New York State Music Association's Major Organization Festival last month.
+The Wind Ensemble performed the following program: "Dauntless Battalion" March by Sousa, "Elsa's Procession to the Cathedral" by Wagner and the "First Suite in E Flat" by Holst.

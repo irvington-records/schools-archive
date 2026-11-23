@@ -1,0 +1,174 @@
+SOURCE https://resources.finalsite.net/images/v1780416537/irvingtonschoolsorg/wftdrxg0fhaw84lo5sxr/2026-2029InstructionalTechnologyPlan.pdf | DATE 2026-06-02 | TITLE 2026-2029InstructionalTechnologyPlan.pdf
+
+Irvington Union Free School District
+                                 Instructional Technology Plan
+                                           2026-2029
+
+
+
+Section I - Strategic Technology Planning
+
+District Mission
+The mission of the Irvington Union Free School District is to create a challenging and
+supportive learning environment in which each student attains his or her highest
+potential for academic achievement, critical thinking and lifelong learning. Our schools
+encourage the discovery and development of students’ individual strengths, skills and
+talents, and foster social and civic responsibility.
+
+Technology Vision Statement
+The Irvington Union Free School District envisions technology as a catalyst for
+empowering all learners to think critically, create authentically, and engage meaningfully
+in an ever-evolving digital world. Grounded in our Portrait of a Graduate, The Irvington
+Way, we leverage technology to deepen learning, strengthen relationships, and expand
+opportunities through a vertically aligned approach to Computer Science and Digital
+Fluency that builds problem-solving, communication, and digital citizenship skills. We are
+committed to the thoughtful and ethical integration of emerging technologies, including
+artificial intelligence, while maintaining a secure, reliable, and future-ready infrastructure
+that ensures equitable access and protects data privacy. Through ongoing professional
+learning and strong partnerships with educators, families, and the community, the
+Irvington UFSD prepares students to succeed, lead, and contribute in a dynamic,
+technology-rich society.
+
+Section II - Action Plan ​
+​
+Goal 1: Develop and implement a vertically aligned K–12 Computer Science and Digital
+Fluency (CSDF) program that ensures all students build foundational skills through
+advanced skills in computational thinking, digital citizenship, and technology application.​
+
+  Action Step          Description
+
+ Research             Conduct a K–12 CSDF curriculum audit to identify gaps and
+                      redundancies.
+
+ Curriculum           Develop a vertically articulated scope and sequence aligned
+                      to NYS CSDF standards.
+
+ Curriculum           Integrate computational thinking and digital literacy into
+                      core content areas.
+                           Irvington Union Free School District
+                               Instructional Technology Plan
+                                         2026-2029
+
+
+Professional        Provide ongoing professional learning on CSDF standards
+Development         and instructional integration.
+
+Implementation      Expand CS learning experiences across grade levels,
+                    including interdisciplinary integration.
+
+Evaluation          Monitor student proficiency and program effectiveness using
+                    defined CSDF benchmarks.
+
+Planning            Establish a multi-year CSDF implementation roadmap
+                    aligned to district priorities.
+
+
+
+Goal 2: Establish a comprehensive district-wide approach to Artificial Intelligence (AI)
+that includes a formal position statement, governance structures, and instructional
+integration to support ethical, responsible, and innovative use.​
+
+  Action Step         Description
+
+ Policy/Protocol    Develop and adopt a district-wide AI position statement and
+                    usage guidelines.
+
+ Policy/Protocol    Establish expectations for ethical AI use, academic integrity,
+                    and data use.
+
+ Professional       Provide training on AI literacy, prompt design, and
+ Development        instructional applications to all staff.
+
+ Implementation     Pilot AI-supported instructional practices across grade levels
+                    and disciplines.
+
+ Communication      Communicate AI guidance and expectations clearly to
+                    students, staff, and families.
+
+ Community          Engage families and experts through events (e.g., Tech
+ Partnerships       Family University) to build awareness and shared
+                    understanding.
+
+ Research           Continuously evaluate emerging AI tools and their
+                    instructional and operational impact.
+
+ Evaluation         Assess effectiveness of AI integration on teaching, learning,
+                    and student outcomes.
+                            Irvington Union Free School District
+                                Instructional Technology Plan
+                                          2026-2029
+
+
+
+ Goal 3: Enhance and sustain a robust, secure, and scalable technology infrastructure
+ that supports emerging technologies, ensures equitable access, and prepares the
+ district for future innovation.​
+
+   Action Step        Description
+
+  Infrastructure     Implement a multi-year infrastructure refresh plan (network,
+                     wireless, core systems).
+
+  Infrastructure     Upgrade capacity and redundancy to support high-demand
+                     and emerging technologies.
+
+  Cybersecurity      Strengthen cybersecurity systems, monitoring, and threat
+                     response protocols.
+
+  Data Privacy       Ensure compliance with NYS regulations and enhance data
+                     protection practices.
+
+  Planning           Develop a long-term technology lifecycle and sustainability
+                     plan.
+
+  Purchasing         Align purchasing decisions with lifecycle planning and
+                     instructional priorities.
+
+  Implementation     Maintain and optimize 1:1 device programs and management
+                     systems.
+
+  Evaluation         Monitor system performance, uptime, and user experience
+                     metrics.
+
+  Staffing           Ensure adequate technical staffing and support structures to
+                     maintain systems and services.
+
+
+
+Section III - NYSED Initiatives Alignment
+
+Supporting Rigorous Standards Attainment and Performance Improvement The
+Irvington Union Free School District leverages instructional technology as a strategic
+driver to improve student performance, elevate academic standards, and ensure
+equitable access to learning “everywhere, all the time.” Within a 1:1 learning environment,
+digital tools are purposefully integrated to personalize instruction, provide timely and
+meaningful feedback, and expand opportunities for inquiry, collaboration, and authentic
+                             Irvington Union Free School District
+                                 Instructional Technology Plan
+                                           2026-2029
+
+learning aligned to district curriculum and The Irvington Way. A vertically aligned
+approach to Computer Science and Digital Fluency ensures that all students develop
+essential skills in critical thinking, problem solving, and digital citizenship, while the
+thoughtful integration of emerging technologies, including artificial intelligence,
+enhances differentiation and supports diverse learning needs.
+
+To sustain this work, the district invests in ongoing professional learning that empowers
+educators to design high-quality, technology-enhanced instruction grounded in research
+and best practice. Instructional technology also enables the use of data to inform
+decision-making, allowing educators to monitor student progress, adjust instruction, and
+provide targeted support. A robust and secure infrastructure ensures reliable access to
+digital resources both in and out of school, reducing barriers to participation and
+promoting continuity of learning beyond the classroom. Through this comprehensive and
+intentional approach, the Irvington UFSD ensures that all students have equitable
+opportunities to achieve at high levels and are prepared to thrive in a dynamic,
+technology-rich world.
+
+Section IV - Administrative Management Plan
+
+Staff Plan
+  Title                                    Full Time Equivalent (FTE)
+
+  District Technology Leadership           1.0
+
+  Technical Support                        3.0

@@ -1,0 +1,38 @@
+SOURCE https://www.irvingtonschools.org/fs/pages/2438/page-pops | DATE 2026-02-24 | TITLE page-pops
+
+<div id="fsPagePopCollection" hidden>
+			<article class="fsPagePop"
+								data-delay-option=""
+								data-delay-time="7"
+								data-id="9"
+								data-reset-at=""
+								data-visible-at="2026-02-23T13:33:00-05:00">
+				<h2 id="fsPagePopTitle_9" class="fsPagePopTitle fsDialogTitle">Schools Closed, Tuesday, February 24, 2026</h2>
+				<div id="fsPagePopMessage_9" class="fsPagePopMessage">
+					<table border="0" cellpadding="0" cellspacing="0" style="-webkit-text-size-adjust: auto; width: 320px; font-size: 14px; word-spacing: 1px; -webkit-tap-highlight-color: rgba(255, 255, 255, 0.25); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; line-height: 21px; max-width: 100%; border-color: rgb(0, 0, 0); min-width: auto !important;" width="100%">
+	<tbody style="border-color: rgb(0, 0, 0);">
+		<tr style="border-color: rgb(0, 0, 0);">
+			<td style="line-height: 21px; border-color: rgb(51, 51, 51); padding: 5px !important;" width="97%">
+			<p style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt; border-color: rgb(51, 51, 51);"><span data-originalcomputedfontsize="14.666667" data-originalfontsize="11pt" style="color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); font-size: 0.916667rem; font-family: Arial, sans-serif; font-variant-ligatures: normal; font-variant-alternates: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; vertical-align: baseline; white-space: pre-wrap; border-color: rgb(0, 0, 0);">Due to the continued clean up from the winter storm and for the safety of all individuals involved, we will cancel all classes, after school a</span><span data-originalcomputedfontsize="14.666667" data-originalfontsize="11pt" style="font-size: 0.916667rem; font-family: Arial, sans-serif; font-variant-ligatures: normal; font-variant-alternates: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; vertical-align: baseline; white-space: pre-wrap; border-color: rgb(0, 0, 0);"><span style="background-color: rgb(255, 255, 255);">ctivities, and athletic events on Tuesday, February 24th. </span></span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+
+				</div>
+			</article>
+			<article class="fsPagePop"
+								data-delay-option=""
+								data-delay-time="7"
+								data-id="5"
+								data-reset-at=""
+								data-visible-at="2026-02-20T14:00:00-05:00">
+				<h2 id="fsPagePopTitle_5" class="fsPagePopTitle fsDialogTitle">Notice of Board of Education Meeting February 24, 7:30PM, Irvington High School</h2>
+				<div id="fsPagePopMessage_5" class="fsPagePopMessage">
+					<p>The Irvington Board of Education will hold a regular meeting on February 24, 7:30PM, in the campus presentation room at Irvington High School. To comment, please join us in person at the campus presentation room at Irvington High School. To watch the live proceedings of the meeting please join us on <a href="https://zoom.us/j/98407152633" target="_blank">Zoom</a>. &nbsp;For more information, please access the meeting agenda on&nbsp;<a href="https://go.boarddocs.com/ny/iufsd/Board.nsf/Public" target="_blank">Boarddocs</a>.</p>
+
+
+				</div>
+			</article>
+	</div>

@@ -1,0 +1,23 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/goto?open&id=9R3BMX6CFC86 | DATE: 2014-12-02 | TITLE: Regular Meeting | 11.5 Budget Transfers
+
+Meeting: Dec 02, 2014 - Regular Meeting
+Date: 2014-12-02
+Category: 11. Business Office Matters
+Subject: 11.5 Budget Transfers
+Type: Action (Consent)
+
+Budget Transfer 14/15-06
+
+					Debit A1420.400-00-0002
+
+					(Legal - Other Expenses)
+
+				$250.00
+
+					Credit A1420.490-00-0000
+
+					(Legal - Retainer)
+
+				$250.00
+
+	This transfer is to cover an superintendent's hearing billed by BOCES.

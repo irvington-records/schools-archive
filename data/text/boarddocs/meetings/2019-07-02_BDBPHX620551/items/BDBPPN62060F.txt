@@ -1,0 +1,175 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/goto?open&id=BDBPPN62060F | DATE: 2019-07-02 | TITLE: 2019-20 Reorganization Meeting/Regular Meeting - 6:30 p.m.* | 19.6 Appointment of Fall Coaching Positions
+
+Meeting: Jul 02, 2019 - 2019-20 Reorganization Meeting/Regular Meeting - 6:30 p.m.*
+Date: 2019-07-02
+Category: 19. Personnel Matters
+Subject: 19.6 Appointment of Fall Coaching Positions
+Type: Action
+
+First Name
+			Last Name
+			Level
+			Sport
+			Group
+			Step
+			Salary
+
+			Steve
+			Yurek
+			Varsity Head
+			Football
+			I
+			4
+			$8,911
+
+			Matthew
+			Adipietro
+			Varsity Asst
+			Football
+			I
+			2
+			$5,722
+
+			Colin
+			Brennen
+			Varsity Asst
+			Football
+			I
+			4
+			$5,792
+
+			Andrew
+			Lund
+			Modified Head
+			Football
+			I
+			8
+			$5,477
+
+			Mike
+			Esteves
+			Modified Asst
+			Football
+			I
+			1
+			$4,811
+
+			Bernie
+			Keating
+			Varsity Head Boys
+			Soccer
+			III
+			8
+			$7,498
+
+			Brandon
+			Avelino
+			Varsity Assistant Boys
+			Soccer
+			III
+			1
+			$4,627
+
+			Marc- Anthony
+			William
+			JV Head Boys
+			Soccer
+			III
+			2
+			$5,021
+
+			Thomas
+			Sandler
+			Modified Head Boys
+			Soccer
+			III
+			1
+			$4,271
+
+			Pat
+			DiBenedetto
+			Varsity Head Girls
+			Soccer
+			III
+			8
+			$7,498
+
+			Kelly
+			Murphy
+			Varsity Assistant Girls
+			Soccer
+			III
+			4
+			$4,733
+
+			Beth
+			Staropoli
+			Varsity Head
+			Field Hockey
+			III
+			3
+			$7,227
+
+			Lisa
+			Bucci
+			Varsity Assistant Girls
+			Field Hockey
+			III
+			2
+			$4,662
+
+			Rebecca
+			Nani
+			Mod Head
+			Field Hockey
+			III
+			1
+			$4,271
+
+			Stephanie
+			Schilling
+			Varsity Head Girls
+			Swimming
+			III
+			4
+			$7,281
+
+			Chris
+			Barry
+			Varsity Head
+			Cross-Country
+			IV
+			8
+			$5,868
+
+			Deryl
+			Thornton
+			Varsity Asst
+			Cross-Country
+			IV
+			8
+			$3,814
+
+			Jim
+			Buckley
+			Modified Head
+			Cross-Country
+			IV
+			8
+			$3,521
+
+			Gina
+			Maher
+			Varsity Head Girls
+			Tennis
+			IV
+			8
+			$5,868
+
+			Carol
+			Labella
+			Modified Head Girls
+			Tennis
+			IV
+			8
+			$3,521

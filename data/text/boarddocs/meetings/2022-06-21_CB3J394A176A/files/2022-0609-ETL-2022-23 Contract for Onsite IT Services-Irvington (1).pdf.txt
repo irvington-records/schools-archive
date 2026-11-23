@@ -1,0 +1,878 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/pfiles/CFDRJ96D5548/$file/2022-0609-ETL-2022-23%20Contract%20for%20Onsite%20IT%20Services-Irvington%20(1).pdf | DATE: 2022-06-21 | TITLE: Work Session | 13.5 Contract - OnSite Technology (IT) and Data Management Services | 2022-0609-ETL-2022-23 Contract for Onsite IT Services-Irvington (1).pdf
+
+         R   CONSULTANT AGREEMENT
+
+                      For
+
+ Onsite Information Technology (IT) Services
+          July 1, 2022-June 30, 2023
+
+
+
+                  Between the
+
+      Irvington UFSD (the District) and
+Edu Tek Ltd. (the Technology Service Provider)
+
+PROJECT DESCRIPTION
+Working with the Irvington UFSD (District), Edu Tek Limited (Edu Tek) will provide comprehensive
+Information Technology (IT) services at each school operated by the District (collectively referred to herein
+as the Sites).
+
+This Agreement shall start on July 1, 2022 and end on June 30, 2023, unless terminated sooner in
+accordance with the provisions of this Agreement. Edu Tek will support the District’s Local Area Networks
+(LAN’s) and Wide Area Network (WAN’s). This service includes support for all operating systems currently
+in use at all Sites. The IT support described will be performed by:
+        •       2.0 On-site Systems Engineer(s) Level I
+        •       1.0 On-site Systems Engineer(s) Level II
+        •       1.0 On-site Data Engineer(s) Level I
+        On-site Project Operations Manager services not to exceed twenty (20) days per year.
+
+SCOPE OF SERVICES
+The scope of services contained in this agreement includes but is not limited to the following:
+
+Technology Management
+        •   Make recommendations in the development of the District technology plan.
+        •   Review technology budget proposal and service contracts for alignment with plan
+            recommendations.
+        •   Assist in budget development by providing analysis of District’s networking needs and
+            recommending hardware and network software to align with District needs and goals.
+        •   Develop criteria and attend to details of annual technology deployment plan.
+        •   Assist in the procurement of technology equipment utilizing available vendors in accordance
+            with State bids as part of the annual deployment plan.
+        •   Meet with the District’s data consultant teams to discuss technology requirements for District
+            participation in data warehousing.
+        •   Assist in developing, implementing and supporting solutions as per the District Technology
+            Plan for NIST/WISP/CSOP/SAN/Disaster Recovery Systems, alternative email solutions and
+            compliance with NYS electronic records retention policies.
+        •   Support technology needs of Board of Education meeting
+
+Inventory Management
+        The assigned Edu Tek staff will update the inventory of the District’s technology equipment
+        during the term of the Agreement in accordance with the District’s inventory procedures set
+        forth in Exhibit 'A.' While Edu Tek’s team will make updates to and manage the inventory as set
+        forth in this Agreement to provide assistance for asset management and the maintenance of an
+        accurate inventory, Edu Tek will not be responsible for the use of equipment by the District’s
+        personnel and students.
+
+
+
+
+                                                             Educational Technology Consultants for Voice, Video & Data   2
+
+System Support & Maintenance
+        •   Install and support computer equipment, including computing devices (e.g. desktops,
+            Chromebooks, laptops) and tablets, utilized by the District’s students and employees.
+        •   Troubleshoot computer hardware issues.
+        •   Maintain current device image library for machine duplication or utilize Microsoft
+            SCCM/InTune.
+        •   Install and configure printers and connect them to print servers and applicable print
+            management tools.
+        •   Troubleshoot printing issues.
+        •   Install and configure ancillary computer hardware (i.e. printers, scanners, keyboards, mice,
+            probes, and similar devices used by the District).
+        •   Provide basic software support and troubleshooting for desktop, laptop, Chromebook and
+            tablet software applications.
+        •   Interface with vendors to address warranty issues for hardware and software.
+
+Networking Management
+        •   Administer Microsoft Active Directory.
+        •   Manage Google Apps/Microsoft Office 365 for Education Domain.
+        •   Administer the District’s backup systems.
+        •   Maintain and manage all District servers.
+        •   Setup and manage user accounts and passwords.
+        •   Perform annual network migration of student’s data from building to building and between
+            grades.
+        •   Manage security policies (i.e. Student, Teacher & Administrative) including but not limited to:
+            granting permissions to necessary applications and tools, align user with appropriate group
+            identification (staff, student (grade-based), administrative/office, etc).
+        •   Install servers, backup systems, SANs and network components.
+        •   Install and maintain anti-virus system.
+
+Internet Support
+        •   Deploy Antivirus definition updates on a regular basis.
+        •   Configure routers and switches.
+        •   Manage internet filtering requests.
+        •   Configure and maintain District’s firewall(s).
+        •   Bandwidth shaping implementation.
+        •   Wide area network consulting.
+
+Comprehensive District Data Management Services:
+      • Daily Student information system management.
+      • Management of disparate data sources held in other district systems.
+      • Reporting and data export services for State Warehouse.
+      • Consulting services to assist district with new data related initiatives.
+      • Integration with various content management systems.
+                                                           Educational Technology Consultants for Voice, Video & Data   3
+
+Edu Tek represents that it has the requisite knowledge and skills to provide all the above-described
+services. Edu Tek recognizes that this Agreement does not grant it the exclusive right to perform the
+above-described services for the District.
+
+Independent Contractor
+Edu Tek shall not be considered as having employee status and enters into this Agreement and will remain
+throughout the term hereof an Independent Contractor of the District. Edu Tek and its officers, directors,
+employees and/or agents are retained by the District only for the purposes and to the extent set forth in
+this Agreement. Edu Tek, its officers, directors, employees and/or agents shall not be entitled to any
+rights or benefits afforded to the District’s employees, including, without limitation, disability or
+unemployment insurance, workers’ compensation, medical insurance, sick leave, retirement or any other
+employment benefit. Edu Tek is responsible for providing, at Edu Tek’s sole expense, disability,
+unemployment, workers’ compensation and all other forms of insurance, training, permits and licenses
+for Edu Tek and its officers, directors, employees and/or agents. Edu Tek, its officers, directors, employees
+and/or agents shall not assert any claim for additional benefits of any nature, including, but not limited
+to, unemployment compensation benefits, by reason of the services to be performed pursuant to this
+Agreement. Edu Tek, its officers, directors, employees and/or agents shall not be entitled to assert any
+claim to entitlements pursuant to any collective bargaining agreement now or hereafter in effect between
+the District and any of its employees. Edu Tek acknowledges that it will not hold itself, its officers,
+directors, employees and/or agents out as employees of the District. Edu Tek shall be responsible for
+paying, when due, all income or other taxes incurred as a result of the compensation paid by the District
+to Edu Tek for services under this Agreement. Edu Tek will indemnify the District for any tax liability,
+interest, and/or penalties imposed upon the District by any taxing authority based upon the District’s
+failure to withhold any amount from the payments for tax purposes.
+
+Confidentiality and Data Security and Privacy Standards:
+            a. Edu Tek agrees, on behalf of itself and its employees, and/or agents that, in the course of
+               performing services, it may have access to information that is deemed confidential
+               information under New York Education Law Section 2-d, for example, teacher or principal
+               data and student data. Edu Tek, its employees, and/or agents shall not use, publish,
+               discuss, disclose or communicate the contents of such information, directly or indirectly
+               with third parties, except as provided for in this Agreement. Edu Tek further agrees that
+               any information received by Edu Tek, its employees, and/or agents during the course of
+               the services provided pursuant to this Agreement which concerns the personal, financial,
+               or other affairs of District, its employees, agents, clients, and/or students will be treated
+               by Edu Tek, its employees, and/or agents in full confidence and will not be revealed to
+               any other persons, firms, or organizations.
+            b. Edu Tek acknowledges that it may receive and/or come into contact with personally
+               identifiable information, as defined by New York Education Law Section 2-d, from records
+               maintained by District that directly relate to a student(s) (hereinafter referred to as
+               “education record”). Edu Tek shall maintain reasonable administrative, technical and
+               physical safeguards to protect the security, confidentiality and integrity of personally
+               identifiable student information in its custody in accordance with applicable laws and
+               regulations, and understands and agrees that it is responsible for complying with state
+                                                             Educational Technology Consultants for Voice, Video & Data   4
+
+     data security and privacy standards for all personally identifiable information from
+     education records, as and to the extent applicable to Edu Tek.
+c. It is anticipated that education records will be stored only in District systems (and not in
+   Edu Tek’s custody), unless required for performance of services or as requested by the
+   District. To the extent education records are in Edu Tek’s custody, it shall:
+          i. limit internal access to education records to those individuals that are determined
+             to have legitimate educational interests;
+         ii. not use the education records for any purposes other than those explicitly
+             authorized in this Agreement;
+        iii. maintain reasonable administrative, technical and physical safeguards to protect
+             the security, confidentiality and integrity of education records in its custody; and
+        iv. use encryption technology to protect data while in motion or in its custody from
+            unauthorized disclosure using a technology or methodology specified by the
+            secretary of the United States Department of Health and Human Services in
+            guidance issued under Section 13402(H)(2) of Public Law 111-5 and the National
+            Institute of Standards and Technology Cyber Security Framework Version 1.1.
+d. Edu Tek further understands and agrees that it is responsible for submitting a data
+   security and privacy plan to District prior to the start of the term of this Agreement. Such
+   plan shall outline how all state, federal and local data security and privacy contract
+   requirements will be implemented over the life of the contract consistent with the
+   District’s policy on data security and privacy, as adopted. Further, such plan shall include
+   a signed copy of District Parents’ Bill of Rights and the training requirement established
+   by Edu Tek for all employees who will receive personally identifiable information from
+   student records (“student data,” as defined by New York Education Law Section 2-d).
+e. Edu Tek understands that as part of the District’s obligations under New York Education
+   Law Section 2-d, Edu Tek as a third-party contractor is responsible for providing the
+   District with supplemental information to be included in the District’s Parents’ Bill of
+   Rights. Such supplemental information shall be provided to the District within ten (10)
+   days of execution of this Agreement and shall include:
+          i. the exclusive purposes for which the student data will be used;
+         ii. how Edu Tek will ensure that subcontractors, persons or entities to whom Edu
+             Tek will disclose the student data share the student data with, if any, will abide
+             by data protection and security requirements;
+        iii. that student data in Edu Tek’s possession will be returned or destroyed upon
+             expiration of the Agreement;
+        iv. if and how a parent, student, or eligible student may challenge the accuracy of
+            the student data that is collected; and
+         v. where the student data will be stored (described in such a manner as to protect
+            data security), and the security protections taken to ensure such data will be
+            protected and privacy risks mitigated.
+f.   In the event of a breach of the within confidentiality and data security and privacy
+     standards provision and unauthorized release of student data, Edu Tek shall immediately
+     notify the District and advise it as to the nature of the breach and steps Edu Tek has taken
+     to minimize said breach. Said notification must be made within seven (7) days of the
+                                                 Educational Technology Consultants for Voice, Video & Data   5
+
+                 breach. In the case notification to a parent or eligible student is required by applicable
+                 law, Edu Tek shall promptly reimburse the District for the cost of such notification.
+            g. In the event that Edu Tek fails to notify the District of a breach, said failure shall be
+               punishable by a civil penalty of the greater of $5,000 or up to $10 per student, teacher
+               and principal whose data was released, provided that the maximum penalty imposed shall
+               not exceed the maximum penalty imposed under General Business Law, section 899-
+               aa(6)(a).
+            h. Except as set forth in paragraph (g) above, in the event Edu Tek breaches its obligations
+               under this Confidentiality and Data Security and Privacy Standards provision and such
+               breach leads to a violation of Education Law 2-d, said violation shall be punishable by a
+               civil penalty of up to $1,000. A second violation involving the same data shall be
+               punishable by a civil penalty of up to $5,000. Any subsequent violation involving the same
+               data shall be punishable by a civil penalty of up to $10,000. Each violation shall be
+               considered a separate violation for purposes of civil penalties and the total penalty shall
+               not exceed the maximum penalty imposed under General Business Law section 899-
+               aa(6)(a).
+            i.   Edu Tek shall indemnify and hold the District harmless from any third party claims arising
+                 from its breach of the within confidentiality and data security and privacy standards
+                 provision.
+            j.   Upon termination of this Agreement, Edu Tek shall return or destroy all confidential
+                 information in its possession obtained in connection with the services provided herein
+                 and/or student data. Destruction of the confidential information and/or student data
+                 shall be accomplished utilizing an approved method of confidential destruction, including,
+                 shredding, burning or certified/witnessed destruction of physical materials and verified
+                 erasure of magnetic media using approved methods of electronic file destruction. The
+                 parties further agree that the terms and conditions set forth herein shall survive the
+                 expiration and/or termination of this Agreement.
+Confidentiality Training
+Edu Tek acknowledges that federal and state laws protect the confidentiality of personally identifiable
+information of the District’s students as well as its teachers and principals. Edu Tek represents and
+warrants that any officers, directors, employees or agents of Edu Tek, who will have access to student,
+teacher and/or principal data of the District, have received or will receive training on the federal and state
+laws governing confidentiality of such data prior to obtaining access to such data.
+Compliance with Law/Fingerprinting
+Edu Tek shall comply, at its own cost and expense, with all applicable Federal, State and local statutes,
+rules, regulations and ordinances including, but not limited to, the New York State Safe Schools Against
+Violence in Education (SAVE) legislation, the Federal Family Educational Rights and Privacy Act (“FERPA”)
+and Section 2-d of the New York State Education Law (which concerns privacy and security of student,
+teacher and principal data). Edu Tek shall adhere to all requirements and protocols as established by the
+District and the New York State Education Department applicable to the services to be provided under
+this Agreement. Edu Tek also acknowledges and agrees that its officers, directors and employees
+performing on-site services for the District under this Agreement are subject to fingerprinting and a
+criminal history record check as required by the SAVE legislation and other sections of the Education Law
+of the State of New York. Appropriate written proof of such clearance shall be provided to the District
+prior to such individuals providing services to the District. Edu Tek agrees to cooperate with the District
+and to complete any and all necessary forms or procedures to obtain required fingerprinting and criminal
+
+                                                             Educational Technology Consultants for Voice, Video & Data   6
+
+history checks, all at no additional cost or expense to the District. In the event that Edu Tek utilizes an
+individual who is required to and who has not obtained fingerprinting clearance with the New York State
+Education Department, the District shall have the right to immediately terminate this Agreement.
+
+
+
+
+                                                            Educational Technology Consultants for Voice, Video & Data   7
+
+PROPOSAL ASSUMPTIONS
+      •   The District will provide the necessary hardware and/or software to make repairs to computer
+          equipment.
+      •   The District will provide Edu Tek with all necessary rights/passwords to administer the entire
+          District’s network.
+     •    The District will maintain warrantees with manufacturers where possible.
+     •    The District will provide sufficient stock of replacement hardware to prevent excessive
+          downtime.
+     •    The District will not be responsible for any employee benefits for Edu Tek employees.
+     •    Edu Tek will not have responsibility for the purchase of IT equipment or software on behalf
+          the District.
+     •    The District designates the Superintendent of Schools as its representative, who is authorized
+          to act on the District’s behalf with respect to this Agreement.
+     •    Should this Agreement be terminated, the District agrees that it is precluded from employing
+          individuals, who the District knows to be current or former Edu Tek employees directly or
+          through competing firms for the duration of the project or within twenty-four (24) months of
+          the date of termination of this Agreement, whichever is longer.
+     •    If a project requires either weekend and/or after-hours attention services shall not be
+          rendered unless addition compensation is agreed upon in writing by both parties (i.e. a fixed
+          fee or agreement on the applicable hourly service rates) for the service. Edu Tek will be
+          reimbursed for all approved overtime expenses that are mutually acceptable and agreed to
+          in writing, either monetarily or by credit for time on site upon submission of detailed invoices
+          and prior written approval by the District.
+     •    This Agreement may be terminated by District or Edu Tek upon 60 days’ written notice to the
+          other party. In the event of such termination, the parties will adjust the accounts due and
+          payable to Edu Tek for services rendered through the effective date of termination. Edu Tek
+          will not be required to perform any Services or incur any additional expenses after the date
+          of termination. Upon receipt of notification that Edu Tek’s services have been terminated, the
+          parties shall endeavor in an orderly manner to wind down activities hereunder.
+     •    Impacts to Edu Tek’s services resulting from changes to the District’s IT environment,
+          including quality, complexity, schedule, volume/demand, staffing, or budget, will be discussed
+          by the Parties.
+     •    This Agreement may be terminated for cause by the District in the event of a breach of this
+          Agreement by Edu Tek, not less than five (5) business days’ prior written notice from the
+          District to Edu Tek, unless a shorter period of time is specifically provided for elsewhere in
+          this Agreement.
+     •    The District may request a change of staffing or removal of staffing at any time and Edu Tek
+          will provide replacement staff as soon as possible. In the event that the District requests that
+          one of the current Edu Tek Engineers be removed immediately for conduct including but not
+          limited to theft, inappropriate contact with a student or staff member, dereliction of duties,
+          said Edu Tek Engineer will be removed immediately and Edu Tek agrees to provide back-up
+          support while it seeks a replacement. The District reserves the right to pro rate Edu Tek’s
+          compensation for any period of time, other than the agreed to Discretionary Time, when the
+          District is not provided with the staffing levels specified in this contract.
+                                                          Educational Technology Consultants for Voice, Video & Data   8
+
+      •   The District will make the worksite available during normal working hours to Edu Tek’s onsite
+          staff all weekdays unless on a holiday. This includes school vacation periods when custodial
+          staff is already scheduled to work. Any other requests for the worksite to be available need
+          the express permission of the Assistant Superintendent of Business as custodial staff need to
+          be arranged to have the building open for the Edu Tek team.
+
+INSURANCE AND INDEMNIFICATION
+
+          a. Notwithstanding any terms, conditions or provisions, in any other writing between the
+          parties, Edu Tek hereby agrees to effectuate the naming of District as an additional insured on
+          Edu Tek’s commercial general liability and excess liability insurance policies. If the policy is
+          written on a claims-made basis, the retroactive date must precede the date of the contract.
+
+          b.   The policy naming District as an additional insured shall:
+
+               i.   be an insurance policy from an A.M. Best rated "Secure" insurer, licensed in New York
+                    State.
+
+               ii. state that Edu Tek’s coverage shall be primary and non-contributory coverage for
+                   District, its Board, employees and volunteers.
+
+          c. District shall be listed as an additional insured by using endorsement CG 2026 or
+          equivalent. The decision to accept an alternative endorsement rests solely with District. A
+          completed copy of the endorsement must be attached to the certificate of insurance.
+
+          d. The certificate of insurance must describe the specific services provided by Edu Tek that
+          are covered by the liability policies.
+
+          e. At District request, Edu Tek shall provide a copy of the declaration page of the liability and
+          umbrella policies with a list of endorsements and forms. If so requested, Edu Tek will provide
+          a copy of the policy endorsements and forms.
+
+          f. Edu Tek agrees to indemnify District for any applicable deductibles and self-insured
+          retentions.
+
+          g.   Required Insurance:
+
+                    i.      Commercial General Liability Insurance:
+                            $1,000,000 per occurrence/ $2,000,000 aggregate with coverage for sexual
+                            misconduct.
+
+                    ii.     Automobile Liability:
+                            $1,000,000 combined single limit for owned, hired, borrowed and non-
+                            owned motor vehicles.
+
+                    iii.    Workers' Compensation, Employers’ Liability/N.Y.S. Disability/N.Y.S. Paid
+
+                                                           Educational Technology Consultants for Voice, Video & Data   9
+
+                     Family Leave:
+                     Statutory Workers' Compensation, Employers' Liability and N.Y.S. Disability
+                     Benefits/N.Y.S. Paid Family Leave Insurance for all employees. Proof of
+                     coverage must be on the approved specific form, as required by the New York
+                     State Workers’ Compensation Board. ACORD certificates are not acceptable.
+
+                     A self-employed person and certain partners and corporate officers are
+                     excluded from the definition of “employee” pursuant to Workers’
+                     Compensation Law Section 2 (4). As such, individuals in such capacity are
+                     excluded from Workers’ Compensation Law coverage requirements. A person
+                     seeking an exemption must file a CE-200 form with the state. The form can
+                     be completed and submitted directly to the WC Board online.
+
+        iv.     Professional Errors and Omissions Insurance:
+                $2,000,000 per occurrence/ $2,000,000 aggregate for the professional acts of Edu
+                Tek performed under the contract for District. If written on a “claims-made”
+                basis, the retroactive date must pre-date the inception of the contract or
+                agreement. Coverage shall remain in effect for two years following the
+                completion of work.
+
+        v.      Umbrella/Excess Insurance:
+                $3,000,000 each occurrence and aggregate. Umbrella/Excess coverage shall be
+                on a follow-form basis over the required General Liability and Professional
+                Liability coverage.
+
+h.      Edu Tek acknowledges that failure to obtain such insurance on behalf of District
+constitutes a material breach of contract. Edu Tek is to provide District with a certificate of
+insurance, evidencing the above requirements have been met, prior to the commencement of
+work or use of facilities. The failure of District to object to the contents of the certificate or the
+absence of same shall not be deemed a waiver of any and all rights held by District.
+
+i.      District is a member/owner of the NY Schools Insurance Reciprocal (NYSIR). Edu Tek
+further acknowledges that the procurement of such insurance as required herein is intended to
+benefit not only District but also NYSIR, as District’s insurer.
+
+j.      Edu Tek will be responsible for any applicable deductibles and self-insured retentions
+required by Edu Tek’s insurance policies.
+k.       Edu Tek hereby agrees to defend, indemnify and hold harmless the Irvington UFSD
+District and its Board, employees and volunteers from and against any and all liability, loss,
+damage, claim or action (including reasonable costs and attorneys’ fees) including but not limited
+to bodily injury and property damage, to the extent permissible by law, arising out of operations
+performed or services provided by Edu Tek under this Agreement.
+
+
+
+
+                                                     Educational Technology Consultants for Voice, Video & Data   10
+
+SERVICES NOT INCLUDED
+The following services are not included in proposed basic services. These services can be provided as an
+additional service when authorized, in writing, by the District. The services of a licensed electrical
+contractor are not included in our services.
+
+
+
+
+The District will continue to obtain the following services from a third-party provider and thus they would
+not be a part of Edu Tek’s base service:
+
+    Internet Service
+    General Software Training
+    District Test Scoring
+    Data Warehouse Reporting
+
+    VoIP Systems Support
+    Physical Security Systems Support
+    Cybersecurity Documentation Services
+
+
+
+
+                                                            Educational Technology Consultants for Voice, Video & Data   11
+
+SCHEDULE
+
+      Project Commencement
+      This Agreement shall start on 7/1/2022 and end on 6/30/2023, unless terminated sooner in
+      accordance with the provisions of this Agreement.
+
+      Daily & Weekly
+      Edu Tek will provide:
+      •    2.0 On-site Systems Engineer(s) Level I
+      •    1.0 On-site Systems Engineer(s) Level II
+      •    1.0 On-site Data Engineer(s) Level I
+      On-site Project Operations Manager services not to exceed twenty (20) days per year less
+         discretionary time described below.
+      The Engineers’ schedule will be from 8:00 am until 4:30 pm and they will receive ½ hour for lunch
+      unless another mutually agreeable schedule is determined.
+
+      Discretionary Time
+      For each full time Edu Tek staff position held in the District, Edu Tek will receive two (2) weeks or
+      ten (10) days of discretionary time in addition to the holidays listed below. This time will be used
+      to fill employee vacation and sickness requests. The time may also be used to provide training to
+      onsite staff or to perform tasks not related to the District. As with school administrative
+      employees, it is preferable that discretionary days are taken during school recess days or periods.
+      Notice regarding the use of discretionary time in excess of two (2) days in duration will be
+      discussed with the District at least two-weeks prior to commencement. Edu Tek will be
+      responsible for providing additional staff if more than 1 of their assigned staff members are absent
+      on the same day if for more than a one-day period.
+               • In the event that Edu Tek is required to provide services on the following holidays,
+                  Edu Tek will be compensated for such work as an additional service in accordance
+                  with the hourly rate schedule set forth below: Labor Day
+               • Columbus Day
+               • Veteran’s Day
+               • Thanksgiving Day and Friday after
+               • Christmas Eve Day
+               • Christmas Day
+               • New Year’s Eve Day
+               • New Year’s Day
+               • Martin Luther King Day
+               • President’s Day
+               • Good Friday
+               • Memorial Day
+               • Independence Day
+               • Juneteenth
+
+
+
+      Emergency Closures
+
+                                                          Educational Technology Consultants for Voice, Video & Data   12
+
+Site closures due to emergencies including snow do not count against allotted discretionary time.
+If the District Office is open on such days, Edu Tek employees are expected to be present to work.
+If remote access is available staff will perform any possible duties during their normal hours. If the
+District Office is closed, Edu Tek must be available remotely to the District’s administrative and
+building level administrative staff. In the case of an IT emergency every effort will be made to
+provide staff onsite to address outages requiring physical interaction with the on-premise
+equipment. Edu Tek will coordinate with the District’s facilities representatives to ensure access
+to the site is possible.
+
+
+
+
+                                                     Educational Technology Consultants for Voice, Video & Data   13
+
+MISCELLANEOUS TERMS AND CONDITIONS
+No Assignment
+Edu Tek may not assign, transfer or convey any of its respective rights or obligations under this Agreement
+or subcontract any portion of the services set forth herein, without the prior written consent of the
+District, which consent may be withheld for any reason whatsoever or for no reason.
+
+Cooperation in the Event of Litigation
+In the event that any claim, demand, suit or other legal proceeding arising out of any matter relating to
+this Agreement is made or instituted by any person against the District, , Edu Tek shall, at its own cost and
+expense, provide the District with all reasonable information and assistance in the defense or other
+disposition thereof.
+
+Notices
+Any and all notices, demands or other communications required or desired to be given hereunder by
+either party shall be in writing and shall be validly given or made to the other party if personally served or
+if deposited in the United States mail, certified or registered, postage prepaid, return receipt requested
+and addressed to the party, as set forth above. Notice may be given by a party or a party’s officers,
+directors, attorneys or agents. If such notice, demand or other communication is served personally, it
+shall be effective immediately. If such notice, demand or other communication is given by mail, the same
+shall be effective when received, but in any event, it shall be effective no later than five (5) days after
+deposit in the United States mail addressed to the party to whom such notice, demand or other
+communication is to be given, at the address set forth below. Either party hereto may change its address
+for purposes of this paragraph by written notice given in the manner provided above.
+
+Notice to Edu Tek:               Edu Tek Ltd.
+                                 Attn: Matthew Orifici
+                                 President
+                                 99 Fulton Street
+                                 White Plains, NY 10606
+
+Notice to the District:          Irvington UFSD
+                                 Attn: Ms. Carol Stein
+                                 Assistant Superintendent for Business
+                                 6 Dows Lane
+                                 Irvington, NY 10533
+
+No Waiver of Default
+No failure by either party to insist upon the strict performance of any term, covenant, agreement or
+provision of this Agreement or to exercise any right or remedy upon a breach thereof, and no acceptance
+by the District of any services during the continuance of any such breach, shall constitute a waiver of any
+such breach or of any such term, covenant, agreement or provision.
+
+Modification or Amendment
+No amendment, change or modification of this Agreement shall be valid unless in writing, signed by both
+parties hereto.
+
+
+                                                             Educational Technology Consultants for Voice, Video & Data   14
+
+Entire Understanding
+This Agreement constitutes the entire understanding and agreement between the parties and any and
+all prior agreements, commitments, understandings and representations are merged herein and are of
+no further force and effect.
+
+Governing Law
+This Agreement shall be governed by, and interpreted and enforced in accordance with, the laws of the
+State of New York without regard to conflicts or choice of law provisions that would defer to the
+substantive laws of another jurisdiction. Each of the parties hereto consents to the jurisdiction of any
+state court located within the County of Westchester, State of New York, or federal court located in the
+County of Westchester, State of New York, and irrevocably agrees that all actions or proceedings relating
+to this Agreement must be litigated in such courts, and each of the parties waives any objection which it
+may have based on improper venue or forum non conveniens to the conduct of and proceeding in any
+such court.
+
+Construction
+This Agreement has been arrived at mutually and is not to be construed against any party hereto as being
+the drafter hereof or causing the same to be drafted.
+
+
+
+
+                                                          Educational Technology Consultants for Voice, Video & Data   15
+
+COMPENSATION
+Based on the SCOPE OF SERVICES and PROPOSAL ASSUMPTIONS described above, the parties agree to
+the following fee:
+
+        Item                                                Proposed Fee
+
+
+                                                            $       38,405.14 Total/Month
+        On Site for 12-months
+                                                            $       460,861.66 Total/Year (annualized)
+
+
+        Hourly Fee for Additional Services (Per Hour)       See Pricing Matrix
+
+
+The District reserves the right to pro rate the above-compensation for any period of time, other than the
+agreed to Discretionary Time, when Edu Tek does not provide the District with the services outlined in
+this contract.
+
+The above compensation is inclusive of any and all of the expenses incurred by Edu Tek in performing the
+above-described services for the District, including, without limitation, for such things as travel, copying
+expenses, postage, facsimile and telephone charges, mobile/cellular telephone service charges. The
+above compensation also is inclusive of any fees, fines, licenses, certificates, certifications, bonds or taxes
+required of or imposed against Edu Tek or its officers, directors or employees or agents in connection with
+the performance of the above-described services.
+        •   Edu Tek will invoice the District monthly for the portion of the fee due and any agreed to
+            reimbursable expenses incurred in the preceding month. Edu Tek will include supporting data
+            as may be required by the District. The District shall give Edu Tek notice of any invoice dispute
+            within twenty (20) days of its receipt of the invoice and reserves the right to reasonably
+            withhold payment of disputed sums pending the resolution of this dispute. The District will
+            work with Edu Tek to resolve any disputed sums within a reasonable period of time. Failure
+            to dispute any invoice shall not be deemed as an acceptance and does not act as a waiver of
+            the District’s rights or prevent the District from availing itself of any remedy or course of
+            action it has at law or in equity at a later date. Payment will be made within thirty (30) days
+            of receipt of the invoice by the District.
+        •   The District shall have the right to examine any and all accounting records of Edu Tek, its
+            officers, directors, employees and/or agents as they pertain to the services provided pursuant
+            to this Agreement.
+        •   Edu Tek’s acceptance of the final payment shall constitute a full and complete satisfaction of
+            this Agreement and release the District from any and all claims, demands, and causes of action
+            whatsoever, which Edu Tek, its successor have or may have against the District under this
+            Agreement.
+
+
+
+
+                                                                Educational Technology Consultants for Voice, Video & Data   16
+
+         Additional Services
+         Edu Tek shall be compensated for additional services, weekend, or holiday support, by the District at the
+         hourly rates set forth below for the following:
+
+
+
+     2022-23 Staff Pricing Matrix               Hourly           1 D/Yr.          2 D/Yr.          2.5 D/Yr.         3 D/Yr.          Annual
+     System Engineer Level I                          $111.38       $39,385.38       $69,503.62       $75,295.58       $83,404.34         $122,789.72
+     System Engineer Level II                         $135.78       $48,012.66       $84,728.22       $91,788.90      $101,673.86         $149,686.52
+     System Engineer Level III                        $161.24       $57,015.03      $100,614.76      $108,999.32      $120,737.71         $177,752.74
+     Desktop Technician Level I                       $102.00       $36,067.20       $63,648.00       $68,952.00       $76,377.60         $112,444.80
+     Desktop Technician Level II                      $117.30       $41,477.28       $73,195.20       $79,294.80       $87,834.24         $129,311.52
+     Internetworking Engineer Level I                 $161.24       $57,015.03      $100,614.76      $108,999.32      $120,737.71         $177,752.74
+     Internetworking Engineer Level II                $187.76       $66,392.50      $117,163.24      $126,926.84      $140,595.89         $206,988.39
+     Data Engineer Level I                            $111.38       $39,385.38       $69,503.62       $75,295.58       $83,404.34         $122,789.72
+     SAN Engineer                                     $161.24       $57,015.03      $100,614.76      $108,999.32      $120,737.71         $177,752.74
+     Security Engineer                                $161.24       $57,015.03      $100,614.76      $108,999.32      $120,737.71         $177,752.74
+     Audio / Visual Technician Level I                $111.38       $39,385.38       $69,503.62       $75,295.58       $83,404.34         $122,789.72
+     Audio / Visual Technician Level II               $135.78       $48,012.66       $84,728.22       $91,788.90      $101,673.86         $149,686.52
+
+
+
+
+Bundled Services Matrix                  Description                                                                                          Unit Cost
+                                         Unit Cost for Cat 6 Data Cable installation. Includes materials and labor for distances not to
+Data Cabling                                                                                                                                      $390.00
+                                         exceed 300 feet.
+Basic Display Installation               Unit cost for Basic Display installation. Does not include materials.                                    $400.00
+                                         Interior IP Camera installation (below 15 feet above finished floor). Includes Interior Vandal
+Basic Camera Installation                                                                                                                        $1000.00
+                                         Resistant IP camera and associated mounting hardware.
+                                         Interior/Exterior IP Camera installation (above 15 feet above finished floor). Includes IP
+Advanced Camera Installation                                                                                                                    $1,500.00
+                                         camera and associated mounting hardware.
+
+
+
+
+                                                                                      Educational Technology Consultants for Voice, Video & Data          17
+
+Staffing Definitions
+
+
+        System Engineer Level One
+        Certifications - MCSP, CAN, CLA or equivalent experience Skill Set:
+        •   Ability to install Network operating system and perform simple operating system upgrades
+            (not requiring any data or application movement/migration).
+        •   Basic operating system troubleshooting.
+        •   Standard network/local printing and print queue installation and management.
+        •   General network Administration (adding users, groups, shares, printers).
+        •   Server hardware configuration.
+        •   Rack device installations and cable management.
+        •   SCSI attached storage subsystems.
+        •   Implementation of Patch process for individual NOS.
+        •   Non configurable/non manageable switch installations.
+        •   Stand-alone Tape drive installations.
+        •   Approved server based (non enterprise) tape backup software installation and configuration
+            (specific agents may require a SE Level 2).
+        •   General server diagramming and documentation.
+
+
+        System Engineer Level Two
+        Certifications – ITIL Foundation, MCSE, CNE, CLE or equivalent experience Skill Set:
+        (minimum of 3 years)
+        •   Ability to install Network operating system and perform more complex upgrades (application
+            and data moves must be well defined and pre-approved).
+        •   Advanced troubleshooting of operating system.
+        •   Advanced network/local printing such as shared faxing and shared scanning.
+        •   Advanced network Administration such as Directory and Domain troubleshooting.
+        •   Cluster Hardware configurations.
+        •   Blade Server configurations.
+        •   Entry Level NAS/SAN (Fiber Attached Subsystems and Appliance NAS devices) in cluster
+            configurations only. Does not include additional products for load balancing or active- active
+            failure.
+        •   Implementation of Patch process for Server group such as Microsoft Servers using bundled
+            solutions such as SUS, Kaseya, WUS and Zenworks.
+        •   Entry level managed/configurable switches not requiring routing, trouncing, or multiple
+            manufacturer switch operation.
+        •   Standalone tape drive installations including autoloaders.
+        •   Approved server based (non enterprise) tape backup software installation and configuration
+            and installation of approved backup agents including remote agents.
+        •   Server Centric diagramming and documentation.
+
+
+
+                                                               Educational Technology Consultants for Voice, Video & Data   18
+
+System Engineer Level Three
+Certifications - MCSE, ITIL Foundation, CNE, CLE or equivalent experience Skill Set:
+(minimum of 4 years)
+•   Ability to install Network operating system and perform all necessary upgrades (application
+    and data moves must be well defined and pre-approved).
+•   Advanced troubleshooting of operating system.
+•   Advanced network/local printing such as shared faxing and shared scanning.
+•   Advanced network Administration such as Directory and Domain troubleshooting.
+•   Cluster Hardware configurations.
+•   Blade Server configurations.
+•   Senior Level NAS/SAN (Fiber Attached Subsystems and Appliance NAS devices) in cluster
+    configurations only.
+•   Implementation of Patch process for Server group such as Microsoft Servers using bundled
+    solutions such as SUS, WUS and Zenworks.
+•   Senior level manage/configure switches including routing, trouncing, or multiple
+    manufacturer switch operation.
+•   Management of firewalls, content filters, and wireless network configurations.
+•   Management of on-premise/off-premise backup solutions and configuration and installation
+    of approved backup agents including remote agents.
+•   Server Centric diagramming and documentation.
+
+
+Internetworking Engineer Level One
+Certifications - CCNA or equivalent experience Skill Set:
+•   Entry Level Engineer with ability to configure and install Network devices such as switches
+    and routers not requiring advanced configurations.
+•   Troubleshooting basic switched and routed environments.
+•   Layer 2 switch configurations including VLAN, Trunking, Channeling.
+•   Basic router configurations using static routing, (no routing protocols or QoS).
+•   Basic ACL's knowledge.
+•   Small to Medium Business basic Infrastructure design including IP addressing and Subnetting.
+•   Router and switch image upgrades (that will not be impacted by routing protocols).
+•   Basic internet and site-to-site connectivity (excluding VPNs).
+•   General Network Diagramming and documentation.
+
+
+
+
+                                                        Educational Technology Consultants for Voice, Video & Data   19
+
+Internetworking Engineer Level Two
+Certifications - CCNP or equivalent experience) Skill Set:
+•   Mid-Level Engineer having all of the skill sets of Level 1 plus
+•   Troubleshooting of advanced switched and routed environments.
+•   Layer 2 switch configurations including VLAN, Trunking, Channeling and advanced STP
+    configurations.
+•   Layer 3 switch configurations including Basic routing protocols.
+•   Advanced router configurations including routing protocols EIGRP, OSPF, RIP, IGRP.
+•   Advanced ACL's knowledge and the ability to configure.
+•   Basic wireless installations including basic authentication (WEP, MAC)
+•   Basic Infrastructure design.
+•   Basic knowledge of SNMP, SYSLOG, DNS, NTP, TACACS/Radius.
+•   Router and switch image upgrades which can be impacted by routing protocols.
+•   Site-to-site connectivity such as inter and intra site routing (Excluding VPNs).
+•   General Network Diagramming and documentation.
+
+Security Engineer Level One
+Certifications - Cisco Qualified Specialist or equivalent experience Skill Set:
+•   Entry Level Engineer with ability to configure and install basic security devices
+    including SOHO, and workgroup with one DMZ.
+•   Basic firewall troubleshooting.
+•   Basic VPN configurations (Must be same devices for Site-to-Site), and User VPN using only
+    firewall authentication.
+•   Implementation of integrated add-ons such as general content filtering and web blocking.
+•   Basic ACL's knowledge.
+•   Basic knowledge or DNS, NTP, RADIUS/TACACS.
+•   Basic firewall upgrades.
+•   Basic Network and security diagramming and documentation.
+Security Engineer Level Two
+Certifications - CSSP or equivalent experience Skill Set:
+•   Mid-Level Security engineer having all of the skill sets of Level 1 plus
+•   Perform basic security assessments.
+•   Advanced firewall and security device troubleshooting.
+•   Advanced firewalls installations including firewall clusters, failover and advanced features.
+•   Advanced VPN configurations. (Can include different manufacturers VPN devices if approved.
+    Can include advanced authentication methods.)
+•   Implementation point security products such as advanced or stand-alone web filtering, spam
+    filtering, authentication servers.
+•   Intrusion Detection device installations set to default values.
+•   Advanced ACL's knowledge and the ability to configure.
+•   Ability to configure DNS, NTP, RADIUS/TACACS, IP protocols
+•   Custom security audits and assessments (excluding external only vulnerability assessments).
+                                                            Educational Technology Consultants for Voice, Video & Data   20
+
+•   Security Policy/Procedure design, review.
+•   General Network and security diagramming and documentation.
+
+SAN Engineer Level One
+Certifications - SAN Architect Skill Set:
+•   Entry Level NAS/SAN engineer with the ability to design and implement general NAS and SAN
+    devices such as EVA 3000.
+•   Entry Level DAS/NAS/SAN in cluster configurations only that require load balancing and
+    active-active failover.
+•   Installation of basic fabric switching.
+•   Installation of basic SAN appliance.
+•   Advanced NAS configurations and implementations as appropriate to the workgroup SAN
+    level.
+•   Basic Tape Library installations and configurations.
+•   Basic Enterprise tape backup software installation and configurations.
+•   Entry level SAN design and documentation.
+
+SAN Engineer Level Two
+Certifications - Master SAN Architect Skill Set:
+•   Advanced Level SAN engineer with the ability to design and implement enterprise level SAN
+    devices.
+•   Advanced SAN configurations such as those requiring data replication, automated cloning and
+    snapshotting.
+•   Installation of advanced fabric switching such as data directors.
+•   Installation of advanced SAN appliance.
+•   Advanced NAS configurations and implementations as appropriate to the workgroup SAN
+    level.
+•   Advanced Tape Library installations and configurations integrating special features.
+•   Advanced Enterprise tape backup software installation and configurations such as those that
+    leverage distributed data replication.
+•   Data protection strategies.
+•   Storage Auditing.
+•   Storage Content Control.
+•   Data Replication Strategies.
+•   Disaster recovery strategies.
+•   SAN Architecture and documentation.
+
+Desktop Technician Level One
+Certifications: A+ MCP Skill Set
+•   Troubleshooting of desktops;
+•   Hard drive and System board swaps;
+•   Memory and Card Installations;
+•   Basic Desktop OS troubleshooting; and
+
+                                                   Educational Technology Consultants for Voice, Video & Data   21
+
+•   Bench repair work.
+
+Desktop Technician Level Two
+Certifications: A+ MCP MCSP Skill Set
+•   First and second level on-site desktop support;
+•   Capable of moves, adds and changes in a network environment;
+•   System imaging; and
+•   Desktop and Printer installation.
+
+
+
+
+                                               Educational Technology Consultants for Voice, Video & Data   22
+
+AGREEMENT
+
+The undersigned representative of Edu Tek hereby represents and warrants that the undersigned is the
+owner or an officer, director, or agent of Edu Tek with full legal rights, power and authority to enter into
+this Agreement on behalf of Edu Tek and to bind Edu Tek with respect to the obligations enforceable
+against Edu Tek in accordance with its terms.
+If this proposal is acceptable, please sign one copy and return it to us for our files. It will serve as a contract
+between us for the above-described services.
+Thank you for considering Edu Tek Limited for the above-described services. We look forward to
+continuing our productive relationship with Irvington UFSD as we work together to support your
+educational technology.
+
+
+Sincerely,
+
+
+
+
+Matthew J. Orifici
+President
+Edu Tek Ltd.
+
+
+
+
+ACCEPTED:                 Irvington UFSD
+
+BY:                       _______________________________
+
+TITLE:                    _______________________________
+
+DATE:                     _______________________________
+
+
+
+
+                                                                Educational Technology Consultants for Voice, Video & Data   23
+

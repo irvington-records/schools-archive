@@ -1,0 +1,469 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/pfiles/BDGPPT65A0C1/$file/Edutek%20Data%20Contract.pdf | DATE: 2019-07-02 | TITLE: 2019-20 Reorganization Meeting/Regular Meeting - 6:30 p.m.* | 20.8 Contract - Data Management Services | Edutek Data Contract.pdf
+
+             CONSULTANT AGREEMENT
+
+                           For
+
+Onsite Information Technology (IT) Services 2019-20
+
+
+
+
+                        Between
+
+       Irvington Union Free School District (IUFSD)
+
+                           and
+
+                    Edu Tek Ltd. (ETL)
+
+
+
+ Dated this 18th day of June, Two Thousand and Nineteen
+
+                                        PROJECT DESCRIPTION
+Working with the Irvington Union Free School District (IUFSD) Edu Tek Limited (ETL) will provide
+comprehensive District Data Management services.
+
+This agreement shall start on July1, 2019 and end on June 30, 2020. Edu Tek will support the
+district’s data systems and associated platforms. This service includes support for all existing data
+and content systems currently in use at all sites. The support described will be performed by:
+    •   One Full-Time Level I Data Engineer
+
+SCOPE OF SERVICES
+
+    The scope of services contained in this agreement includes but is not limited to the following:
+Comprehensive District Data Management Services:
+    •   Daily SIS (ESchool Plus) management.
+    •   Management of disparate data sources held in other district systems.
+    •   Reporting and data export services for State Warehouse.
+    •   Consulting services to assist district with new data related initiatives.
+    •   Integration with various content management systems.
+
+
+
+
+                                                            Educational Technology Consultants for Voice, Video & Data   2
+
+PROPOSAL ASSUMPTIONS
+   •   The district will provide Edu Tek with all necessary rights/passwords to administer the
+       entire district’s data systems.
+  •    District will support agreements with software vendors where possible.
+  •    District will provide sufficient access to data sources.
+  •    The district will not be responsible for any employee benefits for Edu Tek employees.
+  •    The district will provide a viable technology infrastructure to support the data initiatives
+       set forth by the district.
+  •    The district will provide an IT support structure, including staffing, commensurate with
+       the size and requirements of the network.
+  •    The district will designate a representative authorized to act in the district’s behalf with
+       respect to the project at the time of the execution of this agreement.
+  •    Should this agreement be terminated, the district agrees that they are precluded from
+       employing current or former Edu Tek Ltd. employees directly or through competing firms
+       for the duration of the project or within twenty-four (24) months of the date of
+       termination of this agreement, whichever is longer.
+  •    Non-contractual services requested that cannot be completed within the time allotted
+       per this contract will be negotiated for separately and will be billed as additional services,
+       if mutually agreed to in writing.
+  •    If a project requires either weekend and/or after hours attention services shall not be
+       rendered unless a fixed fee is negotiated for the service. Edu Tek will be reimbursed for
+       all approved overtime expenses that are mutually acceptable and agreed to in writing,
+       either monetarily or by credit for time on site upon submission of detailed invoices and
+       prior written approval by the district.
+  •    The district or Edu Tek may revoke this contract at any time for cause and with ninety (90)
+       days’ written notice.
+  •    The district may request a change of staffing at any time and EDU TEK will provide
+       alternate staff with sixty (60) days’ notice.
+  •    The district will make the worksite available during normal working hours to Edu Tek’s
+       onsite staff all weekdays unless listed as a holiday in the SCHEDULE section below. This
+       includes school vacation periods.
+
+
+
+
+                                                        Educational Technology Consultants for Voice, Video & Data   3
+
+Insurance and Indemnification
+   •   Edu Tek shall defend the District and hold the District harmless from and against all claims,
+       actions, losses, damages and expenses (including reasonable attorney’s fees and court
+       costs) incurred by the District in connection with any loss of life, personal injury or damage
+       to property or premises caused, in whole or in part, by the negligent or willful act or
+       omission of Edu Tek, its agents, employees, licensees, invitees or contractors, arising (a)
+       from any occurrence in or on the Leased Premises, or (b) from the use by Edu Tek of any
+       part of the Leased Premises.
+
+
+
+
+                                                        Educational Technology Consultants for Voice, Video & Data   4
+
+SERVICES NOT INCLUDED
+The following services are not included in proposed basic services. These services can be
+provided as an additional service when authorized, in writing, by the district.
+The district will continue to obtain the following services from a third-party provider or separate
+contract and thus they would not be a part of Edu Tek’s base service:
+    •   Internet Service
+    •   General IT Support Services
+
+Schedule
+
+Daily & Weekly
+Edu Tek will provide one (1) onsite, Full-Time Level I Data Engineer for forty (40) hours per week,
+less discretionary time described below.
+The Level I Engineers schedule will be from 7:00 am until 3:30 pm and they will receive ½ hour
+for lunch unless another mutually agreeable schedule is determined.
+In addition to the services described above the district will also receive:
+    •   On-site Data Operations Manager services not to exceed ten (10) days per year
+
+
+The use of this time will be dictated by the requirements of the onsite engineers and current
+projects in the district.
+
+
+
+
+                                                         Educational Technology Consultants for Voice, Video & Data   5
+
+Discretionary Time
+For each full time Edu Tek Staff position held in district Edu Tek will receive two (2) weeks or ten
+(10) days of discretionary time in addition to holidays (see below). This time will be used to fill
+employee vacation and sickness requests. The time may also be used to provide training to our
+onsite staff or to perform tasks not related to the district. Notice regarding the use of
+discretionary time, in excess of two (2) days in duration, will be discussed with the district at
+least two-weeks prior to commencement.
+
+Vacations
+So that the district has consistent on site coverage Edu Tek will make every effort to ensure that
+employee vacations do not overlap. Edu Tek will make every effort to coincide employee
+vacations with non-holiday district closures to provide consistent coverage throughout the
+school year.
+
+Sick Days
+Edu Tek will make every effort to provide same day coverage for an ill employee who is unable
+to be present on a given day. If we are not able to provide a substitute employee for a given day
+the time absent will be counted against our discretionary time.
+
+Holidays
+Edu Tek Limited does not provide onsite coverage during the following holidays. (Note: These
+holidays are not included in the discretionary time):
+    •   Labor Day
+    •   Columbus Day
+    •   Veteran’s Day
+    •   Thanksgiving Day and Friday after
+    •   Christmas Eve Day
+    •   Christmas Day
+    •   New Years Eve Day
+    •   New Years Day
+    •   Martin Luther King Day
+    •   President’s Day
+    •   Good Friday
+    •   Memorial Day
+    •   Independence Day
+Emergency School closures
+School closures due to emergencies including snow do not count against our allotted
+discretionary time. If the District Office is open on such days, Edu Tek employees are expected
+to be present to work.
+
+
+
+
+                                                         Educational Technology Consultants for Voice, Video & Data   6
+
+COMPENSATION
+Based on the SCOPE OF SERVICES and PROPOSAL ASSUMPTIONS described above, we propose
+the following fee:
+
+       Item                                             Proposed Fee
+
+                                                        $8,289.17/Month
+       On Site Data Services for 12-months
+                                                        $99,470.00/Year
+
+
+       Hourly Fee for Additional Services (Per Hour)    See Pricing Matrix
+
+
+Reimbursable costs are defined below.
+   •    Edu Tek Ltd. will invoice the district monthly for the portion of the fee due and any
+        reimbursable expenses incurred in the preceding month. Edu Tek will include supporting
+        data as may be required by the district. Payment will be made within thirty (30) days of
+        receipt of the invoice by the district.
+   •    Acceptance by Edu Tek Ltd. of the final payment under this Agreement, shall constitute a
+        full and complete release of the district from all claims, demands, and causes of action
+        whatsoever, which Edu Tek, its successors have or may have against the district under the
+        provisions of this Agreement, exclusive of any additional services as outlined under
+        ADDITIONAL SERVICES.
+   •    Payments for Reimbursable Costs shall be made monthly, upon presentation of a detailed
+        statement of costs incurred, including such supporting data as may be required by the
+        district. Such statements shall be submitted concurrently with the invoices referred to
+        above.
+
+
+
+
+                                                       Educational Technology Consultants for Voice, Video & Data   7
+
+Additional Services
+Additional services are services beyond those indicated in this proposal and include revisions
+due to adjustments in the project scope, quality, complexity, schedule, or budget. Additional
+services will be billed at our standard hourly rates and those of our consultants plus 15%.
+Fee will be either:
+       •    Negotiated Fixed Fee. Or.
+       •    Hourly Service rates as outlined.
+Edu Tek shall be compensated for additional services by the district for the following:
+       •    Legal-Preparing to serve or serving as a witness in conjunction with any public hearing,
+            arbitration proceeding, legal proceeding or labor dispute unless the litigation is between
+            the district and Edu Tek.
+       •    Employee Overtime-If required by the Project Schedule and agreed to in writing by the
+            district, additional onsite monitoring exceeding the typical eight (8) hour work day.
+       •    Weekends & Holidays-If required by the Project Schedule and with prior written approval
+            by the district, weekends and holidays will be billed at a standard rate of $1000.00 per
+            day, per employee.
+    2017-18 Staff Pricing Matrix 1       Hourly   Daily (7hr)   1 D/Yr.    2 D/Yr.    2.5 D/Yr.    3 D/Yr.    Annual
+    System Engineer Level I              $105       $700         $35k       $55k        $64k        $72k       $115k
+    System Engineer Level II             $128       $900         $45k       $60k        $69k        $77k       $127K
+    System Engineer Level III            $152       $1050        $55k       $65k        $74k        $82k       $142k
+    Internetworking Engineer Level I     $152       $1050        $55k       $65k        $74k        $82k       $142k
+    Internetworking Engineer Level II    $177       $1250        $65k       $75k        $84k        $94k       $142K
+    SAN Engineer                         $152       $1050        $55k       $65k        $74k        $82k       $142k
+    Security Engineer                    $152       $1050        $55k       $65k        $75k        $80k       $135k
+    Data Engineer Level I                $105       $700         $35k       $55k        $64k        $72k       $115k
+    Data Engineer Level II               $128       $900         $45k       $60k        $69k        $77k       $127K
+    Audio / Visual Technician Level I    $105       $700         $35k       $55k        $64k        $72k       $115k
+    Audio / Visual Technician Level II   $128       $900         $45k       $60k        $69k        $77k       $127K
+
+
+
+
+1
+    Pricing provided as of April 1, 2019 and updated annually.
+
+
+
+                                                                   Educational Technology Consultants for Voice, Video & Data   8
+
+Staffing Definitions
+
+    System Engineer Level One
+    Certifications - MCSP, CAN, CLA or equivalent experience
+    Skill Set:
+    •   Ability to install Network operating system and perform simple operating system
+        upgrades (not requiring any data or application movement/migration).
+    •   Basic operating system troubleshooting
+    •   Standard network/local printing and print queue installation and management.
+    •   General network Administration (adding users, groups, shares, printers).
+    •   Server hardware configuration.
+    •   Rack device installations and cable management.
+    •   SCSI attached storage subsystems.
+    •   Implementation of Patch process for individual NOS.
+    •   Non configurable/non manageable switch installations.
+    •   Stand-alone Tape drive installations.
+    •   Approved server based (non enterprise) tape backup software installation and
+        configuration (specific agents may require a SE Level 2).
+    •   General server diagramming and documentation
+
+    System Engineer Level Two
+    Certifications - MCSE, CNE, CLE or equivalent experience
+    Skill Set:
+    •   Ability to install Network operating system and perform more complex upgrades
+        (application and data moves must be well defined and pre-approved)
+    •   Advanced troubleshooting of operating system.
+    •   Advanced network/local printing such as shared faxing and shared scanning.
+    •   Advanced network Administration such as Directory and Domain troubleshooting.
+    •   Cluster Hardware configurations
+    •   Blade Server configurations
+    •   Entry Level NAS/SAN (Fiber Attached Subsystems and Appliance NAS devices) in cluster
+        configurations only. Does not include additional products for load balancing or active-
+        active failure.
+    •   Implementation of Patch process for Server group such as Microsoft Servers using
+        bundled solutions such as SUS, WUS and Zenworks.
+    •   Entry level managed/configurable switches not requiring routing, trouncing, or multiple
+        manufacturer switch operation.
+    •   Standalone tape drive installations including autoloaders.
+    •   Approved server based (non enterprise) tape backup software installation and
+        configuration and installation of approved backup agents including remote agents.
+    •   Server Centric diagramming and documentation
+
+
+
+
+                                                          Educational Technology Consultants for Voice, Video & Data   9
+
+Internetworking Engineer Level One
+Certifications - CCNA or equivalent experience
+Skill Set:
+•   Entry Level Engineer with ability to configure and install Network devices such as switches
+    and routers not requiring advanced configurations.
+•   Troubleshooting basic switched and routed environments.
+•   Layer 2 switch configurations including VLAN, Trunking, Channeling.
+•   Basic router configurations using static routing, (no routing protocols or QoS)
+•   Basic ACL's knowledge
+•   Small to Medium Business basic Infrastructure design including IP addressing and
+    Subnetting.
+•   Router and switch image upgrades (that will not be impacted by routing protocols)
+•   Basic internet and site-to-site connectivity (excluding VPNs)
+•   General Network Diagramming and documentation
+
+Internetworking Engineer Level Two
+Certifications - CCNP or equivalent experience)
+Skill Set:
+•   Mid Level Engineer should have all of the skill sets of Level 2 plus
+•   Troubleshooting of advanced switched and routed environments.
+•   Layer 2 switch configurations including VLAN, Trunking, Channeling and advanced STP
+    configurations.
+•   Layer 3 switch configurations including Basic routing protocols.
+•   Advanced router configurations including routing protocols EIGRP, OSPF, RIP, IGRP
+•   Advanced ACL's knowledge and the ability to configure.
+•   Basic wireless installations including basic authentication (WEP, MAC)
+•   Basic Infrastructure design
+•   Basic knowledge of SNMP, SYSLOG, DNS, NTP, TACACS/Radius
+•   Router and switch image upgrades which can be impacted by routing protocols.
+•   Site-to-site connectivity such as inter and intra site routing (Excluding VPNs)
+•   General Network Diagramming and documentation
+
+
+
+
+                                                   Educational Technology Consultants for Voice, Video & Data   10
+
+Security Engineer Level One
+Certifications - Cisco Qualified Specialist or equivalent experience
+Skill Set:
+•   Entry Level Engineer with ability to configure and install basic security devices including
+    SOHO, and workgroup with one DMZ.
+•   Basic firewall troubleshooting
+•   Basic VPN configurations (Must be same devices for Site-to-Site), and User VPN using only
+    firewall authentication.
+•   Implementation of integrated add-ons such as general content filtering and web blocking.
+•   Basic ACL's knowledge
+•   Basic knowledge or DNS, NTP, RADIUS/TACACS
+•   Basic firewall upgrades
+•   Basic Network and security diagramming and documentation
+
+Security Engineer Level Two
+Certifications - CSSP or equivalent experience
+Skill Set:
+•   Mid Level Security engineer should have all of the skill sets of Level 2 plus
+•   Perform basic security assessments
+•   Advanced firewall and security device troubleshooting.
+•   Advanced firewalls installations including firewall clusters, failover and advanced
+    features.
+•   Advanced VPN configurations (can include different manufacturers VPN devices if
+    approved. Can include advanced authentication methods.)
+•   Implementation point security products such as advanced or stand alone web filtering,
+    spam filtering, authentication servers.
+•   Intrusion Detection device installations set to default values
+•   Advanced ACL's knowledge and the ability to configure.
+•   Ability to configure DNS, NTP, RADIUS/TACACS, IP protocols
+•   Custom security audits and assessments (excluding external only vulnerability
+    assessments).
+•   Security Policy/Procedure design, review.
+•   General Network and security diagramming and documentation
+
+
+
+
+                                                        Educational Technology Consultants for Voice, Video & Data   11
+
+SAN Engineer Level One
+Certifications - SAN Architect
+Skill Set:
+•   Entry Level NAS/SAN engineer with the ability to design and implement general NAS and
+    SAN devices such as EVA 3000.
+•   Entry Level DAS/NAS/SAN in cluster configurations only that require load balancing and
+    active-active failover.
+•   Installation of basic fabric switching.
+•   Installation of basic SAN appliance.
+•   Advanced NAS configurations and implementations as appropriate to the workgroup SAN
+    level.
+•   Basic Tape Library installations and configurations.
+•   Basic Enterprise tape backup software installation and configurations.
+•   Entry level SAN design and documentation.
+
+SAN Engineer Level Two
+Certifications - Master SAN Architect
+Skill Set:
+•   Advanced Level SAN engineer with the ability to design and implement enterprise level
+    SAN devices.
+•   Advanced SAN configurations such as those requiring data replication, automated cloning
+    and snapshotting.
+•   Installation of advanced fabric switching such as data directors.
+•   Installation of advanced SAN appliance.
+•   Advanced NAS configurations and implementations as appropriate to the workgroup SAN
+    level.
+•   Advanced Tape Library installations and configurations integrating special features.
+•   Advanced Enterprise tape backup software installation and configurations such as those
+    that leverage distributed data replication.
+•   Data protection strategies
+•   Storage Auditing
+•   Storage Content Control
+•   Data Replication Strategies
+•   Disaster recovery strategies
+•   SAN Architecture and documentation
+
+
+
+
+                                                 Educational Technology Consultants for Voice, Video & Data   12
+
+Desktop Technician Level One
+Certifications: A+ MCP
+Skill Set
+•   Troubleshooting of desktops
+•   Hard drive and System board swaps
+•   Memory and Card Installations
+•   Basic Desktop OS troubleshooting
+•   Bench repair work
+
+Desktop Technician Level Two
+Certifications: A+ MCP MCSP
+Skill Set
+•   First and second level on-site desktop support
+•   Capable of moves, adds and changes in a network environment
+•   System imaging
+•   Desktop and Printer installation
+
+
+
+
+                                               Educational Technology Consultants for Voice, Video & Data   13
+
+AGREEMENT
+
+If this proposal is acceptable, please sign one copy and return it to us for our files. It will serve as a contract
+between us for this project.
+
+Thank you for considering Edu Tek Limited for this project. We look forward to continuing our productive
+relationship with your school district as we work together to support your educational technology.
+
+
+
+Sincerely,
+
+
+
+
+Matthew J. Orifici
+
+President
+Edu Tek Ltd.
+
+
+ACCEPTED:                   _______________________________
+
+
+
+BY:                         _______________________________
+
+
+
+TITLE:                      _______________________________
+
+
+
+DATE:                       _______________________________
+
+
+
+
+                                                                 Educational Technology Consultants for Voice, Video & Data   14
+

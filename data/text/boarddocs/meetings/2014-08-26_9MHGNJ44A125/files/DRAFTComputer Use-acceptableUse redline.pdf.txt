@@ -1,0 +1,227 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/pfiles/9MWGLY44565B/$file/DRAFTComputer%20Use-acceptableUse%20redline.pdf | DATE: 2014-08-26 | TITLE: Work Session/Special Meeting | 6.4 Adoption of Policy #3160 - Computer Use in Instruction Acceptable Use Policy. | DRAFTComputer Use-acceptableUse redline.pdf
+
+DRAFT                                                         2014    3160 (rev)
+                                                                        Instruction
+
+
+SUBJECT: COMPUTER USE IN INSTRUCTIONACCEPTABLE USE
+POLICY
+
+        The Board of Education is committed to optimizing student learning and
+teaching. The Board considers student access to a computer network, including
+the Internet, to be a powerful and valuable educational and research tool, and
+encourages the use of computers and computer-related technology in district
+classrooms for the purpose of advancing and promoting learning and teaching.
+
+        The computer network can provide a forum for learning various software
+applications and through online databases, bulletin boards and electronic mail, can
+significantly enhance educational experiences and provide statewide, national and
+global communication opportunities for staff and students.
+
+        All users of the district’s computer network and the Internet must
+understand that use is a privilege, not a right, and that use entails responsibility.
+The district reserves the right to control access to the Internet for all users of its
+computers and network. The district may either allow or prohibit certain kinds of
+online activity, or access to specific websites.
+
+       Regulations and handbooks, to be developed by the Superintendent, in
+consultation with the Technology Coordinator, administration, and faculty will
+provide specific guidance on this, as well as rules governing the use and security
+of the district's computer network. All users of the district’s computer network
+and equipment shall comply with this policy and regulation. Failure to comply
+may result in disciplinary action as well as suspension and/or revocation of
+computer access privileges.
+
+        The Superintendent shall be responsible for designating a Technology
+Coordinator to oversee the use of district computer resources. The computer
+coordinator will prepare in-service programs for the training and development of
+district staff in computer skills, and for the incorporation of computer use in
+appropriate subject areas.
+
+        The Superintendent, working in conjunction with the Technology
+Coordinator and the administrative team, will be responsible for the purchase and
+distribution of computer software and hardware throughout district schools. The
+district will maintain a multi-year technology plan which shall be revised as
+necessary to reflect changing technology and/or district needs.
+
+Cross-ref:       7310, Code of Conduct
+                 8262, Students and Personal Electronic Devices/Bring Your Own
+                 Device (BYOD)
+Adoption date:
+
+                                                               Regulation 3160-R
+
+          COMPUTER USE IN INSTRUCTION REGULATION
+
+      The following rules and regulations govern the use of the district's
+computer network system and access to the Internet.
+
+I.    Administration
+
+     The Superintendent of Schools shall designate a Technology Coordinator
+      to oversee the district's computer network.
+     The Technology Coordinator shall monitor and examine all network
+      activities, as appropriate, to ensure proper use of the system.
+     The Technology Coordinator shall develop and define district procedures
+      and protocols that communicate network usage standards.
+     The Technology Coordinator shall maintain a commitment to continuing
+      technology professional growth for all district employees.
+     The Technology Coordinator shall ensure that all disks and software
+      loaded onto the computer network have been scanned for computer
+      viruses.
+     All student agreements to abide by district policy and regulations and
+      parental consent forms shall be kept on file in the school offices.
+
+II.   Internet Access
+
+     Students will be provided Internet access during the school day.
+     Students shall have Internet access for educational purposes only.
+     Student Internet access may be restricted depending on the grade level.
+     In order to access the Internet, the expectation is that students will use the
+      district’s network
+
+                                                              Regulation 3160-R
+
+      Unless authorized for district purposes, all users will be prohibited from:
+       accessing social networking sites; playing online games; purchasing or
+       selling anything online; watching videos online; vistingvisiting
+       chatroomschat rooms; or other use of technology that would interfere with
+       the instructional process or the maintenance of a safe learning
+       environment.
+      All uUsers may not construct their own web pages using district computer
+       resources unless expressly authorized by district personnel for educational
+       purposes.
+
+Faculty and staff members will be required to make reasonable effort to monitor
+these activities.
+
+III.   Acceptable Use and Conduct
+
+      Access to the district's computer network is provided for educational
+       purposes and research consistent with the district's mission and goals.
+      Use of the district’s computer network is a privilege, not a right.
+       Inappropriate use may result in the suspension or revocation of that
+       privilege.
+      Each individual in whose name an access account is issued is responsible
+       at all times for its proper use.
+      All network users will be issued a login name and password. Passwords
+       must be changed periodically.
+      All network users are expected to abide by the generally accepted rules of
+       network etiquette. This includes being polite and using only appropriate
+       language. Abusive or sexual language or images, vulgarities and swear
+       words are all inappropriate. All appropriate terms of the Code of Conduct
+       and Dignity for All Students Act are applicable to technology and network
+       usage.
+      Network users identifying a security problem on the district's network
+       must notify the appropriate teacher, administrator or Technology
+       Coordinator. Under no circumstance should the user demonstrate the
+       problem to anyone other than to the district official or employee being
+       notified or attempt to personally rectify the problem.
+      Any network user identified as a security risk or having a history of
+       violations of district computer use guidelines may be denied access to the
+       district's network.
+
+                                                                  Regulation 3160-R
+
+IV.    Prohibited Activity and Uses
+
+        The following is a list of prohibited activity concerning use of the district's
+computer network. Violation of any of these prohibitions may result in discipline
+or other appropriate penalty, including suspension or revocation of a user's access
+to the network.
+
+      Using the network for commercial activity., including advertising.
+      Infringing on any copyrights or other intellectual property rights, including
+       copying, installing, receiving, transmitting or making available any
+       copyrighted software on the district computer network.
+      Using the network to receive, transmit or make available to others
+       obscene, offensive, or sexually explicit material.
+      Using the network to receive, transmit or make available to others
+       messages that are racist, sexist, abusive or harassing to others (or other
+       actions that are in violation to the Code of Conduct and Dignity for All
+       Students Act).
+      Using another user’s account or password.
+      Attempting to read, delete, copy or modify the electronic mail (e-mail) of
+       other system users and deliberately interfering with the ability of other
+       system users to send and/or receive e-mail.
+      Forging or attempting to forge e-mail messages.
+      Engaging in vandalism. Vandalism is defined as any malicious attempt to
+       harm or destroy district equipment or materials, data of another user of the
+       district’s network or of any of the entities or other networks that are
+       connected to the Internet. This includes, but is not limited to, creating
+       and/or placing a computer virus on the network.
+      Using the network to send anonymous messages or files.
+      Using the network to receive, transmit or make available to others a
+       message that is inconsistent with the district’s Code of Conduct.
+      Revealing the personal address, telephone number or other personal
+       information of oneself or another person.
+      Using the network for sending and/or receiving personal messages.
+      Intentionally disrupting network traffic or crashing the network and
+       connected systems.
+      Installing personal software or using personal disks on the district’s
+       computers and/or network without the permission of the appropriate
+       district official or employee.
+      Using district computing resources for commercial or financial gain or
+       fraud.
+      Stealing data, equipment or intellectual property.
+      Gaining or seeking to gain unauthorized access to any files, resources, or
+       computer or phone systems, or vandalize the data of another user.
+
+                                                                Regulation 3160-R
+
+      Wastefully using finite district resources.
+      Changing or exceeding resource quotas as set by the district without the
+       permission of the appropriate district official or employee.
+      Using the network while access privileges are suspended or revoked.
+      Using the network in a fashion inconsistent with directions from teachers
+       and other staff and generally accepted network etiquette.
+
+V.     No Privacy Guarantee
+
+         Users of the district’s computer network should not expect, nor does the
+district guarantee privacy for electronic mail (e-mail) or any use of the district’s
+computer network. If a user is employing his/her personal device to access the
+district’s network, the user must keep school work separate from personal files,
+since school work is subject to district access. The district reserves the right to
+access and view any material stored on district equipment or any material used in
+conjunction with the district’s computer network.
+
+VI.    Sanctions
+
+        All users of the district’s computer network and equipment are required to
+comply with the district’s policy and regulations governing the district’s computer
+network. Failure to comply with the policy or regulation may result in disciplinary
+action as well as suspension and/or revocation of computer access privileges.
+
+        In addition, illegal activities are strictly prohibited. Any information
+pertaining to or implicating illegal activity will be reported to the proper
+authorities. Transmission of any material in violation of any federal, state and/or
+local law or regulation is prohibited. This includes, but is not limited to materials
+protected by copyright, threatening or obscene material or material protected by
+trade secret. Users must respect all intellectual and property rights and laws.
+
+VII.   District Responsibilities
+
+        The district makes no warranties of any kind, either expressed or implied,
+for the access being provided. Further, the district assumes no responsibility for
+the quality, availability, accuracy, nature or reliability of the service and/or
+information provided. Users of the district’s computer network and the Internet
+use information at their own risk. Each user is responsible for verifying the
+integrity and authenticity of the information that is used and provided.
+
+       The district will not be responsible for any damages suffered by any user,
+including, but not limited to, loss of data resulting from delays, non-deliveries,
+misdeliveries, or service interruptions caused by its own negligence or the errors
+or omissions of any user. The district also will not be responsible for
+
+                                                           Regulation 3160-R
+
+unauthorized financial obligations resulting from the use of or access to the
+district’s computer network or the Internet.
+
+        Further, even though the district may use technical or manual means to
+regulate access and information, these methods do not provide a foolproof means
+of enforcing the provisions of the district policy and regulation.
+
+Adoption date:
+

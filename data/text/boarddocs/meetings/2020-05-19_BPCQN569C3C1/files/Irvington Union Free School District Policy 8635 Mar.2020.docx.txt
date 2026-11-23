@@ -1,0 +1,150 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/pfiles/BPMMDE5A5DD9/$file/Irvington%20Union%20Free%20School%20District%20Policy%208635%20Mar.2020.docx | DATE: 2020-05-19 | TITLE: Special Meeting/Work Session | 9.1 Policy - 1st read | Irvington Union Free School District Policy 8635 Mar.2020.docx
+
+NYSSBA Sample Policy 8635
+
+										           (X)   Required
+										           (X)   Local
+										           (X)   Notice
+
+INFORMATION AND DATA PRIVACY SECURITY, BREACH AND NOTIFICATION
+
+NEW NOTE: This policy was originally intended to address the requirements of State Technology Law §208 regarding security and breach of “private information” (i.e., a person’s name or other identifier, in combination with information such as driver’s license number, social security number, or account number).
+Pursuant to recently adopted state regulations, no later than July 1, 2020, each district must adopt and publish a data security and privacy policy for “personally identifiable information” for students (as defined in federal FERPA regulations) and teachers and principals (confidential APPR results linked to individuals) that implements the requirements of Education Law §2-d and its regulations (8 NYCRR Part 121), and aligns with the NIST Cybersecurity Framework. This policy must also address the data privacy protections set forth in Education Law §2-d (5)(b)(1) and (2). Additionally, the district must publish its data security and privacy policy on its website and provide notice of the policy to staff.  §2-d also directs NYSED to develop and disseminate a model policy on data security and privacy.  When that model or other guidance is released, we may need to make adjustments to this sample.
+In order to avoid separate policies addressing different types of information breaches, we have modified this policy to meet the requirements of both State Technology Law §208 as well as Education Law §2-d and its regulations, but in separate sections.  New text is underlined below.
+Additionally, due to a changing understanding of the word “shall,” we have replaced “shall” with “will” or “must” throughout when indicating that an action is required.
+
+The Irvington Union Free School District (The District) and the Irvington UFSD Board of Education (The Board) acknowledges the heightened concern regarding the rise in identity theft and the need for secure networks and prompt notification when security breaches occur.  The Board adopts the National Institute for Standards and Technology Cybersecurity Framework Version 1.1 (NIST CSF) for data security and protection. The Data Privacy Officer is responsible for ensuring the district’s systems follow NIST CSF and adopt technologies, safeguards and practices which align with it. This will include an assessment of the district’s current cybersecurity state, their target future cybersecurity state, opportunities for improvement, progress toward the target state, and communication about cyber security risk.
+
+The Board will designate a Data Protection Officer to be responsible for the implementation of the policies and procedures required in Education Law §2-d and its accompanying regulations, and to serve as the point of contact for data security and privacy district. [optional language: This appointment will be made at the annual organizational meeting]
+NYSSBA Sample Policy 8635
+
+ The Board directs the Superintendent of Schools, in accordance with appropriate business and technology personnel, and the Data Protection Officer (where applicable) to establish regulations which address:
+
+the protections of “personally identifiable information” of student and teachers/principal under Education Law §2-d and Part 121 of the Commissioner of Education;
+the protections of “private information” under State Technology Law §208 and the NY SHIELD Act; and
+procedures to notify persons affected by breaches or unauthorized access of protected information.
+
+I.	Student and Teacher/Principal “Personally Identifiable Information” under Education Law §2-d
+
+	A. General Provisions
+
+PII as applied to student data is as defined in Family Educational Rights and Privacy Act (Policy 5500), which includes certain types of information that could identify a student, and is listed in the accompanying regulation 8635-R.  PII as applied to teacher and principal data, means  results of Annual Professional Performance Reviews that identify the individual teachers and principals, which are confidential under Education Law §§3012-c and 3012-d, except where required to be disclosed under state law and regulations.
+
+The Data Protection Officer  will see that every use and disclosure of personally identifiable information (PII) by the district benefits students and the district (e.g., improve academic achievement, empower parents and students with information, and/or advance efficient and effective school operations). However, PII will not be included in public reports or other documents.
+
+The district will protect the confidentiality of student and teacher/principal PII while stored or transferred using industry standard safeguards and best practices, such as encryption, firewalls, and passwords.  The district will monitor its data systems, develop incident response plans, limit access to PII to district employees and third-party contractors who need such access to fulfill their professional responsibilities or contractual obligations, and destroy PII when it is no longer needed.
+
+Certain federal laws and regulations provide additional rights regarding confidentiality of and access to student records, as well as permitted disclosures without consent, which are addressed in policy and regulation 5500, Student Records.
+
+	Under no circumstances will the district sell PII. It will not disclose PII for any marketing or commercial purpose, facilitate its use or disclosure by any other party for any marketing or commercial purpose, or permit another party to do so.  Further, the district will take steps to minimize the collection, processing, and transmission of PII. 
+
+Except as required by law or in the case of enrollment data, the district will not report the following student data to the State Education Department: 
+
+juvenile delinquency records; 
+criminal records; 
+medical and health records; and 
+student biometric information.
+
+The district has created and adopted a Parent’s Bill of Rights for Data Privacy and Security (see Exhibit 8635-E). It has been published on the district’s website at www.irvingtonschools.org and can be requested from the district clerk.
+
+B.	Third-party Contractors 
+
+The district will ensure that contracts with third-party contractors reflect that confidentiality of any student and/or teacher or principal PII be maintained in accordance with federal and state law and the district's data security and privacy policy. 
+
+Each third-party contractor that will receive student data or teacher or principal data must: 
+
+adopt technologies, safeguards and practices that align with the NIST CSF;
+comply with the district’s data security and privacy policy and applicable laws impacting the district; 
+limit internal access to PII to only those employees or sub-contractors that need access to provide the contracted services;
+not use the PII for any purpose not explicitly authorized in its contract;
+not disclose any PII to any other party without the prior written consent of the parent or eligible student  (i.e., students who are eighteen years old or older):
+except for authorized representatives of the third-party contractor to the extent they are carrying out the contract; or
+unless required by statute or court order and the third party contractor provides notice of disclosure to the district, unless expressly prohibited. 
+maintain reasonable administrative, technical and physical safeguards to protect the security, confidentiality and integrity of PII  in its custody;
+use encryption to protect PII  in its custody; and
+not sell, use, or disclose PII for any marketing or commercial purpose, facilitate its use or disclosure by others for marketing or commercial purpose, or permit another party to do so. Third party contractors may release PII to subcontractors engaged to perform the contractor’s obligations, but such subcontractors must abide by data protection obligations of state and federal law, and the contract with the district.
+NYSSBA Sample Policy 8635
+
+If the third-party contractor has a breach or unauthorized release of PII, it will promptly notify the district in the most expedient way possible without unreasonable delay but no more than seven calendar days after the breach’s discovery.
+
+C.	Third-Party Contractors’ Data Security and Privacy Plan
+
+The district will ensure that contracts with all third-party contractors include the third-party contractor’s data security and privacy plan. This plan must be accepted by the district.
+
+At a minimum, each plan will:
+
+outline how all state, federal, and local data security and privacy contract requirements over the life of the contract will be met, consistent with this policy;
+specify the safeguards and practices it has in place to protect PII;
+demonstrate that it complies with the requirements of Section 121.3(c) of this Part;
+specify how those who have access to student and/or teacher or principal data receive or will receive training on the federal and state laws governing confidentiality of such data prior to receiving access;
+specify if the third-party contractor will utilize sub-contractors and how it will manage those relationships and contracts to ensure personally identifiable information is protected;
+specify how the third-party contractor will manage data security and privacy incidents that implicate personally identifiable information including specifying any plans to identify breaches and unauthorized disclosures, and to promptly notify the district;
+describe if, how and when data will be returned to the district, transitioned to a successor contractor, at the district’s direction, deleted or destroyed by the third-party contractor when the contract is terminated or expires.
+
+D.	Training
+
+NOTE: State regulations require that training include but not be limited to training on the state and federal laws protecting personally identifiable information, and how employees can comply with such laws. It may be delivered using online training tools and may be included as part of training the district already offers to its staff.
+
+The district will provide annual training on data privacy and security awareness to all employees who have access to student and teacher/principal PII. 
+
+E.	Reporting
+
+Any breach of the district’s information storage or computerized data which compromises the security, confidentiality, or integrity of student or teacher/principal PII maintained by the district will be promptly reported to the Data Protection Officer, the Superintendent and the Board of Education.
+
+F.	Notifications
+
+The Data Privacy Officer  will report every discovery or report of a breach or unauthorized release of student, teacher or principal PII to the State’s Chief Privacy Officer without unreasonable delay, but no more than 10 calendar days after such discovery. 
+
+The district will notify affected parents, eligible students, teachers and/or principals in the most expedient way possible and without unreasonable delay, but no more than 60 calendar days after the discovery of a breach or unauthorized release or third-party contractor notification.
+
+However, if notification would interfere with an ongoing law enforcement investigation, or cause further disclosure of PII by disclosing an unfixed security vulnerability, the district will notify parents, eligible students, teachers and/or principals within seven calendar days after the security vulnerability has been remedied, or the risk of interference with the law enforcement investigation ends. 
+
+	The Superintendent of Schools [or insert appropriate title], in consultation with the Data Protection Officer, will establish procedures to provide notification of a breach or unauthorized release of student, teacher or principal PII, and establish and communicate to parents, eligible students, and district staff a process for filing complaints about breaches or unauthorized releases of student and teacher/principal PII.
+
+II.	“Private Information” under State Technology Law §208
+
+“Private information” is defined in State Technology Law §208, and includes certain types of information, outlined in the accompanying regulation, which would put an individual at risk for identity theft or permit access to private accounts.  “Private information” does not include information that can lawfully be made available to the general public pursuant to federal or state law or regulation.
+
+Any breach of the district’s information storage or computerized data which compromises the security, confidentiality, or integrity of “private information” maintained by the district must be promptly reported to the Superintendent and the Board of Education.
+
+The Board directs the Superintendent of Schools, in accordance with appropriate business and technology personnel, to establish regulations which:
+
+Identify and/or define the types of private information that is to be kept secure;
+Include procedures to identify any breaches of security that result in the release of private information; and
+Include procedures to notify persons affected by the security breach as required by law.
+NYSSBA Sample Policy 8635
+
+III.	Employee “Personal Identifying Information” under Labor Law § 203-d
+
+NOTE:  This section addresses the protections under Labor Law §203-d, which does not include responsibilities in the event of a breach.  There is some overlap in the protections under Labor Law §203-d and State Technology Law §208.  In the case of a breach of information that meets the definition of the Labor Law’s “personal identifying information”, but not the State Technology Law’s definition of “private information,” NYSSBA recommends consulting with the district’s school attorney as to whether notification is required or advisable.  Bear in mind the intent of both laws is to limit identity theft and protect privacy.
+
+Pursuant to Labor Law §203-d, the district will not communicate employee “personal identifying information” to the general public.  This includes:
+
+social security number;
+home address or telephone number;
+personal email address;
+Internet identification name or password;
+parent’s surname prior to marriage; and
+drivers’ license number.  
+
+In addition, the district will protect employee social security numbers in that such numbers will not be:
+
+publicly posted or displayed;
+visibly printed on any ID badge, card or time card;
+placed in files with unrestricted access; or
+used for occupational licensing purposes.
+
+Employees with access to such information will be notified of these prohibitions and their obligations.
+
+Cross-ref:	1120, District Records
+		5500, Student Records
+		8630, Computer Resources and Data Management
+
+Ref:	State Technology Law §§201-208
+	Labor Law §203-d
+	Education Law §2-d
+8 NYCRR Part 121
+
+Adoption date:
+
+

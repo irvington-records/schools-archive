@@ -1,0 +1,362 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/pfiles/D97HLK490632/$file/Asset%20Recovery%202024%20for%20BOE%20Sept%2024%2C%202024.pdf | DATE: 2024-09-24 | TITLE: Work Session | 12.1 Declaration of Obsolete/Surplus Equipment | Asset Recovery 2024 for BOE Sept 24, 2024.pdf
+
+         Asset ID          Serial Number     Asset Type   Manufacturer       Model      Assigned to Location   Site            Notes
+       ET171892IR    1S10ST002FUSMJ093CB5     Desktop       Lenovo       Lenovo M720s   Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET202769IR     1S10ST002FUSMJ0937SC    Desktop       Lenovo       Lenovo M720s   Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET171980IR     1S10ST002FUSMJ0937SB    Desktop       Lenovo       Lenovo M720s   Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET171961IR    1S10ST002FUSMJ093CBP     Desktop       Lenovo       Lenovo M720s   Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET171960IR    1S10ST002FUSMJ094G9L     Desktop       Lenovo       Lenovo M720s   Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET202086IR    1S10ST002FUSMJ094GE2     Desktop       Lenovo       Lenovo M720s   Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET202527IR            MJ093CBF         Desktop       Lenovo       Lenovo M720s   Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET202107IR     1S10ST002FUSMJ0937XX    Desktop       Lenovo       Lenovo M720s   Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET201479IR            MJ093CCX         Desktop       Lenovo       Lenovo M720s   Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET203389IR    1S10ST002FUSMJ094GE8     Desktop       Lenovo       Lenovo M720s   Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET172149IR    1S10ST002FUSMJ093CBD     Desktop       Lenovo       Lenovo M710s   Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET203035IR   1S10M7000QUSMJ074BG4      Desktop       Lenovo       Lenovo M710s   Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET170878IR   1S10M7000QUSMJ05R1T6      Desktop       Lenovo       Lenovo M710s   Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET202582IR    1S10ST002FUSMJ094G83     Desktop       Lenovo       Lenovo M710s   Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET172147IR    1S10ST002FUSMJ094GCS     Desktop       Lenovo       Lenovo M710s   Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       EY171994IR   1S10M7000QUSMJ074BEG      Desktop       Lenovo       Lenovo M710s   Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET203053IR           MJ074BDR          Desktop       Lenovo       Lenovo M710s   Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET172123IR    1S10ST002FUSMJ094GCX     Desktop       Lenovo       Lenovo M710s   Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET170899IR   1S10M7000QUSMJ05PUP0      Desktop       Lenovo       Lenovo M710s   Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET171990IR    1S10ST002FUSMJ093CBK     Desktop       Lenovo       Lenovo M710s   Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET171952IR     1S10ST002FUSMJ093CCL    Desktop       Lenovo       Lenovo M710s   Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET170896IR   1S10M7000QUSMJ05PUPJ      Desktop       Lenovo       Lenovo M710s   Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET203371IR   1S10M7000QUSMJ05PUQD      Desktop       Lenovo       Lenovo M710s   Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET203388IR   1S10M7000QUSMJ05PUQC      Desktop       Lenovo       Lenovo M710s   Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET170784IR   1S10M7000QUSMJ05PUQT      Desktop       Lenovo       Lenovo M710s   Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET170843IR   1S10M7000QUSMJ05PUNN      Desktop       Lenovo       Lenovo M710s   Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET170825IR   1S10M7000QUSMJ05R1TA      Desktop       Lenovo       Lenovo M710s   Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET170745IR   1S10M7000QUSMJ05PUPZ      Desktop       Lenovo       Lenovo M710s   Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET170803IR   1S10M7000QUSMJ05PUQR      Desktop       Lenovo       Lenovo M710s   Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET170743IR   1S10M7000QUSMJ05PUPV      Desktop       Lenovo       Lenovo M710s   Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET202599IR    1S10ST002FUSMJ093CB9     Desktop       Lenovo       Lenovo M710s   Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET171954IR    1S10ST002FUSMJ094GB2     Desktop       Lenovo       Lenovo M710s   Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET172143IR   1S10M7000QUSMJ074BED      Desktop       Lenovo        Lenovo M73    Asset Recovery 2024    MSS    Nonfunctional/End of Life
+        1719901r     1S10M7000QUSMJ073JSU     Desktop       Lenovo        Lenovo M73    Asset Recovery 2024    MSS    Nonfunctional/End of Life
+         118380     1S10B6S00500MJ010MWH      Desktop       Lenovo        Lenovo M73    Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET170747IR   1S10M7000QUSMJ05PBSY      Desktop       Lenovo       Lenovo M710s   Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET170844IR   1S10M7000QUSMJ05PUPE      Desktop       Lenovo       Lenovo M710s   Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET170764IR   1S10M7000QUSMJ05R1SD      Desktop       Lenovo       Lenovo M710s   Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET170898IR   1S10M7000QUSMJ05PUQ8      Desktop       Lenovo       Lenovo M710s   Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET170892IR   1S10M7000QUSMJ05PUPQ      Desktop       Lenovo       Lenovo M710s   Asset Recovery 2024    MSS    Nonfunctional/End of Life
+
+
+
+9/17/2024                                                                                                                                         1
+
+         Asset ID         Serial Number     Asset Type   Manufacturer       Model      Assigned to Location   Site            Notes
+       ET170882IR   1S10M7000QUSMJ05R1TC     Desktop       Lenovo       Lenovo M710s   Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET170881IR   1S10M7000QUSMJ05R1UT     Desktop       Lenovo       Lenovo M710s   Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET172297IR   1S10M7000QUSMJ06TWK5     Desktop       Lenovo       Lenovo M710s   Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET170873IR   1S10M7000QUSMJ05R1TD     Desktop       Lenovo       Lenovo M710s   Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET170845IR   1S10M7000QUSMJ05PUR2     Desktop       Lenovo       Lenovo M710s   Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET171902IR   1S10M7000QUSMJ077J7D     Desktop       Lenovo       Lenovo M710s   Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET172287IR           MJ074BG7         Desktop       Lenovo       Lenovo M710s   Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET202069IR    1S10M7000QUSMJ074BFJ    Desktop       Lenovo       Lenovo M710s   Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET170897IR   1S10M7000QUSMJ05PUQZ     Desktop       Lenovo       Lenovo M710s   Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET170746IR   1S10M7000QUSMJ05PTQV     Desktop       Lenovo       Lenovo M710s   Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET170895IR   1S10M7000QUSMJ05PUPU     Desktop       Lenovo       Lenovo M710s   Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET202581IR    1S10ST002FUSMJ093CB2    Desktop       Lenovo       Lenovo M710s   Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET171948IR    1S10ST002FUSMJ093CC0    Desktop       Lenovo       Lenovo M710s   Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET171402IR   1S10M7000QUSMJ05PUP4     Desktop       Lenovo       Lenovo M710s   Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET203291IR           MJ074BEF         Desktop       Lenovo       Lenovo M710s   Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET202787IR           MJ0937S7         Desktop       Lenovo       Lenovo M720s   Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET202805IR           MJ0A26H7         Desktop       Lenovo       Lenovo M720s   Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET202814IR           MJ073JT9         Desktop       Lenovo       Lenovo M710s   Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET202797IR           MJ093CCP         Desktop       Lenovo       Lenovo M720s   Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET202762IR           MJ074BEX         Desktop       Lenovo       Lenovo M710s   Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET202757IR           MJ073JT1         Desktop       Lenovo       Lenovo M710s   Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET202892IR          MJ06TWKJ          Desktop       Lenovo       Lenovo M710s   Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET201492IR           MJ074BFX         Desktop       Lenovo       Lenovo M710s   Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET203356IR    1S10ST002FUSMJ099497    Desktop       Lenovo       Lenovo M720s   Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET203153IR           MJ0A26H3         Desktop       Lenovo       Lenovo M720s   Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET203097IR           MJ073JUA         Desktop       Lenovo       Lenovo M710s   Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET203068IR           MJ093CCY         Desktop       Lenovo       Lenovo M720s   Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET203051IR           MJ074BG2         Desktop       Lenovo       Lenovo M710s   Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET203032IR          MJ074BDV          Desktop       Lenovo       Lenovo M710s   Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET203030IR           MJ093CBA         Desktop       Lenovo       Lenovo M720s   Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET203173IR           MJ0994AK         Desktop       Lenovo       Lenovo M720s   Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET203065IR           MJ0937YH         Desktop       Lenovo       Lenovo M720s   Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET203081IR          MJ0937WP          Desktop       Lenovo       Lenovo M720s   Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET203036IR          MJ0937W0          Desktop       Lenovo       Lenovo M720s   Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET203089IR          MJ06TWKK          Desktop       Lenovo       Lenovo M710s   Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET203021IR           MJ073JT2         Desktop       Lenovo       Lenovo M710s   Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET203028IR    1S10ST002FUSMJ0937XS    Desktop       Lenovo        Lenovo 720S   Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET202254IR           MJ094GCL         Desktop       Lenovo       Lenovo M720s   Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET203092IR           MJ0937S3         Desktop       Lenovo       Lenovo M720s   Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET203058IR          MJ0937W4          Desktop       Lenovo       Lenovo M720s   Asset Recovery 2024    MSS    Nonfunctional/End of Life
+
+
+
+9/17/2024                                                                                                                                        2
+
+        Asset ID             Serial Number         Asset Type       Manufacturer         Model        Assigned to Location   Site            Notes
+ 1S10M7000QUSMJ073JSP   1S10M7000QUSMJ073JSP         Desktop          Lenovo          Lenovo M73      Asset Recovery 2024    MSS    Nonfunctional/End of Life
+      ET172146IR           ZD0N53XU971424       Interactive Board    NewLine       Newline TruTouch   Asset Recovery 2024    MSS    Nonfunctional/End of Life
+        118336              C022FW36B0277       Interactive Board     SMART         SMART SBM680      Asset Recovery 2024    MSS    Nonfunctional/End of Life
+      ET101454IR            C022KW32B0168       Interactive Board     SMART          SMART SB680      Asset Recovery 2024    MSS    Nonfunctional/End of Life
+      ET172135IR            C022KW32B0161       Interactive Board     SMART          SMART SB600      Asset Recovery 2024    MSS    Nonfunctional/End of Life
+        117285             SB680‐R2‐A20496      Interactive Board     SMART          SMART SB680      Asset Recovery 2024    MSS    Nonfunctional/End of Life
+        117294                 R2‐A21369        Interactive Board     SMART          SMART SB680      Asset Recovery 2024    MSS    Nonfunctional/End of Life
+        116838                 R2‐998801        Interactive Board     SMART          SMART SB680      Asset Recovery 2024    MSS    Nonfunctional/End of Life
+        117296                 R2‐A22131        Interactive Board     SMART          SMART SB680      Asset Recovery 2024    MSS    Nonfunctional/End of Life
+        116831                 R2‐A00993        Interactive Board     SMART          SMART SB680      Asset Recovery 2024    MSS    Nonfunctional/End of Life
+      ET100358IR           G012GW41P0480        Interactive Board     SMART         SMART SBM680      Asset Recovery 2024    MSS    Nonfunctional/End of Life
+      ET101128IR           G012GW42P0229        Interactive Board     SMART         SMART SBM680      Asset Recovery 2024    MSS    Nonfunctional/End of Life
+      ET100359IR           G012GW41P0478        Interactive Board     SMART         SMART SBM680      Asset Recovery 2024    MSS    Nonfunctional/End of Life
+      ET100369IR           G012GW42P0228        Interactive Board     SMART         SMART SBM680      Asset Recovery 2024    MSS    Nonfunctional/End of Life
+      ET100367IR           G012GW41P0484        Interactive Board     SMART         SMART SBM680      Asset Recovery 2024    MSS    Nonfunctional/End of Life
+      ET101174IR           G032HW23P0113        Interactive Board     SMART         SMART SBM680      Asset Recovery 2024    MSS    Nonfunctional/End of Life
+      ET101169IR            C022FW36B0279       Interactive Board     SMART         SMART SBM680      Asset Recovery 2024    MSS    Nonfunctional/End of Life
+      ET100373IR           G012GW41P0481        Interactive Board     SMART         SMART SBM680      Asset Recovery 2024    MSS    Nonfunctional/End of Life
+      ET101121IR            G032HW5P0301        Interactive Board     SMART         SMART SBM680      Asset Recovery 2024    MSS    Nonfunctional/End of Life
+      ET101520IR           G012HW28P0264        Interactive Board     SMART         SMART SBM680      Asset Recovery 2024    MSS    Nonfunctional/End of Life
+      ET101515IR           G032HW23P0122        Interactive Board     SMART         SMART SBM680      Asset Recovery 2024    MSS    Nonfunctional/End of Life
+      ET100365IR           G012GW42P0227        Interactive Board     SMART         SMART SBM680      Asset Recovery 2024    MSS    Nonfunctional/End of Life
+      ET171029IR            F022IW13B1848       Interactive Board     SMART         SMART SBV660      Asset Recovery 2024    MSS    Nonfunctional/End of Life
+        116014                 R2‐607408        Interactive Board     SMART          SMART SB680      Asset Recovery 2024    MSS    Nonfunctional/End of Life
+        116058                 E07239556        Interactive Board     SMART          SMART SB600      Asset Recovery 2024    MSS    Nonfunctional/End of Life
+        116008             SB680‐R2‐305866      Interactive Board     SMART          SMART SB680      Asset Recovery 2024    MSS    Nonfunctional/End of Life
+        117854                 E07239967        Interactive Board     SMART          SMART SB600      Asset Recovery 2024    MSS    Nonfunctional/End of Life
+        116118              SB680‐R1‐00922      Interactive Board     SMART          SMART SB680      Asset Recovery 2024    MSS    Nonfunctional/End of Life
+        106782                M07045231         Interactive Board     SMART          SMART SB600      Asset Recovery 2024    MSS    Nonfunctional/End of Life
+      ET171062IR            C022JW21B0201       Interactive Board     SMART         SMART SBM680      Asset Recovery 2024    MSS    Nonfunctional/End of Life
+        116836             SB680‐R2‐A00547      Interactive Board     SMART          SMART SB680      Asset Recovery 2024    MSS    Nonfunctional/End of Life
+      ET203070IR        0000005701‐0176702340   Interactive Board     SMART          SMART M600       Asset Recovery 2024    MSS    Nonfunctional/End of Life
+        116828                 R2‐A00556        Interactive Board     SMART          SMART SB680      Asset Recovery 2024    MSS    Nonfunctional/End of Life
+        117886              sb680‐r2‐312354     Interactive Board     SMART          SMART SB680      Asset Recovery 2024    MSS    Nonfunctional/End of Life
+      ET101077IR           G012GW41P0848        Interactive Board     SMART         SMART SBM680      Asset Recovery 2024    MSS    Nonfunctional/End of Life
+        117910                 E07239552        Interactive Board     SMART          SMART SB600      Asset Recovery 2024    MSS    Nonfunctional/End of Life
+      ET101117IR           G012GW42P0221        Interactive Board     SMART         SMART SBM680      Asset Recovery 2024    MSS    Nonfunctional/End of Life
+      ET202237IR            C022KW04B0904       Interactive Board     SMART         SMART SBM680      Asset Recovery 2024    MSS    Nonfunctional/End of Life
+        117431                T10012727‐F       Interactive Board     SMART          SMART SB600      Asset Recovery 2024    MSS    Nonfunctional/End of Life
+      ET203495IR            G012W12P3484        Interactive Board     SMART         SMART SBM680      Asset Recovery 2024    MSS    Nonfunctional/End of Life
+
+
+
+9/17/2024                                                                                                                                                       3
+
+         Asset ID            Serial Number        Asset Type       Manufacturer         Model        Assigned to Location   Site            Notes
+       ET172411IR         ZD0N33XU960293       Interactive Board    NewLine       Newline TT7518RS   Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET202293IR          G012IW12P3477       Interactive Board     SMART         SMART SBM680      Asset Recovery 2024    MSS    Nonfunctional/End of Life
+         116832           SB680‐R2‐A00544      Interactive Board     SMART          SMART SB680      Asset Recovery 2024    MSS    Nonfunctional/End of Life
+     F022JW02B0681          F022JW02B0681      Interactive Board     SMART          SMART SB600      Asset Recovery 2024    MSS    Nonfunctional/End of Life
+         117907            SB680‐R1‐013497     Interactive Board     SMART          SMART SB600      Asset Recovery 2024    MSS    Nonfunctional/End of Life
+         117921             SB680‐R2‐31258     Interactive Board     SMART          SMART SB680      Asset Recovery 2024    MSS    Nonfunctional/End of Life
+     C022JW52B0200         C022JW52B0200       Interactive Board     SMART         SMART SBM680      Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET172094IR          C022KW32B0162       Interactive Board     SMART         SMART SBM680      Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET170806IR     1S10M7000QUSMJ05PTR7          Laptop           Lenovo         Lenovo M710s     Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET171967IR    MMLXKAA003430028DC4207         Monitor           Acer          Acer V206HQL     Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       et170232ir    MMLXKAA003627043FB4236         Monitor           Acer          Acer V206HQL     Asset Recovery 2024    MSS    Nonfunctional/End of Life
+         117560      ETLJE0W16811807EC14307         Monitor           Acer             Acer 193      Asset Recovery 2024    MSS    Nonfunctional/End of Life
+         116442       ETLE10D033921019458521        Monitor           Acer            Acer V173      Asset Recovery 2024    MSS    Nonfunctional/End of Life
+         116441       ETLE10D033921019408521        Monitor           Acer            Acer V173      Asset Recovery 2024    MSS    Nonfunctional/End of Life
+         116406       ETLE10D0339170A03F8521        Monitor           Acer            Acer V173      Asset Recovery 2024    MSS    Nonfunctional/End of Life
+         116451       ETLE10D03392101E528521        Monitor           Acer            Acer V173      Asset Recovery 2024    MSS    Nonfunctional/End of Life
+         116810       ETLE10D033921019598521        Monitor           Acer            Acer V173      Asset Recovery 2024    MSS    Nonfunctional/End of Life
+         116459       ETLE10D03392101E538521        Monitor           Acer            Acer V173      Asset Recovery 2024    MSS    Nonfunctional/End of Life
+         117491       ETLE10D03392101E7C8521        Monitor           Acer            Acer V173      Asset Recovery 2024    MSS    Nonfunctional/End of Life
+         116740       ETLE10D033921019238521        Monitor           Acer            Acer V173      Asset Recovery 2024    MSS    Nonfunctional/End of Life
+         116663       ETLE10D0339210191E8521        Monitor           Acer            Acer V173      Asset Recovery 2024    MSS    Nonfunctional/End of Life
+         116742       ETLE10D03392101E718521        Monitor           Acer            Acer V173      Asset Recovery 2024    MSS    Nonfunctional/End of Life
+         116680       ETLE10D033921019438521        Monitor           Acer            Acer V173      Asset Recovery 2024    MSS    Nonfunctional/End of Life
+         116692       ETLE10D03392101E7B8521        Monitor           Acer            Acer V173      Asset Recovery 2024    MSS    Nonfunctional/End of Life
+         116724       ETLE10D03392101E6E8521        Monitor           Acer            Acer V173      Asset Recovery 2024    MSS    Nonfunctional/End of Life
+         116698       ETLE10D03392101E7A8521        Monitor           Acer            Acer V173      Asset Recovery 2024    MSS    Nonfunctional/End of Life
+         117761              11803256643            Monitor           Acer            Acer V193      Asset Recovery 2024    MSS    Nonfunctional/End of Life
+         117763              11803256143            Monitor           Acer            Acer V193      Asset Recovery 2024    MSS    Nonfunctional/End of Life
+         117750              12203491443            Monitor           Acer           Acer v193w      Asset Recovery 2024    MSS    Nonfunctional/End of Life
+         117754              11803245943            Monitor           Acer           Acer v193w      Asset Recovery 2024    MSS    Nonfunctional/End of Life
+         117767              11803257143            Monitor           Acer            Acer V193      Asset Recovery 2024    MSS    Nonfunctional/End of Life
+         117769              12402055643            Monitor           Acer           Acer v193w      Asset Recovery 2024    MSS    Nonfunctional/End of Life
+         117960              11803259343            Monitor           Acer           Acer v193w      Asset Recovery 2024    MSS    Nonfunctional/End of Life
+         117959              11803259743            Monitor           Acer            Acer V193      Asset Recovery 2024    MSS    Nonfunctional/End of Life
+         117298              99802785611            Monitor           Acer           Acer v193w      Asset Recovery 2024    MSS    Nonfunctional/End of Life
+         117936              12402058543            Monitor           Acer           Acer v193w      Asset Recovery 2024    MSS    Nonfunctional/End of Life
+         117010       ETLC108148021033C94202        Monitor           Acer           Acer v193w      Asset Recovery 2024    MSS    Nonfunctional/End of Life
+         117515       ETLJE0W16811807EF04307        Monitor           Acer            Acer V193      Asset Recovery 2024    MSS    Nonfunctional/End of Life
+         117565       ETLJE0W168122088774305        Monitor           Acer            Acer V193      Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET101162IR    ETLJE0W16811807D244307         Monitor           Acer           Acer v193w      Asset Recovery 2024    MSS    Nonfunctional/End of Life
+
+
+
+9/17/2024                                                                                                                                                      4
+
+         Asset ID           Serial Number      Asset Type   Manufacturer        Model        Assigned to Location   Site            Notes
+         117927      ETLJE0W16811807F3F4307     Monitor        Acer          Acer v193w      Asset Recovery 2024    MSS    Nonfunctional/End of Life
+         117948      ETLJE0W168124050624305     Monitor        Acer          Acer v193w      Asset Recovery 2024    MSS    Nonfunctional/End of Life
+         117036      ETLC10814802103AF64202     Monitor        Acer          Acer v193w      Asset Recovery 2024    MSS    Nonfunctional/End of Life
+         117032      ETLC108148021033B54202     Monitor        Acer          Acer v193w      Asset Recovery 2024    MSS    Nonfunctional/End of Life
+         117062      ETLC108148021033804202     Monitor        Acer          Acer v193w      Asset Recovery 2024    MSS    Nonfunctional/End of Life
+         117074      ETLC108148021035364202     Monitor        Acer          Acer v193w      Asset Recovery 2024    MSS    Nonfunctional/End of Life
+         117566      ETLJE0W16811807F184307     Monitor        Acer          Acer v193w      Asset Recovery 2024    MSS    Nonfunctional/End of Life
+         117591             12402058143         Monitor        Acer          Acer v193w      Asset Recovery 2024    MSS    Nonfunctional/End of Life
+         117588      ETLJE0W1681220886A4305     Monitor        Acer          Acer v193w      Asset Recovery 2024    MSS    Nonfunctional/End of Life
+         117559             11803246043         Monitor        Acer          Acer v193w      Asset Recovery 2024    MSS    Nonfunctional/End of Life
+         117553      ETLJE0W168122088894305     Monitor        Acer          Acer v193w      Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET172137IR   MMLY0AA00181403DD58507      Monitor        Acer          Acer v196hql    Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET202100IR   MMLY7AA0068520AC958559      Monitor        Acer         Acer V226HQL     Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET202598IR    MMLY7AA0069160F7438559     Monitor        Acer         Acer V226HQL     Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET202583IR   MMLY6AA004805101E3851D      Monitor        Acer         Acer V226HQL     Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET202513IR    MMLY7AA0069160F7528559     Monitor        Acer         Acer V226HQL     Asset Recovery 2024    MSS    Nonfunctional/End of Life
+         106329              CNC62410SH         Monitor         HP             HP 1740       Asset Recovery 2024    MSS    Nonfunctional/End of Life
+         106385              CNC624111B         Monitor         HP             HP 1740       Asset Recovery 2024    MSS    Nonfunctional/End of Life
+         104604             CNP517XCVB          Monitor         HP             HP 1740       Asset Recovery 2024    MSS    Nonfunctional/End of Life
+         106336      ETLC108148021033C14202     Monitor         HP             HP 1740       Asset Recovery 2024    MSS    Nonfunctional/End of Life
+         106741              CNC6233408         Monitor         HP            HP L1940T      Asset Recovery 2024    MSS    Nonfunctional/End of Life
+         106588            QCW071122658         Monitor      Optiquest     Optiquest Q19wb   Asset Recovery 2024    MSS    Nonfunctional/End of Life
+         106587            QCW071220898         Monitor      Optiquest     Optiquest Q19wb   Asset Recovery 2024    MSS    Nonfunctional/End of Life
+         106622            QCW071220913         Monitor      Optiquest     Optiquest Q19wb   Asset Recovery 2024    MSS    Nonfunctional/End of Life
+         106595            QCW071220882         Monitor      Optiquest     Optiquest Q19wb   Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET203241IR   MMLY7AA0131240B3FB85WK      Monitor        Acer         Acer V226HQL     Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET203244IR   MMLY7AA0131240C09985WK      Monitor        Acer         Acer V226HQL     Asset Recovery 2024    MSS    Nonfunctional/End of Life
+         116786      ETLE10D03392101E568521     Monitor        Acer           Acer V173      Asset Recovery 2024    MSS    Nonfunctional/End of Life
+         117064       ETLC108148021033FE4202    Monitor        Acer           Acer V173      Asset Recovery 2024    MSS    Nonfunctional/End of Life
+         117260      ETLC108148012145F64205     Monitor        Acer          Acer v193w      Asset Recovery 2024    MSS    Nonfunctional/End of Life
+         117265      ETLC108148012146374205     Monitor        Acer          Acer v193w      Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET203138IR   MMLY7AA0131240F46385WK      Monitor        Acer         Acer V226HQL     Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET171064IR     ELJE0W1681240506B4305     Monitor        Acer          Acer v193w      Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET101156IR     ETJE0W16811807F4C4307     Monitor        Acer          Acer v193w      Asset Recovery 2024    MSS    Nonfunctional/End of Life
+         117593      ETLJE0W16811807F474307     Monitor        Acer          Acer v193w      Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET203174IR   MMLXLAA01091503CBA4254      Monitor        Acer         Acer V226HQL     Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET171989IR   MMLY7AA0068520A94F8559      Monitor        Acer         Acer V226HQL     Asset Recovery 2024    MSS    Nonfunctional/End of Life
+         116679      ETLE10D03392101E8C8521     Monitor        Acer           Acer V173      Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET172112IR   MMLYA7AA0068520AC8D8559     Monitor        Acer         Acer V226HQL     Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET203071IR    ETLJE0W168124050504305     Monitor        Acer          Acer v193w      Asset Recovery 2024    MSS    Nonfunctional/End of Life
+
+
+
+9/17/2024                                                                                                                                              5
+
+         Asset ID          Serial Number      Asset Type   Manufacturer       Model      Assigned to Location   Site            Notes
+         117507       ETLJE0W16812205574305    Monitor        Acer         Acer v193w    Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET203300IR   MMLY7AA0131240F45D85WK     Monitor        Acer        Acer V226HQL   Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET203072IR   MMLY7AA0131240F46085WK     Monitor        Acer        Acer V226HQL   Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET203044IR    ETLJE0W16811807ECC4307    Monitor        Acer         Acer v193w    Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET203022IR   MMLY7AA008832082ED851C     Monitor        Acer        Acer V226HQL   Asset Recovery 2024    MSS    Nonfunctional/End of Life
+         117012      ETLC108148021033C74202    Monitor        Acer         Acer v193w    Asset Recovery 2024    MSS    Nonfunctional/End of Life
+         117008      ETLC108148021033BD4202    Monitor        Acer         Acer v193w    Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET202236IR   MMLY7AA0131240C07B85WK     Monitor        Acer        Acer V226HQL   Asset Recovery 2024    MSS    Nonfunctional/End of Life
+         117056      ETLC108148021033B94202    Monitor        Acer         Acer v193w    Asset Recovery 2024    MSS    Nonfunctional/End of Life
+         117508      ETLJE0W16812000DF24305    Monitor        Acer         Acer v193w    Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET202252IR   MMLY7AA01303504EB485WK     Monitor        Acer        Acer V226HQL   Asset Recovery 2024    MSS    Nonfunctional/End of Life
+         117043      ETLC108148021033B74202    Monitor        Acer         Acer v193w    Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET101465IR   MMLY6AA0048050FBCC851D     Monitor        Acer        Acer V206HQL   Asset Recovery 2024    MSS    Nonfunctional/End of Life
+         116403      ETLE10D03392101E8F8521    Monitor        Acer          Acer V173    Asset Recovery 2024    MSS    Nonfunctional/End of Life
+         117007      ETLC108148021035114202    Monitor        Acer         Acer v193w    Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET202287IR   MMLY7AA0131240F45C85WK     Monitor        Acer        Acer V226HQL   Asset Recovery 2024    MSS    Nonfunctional/End of Life
+         117050      ETLC108148021034FF4202    Monitor        Acer         Acer v193w    Asset Recovery 2024    MSS    Nonfunctional/End of Life
+         117564      ETLJE0W1681220888C4305    Monitor        Acer         Acer v193w    Asset Recovery 2024    MSS    Nonfunctional/End of Life
+         117267      ETLC108148012145F44205    Monitor        Acer         Acer v193w    Asset Recovery 2024    MSS    Nonfunctional/End of Life
+         117045              2101325042        Monitor        Acer         Acer v193w    Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET203479IR   MMLY7AA0131240C07A85WK     Monitor        Acer        Acer V226HQL   Asset Recovery 2024    MSS    Nonfunctional/End of Life
+         117015      ETLC10814802103AB54202    Monitor        Acer         Acer v193w    Asset Recovery 2024    MSS    Nonfunctional/End of Life
+         117041      ETLC108148021034E14202    Monitor        Acer         Acer v193w    Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET101464IR   MMLY7AA0068520A9488559     Monitor        Acer        Acer V226HQL   Asset Recovery 2024    MSS    Nonfunctional/End of Life
+         116798      ETLE10D033921019188521    Monitor        Acer          Acer V173    Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET203374IR   MMLY7AA0069160FB838559     Monitor        Acer        Acer V226HQL   Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET205007IR   MMTCYAA0031471956F8555     Monitor        Acer         Acer B227Q    Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET202265IR   MMTCYAA0031501A24C8555     Monitor        Acer         Acer B227Q    Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET204519IR   MMLY7AA013205001E585WK     Monitor        Acer        Acer V226HQL   Asset Recovery 2024    MSS    Nonfunctional/End of Life
+         106382             CNC6241DW3         Monitor         HP            HP 1740     Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET204679IR   MMLXLAA01091503DA24254     Monitor        Acer        Acer V226HQL   Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET171232IR    CN0T0RN6QDC0076L0DWB      Monitor        Dell         Dell P2214h   Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET204704IR   MMT0WAA004613060CD24B5     Monitor        Acer        Acer V226HQL   Asset Recovery 2024    MSS    Nonfunctional/End of Life
+         117068      ETLC108148021034474202    Monitor        Acer         Acer v193w    Asset Recovery 2024    MSS    Nonfunctional/End of Life
+         117261      ETLC1081480121462B4205    Monitor        Acer         Acer v193w    Asset Recovery 2024    MSS    Nonfunctional/End of Life
+         116140             CNC6233400         Monitor         HP           HP L1940T    Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET172096IR   MMLY7AA008832082E9851C     Monitor        Acer        Acer V226HQL   Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET204758IR      MMTCYAA0031471957C      Monitor        Acer         Acer B227Q    Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET171251IR   MMLXKAA003627043EB4236     Monitor        Acer        Acer V206HQL   Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET205526IR   MMLY6AA004805101E8851D     Monitor        Acer        Acer V206HQL   Asset Recovery 2024    MSS    Nonfunctional/End of Life
+
+
+
+9/17/2024                                                                                                                                          6
+
+         Asset ID         Serial Number      Asset Type   Manufacturer         Model          Assigned to Location   Site            Notes
+         116710     ETLE10D033921019288521    Monitor        Acer           Acer v193w        Asset Recovery 2024    MSS    Nonfunctional/End of Life
+         117561     ETLJE0W16811807F444307    Monitor        Acer            Acer V173        Asset Recovery 2024    MSS    Nonfunctional/End of Life
+         117563     ETLJE0W16811807D384307    Monitor        Acer           Acer v193w        Asset Recovery 2024    MSS    Nonfunctional/End of Life
+         116708     ETLE10D0339210193F8521    Monitor        Acer           Acer v193w        Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET202125IR   1S10M7000QUSMJ073JUU         PC         Lenovo         Lenovo M710s       Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET203171IR          R803540383           POS        UTC Retail     UTC Retail 3190     Asset Recovery 2024    MSS    Nonfunctional/End of Life
+         115655           VNB3M32807           Printer        HP             HP 1022n         Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET101079IR          VND3F76245          Printer        HP              HP 1606         Asset Recovery 2024    MSS    Nonfunctional/End of Life
+         117332            CNB9D33478          Printer        HP             HP 2035n         Asset Recovery 2024    MSS    Nonfunctional/End of Life
+         117542            CNB9995680          Printer        HP             HP 2055d         Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET172138IR       CN41G3F1W10604         Printer        HP              HP 2540         Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET171075IR          CN77S4N180          Printer        HP              HP 3630         Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET101447IR       CN85H6H1WX067P         Printer        HP              HP 3630         Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET101444IR        CN85I6H0DH067P        Printer        HP              HP 3630         Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET101443IR        CN85I6H12H067P        Printer        HP          HP Deskjet 3630     Asset Recovery 2024    MSS    Nonfunctional/End of Life
+         116748            VND3C52584          Printer        HP         HP Laserjet P1505n   Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET101513IR       CN5781H0MG067P         Printer        HP              HP 3630         Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET101472IR        CN85I6H0N7067P        Printer        HP              HP 2540         Asset Recovery 2024    MSS    Nonfunctional/End of Life
+         106515         CN63XA20BF04CM         Printer        HP              HP 2540         Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET171077IR           5500378RJ         Projector      NEC            NEC M322X         Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET171585IR    NP‐ME361X 8500065TF      Projector      NEC            NEC M322X         Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET171090IR           5500137RF         Projector      NEC            NEC M322X         Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET172156IR           6Z00434RE         Projector      NEC            NEC M322X         Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET171045IR           5500277RJ         Projector      NEC            NEC M322X         Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET171054IR           6X00652RE         Projector      NEC            NEC M322X         Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET100328IR           5500128RF         Projector      NEC            NEC M322X         Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET100400IR           5600245RJ         Projector      NEC            NEC M322X         Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET171063IR           5500475RJ         Projector      NEC            NEC M322X         Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET171041IR           6X00661RE         Projector      NEC            NEC M323X         Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET171381IR           6X00647RE         Projector      NEC            NEC M323X         Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET171046IR           5Y00452RA         Projector      NEC            NEC M323X         Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET202512IR           8500009TF         Projector      NEC            NEC ME361X        Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET172337IR           8Z00118TG         Projector      NEC            NEC ME361X        Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET202164IR           8X00233TF         Projector      NEC            NEC ME361X        Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET171061IR           7600362EJ         Projector      NEC              NEC MHL         Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET100551IR     NP‐M322X 5500261RJ      Projector      NEC            NEC NP322X        Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET101489IR           5500148RF         Projector      NEC          NEC NP‐M322X        Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET202511IR           5500387RJ         Projector      NEC          NEC NP‐M322X        Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET202000IR           4X00219RD         Projector      NEC          NEC NP‐M322X        Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET100363IR           4Y00933RD         Projector      NEC          NEC NP‐M322X        Asset Recovery 2024    MSS    Nonfunctional/End of Life
+
+
+
+9/17/2024                                                                                                                                               7
+
+         Asset ID       Serial Number     Asset Type   Manufacturer        Model          Assigned to Location   Site            Notes
+       ET100364IR        4700049EC         Projector       NEC         NEC NP‐M322X       Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET172148IR        5500157RF         Projector       NEC         NEC NP‐M322X       Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET170822IR        6X00664RE         Projector       NEC         NEC NP‐M323X       Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET202083IR        8500004TF         Projector       NEC         NEC NP‐ME361X      Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET203270IR        8500067TF         Projector       NEC         NEC NP‐ME361X      Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET203303IR        8Z00116TG         Projector       NEC         NEC NP‐ME361X      Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET202879IR        8500040TF         Projector       NEC         NEC NP‐ME361X      Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET202813IR        5500133RF         Projector       NEC         NEC NP‐M322X       Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET201439IR        8500014TF         Projector       NEC         NEC NP‐ME361X      Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET170937IR        6901002RD         Projector       NEC         NEC NP‐M323X       Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET203127IR         7600349EJ        Projector       NEC        NEC NP‐UM361X       Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET203014IR        6500485RC         Projector       NEC         NEC NP‐M323X       Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET171056IR        6500476RC         Projector       NEC         NEC NP‐M323X       Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET171576IR        8500072TF         Projector       NEC          NEC ME361X        Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET171078IR         5600337RJ        Projector       NEC         NEC NP‐M322X       Asset Recovery 2024    MSS    Nonfunctional/End of Life
+         117897             17400          Projector    Mitsubishi    Mitsubishi XD550U   Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET203047IR        8500024TF         Projector       NEC         NEC NP‐ME361X      Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET172333IR   NP‐ME361X 8500063TF    Projector       NEC          NEC ME361X        Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET203295IR        8500034TF         Projector       NEC          NEC ME361X        Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET171089IR        3900201FB         Projector       NEC             M311X          Asset Recovery 2024    MSS    Nonfunctional/End of Life
+         118140            118140          Projector    Mitsubishi    Mitsubishi XD430U   Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET202232IR        8Z00126TG         Projector       NEC          NEC ME361X        Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET203178IR         5500462rj        Projector       NEC         NEC NP‐M322X       Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET101458IR        6X00667RE         Projector       NEC         NEC NP‐M323X       Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET202087IR   NP‐M322X 5500173RF     Projector       NEC           NEC M322X        Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET171865IR   NP‐M323X 6901017RD     Projector       NEC           NEC M323X        Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET172007IR   NP‐ME361X 8500056TF    Projector       NEC          NEC ME361X        Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET171855IR    NP‐M322X 5500534RJ    Projector       NEC           NEC M322X        Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET171994IR   NP‐ME361X 8500072TF    Projector       NEC          NEC ME361X        Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET172130IR   NP‐ME361X 8500052TF    Projector       NEC          NEC ME361X        Asset Recovery 2024    MSS    Nonfunctional/End of Life
+       ET172095IR   NP‐ME361X 8Y00167TG    Projector       NEC          NEC ME361X        Asset Recovery 2024    MSS    Nonfunctional/End of Life
+
+
+
+
+9/17/2024                                                                                                                                           8
+

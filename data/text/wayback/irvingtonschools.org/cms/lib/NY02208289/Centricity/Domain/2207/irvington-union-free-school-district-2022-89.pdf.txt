@@ -1,0 +1,515 @@
+SOURCE https://www.irvingtonschools.org/cms/lib/NY02208289/Centricity/Domain/2207/irvington-union-free-school-district-2022-89.pdf | DATE 2022-12-22 | TITLE irvington-union-free-school-district-2022-89.pdf
+
+DIVISION OF LOCAL GOVERNMENT AND SCHOOL ACCOUNTABILITY
+
+
+                             REPORT OF EXAMINATION         | 2022M-89
+
+
+
+
+Irvington Union Free School District
+
+Fixed Assets
+SEPTEMBER 2022
+Contents
+
+
+Report Highlights .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 1
+
+
+Fixed Assets .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 2
+
+    How Should School District Officials Monitor and Account for
+    Fixed Assets?.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 2
+
+    District Officials Did Not Properly Monitor or Account for Fixed Assets. 3
+
+    What Do We Recommend? .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 6
+
+
+Appendix A – Response From District Officials .  .  .  .  .  .  .  .  .  .  .  .  . 7
+
+
+Appendix B – OSC Comments on the District’s Response.  .  .  .  .  .  10
+
+
+Appendix C – Audit Methodology and Standards .  .  .  .  .  .  .  .  .  .  .  11
+
+
+Appendix D – Resources and Services.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  13
+Report Highlights
+  Irvington Union Free School District
+
+
+Audit Objective                                                       Background
+Determine whether the Irvington Union Free School                     The District is located in
+District (District) officials properly monitored and                  Westchester County and is
+accounted for fixed assets.                                           governed by an elected seven
+                                                                      member Board of Education
+                                                                      (Board) which is responsible
+Key Findings                                                          for the general management
+District officials did not properly monitor and account for           and control of operations. The
+63 percent of the 105 fixed assets reviewed that cost                 Superintendent is appointed by the
+$595,118. This can be attributed to District officials last           Board and is the chief executive
+conducting a physical inventory in 2018. Specifically, we             officer responsible for day-to-day
+found:                                                                management, under the Board’s
+                                                                      direction.
+  l Of the 80 assets tested, District officials were unable
+     to verify that seven assets were in the District’s               The Assistant Superintendent
+     possession. These items included a desk, oven,                   for Business (Assistant
+     stove, television and television studio equipment.               Superintendent) oversees the
+                                                                      District’s fixed assets. The
+  l 65 assets had missing, or inaccurate information
+                                                                      Treasurer reports to the Assistant
+     recorded in the fixed asset records.
+                                                                      Superintendent and is responsible
+  l Eight assets were disposed of without Board                       for maintaining the District’s fixed
+     authorization. The assets included kitchen                       asset inventory records.
+     appliances, exercise equipment and a floor cleaning
+     machine.                                                         The District contracts with an
+                                                                      outside vendor to perform their
+                                                                      fixed asset inventory and valuation
+Key Recommendations                                                   services and an IT vendor to
+  l Maintain complete, accurate and up-to-date fixed                  maintain IT inventory.
+     asset inventory records.                                        Quick Facts
+  l Conduct periodic inventory checks and ensure fixed               2021-22 Budgeted
+                                                                                                        $66.4 million
+                                                                     Appropriations
+     asset disposals comply with the District’s fixed asset
+                                                                     Number and Total Original Cost of Fixed Assets
+     policy.                                                                    as of January 31, 2022
+
+District officials disagreed with certain findings in our            All Assets              256        $78.8 million
+
+report. Appendix B includes our comments on issues                   Assets Reviewed          80           $847,320
+District officials raised in their response.                         Disposals Reviewed       25         $3.0 million
+
+
+
+                                                                      Audit Period
+                                                                      June 1, 2020, through January
+                                                                      31, 2022. We extended our audit
+                                                                      period back to June 6, 2018 to
+                                                                      review fixed asset disposals.
+
+                                                              Of f ic e of t he New York State Comptroller              1
+Fixed Assets
+Fixed assets are those that have a useful life of more than one year. They can
+include everything from buildings and land, parking lots, machinery, vehicles and
+furniture to computer equipment and software. Consequently, they often represent
+a significant investment of school district resources and are subject to risks of
+loss, misuse and/or obsolescence.
+
+How Should School District Officials Monitor and Account for Fixed
+Assets?
+A school district board should adopt comprehensive written fixed asset and
+disposal policies to ensure school district officials properly account for and
+safeguard assets and properly dispose of obsolete or surplus assets in a safe           District officials
+manner. District officials are responsible for ensuring inventory records are current   are responsible
+and accurate, and assets are protected from loss, misuse and/or obsolescence.
+A board should also adopt policies and procedures designed to ensure maximum            for ensuring
+financial benefit is obtained for the district when disposing of obsolete or surplus    that inventory
+assets.
+                                                                                        records are
+A common method of accounting for fixed assets includes affixing an identification
+tag or decal to each asset identifying the asset as district property. Asset tags       current and
+should have unique numbers to identify the asset and the district’s name on them.
+                                                                                        accurate,
+Asset tags improve the ability to differentiate between assets, making them easier
+to track, and can provide a deterrent for improper use and theft. School district       and assets
+officials should maintain fixed asset records that include a description of each
+item with its make, model and serial number; the district-assigned identification
+                                                                                        are protected
+number; the date purchased, amount paid, vendor name and claim number of the            from loss,
+purchase; and the department or individual assigned to have custody of the asset.
+Furthermore, detailed property records help establish accountability, allow for the     misuse and/or
+development of additional controls and safeguards, and can impact the various           obsolescence.
+costs (insurance, replacement, etc.) associated with owning assets.
+
+To ensure school district officials have access to reliable and up-to-date fixed
+asset information, a district should maintain a complete and current perpetual
+inventory of fixed assets and ensure both physical control and accountability are
+maintained over fixed assets. Perpetual inventory records are detailed records
+that are continually updated as assets are purchased or disposed of. Additionally,
+to maintain the accuracy and completeness of recorded amounts, building
+custodians or their representatives should conduct periodic inventories of fixed
+assets.
+
+When an asset is identified as surplus or obsolete, this information should be
+provided to the governing board to make a determination and approve the asset
+for disposal. The inventory records should be updated with appropriate disposal
+information, such as the historical and market values and purchaser. Assets, such
+as computers, may contain sensitive and confidential information or software that
+
+
+2    Of f ic e of t he New York State Comptroller
+needs to be cleared prior to disposal or transfer of the asset. The governing board
+should establish a plan that clearly describes the district’s security management
+policies and procedures for the secure disposal of equipment containing
+electronic information.
+
+The Board-adopted fixed asset policies require assets purchased for more than
+$5,000 to be inventoried and recorded annually, and assets purchased for more
+than $300 to receive Board approval prior to disposal. District policy also requires
+the complete removal of District information, or the secure destruction of the
+resource, when disposing of IT equipment. Further, the Assistant Superintendent
+is required to arrange for an inventory and appraisal of District fixed assets to be
+completed every three years.
+
+District Officials Did Not Properly Monitor or Account for Fixed
+Assets
+We reviewed 80 fixed assets1 with combined purchase prices of $847,320 to
+determine whether they were properly recorded in the District’s fixed asset
+inventory and in the District’s possession and properly tagged. We found
+that District officials did not properly monitor or account for all fixed assets.
+Specifically, the Assistant Superintendent did not always properly record, and
+dispose of fixed assets. Further, we were unable to determine whether some of
+the assets were in the District’s possession.
+
+Asset Verification − We were unable determine whether seven assets (9 percent)
+with combined purchase prices of $177,147 were in the District’s possession.
+Specifically, we were unable to determine whether:
+  l Five of the assets were in the District’s possession because the assets
+      located did not have required asset tags, and the inventory records did not
+      contain serial numbers or other unique identifiers to positively identify these
+      assets as the ones selected for review. These assets included:
+       ¡ Television studio equipment purchased for $130,000,
+
+       ¡ A gas stove purchased for $7,476,
+
+       ¡ A circulating desk purchased for $7,398,
+
+       ¡ An electric oven purchased for $7,044, and
+
+       ¡ A television purchased for $6,250.
+
+      Because District officials only perform an inventory every five years and do
+      not maintain a perpetual inventory, the Treasurer and building custodians
+      were unable to provide a valid reason for the discrepancies identified.
+
+1 Refer to Appendix C for further information on our sample selection.
+
+
+
+
+                                                                         Of f ic e of t he New York State Comptroller   3
+    l We also could not verify whether two of the assets were in the District’s
+      possession because the assets located did not match the serial number on
+      record. These items included a portable aerial lift purchased for $10,425 and
+      a floor machine purchased for $8,554 that were shared among the District’s
+      different buildings. The building custodians told us they were not aware
+      that they should inform the Treasurer when assets were moved from their
+      assigned location. The Treasurer also told us that he was not aware that
+      inventory records should be updated when assets changed locations.
+
+Inaccurate Records – We found that 65 assets (81 percent) with combined
+purchase prices of $622,474 were not properly recorded and had missing or
+inaccurate information in the inventory listing. We found that:
+    l 36 assets with combined purchase prices of $235,350 had an incorrect
+      building or room location indicated on the inventory list. The building
+      custodians and Treasurer told us that the buildings share assets, and they
+      were not aware that inventory records should be updated when assets are
+      moved from their assigned location.
+    l 13 assets with combined prices of $123,959 did not have serial numbers that
+      matched the inventory listing. For example, we found a mower purchased
+      for $30,919 and a network switch purchased for $6,590 with different serial
+      numbers recorded. The Treasurer and IT vendor could not provide a reason
+      why the recorded serial numbers were different from the serial number on
+      the assets.
+    l 14 assets with combined purchase prices of $113,315 did not have serial
+      numbers recorded in the inventory listing. For example, we found three
+      floor scrubbers purchased for $17,107, a convection steamer purchased
+      for $14,654 and hot and cold serving counters purchased for $11,965 that
+      did not have serial numbers recorded in the inventory listing. The Treasurer
+      is responsible for maintaining inventory records but did not update the
+      inventory listing to include the serial numbers for these assets.
+    l One asset purchased for $7,199 on October 14, 2021 was incorrectly
+      recorded in the inventory listing with a purchase date of July 7, 2021. The
+      Treasurer told us that the asset was recorded in the inventory listing with the
+      encumbrance date instead of the purchase date.
+
+Disposal Status – We reviewed the documentation for 25 assets with combined
+purchase prices of $2,993,581 recorded as disposals on the inventory listing to
+determine whether they were disposed of in accordance with District policy. We
+found that:
+
+
+
+
+4      Of f ic e of t he New York State Comptroller
+  l Eight assets with combined purchase prices of $50,743 were disposed
+     of without Board authorization. These assets included a floor cleaning
+     machine, three kitchen appliances and four pieces of athletic equipment. The
+     Treasurer told us that the floor machine was used for parts and the other
+     seven assets were unusable. The Assistant Superintendent told us that the
+     vendor who conducts their five-year inventory listed any asset not found as a
+     disposal. Although the Assistant Superintendent told us that the District had
+     the option to either correct the report or accept them as a disposal and obtain
+     Board authorization, there is an increased risk that these assets could have
+     been stolen without an investigation. The Assistant Superintendent believed
+     that the previous Treasurer may have missed the Board authorization step.
+  l Four of the assets with combined purchase prices of $70,380 were servers
+     and did not have certificates of destruction or other documentation verifying
+     that the District’s electronic information was removed. The Assistant
+     Superintendent informed us that the IT vendor said that they do not have
+     a certificate of disposal for the four servers, and they may have held on to
+     them for backup or repair parts.
+
+District officials did not always follow Board-adopted fixed assets policies for
+recording, monitoring and tracking fixed assets. Specifically, the Assistant
+Superintendent did not ensure the required three-year physical inventory of
+assets was performed. The Assistant Superintendent was not aware of the
+three-year physical inventory requirement, and thought the inventory was to be
+completed every five years. Additionally, the Treasurer told us that the District
+does not maintain an up-to-date perpetual inventory; instead, the District has an
+asset management vendor update its inventory with new purchases and disposals
+annually. However, no physical inventory check was performed. As a result,
+District officials and employees could not verify that all assets examined were in
+the District’s possession.
+
+When inventory records are not current, District officials cannot ensure where
+fixed assets are located or if assets are in the District’s possession, and may
+rely on inaccurate information for decision making. This weakens the District’s
+ability to monitor and safeguard assets and IT equipment from theft or misuse.
+Additionally, when the disposal of fixed assets is not authorized by the Board prior
+to disposal and removed from inventory records, the risk of theft or loss becomes
+easier to conceal.
+
+
+
+
+                                                           Of f ic e of t he New York State Comptroller   5
+What Do We Recommend?
+The Board should:
+
+    1. Approve the disposal of all fixed assets and IT equipment purchased for
+       $300 or more prior to disposal as required by Board policy.
+
+The Assistant Superintendent should:
+
+    2. Ensure a full inventory and appraisal of District property, equipment and
+       materials are performed every three years as required by Board policy.
+
+    3. Ensure the Treasurer provides fixed asset tags to the building custodians,
+       and the fixed assets are tagged prior to use.
+
+    4. Ensure the Treasurer maintains accurate and up-to-date fixed asset
+       inventory records, including the cost, date of purchase, serial number and
+       location, to account for and monitor District fixed assets.
+
+    5. Ensure the IT vendor obtains a certificate of disposal from the company
+       sanitizing and disposing District IT equipment.
+
+
+
+
+6     Of f ic e of t he New York State Comptroller
+Appendix A: Response From District Officials
+
+
+
+
+                                                                      See
+                                                                      Note 1
+                                                                      Page 10
+
+
+
+
+                                                                      See
+                                                                      Note 2
+                                                                      Page 10
+
+
+
+
+                             Of f ic e of t he New York State Comptroller       7
+                                                   See
+                                                   Note 3
+                                                   Page 10
+
+
+
+
+                                                   See
+                                                   Note 4
+                                                   Page 10
+
+
+
+
+                                                   See
+                                                   Note 4
+                                                   Page 10
+
+
+
+
+8   Of f ic e of t he New York State Comptroller
+Of f ic e of t he New York State Comptroller   9
+Appendix B: OSC Comments on the District’s Response
+Note 1
+
+The report states 63 percent of the 105 fixed assets reviewed were not properly
+monitored or accounted for. This is not misleading or inaccurate.
+
+Note 2
+
+Although the IT inventory management system was implemented at the end of
+2020-21 school year, District officials did not use this system to record or track the
+fixed assets reviewed. Our tests were conducted in March and April 2022.
+
+Note 3
+
+District officials did not tag or maintain complete inventory records, therefore
+District officials and we could not confirm the assets located were the assets
+tested.
+
+Note 4
+
+Maintaining a perpetual inventory system helps ensure physical control and
+accountability over fixed assets. However, if District officials determine that
+maintaining a perpetual inventory is not practical, then they should, at a minimum,
+implement compensating controls, such as requiring building representatives to
+conduct period inventories of fixed assets. We identified 36 assets that were not
+in the building or room location as indicated by the records. Although some of
+those assets were custodial or educational items as described by the District, the
+majority were IT-related hardware that are not designed to be shared amongst
+buildings.
+
+
+
+
+10       Of f ic e of t he New York State Comptroller
+Appendix C: Audit Methodology and Standards
+
+We conducted this audit pursuant to Article V, Section 1 of the State Constitution
+and the State Comptroller’s authority as set forth in Article 3 of the New York
+State General Municipal Law. To achieve the audit objective and obtain valid audit
+evidence, we performed the following audit procedures:
+  l We interviewed District officials and reviewed District policies, Board minutes
+     and resolutions to gain an understanding of and evaluate the adequacy of
+     fixed asset policies and procedures and internal controls over fixed assets.
+  l We evaluated the structure of the District’s fixed asset records and IT
+     equipment inventory list to determine whether they contained enough detail
+     to properly account for assets.
+  l We reviewed all 256 items on the inventory listing identified as fixed assets
+     and removed all assets with a replacement cost below $5,000 and assets
+     that were retired or disposed. From the 132 remaining fixed assets, we
+     judgmentally selected 42 assets that could be susceptible to theft and were
+     not permanent structures, like land or buildings. In addition, we selected all
+     18 fixed assets with a replacement cost over $5,000 that were added to the
+     inventory listing in the audit period.
+  l For our sample of 60 fixed assets, we reviewed the inventory records to
+     determine whether the assets were recorded properly and the records
+     contained the asset’s purchase date, cost, tag number, building and room
+     location. We also used the inventory records to locate the assets throughout
+     the District to determine whether they were in the District’s possession and
+     properly tagged.
+  l While performing a walk-through of District buildings, we judgmentally
+     selected 18 fixed assets that we estimated were valued at $5,000 or more.
+     We determined whether the assets were recorded on the inventory listing
+     with the purchase date, cost, tag number, building and room locations.
+  l We reviewed the District’s purchases and selected the two fixed assets
+     purchased between July 1, 2021 and January 31, 2022. We reviewed these
+     assets to determine whether they were properly recorded in the inventory
+     listing, properly tagged and in the District’s possession.
+  l We reviewed the District’s inventory listing and selected all 25 assets listed
+     as disposed between June 6, 2018 and June 30, 2021 to determine whether
+     the Board authorized their disposal before they were disposed of. We also
+     determined whether any were electronic devices and, if so, whether those
+     assets had been properly sanitized before disposal.
+
+We conducted this performance audit in accordance with GAGAS (generally
+accepted government auditing standards). Those standards require that we
+plan and perform the audit to obtain sufficient, appropriate evidence to provide a
+
+
+
+
+                                                          Of f ic e of t he New York State Comptroller   11
+reasonable basis for our findings and conclusions based on our audit objective.
+We believe that the evidence obtained provides a reasonable basis for our
+findings and conclusions based on our audit objective.
+
+Unless otherwise indicated in this report, samples for testing were selected
+based on professional judgment, as it was not the intent to project the results
+onto the entire population. Where applicable, information is presented concerning
+the value and/or size of the relevant population and the sample selected for
+examination.
+
+The Board has the responsibility to initiate corrective action. A written corrective
+action plan (CAP) that addresses the findings and recommendations in this report
+must be prepared and provided to our office within 90 days, pursuant to Section
+35 of General Municipal Law, Section 2116-1(3)(c) of New York State Education
+Law and Section 170.12 of the Regulations of the Commissioner of Education. To
+the extent practicable, implementation of the CAP must begin by the end of the
+fiscal year. For more information on preparing and filing your CAP, please refer to
+our brochure, Responding to an OSC Audit Report, which you received with the
+draft audit report. We encourage the Board to make the CAP available for public
+review in the District Clerk’s office.
+
+
+
+
+12    Of f ic e of t he New York State Comptroller
+Appendix D: Resources and Services
+
+Regional Office Directory
+www.osc.state.ny.us/files/local-government/pdf/regional-directory.pdf
+
+Cost-Saving Ideas – Resources, advice and assistance on cost-saving ideas
+www.osc.state.ny.us/local-government/publications
+
+Fiscal Stress Monitoring – Resources for local government officials experiencing fiscal problems
+www.osc.state.ny.us/local-government/fiscal-monitoring
+
+Local Government Management Guides – Series of publications that include technical information
+and suggested practices for local government management
+www.osc.state.ny.us/local-government/publications
+
+Planning and Budgeting Guides – Resources for developing multiyear financial, capital, strategic and
+other plans
+www.osc.state.ny.us/local-government/resources/planning-resources
+
+Protecting Sensitive Data and Other Local Government Assets – A non-technical cybersecurity
+guide for local government leaders
+www.osc.state.ny.us/files/local-government/publications/pdf/cyber-security-guide.pdf
+
+Required Reporting – Information and resources for reports and forms that are filed with the Office of
+the State Comptroller
+www.osc.state.ny.us/local-government/required-reporting
+
+Research Reports/Publications – Reports on major policy issues facing local governments and State
+policy-makers
+www.osc.state.ny.us/local-government/publications
+
+Training – Resources for local government officials on in-person and online training opportunities on a
+wide range of topics
+www.osc.state.ny.us/local-government/academy
+
+
+
+
+                                                         Of f ic e of t he New York State Comptroller   13
+Contact
+Office of the New York State Comptroller
+Division of Local Government and School Accountability
+110 State Street, 12th Floor, Albany, New York 12236
+Tel: (518) 474-4037 • Fax: (518) 486-6479 • Email: localgov@osc.ny.gov
+www.osc.state.ny.us/local-government
+Local Government and School Accountability Help Line: (866) 321-8503
+
+
+
+NEWBURGH REGIONAL OFFICE – Dara Disko-McCagg, Chief Examiner
+33 Airport Center Drive, Suite 103 • New Windsor, New York 12553-4725
+Tel (845) 567-0858 • Fax (845) 567-0080 • Email: Muni-Newburgh@osc.ny.gov
+Serving: Dutchess, Orange, Putnam, Rockland, Sullivan, Ulster, Westchester counties
+
+
+
+
+Like us on Facebook at facebook.com/nyscomptroller
+Follow us on Twitter @nyscomptroller

@@ -1,0 +1,17 @@
+SOURCE http://www.irvingtonschools.org:80/jvsoccer.html | DATE 2002-12-24 | TITLE JV Boys Soccer
+
+Varsity/Junior Varsity Sports Fall 2002
+Junior Varsity Coach: Chris Cassidy
+| DATE | OPPONENT | TIME | 
+| Sept. 13 | at Dobbs Ferry | 4:30 PM | 
+| Sept. 17 | Valhalla | 4:30 PM | 
+| Sept. 19 | Briarcliff | 4:30 PM | 
+| Sept. 23 | Pleasantville | 4:30 PM | 
+| Sept. 25 | Croton-Harmon | 4:30 PM | 
+| Oct. 1 | at Westlake | 4:30 PM | 
+| Oct. 3 | at Briarcliff | 4:30 PM | 
+| Oct. 7 | at Pleasantville | 4:30 PM | 
+| Oct. 9 | at Croton-Harmon | 4:30 PM | 
+| Oct. 10 | Solomon Schechter | 4:30 PM | 
+| Oct. 16 | Westlake | 4:30 PM | 
+| Oct. 18 | Dobbs Ferry | 4:30 PM |

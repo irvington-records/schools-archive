@@ -1,0 +1,946 @@
+SOURCE https://www.irvingtonschools.org/fs/resource-manager/view/9a6b0b8d-7cf9-4c9d-be3b-2d993a46f92a | DATE 2025-07-08 | TITLE leadtesting-10-24.pdf
+
+2150 Smithtown Ave., Suite 3, Ronkonkoma, NY 11779
+   T: 631.580.3191 • F: 631.580.3195 • W: envirohealth.org
+
+
+May 10, 2024
+
+
+Mr. Richard Pittore
+Irvington Union Free School District
+6 Dows Lane
+Irvington, NY 10533
+
+Re: Districtwide Lead in Drinking Water Sampling 2023-2025
+
+Dear Mr. Pittore,
+
+On May 8, 2024, Enviroscience Consultants, LLC performed a semi-annual water sampling event at the
+Irvington Union Free School District. Samples were collected at Main Street School, Dows Lane Elementary
+School, and at the Middle School & High School Campus from water fountains, bottle fillers, and other
+sources selected by the district.
+
+First draw samples were collected in wide-mouth 250 milliliter containers and during the early morning,
+prior to any water sources being used. The samples were transported to New York Environmental
+Laboratory and were analyzed for lead concentration. The current limit for lead in drinking water is 5 parts
+per billion (ppb). Any locations that were above the limit were signed or taken out of service pending
+remediation.
+
+The following locations were above the limit:
+  Dows Lane Elementary School:
+      • Room 102 - WF
+
+There were no other exceedances.
+
+Please see the attached Outlet Inventory tables and lab reports for detailed results at each location.
+
+Should you have any questions, please feel free to contact me.
+
+
+
+Sincerely,
+
+
+
+
+Shannon Gallagher
+Environmental Inspector
+                                                                                                                       88 Harbor Road
+                                                                                                            Port Washington, NY 11050
+                                                                                                                        (516) 944-9500
+                                                                                                             www.nyenvironmental.com
+
+
+
+
+                                                     Laboratory Report
+                                                NYE Report #: 2402961-29585
+
+
+          May 9, 2024
+
+          Project Manager
+          Enviroscience Consultants, Inc.
+          2150 Smithtown Avenue
+          Ronkonkoma, NY 11779
+
+
+
+          Project: Irvington UFSD; Main Street School
+
+
+
+
+          Dear Project Manager,
+
+              Enclosed is the Laboratory Analytical Report for potable water sample(s) received on May 08,
+          2024. New York Environmental analyzed the samples on May 09, 2024 for Lead (Pb) by EPA Method
+          200.9 Rev. 2.2.
+
+              If there are any questions regarding the analyses, please feel free to contact us at your
+          convenience. New York Environmental is a NELAP accredited laboratory. Attached reported results
+          meet the requirements of the NELAP standards unless otherwise noted.
+
+              Samples' analytical results relate only to the samples tested, in the condition received by the
+          laboratory. This report shall not be reproduced except in its entirety without written approval of the
+          laboratory.
+
+              We sincerely thank you for your business, and look forward to being of service for your future
+          environmental testing needs.
+
+
+
+
+                                                                Sincerely,
+
+
+
+
+                                                                Li Tsang, Laboratory Director
+
+
+
+
+                                                                                                                         Page 1 of 2
+NYSDOH ELAP Lab ID: 11510                                                                                          5/9/2024 2:53 PM
+NYE Report #: 2402961-29585
+
+
+ Date Collected:         08 May 2024                                                        Analytical Method:      EPA 200.9 Rev. 2.2
+ Date Received:          08 May 2024                                                         Analyte, Matrix:       Lead, Potable Water
+ Date Analyzed:          09 May 2024
+
+
+
+
+Lab ID             CID      Sample Location/Description                                             LOQ         Result    Units   Flag
+
+240508N025          1       1st Floor-WF, Initial                                                   0.001 <0.001
+                                                                                                            <0.001        mg/L
+
+240508N026          2       1st Floor-BF, Initial                                                   0.001 <0.001
+                                                                                                            <0.001        mg/L
+
+240508N027          3       2nd Floor-WF, Initial                                                   0.001 <0.001
+                                                                                                            <0.001        mg/L
+
+240508N028          4       2nd Floor-BF, Initial                                                   0.001 <0.001
+                                                                                                            <0.001        mg/L
+
+240508N029          5       Teachers Lounge (206)-IM, Initial                                       0.001 <0.001
+                                                                                                            <0.001        mg/L
+
+240508N030          6       Nurse's Office-SK, Initial                                              0.001 <0.001
+                                                                                                            <0.001        mg/L
+
+240508N031          7       3rd Floor-WF, Initial                                                   0.001 <0.001
+                                                                                                            <0.001        mg/L
+
+240508N032          8       3rd Floor-BF, Initial                                                   0.001 <0.001
+                                                                                                            <0.001        mg/L
+
+240508N033          9       Gym-WF, Initial                                                         0.001 <0.001
+                                                                                                            <0.001        mg/L
+
+240508N034         10       Gym-BF, Initial                                                         0.001 <0.001
+                                                                                                            <0.001        mg/L
+
+
+Comment:
+CID: Client ID LOQ: Limit of Quantitation
+
+
+
+
+                                                                                                                               Page 2 of 2
+                                                                NYSDOH ELAP Lab ID: 11510                                5/9/2024 2:53 PM
+Irvington UFSD                                                         School Water Outlet Inventory                   Lead in School Drinking Water - October 2023
+Main Street School
+                                                             Latest     Latest        15 Second 60 Second
+                                                      App    st                                               Flush
+                                            Fixture         1 Draw     1st Draw         Draw       Draw
+             Sample Location                           or                                                   Sampling                    Remarks
+                                             Type            Results   Sampling        Results   Results
+                                                      N/A                                                     Date
+                                                             (ppb)       Date           (ppb)     (ppb)
+
+3rd Floor                                    WF       App     <1.0      5/8/2024          -          -         -                           -
+
+3rd Floor                                     BF      App     <1.0      5/8/2024          -          -         -                           -
+
+                                                              <1.0      5/8/2024          -          -         -                           -
+2nd Floor                                    WF       App
+                                                              <1.0     10/27/2023         -          -         -                           -
+
+                                                              <1.0      5/8/2024          -          -         -                           -
+2nd Floor                                     BF      App
+                                                              <1.0     10/27/2023         -          -         -                           -
+
+                                                              <1.0      5/8/2024          -          -         -                           -
+Teachers Lounge (206)                         IM      App
+                                                              <1.0     10/27/2023         -          -         -                           -
+
+Nurse's Office                                SK      App     <1.0      5/8/2024          -          -         -                           -
+
+                                                              <1.0      5/8/2024          -          -         -                           -
+1st Floor                                    WF       App
+                                                              <1.0     10/27/2023         -          -         -                           -
+
+                                                              <1.0      5/8/2024          -          -         -                           -
+1st Floor                                     BF      App
+                                                              <1.0     10/27/2023         -          -         -                           -
+
+                                                              <1.0      5/8/2024          -          -         -                           -
+Gym                                          WF       App
+                                                              <1.0     10/27/2023         -          -         -                           -
+
+                                                              <1.0      5/8/2024          -          -         -                           -
+Gym                                           BF      App
+                                                              <1.0     10/27/2023         -          -         -                           -
+
+
+
+Action Level = 5.0 parts per billion (ppb) (µg/L)                                    Page 1 of 1
+                                                                                   Updated 5/10/24
+                                                                                                                       88 Harbor Road
+                                                                                                            Port Washington, NY 11050
+                                                                                                                        (516) 944-9500
+                                                                                                             www.nyenvironmental.com
+
+
+
+
+                                                     Laboratory Report
+                                                NYE Report #: 2402962-29586
+
+
+          May 9, 2024
+
+          Project Manager
+          Enviroscience Consultants, Inc.
+          2150 Smithtown Avenue
+          Ronkonkoma, NY 11779
+
+
+
+          Project: Irvington UFSD; Dows Lane Elementary School
+
+
+
+
+          Dear Project Manager,
+
+              Enclosed is the Laboratory Analytical Report for potable water sample(s) received on May 08,
+          2024. New York Environmental analyzed the samples on May 09, 2024 for Lead (Pb) by EPA Method
+          200.9 Rev. 2.2.
+
+              If there are any questions regarding the analyses, please feel free to contact us at your
+          convenience. New York Environmental is a NELAP accredited laboratory. Attached reported results
+          meet the requirements of the NELAP standards unless otherwise noted.
+
+              Samples' analytical results relate only to the samples tested, in the condition received by the
+          laboratory. This report shall not be reproduced except in its entirety without written approval of the
+          laboratory.
+
+              We sincerely thank you for your business, and look forward to being of service for your future
+          environmental testing needs.
+
+
+
+
+                                                                Sincerely,
+
+
+
+
+                                                                Li Tsang, Laboratory Director
+
+
+
+
+                                                                                                                         Page 1 of 2
+NYSDOH ELAP Lab ID: 11510                                                                                          5/9/2024 2:54 PM
+NYE Report #: 2402962-29586
+
+
+ Date Collected:         08 May 2024                                                     Analytical Method:      EPA 200.9 Rev. 2.2
+ Date Received:          08 May 2024                                                      Analyte, Matrix:       Lead, Potable Water
+ Date Analyzed:          09 May 2024
+
+
+
+
+Lab ID             CID      Sample Location/Description                                          LOQ         Result    Units   Flag
+
+240508N035         D1       Gym-WF, Initial                                                      0.001 <0.001
+                                                                                                         <0.001        mg/L
+
+240508N036         D2       Gym-BF, Initial                                                      0.001 <0.001
+                                                                                                         <0.001        mg/L
+
+240508N037         D3       Room 101-WF, Initial                                                 0.001 0.002
+                                                                                                          0.002        mg/L
+
+240508N038         D4       Room 102-WF, Initial                                                 0.001 0.006
+                                                                                                          0.006        mg/L      H
+
+240508N039         D5       Room 103-WF, Initial                                                 0.001 0.001
+                                                                                                          0.001        mg/L
+
+240508N040         D6       Room 104-WF, Initial                                                 0.001 0.002
+                                                                                                          0.002        mg/L
+
+240508N041         D7       Room 105-WF, Initial                                                 0.001 0.003
+                                                                                                          0.003        mg/L
+
+240508N042         D8       Room 106-WF, Initial                                                 0.001 0.002
+                                                                                                          0.002        mg/L
+
+240508N043         D9       Room 107-WF, Initial                                                 0.001 0.001
+                                                                                                          0.001        mg/L
+
+240508N044         D10      Nurse's Office 108-SK, Initial                                       0.001 0.005
+                                                                                                          0.005        mg/L
+
+240508N045         D11      Room 109-WF, Initial                                                 0.001 0.002
+                                                                                                          0.002        mg/L
+
+240508N046         D12      Room 112 (PLTW)-WF, Initial                                          0.001 0.002
+                                                                                                          0.002        mg/L
+
+240508N047         D13      Room 111-WF, Initial                                                 0.001 0.002
+                                                                                                          0.002        mg/L
+
+240508N048         D14      Room 115 (PLTW)-WF, Initial                                          0.001 0.004
+                                                                                                          0.004        mg/L
+
+240508N049         D15      Room 127-WF, Initial                                                 0.001 0.003
+                                                                                                          0.003        mg/L
+
+240508N050         D16      Room 129-WF, Initial                                                 0.001 0.001
+                                                                                                          0.001        mg/L
+
+240508N051         D17      Multi-Purpose Room-WF, Initial                                       0.001 <0.001
+                                                                                                         <0.001        mg/L
+
+240508N052         D18      2nd Floor Lobby-WF, Initial                                          0.001 <0.001
+                                                                                                         <0.001        mg/L
+
+240508N053         D19      2nd Floor Lobby-BF, Initial                                          0.001 <0.001
+                                                                                                         <0.001        mg/L
+
+240508N054         D20      Room 205-WF, Initial                                                 0.001 0.002
+                                                                                                          0.002        mg/L
+
+240508N055         D21      2nd Floor Hallway-WF, Initial                                        0.001 <0.001
+                                                                                                         <0.001        mg/L
+
+
+Comment:
+CID: Client ID LOQ: Limit of Quantitation
+H: Sample result exceeds applicable regulatory limit.
+
+
+
+
+                                                                                                                            Page 2 of 2
+                                                             NYSDOH ELAP Lab ID: 11510                                5/9/2024 2:54 PM
+Irvington UFSD                                                          School Water Outlet Inventory                   Lead in School Drinking Water - October 2023
+Dows Lane Elementary School
+                                                             Latest      Latest        15 Second 60 Second
+                                                      App    st                                                Flush
+                                            Fixture         1 Draw      1st Draw         Draw       Draw
+             Sample Location                           or                                                    Sampling                     Remarks
+                                             Type            Results    Sampling        Results   Results
+                                                      N/A                                                      Date
+                                                             (ppb)        Date           (ppb)     (ppb)
+
+                                                              <1.0       5/8/2024          -          -         -                             -
+Gym                                          WF       App
+                                                              <1.0      10/27/2023         -          -         -                             -
+
+                                                              <1.0       5/8/2024          -          -         -                             -
+Gym                                           BF      App
+                                                              <1.0      10/27/2023         -          -         -                             -
+
+                                                                  2.0    5/8/2024          -          -         -                             -
+Room 101                                     WF       App
+                                                                  2.0   10/27/2023         -          -         -                             -
+
+                                                                                                                                    Removed from Service;
+                                                                  6.0    5/8/2024
+                                                                                                                                     Pending Remediation
+Room 102                                     WF       App
+                                                                  3.0   10/27/2023         -          -         -                             -
+
+                                                                  1.0    5/8/2024          -          -         -                             -
+Room 103                                     WF       App
+                                                              <1.0      10/27/2023         -          -         -                             -
+
+                                                                  2.0    5/8/2024          -          -         -                             -
+Room 104                                     WF       App
+                                                                  1.0   10/27/2023         -          -         -                             -
+
+                                                                  3.0    5/8/2024          -          -         -                             -
+Room 105                                     WF       App
+                                                                  3.0   10/27/2023         -          -         -                             -
+
+                                                                  2.0    5/8/2024          -          -         -                             -
+Room 106                                     WF       App
+                                                                  2.0   10/27/2023         -          -         -                             -
+
+                                                                  1.0    5/8/2024          -          -         -                             -
+Room 107                                     WF       App
+                                                                  2.0   10/27/2023         -          -         -                             -
+
+
+Action Level = 5.0 parts per billion (ppb) (µg/L)                                     Page 1 of 4
+                                                                                    Updated 5/10/24
+Irvington UFSD                                                          School Water Outlet Inventory                   Lead in School Drinking Water - October 2023
+Dows Lane Elementary School
+                                                             Latest      Latest        15 Second 60 Second
+                                                      App    st                                                Flush
+                                            Fixture         1 Draw      1st Draw         Draw       Draw
+             Sample Location                           or                                                    Sampling                      Remarks
+                                             Type            Results    Sampling        Results   Results
+                                                      N/A                                                      Date
+                                                             (ppb)        Date           (ppb)     (ppb)
+
+                                                                  5.0    5/8/2024          -          -         -                              -
+Nurse's Office 108                            SK      App
+                                                                  5.0   10/27/2023         -          -         -                              -
+
+                                                                  2.0    5/8/2024          -          -         -                              -
+Room 109                                     WF       App
+                                                                  1.0   10/27/2023         -          -         -                              -
+
+                                                                  2.0    5/8/2024          -          -         -                              -
+Room 111                                     WF       App
+                                                                  1.0   10/27/2023         -          -         -                              -
+
+                                                                  2.0    5/8/2024          -          -         -                              -
+Room 112 (PLTW)                              WF       App
+                                                                  2.0   10/27/2023         -          -         -                              -
+
+                                                                  4.0    5/8/2024          -          -         -                              -
+Room 115 (PLTW)                              WF       App
+                                                                  3.0   10/27/2023         -          -         -                              -
+
+                                                                         5/8/2024          -          -         -              Non-functional; Sampling Required
+Room 126                                     WF       App
+                                                                        10/27/2023         -          -         -              Non-functional; Sampling Required
+
+                                                                  3.0    5/8/2024          -          -         -                              -
+Room 127                                     WF       App
+                                                                  4.0   10/27/2023         -          -         -                              -
+
+                                                                         5/8/2024          -          -         -              Non-functional; Sampling Required
+Room 128                                     WF       App
+                                                                        10/27/2023         -          -         -              Non-functional; Sampling Required
+
+                                                                  1.0    5/8/2024          -          -         -                              -
+Room 129                                     WF       App
+                                                              <1.0      10/27/2023         -          -         -                              -
+
+
+Action Level = 5.0 parts per billion (ppb) (µg/L)                                     Page 2 of 4
+                                                                                    Updated 5/10/24
+Irvington UFSD                                                          School Water Outlet Inventory                   Lead in School Drinking Water - October 2023
+Dows Lane Elementary School
+                                                             Latest      Latest        15 Second 60 Second
+                                                      App    st                                                Flush
+                                            Fixture         1 Draw      1st Draw         Draw       Draw
+             Sample Location                           or                                                    Sampling                      Remarks
+                                             Type            Results    Sampling        Results   Results
+                                                      N/A                                                      Date
+                                                             (ppb)        Date           (ppb)     (ppb)
+
+                                                                         5/8/2024          -          -         -              Non-functional; Sampling Required
+Room 130                                     WF       App
+                                                                        10/27/2023         -          -         -              Non-functional; Sampling Required
+
+                                                              <1.0       5/8/2024          -          -         -                              -
+Multi-Purpose Room                           WF       App
+                                                              <1.0      10/27/2023         -          -         -                              -
+
+                                                              <1.0       5/8/2024          -          -         -                              -
+2nd Floor Lobby                              WF       App
+                                                              <1.0      10/27/2023         -          -         -                              -
+
+                                                              <1.0       5/8/2024          -          -         -                              -
+2nd Floor Lobby                               BF      App
+                                                              <1.0      10/27/2023         -          -         -                              -
+
+                                                                         5/8/2024          -          -         -              Non-functional; Sampling Required
+Room 201                                     WF       App
+                                                                        10/27/2023         -          -         -              Non-functional; Sampling Required
+
+                                                                                                                                    Removed from Service;
+Room 202                                     WF       App               10/27/2023         -          -         -
+                                                                                                                                     No Fixture Observed
+
+                                                                         5/8/2024          -          -         -              Non-functional; Sampling Required
+Room 203                                     WF       App
+                                                                        10/27/2023         -          -         -              Non-functional; Sampling Required
+
+                                                                                                                                    Removed from Service;
+Room 204                                     WF       App               10/27/2023         -          -         -
+                                                                                                                                     No Fixture Observed
+
+                                                                  2.0    5/8/2024          -          -         -                              -
+Room 205                                     WF       App
+                                                                  1.0   10/27/2023         -          -         -                              -
+
+                                                                         5/8/2024          -          -         -              Non-functional; Sampling Required
+Room 206                                     WF       App
+                                                                        10/27/2023         -          -         -              Non-functional; Sampling Required
+
+
+Action Level = 5.0 parts per billion (ppb) (µg/L)                                     Page 3 of 4
+                                                                                    Updated 5/10/24
+Irvington UFSD                                                          School Water Outlet Inventory                   Lead in School Drinking Water - October 2023
+Dows Lane Elementary School
+                                                             Latest      Latest        15 Second 60 Second
+                                                      App    st                                                Flush
+                                            Fixture         1 Draw      1st Draw         Draw       Draw
+             Sample Location                           or                                                    Sampling                      Remarks
+                                             Type            Results    Sampling        Results   Results
+                                                      N/A                                                      Date
+                                                             (ppb)        Date           (ppb)     (ppb)
+
+                                                                         5/8/2024          -          -         -              Non-functional; Sampling Required
+Room 207                                     WF       App
+                                                                        10/27/2023         -          -         -              Non-functional; Sampling Required
+
+                                                                         5/8/2024          -          -         -              Non-functional; Sampling Required
+Room 208                                     WF       App
+                                                                        10/27/2023         -          -         -              Non-functional; Sampling Required
+
+                                                                         5/8/2024          -          -         -              Non-functional; Sampling Required
+Room 209                                     WF       App
+                                                                        10/27/2023         -          -         -              Non-functional; Sampling Required
+
+                                                                         5/8/2024          -          -         -              Non-functional; Sampling Required
+Room 210                                     WF       App
+                                                                        10/27/2023         -          -         -              Non-functional; Sampling Required
+
+                                                                                                                                    Removed from Service;
+Room 211                                     WF       App               10/27/2023         -          -         -
+                                                                                                                                     No Fixture Observed
+
+                                                              <1.0       5/8/2024          -          -         -                              -
+2nd Floor Hallway                            WF       App
+                                                                  1.0   10/27/2023         -          -         -                              -
+
+
+
+
+Action Level = 5.0 parts per billion (ppb) (µg/L)                                     Page 4 of 4
+                                                                                    Updated 5/10/24
+                                                                                                                       88 Harbor Road
+                                                                                                            Port Washington, NY 11050
+                                                                                                                        (516) 944-9500
+                                                                                                             www.nyenvironmental.com
+
+
+
+
+                                                     Laboratory Report
+                                                NYE Report #: 2402963-29587
+
+
+          May 9, 2024
+
+          Project Manager
+          Enviroscience Consultants, Inc.
+          2150 Smithtown Avenue
+          Ronkonkoma, NY 11779
+
+
+
+          Project: Irvington UFSD; Middle School And High School Campus
+
+
+
+
+          Dear Project Manager,
+
+              Enclosed is the Laboratory Analytical Report for potable water sample(s) received on May 08,
+          2024. New York Environmental analyzed the samples on May 09, 2024 for Lead (Pb) by EPA Method
+          200.9 Rev. 2.2.
+
+              If there are any questions regarding the analyses, please feel free to contact us at your
+          convenience. New York Environmental is a NELAP accredited laboratory. Attached reported results
+          meet the requirements of the NELAP standards unless otherwise noted.
+
+              Samples' analytical results relate only to the samples tested, in the condition received by the
+          laboratory. This report shall not be reproduced except in its entirety without written approval of the
+          laboratory.
+
+              We sincerely thank you for your business, and look forward to being of service for your future
+          environmental testing needs.
+
+
+
+
+                                                                Sincerely,
+
+
+
+
+                                                                Li Tsang, Laboratory Director
+
+
+
+
+                                                                                                                         Page 1 of 3
+NYSDOH ELAP Lab ID: 11510                                                                                          5/9/2024 2:55 PM
+NYE Report #: 2402963-29587
+
+
+ Date Collected:         08 May 2024                                                          Analytical Method:      EPA 200.9 Rev. 2.2
+ Date Received:          08 May 2024                                                           Analyte, Matrix:       Lead, Potable Water
+ Date Analyzed:          09 May 2024
+
+
+
+
+Lab ID             CID      Sample Location/Description                                               LOQ         Result    Units   Flag
+
+240508N056          1       High School - Cafeteria-WF, Initial                                       0.001 <0.001
+                                                                                                              <0.001        mg/L
+
+240508N057          2       High School - Cafeteria-BF, Initial                                       0.001 <0.001
+                                                                                                              <0.001        mg/L
+
+240508N058          3       CMS - 2nd Floor Hallway (East End)-WF, Initial                            0.001 <0.001
+                                                                                                              <0.001        mg/L
+
+240508N059          4       CMS - 1st Floor Hallway (East End)-WF, Initial                            0.001 <0.001
+                                                                                                              <0.001        mg/L
+
+240508N060          5       CMS - 1st Floor Hallway (East End)-BF, Initial                            0.001 <0.001
+                                                                                                              <0.001        mg/L
+
+240508N061          6       High School - Outside Main Office-WF, Initial                             0.001 <0.001
+                                                                                                              <0.001        mg/L
+
+240508N062          7       High School - Outside Main Office-BF, Initial                             0.001 <0.001
+                                                                                                              <0.001        mg/L
+
+240508N063          8       High School - 2nd Floor Hallway-WF, Initial                               0.001 <0.001
+                                                                                                              <0.001        mg/L
+
+240508N064          9       High School - 2nd Floor Hallway-BF, Initial                               0.001 <0.001
+                                                                                                              <0.001        mg/L
+
+240508N065         10       CMS - 1st Floor Hallway (West End)-WF, Initial                            0.001 <0.001
+                                                                                                              <0.001        mg/L
+
+240508N066         11       LGA - Library Hallway-WF, Initial                                         0.001 <0.001
+                                                                                                              <0.001        mg/L
+
+240508N067         12       LGA - Library Hallway-BF, Initial                                         0.001 <0.001
+                                                                                                              <0.001        mg/L
+
+240508N068         13       Middle School - A Wing-WF, Initial                                        0.001 <0.001
+                                                                                                              <0.001        mg/L
+
+240508N069         14       Middle School - A Wing-BF, Initial                                        0.001 <0.001
+                                                                                                              <0.001        mg/L
+
+240508N070         15       Middle School - B Wing-WF, Initial                                        0.001 <0.001
+                                                                                                              <0.001        mg/L
+
+240508N071         16       Middle School - B Wing-BF, Initial                                        0.001 <0.001
+                                                                                                              <0.001        mg/L
+
+240508N072         17       Middle School - C Wing-WF, Initial                                        0.001 <0.001
+                                                                                                              <0.001        mg/L
+
+240508N073         18       Middle School - C Wing-BF, Initial                                        0.001 <0.001
+                                                                                                              <0.001        mg/L
+
+240508N074         19       Middle School - D Wing-WF, Initial                                        0.001 <0.001
+                                                                                                              <0.001        mg/L
+
+240508N075         20       Middle School - D Wing-BF, Initial                                        0.001 <0.001
+                                                                                                              <0.001        mg/L
+
+240508N076         21       Theater/Gym - Outside Boys Locker Room-WF, Initial                        0.001 <0.001
+                                                                                                              <0.001        mg/L
+
+240508N077         22       Theater/Gym - 1st Floor Lobby-WF, Initial                                 0.001 <0.001
+                                                                                                              <0.001        mg/L
+
+240508N078         23       Theater/Gym - 1st Floor Lobby-BF, Initial                                 0.001 <0.001
+                                                                                                              <0.001        mg/L
+
+240508N079         24       Theater/Gym - 2nd Floor Lobby-WF, Initial                                 0.001 <0.001
+                                                                                                              <0.001        mg/L
+
+240508N080         25       CLP - Outdoor by Football Field-WF, Initial                               0.001 <0.001
+                                                                                                              <0.001        mg/L
+
+240508N081         26       CLP - Outdoor by Football Field-BF, Initial                               0.001 <0.001
+                                                                                                              <0.001        mg/L
+
+
+
+
+                                                                                                                                 Page 2 of 3
+                                                                  NYSDOH ELAP Lab ID: 11510                                5/9/2024 2:55 PM
+ Date Collected:         08 May 2024                                                      Analytical Method:      EPA 200.9 Rev. 2.2
+ Date Received:          08 May 2024                                                       Analyte, Matrix:       Lead, Potable Water
+ Date Analyzed:          09 May 2024
+
+
+
+
+Lab ID             CID      Sample Location/Description                                           LOQ         Result    Units   Flag
+
+240508N082         27       CLP - Outdoor South-WF, Initial                                       0.001 <0.001
+                                                                                                          <0.001        mg/L
+
+240508N083         28       CLP - Outdoor South-BF, Initial                                       0.001 <0.001
+                                                                                                          <0.001        mg/L
+
+
+Comment:
+CID: Client ID LOQ: Limit of Quantitation
+
+
+
+
+                                                                                                                             Page 3 of 3
+                                                              NYSDOH ELAP Lab ID: 11510                                5/9/2024 2:55 PM
+Irvington UFSD                                                         School Water Outlet Inventory                   Lead in School Drinking Water - October 2023
+Middle School and High School Campus
+                                                             Latest     Latest        15 Second 60 Second
+                                                      App    st                                               Flush
+                                            Fixture         1 Draw     1st Draw         Draw       Draw
+             Sample Location                           or                                                   Sampling                    Remarks
+                                             Type            Results   Sampling        Results   Results
+                                                      N/A                                                     Date
+                                                             (ppb)       Date           (ppb)     (ppb)
+
+                                                              <1.0      5/8/2024          -          -         -                           -
+Middle School - A Wing                       WF       App
+                                                              <1.0     10/27/2023         -          -         -                           -
+
+                                                              <1.0      5/8/2024          -          -         -                           -
+Middle School - A Wing                        BF      App
+                                                              <1.0     10/27/2023         -          -         -                           -
+
+                                                              <1.0      5/8/2024          -          -         -                           -
+Middle School - B Wing                       WF       App
+                                                              <1.0     10/27/2023         -          -         -                           -
+
+                                                              <1.0      5/8/2024          -          -         -                           -
+Middle School - B Wing                        BF      App
+                                                              <1.0     10/27/2023         -          -         -                           -
+
+                                                              <1.0      5/8/2024          -          -         -                           -
+Middle School - C Wing                       WF       App
+                                                              <1.0     10/27/2023         -          -         -                           -
+
+                                                              <1.0      5/8/2024          -          -         -                           -
+Middle School - C Wing                        BF      App
+                                                              <1.0     10/27/2023         -          -         -                           -
+
+                                                              <1.0      5/8/2024          -          -         -                           -
+Middle School - D Wing                       WF       App
+                                                              <1.0     10/27/2023         -          -         -                           -
+
+                                                              <1.0      5/8/2024          -          -         -                           -
+Middle School - D Wing                        BF      App
+                                                              <1.0     10/27/2023         -          -         -                           -
+
+                                                              <1.0      5/8/2024          -          -         -                           -
+Theater/Gym - 1st Floor Lobby                WF       App
+                                                              <1.0     10/27/2023         -          -         -                           -
+
+                                                              <1.0      5/8/2024          -          -         -                           -
+Theater/Gym - 1st Floor Lobby                 BF      App
+                                                              <1.0     10/27/2023         -          -         -                           -
+
+                                                              <1.0      5/8/2024          -          -         -                           -
+Theater/Gym - 2nd Floor Lobby                WF       App
+                                                              <1.0     10/27/2023         -          -         -                           -
+
+
+Action Level = 5.0 parts per billion (ppb) (µg/L)                                    Page 1 of 4
+                                                                                   Updated 5/10/24
+Irvington UFSD                                                         School Water Outlet Inventory                   Lead in School Drinking Water - October 2023
+Middle School and High School Campus
+                                                             Latest     Latest        15 Second 60 Second
+                                                      App    st                                               Flush
+                                            Fixture         1 Draw     1st Draw         Draw       Draw
+             Sample Location                           or                                                   Sampling                      Remarks
+                                             Type            Results   Sampling        Results   Results
+                                                      N/A                                                     Date
+                                                             (ppb)       Date           (ppb)     (ppb)
+
+                                                                        5/8/2024          -          -         -              Non-functional; Sampling Required
+Theater/Gym - Gym-left lower                 WF       App
+                                                                       10/27/2023         -          -         -              Non-functional; Sampling Required
+
+                                                                        5/8/2024          -          -         -              Non-functional; Sampling Required
+Theater/Gym - Gym-left upper                 WF       App
+                                                                       10/27/2023         -          -         -              Non-functional; Sampling Required
+
+                                                                        5/8/2024          -          -         -              Non-functional; Sampling Required
+Theater/Gym - Gym-right lower                WF       App
+                                                                       10/27/2023         -          -         -              Non-functional; Sampling Required
+
+                                                                        5/8/2024          -          -         -              Non-functional; Sampling Required
+Theater/Gym - Gym-right upper                WF       App
+                                                                       10/27/2023         -          -         -              Non-functional; Sampling Required
+
+                                                              <1.0      5/8/2024          -          -         -                              -
+Theater/Gym - Outside Boys Locker Room       WF       App
+                                                              <1.0     10/27/2023         -          -         -                              -
+
+                                                              <1.0      5/8/2024          -          -         -                              -
+LGA - Library Hallway                        WF       App
+                                                              <1.0     10/27/2023         -          -         -                              -
+
+                                                              <1.0      5/8/2024          -          -         -                              -
+LGA - Library Hallway                         BF      App
+                                                              <1.0     10/27/2023         -          -         -                              -
+
+                                                                        5/8/2024          -          -         -              Non-functional; Sampling Required
+LGA - Library Hallway                        WF       App
+                                                                       10/27/2023         -          -         -              Non-functional; Sampling Required
+
+                                                                        5/8/2024          -          -         -              Non-functional; Sampling Required
+LGA - Gym-left                               WF       App
+                                                                       10/27/2023         -          -         -              Non-functional; Sampling Required
+
+                                                                        5/8/2024          -          -         -              Non-functional; Sampling Required
+LGA - Gym-right                              WF       App
+                                                                       10/27/2023         -          -         -              Non-functional; Sampling Required
+                                                                                                                                   Removed from Service;
+LGA - Gym                                    WF       App              10/27/2023         -          -         -
+                                                                                                                                    No Fixture Observed
+                                                                                                                                   Removed from Service;
+LGA - Gym                                    WF       App              10/27/2023         -          -         -
+                                                                                                                                    No Fixture Observed
+
+Action Level = 5.0 parts per billion (ppb) (µg/L)                                    Page 2 of 4
+                                                                                   Updated 5/10/24
+Irvington UFSD                                                         School Water Outlet Inventory                   Lead in School Drinking Water - October 2023
+Middle School and High School Campus
+                                                             Latest     Latest        15 Second 60 Second
+                                                      App    st                                               Flush
+                                            Fixture         1 Draw     1st Draw         Draw       Draw
+             Sample Location                           or                                                   Sampling                      Remarks
+                                             Type            Results   Sampling        Results   Results
+                                                      N/A                                                     Date
+                                                             (ppb)       Date           (ppb)     (ppb)
+
+                                                              <1.0      5/8/2024          -          -         -                              -
+CLP - Outdoor by Football Field              WF       App
+                                                              <1.0     10/27/2023         -          -         -                              -
+
+                                                              <1.0      5/8/2024          -          -         -                              -
+CLP - Outdoor by Football Field               BF      App
+                                                              <1.0     10/27/2023         -          -         -                              -
+
+CLP - Outdoor South                          WF       App     <1.0      5/8/2024          -          -         -                              -
+
+CLP - Outdoor South                           BF      App     <1.0      5/8/2024          -          -         -                              -
+
+                                                                        5/8/2024          -          -         -              Non-functional; Sampling Required
+High School - Garden Level by Room H024      WF       App
+                                                              <1.0     10/27/2023         -          -         -                              -
+
+                                                                        5/8/2024          -          -         -              Non-functional; Sampling Required
+High School - Garden Level by Room H024      WF       App
+                                                              <1.0     10/27/2023         -          -         -                              -
+
+                                                              <1.0      5/8/2024          -          -         -                              -
+High School - Cafeteria                      WF       App
+                                                              <1.0     10/27/2023         -          -         -                              -
+
+                                                              <1.0      5/8/2024          -          -         -                              -
+High School - Cafeteria                       BF      App
+                                                              <1.0     10/27/2023         -          -         -                              -
+
+                                                                        5/8/2024          -          -         -              Non-functional; Sampling Required
+High School - Cafeteria                      WF       App
+                                                                       10/27/2023         -          -         -              Non-functional; Sampling Required
+
+                                                              <1.0      5/8/2024          -          -         -                              -
+High School - Outside Main Office            WF       App
+                                                              <1.0     10/27/2023         -          -         -                              -
+
+                                                              <1.0      5/8/2024          -          -         -                              -
+High School - Outside Main Office             BF      App
+                                                              <1.0     10/27/2023         -          -         -                              -
+
+                                                                        5/8/2024          -          -         -              Non-functional; Sampling Required
+High School - 1st Floor Hallway              WF       App
+                                                                       10/27/2023         -          -         -              Non-functional; Sampling Required
+
+
+Action Level = 5.0 parts per billion (ppb) (µg/L)                                    Page 3 of 4
+                                                                                   Updated 5/10/24
+Irvington UFSD                                                         School Water Outlet Inventory                   Lead in School Drinking Water - October 2023
+Middle School and High School Campus
+                                                             Latest     Latest        15 Second 60 Second
+                                                      App    st                                               Flush
+                                            Fixture         1 Draw     1st Draw         Draw       Draw
+             Sample Location                           or                                                   Sampling                      Remarks
+                                             Type            Results   Sampling        Results   Results
+                                                      N/A                                                     Date
+                                                             (ppb)       Date           (ppb)     (ppb)
+
+                                                                        5/8/2024          -          -         -              Non-functional; Sampling Required
+High School - 2nd Floor Hallway              WF       App
+                                                              <1.0     10/27/2023         -          -         -                              -
+
+                                                              <1.0      5/8/2024          -          -         -                              -
+High School - 2nd Floor Hallway              WF       App
+                                                              <1.0     10/27/2023         -          -         -                              -
+
+                                                              <1.0      5/8/2024          -          -         -                              -
+High School - 2nd Floor Hallway               BF      App
+                                                              <1.0     10/27/2023         -          -         -                              -
+
+                                                                        5/8/2024          -          -         -              Non-functional; Sampling Required
+CMS - 3rd Floor Hallway (West End)           WF       App
+                                                                       10/27/2023         -          -         -              Non-functional; Sampling Required
+
+                                                                        5/8/2024          -          -         -              Non-functional; Sampling Required
+CMS - 2nd Floor Lobby                        WF       App
+                                                                       10/27/2023         -          -         -              Non-functional; Sampling Required
+
+                                                              <1.0      5/8/2024          -          -         -                              -
+CMS - 2nd Floor Hallway (East End)           WF       App
+                                                              <1.0     10/27/2023         -          -         -                              -
+
+                                                                        5/8/2024          -          -         -              Non-functional; Sampling Required
+CMS - 2nd Floor Hallway (West End)           WF       App
+                                                              <1.0     10/27/2023         -          -         -                              -
+
+                                                              <1.0      5/8/2024          -          -         -                              -
+CMS - 1st Floor Hallway (East End)           WF       App
+                                                              <1.0     10/27/2023         -          -         -                              -
+
+                                                              <1.0      5/8/2024          -          -         -                              -
+CMS - 1st Floor Hallway (East End)            BF      App
+                                                              <1.0     10/27/2023         -          -         -                              -
+
+                                                              <1.0      5/8/2024          -          -         -                              -
+CMS - 1st Floor Hallway (West End)           WF       App
+                                                                       10/27/2023         -          -         -              Non-functional; Sampling Required
+
+                                                                        5/8/2024          -          -         -              Non-functional; Sampling Required
+CMS - 1st Floor Lobby                        WF       App
+                                                                       10/27/2023         -          -         -              Non-functional; Sampling Required
+
+
+Action Level = 5.0 parts per billion (ppb) (µg/L)                                    Page 4 of 4
+                                                                                   Updated 5/10/24

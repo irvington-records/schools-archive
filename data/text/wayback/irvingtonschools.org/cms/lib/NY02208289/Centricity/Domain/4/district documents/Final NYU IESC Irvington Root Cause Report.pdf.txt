@@ -1,0 +1,2333 @@
+SOURCE https://www.irvingtonschools.org/cms/lib/NY02208289/Centricity/domain/4/district%20documents/Final%20NYU%20IESC%20Irvington%20Root%20Cause%20Report.pdf | DATE 2025-07-21 | TITLE Final NYU IESC Irvington Root Cause Report.pdf
+
+METROPOLITAN CENTER FOR RESEARCH ON EQUITY AND THE TRANSFORMATION OF SCHOOLS
+INNOVATIONS IN EQUITY AND SYSTEMIC CHANGE (IESC)
+
+
+
+
+             Root Cause Report
+             Irvington Union Free School District
+
+             Prepared in the Summer of 2021 by
+             Innovations in Equity and Systemic
+             Change (IESC) - New York University
+
+             METROPOLITAN CENTER FOR RESEARCH ON EQUITY AND THE TRANSFORMATION OF SCHOOLS
+
+
+
+
+New York University
+Metropolitan Center for Research on Equity and the Transformation of Schools
+Steinhardt School of Culture, Education, and Human Development
+726 Broadway, 5th Floor
+New York, New York 10003
+
+
+
+
+                                                                                    1
+METROPOLITAN CENTER FOR RESEARCH ON EQUITY AND THE TRANSFORMATION OF SCHOOLS
+INNOVATIONS IN EQUITY AND SYSTEMIC CHANGE (IESC)
+Table of Contents
+IESC’s Mission                                                                  5
+About School District                                                           5
+District and School Data: Enrollment and Discipline data                       11
+  District Level Data (2018-2019)                                              11
+     Table 1a. District Level Referral Data                                    12
+     Table 1b. District Level Suspension Data                                  12
+     Summary of Analysis (based on district provided data)                     12
+     Table 1c. Top Outcomes and Referrals                                      13
+     Table 2a. School Level Disciplinary Report                                13
+     Table 2b. School Level Suspension Report                                  14
+     Summary of Analysis (based on the school data provided)                   14
+     Table 2c. Discipline Referral Racial Disparities by School                15
+  District Level Data (2019-20)                                                15
+     Table 3a. District Level Referral Data                                    16
+     Table 3b. District Level Suspension Data                                  16
+     Summary of Analysis (based on district provided data)                     16
+     Table 3c. Top Outcomes and Referrals                                      17
+     Table 4a. School Level Disciplinary Report                                17
+     Table 4b. School Level Suspension Report                                  18
+     Summary of Analysis (based on the school data provided)                   18
+     Table 4c. Discipline Referral Racial Disparities by School                19
+     District and School Data: Academic data                                   19
+  District Level Academic Data (2018-19)                                       19
+     Summary of Analysis (based on the school data provided below)             19
+     Table 5a. District Composition                                            20
+  Academic Data (Marking Period 2) (Grades K-5)                                20
+     Table 6a. Behavior                                                        20
+     Table 6b. Core                                                            20
+     Table 6c. ELA (Special Education Only)                                    21
+     Table 6d. Math (Special Education Only)                                   21
+     Table 6e. PLTW (Project Lead the Way)                                     21
+     Table 6f. Social Sciences and Science                                     22
+  Academic Data (Marking Period 3) (Grades K-5)                                22
+     Table 7a. Behavior                                                        22
+     Table 7b. Core                                                            22
+     Table 7c. ELA (Special Education Only)                                    22
+     Table 7d. Math (Special Education Only)                                   23
+     Table 7e. PLT (Project Lead the Way)                                      23
+     Table 7f. Social Sciences and Science                                     23
+  Academic Data (Grades 6-12)                                                  24
+     Table 8a. English (Students Passing and Failing a Course)                 24
+
+                                                                                2
+METROPOLITAN CENTER FOR RESEARCH ON EQUITY AND THE TRANSFORMATION OF SCHOOLS
+INNOVATIONS IN EQUITY AND SYSTEMIC CHANGE (IESC)
+    Table 8b. Math (Students Passing and Failing a Course)                     24
+    Table 8c. Science (Students Passing and Failing a Course)                  24
+    Table 8d. Social Sciences (Students Passing and Failing a Course)          24
+  Electives (Grades 6-12)                                                      25
+    Table 9a. Art (Students Passing and Failing a Course)                      25
+    Table 9b. Foreign Language (Students Passing and Failing a Course)         25
+    Table 9c. Unified Art (Students Passing and Failing a Course)*             25
+  Benchmark Data (Grades K-8)                                                  25
+    Table 10a. Aims Web                                                        25
+  Advanced Placement, Honors Courses                                           26
+    Table 11a. Enrollment in AP Classes by Race                                26
+    Table 11b. Enrollment in Honors Classes by Race                            26
+  District Level Academic Data (2019-20)                                       26
+    Summary of Analysis (based on the school data provided below)              26
+    Table 12a. District Composition                                            27
+  Academic Data (Marking Period 2) (Grades K- 5)                               27
+    Table 13a. Core                                                            27
+    Table 13b. PLTW (Project Lead the Way)                                     27
+    Table 13c. World Language                                                  28
+  Academic Data (Grades 6-12)                                                  28
+    Table 14a. English (Students Passing and Failing a Course)                 28
+    Table 14b. Math (Students Passing and Failing a Course)                    28
+    Table 14c. Science (Students Passing and Failing a Course)                 28
+    Table 14d. Social Sciences (Students Passing and Failing a Course)         29
+  Electives (Grades 6-12)                                                      29
+    Table 15a. Art (Students Passing and Failing a Course)                     29
+    Table 15b. Foreign Language (Students Passing and Failing a Course)        29
+    Table 15c. Unified Art (Students Passing and Failing a Course)*            29
+  Benchmark (Grades K-8)                                                       30
+    Table 16a. Aims Web                                                        30
+  Advanced Placement, Honors Courses                                           30
+    Table 17a. Enrollment in AP Classes by Race                                30
+    Table 17b. Enrollment in Honors Classes by Race                            30
+    Policy Analysis:                                                           30
+    Table 18b. District and School Discipline Referral Analysis                36
+Practice Analysis:                                                             37
+  School Discipline Process                                                    37
+    Table 18c. Stages involved in the School Discipline Process                37
+  Practice Analysis: Tier 1, 2, and 3 Interventions                            39
+    Table 18d. Tier 1, 2, and 3 Interventions and Supports                     39
+    Table 18e. Tier 1, 2, and 3 Interventions and Support Gaps                 41
+Beliefs-Survey Data                                                            42
+     Table 19a. CR-SE District Assessment Results                              44
+                                                                                3
+METROPOLITAN CENTER FOR RESEARCH ON EQUITY AND THE TRANSFORMATION OF SCHOOLS
+INNOVATIONS IN EQUITY AND SYSTEMIC CHANGE (IESC)
+Root Causes for Inequities and Disproportionality in the District              44
+    Root Causes identified by the Root Cause Team                              44
+    Root Cause focus areas for the Multi-year Action Plan                      46
+IESC Recommendations                                                           46
+    Appendix B: Parent/Caregiver Interview Protocol                            49
+
+
+
+
+                                                                                4
+METROPOLITAN CENTER FOR RESEARCH ON EQUITY AND THE TRANSFORMATION OF SCHOOLS
+INNOVATIONS IN EQUITY AND SYSTEMIC CHANGE (IESC)
+
+
+
+IESC’s Mission
+Innovations in Equity and Systemic Change (IESC) provides professional development, technical assistance,
+and consultancy to educational institutions in general and special education. IESC’s mission is to advance
+educational equity by disrupting, dismantling, and eliminating disproportionality by building the capacity of
+educators to implement Culturally Responsive Sustainable Equity-Based Systems that meet the needs of all
+students and families.
+
+
+About School District
+
+Name: Irvington Union Free School District
+
+        The root cause report offers a synthesis of both the quantitative and qualitative data collected from
+Irvington UFSD throughout the root cause analysis process. As a part of the root cause analysis process, NYU
+Metro Center’s IESC requested two years of district student outcome data (2018-19 and 2019-20).
+Additionally, a staff survey, parent/caregiver focus groups and the root cause teams’ review and analysis of
+policies, practices and procedures are reflected in this report. The overarching data offered at a glance below
+will be further unpacked within the body of the report.
+
+District Overview:
+
+Irvington UFSD is a small-size suburban school district with a total of four schools. There were a total of
+1,761 students enrolled in the district during the 2018-19 academic year. According to the district level data
+for 2018-2019 school year, Black students comprised 4.77% of the district's population and made up 13.04%
+of the total students identified as students with disabilities. Latino/a students in Irvington comprised 9.03% of
+the district population and were 13.04% of the total students identified as students with disabilities in the
+district. White students made up 68.88% and comprised 64.13% of the total students identified with
+disabilities in the district. Asian students were 10.96% of the total district’s student population and comprised
+5.98% of the total students identified with disabilities. Overall, during the 2018-19 school year, 222 students
+i.e., 12.61% of the total student population, received at least one disciplinary referral. 34 students i.e., 1.93%
+of the total student population received at least one suspension.
+
+There were a total of 1,767 students enrolled in the district during the 2019-20 academic year. According to
+the district level data in the 2019-20 school year, Black students in Irvington comprised 4.98% of the district
+population and were 8.98% of the total students identified with disabilities in the district. Latino/a students
+comprised 9.28% of the district's population and made up 11.46% of the total students identified as students
+with disabilities. White student enrollment in the district was at 68.48% and comprised 72.14% of the total
+students identified with disabilities. Asian students were 11.15% of the total district’s student population and
+comprised 4.33% of the total students identified as students with disabilities. Overall, during the year, a total
+of 173 students i.e., 9.79% of the total student population received at least one disciplinary referral. Also, 18
+students i.e., 1.02% of the district’s total student population received at least one suspension.
+
+
+
+
+                                                                                                                     5
+METROPOLITAN CENTER FOR RESEARCH ON EQUITY AND THE TRANSFORMATION OF SCHOOLS
+INNOVATIONS IN EQUITY AND SYSTEMIC CHANGE (IESC)
+Notes from the Field:
+
+        Irvington UFSD engaged in a root cause analysis process with 32 participants including the
+superintendent, assistant superintendent, director of PPS, assistant director of PPS, director of technology, 2
+principals, teachers across grade levels, a psychologist, social worker, district data manager, two board of
+trustees, and 11 parent/community members. As noted, the district comprised a group of widely diverse
+stakeholders with an emphasis on parent/community participation.
+
+The first session started with participants being asked to define “disproportionality” in their own words. This
+introductory activity made clear that the stakeholders assembled had varying degrees of experience with work
+around equity and disproportionality. As is the case with all root cause teams, the team spent significant time
+focusing on key frameworks for engaging and processing the work to come. These included: 1) highlighting
+and co-creating community norms - from ‘active listening’ to ‘pushing your growing edge,’ 2) understanding
+the three tensions that come up in doing racial equity work - personal, structural and strategic and lastly, 3)
+learning how to name the elephants in the room - that is, naming the specific individuals and communities that
+continue to be impacted by disproportionality in the district. The group looked at national and state academic
+outcome scores that were disaggregated by race and free and reduced lunch designation (accounting for socio-
+economic status). In doing so, a few participants brought up that poverty becomes an impacting circumstance
+but even if a child who is Black, Indigenous or a Person of Color (BIPOC) is not from a low SES group they
+often get stigmatized as such in the Irvington community.
+
+Root cause members came into the second session energized by the work they had started. One participant
+said that they left the first session with “a sense of the enormity of the work before us but a belief that we will
+make progress and that we are all committed to this work and to the students in our community.” In session
+two, there was a concerted push for participants to recognize that the work of building racial equity in schools
+starts with a color-conscious lens. There were moments in the first and second sessions where individuals
+maintained color-evasive conversations or even explicitly commented that they “do not see color.” This is
+common with primarily White participants engaging in racial equity work for the first time. Understanding
+that equity means seeing individuals and communities for everything they are, including their racial
+background, becomes a critical understanding for growth in a root cause analysis process. These comments by
+a few however, were balanced by several participants, commenting on the importance of dialogue around race
+and racism for their children, White children in particular.
+
+It was clear that many educators in the group were holding tensions around the unpacking of the behavioral
+and academic workbooks - two years of district-level data gathered and then processed by IESC’s senior
+research associate. At the end of the second session, the team briefly looked at the behavioral workbooks.
+There was a concern shared that the referral data didn’t seem correct and overall, that looking at the data
+across district schools was difficult because depending on the school, behavioral data is tracked differently.
+This became the first moment when questions and concerns around the district and school-based data systems
+were expressed as well as an underlying tension held by staff around the data that was being presented to the
+group. The data analysis process of root cause work often unveils similar personal tensions from participants -
+connected to their readiness for systemic equity work - that often become barriers for district-level shifts. It
+was critical that these tensions were brought to light, engaged and grappled with as the group continued
+through the root cause series.
+
+
+
+                                                                                                                  6
+METROPOLITAN CENTER FOR RESEARCH ON EQUITY AND THE TRANSFORMATION OF SCHOOLS
+INNOVATIONS IN EQUITY AND SYSTEMIC CHANGE (IESC)
+Even with the participants that were struggling to engage the data in front of them, the group as a whole
+pushed forward and made deep connections to the district behavioral data. One participant was emotional to
+the point of tears, acknowledging the real life impact the data patterns have on students of color and Black
+males in particular. One community member highlighted how their group was grappling with the reality that
+behavioral “referrals are always cumulative,” that with each of them there was a ripple effect not just
+impacting the student, but their family as well. This comment spoke to the overall impact of exclusionary
+discipline and the ways in which Black students in particular are often labeled and perceived as having
+behavior problems. Additionally, one of the last comments of this session was made by a parent who
+highlighted that while Black students make up a small percentage of the district, the fact that they are
+disproportionately referred and suspended actually speaks volumes to how the system itself sees those
+particular students - how they become stigmatized and labelled.
+
+The following session started with a dialogue around culturally responsive behavior support. One participant
+asked if educators are supposed to respond differently to students depending on their race/ethnicity. Other
+members of the group highlighted how there needs to be cultural variation in how we support students because
+students of color are often treated with bias. The group was further developing their understanding of equity,
+where policies and practices are built on giving every student what they need and not just the same thing
+across the board. This session also highlighted a discrepancy in the data, where the multi-racial student
+enrollment from one year was not a part of the data processed for the following year, which was attributed to
+an issue with the state data collection systems. The district leaders and facilitation team highlighted this for the
+group, noting that the books will be revised to account for the discrepancy. The new academic and behavioral
+data was brought into the next session and facilitators, including the senior research associate at IESC, noted
+that the patterns of disproportionality remained consistent.
+
+One of the parent/caregivers in the group brought in a summary of additional analysis they had done based on
+the behavioral workbooks. They shared with the group how they found high levels of disproportionately
+particularly at the intersection of students with an IEP and Black students. They commented on the impact of
+the check system that is used to monitor behavior and how the overwhelming proportion of students receiving
+these negative marks are students with an IEP. It was clarified that the check system was a way to monitor
+behavior in select classrooms and not across the entire district. They also noted how Latinx students are
+significantly impacted by disproportional access to AP and Honors classes - a comment that was echoed by a
+high school teacher in the group. This analysis exemplified the importance of taking a race-conscious,
+intersectional lens when looking at the data. The need to understand the levels of complexity in identifying
+inequities in a school system was shared by another team member who added, “I think, especially for teachers
+who are a part of this group - in addition to continuing to examine our own practice, how can we make a
+difference at the school-wide level - the idea that there are multiple spheres of influence.”
+
+The root cause team moved into analyzing the code of conduct, referral forms and overall discipline process in
+small breakout groups. This particular session finished with a look at the staff survey given as a part of the
+root cause process. The group highlighted that there was a relatively low number of respondents and wanted to
+know if all staff had received the survey. District leaders later confirmed that it was indeed sent out to all
+school staff (n = 380). It is worth noting that the survey was given toward the end of the school year which can
+become a difficult time to complete another task while balancing a wide range of priorities.
+
+In the following session the group started by engaging the Paul Gorski article, Avoiding Racial Equity
+Detours. In doing so, several team members commented on the detour of “pacing for privilege” - not moving
+
+                                                                                                                  7
+METROPOLITAN CENTER FOR RESEARCH ON EQUITY AND THE TRANSFORMATION OF SCHOOLS
+INNOVATIONS IN EQUITY AND SYSTEMIC CHANGE (IESC)
+racial equity work because of community pushback, particularly in majority White communities like
+Irvington. Participants commented on this phenomenon being present within the Irvington community as well
+and being determined to work past the discomfort and defensiveness. The group moved into the last session by
+co-creating a moral imperative statement, finishing the CR-SE District Assessment and beginning the initial
+outlining of the multi-year action plan. The group highlighted the importance of having youth voice connected
+to the action plan, which exemplified their push to center the voices of those that most need to be a part of the
+process moving forward. The facilitators shared that it will be critical to use the root cause report and the
+multi-year action plan as a jumping off point to further engage youth and families, particularly those who have
+been historically marginalized and are seen in the data as continually being disproportionately impacted by the
+schooling system. As the group moved into the start of action planning and finished the last session,
+parent/caregivers brought up the tension of not knowing what’s next and feeling like so much was invested in
+the root cause process, but feeling unclear about what their involvement would look like moving forward.
+IESC facilitators shared that the multi-year action will still require small group work to finish outlining a plan
+for five years of implementation and that it will be critical for parent/caregivers to be a part of this process.
+
+Focus Group Findings:
+
+Experiences of Parents/Caregivers in Irvington
+
+         Parent/caregiver focus groups took place between June 29 to July 1, 2021. A total of 19
+parents/caregivers were invited to participate in the focus group, ultimately, there were 10 parent/caregivers
+that completed the focus group interviews. There were parent/caregiver representatives across grade levels and
+representing each school throughout the district. Several of the parents shared that their children had been
+attending Irvington since kindergarten and some even moved to Irvington for their child to attend the district.
+Parents/caregivers were asked a series of questions (see Appendix B for Interview Protocol) to gain a deeper
+understanding of the district’s overall responsiveness to families along with issues of equity/inequity in the
+district. They were also asked similar open-ended questions to hear the thoughts and experiences of families as
+district stakeholders. The focus group transcripts were read multiple times to uncover common patterns that
+were shared across multiple parents/caregivers. The following consistent themes were identified across
+multiple parents/caregivers. The patterns listed below are general common patterns, and specificity connected
+to these themes are offered below with direct quotes that demonstrate what parents/caregivers shared.
+
+1) Overall mixed experiences in Irvington, including both positive and negative
+2) Racial incidents and differential treatment
+3) Varied expectations of students of color and students with an IEP
+4) Parents/caregivers wanting the hiring of diverse staff and DEI training for current staff
+
+Parents/caregivers shared having mixed experiences in Irvington. While they stressed the quality rigorous
+supportive education their children are experiencing, they also spoke of moments when they have not felt
+welcomed in the district. Parents/caregivers offered insight on what they value in the district, including feeling
+supported, the resources available in the district, and the academics in the district.
+
+       It's been a positive experience being in this district, for the most part.
+
+       The district has been amazing to my son.
+
+
+                                                                                                                 8
+METROPOLITAN CENTER FOR RESEARCH ON EQUITY AND THE TRANSFORMATION OF SCHOOLS
+INNOVATIONS IN EQUITY AND SYSTEMIC CHANGE (IESC)
+       I just wanted to keep that feel you know, for them, so the Irvington school district, I feel like it's a
+       private school quality education. But it's still a public school.
+
+       I am very proud that they attend Irvington. Because Irvington is a district that offers a lot of support in
+       comparison to other districts. It is a good school because when my daughters needed help they always
+       assisted them. They have helped me. The teachers are amicable.
+
+       So I liked the various clubs that they had to offer. The various sports opportunities that they had to
+       offer, the academics as well. The fact that the school is on a campus so it gives the children an idea of
+       what a college setting looks like. Most of the schools in the city in the tri-state area you're moving from
+       floor to floor because some of the schools have multiple schools in one building. I like the idea of the
+       course offerings. I like how students are able to pick their own electives. A lot of the programs that are
+       not afforded to kids that are in the city.
+
+       I really liked the academics. I really like the help, especially if there are certain things that you do not
+       understand they offer you one on one reading. I really appreciate the help that they do for the kids like
+       they go beyond, to make sure that your child understands whatever the school is teaching. I really love
+       the way they take care of the kids in school-what they learn.
+
+       I felt a big change coming to this district. The academic rigor; there is a lot of discipline in comparison
+       to the other district they were at. Despite the pandemic I felt that they held academic rigor. There was a
+       change. My child was in ENL. The language person said he no longer needed it because they had
+       passed that test. My child is fine. They do not need it anymore.
+
+On the other hand, parents/caregivers shared multiple moments when they have not felt welcomed in the
+district and schools. Verbal and non-verbal messages of not being part of the Irvington community have come
+from other parents and staff.
+
+              In my experience it [feels] like I am not welcome. I feel like when there is a meeting or a class
+              event, a school event I feel that I am not welcomed.
+
+              I don't feel welcome in Irvington because, one time, I remember a couple of years ago, a
+              mother told me where do you live, live around here, I said yes, I live in Tarrytown: ‘Oh, you
+              are the people that live in Tarrytown and enjoying our taxes.’
+
+              First time, three to five people just walked up to me, ‘oh nice to meet you, what do you do?’
+              So, I was like I am a stay at home mom. They look down [at me]. I'm feeling down, couple of
+              years ago, so I made myself stay away from the school. That's what I did. I do not go to any
+              events at all. I will just do phone calls and all of that. I will stay away even when they have a
+              program, like playing music outside, when I take the kids I feel left out.
+
+              At the beginning I felt like they gave me a bad look because I am Hispanic. Like when my
+              child started school there were not many in the school.
+
+              I was minding my business at school one day, and this woman came up to me, one of the
+              parents. I was standing by myself, my son's father and he was somewhere in the quad. I was
+              just standing there and [she] walked up to me. And she goes oh nice bag and I was like ‘oh,
+
+                                                                                                                  9
+METROPOLITAN CENTER FOR RESEARCH ON EQUITY AND THE TRANSFORMATION OF SCHOOLS
+INNOVATIONS IN EQUITY AND SYSTEMIC CHANGE (IESC)
+               thank you.’ Then she goes ‘oh that bag was really expensive, did you get a discount’…. I'm not
+               trying to join the group, I'm not trying to get involved with all of this stuff. I'm there to support
+               my son and maybe even help the other kids. To find me to bring all of this stuff is extra and I
+               don't need to deal with it. I don't put myself in those situations where I have to [deal] with the
+               nonsense from a lot of these parents.
+
+               I don’t like when we are in a meeting with the teacher or superintendent there isn’t Spanish
+               closed captioning, because I would like to hear in Spanish the technical language that you don’t
+               know [in English]. They speak fast and you are left lost. I am left lost. I would like to offer a
+               recommendation for them to add closed captioning in Spanish...I had to tell them I didn’t
+               understand so then they found someone who speaks Spanish to help and that was at the end.
+
+               I don’t think that they have engaged me directly. They send a general letter. I have not tried
+               getting involved because I feel you have to speak and write English well to be able to
+               participate in the classroom or other events.
+
+Parents/caregivers also shared racial incidents that have occurred. They highlighted experiencing differential
+treatment, and the impact that has had on their children.
+
+       You know, playing four squares and the N word was used. There was also a situation where one of the
+       teachers during Black history month used the N word. He was shocked to hear and [they] ‘teaching us
+       the N word’.
+
+       I feel like my kids were targeted. Like there's only 4%. African Americans in the school district, and I
+       think the kids are treated terribly. They're coming at you like you're a charity case and if you're not
+       accepting that charity then it's like you're an enemy and that's just that's just been my experience.
+
+       I will say that you can notice how your experience is different when you are the minority. You notice,
+       you feel you are treated differently.
+
+       ..the counselor and principal talked to him and separated him. But, he was no longer allowed to go to
+       recess. He was not allowed to go to recess for a week and stayed with the principal. He said I don’t
+       know when they will lift my punishment. Sometimes it’s good that, not that they should punish that
+       way because it was not just, the other [kids] who were involved did not receive a punishment, and it
+       just wasn’t him. I didn’t like that. When I was talking with the counselor, the social worker and
+       principal [on zoom] they were laughing. I don’t know if they were texting, but I felt like they did not
+       pay a lot of attention to the conversation.
+
+       With Covid she was being homeschooled. She loved it so much. She was like mom, I wish this is
+       something that continue[s] because people don't like me in our school. [I said] you force yourself and
+       just ignore them. But it's not as easy as you think. She was like mom, is there anything that you can do
+       because you're not going to work, I can [be] homeschooled online. Begging me. [I tell her] you have to
+       tell them, show them that you're very strong. They're going to put you down, you have to go. But, it’s
+       not diverse and keeps the African American kids to feel left out, even though sometimes they will not
+       tell us.
+
+
+
+                                                                                                                  10
+METROPOLITAN CENTER FOR RESEARCH ON EQUITY AND THE TRANSFORMATION OF SCHOOLS
+INNOVATIONS IN EQUITY AND SYSTEMIC CHANGE (IESC)
+Such differential treatment has also impacted the perceptions held by some educators about their children,
+including assumptions that children of color and children with an IEP will not attend college. Two separate
+parents/caregiver shared the following:
+
+       There was just one teacher that I had to tell her that my son is going to college. She referenced a work
+       program for when he graduates. But I had to make it clear to her that oh my son's going to college.
+
+       I have to tell the school that she will be going to college, just like all the others. Because she is in
+       special education, she will not go to college, she will go to college.
+
+Given the racial incidents shared by parents/caregivers, they stressed the importance of hiring diverse district
+and school staff for students to see themselves and for diversity training to occur for district and school staff.
+
+       I don't particularly like the lack of diversity, when it comes to the faculty and staff. I remember them
+       saying how it was hard to find people to fill the positions and I don't know if I necessarily agree with
+       that. I don't know if one of the criteria is you have to live in the Irvington school district which I don't
+       think that’s a criterion. I personally know so many you know academics, social workers. A good
+       balance of faculty for the kids to see somebody that looks like them. Even having clubs, you know, not
+       to say that it has to be a segregated thing, and you know that, just to have some type of awareness of
+       you know just getting to know or the students being able to like you know feed off one another and
+       things like that and also what I what I don't particularly like for lack of a better word the ignorance of
+       not knowing how to or choosing to not learn how to deal with Black and African American or students
+       of color... from my own personal experience, especially with my older daughter, I just wish that there
+       was more just more awareness on the faculty part and more diversity and inclusion from the staff.
+
+       The whole district, they need to go to some type of workshop training on diversity, because there's
+       absolutely none. They need to go to some kind of training.
+
+
+District and School Data: Enrollment and Discipline data
+
+        NYU Metro Center’s IESC began the Root Cause series by processing district and school level
+discipline outcome data disaggregated by race, gender, IEP status, and grade level. The methods used to
+calculate the data are common approaches to assess disproportionality, including the composition index, risk
+index, and relative risk ratio. Composition index gives the proportion of students by race/ethnicity in a
+particular outcome. Composition indexes are used to determine if a particular group is over or
+underrepresented in a particular outcome. The risk index identifies at what rate, or percentage of risk, students
+of a particular racial/ethnic group have in a particular outcome. Relative risk ratios are comparisons of the
+risks of a particular outcome of one group to the risk of the remaining group(s) experiencing the same
+outcome.
+
+District Level Data (2018-2019)
+
+        For the year 2018-19, Black students were 7.19 times more likely to be suspended than the rest of their
+peers and Latino/a students were 1.34 times more likely to be suspended in comparison to the rest of the
+students (see Table 1b). The relative risk ratio of suspension for White students was at 0.45. Latino/a students
+in the district accounted for 9.03% of the total student enrollment but represented 14.86% of the total students
+                                                                                                               11
+METROPOLITAN CENTER FOR RESEARCH ON EQUITY AND THE TRANSFORMATION OF SCHOOLS
+INNOVATIONS IN EQUITY AND SYSTEMIC CHANGE (IESC)
+who received disciplinary referrals. Similarly, Black students accounted for 4.77% of the total district
+enrollments but represented 12.61% of the total students who received disciplinary referrals.
+
+Table 1a. District Level Referral Data
+                                 Race    District         Count of           Count of             Risk index of     Relative risk
+                                         Composition      Incidents          Students             students          of students
+                                                          (Students          Receiving a          referred          referred
+                                                          counted            Disciplinary         (students         (students
+                                                          multiple           Incident             counted           counted
+                                                          times)*            (students            once)**           once)
+                                                                             counted once)
+   American Indian                            0.23%               0.00%               0.00%           0.00%              0.00
+   Asian                                     10.96%               5.61%               7.66%           8.81%              0.67
+   African American or Black                  4.77%               30.91%             12.61%           33.33%             2.88
+   Latino/a                                   9.03%               11.06%             14.86%           20.75%             1.76
+   White                                     68.88%               44.70%             58.56%           10.72%             0.64
+   Multiple                                   6.13%               7.73%               6.31%           12.96%             1.03
+*total referrals given, students who received multiple referrals were included multiple times
+**total students who received referrals regardless of the number of referrals received
+
+Table 1b. District Level Suspension Data
+                                 Race    District         Count of           Count of             Risk index of    Relative risk
+                                         Composition      Incidents          Students             students         of students
+                                                          (Students          Receiving            receiving        receiving
+                                                          counted            Suspensions          Suspensions      Suspensions
+                                                          multiple times)    (students            (students        (students
+                                                                             counted once)        counted once)    counted
+                                                                                                                   once)
+  American Indian                               0.23%              0.00%                 0.00%              0.00%        0.00
+  Asian                                        10.96%              5.13%                 5.88%              1.04%        0.51
+  African American or Black                     4.77%              25.64%                26.47%             10.71%       7.19
+  Latino/a                                      9.03%              15.38%                11.76%             2.52%        1.34
+  White                                        68.88%              48.72%                50.00%             1.40%        0.45
+  Multiple                                      6.13%              5.13%                 5.88%              1.85%        0.96
+
+Summary of Analysis (based on district provided data)
+   Based on the district level discipline referral and suspension data, a higher number of Black and Latino/a
+   students received disciplinary referrals in comparison to White and Asian students. The risk index of the
+   count of students who received disciplinary referrals was highest for Black students at 33.33%. The risk
+   index of the count of students who received disciplinary referrals for Latino/a students was at 20.75%. The
+   risk index of the count of students who received disciplinary referrals was 10.72% for White students and
+   8.81% for Asian students. The relative risk ratios of the count of students who received disciplinary
+   referrals were at 2.88 and 1.76 for Black and Latino/a students, respectively. The relative risk ratios of the
+   count of students who received disciplinary referrals were at 0.64 and 0.67 for White and Asian students,
+   respectively. Similarly, the risk index for the count of students suspended was highest for Black students at
+   10.71%. This was followed by the risk index of 2.52% for Latino/a students. The risk index of the count of
+   students suspended was at 1.40% for White students and 1.04% for Asian students. The relative risk of the
+   count of students suspended was highest for Black students at 7.19, followed by the relative risk of the
+
+
+                                                                                                                                    12
+METROPOLITAN CENTER FOR RESEARCH ON EQUITY AND THE TRANSFORMATION OF SCHOOLS
+INNOVATIONS IN EQUITY AND SYSTEMIC CHANGE (IESC)
+   count of students suspended for Latino/a students at 1.34. The relative risk ratios of the count of students
+   suspended were at 0.45 and 0.51 for White and Asian students, respectively.
+
+Table 1c. Top Outcomes and Referrals
+                     Top 5-Incidents                                                  Top 5-Outcomes
+  1.   Violence - Physical aggression                                 1.   Detention (Period)
+  2.   Insubordination - Failure to follow school rules               2.   Parent Contact (Phone/EMail/Letter)
+  3.   Bully/Harassment - Intimidation                                3.   Warning
+  4.   Attendance - Cut class                                         4.   Loss of Privilege
+  5.   Insubordination - Repeated disruptive                          5.   Out-of-School Suspension
+       behaviors
+
+Table 2a. School Level Disciplinary Report
+         School          Race                 Racial             Composition of      Risk Index of Count    Relative Risk Ratio
+                                              Composition of     Students            of Students Referred   of Count of Students
+                                              School             Referred (student   (student counted       Referred (students
+                                                                 counted once)*      once)                  counted once)
+     Dows Lane ES        American Indian          0.19%                0.00%                 0.00%                  0.00
+                         Asian                    10.38%               0.00%                 0.00%                  0.00
+                         Black                    3.08%               12.50%                12.50%                  4.50
+                         Latino/a                 9.81%               12.50%                 3.92%                  1.31
+                         White                    68.27%              68.75%                 3.10%                  1.02
+                         Multiple                 8.27%                6.25%                 2.33%                  0.74
+   Main Street School    American Indian          0.00%                0.00%                    -                     -
+                         Asian                    12.64%               9.84%                17.14%                  0.75
+                         Black                    4.33%               13.11%                66.67%                  3.33
+                         Latino/a                 10.11%              14.75%                32.14%                  1.54
+                         White                    67.51%              57.38%                18.72%                  0.65
+                         Multiple                 5.42%                4.92%                20.00%                  0.90
+      Irvington MS       American Indian          0.00%                0.00%                    -                     -
+                         Asian                    10.77%               7.32%                13.33%                  0.65
+                         Black                    4.55%                9.76%                42.11%                  2.27
+                         Latino/a                 10.05%              14.63%                28.57%                  1.53
+                         White                    67.94%              59.76%                17.25%                  0.70
+                         Multiple                 6.70%                8.54%                25.00%                  1.30
+      Irvington HS       American Indian          0.55%                0.00%                 0.00%                  0.00
+                         Asian                    10.81%               7.94%                 8.47%                  0.71
+                         Black                    6.78%               15.87%                27.03%                  2.60
+                         Latino/a                 6.96%               15.87%                26.32%                  2.52
+                         White                    70.88%              55.56%                 9.04%                  0.51
+                         Multiple                 4.03%                4.76%                13.64%                  1.19
+*Students who received referrals regardless of number of referrals received
+
+
+
+
+                                                                                                                               13
+METROPOLITAN CENTER FOR RESEARCH ON EQUITY AND THE TRANSFORMATION OF SCHOOLS
+INNOVATIONS IN EQUITY AND SYSTEMIC CHANGE (IESC)
+
+
+Table 2b. School Level Suspension Report
+         School           Race               Racial           Count of        Risk index of        Relative risk of
+                                             Composition of   Students        students receiving   students receiving
+                                             School           Receiving       Suspensions          Suspensions
+                                                              Suspensions     (students counted    (students counted
+                                                              (students       once)                once)
+                                                              counted once)
+
+     Dows Lane ES*          American Indian         0.19%         0.00%             0.00%                0.00
+                            Asian                  10.38%         0.00%             0.00%                0.00
+                            Black                   3.08%         0.00%             0.00%                0.00
+                            Latino/a                9.81%         0.00%             0.00%                0.00
+                            White                  68.27%        100.00%            0.56%                  -
+                            Multiple                8.27%         0.00%             0.00%                0.00
+    Main Street School      American Indian         0.00%         0.00%                -                   -
+                            Asian                  12.64%         0.00%             0.00%                0.00
+                            Black                   4.33%        66.67%             16.67%               44.17
+                            Latino/a               10.11%         0.00%             0.00%                0.00
+                            White                  67.51%        33.33%             0.53%                0.24
+                            Multiple                5.42%         0.00%             0.00%                0.00
+       Irvington MS         American Indian         0.00%         0.00%                -                   -
+                            Asian                  10.77%        12.50%             2.22%                1.18
+                            Black                   4.55%        25.00%             10.53%               7.00
+                            Latino/a               10.05%        12.50%             2.38%                1.28
+                            White                  67.94%        50.00%             1.41%                0.47
+                            Multiple                6.70%         0.00%             0.00%                0.00
+        Irvington HS        American Indian         0.55%         0.00%             0.00%                0.00
+                            Asian                  10.81%         4.76%             1.69%                0.41
+                            Black                   6.78%        23.81%             13.51%               4.30
+                            Latino/a                6.96%        14.29%             7.89%                2.23
+                            White                  70.88%        47.62%             2.58%                0.37
+                            Multiple                4.03%         9.52%             9.09%                2.51
+*All suspensions for the year went to White students.
+
+ Summary of Analysis (based on the school data provided)
+   Overall, the relative risk ratios of disciplinary referrals were highest for Black students and Latino/a
+   students. In looking at the school level breakdown, for Dows Lane ES, the relative risk ratio of the count of
+   students who received a disciplinary referral was highest for Black students at 4.50, followed by the
+   relative risk ratio for Latino/a students at 1.31. The relative risk ratio of the count of students who received
+   disciplinary referral for White students was at 1.02.
+
+   For Main Street School, the relative risk ratio of the count of students who received a disciplinary referral
+   was highest for Black students at 3.33, followed by the relative risk ratio for Latino/a students at 1.54. The
+   relative risk ratio of the count of students who received disciplinary referral for White students was at 0.65.
+   For Irvington MS, the relative risk ratio of the count of students who received a disciplinary referral was
+   highest for Black students at 2.27, followed by the relative risk ratio for Latino/a students at 1.53. The
+   relative risk ratio of the count of students who received disciplinary referral for White students was at 0.70.
+
+
+                                                                                                                        14
+METROPOLITAN CENTER FOR RESEARCH ON EQUITY AND THE TRANSFORMATION OF SCHOOLS
+INNOVATIONS IN EQUITY AND SYSTEMIC CHANGE (IESC)
+   For Irvington HS, the relative risk ratio of the count of students who received a disciplinary referral was
+   highest for Black students at 2.60, followed by the relative risk ratio for Latino/a students at 2.52. The
+   relative risk ratio of the count of students who received disciplinary referral for White students was at 0.51.
+
+   For Dows Lane ES, the risk index of count of students suspended for White students was at 0.56%. For
+   Main Street School, the relative risk ratio of count of students suspended was highest for Black students at
+   44.17. The relative risk ratio of count of students suspended for White students was at 0.24. For Irvington
+   MS, the relative risk ratio of count of students suspended was highest for Black students at 7.00. This was
+   followed by the relative risk ratio for Latino/a students at 1.28. The relative risk ratio of count of students
+   suspended for White students was at 0.47. For Irvington HS, the relative risk ratio of count of students
+   suspended was highest for Black students at 4.30. This was followed by the relative risk ratio for Latino/a
+   students at 2.23. The relative risk ratio of count of students suspended for White students was at 0.37 (see
+   table 2b).
+
+
+Table 2c. Discipline Referral Racial Disparities by School
+ School Name                                                 Relative Risk of Count of Students referred
+ 1. Dows Lane ES                                             Relative Risk Black: 4.50
+                                                             Relative Risk Latino/a: 1.31
+ 2. Main Street School                                       Relative Risk Black: 3.33
+                                                             Relative Risk Latino/a: 1.54
+ 3. Irvington MS                                             Relative Risk Black: 2.27
+                                                             Relative Risk Latino/a: 1.53
+ 4. Irvington HS                                             Relative Risk Black: 2.60
+                                                             Relative Risk Latino/a: 2.52
+
+
+
+
+District Level Data (2019-20)
+
+        For the year 2019-20, Black students were 5.45 times more likely to be suspended than the rest of the
+students. This was followed by the relative risk ratio of count of students suspended for Latino/a students at
+1.22. The relative risk ratios of count of students suspended for White students was at 0.92 (see table 3b).
+Black students in the district accounted for 4.98% of the total student enrollment but represented 12.72% of
+the total students who received a disciplinary referral.
+
+
+
+
+                                                                                                                 15
+METROPOLITAN CENTER FOR RESEARCH ON EQUITY AND THE TRANSFORMATION OF SCHOOLS
+INNOVATIONS IN EQUITY AND SYSTEMIC CHANGE (IESC)
+Table 3a. District Level Referral Data
+                               Race      District      Count of          Count of         Risk index of   Relative risk
+                                         Composition   Incidents         Students         students        of students
+                                                       (Students         Receiving a      referred        referred
+                                                       counted           Disciplinary     (students       (students
+                                                       multiple times)   Incident         counted once)   counted
+                                                                         (students                        once)
+                                                                         counted once)
+ American Indian                            0.11%              0.00%              0.00%       0.00%            0.00
+ Asian                                      11.15%            10.06%              9.25%       8.12%            0.81
+ African American or Black                  4.98%             21.70%             12.72%       25.00%           2.78
+ Latino/a                                   9.28%             12.03%             10.98%       11.59%           1.21
+ White                                      68.48%            48.72%             60.12%       8.60%            0.69
+ Multiple                                   6.00%              7.50%              6.94%       11.32%           1.17
+
+Table 3b. District Level Suspension Data
+                               Race      District      Count of          Count of         Risk index of   Relative risk
+                                         Composition   Incidents         Students         students        of students
+                                                       (Students         Receiving        receiving       receiving
+                                                       counted           Suspensions      Suspensions     Suspensions
+                                                       multiple times)   (students        (students       (students
+                                                                         counted once)    counted once)   counted
+                                                                                                          once)
+ American Indian                            0.11%           0.00%              0.00%           0.00%            0.00
+ Asian                                      11.15%          0.00%              0.00%           0.00%            0.00
+ African American or Black                  4.98%           25.93%            22.22%           4.55%            5.45
+ Latino/a                                   9.28%           7.41%             11.11%           1.22%            1.22
+ White                                      68.48%          66.67%            66.67%           0.99%            0.92
+ Multiple                                   6.00%           0.00%              0.00%           0.00%            0.00
+
+Summary of Analysis (based on district provided data)
+   Based on the district level referral and suspension data, Black and Latino/a students were
+   disproportionately impacted. The risk index and relative risk of count of students who received
+   disciplinary referrals for Black students were at 25.00% and 2.78, respectively. Similarly, the risk index
+   and relative risk of count of students who received disciplinary referrals for Latino/a students were at
+   11.59% and 1.21, respectively (see table 3a). The risk index and relative risk for White students were at
+   8.60% and 0.69, respectively.
+
+   The risk index and relative risk of the count of students suspended at the district level was highest for
+   Black students at 4.55% and 5.45, respectively (see table 3b). The risk index and relative risk ratio of
+   count of students suspended for Latino/a students were at 1.22% and 1.22, respectively. The risk index
+   and relative risk ratio of count of students suspended for White students were at 0.99% and 0.92,
+   respectively. Despite the schools closing early in March due to the pandemic, the disproportionality
+   patterns remained consistent for both years i.e. the Black and Latino/a students continued to be suspended
+   disproportionately.
+
+
+
+
+                                                                                                                          16
+METROPOLITAN CENTER FOR RESEARCH ON EQUITY AND THE TRANSFORMATION OF SCHOOLS
+INNOVATIONS IN EQUITY AND SYSTEMIC CHANGE (IESC)
+Table 3c. Top Outcomes and Referrals
+                     Top 5-Incidents                                                Top 5-Outcomes
+  1.   Electronic Device - Violation of acceptable use              1.   Parent Contact
+       policy                                                       2.   Warning
+  2.   Violence - Physical aggression                               3.   Detention
+  3.   Insubordination - Repeated disruptive                        4.   Loss of Privilege
+       behaviors                                                    5.   In School Suspension
+  4.   Bully/Harassment - Defamation
+  5.   Insubordination - Failure to follow school
+       rules
+
+ Table 4a. School Level Disciplinary Report
+          School        Race                  Racial           Composition of      Risk Index of Count    Relative Risk Ratio
+                                              Composition of   Students            of Students Referred   of Count of
+                                              School           Referred (student   (student counted       Students Referred
+                                                               counted once)       once)                  (students counted
+                                                                                                          once)
+       Dows Lane ES     American Indian          0.00%              0.00%                    -                      -
+                        Asian                    11.15%            20.00%                 1.69%                   1.99
+                        Black                    4.35%             20.00%                 4.35%                   5.50
+                        Latino/a                 8.88%              0.00%                 0.00%                   0.00
+                        White                    68.43%            60.00%                 0.83%                   0.69
+                        Multiple                 7.18%              0.00%                 0.00%                   0.00
+   Main Street School   American Indian          0.00%              0.00%                    -                      -
+                        Asian                    12.09%             6.82%                 9.09%                   0.53
+                        Black                    2.93%              9.09%                50.00%                   3.31
+                        Latino/a                 11.36%            13.64%                19.35%                   1.23
+                        White                    66.67%            63.64%                15.38%                   0.88
+                        Multiple                 6.96%              6.82%                15.79%                   0.98
+       Irvington MS     American Indian          0.00%              0.00%                    -                      -
+                        Asian                    11.29%            12.50%                24.49%                   1.12
+                        Black                    5.07%              9.38%                40.91%                   1.94
+                        Latino/a                 11.29%            12.50%                24.49%                   1.12
+                        White                    66.36%            58.33%                19.44%                   0.71
+                        Multiple                 5.99%              7.29%                26.92%                   1.23
+       Irvington HS     American Indian          0.38%              0.00%                 0.00%                   0.00
+                        Asian                    10.55%             0.00%                 0.00%                   0.00
+                        Black                    6.59%             28.57%                22.86%                   5.67
+                        Latino/a                 6.97%              3.57%                 2.70%                   0.49
+                        White                    71.19%            60.71%                 4.50%                   0.63
+                        Multiple                 4.33%              7.14%                 8.70%                   1.70
+
+
+
+
+                                                                                                                                17
+METROPOLITAN CENTER FOR RESEARCH ON EQUITY AND THE TRANSFORMATION OF SCHOOLS
+INNOVATIONS IN EQUITY AND SYSTEMIC CHANGE (IESC)
+Table 4b. School Level Suspension Report
+       School         Race              Racial            Count of        Risk index of        Relative risk of
+                                        Composition of    Students        students receiving   students receiving
+                                        School            Receiving       Suspensions          Suspensions
+                                                          Suspensions     (students counted    (students counted
+                                                          (students       once)                once)
+                                                          counted once)
+
+ Main Street School   American Indian       0.00%             0.00%                 -                   -
+                      Asian                 12.09%            0.00%              0.00%                0.00
+                      Black                 2.93%             0.00%              0.00%                0.00
+                      Latino/a              11.36%            0.00%              0.00%                0.00
+                      White                 66.67%           100.00%             1.10%                  -
+                      Multiple              6.96%             0.00%              0.00%                0.00
+ Irvington MS         American Indian       0.00%             0.00%                 -                   -
+                      Asian                 11.29%            0.00%              0.00%                0.00
+                      Black                 5.07%            40.00%              9.09%                12.48
+                      Latino/a              11.29%           20.00%              2.04%                1.96
+                      White                 66.36%           40.00%              0.69%                0.34
+                      Multiple              5.99%             0.00%              0.00%                0.00
+ Irvington HS         American Indian       0.38%             0.00%              0.00%                0.00
+                      Asian                 10.55%            0.00%              0.00%                0.00
+                      Black                 6.59%            18.18%              5.71%                3.15
+                      Latino/a              6.97%             9.09%              2.70%                1.34
+                      White                 71.19%           72.73%              2.12%                1.08
+                      Multiple              4.33%             0.00%              0.00%                0.00
+
+
+
+Summary of Analysis (based on the school data provided)
+  At the school-level, the relative risk ratios of disciplinary referrals were highest for Black students and
+  Latino/a students. For Dows Lane ES, the relative risk ratio of the count of students who received a
+  disciplinary referral was highest for Black students at 5.50. The relative risk ratio of the count of students
+  who received disciplinary referral for White students was at 0.69. For Main Street School, the relative risk
+  ratio of the count of students who received a disciplinary referral was highest for Black students at 3.31,
+  followed by the relative risk ratio for Latino/a students at 1.23. The relative risk ratio of the count of
+  students who received disciplinary referral for White students was at 0.88.
+
+  For Irvington MS, the relative risk ratio of the count of students who received a disciplinary referral was
+  highest for Black students at 1.94, followed by the relative risk ratio for Latino/a students at 1.12. The
+  relative risk ratio of the count of students who received disciplinary referral for White students was at 0.71.
+  For Irvington HS, the relative risk ratio of the count of students who received a disciplinary referral was
+  highest for Black students at 5.67. The relative risk ratio for Latino/a students was at 0.49. The relative risk
+  ratio of the count of students who received disciplinary referral for White students was at 0.63.
+
+  Similarly, the relative risk ratios of the suspensions were highest for Black and Latino/a students. For Main
+  Street School, the risk index of count of students suspended was highest for White students at 1.10%. For
+  Irvington MS, the relative risk ratio of count of students suspended was highest for Black students at 12.48.
+  This was followed by the relative risk ratio for Latino/a students at 1.96. The relative risk ratio of count of
+  students suspended for White students was at 0.34. For Irvington HS, the relative risk ratio of count of
+                                                                                                                    18
+METROPOLITAN CENTER FOR RESEARCH ON EQUITY AND THE TRANSFORMATION OF SCHOOLS
+INNOVATIONS IN EQUITY AND SYSTEMIC CHANGE (IESC)
+  students suspended was highest for Black students at 3.15. This was followed by the relative risk ratio for
+  Latino/a students at 1.34. The relative risk ratio of count of students suspended for White students was at
+  1.08 (see table 4b). There were no suspensions reported for Dows Lane ES.
+
+
+Table 4c. Discipline Referral Racial Disparities by School
+ School Name                                                 Relative Risk of Count of Students referred
+ 1. Dows Lane ES                                             Relative Risk Black: 5.50
+                                                             Relative Risk Latino/a: 0.00
+ 2. Main Street School                                       Relative Risk Black: 3.31
+                                                             Relative Risk Latino/a: 1.23
+ 3. Irvington MS                                             Relative Risk Black: 1.94
+                                                             Relative Risk Latino/a: 1.12
+ 4. Irvington HS                                             Relative Risk Black: 5.67
+                                                             Relative Risk Latino/a: 0.49
+
+
+District and School Data: Academic data
+
+        NYU Metro Center’s IESC also processed the district and school level academic data disaggregated by
+race/ethnicity, gender, and grade level. For the purpose of the analysis, benchmark assessment data included
+ELA and MATH. Annual Report Card Grades, Electives, AP, Honors enrollment have also been included. All
+the academic data included in the analysis was provided by the district.
+
+The table (5a) below highlights the composition of district level student enrollment disaggregated by
+race/ethnicity. It also includes the IEP enrollments, risk index for IEP enrollments, and relative risk for IEP
+enrollments disaggregated by race.
+
+District Level Academic Data (2018-19)
+
+Summary of Analysis (based on the school data provided below)
+
+        There was an over-representation of White and Asian students in AP and Honors enrollment. Asian
+students with a risk index of 47.67% and White students with a risk index of 38.33% were most likely to be
+enrolled in AP Classes (wherein higher risk index equates to greater chance of being enrolled). The risk index
+for Latino/a students’ enrollment in AP classes was at 16.98%. For honors enrollment, Asian students had the
+highest risk index of 40.41%. This was followed by White students with a risk index of 34.13%. The risk
+index of Honors enrollment for Black students was at 23.81%.
+
+For the K- 5 Academic assessments (see table 6a to 7f), Black and Latino/a students performed lower than the
+rest of their peers. Overall, for the Annual Report Card Grades (ARCG) namely English, Math, Science and
+Social Studies, the relative risk ratios of students failing the course was higher for Black and Latino/a students
+(see tables 8a to 8d).
+
+
+                                                                                                                  19
+METROPOLITAN CENTER FOR RESEARCH ON EQUITY AND THE TRANSFORMATION OF SCHOOLS
+INNOVATIONS IN EQUITY AND SYSTEMIC CHANGE (IESC)
+Table 5a. District Composition
+  Race                                     District           District Composition     District Risk      District Relative Risk
+                                           Composition        of IEP Enrollments       Index of IEP       Ratio of IEP
+                                                                                       Enrollments        Enrollments
+
+
+
+  American Indian                               0.23%                1.09%                 50.00%                  4.83
+  Asian                                         10.96%               5.98%                 5.70%                   0.52
+  African American or Black                     4.77%               13.04%                 28.57%                  2.99
+  Latino/a                                      9.03%               13.04%                 15.09%                  1.51
+  White                                         68.88%              64.13%                 9.73%                   0.81
+  Multiple                                      6.13%                2.72%                 4.63%                   0.43
+
+
+Academic Data (Marking Period 2) (Grades K-5)
+
+Table 6a. Behavior
+         Race           Racial Composition of     Risk Index: Not        Risk Index:        Risk Index: Meets      Risk Index:
+                            Students who             Meeting            Progressing           Expectations         Constantly
+                             completed             Expectations           Towards                                  Meets and
+                                                                        Expectations                                Exceeds
+                                                                                                                  Expectations
+ AI                            0.00%                     -                     -                    -                    -
+ Asian                        10.71%                  0.00%                 4.45%                64.16%             31.39%
+ Black                         3.33%                  2.34%                25.45%                63.38%              8.83%
+ Latino/a                      9.09%                  0.38%                11.53%                68.16%             19.92%
+ White                        69.88%                  0.45%                 9.26%                69.15%             21.15%
+ Multiple                      7.00%                  0.62%                 8.79%                69.80%             20.79%
+
+Table 6b. Core
+         Race           Racial Composition of     Risk Index: Not        Risk Index:        Risk Index: Meets      Risk Index:
+                            Students who             Meeting            Progressing           Expectations         Constantly
+                             completed             Expectations           Towards                                  Meets and
+                                                                        Expectations                                Exceeds
+                                                                                                                  Expectations
+ AI                            0.00%                    -                      -                    -                    -
+ Asian                        10.96%                 0.78%                  7.34%                67.74%             24.14%
+ Black                         3.09%                 10.92%                30.77%                55.08%              3.23%
+ Latino/a                      9.04%                 2.42%                 18.62%                67.60%             11.36%
+ White                        69.88%                 0.39%                 12.48%                71.94%             15.18%
+ Multiple                      7.03%                 0.14%                  7.85%                74.22%             17.79%
+
+
+
+
+                                                                                                                                   20
+METROPOLITAN CENTER FOR RESEARCH ON EQUITY AND THE TRANSFORMATION OF SCHOOLS
+INNOVATIONS IN EQUITY AND SYSTEMIC CHANGE (IESC)
+Table 6c. ELA (Special Education Only)
+        Race          Racial Composition of   Risk Index: Not    Risk Index:   Risk Index: Meets    Risk Index:
+                          Students who           Meeting        Progressing      Expectations       Constantly
+                           completed           Expectations       Towards                           Meets and
+                                                                Expectations                         Exceeds
+                                                                                                   Expectations
+ AI                          0.00%                  -                -                 -                  -
+ Asian                       0.00%                  -                -                 -                  -
+ Black                      18.32%               0.00%            62.16%           37.84%             0.00%
+ Latino/a                    9.90%               0.00%            40.00%           60.00%             0.00%
+ White                      64.36%               5.38%            62.31%           32.31%             0.00%
+ Multiple                    7.43%               53.33%           46.67%            0.00%             0.00%
+
+Table 6d. Math (Special Education Only)
+        Race          Racial Composition of   Risk Index: Not    Risk Index:   Risk Index: Meets    Risk Index:
+                          Students who           Meeting        Progressing      Expectations       Constantly
+                           completed           Expectations       Towards                           Meets and
+                                                                Expectations                         Exceeds
+                                                                                                   Expectations
+ AI                          0.00%                  -                -                -                   -
+ Asian                       0.00%                  -                -                -                   -
+ Black                      15.45%               0.00%            15.79%           84.21%             0.00%
+ Latino/a                    8.94%               0.00%            36.36%           63.64%             0.00%
+ White                      69.11%               2.35%            54.12%           43.53%             0.00%
+ Multiple                    6.50%               12.50%           62.50%           25.00%             0.00%
+
+Table 6e. PLTW (Project Lead the Way)
+        Race          Racial Composition of   Risk Index: Not    Risk Index:   Risk Index: Meets    Risk Index:
+                          Students who           Meeting        Progressing      Expectations       Constantly
+                           completed           Expectations       Towards                           Meets and
+                                                                Expectations                         Exceeds
+                                                                                                   Expectations
+ AI                          0.00%                   -                -               -                   -
+ Asian                      10.76%                0.00%            0.95%           96.04%             3.01%
+ Black                       3.30%                1.03%           13.40%           85.05%             0.52%
+ Latino/a                    9.40%                0.00%            3.62%           95.29%             1.09%
+ White                      69.91%                0.00%            2.75%           96.35%             0.90%
+ Multiple                    6.62%                0.00%            3.34%           96.14%             0.51%
+
+
+
+
+                                                                                                                  21
+METROPOLITAN CENTER FOR RESEARCH ON EQUITY AND THE TRANSFORMATION OF SCHOOLS
+INNOVATIONS IN EQUITY AND SYSTEMIC CHANGE (IESC)
+Table 6f. Social Sciences and Science
+        Race           Racial Composition of   Risk Index: Not    Risk Index:   Risk Index: Meets    Risk Index:
+                           Students who           Meeting        Progressing      Expectations       Constantly
+                            completed           Expectations       Towards                           Meets and
+                                                                 Expectations                         Exceeds
+                                                                                                    Expectations
+ AI                           0.00%                   -                -               -                   -
+ Asian                       10.88%                0.31%            3.52%           77.37%            18.81%
+ Black                        3.51%                2.84%           24.64%           72.51%             0.00%
+ Latino/a                     9.63%                0.00%            7.77%           83.59%             8.64%
+ White                       69.44%                0.29%            4.22%           85.15%            10.35%
+ Multiple                     6.54%                2.80%            2.80%           86.51%             7.89%
+
+
+Academic Data (Marking Period 3) (Grades K-5)
+
+Table 7a. Behavior
+        Race           Racial Composition of   Risk Index: Not    Risk Index:   Risk Index: Meets    Risk Index:
+                           Students who           Meeting        Progressing      Expectations       Constantly
+                            completed           Expectations       Towards                           Meets and
+                                                                 Expectations                         Exceeds
+                                                                                                    Expectations
+ AI                           0.00%                   -                -               -                   -
+ Asian                       10.72%                0.00%            3.15%           52.06%            44.79%
+ Black                        3.34%                1.82%           24.68%           62.86%            10.65%
+ Latino/a                     9.08%                0.19%           11.16%           55.34%            33.30%
+ White                       69.64%                0.17%            7.20%           58.87%            33.76%
+ Multiple                     7.22%                0.12%            6.96%           60.86%            32.05%
+
+Table 7b. Core
+        Race           Racial Composition of   Risk Index: Not    Risk Index:   Risk Index: Meets    Risk Index:
+                           Students who           Meeting        Progressing      Expectations       Constantly
+                            completed           Expectations       Towards                           Meets and
+                                                                 Expectations                         Exceeds
+                                                                                                    Expectations
+ AI                           0.00%                  -                 -               -                   -
+ Asian                       11.00%               0.37%             4.34%           57.80%            37.49%
+ Black                        3.11%               11.04%           29.83%           54.66%             4.47%
+ Latino/a                     8.95%               2.42%            14.09%           64.84%            18.65%
+ White                       69.67%               0.28%             8.02%           67.14%            24.57%
+ Multiple                     7.28%               0.06%             4.54%           67.02%            28.38%
+
+Table 7c. ELA (Special Education Only)
+        Race           Racial Composition of   Risk Index: Not    Risk Index:   Risk Index: Meets    Risk Index:
+                           Students who           Meeting        Progressing      Expectations       Constantly
+                            completed           Expectations       Towards                           Meets and
+                                                                 Expectations                         Exceeds
+                                                                                                    Expectations
+
+
+
+
+                                                                                                                   22
+METROPOLITAN CENTER FOR RESEARCH ON EQUITY AND THE TRANSFORMATION OF SCHOOLS
+INNOVATIONS IN EQUITY AND SYSTEMIC CHANGE (IESC)
+ AI                           0.00%                  -                -                 -                 -
+ Asian                        0.00%                  -                -                 -                 -
+ Black                       18.36%               0.00%            57.89%           42.11%             0.00%
+ Latino/a                     9.66%               0.00%            30.00%           70.00%             0.00%
+ White                       63.29%               0.76%            57.25%           41.98%             0.00%
+ Multiple                     8.70%               72.22%           22.22%            5.56%             0.00%
+
+Table 7d. Math (Special Education Only)
+        Race           Racial Composition of   Risk Index: Not    Risk Index:   Risk Index: Meets    Risk Index:
+                           Students who           Meeting        Progressing      Expectations       Constantly
+                            completed           Expectations       Towards                           Meets and
+                                                                 Expectations                         Exceeds
+                                                                                                    Expectations
+ AI                           0.00%                   -               -                -                   -
+ Asian                        0.00%                   -               -                -                   -
+ Black                       18.50%                0.00%           18.75%           81.25%             0.00%
+ Latino/a                     8.09%                0.00%           28.57%           71.43%             0.00%
+ White                       63.01%                2.75%           54.13%           43.12%             0.00%
+ Multiple                    10.40%                0.00%           77.78%           22.22%             0.00%
+
+
+
+Table 7e. PLT (Project Lead the Way)
+        Race           Racial Composition of   Risk Index: Not    Risk Index:   Risk Index: Meets    Risk Index:
+                           Students who           Meeting        Progressing      Expectations       Constantly
+                            completed           Expectations       Towards                           Meets and
+                                                                 Expectations                         Exceeds
+                                                                                                    Expectations
+ AI                           0.00%                   -                -               -                   -
+ Asian                       10.81%                0.15%            1.24%           85.60%            13.00%
+ Black                        3.30%                1.02%           14.72%           77.16%             7.11%
+ Latino/a                     9.47%                0.00%            2.65%           89.93%             7.42%
+ White                       69.61%                0.00%            2.28%           88.46%             9.26%
+ Multiple                     6.81%                0.00%            2.70%           89.43%             7.86%
+
+
+
+Table 7f. Social Sciences and Science
+        Race           Racial Composition of   Risk Index: Not    Risk Index:   Risk Index: Meets    Risk Index:
+                           Students who           Meeting        Progressing      Expectations       Constantly
+                            completed           Expectations       Towards                           Meets and
+                                                                 Expectations                         Exceeds
+                                                                                                    Expectations
+ AI                           0.00%                   -                -               -                   -
+ Asian                       10.65%                0.00%            2.87%           67.04%            30.10%
+ Black                        3.58%                2.37%           24.17%           73.46%             0.00%
+ Latino/a                     9.38%                0.00%            7.41%           78.30%            14.29%
+ White                       69.60%                0.19%            3.97%           76.52%            19.32%
+ Multiple                     6.80%                0.00%            3.99%           78.55%            17.46%
+
+
+
+
+                                                                                                                   23
+METROPOLITAN CENTER FOR RESEARCH ON EQUITY AND THE TRANSFORMATION OF SCHOOLS
+INNOVATIONS IN EQUITY AND SYSTEMIC CHANGE (IESC)
+
+
+Academic Data (Grades 6-12)
+
+Table 8a. English (Students Passing and Failing a Course)
+        Race          Racial Composition     Composition of      Composition of         Relative Risk       Relative Risk
+                       of Students who      Students passing   Students failing the   Ratio of Students   Ratio of Students
+                          completed            the course            course                passing             failing
+ AI                          0.70%              0.71%               0.00%                  1.01                 0.00
+ Asian                      10.07%              10.18%              0.00%                  1.01                 0.00
+ Black                       5.34%              5.22%              16.67%                  0.98                 3.54
+ Latino/a                    7.53%              7.17%              41.67%                  0.95                 8.77
+ White                      72.59%              72.92%             41.67%                  1.02                 0.27
+ Multiple                    3.77%              3.81%               0.00%                  1.01                 0.00
+
+Table 8b. Math (Students Passing and Failing a Course)
+        Race          Racial Composition     Composition of      Composition of         Relative Risk       Relative Risk
+                       of Students who      Students passing   Students failing the   Ratio of Students   Ratio of Students
+                          completed            the course            course                passing             failing
+ AI                          0.53%              0.54%               0.00%                  1.01                 0.00
+ Asian                      12.67%              12.73%              8.33%                  1.01                 0.63
+ Black                       5.11%              4.64%              41.67%                  0.90                13.26
+ Latino/a                    7.03%              6.90%              16.67%                  0.98                 2.65
+ White                      70.50%              70.98%             33.33%                  1.02                 0.21
+ Multiple                    4.15%              4.21%               0.00%                  1.01                 0.00
+
+Table 8c. Science (Students Passing and Failing a Course)
+        Race          Racial Composition     Composition of      Composition of         Relative Risk       Relative Risk
+                       of Students who      Students passing   Students failing the   Ratio of Students   Ratio of Students
+                          completed            the course            course                passing             failing
+ AI                          0.60%              0.61%               0.00%                  1.02                 0.00
+ Asian                      11.21%              11.31%              5.56%                  1.01                 0.47
+ Black                       6.01%              5.50%              33.33%                  0.91                 7.83
+ Latino/a                    7.01%              6.83%              16.67%                  0.97                 2.65
+ White                      70.87%              71.46%             38.89%                  1.03                 0.26
+ Multiple                    4.30%              4.28%               5.56%                  0.99                 1.30
+
+Table 8d. Social Sciences (Students Passing and Failing a Course)
+        Race          Racial Composition     Composition of      Composition of         Relative Risk       Relative Risk
+                       of Students who      Students passing   Students failing the   Ratio of Students   Ratio of Students
+                          completed            the course            course                passing             failing
+ AI                          0.46%              0.46%               0.00%                  1.01                 0.00
+ Asian                      10.74%              10.80%              0.00%                  1.01                 0.00
+ Black                       5.23%              5.08%              33.33%                  0.97                 9.05
+ Latino/a                    6.80%              6.74%              16.67%                  0.99                 2.74
+ White                      72.45%              72.58%             50.00%                  1.01                 0.38
+ Multiple                    4.32%              4.34%               0.00%                  1.00                 0.00
+
+
+
+
+                                                                                                                          24
+METROPOLITAN CENTER FOR RESEARCH ON EQUITY AND THE TRANSFORMATION OF SCHOOLS
+INNOVATIONS IN EQUITY AND SYSTEMIC CHANGE (IESC)
+
+
+Electives (Grades 6-12)
+
+Table 9a. Art (Students Passing and Failing a Course)
+        Race          Racial Composition     Composition of        Composition of         Relative Risk       Relative Risk
+                       of Students who      Students passing     Students failing the   Ratio of Students   Ratio of Students
+                          completed            the course              course                passing             failing
+  AI                         0.31%              0.31%                   -                    1.00                   -
+  Asian                      9.77%              9.77%                   -                    1.00                   -
+  Black                      4.50%              4.50%                   -                    1.00                   -
+  Latino/a                   7.75%              7.75%                   -                    1.00                   -
+  White                     72.09%              72.09%                  -                    1.00                   -
+  Multiple                   5.58%              5.58%                   -                    1.00                   -
+
+Table 9b. Foreign Language (Students Passing and Failing a Course)
+        Race          Racial Composition     Composition of        Composition of         Relative Risk       Relative Risk
+                       of Students who      Students passing     Students failing the   Ratio of Students   Ratio of Students
+                          completed            the course              course                passing             failing
+  AI                         0.44%              0.44%                 0.00%                  1.00                 0.00
+  Asian                     11.64%              11.68%                0.00%                  1.00                 0.00
+  Black                      4.21%              4.12%                33.33%                  0.98                11.37
+  Latino/a                   6.76%              6.67%                33.33%                  0.99                 6.89
+  White                     72.62%              72.75%               33.33%                  1.01                 0.19
+  Multiple                   4.32%              4.34%                 0.00%                  1.00                 0.00
+
+Table 9c. Unified Art (Students Passing and Failing a Course)*
+        Race          Racial Composition     Composition of        Composition of         Relative Risk       Relative Risk
+                       of Students who      Students passing     Students failing the   Ratio of Students   Ratio of Students
+                          completed            the course              course                passing             failing
+  AI                         0.00%              0.00%                0.00%                     -                    -
+  Asian                      9.69%              9.59%                33.33%                  0.99                 4.66
+  Black                      1.48%              1.49%                0.00%                   1.00                 0.00
+  Latino/a                   7.94%              7.84%                33.33%                  0.99                 5.80
+  White                     75.37%              75.54%               33.33%                  1.01                 0.16
+  Multiple                   5.52%              5.54%                0.00%                   1.00                 0.00
+*Grades 6-8 Only
+
+
+Benchmark Data (Grades K-8)
+
+Table 10a. Aims Web
+             Race            Racial Composition      Composition of           Risk Index of          Relative Risk Students
+                              of Students who      Students below 25th     Students below 25th     below 25th percentile (At-
+                                 completed         percentile (At-Risk)    percentile (At-Risk)               Risk)
+  AI                                0.09%              0.00%                   0.00%                          0.00
+  Asian                            11.29%              7.39%                   6.47%                          0.63
+  Black                             3.70%              12.38%                  33.06%                         3.68
+  Latino/a                          9.90%              17.53%                  17.50%                         1.93
+  White                            67.60%              56.45%                  8.25%                          0.62
+  Multiple                          7.42%              6.26%                   8.34%                          0.83
+
+                                                                                                                            25
+METROPOLITAN CENTER FOR RESEARCH ON EQUITY AND THE TRANSFORMATION OF SCHOOLS
+INNOVATIONS IN EQUITY AND SYSTEMIC CHANGE (IESC)
+
+
+Advanced Placement, Honors Courses
+
+Table 11a. Enrollment in AP Classes by Race
+              Race                Racial Composition of School    Composition of Students     Risk Index of enrollment in
+                                                                   Enrolled in AP Courses             AP Courses
+ AI                                            0.23%                        0.00%                       0.00%
+ Asian                                        10.96%                       14.44%                      47.67%
+ Black                                         4.77%                        2.98%                      22.62%
+ Latino/a                                      9.03%                        4.24%                      16.98%
+ White                                        68.88%                       73.00%                      38.33%
+ Multiple                                      6.13%                        5.34%                      31.48%
+
+Table 11b. Enrollment in Honors Classes by Race
+              Race                Racial Composition of School    Composition of Students     Risk Index of enrollment in
+                                                                 Enrolled in Honors Courses         Honors Courses
+ AI                                               0.23%                         1.23%                  175.00%
+ Asian                                            10.96%                       13.68%                  40.41%
+ Black                                            4.77%                         3.51%                  23.81%
+ Latino/a                                         9.03%                         4.91%                  17.61%
+ White                                            68.88%                       72.63%                  34.13%
+ Multiple                                         6.13%                         4.04%                  21.30%
+
+
+
+District Level Academic Data (2019-20)
+
+       For the purpose of the analysis, benchmark assessment data included ELA and Mathematics. Apart
+from the benchmark data, Annual Report Card Grades, Electives, AP, Honors enrollment have also been
+included.
+
+The table (12a) below highlights the composition of district level student enrollment disaggregated by
+race/ethnicity. It also includes the IEP enrollment, risk index for IEP enrollment, and relative risk ratio for IEP
+enrollment.
+
+Summary of Analysis (based on the school data provided below)
+
+There was an over-representation of White and Asian students in AP and Honors enrollment. The risk index of
+AP enrollment for Asian students was at 54.31% and for White students the risk index for AP enrollment was
+at 34.55%. The risk index for Latino/a students’ enrollment in AP classes was at 10.37%.
+For honors enrollment, Asian students had the risk index of 37.56%. For White students, the risk index of
+honors enrollment was at 32.31%. Latino/a students were least likely to be enrolled in an honors course with a
+risk index of 14.02%.
+
+For the K-5 Academic assessments (see table 13a to 13c), Black and Latino/a students performed lower than
+the rest of their peers. Overall, for the Annual Report Card Grades (ARCG) namely English, Math, Science
+and Social Studies, the relative risk ratios of students failing the course was higher for Black and Latino/a
+students (see tables 14a to 14d).
+                                                                                                                        26
+METROPOLITAN CENTER FOR RESEARCH ON EQUITY AND THE TRANSFORMATION OF SCHOOLS
+INNOVATIONS IN EQUITY AND SYSTEMIC CHANGE (IESC)
+
+
+Table 12a. District Composition
+ Race                                    District               District             District Risk Index   District Relative Risk
+                                         Composition            Composition of       of IEP Enrollments    Ratio of IEP
+                                                                IEP Enrollments                            Enrollments
+
+ American Indian                                0.11%                 0.31%                50.00%                   2.74
+ Asian                                         11.15%                 4.33%                7.11%                    0.36
+ African American or Black                      4.98%                 8.98%                32.95%                   1.88
+ Latino/a                                       9.28%                11.46%                22.56%                   1.26
+ White                                         68.48%                72.14%                19.26%                   1.19
+ Multiple                                       6.00%                 2.79%                8.49%                    0.45
+
+
+Academic Data (Marking Period 2) (Grades K- 5)
+
+Table 13a. Core
+        Race           Racial Composition of     Risk Index: Not          Risk Index:       Risk Index: Meets      Risk Index:
+                           Students who             Meeting              Progressing          Expectations         Constantly
+                            completed             Expectations             Towards                                 Meets and
+                                                                         Expectations                               Exceeds
+                                                                                                                  Expectations
+ AI                           0.00%                    -                        -                   -                    -
+ Asian                       11.09%                 0.20%                    5.37%               69.69%             24.74%
+ Black                        3.70%                 10.58%                  33.17%               53.40%              2.85%
+ Latino/a                     8.63%                 1.40%                   17.51%               65.08%             16.00%
+ White                       69.09%                 1.03%                   10.34%               72.80%             15.84%
+ Multiple                     7.50%                 1.49%                    6.83%               73.43%             18.25%
+
+Table 13b. PLTW (Project Lead the Way)
+        Race           Racial Composition of     Risk Index: Not          Risk Index:       Risk Index: Meets      Risk Index:
+                           Students who             Meeting              Progressing          Expectations         Constantly
+                            completed             Expectations             Towards                                 Meets and
+                                                                         Expectations                               Exceeds
+                                                                                                                  Expectations
+ AI                           0.00%                        -                    -                   -                    -
+ Asian                       11.47%                     0.21%                2.27%               92.98%              4.55%
+ Black                        3.65%                     0.65%               35.71%               61.69%              1.95%
+ Latino/a                     8.91%                     0.00%                5.32%               93.35%              1.33%
+ White                       68.67%                     0.00%                4.04%               94.31%              1.66%
+ Multiple                     7.30%                     0.00%                4.22%               93.83%              1.95%
+
+
+
+
+                                                                                                                                    27
+METROPOLITAN CENTER FOR RESEARCH ON EQUITY AND THE TRANSFORMATION OF SCHOOLS
+INNOVATIONS IN EQUITY AND SYSTEMIC CHANGE (IESC)
+Table 13c. World Language
+        Race          Racial Composition of       Risk Index: Not         Risk Index:      Risk Index: Meets      Risk Index:
+                          Students who               Meeting             Progressing         Expectations         Constantly
+                           completed               Expectations            Towards                                Meets and
+                                                                         Expectations                              Exceeds
+                                                                                                                 Expectations
+ AI                           0.39%                   0.00%                  0.00%              100.00%             0.00%
+ Asian                       12.02%                   0.00%                  0.00%              96.77%              3.23%
+ Black                        3.10%                   0.00%                  4.17%              93.75%              2.08%
+ Latino/a                    10.08%                   0.00%                  0.00%              96.15%              3.85%
+ White                       67.83%                   0.00%                  0.57%              95.71%              3.71%
+ Multiple                     6.59%                   0.00%                  0.00%              96.08%              3.92%
+
+
+Academic Data (Grades 6-12)
+
+Table 14a. English (Students Passing and Failing a Course)
+        Race          Racial Composition       Composition of         Composition of         Relative Risk       Relative Risk
+                       of Students who        Students passing      Students failing the   Ratio of Students   Ratio of Students
+                          completed              the course               course                passing             failing
+ AI                          0.17%                0.18%                  0.00%                  1.01                 0.00
+ Asian                      10.62%                10.63%                 9.09%                  1.00                 0.84
+ Black                       6.44%                6.24%                 27.27%                  0.97                 5.45
+ Latino/a                    8.27%                8.17%                 18.18%                  0.99                 2.47
+ White                      69.97%                70.21%                45.45%                  1.01                 0.36
+ Multiple                    4.53%                4.57%                  0.00%                  1.01                 0.00
+
+Table 14b. Math (Students Passing and Failing a Course)
+        Race          Racial Composition       Composition of         Composition of         Relative Risk       Relative Risk
+                       of Students who        Students passing      Students failing the   Ratio of Students   Ratio of Students
+                          completed              the course               course                passing             failing
+ AI                          0.11%                0.11%                  0.00%                  1.01                 0.00
+ Asian                      11.98%                12.09%                 0.00%                  1.01                 0.00
+ Black                       5.41%                5.03%                 50.00%                  0.93                17.49
+ Latino/a                    7.85%                7.70%                 25.00%                  0.98                 3.91
+ White                      69.99%                70.37%                25.00%                  1.02                 0.14
+ Multiple                    4.67%                4.71%                  0.00%                  1.01                 0.00
+
+Table 14c. Science (Students Passing and Failing a Course)
+        Race          Racial Composition       Composition of         Composition of         Relative Risk       Relative Risk
+                       of Students who        Students passing      Students failing the   Ratio of Students   Ratio of Students
+                          completed              the course               course                passing             failing
+ AI                          0.20%                0.20%                  0.00%                  1.02                 0.00
+ Asian                      11.47%                11.58%                 5.56%                  1.01                 0.45
+ Black                       5.74%                5.04%                 44.44%                  0.87                13.14
+ Latino/a                    8.61%                8.36%                 22.22%                  0.97                 3.03
+ White                      69.14%                69.99%                22.22%                  1.04                 0.13
+ Multiple                    4.85%                4.83%                  5.56%                  0.99                1.154
+
+
+
+
+                                                                                                                                28
+METROPOLITAN CENTER FOR RESEARCH ON EQUITY AND THE TRANSFORMATION OF SCHOOLS
+INNOVATIONS IN EQUITY AND SYSTEMIC CHANGE (IESC)
+Table 14d. Social Sciences (Students Passing and Failing a Course)
+        Race          Racial Composition     Composition of         Composition of         Relative Risk       Relative Risk
+                       of Students who      Students passing      Students failing the   Ratio of Students   Ratio of Students
+                          completed            the course               course                passing             failing
+  AI                         0.18%              0.19%                  0.00%                  1.01                 0.00
+  Asian                     10.90%              11.01%                 0.00%                  1.01                 0.00
+  Black                      5.95%              5.74%                 27.27%                  0.96                 5.93
+  Latino/a                   8.06%              7.68%                 45.45%                  0.95                 9.51
+  White                     70.24%              70.77%                18.18%                  1.03                 0.09
+  Multiple                   4.67%              4.63%                  9.09%                  0.98                 2.04
+
+
+Electives (Grades 6-12)
+
+Table 15a. Art (Students Passing and Failing a Course)
+        Race          Racial Composition     Composition of         Composition of         Relative Risk       Relative Risk
+                       of Students who      Students passing      Students failing the   Ratio of Students   Ratio of Students
+                          completed            the course               course                passing             failing
+  AI                         0.00%              0.00%                  0.00%                    -                    -
+  Asian                     11.04%              11.06%                 0.00%                  1.00                 0.00
+  Black                      4.48%              4.48%                  0.00%                  1.00                 0.00
+  Latino/a                   9.10%              8.97%                 100.00%                 0.98                   -
+  White                     70.15%              70.25%                 0.00%                  1.01                 0.00
+  Multiple                   5.22%              5.23%                  0.00%                  1.00                 0.00
+
+Table 15b. Foreign Language (Students Passing and Failing a Course)
+        Race          Racial Composition     Composition of         Composition of         Relative Risk       Relative Risk
+                       of Students who      Students passing      Students failing the   Ratio of Students   Ratio of Students
+                          completed            the course               course                passing             failing
+  AI                         0.22%              0.22%                  0.00%                  1.00                 0.00
+  Asian                     10.74%              10.77%                 0.00%                  1.00                 0.00
+  Black                      3.47%              3.37%                 33.33%                  0.97                13.92
+  Latino/a                   6.82%              6.85%                  0.00%                  1.00                 0.00
+  White                     73.94%              73.96%                66.67%                  1.00                 0.70
+  Multiple                   4.81%              4.83%                  0.00%                  1.00                 0.00
+
+Table 15c. Unified Art (Students Passing and Failing a Course)*
+        Race          Racial Composition     Composition of         Composition of         Relative Risk       Relative Risk
+                       of Students who      Students passing      Students failing the   Ratio of Students   Ratio of Students
+                          completed            the course               course                passing             failing
+  AI                         0.00%              0.00%                  0.00%                    -                    -
+  Asian                     13.05%              13.22%                 0.00%                  1.01                 0.00
+  Black                      3.33%              3.12%                 20.00%                  0.94                 7.27
+  Latino/a                   8.74%              8.48%                 30.00%                  0.97                 4.47
+  White                     68.47%              68.95%                30.00%                  1.02                 0.20
+  Multiple                   6.40%              6.23%                 20.00%                  0.97                 3.65
+*Grades 6-8 only
+
+
+
+
+                                                                                                                             29
+METROPOLITAN CENTER FOR RESEARCH ON EQUITY AND THE TRANSFORMATION OF SCHOOLS
+INNOVATIONS IN EQUITY AND SYSTEMIC CHANGE (IESC)
+
+
+Benchmark (Grades K-8)
+
+Table 16a. Aims Web
+             Race           Racial Composition       Composition of          Risk Index of         Relative Risk Students
+                             of Students who       Students below 25th    Students below 25th    below 25th percentile (At-
+                                completed          percentile (At-Risk)   percentile (At-Risk)              Risk)
+  AI                               0.00%               0.00%                     -                            -
+  Asian                           11.44%               8.39%                  7.55%                         0.71
+  Black                            4.15%               13.49%                 33.48%                        3.60
+  Latino/a                        10.04%               17.57%                 18.02%                        1.91
+  White                           67.72%               56.65%                 8.62%                         0.62
+  Multiple                         6.65%               3.90%                  6.04%                         0.57
+
+
+Advanced Placement, Honors Courses
+
+Table 17a. Enrollment in AP Classes by Race
+               Race               Racial Composition of School       Composition of Students     Risk Index of enrollment in
+                                                                      Enrolled in AP Courses             AP Courses
+ AI                                                0.11%                           0.49%                  150.0%
+ Asian                                            11.15%                          17.46%                  54.31%
+ Black                                             4.98%                           4.89%                  34.09%
+ Latino/a                                          9.28%                           2.77%                  10.37%
+ White                                            68.48%                          68.19%                  34.55%
+ Multiple                                          6.00%                           6.20%                  35.85%
+
+Table 17b. Enrollment in Honors Classes by Race
+               Race               Racial Composition of School      Composition of Students      Risk Index of enrollment in
+                                                                   Enrolled in Honors Courses          Honors Courses
+ AI                                                0.11%                          0.38%                   100.00%
+ Asian                                            11.15%                         14.02%                   37.56%
+ Black                                             4.98%                          2.84%                   17.05%
+ Latino/a                                          9.28%                          4.36%                   14.02%
+ White                                            68.48%                         74.05%                   32.31%
+ Multiple                                          6.00%                          4.36%                   21.70%
+
+
+Policy Analysis:
+
+        One of the central policies that is examined during the root cause process with the district root cause
+team is a district’s code of conduct to assess how the language in policies are leading to disproportionate
+discipline referrals and suspensions. In this process NYU Metro Center’s IESC requests the district share the
+code of conduct for the root cause team to review. The root cause team reviewing the code of conduct
+included board of trustee members, parents, and district staff representing all four schools. They reviewed the
+code of conduct for two hours and addressed the questions in table 18a. In this review of the code of conduct
+the perspective of the district root cause team is central. They are best equipped to offer the context to the code
+of conduct, including the purpose, development, and implementation. The findings below include the strengths
+and limitations revealed through the code of conduct review, and next steps to build on the strengths and
+address the limitations.
+                                                                                                                 30
+METROPOLITAN CENTER FOR RESEARCH ON EQUITY AND THE TRANSFORMATION OF SCHOOLS
+INNOVATIONS IN EQUITY AND SYSTEMIC CHANGE (IESC)
+
+
+The strengths of the code of conduct include:
+1) It aims to be aspirationally inclusive
+2) Procedural description can be instructive to families
+3) There is willingness to include a range of stakeholders
+
+Conversely, the areas of improvement that the team highlighted within the code of conduct include:
+1) A lack of language clarity, subjective language (e.g., “insubordinate”, “disruptive”), and it seems to be
+based on individual’s feeling about perceived behavior
+2) There is deficit thinking that is underlying the code of conduct
+3) A timely annual review with meaningful community input is missing
+4) There is some criminalizing (e.g., juvenile delinquent/offender)/punitive language;uclear language; lack of
+supports for students in the document
+5) It does not acknowledge student circumstances that may be impacting students
+
+Additional gaps identified by the team were more procedure and practice based, including the following:
+1) While there is an intent to give the code of conduct to parents annually, the root cause team members
+highlighted that parents don’t always receive a hard copy of it
+2) The team shared that there is a lack of training for faculty and staff, in particular, in restorative practices.
+Such an approach would generate spaces of restoration rather than just consequence focused.
+3) While there are efforts to offer training to staff on the code of conduct supplementary training would be
+essential to develop an understanding of the purpose, and usage appropriateness of the code of conduct for
+current and new staff.
+
+Moving forward, the district needs to revise the code of conduct, including removing ambiguous,
+criminalizing (e.g., juvenile offender) and subjective language (e.g,. insubordinate), offering language that
+centers equity and the recognition of cultural variation in behavior. The revisions should include various
+stakeholders’ voices from social identity differences, in particular students and families of color and language
+differences. It is recommended that the code of conduct center restorative approaches and lay out specific
+restorative practices. The code of conduct should also lay out a clear matrix that includes what discipline
+incidents lead to what disciplinary actions. Additionally, the code of conduct needs to highlight how Irvington
+staff, students and families develop an understanding of the code of conduct.
+
+Table 18a. Code of Conduct Analysis
+
+ How does the code of     ‘The mission of the Irvington Union Free School District is to create a
+ conduct align with       challenging and supportive learning environment in which each student
+ your overall district
+ culture and mission?
+                          attains his or her highest potential for academic achievement, critical
+                          thinking and lifelong learning. Our schools encourage the discovery and
+                          development of each student’s individual strengths, skills and talents and
+                          foster social and civic responsibility’ (from the website)
+
+                          The code of conduct and district mission don’t align.
+
+
+
+
+                                                                                                                      31
+METROPOLITAN CENTER FOR RESEARCH ON EQUITY AND THE TRANSFORMATION OF SCHOOLS
+INNOVATIONS IN EQUITY AND SYSTEMIC CHANGE (IESC)
+ How was the code of       The code of conduct self-refers to a process that included many
+ conduct created?          stakeholders when it was initially developed. A more representative
+                           group should be involved with updates. The model used for the ‘Dress
+                           Code’ update could be used. However, more attempts should be made to
+                           bring more than the “usual suspects” on board to update the code of
+                           conduct.
+ Was there parent,         The code of conduct self-refers to a process that included many
+ student, and              stakeholders, a more representative group should be involved with
+ community
+ involvement in the
+                           updates.
+ creation of the code of
+ conduct?
+
+ How often is the code     The code of conduct is supposed to be reviewed once a year before being
+ of conduct revised?       submitted for approval to the board-- because of various circumstances a
+                           full review has been rescheduled since 2018.
+
+ Who is involved in        The hope is that the code of conduct is on the calendar for 2021-22
+ making the revisions      school year and will include full stakeholder involvement (including
+ to the code of            students). Please note comments above about stakeholder participation
+ conduct?
+                           and identification of participants.
+ What is the purpose of    Page 1 of the code of conduct alludes to its purpose: “The District
+ the code of conduct?      believes that order and discipline are essential to effective education.
+                           Maintaining a supportive orderly educational environment requires
+                           everyone in the school community play a role in contributing to the
+                           development of responsible and productive citizens. It also requires the
+                           development and implementation of a code of conduct that clearly
+                           defines individual responsibilities, describes unacceptable behavior, and
+                           provides a procedural framework for disciplinary decisions regarding
+                           inappropriate behavior or misconduct.”
+
+
+ What are the goals of     Based on the document the goal of the code of conduct is: “Our goal as
+ the code of conduct?
+                           an educational organization is to begin with an instructive approach to
+                           discipline and teach students that they can all achieve and play an
+                           important role in maintaining an environment that is conducive to
+                           learning. When at all possible, behaviors that are contrary to this Code
+                           of Conduct will be identified, and constructive interventions will be
+                           implemented before moving to disciplinary consequences."
+ Does the code of          The code of conduct does not consider the differences in home
+ conduct consider how      lives/origins/lived experiences.
+ culture shapes
+ variation in behavior?
+ How does the code of      The code of conduct aims to intersect SEL/student health and discipline.
+ conduct move past         However, there is concern that there are deficit-thinking practices. As
+ punishment and into
+ support?
+                           such, there needs to be a clear separation of the two documents, although
+                           each document will need to refer to the other.
+
+                                                                                                       32
+METROPOLITAN CENTER FOR RESEARCH ON EQUITY AND THE TRANSFORMATION OF SCHOOLS
+INNOVATIONS IN EQUITY AND SYSTEMIC CHANGE (IESC)
+ Does the code of           There might be a range of interventions, but students are often dealt with
+ conduct move away          in an exclusionary manner. The team highlighted that there are not a
+ from exclusionary
+ discipline and use
+                            good range of support options to meet the needs of students coming from
+ suspension as a last       challenging contexts so they are often met with in a disciplinary fashion
+ resort?                    (i.e., kids sleeping in class).
+ Is there a progressive     There is no progressive ladder of support embedded into the code of
+ ladder of support          conduct and it is open to subjectivity based on the individual called to
+ embedded into the
+ code of conduct and
+                            work with a student. Infractions in the code of conduct often lead to
+ aligned to the             disciplinary action but there are incidents that should really be dealt with
+ disciplinary               from a SEL perspective. In some buildings this support doesn’t exist for
+ responses?                 students OR for staff -- so disciplinary action is often the only resort. In
+                            some buildings there is more support than others.
+ For each infraction, is    The code of conduct does include a range of discipline responses based
+ there a range of           on teachers/administrators. There is not a streamlined set of
+ possible discipline
+ responses that can be
+                            expectations/responses. The root cause team reviewing the code of
+ used?                      conduct shared that when teachers start in the district the message on
+                            expectations for discipline response varies widely.
+ Does the code of           The root cause team shared that there is space for restoration and
+ conduct make space         relationship building to occur, but it is not necessarily commonplace or
+ for restoration and
+ relationship building?
+                            expected. It’s not the norm and there is no practice for ensuring this
+                            happens. Further, there is a lack of oversight that practices that happen in
+                            professional development are taking place in the classrooms/buildings
+                            (as well as lack of PD on the issue of discipline).
+
+ How does your school       There are concerns about the dynamic created due to a conflation of
+ use the code of
+ conduct –
+                            SEL/discipline issues especially at secondary level.
+ how is it used by
+ teachers?
+ -how is it used by
+ school administrators?
+ How does your school       The code of conduct is distributed electronically at the beginning of the
+ ensure that all staff      school year with a link. Professional development is necessary related to
+ members have the
+ same understanding
+                            discipline/behavior to lift such a document to good practice.
+ of the code of
+ conduct?
+ How do students and        A summary of the code of conduct is distributed to students and families,
+ families receive the       is electronically, and mentioned at open houses. The code of conduct is
+ code of conduct?
+                            not fully unpacked with students and families for a deep understanding.
+ How does your school       A summary of the code of conduct is distributed, available electronically,
+ ensure that every          and mentioned at the beginning of the school year. But, how schools
+ student understands
+ the code of conduct?
+                            ensure understanding is unknown.
+
+ What ambiguous             There is vague and subjective language such as “insubordinate” and
+ language or language       “disruptive” in the code of conduct.
+ that is open to
+ interpretation exists in
+ the code of conduct?
+
+                                                                                                           33
+METROPOLITAN CENTER FOR RESEARCH ON EQUITY AND THE TRANSFORMATION OF SCHOOLS
+INNOVATIONS IN EQUITY AND SYSTEMIC CHANGE (IESC)
+ Is there language in      Yes, there is criminalizing language in the code of conduct under section
+ the code of conduct       8 (Referrals) -- there’s language
+ that leads to
+ criminalizing             Page 1: “distinguish between minor and serious offenses, as well as
+ students?                 between first time and repeated offenses” (this language is more
+                           appropriate to criminal justice than to an educational environment where
+                           we could perhaps speak about something along the lines of infractions of
+                           the code vs. “offenses” and “repeat offenses”
+
+                           Penalty is also used in the code of conduct: page 15-- “...a student’s first
+                           violation may merit a lighter penalty or action than subsequent
+                           violations; however, depending upon the nature of the violation, any one
+                           of these penalties/actions can be implemented.”
+
+                           ‘Guilt or innocence, charged is language that exists in the code of
+                           conduct: “In determining the guilt or innocence of a student, the
+                           Principal or his/her designee shall not consider any information other
+                           than the evidence relevant to the guilt or innocence of the student with
+                           regard to the conduct with which the student is charged.” (pg. 16)
+ Does the code of          While the elementary school building discipline referral forms consider
+ conduct reflect age       age appropriate responses to disciplines, an age and development
+ appropriate responses
+ to discipline?
+                           framework should be more explicit in the code of conduct.
+ Does the code of          Yes, the code of conduct does include protections for students with
+ conduct include           disabilities.
+ relevant protections
+ from state and federal
+ law on the rights of
+ students with
+ disabilities and the
+ responsibilities of the
+ school in these
+ cases?
+ Does the code of          The process is spelled out in the code of conduct. On page 3 there is an
+ conduct clearly spell     overview on the process and page 23 Appeal of Superintendent’s
+ out due process,
+ including a process of
+                           Decision. But it’s confusing. Overall, there seems to be an onus on
+ appealing                 parents/students to understand the process itself and in particular for
+ suspensions?              students with disability to prove how the incident may be related to
+                           disability.
+ Does the code of          Yes, the code of conduct does include information on under what
+ conduct clearly           conditions law enforcement may become involved on pages 13, and 32-
+ indicate under what
+ conditions law
+                           33, but more information is needed on the process.
+ enforcement may
+ become involved?
+ Does the code of          Yes, code of conduct does include language that allows for discretion to
+ conduct allow             be used in consequences (e.g., student’s age). However, the team
+ discretion to be used
+ in consequences on a
+                           reviewing the code of conduct highlighted that it isn’t necessarily a good
+ case by case basis?       thing because staff isn't trained in restorative practices and it often leads
+                           to disciplinary action.
+                                                                                                           34
+METROPOLITAN CENTER FOR RESEARCH ON EQUITY AND THE TRANSFORMATION OF SCHOOLS
+INNOVATIONS IN EQUITY AND SYSTEMIC CHANGE (IESC)
+ Does the code of        The code of conduct lays out suspension, but greater clarity is needed on
+ conduct clearly spell   what specific behaviors can lead to different disciplinary actions (e.g,
+ out what can lead to
+ detention, ISS and
+                         detention, ISS, OSS).
+ OSS? And the
+ number of days of       Insubordination and disruptiveness are listed as a possible reason for
+ detention, ISS and      suspension. “Suspension from school is a severe penalty, which may be
+ OSS?                    imposed only upon students who are insubordinate, disorderly, violent or
+ Provide examples.       disruptive, or whose conduct otherwise endangers the safety, morals,
+                         health or welfare of themselves and/or others.” (pg. 20)
+
+                         Further, code of conduct should explain or reference school building
+                         procedures on what detention/ISS processes are implemented in each
+                         building.
+ Does your code of       No, it does not--as evidenced by review of disciplinary referrals.
+ conduct lead to equal
+ or equitable
+ outcomes?
+ How is the code of      The code of conduct is distributed electronically and available on the
+ conduct distributed?    district website.
+
+        The Root Cause team was asked to complete an analysis of the discipline referral forms. The root
+cause team reviewing the code of conduct included board of trustee members, parents, and district staff
+representing all four schools. In this process NYU Metro Center’s IESC requested the district share the
+discipline referral forms for the root cause team to review. The root cause team reviewed the discipline referral
+forms with their accompanying documents for schools that had them (e.g., student reflection form) for two
+hours and addressed the questions in table 18b. The district root cause team reviewing the discipline referral
+form was paramount as they were best equipped to offer the context of the purpose and usage of the discipline
+referral form. However, the analysis may not reflect all of the processes/procedures that the district/schools
+follow. The overall finding highlighted by the team was that the form is not uniform across the district; every
+school has their own form. The following are additional findings from the team’s review, including the
+strengths and limitations:
+
+The strengths of the form include:
+   1) That there are forms to document discipline.
+   2) Main Street School’s form includes discipline incidents and consequences aligned with the code of
+       conduct.
+   3) Main Street School forms do include space to list interventions/supports.
+   4) Dows Lane/Main Street School has a student reflection form and the middle school has an incident
+       form to be completed by student.
+
+The form has the following shortcomings:
+   1) The detail of information requested in the forms vary by schools
+   2) There is a lack of differentiation in form on the type of incidents (e.g., minor incidents vs. more
+       significant incidents)
+   3) Overall there is a lack of consistency in the form across schools that includes supports that are
+       available for students
+
+                                                                                                              35
+METROPOLITAN CENTER FOR RESEARCH ON EQUITY AND THE TRANSFORMATION OF SCHOOLS
+INNOVATIONS IN EQUITY AND SYSTEMIC CHANGE (IESC)
+   4) There needs to be a notification option in the form when the incident is race-based and potentially a
+      violation of DASA.
+   5) Add restorative language to the form
+   6) The most widely used forms do not make space for student voice (the elementary school uses various
+      reflective forms for students). All forms should include a space for student voice.
+   7) The Main Street form uses ‘offender’ language (e.g., offender name, conference with offender) and
+      ambiguous/subjective language exists (e.g, insubordination, disruptive behavior) in Dows Lane and the
+      high school form.
+
+Moving forward there should be one districtwide discipline referral data collection form that overall captures
+the important information such as student name, grade, adult reporter incident description, intervention
+supports, outcome, and student description of the incident. An addendum should be included in the discipline
+referral forms to differentiate for developmental appropriateness. The form should include options of
+restorative practices that are available to resolve incidents. All the forms should also align with the code of
+conduct. Ambiguous/subjective and criminalizing (i.e., offender) language should be removed. Finally, the
+form requests the student's name and grade, it should also include student demographic information.
+
+Table 18b. District and School Discipline Referral Analysis
+ What is the purpose of    The purpose of the discipline referral form is to document incidents
+ the discipline referral   that happen and for administrative review.
+ form?
+
+
+ When is this form used?     Varies by school.
+
+ How does your school        At Dows Lane/Main Street School there is a reflective component on
+ use this form?              the part of the student. In the MS there is a student incident reporting
+ -How is it used by
+ teachers and
+                             form.
+ how is it used by school
+ administrators?             Main Street School staff reported that they spend a lot of time as a
+                             school defining/refining the disciplinary referral process, including
+ -When are teachers and      tiered responses.
+ staff trained on the
+ purpose and usage of this
+ form?                       The IMS/IHS staff shared it was unclear how direct training for
+                             teachers occurs on the purpose and usage of the form. Further, they
+                             reported that it is unclear how teachers were involved in the
+                             developing process; no tiered behavior supports listed in forms.
+ What are the possible       Possible outcomes when the form is used include meetings (supported
+ outcomes when this form     by school psychologists/social workers) between involved
+ is used?
+                             students/staff (when safe to do so) and disciplinary actions--detention,
+                             suspension, phone call, etc.
+ When is the form entered    Varies by school.
+ into a data system?
+
+
+
+
+                                                                                                              36
+METROPOLITAN CENTER FOR RESEARCH ON EQUITY AND THE TRANSFORMATION OF SCHOOLS
+INNOVATIONS IN EQUITY AND SYSTEMIC CHANGE (IESC)
+ Do the behavior               At Main Street School, the behavior incident and consequences align
+ infractions and               with the code of conduct. The middle school form on the second page
+ consequences in the form
+ align with code of
+                               has code of conduct codes and VADIR codes.
+ conduct?
+ What ambiguous                The discipline referral forms have ambiguous language and language
+ language or language          open to interpretation such as, “insubordination” and “disruptive
+ that is open to
+ interpretation exists in
+                               behavior”. Such language is culturally defined and/or include
+ this form?                    racialized assumptions--also could result in “othering” students who
+                               don’t meet model student ideals. Further, there are some references to
+                               whistling, tapping as problematic behaviors--raise questions--is this
+                               always an incidence of insubordination/disruption?
+
+                               “Victim/Wrongdoer” language is on the IMS form; ‘Victim/Offender
+                               is on the Main Street School form.
+ Does the form include         The Main Street School forms do include space to list
+ space to list                 interventions/supports, others don’t appear to do so.
+ interventions/supports
+ that have been offered to
+ students to address
+ behavior?
+ Does the form require         None of the forms directly request demographic information. The
+ that administrators,          forms request the student's name and grade.
+ teachers and staff include
+ student demographic
+ information (i.e., race,
+ ethnicity, gender,
+ IEP/Non-IEP status)?
+
+
+
+Practice Analysis:
+
+School Discipline Process
+        The school discipline process allows schools to examine the practices employed when students start to
+exhibit a behavioral need. The process lays out critical questions that school personnel ask and potential
+outcomes for each stage, including: (1) key policies and practices that may affect or determine the student’s
+outcome at each of the stages, (2) critical questions that should be considered at each stage, and (3) possible
+outcomes. Root cause team members completed Table 18c.
+
+Table 18c. Stages involved in the School Discipline Process
+  Stage 1                 Questions
+                                       Why is this happening?
+                                          How can we help?
+                              Outcomes    Student to meet with the faculty/staff member who observes the
+                                          problem behavior/need or another faculty staff member to understand
+                                          and offer support.
+
+                                                                                                             37
+METROPOLITAN CENTER FOR RESEARCH ON EQUITY AND THE TRANSFORMATION OF SCHOOLS
+INNOVATIONS IN EQUITY AND SYSTEMIC CHANGE (IESC)
+  Stage 2               Questions
+                                     Why is this happening?
+                                     Have we engaged the family?
+                                     How can we support this student?
+                                     How can we help?
+                        Outcomes
+                                     Author of referral to connect with the student in advance of this step.
+                                     AP to meet with the student to understand their perspective.
+                                     AP to connect student with support.
+                                     Main Street School does not have an AP- the principal is the only
+                                     admin
+  Stage 3               Questions    Why is this happening?
+                                     Have we engaged the family?
+                                     How can we support this student?
+                                     How can we help?
+                        Outcomes     All buildings-Possible interventions through a possible referral to
+                                     MTSS
+                                     AP to meet with the student to understand their perspective.
+                                     Administrator to communicate with and partner with family.
+                                     Administrator to connect student with support to help in moving
+                                     forward.
+  Stage 4               Questions    Why is this happening?
+                                     Have we engaged the family?
+                                     How can we support this student?
+                                     How can we help?
+                        Outcomes     AP to meet with the student to understand their perspective and
+                                     conduct full investigation.
+                                     Administrator to communicate with and partner with family.
+                                     Administrator to connect student with support to help in moving
+                                     forward (could be through a possible referral to MTSS).
+
+
+                                                                                                               38
+METROPOLITAN CENTER FOR RESEARCH ON EQUITY AND THE TRANSFORMATION OF SCHOOLS
+INNOVATIONS IN EQUITY AND SYSTEMIC CHANGE (IESC)
+
+
+Practice Analysis: Tier 1, 2, and 3 Interventions
+
+        An analysis of the multi-tiered interventions and supports was conducted to assess the level of tiered
+support, identify how students are referred, and identify how interventions are progress monitored and
+monitored for implementation fidelity. Fundamentally, Tier 1 academic support centers high quality
+differentiated instruction, research-based instruction, collaborative teaming in general and special education,
+and data driven decisions (McIntosh & Goodman, 2016). Ideally, Tier 2 support increases targeted
+intervention intensity that addresses students' specific skill needs without replacing high quality differentiated
+instruction, research-based instruction and data driven decision making. Tier 3 should increase the intensity of
+student’s targeted intervention, including individualized intervention support (McIntosh & Goodman, 2016).
+The Root Cause team identified a variety of tiered interventions occurring in the district.
+
+While it is not a fully exhaustive list, the table below provides a sense of the wide spectrum of supports and
+interventions students are offered in the district. Particularly from the elementary level, there is a distinct
+vision from leadership of what the multi-tiered system of support looks like and the academic and behavior
+pathways available to students. That said, across the K-12 spectrum, interventions are not grounded in
+culturally responsive practices.
+
+Table 18d. Tier 1, 2, and 3 Interventions and Supports
+  District and School Interventions
+
+  Tier 1            Academic                                       Behavior
+
+                    Standards-based differentiated core            Morning meeting/class meeting
+                    instruction and learning in all academic
+                    areas (modalities for notetaking, document
+                    production/completion, assessments, etc.)
+                    Small group mini lessons                       Mindful practices within the classroom
+
+                    Individual and small group conferencing        Consistent behavior expectations (common
+                                                                   K-5, connected to habits of mind and codes
+                                                                   of conduct)
+                    Differentiated text selection                  Mental health resource magnets
+                    Station learning                               Monthly character building assemblies
+                                                                   Daily recitation of Pledge of Respect
+
+                                                                   Recess Incentives
+
+                                                                   Recess games/behavior unit in PE
+
+                                                                   Reflection sheet
+
+                                                                   Behavior checklist
+
+                                                                                                                  39
+METROPOLITAN CENTER FOR RESEARCH ON EQUITY AND THE TRANSFORMATION OF SCHOOLS
+INNOVATIONS IN EQUITY AND SYSTEMIC CHANGE (IESC)
+                                                                 Break systems
+
+                                                                 School counselor lessons
+                                                                 Dows Lane (DL) Behavior Action Plans,
+                                                                 depending on behavior
+                                                                 DL Character building program and SEL
+  Tier 2 and 3    Academic                                       Behavior
+
+                  Dedicated extra help periods                   Check and Connect
+                  Content/skill specific support/enrichment      Phone call home from the teacher/meeting
+                  classes (e.g. Reader’s/Writer’s workshop,
+                  MTSS Lab, MTSS Reading, MTSS Math,
+                  related services)
+                  After School homework/extra help club          Behavior checklist (maintained by staff)
+                  Non-mandated counseling services               Conversation with teacher
+                  Academic support classes, resources room,      Regular counseling, small group
+                  ICT, Special Class, etc.
+                  Multiple modalities for curricular materials   Behavior contract
+                  and support with material for organization
+                  (e.g. additional sets of books, materials,
+                  eBooks, audiobooks)
+                  Supports for attention and processing          Safety plan
+                  Supports for cognitive organization and        Network meeting (outside agency to put
+                  executive function in written narrative        external supports in place)
+                  Supports for visual, motor and auditory        Referral to Crisis Team
+                  ability
+                                                                 Meeting with principal
+                                                                 Home visit
+
+                                                                 Regular counseling 1:1
+
+                                                                 Behavior reporting sheet
+
+                                                                 Access to preferred point person to connect
+                                                                 with (HS level)
+                                                                 Conflict resolution strategies via preferred
+                                                                 point person (IHS level)
+
+
+
+
+                                                                                                            40
+METROPOLITAN CENTER FOR RESEARCH ON EQUITY AND THE TRANSFORMATION OF SCHOOLS
+INNOVATIONS IN EQUITY AND SYSTEMIC CHANGE (IESC)
+Table 18e. Tier 1, 2, and 3 Interventions and Support Gaps
+ Intervention Gaps
+
+ Tier 1
+                       ● The MTSS structure that exists is not grounded in equity, diversity and inclusion.
+                       ● Differences in scheduling between elementary and secondary schools. Lack of
+                         alignment of scheduling to support a streamlined MTSS when needed.
+                       ● Prioritization of time.
+                       ● Need for Social Emotional Learning (SEL) across the board.
+                       ● Interventions and supports are not explicitly tailored to support culturally, racially
+                         and linguistically diverse student populations.
+                       ● Deficit ideology held with students within the structure of interventions.
+                       ● Lack of common language and messaging around the interventions that do exist
+                         and need to exist for every child in the district.
+                       ● Lack of assessment of intervention fidelity.
+                       ● At the secondary level, there is a conflict between student access to
+                         electives/interests and their ability to access support classes and extra help.
+                       ● The need to center students in the decision making process around what is
+                         available to them.
+                       ● Need to include families in the academic pathways of a student.
+
+ Tier 2 and 3
+                       ● Interventions and supports are not explicitly tailored to support culturally, racially
+                         and linguistically diverse student populations nor is there training to support
+                         culturally responsive implementation.
+                       ● Lack of consistency around tracking the effectiveness of tier 2 and 3
+                         interventions.
+
+
+
+
+                                                                                                             41
+METROPOLITAN CENTER FOR RESEARCH ON EQUITY AND THE TRANSFORMATION OF SCHOOLS
+INNOVATIONS IN EQUITY AND SYSTEMIC CHANGE (IESC)
+
+
+Beliefs-Survey Data
+
+The school staff survey was carried out by NYU Metro Center’s IESC to assess the school climate, educator’
+self-efficacy, instructional support, and educator’s responsiveness to the needs of diverse students. Out of the
+380 district staff members, 120 responded to the survey. The following are key highlights from the survey
+responses:
+
+ Administrator and Program Director Perceptions of        67% of the administrators agreed that the teachers
+ Teaching                                                 are provided support on the administration of
+                                                          assessment methods that consider the student's
+                                                          cultural background. 67% of the administrators
+                                                          agreed that the teachers are experts in instruction
+                                                          and management and know how to effectively
+                                                          challenge and support the students.
+ Intervention and Referral Processes                      Only 20% of the respondents agreed that they will
+                                                          be provided with feedback on their respective
+                                                          teaching practices. 91% of the respondents agreed
+                                                          that when a student is exhibiting academic and/or
+                                                          behavioral difficulty, they can refer him or her to the
+                                                          school’s pre-referral or early intervention system.
+ Self-Efficacy (Internal and External)                    Overall, 87% of the educators agreed that when they
+                                                          really try, they can get through to their most difficult
+                                                          students. Only 42% of the educators mentioned that
+                                                          they have enough training to deal with almost any
+                                                          learning problem. 38% of the respondents believed
+                                                          that if students aren't disciplined at home, they aren't
+                                                          likely to accept any discipline.
+ Practitioner’s Perspectives on Culture and Race          20% of the respondents perceived that African
+                                                          American children from disadvantaged
+                                                          neighborhoods do not have the role models they
+                                                          need to be successful in school. However, 91% of
+                                                          the respondents agreed that as educators, it is their
+                                                          responsibility to raise questions about the ways the
+                                                          school system serves students of color. 39% of the
+                                                          respondents mentioned that they try not to notice a
+                                                          child's race or skin color in the classroom setting.
+
+
+
+
+                                                                                                                42
+METROPOLITAN CENTER FOR RESEARCH ON EQUITY AND THE TRANSFORMATION OF SCHOOLS
+INNOVATIONS IN EQUITY AND SYSTEMIC CHANGE (IESC)
+       The perspectives on race and culture measurements are based on the diversity scale developed by
+Russell Skiba and others at the Indiana University Equity Project. The modified scale has five sub-scales that
+measure perceptions on student’s success, color evasiveness, racial awareness and knowledge, professional
+responsibility and deficit thinking about students from racially, culturally and linguistically diverse
+backgrounds.
+
+The overall respondent score for ensuring students’ success is at 5.6 i.e., staff takes a high level of ownership
+and accountability for students’ success. The color evasiveness sub-scale assesses educator’s ability to ignore
+the race and color of students. There exists a high level of color evasiveness in the district with an aggregate
+average of 3.4. The racial awareness and knowledge subscale measures the level of awareness and knowledge
+staff has about the issues related to race. The survey results indicate that there is a low level of racial
+awareness and knowledge at 3.5. The staff responded at higher levels of awareness when it comes to
+understanding and acknowledging their professional responsibility with an aggregate average of 5.0. However,
+a comparatively lesser number of educators feel that they need to make adjustments to the instructions on a
+regular basis to accommodate students’ cultures. The deficit thinking subscale assesses educator’s perception
+of student deficits. The overall score for the deficit thinking about students sub-scale stands at 1.8, which
+highlights a relatively low level of deficit thinking held by respondents.
+
+
+
+
+Ensuring Student Success, Color Evasiveness, Racial Awareness and Knowledge, Deficit Thinking and Professional Responsibility
+scales are measured on a scale of 1 to 6, with 1 being ‘Strongly Disagree’ and 6 being ‘Strongly Agree’.
+
+
+
+
+                                                                                                                                43
+METROPOLITAN CENTER FOR RESEARCH ON EQUITY AND THE TRANSFORMATION OF SCHOOLS
+INNOVATIONS IN EQUITY AND SYSTEMIC CHANGE (IESC)
+
+
+The CR-SE District Assessment
+
+        The CR-SE District assessment utilizes the CR-S indicators listed from the NYSED Culturally
+Responsive Sustaining Education (CR-SE) framework highlighting the beliefs, policies and practices critical
+to building and fostering culturally responsive and sustaining district and school environments. Six teams
+completed one domain of the CR-SE assessment each, followed by discussing the total score of the indicators
+together. The teams jointly scored each indicator and offered their scoring for each indicator. The teams added
+the total for each domain. The following are the results.
+
+Table 19a. CR-SE District Assessment Results
+  Summary of Total Score for Each Indicator Domain
+
+ Total Score for Each Indicator Domain (From Above)                   Total       Percentage
+                                                                      Score
+ Student-Centered, Welcoming and Affirming Environment                9/32        28%
+
+ High Expectations and Rigorous Instruction                           5/16        31%
+ Instructional Guidance: Inclusive Curriculum and Assessment          13/28       46%
+ Ongoing Professional Learning and Support to Build Staff             10/22       45%
+ Capacity
+ Family and Community Ties                                            11/26       42%
+ School Leadership                                                    11/28       40%
+
+
+Root Causes for Inequities and Disproportionality in the District
+
+Root Causes identified by the Root Cause Team
+
+        In engaging a root cause analysis process with multiple in-district stakeholders (teachers, community
+members, district and school leaders), it is critical to draw on the expertise and experiences each individual
+brings to the group. To that end, as the root cause team moved through sessions, they were asked to
+hypothesize potential root causes of disproportionality/inequities based on the information gathered and the
+ongoing discussions that were taking place. The following were identified by participants:
+
+   1) Equity has not been a priority. We need to approach everything we do with the lens of equity first and
+      foremost - consider who is impacted, harmed, or helped by every choice and decision. The lens of
+      equity overlays everything else in the district and needs to be our primary focus. We need continued,
+      ongoing, dynamic systems for reevaluating and responding to our equity work including feedback from
+      stakeholders (students, faculty, parents, etc.), reflecting, and implementing adjustments. This work is
+      never “done.”
+
+
+                                                                                                             44
+METROPOLITAN CENTER FOR RESEARCH ON EQUITY AND THE TRANSFORMATION OF SCHOOLS
+INNOVATIONS IN EQUITY AND SYSTEMIC CHANGE (IESC)
+   2) Structural racism and discrimination drive the disproportionality in our district whereby students of
+       color, particularly Black and Brown students, are negatively impacted by policies, practices, resources
+       and systems that are not responsive to their needs.
+   3) Efforts to engage families have not been as responsive, inclusive, and proactive as they could have
+       been; they have (unintentionally) excluded many community members from needs assessments and
+       decision-making. The voices with the most access are from a limited group that directly influences
+       decisions. These decisions have resulted in the creation of imbalanced and inequitable systems and
+       practices that do not serve the needs and interests of all students.
+   4) Faculty underestimate the impact of the BIPOC student experience in Irvington schools.
+   5) Curriculum and instructional materials have not been reviewed through the CRSE lens and/or faculty
+       may not recognize material that would be offensive/hurtful to BIPOC or LGBTQ students.
+   6) Implicit bias. Lack of training/support for our educators. Many privileged folks are unwilling to disrupt
+       the status quo.
+   7) Faculty and staff do not reflect the racial makeup of our student body.
+   8) Perception of one “right” way to behave.
+   9) Color-evasiveness is still perceived (by some) to be the most respectful way to approach others
+       regardless of their race/identity.
+   10) Many teachers (definitely not all) are unaware of how race plays a role in all of our lives, for better or
+       for worse. School teams need to take time to examine the effect that race has on their lives, whether it
+       limits them or provides privilege, the biases that are implicit in their own thinking, and how our
+       programs, curriculum and language can be modified to better serve the needs of all members of our
+       community.
+   11) Literacy curriculum does not have mid-unit formative assessments to help monitor students’ progress.
+       There is an over reliance on informative assessment placing too much ownership on teachers who are
+       not getting regular professional development in culturally responsive education and new literacy
+       strategies.
+   12) The hiring process needs best practice supports for employees to allow for retention of a diverse
+       workforce.
+   13) There is an assumption by educators of either limitless time or limitless resources by families and a
+       lack of this equals a “disengaged” learner who is not worth the extra effort.
+   14) As a community, we have to commit to the work and understanding where the inequities are and then
+       we have to commit to naming them and implementing changes to make sure we address the systemic
+       issues, rather than focusing on individuals. We also need the stamina for this and need to avoid equity
+       detours.
+   15) Move away from assuming that curriculum is responsive based solely on introduction of new texts,
+       resources, or content. We need to consider daily teaching practices as part of the move towards
+       culturally responsive-sustaining education.
+   16) Focus by the district on “success” and “outcomes” for appearances on surveys of best schools in order
+       to keep taxpayers happy.
+   17) Subjectivity inherent in the code of conduct and other documents related to discipline drives disparate
+       outcomes for students of color as well as students with disabilities.
+   18) Lack of equal access to all support and enrichments, e.g. transportation.
+   19) Results-driven strategies need to be implemented. We cannot accept “we tried” as an answer if equity
+       is not attained.
+   20) The perception by the families that it’s a competition/race for “the best” for their particular child and
+       despite people “wanting equality,” they only want it if they don’t “lose” anything.
+                                                                                                              45
+METROPOLITAN CENTER FOR RESEARCH ON EQUITY AND THE TRANSFORMATION OF SCHOOLS
+INNOVATIONS IN EQUITY AND SYSTEMIC CHANGE (IESC)
+
+
+
+
+Root Cause focus areas for the Multi-year Action Plan
+
+Moving into the final root cause session, using all of the quantitative and qualitative data that the group
+analyzed, the following focus areas were chosen for the district’s coherent multi-year action plan. Responses
+to the causes for inequities that the root cause team highlighted above will be situated within the broader focus
+areas below. The root cause team was split into groups based on the focus areas. They then were tasked with
+outlining the implementation phases (from year 1 through 5) to strategically respond to the root causes of
+inequities in the district by identifying a usable practice and accompanying smart goals for each focus area.
+   1) Culturally Responsive Restorative Practices
+   2) Teaching and Learning
+   3) Professional Learning and Development
+   4) Family and Community Engagement
+
+
+
+
+IESC Recommendations
+
+     1. Train teachers and staff in culturally responsive-sustaining education practices, focusing on creating
+        welcoming and affirming environments for historically marginalized students. Develop district-wide
+        learning spaces and supports that actively challenge the ways in which White, affluent culture has
+        become normalized/expected, disproportionately impacting Black and Latinx students and students
+        with an IEP. Build the district’s internal capacity to ground all teaching in cultural responsiveness,
+        understanding that creating equitable learning environments for students who are the most
+        vulnerable will inevitably support the success of every child.
+     2. Audit the Honors and AP programmatic structure. Assess the pathways by which students are
+        selected for these tracks and critically engage the disproportionality that currently exists within these
+        enrichment offerings.
+     3. Train staff and students in culturally responsive restorative practices. Further develop a school and
+        district culture that holds individuals accountable through restorative measures (e.g. restorative
+        circles and conferences). Foster a youth-driven restorative justice community, with trained youth
+        facilitators to engage in peer-to-peer restorative work.
+     4. Further develop family engagement pathways that reach out to Black and Latinx families, families
+        with lower SES, and families of students with an IEP. Engage these families proactively, to develop
+        an ongoing feedback loop, through periodic surveys, community forums and continual district
+        communication systems.
+     5. Develop fidelity tools for interventions/programs, monitor progress through the collection of
+        disaggregated data (e.g. by race, gender, IEP status), and evaluate effectiveness of
+        interventions/programs. Build pathways of support and communication between elementary, middle
+        and high school levels to further strengthen the overall MTSS structure. Invest in collaborative time
+        for school leaders across buildings to share best practices, particularly as they relate to culturally
+        responsive intervention tools and programs.
+
+                                                                                                                46
+METROPOLITAN CENTER FOR RESEARCH ON EQUITY AND THE TRANSFORMATION OF SCHOOLS
+INNOVATIONS IN EQUITY AND SYSTEMIC CHANGE (IESC)
+    6. Allocate time and resources to the implementation and progress monitoring of the district’s Multi-
+       year Action Plan. Ensure that the components of the plan are messaged to critical stake-holding
+       groups (e.g. board members, district and school leaders, community/family members). Align
+       additional district-based initiatives with the coherent action plan and continue to engage messaging
+       and participation across community stake-holding groups.
+
+
+
+
+                                                                                                              47
+METROPOLITAN CENTER FOR RESEARCH ON EQUITY AND THE TRANSFORMATION OF SCHOOLS
+INNOVATIONS IN EQUITY AND SYSTEMIC CHANGE (IESC)
+
+
+
+
+References
+
+McIntosh, K., & Goodman, S. (2016). Integrated multi-tiered systems of support: Blending RtI and PBIS.
+
+       New York, NY: Guildford Press.
+
+
+
+
+                                                                                                         48
+METROPOLITAN CENTER FOR RESEARCH ON EQUITY AND THE TRANSFORMATION OF SCHOOLS
+INNOVATIONS IN EQUITY AND SYSTEMIC CHANGE (IESC)
+Appendix B: Parent/Caregiver Interview Protocol
+      1)      What does it feel like being a parent/family/caregiver of a student at __________ (Name of
+              District)?
+              a. What does it feel like being a parent/family/caregiver of a student at __________ (Name of
+              School)?
+
+       2)     What do you like about being a parent/family/caregiver of a student at _________________
+              (Name of School)?
+              Probe:
+              a. Tell about one of your best experiences with the school.
+
+       3)     What do you dislike about being a parent/family/caregiver of a student at
+              __________________ (Name of School)?
+              Probe:
+              a. Tell about one of your worst experiences with the school.
+
+       4)     How does the principal/school leader engage you in your child’s school?
+                            a. Follow-Up: Does the school proactively reach out to you to be a part of your
+                    child’s education or is it something you have to start?
+
+              b. Follow-Up: Does the school honor/listen to/acknowledge the knowledge and expertise
+              that
+                 you have?
+                               i. If so, how? If not, how don’t they honor/listen to/acknowledge your
+                            knowledge and expertise?
+
+       5)     How does the principal/school leader/teachers/staff at this school promote family and
+              community engagement in the school, especially from families of racial, ethnic and linguistic
+              backgrounds that have historically been excluded?
+
+       6)     Is the principal/school leader at the school committed to sharing decision making and power
+              with families and the community.
+              a. Follow-Up: If yes, how so? Follow-Up: If no, why do you think they are not?
+
+       7)     Does your child’s principal/school leader/teachers/staff talk to you like an equal and value
+              your experiences, ideas and opinion?
+              a. Follow-Up: If yes, how so? Follow-Up: If no, why do you think they do not?
+
+
+                                                                                                             49
+METROPOLITAN CENTER FOR RESEARCH ON EQUITY AND THE TRANSFORMATION OF SCHOOLS
+INNOVATIONS IN EQUITY AND SYSTEMIC CHANGE (IESC)
+
+
+       8)     When do issues of RACE come up at school? Describe how.
+              Probe:
+              a. Tell me about a personal experience
+
+       9)     What can your child’s school do better?
+
+       10)    If a new parent was coming to ____________ (Name of School), what would you tell them
+              about the school?
+
+       11)     What else would you like to share with me that I didn’t ask you about?
+
+Thank you all for sharing your thoughts and participating.
+
+
+
+
+                                                                                                      50

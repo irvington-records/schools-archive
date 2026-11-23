@@ -1,0 +1,250 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/pfiles/DPEH6946EDD0/$file/The%20State%20and%20Future%20of%20PLTW%2C%20STEM%2C%20and%20Computer%20Science%20in%20Irvington.pdf | DATE: 2025-12-16 | TITLE: Regular Meeting | 6.3 PLTW, STEM, and Computer Science Update | The State and Future of PLTW, STEM, and Computer Science in Irvington.pdf
+
+The State and Future
+of PLTW, STEM, and
+Computer Science in
+Irvington
+A strategic vision for building coherent K–12 pathways that prepare every
+student for success.
+
+Tonight's Focus
+
+Building a Unified K–12 STEM Pathway
+01                                                                    02
+
+Current Landscape                                                     Evidence of Success
+Overview of K–12 PLTW and computer science programs across all        Strengths in student engagement and program effectiveness
+grade levels
+
+
+03                                                                    04
+
+Gaps & Challenges                                                     Strategic Recommendations
+Areas of misalignment and missed opportunities for improvement        Clear action steps to strengthen coherence, rigor, and pathways
+                                                                      district-wide
+
+
+
+     How do we build a K–12 STEM pathway where every student develops problem-solving, computational thinking, and engineering
+     literacy—with meaningful opportunities that culminate in recognized credentials and postsecondary alignment?
+
+The Future
+Starts Now
+Our students deserve a cohesive, rigorous, and modern K–12 STEM experience that equips them for life beyond
+Irvington—whether college or career. This plan strengthens alignment, increases opportunities for advanced credentials,
+and ensures that our programs reflect the future our students will step into
+
+
+
+
+Coherent Pathway                                                Rigorous Standards
+Aligned K–12 progression with predictable sequences             Industry-aligned curriculum with recognized credentials
+
+
+
+
+Future-Ready Students
+Prepared for the demands of tomorrow's workforce and higher education
+
+Core Pillars of a Unified K–12 STEM
+Vision
+Our strategic vision for K–12 STEM education in Irvington is built upon four foundational principles, ensuring students are prepared for a rapidly
+evolving technological landscape.
+
+         Design Thinking & Innovation                                                Artificial Intelligence Literacy
+         Fostering creativity and problem-solving through iterative                  Exploring AI's impact and applications, from machine learning
+         design, critical thinking, and hands-on innovation across all               fundamentals to ethical considerations and real-world
+         grade levels.                                                               implications.
+
+
+         Computational Thinking & Coding                                             Digital Citizenship
+         Developing computational thinking and literacy, empowering                  Educating students on responsible, ethical, and safe
+         students to create, analyze, and automate solutions with                    technology use, promoting positive online interactions and
+         various programming languages.                                              media literacy in a connected world.
+
+K–3 STEM: A Strong Foundation
+Kindergarten                                First Grade                                  Second Grade                                 Third Grade
+
+•   Structure & Function exploration        •   Light & Sound engineering challenge      •   Properties of Matter engineering         •   Environments & Survival projects
+•   Design Process (Big Bad Wolf            •   Scratch Jr. storytelling                     challenge                                •   Programming Patterns in Scratch
+    challenge)                              •   Introduction to loops and                •   Grids & Games in Scratch                 •   Complex game logic development
+•   Pushes & Pulls investigations               conditionals                             •   Coordinate plane concepts
+•   Animals & Algorithms (Scratch Jr.)                                                   •   Advanced conditionals
+
+
+
+       Key Strength: Students K–3 receive consistent, age-appropriate exposure to engineering design and foundational computer science concepts, building STEM identity
+       from the earliest grades.
+
+Grades 4–5: Balancing
+Opportunities with Growth
+Potential
+
+Science & Engineering                                           Foundational Coding Exposure
+Foundation                                                      Thank you to IEF for the iCamp coding experience
+The Science Cluster model provides content-                     offering valuable opportunities for students to
+specialist science instruction and integrates Amplify           explore computational thinking and basic
+engineering units, building a strong disciplinary               programming skills, but is it enough?
+foundation.
+
+
+
+
+Missing Elements
+Despite existing strengths, these grades lack explicit instruction in the engineering design process, artificial
+intelligence, coding depth, and digital citizenship, creating a disconnect in the K–12 STEM pathway.
+
+
+
+     To truly bridge the K–12 STEM pathway, we must leverage current strengths while intentionally addressing
+     critical skill gaps in Grades 4–5
+
+Middle School: Strong Foundations with Coherence
+Opportunity
+                                                            6th Grade              1
+  Tech 6 (5 Weeks): Digital Citizenship, PSA production, typing, and essential
+                                                                  digital skills
+ Tech 2 (5 Weeks): Engineering Design Process reintroduction with hands-on         2    7th Grade
+                                                    Bridge Building challenge           Every other day, semester-long: 3D design and CAD using Fusion 360,
+                                                                                        deconstructing objects, design challenges, and advanced modeling techniques
+                                                   8th Grade Core                  3
+ Every other day, semester-long: Automation & Robotics: Text-based coding
+ (RobotC), sensors, mechanisms—students build and program robots to solve
+                                                                                   4    8th Grade Electives
+                                                         real-world problems
+                                                                                        Four diverse options: Green Architecture (Revit, sustainability), CS for
+                                                                                        Innovators/Makers (Micro:bit), App Creators (MIT App Inventor), and Energy & the
+                                                                                        Environment (renewables, biomimicry, circuits)
+
+
+
+
+   Strength: High engagement and diversified options showcase a robust middle          Recommendation: Develop elective experiences which highlight basic python
+   school STEM ecosystem                                                               language skills and engineering design tactile building experiences
+
+High School STEM: Specialization Potential
+
+
+ PLTW Engineering Courses
+ •    Introduction to Engineering Design (IED)
+
+ •    Principles of Engineering (POE)
+
+ •    Civil Engineering & Architecture (CEA)
+
+ Advantage: College credit available when students meet performance criteria
+
+
+
+ Locally-Developed Architecture Courses
+ •    DDP (Design Drawing & Production)
+
+ •    Architecture Modeling I
+
+ •    Architecture Modeling II
+
+ •    Architecture Modeling III
+
+ Limitations: No college credits, no standardized curriculum, no PLTW sequence alignment
+
+
+
+            Aligning and Coordinating Pathways
+            Opportunity to create clear, cohesive progression through all STEM opportunities
+
+
+            Expanding College Credit Opportunities/Career Readiness
+            Ensuring predictable 4-year paths for transcriptable credits and future readiness
+
+
+            Diverse STEM Electives
+            Possibility of expanding electives to cater to broader student interests and career aspirations
+
+Strengthening Computer Science Pathways 9–12:
+Evolving for Future Readiness
+
+                 Current Course Sequence
+
+                 •   Computer Programming I (Alice)
+
+                 •   Computer Programming II (Java syntax)
+                 •   AP Computer Science Principles
+
+                 •   AP Computer Science A (Java)
+
+
+
+
+Alice: An Outdated Tool                        The Modern Alternative                     Industry Alignment
+Block-based animation environment not          Rewrite Programming I & II using Python    Build coherent progression from
+used in industry, disconnected from AP CS      as the foundational language, teaching     foundational Python through app design,
+courses, and misaligned with middle            computational thinking, universal coding   algorithms, and data analysis toward AP
+school coding experiences or PLTW CS           concepts, and real-world problem solving   CSP and AP CSA and possible electives
+options
+
+Strategic Recommendations
+
+
+Expand Opportunities in Grades 4-5                                                              Consider High School STEM Pathways
+
+Focus on expanding coding, design process, artificial intelligence, and digital citizenship     Modernize engineering design coursework via two strategic pathways:
+instruction while maintaining the Science Cluster model.
+                                                                                                 ●   Option A: Continue with Project Lead The Way (PLTW) Engineering
+                                                                                                     curriculum, leveraging existing strong teaching talent (requires specialized
+                                                                                                     expertise).
+                                                                                                 ●   Option B: Develop a locally-tailored engineering design sequence based on
+                                                                                                     district needs and student interests.
+Streamline High School Architecture
+Phase out DDP and Architecture Modeling I–III to prioritize PLTW sequence, eliminate overlap,
+maximize college credit opportunities, and ensure efficient staffing
+
+A Unified K–12 STEM Vision
+                                                            DL
+          K–3: Exploration Phase
+  Design thinking, foundational coding through
+Scratch Jr, and early engineering challenges that
+                                                            MSS
+spark curiosity and build STEM confidence with                            4–5: Integration Phase
+               introduction to digital citizenship                        Add engineering design, coding, AI literacy and
+
+                                                            IMS           digital citizenship integrated with applied
+          6–8: Application Phase
+                                                                          science, bridging elementary to middle school
+ CAD and 3D design, robotics and automation,
+                                                                          expectations
+physical computing, sustainability projects, app
+                                                            IHS
+                                                                          9–12: Specialization Phase
+     development—building technical skills and
+   problem-solving abilities; - emphasize ethics                          Coherent PLTW engineering sequence and/or
+
+                          and applications of AI                          modernized CS pathway leading to multiple
+                                                                          college credits, engineering portfolio, AP CS
+                                                                          credentials, and career-ready skills
+
+
+
+
+         K-12                                   100%                                            3-5
+Seamless Progression                            Student Access                             College Credits
+Every grade level connected through        Equitable STEM opportunities for all          Multiple transcriptable credits
+    intentional curriculum design                    Irvington students                available through PLTW pathway
+
+The Future
+Starts Now
+Our students deserve a cohesive, rigorous, and modern K–12 STEM experience that equips them for life beyond
+Irvington—whether college or career. This plan strengthens alignment, increases opportunities for advanced credentials,
+and ensures that our programs reflect the future our students will step into
+
+
+
+
+Coherent Pathway                                                Rigorous Standards
+Aligned K–12 progression with predictable sequences             Industry-aligned curriculum with recognized credentials
+
+
+
+
+Future-Ready Students
+Prepared for the demands of tomorrow's workforce and higher education
+

@@ -1,0 +1,21 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/goto?open&id=9UQFMX669439 | DATE: 2015-03-24 | TITLE: Regular Meeting* | 13.1 Budget Transfer 14/15 - 07
+
+Meeting: Mar 24, 2015 - Regular Meeting*
+Date: 2015-03-24
+Category: 13. Business Office Matters
+Subject: 13.1 Budget Transfer 14/15 - 07
+Type: Action (Consent)
+
+Budget Transfer 14/15-07
+
+					Debit A2630.160-00-0000
+
+					(Computer Non-Instructional Salaries)
+
+				$12,513.69
+
+					Credit A1680.490-00-000
+
+					(Central Data - BOCES)
+
+				$12,513.69

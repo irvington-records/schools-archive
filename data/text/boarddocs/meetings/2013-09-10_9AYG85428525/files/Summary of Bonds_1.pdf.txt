@@ -1,0 +1,439 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/pfiles/9B7QUH6AFAF3/$file/Summary%20of%20Bonds_1.pdf | DATE: 2013-09-10 | TITLE: Regular Meeting - 7:30 p.m.* | 8.1 2013 School District Refunding Serial Bonds - $9,500,000 | Summary of Bonds_1.pdf
+
+Sep 3, 2013 12:25 pm Prepared by NYMAC                                                                           Page 1
+
+
+                                                  SUMMARY OF BONDS REFUNDED
+
+                                                   Irvington Union Free School District
+                                                      Sample Refunding Bonds, 2013
+                                                        Refunding of Callable Bons
+                                                          Level Savings Scenario
+                                                          Rates as of 09/03/2013
+
+                                       Maturity          Interest              Par          Call          Call
+                     Bond               Date                Rate            Amount          Date         Price
+
+              School District (Serial) Bonds, 2004 Series B, SER04:
+                     SERIALS            08/15/2014         3.750%         975,000.00      01/06/2014   100.000
+                                        08/15/2015         3.750%       1,025,000.00      01/06/2014   100.000
+                                        08/15/2016         3.750%       1,070,000.00      01/06/2014   100.000
+                                        08/15/2017         4.000%       1,115,000.00      01/06/2014   100.000
+                                        08/15/2018         4.000%       1,160,000.00      01/06/2014   100.000
+                                        08/15/2019         4.000%       1,210,000.00      01/06/2014   100.000
+                                        08/15/2020         4.000%       1,255,000.00      01/06/2014   100.000
+                                        08/15/2021         4.250%       1,310,000.00      01/06/2014   100.000
+
+                                                                        9,120,000.00
+
+Sep 3, 2013 12:25 pm Prepared by NYMAC                                                            Page 2
+
+
+                                                 SOURCES AND USES OF FUNDS
+
+                                                Irvington Union Free School District
+                                                   Sample Refunding Bonds, 2013
+                                                     Refunding of Callable Bons
+                                                       Level Savings Scenario
+                                                       Rates as of 09/03/2013
+
+                             Sources:
+
+                             Bond Proceeds:
+                                 Par Amount                                      9,385,000.00
+
+                                                                                 9,385,000.00
+
+
+                             Uses:
+
+                             Refunding Escrow Deposits:
+                                 Cash Deposit                                            0.48
+                                 SLGS Purchases                                  9,261,075.00
+                                                                                 9,261,075.48
+
+                             Delivery Date Expenses:
+                                  Cost of Issuance                                  75,000.00
+                                  Underwriter's Discount                            46,925.00
+                                                                                   121,925.00
+
+                             Other Uses of Funds:
+                                 Additional Proceeds                                   1,999.52
+
+                                                                                 9,385,000.00
+
+Sep 3, 2013 12:25 pm Prepared by NYMAC                                                                       Page 3
+
+
+                                                                SAVINGS
+
+                                                  Irvington Union Free School District
+                                                     Sample Refunding Bonds, 2013
+                                                       Refunding of Callable Bons
+                                                         Level Savings Scenario
+                                                         Rates as of 09/03/2013
+
+                                                                                         Present Value
+                                                 Prior       Refunding                   to 12/05/2013
+                         Date             Debt Service     Debt Service         Savings @ 2.8239378%
+
+                       06/30/2014           180,200.00       158,036.39       22,163.61          22,043.09
+                       06/30/2015         1,317,118.75     1,279,646.25       37,472.50          35,966.18
+                       06/30/2016         1,329,618.75     1,291,697.50       37,921.25          35,557.04
+                       06/30/2017         1,335,337.50     1,300,141.25       35,196.25          32,187.36
+                       06/30/2018         1,337,975.00     1,299,025.00       38,950.00          34,811.97
+                       06/30/2019         1,337,475.00     1,297,317.50       40,157.50          35,010.55
+                       06/30/2020         1,340,075.00     1,304,827.50       35,247.50          29,934.22
+                       06/30/2021         1,335,775.00     1,296,832.50       38,942.50          32,224.49
+                       06/30/2022         1,337,837.50     1,298,268.75       39,568.75          31,889.38
+
+                                         10,851,412.50    10,525,792.64      325,619.86         289,624.28
+
+
+                                                           Savings Summary
+
+
+                                PV of savings from cash flow                       289,624.28
+                                Plus: Refunding funds on hand                        1,999.52
+
+                                Net PV Savings                                     291,623.80
+
+Sep 3, 2013 12:25 pm Prepared by NYMAC                                                                 Page 4
+
+
+                                                SUMMARY OF REFUNDING RESULTS
+
+                                                 Irvington Union Free School District
+                                                    Sample Refunding Bonds, 2013
+                                                      Refunding of Callable Bons
+                                                        Level Savings Scenario
+                                                        Rates as of 09/03/2013
+
+
+                      Dated Date                                                         12/05/2013
+                      Delivery Date                                                      12/05/2013
+                      Arbitrage yield                                                    2.823938%
+                      Escrow yield                                                       0.010181%
+
+                      Bond Par Amount                                                   9,385,000.00
+                      True Interest Cost                                                  2.950660%
+                      Effective Interest Cost                                             2.823938%
+                      Net Interest Cost                                                   2.959685%
+                      Average Coupon                                                      2.842753%
+                      Average Life                                                             4.276
+
+                      Par amount of refunded bonds                                      9,120,000.00
+                      Average coupon of refunded bonds                                    4.029719%
+                      Average life of refunded bonds                                           4.412
+
+                      PV of prior debt to 12/05/2013 @ 2.823938%                        9,674,624.28
+                      Net PV Savings                                                      291,623.80
+                      Percentage savings of refunded bonds                                3.197629%
+                      Percentage savings of refunding bonds                               3.107339%
+
+Sep 3, 2013 12:25 pm Prepared by NYMAC                                                                              Page 5
+
+
+                                                               BOND PRICING
+
+                                                      Irvington Union Free School District
+                                                         Sample Refunding Bonds, 2013
+                                                           Refunding of Callable Bons
+                                                             Level Savings Scenario
+                                                             Rates as of 09/03/2013
+
+                                           Maturity
+               Bond Component               Date                 Amount         Rate           Yield        Price
+
+               Serial Bonds:
+                                         02/15/2014              115,000      0.950%         0.950%       100.000
+                                         08/15/2014            1,065,000      1.050%         1.050%       100.000
+                                         08/15/2015            1,090,000      1.350%         1.350%       100.000
+                                         08/15/2016            1,115,000      1.650%         1.650%       100.000
+                                         08/15/2017            1,135,000      2.100%         2.100%       100.000
+                                         08/15/2018            1,160,000      2.550%         2.550%       100.000
+                                         08/15/2019            1,200,000      2.950%         2.950%       100.000
+                                         08/15/2020            1,230,000      3.300%         3.300%       100.000
+                                         08/15/2021            1,275,000      3.650%         3.650%       100.000
+
+                                                               9,385,000
+
+
+                               Dated Date                                  12/05/2013
+                               Delivery Date                               12/05/2013
+                               First Coupon                                02/15/2014
+
+                               Par Amount                               9,385,000.00
+                               Original Issue Discount
+
+                               Production                               9,385,000.00    100.000000%
+                               Underwriter's Discount                     -46,925.00     -0.500000%
+
+                               Purchase Price                           9,338,075.00         99.500000%
+                               Accrued Interest
+
+                               Net Proceeds                             9,338,075.00
+
+Sep 3, 2013 12:25 pm Prepared by NYMAC                                                                        Page 6
+
+
+                                                   BOND DEBT SERVICE
+
+                                              Irvington Union Free School District
+                                                 Sample Refunding Bonds, 2013
+                                                   Refunding of Callable Bons
+                                                     Level Savings Scenario
+                                                     Rates as of 09/03/2013
+
+                  Period                                                                            Annual
+                  Ending          Principal     Coupon             Interest    Debt Service    Debt Service
+
+                02/15/2014         115,000      0.950%          43,036.39        158,036.39
+                06/30/2014                                                                      158,036.39
+                08/15/2014       1,065,000      1.050%         110,118.75      1,175,118.75
+                02/15/2015                                     104,527.50        104,527.50
+                06/30/2015                                                                     1,279,646.25
+                08/15/2015       1,090,000      1.350%         104,527.50      1,194,527.50
+                02/15/2016                                      97,170.00         97,170.00
+                06/30/2016                                                                     1,291,697.50
+                08/15/2016       1,115,000      1.650%          97,170.00      1,212,170.00
+                02/15/2017                                      87,971.25         87,971.25
+                06/30/2017                                                                     1,300,141.25
+                08/15/2017       1,135,000      2.100%          87,971.25      1,222,971.25
+                02/15/2018                                      76,053.75         76,053.75
+                06/30/2018                                                                     1,299,025.00
+                08/15/2018       1,160,000      2.550%          76,053.75      1,236,053.75
+                02/15/2019                                      61,263.75         61,263.75
+                06/30/2019                                                                     1,297,317.50
+                08/15/2019       1,200,000      2.950%          61,263.75      1,261,263.75
+                02/15/2020                                      43,563.75         43,563.75
+                06/30/2020                                                                     1,304,827.50
+                08/15/2020       1,230,000      3.300%          43,563.75      1,273,563.75
+                02/15/2021                                      23,268.75         23,268.75
+                06/30/2021                                                                     1,296,832.50
+                08/15/2021       1,275,000      3.650%          23,268.75      1,298,268.75
+                06/30/2022                                                                     1,298,268.75
+
+                                 9,385,000                   1,140,792.64     10,525,792.64   10,525,792.64
+
+Sep 3, 2013 12:25 pm Prepared by NYMAC                                                                                Page 7
+
+
+                                                    BOND SUMMARY STATISTICS
+
+                                                   Irvington Union Free School District
+                                                      Sample Refunding Bonds, 2013
+                                                        Refunding of Callable Bons
+                                                          Level Savings Scenario
+                                                          Rates as of 09/03/2013
+
+                               Dated Date                                           12/05/2013
+                               Delivery Date                                        12/05/2013
+                               Last Maturity                                        08/15/2021
+
+                               Arbitrage Yield                                      2.823938%
+                               True Interest Cost (TIC)                             2.950660%
+                               Net Interest Cost (NIC)                              2.959685%
+                               All-In TIC                                           3.155138%
+                               Average Coupon                                       2.842753%
+
+                               Average Life (years)                                         4.276
+                               Duration of Issue (years)                                    4.009
+
+                               Par Amount                                         9,385,000.00
+                               Bond Proceeds                                      9,385,000.00
+                               Total Interest                                     1,140,792.64
+                               Net Interest                                       1,187,717.64
+                               Total Debt Service                                10,525,792.64
+                               Maximum Annual Debt Service                        1,304,827.50
+                               Average Annual Debt Service                        1,367,973.05
+
+                               Underwriter's Fees (per $1000)
+                                Average Takedown
+                                Other Fee                                                5.000000
+
+                               Total Underwriter's Discount                              5.000000
+
+                               Bid Price                                             99.500000
+
+
+                                                                     Par                     Average   Average
+                Bond Component                                      Value        Price       Coupon       Life
+
+                Serial Bonds                                  9,385,000.00    100.000        2.843%      4.276
+
+                                                              9,385,000.00                               4.276
+
+
+                                                                                          All-In          Arbitrage
+                                                                   TIC                     TIC               Yield
+
+           Par Value                                       9,385,000.00          9,385,000.00          9,385,000.00
+            + Accrued Interest
+            + Premium (Discount)
+            - Underwriter's Discount                         -46,925.00            -46,925.00
+            - Cost of Issuance Expense                                             -75,000.00
+            - Other Amounts
+
+           Target Value                                    9,338,075.00          9,263,075.00          9,385,000.00
+
+           Target Date                                      12/05/2013            12/05/2013             12/05/2013
+           Yield                                            2.950660%             3.155138%              2.823938%
+
+Sep 3, 2013 12:25 pm Prepared by NYMAC                                                                        Page 8
+
+
+                                               PRIOR BOND DEBT SERVICE
+
+                                              Irvington Union Free School District
+                                                 Sample Refunding Bonds, 2013
+                                                   Refunding of Callable Bons
+                                                     Level Savings Scenario
+                                                     Rates as of 09/03/2013
+
+                  Period                                                                            Annual
+                  Ending          Principal     Coupon             Interest    Debt Service    Debt Service
+
+                02/15/2014                                     180,200.00        180,200.00
+                06/30/2014                                                                      180,200.00
+                08/15/2014         975,000      3.750%         180,200.00      1,155,200.00
+                02/15/2015                                     161,918.75        161,918.75
+                06/30/2015                                                                     1,317,118.75
+                08/15/2015       1,025,000      3.750%         161,918.75      1,186,918.75
+                02/15/2016                                     142,700.00        142,700.00
+                06/30/2016                                                                     1,329,618.75
+                08/15/2016       1,070,000      3.750%         142,700.00      1,212,700.00
+                02/15/2017                                     122,637.50        122,637.50
+                06/30/2017                                                                     1,335,337.50
+                08/15/2017       1,115,000      4.000%         122,637.50      1,237,637.50
+                02/15/2018                                     100,337.50        100,337.50
+                06/30/2018                                                                     1,337,975.00
+                08/15/2018       1,160,000      4.000%         100,337.50      1,260,337.50
+                02/15/2019                                      77,137.50         77,137.50
+                06/30/2019                                                                     1,337,475.00
+                08/15/2019       1,210,000      4.000%          77,137.50      1,287,137.50
+                02/15/2020                                      52,937.50         52,937.50
+                06/30/2020                                                                     1,340,075.00
+                08/15/2020       1,255,000      4.000%          52,937.50      1,307,937.50
+                02/15/2021                                      27,837.50         27,837.50
+                06/30/2021                                                                     1,335,775.00
+                08/15/2021       1,310,000      4.250%          27,837.50      1,337,837.50
+                06/30/2022                                                                     1,337,837.50
+
+                                 9,120,000                   1,731,412.50     10,851,412.50   10,851,412.50
+
+Sep 3, 2013 12:25 pm Prepared by NYMAC                                                       Page 9
+
+
+                                               ESCROW REQUIREMENTS
+
+                                            Irvington Union Free School District
+                                               Sample Refunding Bonds, 2013
+                                                 Refunding of Callable Bons
+                                                   Level Savings Scenario
+                                                   Rates as of 09/03/2013
+
+                                 Period                         Principal
+                                 Ending          Interest      Redeemed              Total
+
+                               01/06/2014     141,156.67     9,120,000.00     9,261,156.67
+
+                                              141,156.67     9,120,000.00     9,261,156.67
+
+Sep 3, 2013 12:25 pm Prepared by NYMAC                                                                  Page 10
+
+
+                                                          ESCROW COST
+
+                                                 Irvington Union Free School District
+                                                    Sample Refunding Bonds, 2013
+                                                      Refunding of Callable Bons
+                                                        Level Savings Scenario
+                                                        Rates as of 09/03/2013
+
+                          Type of         Maturity              Par                            Total
+                          Security         Date              Amount       Rate                 Cost
+
+                          SLGS           01/06/2014        9,261,075 0.010%             9,261,075.00
+
+                                                           9,261,075                    9,261,075.00
+
+
+                           Purchase            Cost of      Cash               Total
+                             Date            Securities   Deposit        Escrow Cost            Yield
+
+                          12/05/2013        9,261,075         0.48       9,261,075.48      0.010181%
+
+                                            9,261,075         0.48       9,261,075.48
+
+Sep 3, 2013 12:25 pm Prepared by NYMAC                                                                           Page 11
+
+
+                                                       ESCROW CASH FLOW
+
+                                                  Irvington Union Free School District
+                                                     Sample Refunding Bonds, 2013
+                                                       Refunding of Callable Bons
+                                                         Level Savings Scenario
+                                                         Rates as of 09/03/2013
+
+                                                                                                 Present Value
+                                                                                   Net Escrow    to 12/05/2013
+                Date                  Principal                 Interest             Receipts   @ 0.0101810%
+
+             01/06/2014           9,261,075.00                    81.19          9,261,156.19     9,261,075.00
+
+                                  9,261,075.00                    81.19          9,261,156.19     9,261,075.00
+
+
+                                                        Escrow Cost Summary
+
+
+                              Purchase date                                       12/05/2013
+                              Purchase cost of securities                       9,261,075.00
+
+                              Target for yield calculation                      9,261,075.00
+
+Sep 3, 2013 12:25 pm Prepared by NYMAC                                                                       Page 12
+
+
+                                                     ESCROW SUFFICIENCY
+
+                                                 Irvington Union Free School District
+                                                    Sample Refunding Bonds, 2013
+                                                      Refunding of Callable Bons
+                                                        Level Savings Scenario
+                                                        Rates as of 09/03/2013
+
+                                      Escrow               Net Escrow                    Excess     Excess
+                Date              Requirement                Receipts                   Receipts   Balance
+
+             12/05/2013                                          0.48                       0.48      0.48
+             01/06/2014           9,261,156.67           9,261,156.19                      -0.48
+
+                                  9,261,156.67           9,261,156.67                      0.00
+
+Sep 3, 2013 12:25 pm Prepared by NYMAC                                                                                  Page 13
+
+
+                                                      ESCROW STATISTICS
+
+                                                Irvington Union Free School District
+                                                   Sample Refunding Bonds, 2013
+                                                     Refunding of Callable Bons
+                                                       Level Savings Scenario
+                                                       Rates as of 09/03/2013
+
+                            Modified     Yield to          Yield to                  Perfect    Value of
+                  Total     Duration     Receipt      Disbursement                   Escrow    Negative       Cost of
+            Escrow Cost      (years)        Date              Date                     Cost    Arbitrage   Dead Time
+
+  Global Proceeds Escrow:
+            9,261,075.48       0.086   0.010181%            0.010181%        9,238,820.58      22,254.90
+
+           9,261,075.48                                                      9,238,820.58      22,254.90        0.00
+
+
+                                          Delivery date                 12/05/2013
+                                          Arbitrage yield               2.823938%
+

@@ -1,0 +1,43 @@
+SOURCE https://www.irvingtonschools.org/cms/lib/NY02208289/Centricity/Domain/1039/SchoolWires.docx | DATE 2023-10-25 | TITLE SchoolWires.docx
+
+SchoolWires - https://ny02208289.schoolwires.net/
+
+Site - Irvington UFSD
+	Subsites - Dows Lane
+		Channels - (Green menu under Logo)
+Sections - Links under Channels
+	Pages - Individual pages in sections
+
+Content - placed inside Apps (Widgets, container)
+	(https://sw00000004.schoolwires.net/ training site)
+
+Site Management - dependent on user level
+	Blue - access to site
+	Red - access to channel
+		Channels can be hidden, or assigned to user categories
+Green - access to section
+Options -
+	Section Name - back end
+	Menu Name - user end
+Move - Can move throughout entire site
+Delete - Remove section to site Recycle Bin
+
+New Page
+	Page Name
+	Template - Blank page with 1 app as labeled on it.
+Pops up new window with page and app
+	Faint line denotes columns
+Apps - list of apps to add to page
+Layout - change layout
+WYSIWYG page editing
+	Content must be tagged appropriately & meet compliance
+Text color - high contrast
+	Can enter directly to source code
+
+Compliance - American Disability Act
+	Linking - click  here (not compliant)
+		Clickable text needs to be
+Self describing
+Long enough for mobility - use entire title of link.
+		Open link in new window if outside of site
+		Open link in same page if same site

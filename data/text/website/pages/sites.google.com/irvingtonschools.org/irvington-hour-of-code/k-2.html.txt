@@ -1,0 +1,17 @@
+SOURCE https://sites.google.com/irvingtonschools.org/irvington-hour-of-code/k-2 | DATE unknown | TITLE Hour of Code at Irvington UFSD - K-2
+
+Embedded Files
+Draw a computer and its parts! Get to know CPU, RAM and ROM, Mass Storage and GPU.
+Type: Unplugged activity
+You will need pen, paper, scissors.
+The baby animals need your help!
+Learn to program using basic commands and clean up the beach to protect ocean life.
+Type: Block coding
+Have you ever wondered what travels inside the wires of your computer?
+Watch these videos to learn more about the technology we see everyday in our world and how to think like a coder! Topics include code, hardware, networks, AI and other interesting ideas.
+Rodocodo: Code Hour is a self-guided coding game for 4-11 year olds. It teaches the fundamentals of coding such as sequencing, debugging, loops and functions. It also teaches techniques for solving problems so children become more confident, independent learners.
+In a world filled with captivating creatures and bright colors, 4-6 year olds will join a monkey on a mission to collect bananas and unlock treasure chests. All the while, they will explore and learn the basics of code as they use blocks to program a monkey's journey through the world.
+Help a Beaver achieve its goals! Dive into this beaver's natural habitat with a fun-packed coding activity that will jump-start your coding education. Beavers can swim, collect wood, and build dams. This little beaver needs your help. Click "Start Playing" (sign-in not required)
+Images retrieved from https://hourofcode.com/us/learn
+Page updated 
+Report abuse

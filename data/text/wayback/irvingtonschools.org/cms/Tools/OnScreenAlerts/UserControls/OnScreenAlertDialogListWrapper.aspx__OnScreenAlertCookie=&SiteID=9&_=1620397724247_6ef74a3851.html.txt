@@ -1,0 +1,209 @@
+SOURCE https://www.irvingtonschools.org/cms/Tools/OnScreenAlerts/UserControls/OnScreenAlertDialogListWrapper.aspx?OnScreenAlertCookie=&SiteID=9&_=1620397724247 | DATE 2021-05-07 | TITLE OnScreenAlertDialogListWrapper.aspx
+
+<script type="text/javascript">
+    // setTimeout is used for the .focus() calls because 
+    // Firefox ignores it if it's called while the browser 
+    // is already busy setting focus. 
+
+    $(document).ready(function() {
+        $(document).on('click', '#onscreenalert-ctrl-gotit', function() {
+            //OnScreenAlertGotItDialog('5/7/2021 9:28:46 AM');
+            OnScreenAlertGotItDialog('5/7/2021 10:28:46 AM');
+            setTimeout(function() {
+                $("#onscreenalert-message-dialog-icon").focus();
+            }, 10);
+        });
+        
+        $('#onscreenalert-ctrl-gotit').keydown(function (e) {
+            if (e.keyCode == 9) {
+                e.preventDefault();
+                e.stopImmediatePropagation();
+                if (e.shiftKey) {
+                    if ($('#onscreenalertdialoglist li:last a').length > 0) {
+                        setTimeout(function() {
+                            $('#onscreenalertdialoglist li:last').find('a').last().focus();
+                        }, 10);
+                    }
+                    else {
+                        setTimeout(function() {
+                            $('#onscreenalertdialoglist li:last').focus();
+                         }, 10);
+                    }
+                }
+                else {
+                    setTimeout(function() {
+                        $('.onscreenalert-ctrl-content').get(0).focus();
+                    }, 0);
+                }
+            }
+        });
+
+        $('.onscreenalert-ctrl-content').keydown(function (e) {
+            if (e.keyCode == 9) {
+                e.preventDefault();
+                e.stopImmediatePropagation();
+                if (e.shiftKey) {
+                    setTimeout(function() {
+                        $('#onscreenalert-ctrl-gotit').focus();
+                    }, 10);
+                }
+                    else {
+                    setTimeout(function() {
+                        $('#onscreenalert-message-dialog-icon').focus();
+                    }, 10);
+                }
+            }
+            else if (e.keyCode == 13 && $("#onscreenalert-ctrl-gotit:visible").length == 0) {
+                $('#onscreenalert-message-dialog-icon').click();
+            }
+        });
+        
+        $('#onscreenalert-message-dialog-icon').keydown(function (e) {
+            var isDialogOpened = ($("#onscreenalert-ctrl-gotit:visible").length > 0);
+            if (e.keyCode == 9 && isDialogOpened) {
+                e.preventDefault();
+                e.stopImmediatePropagation();
+                if (e.shiftKey) {
+                    setTimeout(function() {
+                        $('.onscreenalert-ctrl-content').focus();
+                    }, 10);
+                } else {
+                    setTimeout(function() {
+                        $('#onscreenalert-ctrl-msglist [tabindex=0]:first').focus();
+                    }, 10);
+                }
+            }
+            else if (e.keyCode == 9 && !isDialogOpened && e.shiftKey) {
+                e.preventDefault();
+                e.stopImmediatePropagation();
+                setTimeout(function() {
+                    $(this).focus();
+                }, 10);
+            }
+        });
+
+        $('#onscreenalertdialoglist li[tabindex=0]').keydown(function (e) {
+            if (e.keyCode == 9) {
+                e.preventDefault();
+                e.stopImmediatePropagation();
+                if (e.shiftKey) {
+                    if ($(this).prev('#onscreenalertdialoglist li[tabindex=0]').length > 0) {
+                        if ($(this).prev('#onscreenalertdialoglist li[tabindex=0]').find('a').length > 0) {
+                            $(this).prev('#onscreenalertdialoglist li[tabindex=0]').find('a').last().focus();
+                        }
+                        else {
+                             $(this).prev('#onscreenalertdialoglist li[tabindex=0]').focus();
+                        }
+                    }
+                    else {
+                        setTimeout(function() {
+                            $('#onscreenalert-message-dialog-icon').focus();
+                        }, 10);
+                    }
+                } else {
+                    if ($(this).find('a').length > 0) {
+                        $(this).find('a').first().focus();
+                    }
+                    else if ($(this).next('#onscreenalertdialoglist li[tabindex=0]').length > 0) {
+                        $(this).next('#onscreenalertdialoglist li[tabindex=0]').focus();
+                    }
+                    else {
+                        setTimeout(function() {
+                            $('#onscreenalert-ctrl-gotit').focus();
+                        }, 10);
+                    }
+                    
+                }
+            }
+        });
+
+        $('#onscreenalertdialoglist li[tabindex=0] a').keydown(function(e) {
+            if (e.keyCode == 9) {
+                e.preventDefault();
+                e.stopImmediatePropagation();
+
+                var index = $(this).parents('li').find('a').index($(this));
+                var linkArray = $(this).parents('li').find('a').toArray();
+                var prevIndex = index - 1;
+                var nextIndex = index + 1;
+
+                if (e.shiftKey) {
+                    if (index > 0) {
+                        $(this).parents('li').find('a').get(prevIndex).focus();
+                    }
+                    else {
+                        $(this).parents('li').focus();
+                    }
+                }
+                else {
+                    if ($(this).parents('li').find('a').get(nextIndex)) {
+                         $(this).parents('li').find('a').get(nextIndex).focus();
+                    }
+                    else {
+                        if ($(this).parents('li').next().length > 0) {
+                             $(this).parents('li').next().focus();
+                        }
+                        else {
+                            setTimeout(function() {
+                                $('#onscreenalert-ctrl-gotit').focus();
+                            }, 10);
+                        }
+                    }
+                }
+            }
+        });
+        
+        $(document).on('click', '#onscreenalert-message-dialog-icon', function() {
+            if ($('#onscreenalert-message-dialog').hasClass('Smaller')) {
+                OnScreenAlertOpenDialog(9);
+            }
+        });
+
+        $('#onscreenalert-message-dialog-icon').keydown(function(e) {
+            e.stopImmediatePropagation();
+            if (e.keyCode == 13) {
+                $(this).click();
+            }
+        });
+
+        $("#onscreenalert-ctrl-content-icon").hover(function() {
+            if ($('#onscreenalert-message-dialog').hasClass('Smaller')) {
+                $("#sw-important-message-tooltip").show();
+            }
+        }, function() {
+            if ($('#onscreenalert-message-dialog').hasClass('Smaller')) {
+                $("#sw-important-message-tooltip").hide();
+            }
+        });
+    });
+</script>
+
+<style>
+    #onscreenalert-message-dialog *:focus, x:-moz-any-link, x:default { 
+        outline: 1px dashed #333;
+    } 
+    #onscreenalert-message-dialog:focus, x:-moz-any-link, x:default { 
+        outline: 1px dashed #333;
+    } 
+</style>
+
+<div id="onscreenalert-message-dialog" class="onscreenalert-ctrl-modal">
+    <div class="onscreenalert-ctrl-content" tabindex="0" role="dialog">
+        <h3 id="onscreenalert-message-dialog-icon" tabindex="0">
+            <span id="onscreenalert-ctrl-content-icon" class="icon-icon_alert_round_message">!</span>
+            <span class="titleMessage">Important Message</span>
+        </h3>
+
+        <div id="onscreenalert-ctrl-msglist">
+            <ul id="onscreenalertdialoglist" ><li id=52 tabindex="0"><p><strong>Voter Registration &amp; Election Information</strong><br /><strong>for Annual School Budget Vote &amp; Board of Education Trustee Election</strong><br /><strong>May 18th, 2021 at Main Street School</strong></p><br /><p>The Annual School Budget Vote &amp; Board of Education Trustee Election, May 18th, 2021.</p><br /><p>Register to Vote and Vote on Election Day - Let your voice be heard!<br /> <br />In-person registration will be held in the lobby of the Main Street School, Thursday May 6, 2021 between 3pm and 7pm. If you are unable to attend the voter registration event on May 6th, please contact the District Clerk to register at 914 269-5011, until May 13th. Qualified voters who are registered with the Westchester County Board of Elections are eligible to vote at school district elections and do not need to register. You may register with the Westchester County Board of Elections by mail or through the Department of Motor Vehicles at <a href="https://dmv.ny.gov/more-info/electronic-voter-registration-application" target="_blank" rel="noopener noreferrer">https://dmv.ny.gov/more-info/electronic-voter-registration-application</a>.<br /> <br /><span style="text-decoration: underline;"><strong>On the day of the election, Tuesday, May 18th, voting will be held in-person at the Main Street School from 7am - 9pm</strong></span>. You may also vote by absentee ballot. Applications for absentee ballots may be obtained at the office of the District Clerk by appointment or may be downloaded from the District website (in English or Spanish). Please note that a bill recently signed into law will allow registered voters to request an absentee ballot as a result of COVID-19. Completed applications must be received by the District Clerk at least seven days before the vote if the ballot is to be mailed to the voter, or the day before the vote if the ballot is to be picked up personally by the voter. Completed ballots must be received in the District Clerk's office no later than 5:00 PM on Election Day, May 18th. <br /> <br />Additional information regarding the Budget and the Trustees may be found on the District website, <a href="https://www.irvingtonschools.org" target="_blank" rel="noopener noreferrer">https://www.irvingtonschools.org</a>.</p></li></ul>
+            <input type="hidden" id="onscreenalertdialoglist-hid-showokgotit" value="True">
+            <input type="hidden" id="onscreenalertdialoglist-hid-showstickybar" value="False">
+        </div>
+        <div class="onscreenalert-ctrl-footer">
+            <button id="onscreenalert-ctrl-gotit" class="bb-butt" tabindex="0">OK, got it.</button>
+        </div>
+    </div>
+</div>
+
+<div id="onscreenalert-ctrl-mask"></div>
+<div id="sw-important-message-tooltip" class="sw-important-messagetooltip">View important message</div>

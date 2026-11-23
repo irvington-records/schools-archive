@@ -1,0 +1,93 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/goto?open&id=8V2HX44A3E09 | DATE: 2012-06-19 | TITLE: Special Meeting - 7:30 p.m. | 10.6 Budget Transfers
+
+Meeting: Jun 19, 2012 - Special Meeting - 7:30 p.m.
+Date: 2012-06-19
+Category: 10. Business Office Matters
+Subject: 10.6 Budget Transfers
+Type: Action (Consent)
+
+Budget Transfer 2011/12-30
+
+	Credit     A1240-150 (Chief Sch. Adm.-Salary)                  $900 (Dr. Harrison)
+
+	Debit      A1240-160 (C.S.A.-Non-Instruct. Salaries)          $900
+
+	Credit     A1620-161-00-001 (Cust. OT- Recreation)          $418 (custodial OT)
+
+	Debit      A1620-161 (Custodial OT)                                    $418
+
+	Credit    A1620-163 (Cust. Substitutes)                              $1,976 (sub-cleaners)
+
+	Debit     A1620-161 (Custodial OT)                                     $1,976
+
+	Credit    A2020-150 (Supervision-Instruc.)                         $14,307 (Interim HS AP & Adm. Vac. buy back)
+
+	Debit     A2110-110 (K-3 Instruct. Salaries)                         $14,307
+
+	Credit    A2110-130 (7-12 Instruct. Salaries)                       $1,955 (per diem leave replace)
+
+	Debit     A2110-133 (7-12 Prog. Chairs - Summer wk)        $1,955
+
+	Credit    A2250-150 (Spec. Ed-Instruct. Salaries)               $3,000 (leave replace)
+
+	Debit     A2250-160 (Spec. Ed - Non-Inst. Salaries)            $3,000
+
+	Credit    A2250-150-00-0001 (Spec. Ed Sal.=- CSE Chair)  $3,067 (Adm. Vac. buy back)
+
+	Debit     A2250-160 (Spec. Ed - Non-Inst. Salaries)            $3,067
+
+	Credit   A2855-150 (Intersch. Instr. Coaches Sal.)              $1,242 (Spring Coaches)
+
+	Debit     A2855-155 (Intersch. -Timekeeper)                        $1,242
+
+	Credit    A2855-151 (Intersch-Chaperone)                          $975 (Athletic games-chaperone)
+
+	Debit     A2855-155 (Intersch. -Timekeeper)                        $975
+
+	Credit    A2855-160 (Intersch-Non-Inst. Coaches Sal)        $47,133 (Spring Coaches)
+
+	Debit     A2110-138 (7-12 Health Payout) $22,000 & A2210-140 (Sub. Teachers salaries)  $25,133
+
+	Credit   A2855-161 (Intersch-Chaperone)                           $2,850 ( athletic chaperones)
+
+	Debit    A2855-490 (Intersch.-BOCES)                                $2,850
+
+	Credit   A2855-165 (Intersch - Timekeeper)                        $640 (timekeeper-athletic games)
+
+	Debit    A2855-160-00-0001(Intersch. -Non-Instr. sal)        $640
+
+	These transfers are to cover the June 8, 2012 payroll.
+
+	Budget Transfer 2011/12-31
+
+	Credit   A2250-400-40 (Spec. Ed-Other Exp)                      $55,800
+
+	Debit    A5540-400-00-2250 (Transp.-Spec. Ed)                $55,800
+
+	This transfer is to cover settlements for private Special Ed. placements - BOE approval 6/5/12.
+
+	Budget Transfer 2011/12-32
+
+	Credit   A9060-800 (Hospital & Medical Insurance)             $22,187
+
+	Debit    A9030-800 (Social Security)                                   $22,187
+
+	This transfer is to cover the Medicare reimbursements for retirees.
+
+	Budget Transfer 2011/12-33
+
+	Credit   A5540-400-00-001(Transp-Zone 1- Private Schs) $30,000
+
+	Debit    A5540-400-00-2250 (Transp. - Spec. Ed)               $30,000
+
+	This transfer is to adjust code to cover Private School busing.
+
+	Budget Transfer 2011/12-34
+
+	Credit  A2250-490-00-2250 (BOCES Special Ed)                $25,000
+
+	Debit A2250-400-50-2250 (JCOS Sp Ed Contractural)        $25,000
+
+	This transfer is to cover speech/language, occuptional
+
+	therapy at JCOS.

@@ -1,0 +1,23 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/goto?open&id=8PKM6E59B0C7 | DATE: 2012-01-10 | TITLE: Regular Public Meeting | 9.5 Budget Transfers
+
+Meeting: Jan 10, 2012 - Regular Public Meeting
+Date: 2012-01-10
+Category: 9. Business Office Matters
+Subject: 9.5 Budget Transfers
+Type: Action (Consent)
+
+Budget Transfer 2011/12-12
+
+	       Debit  A9760-700-00-0000 (T.A.N. Interest)  $24,216
+
+	       Credit A5540-400-00-0000 (Transp. In-Dist) $24,216
+
+	This is a contractual agreement that is part of the Quality Bus contract to pay for In-District fuel costs.
+
+	Budget Transfer 2011/12-13
+
+	       Debit  A2110-110-00-0000 (K-3 Instructional Salaries) $25,000
+
+	       Credit A1240-401-00-0000 (C.S.A.-Supt. Search)        $25,000
+
+	This is to cover reimbursable expenses to HYA connected with the Supt. search.

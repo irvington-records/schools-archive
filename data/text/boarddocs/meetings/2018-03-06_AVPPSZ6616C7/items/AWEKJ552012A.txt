@@ -1,0 +1,152 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/goto?open&id=AWEKJ552012A | DATE: 2018-03-06 | TITLE: Regular Meeting | 9.5 Appointment of Spring Coaching Positions
+
+Meeting: Mar 06, 2018 - Regular Meeting
+Date: 2018-03-06
+Category: 9. Personnel Matters
+Subject: 9.5 Appointment of Spring Coaching Positions
+Type: Action (Consent)
+
+SPORT
+			TYPE
+			NAME
+			GROUP
+			STEP
+			STIPEND
+
+			Baseball
+			Varsity Head
+			Michael DiNardo
+			III
+			6
+			$7,322.00
+
+			Baseball
+			JV Head
+			Jose Rodriquez
+			III
+			1
+			$4,937.00
+
+			Baseball
+			Mod Head
+
+			III
+
+			Boys LaCrosse
+			Varsity Head
+			Michael Schaeffer
+			III
+			1
+			$7,053.00
+
+			Boys LaCrosse
+			Mod Head
+			Brian Agosti
+			III
+			8
+			$4,458.00
+
+			Boys Tennis
+			Varsity Head
+			Dylan DeBiase
+			IV
+			33
+			$5,546.00
+
+			Boys Tennis
+			JV Head
+			Richard Urban
+			IV
+			8
+			$4,070.00
+
+			Boys Tennis
+			Mod Head
+			Carol Labella
+			IV
+			6
+			$3,424.00
+
+			Girls Lacrosse
+			Varsity Head
+			Patrick DiBenedetto
+			III
+			8
+			$7,430.00
+
+			Girls Lacrosse
+			JV Head
+			Beth Staropoli
+			III
+			2
+			$4,975.00
+
+			Girls Lacrosse
+			Mod Head
+			Danielle Rodriguez
+			III
+			1
+			$4,232.00
+
+			Golf
+			Varsity Head
+			Kate Becker
+			V
+			5
+			$4,576.00
+
+			Softball
+			Varsity Head
+			Martin Resendiz
+			III
+			8
+			$7,430.00
+
+			Softball
+			JV Head
+			Tiffany Flynn
+			III
+			3
+			$5,013.00
+
+			Softball
+			Mod Head
+			James Horan
+			III
+			1
+			$4,232.00
+
+			Track (Boys)
+			Varsity Head
+			Chris Barry
+			III
+			8
+			$7,430.00
+
+			Track (Girls)
+			Varsity Head
+			Skylar Mosenthal
+			III
+			1
+			$7,053.00
+
+			Track (Boys/Girls)
+			Varsity Asst.
+			Deryl Thornton
+			III
+			8
+			$4,830.00
+
+			Track ( Boys and Girls)
+			Mod Head
+			James Buckley
+			III
+			8
+			$4,458.00
+
+			Track ( Boys and Girls)
+			Mod Asst
+			Gina Maher
+			III
+			8
+			$4,087.00

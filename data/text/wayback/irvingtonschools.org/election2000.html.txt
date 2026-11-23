@@ -1,0 +1,12 @@
+SOURCE http://www.irvingtonschools.org:80/election2000.html | DATE 2001-04-23 | TITLE Election Results
+
+Election Results May 16, 2000
+The Results of the Irvington School District Election are as follows:
+Budget:
+Yes - 706
+No - 252
+Trustees:
+Paul Mandel - 767
+Janice Silverberg - 725
+Write-in Votes - 3
+Paul Mandel and Janice Silverberg will begin their second three year term on July 1, 2000.

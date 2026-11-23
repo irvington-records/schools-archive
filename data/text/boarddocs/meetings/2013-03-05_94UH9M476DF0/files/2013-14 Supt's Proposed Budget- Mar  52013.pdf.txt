@@ -1,0 +1,440 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/pfiles/95HJU94E87CB/$file/2013-14%20Supt's%20Proposed%20Budget-%20Mar%20%2052013.pdf | DATE: 2013-03-05 | TITLE: Regular Meeting - 7:30 p.m.* | 11.1 Superintendent's 2013-14 Proposed Budget | 2013-14 Supt's Proposed Budget- Mar  52013.pdf
+
+IRVINGTON UFSD
+
+
+Superintendent’s Proposed
+2013-14 BUDGET
+
+
+March 5, 2013
+
+                                  IRVINGTON UNION FREE SCHOOL DISTRICT
+
+                                  Proposed Budget Summary 2013-14
+
+
+                                                      2012-13       2013-14
+                                    2012-13         ESTIMATED      PROPOSED
+CODE    DESCRIPTION                 BUDGET           TO SPEND       BUDGET       CHANGE
+
+ 1000   Board of Education             59,820             58,793        65,919        6,099
+ 1200   Chief School Admin.           348,068            332,076       339,768       (8,300)
+ 1300   Finance                       614,256            617,302       623,391        9,135
+ 1400   Staff                         349,395            400,239       390,025       40,630
+ 1600   Operation & Maint           3,182,645          3,133,245     3,542,237      359,592
+ 1670   Messenger/Mailing              58,240             55,900        57,900         (340)
+ 1680   Central Data Processing             0                  0       135,774      135,774
+ 1900   Special Items                 405,751            404,444       413,069        7,318
+ 2000   Inst.Improv./Admin          1,600,783          1,589,506     1,680,268       79,485
+ 2110   Instruction                15,304,098         15,363,867    15,645,350      341,252
+ 2200   Special Education           7,155,761          7,097,421     7,490,589      334,828
+ 2280   Occupational Education        100,236             95,611        96,067       (4,169)
+ 2600   Library                       514,293            504,757       506,726       (7,567)
+ 2630   Instructional Tech            834,727            689,813       873,754       39,027
+ 2800   Pupil Personnel Svcs        1,668,029          1,634,117     1,732,212       64,183
+ 2850   Co-Curricular                 108,350            108,561       113,400        5,050
+ 2855   Interscholastic               640,445            622,515       648,028        7,583
+ 5500   Transportation              2,268,782          2,130,322     2,228,630      (40,152)
+ 9000   Employee Benefits          10,311,405         10,285,720    11,710,114    1,398,709
+ 9700   Debt Service                5,270,916          5,270,916     5,371,361      100,445
+ 9900   Interfund Transfers           360,000            406,712       117,000     (243,000)
+
+        TOTAL BUDGET              $51,156,000        $50,801,837   $53,781,582   $2,625,582
+
+                                  Includes B.A.N. for tax certs.                      5.13%
+
+                                                IRVINGTON UNION FREE SCHOOL DISTRICT
+
+                                                                                     2012-13              2013-14
+                                                                  2012-13          ESTIMATED            PROPOSED
+CODE                 DESCRIPTION                                 BUDGET             TO SPEND             BUDGET            CHANGE
+
+1010 Board of Education
+      400          Other Expense                                     30,960              32,000              38,500        0   7,540
+      450          Supplies                                           1,000               1,000               1,100        0     100
+                        Total Board of Education             $       31,960    $         33,000     $        39,600    $       7,640
+
+1040 District Clerk
+      160           Clerical Salaries                        $       13,250    $         13,193     $        13,459    $         209
+      400           Other Expense                                     3,200               3,200               3,450              250
+      450           Supplies                                          1,710               1,700               1,710                 0
+                           Total District Clerk              $       18,160    $         18,093     $        18,619    $         459
+
+1060 District Meeting
+      400            Other Expense                                    9,000               7,000   0           7,000            (2,000)
+      450            Supplies                                           700                 700   0             700                 0
+                          Total District Meeting             $        9,700    $          7,700   0 $         7,700    $       (2,000)
+
+         TOTAL BOARD OF EDUCATION                            $       59,820    $         58,793              65,919    $       6,099
+
+1240 Chief School Administrator
+      150           Administrative Salaries                          249,450            249,124              249,124             (326)
+      160           Clerical Salaries                                 81,718             71,052               73,744           (7,974)
+      200           Equipment                                          3,000                  0                3,000                0
+      400           Other Expense                                     12,000             10,000               12,000                0
+      450           Supplies                                           1,900              1,900                1,900                0
+
+                 Total Chief School Administration           $       348,068        $   332,076         $    339,768       $   (8,300)
+
+1310 Business Administration
+      150          Administrative Salaries                          128,520             137,484             138,248             9,728
+      160          Clerical Salaries                                272,746             270,053             280,574             7,828
+      200          Equipment                                          1,000               1,000               5,000             4,000
+      400          Other Expense                                     46,000              44,000              43,509            (2,491)
+
+      450           Supplies                               6,500            6,000           6,500              0
+      490           BOCES Services                        59,900           59,900          62,000          2,100
+                    Total Business Administration   $    514,666    $     518,437    $    535,831    $    21,165
+
+1320 Auditing
+      400           External Auditor                      35,000           34,275          31,000          (4,000)
+      401           Internal Auditor                      25,000           25,000          16,000          (9,000)
+      402           Claims Auditor                         6,200            6,200           6,500             300
+                    Total Auditing                  $     66,200    $      65,475    $     53,500    $    (12,700)
+
+1325 Treasurer
+      160           Treasurer Salary                      33,000           33,000    $     33,660     $      660
+      450           Supplies                                 390              390             400    0        10
+                    Total Treasurer                 $     33,390    $      33,390    $     34,060     $      670
+
+                    Total Finance                   $    614,256    $     617,302    $    623,391    $     9,135
+
+1420 Legal
+      400           Other Expense                        245,000          296,950         284,000         39,000
+                    Total Legal                     $    245,000    $     296,950    $    284,000    $    39,000
+
+1430 Personnel
+      160           Clerical Salaries                     52,795           54,780          55,875          3,080
+      400           Other Expense                         29,000           29,000          29,000              0
+      450           Supplies                                 500              500             500              0
+      490           BOCES/Recruitment                     11,000           10,000          11,000              0
+                    Total Personnel                 $     93,295    $      94,280    $     96,375    $     3,080
+
+1480 Public Information
+      400           Other Expense                          6,500    0       4,500           5,000          (1,500)
+      490           BOCES Services                         4,600    0       4,509           4,650              50
+                    Total Public Information        $     11,100     $      9,009    $      9,650    $     (1,450)
+
+                  TOTAL STAFF                       $    349,395    $     400,239    $    390,025    $    40,630
+
+1620 Operations
+      160           Custodial Staff                     1,611,900        1,610,000       1,663,711        51,811
+      200           Equipment                              17,630           17,630          19,555         1,925
+
+      400           Other Expense - daily operations          58,600            56,000          36,200        (22,400)
+      420           Utilities                                932,000           915,000         932,000              0
+      450           Supplies-Custodial. Operations           107,000           107,000         117,000         10,000
+      490           BOCES - Telephone                          5,100             5,600           5,800            700
+                    Sub-Total Operations               $   2,732,230     $   2,711,230   $   2,774,266   $     42,036
+
+1621 Maintenance
+      160           Maintenance Staff                        67,500            68,000          69,172           1,672
+      200           Equipment                                 4,015             4,015          35,000          30,985
+      400           District-Wide Building Repairs          100,000            85,000         213,369         113,369
+      400           Contractual maint. Services             213,900           200,000          62,750        (151,150)
+      400           Maint.-Inspections                        8,000             8,000          35,680          27,680
+      410           Major Capital Building Repairs                0                 0         290,000         290,000
+      450           Supplies, Maintenance                    57,000            57,000          62,000           5,000
+                    Sub-Total Maintenance              $    450,415      $    422,015    $    767,971    $    317,556
+
+TOTAL OPERATIONS AND MAINTENANCE                       $   3,182,645     $   3,133,245   $   3,542,237   $   359,592
+
+1670 Messenger and Mailing
+      190          Salaries Messenger                           17,940         16,500          16,800          (1,140)
+      400          Other Expense - Postage                      29,000         29,000          30,600           1,600
+      401          Rental of Machines                            8,700          8,700           8,700               0
+      409          Mail Permits                                  2,500          1,600           1,700            (800)
+      450          Supplies                                        100            100             100               0
+
+TOTAL MESSENGER & MAILING                              $        58,240   $     55,900    $     57,900    $       (340)
+
+1680 Central Data Processing
+      400           Other Expense                           0                       0          72,649         72,649
+      410           BOCES Services                          0                       0          63,125         63,125
+
+TOTAL CENTRAL DATA PROCESSING                               0            $          0    $   135,774     $   135,774
+
+Special Items
+
+ 1910.400           Insurance - NYSIR                       174,000                           177,480           3,480
+ 1950.400           North Yonkers Sewer Tax                  65,000                            66,000           1,000
+ 1980.400            MTA Payroll Tax                        113,316                           116,323           3,007
+
+ 1981.490            BOCES Administrative Charge            53,435                          53,266           (169)
+ 1989.400            Refund of Prior Years Revenues              0                               0              0
+
+             TOTAL SPECIAL ITEMS                      $    405,751    $    404,444    $    413,069    $     7,318
+
+2010 Curriculum Development
+      150          Administrative Salaries                  160,000        180,000         184,700         24,700
+      160          Non-Instructional Salaries                63,500         63,500          64,214            714
+      200          Equipment                                  5,000          4,909           1,000         (4,000)
+      400          Other & Curr.Improvement Plan             32,390         18,500          20,890        (11,500)
+      401          Supt. Conference Days                      1,000          1,000           3,000          2,000
+      406          Tri-State Consortium                       9,000          8,500           9,000              0
+      450          Supplies                                   7,300          7,700           8,000            700
+      490          BOCES                                     16,300         28,029          56,748         40,448
+            Total Curriculum Development              $     294,490   $    312,138    $    347,552         53,062
+
+
+
+2020 Supervision
+      150            Administrative Salaries                992,004         972,004         976,749       (15,255)
+      160            Non-Instructional Salaries             199,865         196,694         201,592         1,727
+      200            Equipment                                2,750           2,750           2,000          (750)
+      400            Other Expense                           19,544          19,500          18,950          (594)
+      400            Supv. - Prof. Development                6,370           5,500           5,475          (895)
+      450            Supplies                                24,840          20,000          20,750        (4,090)
+      490            BOCES                                   60,920          60,920         107,200        46,280
+                           Total Supervision          $   1,306,293       1,277,368       1,332,716        26,423
+
+   TOTAL INSTRUCTIONAL IMPROVEMENT /
+             ADMINISTRATION                           $   1,600,783   $   1,589,506   $   1,680,268   $    79,485
+
+2110 Teaching - Regular School
+      110           Teaching Salaries (K-3)               3,740,338       3,836,491       3,906,453       166,115
+      120           Teaching Salaries (4-6)               3,193,223       3,166,987       3,166,274       (26,949)
+      130           Teaching Salaries (7-12)              6,837,721       6,828,535       6,983,264       145,543
+      140           Substitute Salaries                     245,000         245,000         250,000         5,000
+      160           Non-instructional Salaries              509,417         533,559         619,445       110,028
+      200           Equipment                                18,340          18,000          20,300         1,960
+      400           Other Expense - Instruction             100,407          87,000          88,559       (11,848)
+
+       403            Other Expense - Equipment Repair            15,000         10,000          10,000         (5,000)
+       404            Other Expense- Commencement                 14,750         14,000          14,750              0
+       405            Rental of Instructional Equipment          114,650         94,164          89,869        (24,781)
+       406            Professional Development - Conf.            14,725         30,000          35,300         20,575
+       410            Student Assistance Services                 52,948         52,695          53,748            800
+       415            Student Accident Insurance                  17,050         17,171          17,857            807
+       450            Supplies                                   145,942        140,000         147,560          1,618
+       480            Textbooks                                  126,292        126,000         128,818          2,526
+       490            BOCES Services                             158,295        164,265         113,153        (45,142)
+             Total Teaching Regular School                $   15,304,098   $ 15,363,867    $ 15,645,350    $   341,252
+
+2280 Occupational Education
+      150          Instructional Salaries-Indust.Arts            92,311          92,311          92,692             381
+      400          Other Expense - Ind. Arts                      3,500               0               0          (3,500)
+      450          Supplies - Ind. Arts                           4,425           3,300           3,375          (1,050)
+          Total Occupational Education                    $     100,236    $     95,611          96,067          (4,169)
+
+
+
+2250. Special Education
+       150           Instructional Salaries                    2,687,820       2,699,727       2,915,953        228,133
+       160           Non-Instructional Salaries                1,459,186       1,480,598       1,593,303        134,117
+       200           Equipment                                     6,000           6,000           6,000              0
+     400.4           Other Expense - CSE                          63,600          63,500          20,000        (43,600)
+     400.4           Contractual Expense                             300             300             300              0
+     400.4           Physical/OT Services                         45,000          45,000          70,000         25,000
+     400.4           Other - Testing                               5,000           5,000           5,000              0
+     400.4           Other - Homebound                            16,000          60,296          50,000         34,000
+     400.5           Contractual - JCOC                          150,000         140,500         175,000         25,000
+       400           Other Exp.-copier, prof.develop.             12,550          11,500          13,250            700
+       401           Other Expenses - Legal                       45,000          45,000          45,000              0
+       450           Supplies                                     11,590          11,000          11,590              0
+       460           Computer Software                             1,000           1,000           1,000              0
+       470           Tuition (Private, Agencies)               1,401,676       1,400,000       1,292,371       (109,305)
+       480           Textbooks                                     4,200           2,500           4,200              0
+       490           BOCES                                     1,246,839       1,125,500       1,287,622         40,783
+
+                      Total Special Education             $    7,155,761   $   7,097,421   $   7,490,589   $   334,828
+
+2610 Library
+      150            Librarian Salaries                      309,802       308,934       310,551           749
+      160            Non-Instructional Salaries              114,718       113,943       117,613         2,895
+      400            Other Expense (copiers)                       0             0         1,200         1,200
+      450            Supplies                                  3,600           150           100        (3,500)
+      461            Library Books & Materials                 6,696         6,500         5,355        (1,341)
+      460            Library Software                         39,340        38,500        34,900        (4,440)
+      490            BOCES Services                           40,137        36,730        37,007        (3,130)
+                          Total Library                  $   514,293   $   504,757   $   506,726   $    (7,567)
+
+A2630 - Instructional Technology
+
+      150            Instructional Salaries                  350,800       203,626       337,381       (13,419)
+      160            Computer Staff                          127,700       137,322       143,724        16,024
+      400            Other Expense                           276,700       276,500       308,849        32,149
+      403            Computer- Equip. Repair                   4,600         2,500         2,500        (2,100)
+      450            Computer Supplies                        28,929        30,000        41,230        12,301
+      462            State Aided Computer Software            27,698        24,000        24,670        (3,028)
+      490            BOCES                                    18,300        15,865        15,400        (2,900)
+
+                   TOTAL INSTRUCTIONAL
+                 INFORMATION TECHNOLOGY                  $   834,727   $   689,813   $   873,754   $   39,027
+
+2810. Guidance
+       150           Teaching Salaries                       634,295       595,812       656,674        22,379
+       160           Non-Instructional Salaries              120,652       102,937       107,705       (12,947)
+       200           Equipment                                     0             0             0             0
+       400           Other Expense                             3,080         3,080         3,200           120
+       406           Other Expense-Prof. Development           1,820         1,800         1,700          (120)
+       450           Supplies                                  1,005         1,200         1,750           745
+                     Total Guidance                      $   760,852       704,829       771,029        10,177
+2815. Health Services
+       160           Nurses' Salaries                        263,196       284,303       296,326       33,130
+       200           Equipment                                    54            54            60            6
+   400.40            School Physician                         16,000        18,000        18,500        2,500
+   400.50            Health Services - Out of District       110,000       110,000       115,000        5,000
+       400           Other Expense- Prof. Development            225             0             0         (225)
+       450           Supplies                                  5,727         5,725         6,191          464
+
+                    Total Health Services              $    395,202         418,082             436,077            40,875
+2820. Psychologists
+       150          Instructional Salaries                  483,387         482,619             496,088            12,701
+       400          Other Expense- Prof. Development            180             180                 180                 0
+       450          Supplies                                  2,082           2,080               1,985               (97)
+                    Total Psychologists                $    485,649         484,879             498,253            12,604
+2825. Social Work Services
+       160          Social Worker Salaries                   26,326          26,327              26,853               527
+       400          Other Expenses                                0               0                   0                 0
+                    Total Social Work Services         $     26,326          26,327              26,853               527
+
+            TOTAL PUPIL PERSONNEL
+               SERVICES BUDGET                         $   1,668,029   $   1,634,117   $       1,732,212   $       64,183
+
+2850 Co-Curricular Activities
+      150           Advisors Salaries                        86,000          86,734              92,850              6,850
+      150           Chaperones/Food Concessions               7,550           7,000               7,550                  0
+      160           Non-Instructional Salaries               11,500          11,827               9,700             (1,800)
+      160           Chaperones/Food Concessions               3,300           3,000               3,300                  0
+                Total Co-Curricular Activities         $    108,350    $    108,561        $    113,400        $     5,050
+
+2855 Interscholastic Athletics
+       150           Coaches & Instr. Salaries              289,553         290,541             306,371             16,818
+       151           Chaperones                              30,000          30,000              31,000              1,000
+       155           Timekeepers                                700             660                 800                100
+       160           Non-Instructional Salaries             126,209         108,420             125,957               (252)
+       161           Chaperones                              18,000          18,000              20,000              2,000
+       165           Timekeepers                              6,000           6,000               6,500                500
+       200           Equipment                                5,000           4,894               5,000                  0
+       400           Other Expense                           39,000          43,000              40,400              1,400
+       403           Equipment Repair                        10,983          10,000              12,000              1,017
+       450           Supplies                                35,000          34,000              20,000            (15,000)
+       490           BOCES                                   80,000          77,000              80,000                  0
+
+    TOTAL INTERSCHOLASTIC ATHLETICS                    $    640,445    $    622,515        $    648,028        $    7,583
+
+5510 Transportation Services
+      150           Transportation Director                  55,000          54,540               55,630              630
+
+      400           Transportation Coordinator                   82,782          82,782           89,000           6,218
+      490           BOCES                                        96,000          45,000           50,000         (46,000)
+                          Total Transportation Services   $     233,782    $    182,322    $     194,630   $     (39,152)
+5540.400 Private Carrier Contracts
+   400.00           Transportation - in-district                 789,000         755,000         715,000        (74,000)
+   400-01           Transportation - private schools             705,000         630,000         635,550        (69,450)
+   400.04           Transportation - occ. Educ.                    3,000           3,000           3,000              0
+   400.04           Transportation - special educ.               385,000         410,000         522,450        137,450
+      402           Transportation - field trips                 153,000         150,000         158,000          5,000
+                    Total Private Carrier Services        $    2,035,000   $   1,948,000   $   2,034,000   $     (1,000)
+
+            TOTAL PUPIL TRANSPORTATION                    $    2,268,782   $   2,130,322   $   2,228,630   $     (40,152)
+
+9000 Employee Benefits
+ 9010.800          Employees' Retirement                         890,725         890,725       1,038,782         148,057
+ 9020.800          Teachers' Retirement                        2,422,036       2,422,036       3,448,055       1,026,019
+ 9030.800          Social Security                             1,951,774       1,950,000       2,048,194          96,420
+ 9040.800          Workmen's Compensation                        169,367         169,368          95,000         (74,367)
+ 9045.800          Life Insurance                                 31,800          30,379          31,800               0
+ 9050.800          Unemployment Insurance                         72,000          65,000          65,000          (7,000)
+ 9055.800          Disability Insurance                           36,000          34,065          36,000               0
+ 9060.800          Health Insurance                            4,448,403       4,435,147       4,650,283         201,880
+ 9070.800          Union Welfare Benefits                        289,300         289,000         297,000           7,700
+
+         TOTAL EMPLOYEE BENEFITS                          $   10,311,405   $ 10,285,720    $ 11,710,114    $ 1,398,709
+
+9700 Debt Service
+ 9711.600           Construction Bond Principal                2,940,000       2,940,000       2,490,000        (450,000)
+ 9711.700           Construction Bonds Interest                2,022,531       2,022,531       1,911,057        (111,474)
+ 9731.600           B.A.N. Principal                                   0               0         680,000         680,000
+ 9731.700           B.A.N. Interest                                    0               0          20,000          20,000
+ 9760.700           T.A.N. Interest                               25,000          25,000          25,000               0
+ 9780.600           ERS Loan - Principal                          19,089          19,089          20,043             954
+ 9780.700           ERS Loan - Interest                            3,159           3,159           2,205            (954)
+ 9785.600           Lease Purchase Principal                     238,238         238,238         206,471         (31,767)
+ 9785.700           Lease Purchase Interest                       22,899          22,899          16,585          (6,314)
+                    TOTAL DEBT SERVICE                    $    5,270,916       5,270,916       5,371,361         100,445
+
+9900 Interfund Transfers
+ 9901.95            Transfer to Special Aid Fund          70,000         116,712        117,000         47,000
+ 9950.90            Transfer to Capital Fund             290,000         290,000              0       (290,000)
+
+                     TOTAL INTERFUND TRANSFERS     $     360,000    $    406,712   $    117,000   $   (243,000)
+
+
+
+                                  TOTALS           $   51,156,000   $ 50,801,837   $ 53,781,582   $ 2,625,582
+
+                                  IRVINGTON UNION FREE SCHOOL DISTRICT
+                                         Proposed Budget 2013-14
+                                                REVENUE
+                                                       2012-13          2012-13              2013-14
+CODE    DESCRIPTION                                   BUDGET         Est. to Receive         BUDGET             CHANGE
+
+A1081   PILOT (Payments in Lieu of Taxes           $        630,000   $        652,697   $       655,000    $       25,000
+A1120   Non-Property Taxes (Sales Tax)             $        420,000   $        420,000   $       420,000    $          -
+A1311   Day School Tuition                         $        495,000   $        495,000   $       510,000    $       15,000
+A2280   Health Services                            $         40,000   $         45,000   $        50,000    $       10,000
+A2401   Interest Earned on Investments             $         45,000   $         35,000   $        30,000    $      (15,000)
+A2413   Rentals - BOCES classrooms                 $        219,692   $        219,692   $       220,000    $          308
+A2703   Refund of Prior Years Expenses             $         95,000   $         95,000   $       100,000    $        5,000
+A2770   Misc. Revenue                              $        150,000   $        191,166   $       175,000    $       25,000
+A2772   Reimbursements-JCOC                        $        165,000   $        165,000   $       165,000    $          -
+A3101   State Aid                                  $      1,888,754   $      1,836,658   $     2,016,973    $      128,219
+A3101   Excess Cost Aid                            $        242,397   $        210,547   $       235,427    $       (6,970)
+A3103   BOCES Aid                                  $        236,635   $        277,419   $       346,425    $      109,790
+A3260   Textbook, Software & Library Aid           $        155,978   $        148,799   $       154,176    $       (1,802)
+A4601   Medicaid reimbursements                    $         20,000   $         11,500   $        20,000    $          -
+        Total Revenues                             $      4,803,456 $        4,803,478 $       5,098,001 $         294,545
+                                                                                                         $             -
+        Appropriated Fund Balance                  $       422,000 $          422,000 $          400,000 $         (22,000)
+        Total Revenue to offset budget             $      5,225,456 $        5,225,478 $       5,498,001 $         272,545
+
+
+        Total Budget - proposed                    $     51,156,000                      $    53,781,582 $       2,625,582
+        Tax Levy needed to balance budget          $     45,930,544                      $    48,283,581 $       2,353,037
+
+        Tax Levy Cap ( over last year's levy)      $     45,931,262                      $    47,134,542 $       1,203,280
+        Budget vs the Tax Cap                     $           718                        $    (1,149,039)
+                                                  UNDER TAX CAP                          OVER TAX CAP
+
+         Calculation of Current Year (CY) Tax Cap - Represents proposal for next school year
+                                                                                                      Notes
+
+         1)   Prior Year Tax Levy                                                   45,930,544.00     per 12/13 budget
+TIMES                                                                           x
+              1 + Tax Base Growth Factor (provided by Commissioner of Tax &
+         2)   Finance by February 15th.)                                                    1.01
+                                                         Sub-Total                    46,389,849
+PLUS                                                                           +
+         3)   PY PILOTS                                                               652,697.00      actual 12/13
+MINUS                                                                           -
+         4)   PY Levy for Judgements over 5% of total tax levy                                 0.00
+              PY Levy for excess increases to ERS
+              PY Levy for excess increases to TRS
+              PY Capital Tax Levy                                                      3,559,422      per 12/13 tax cap
+EQUALS                                                                         =
+         PY TAX LEVY LIMIT                                                            43,483,124
+TIMES                                                                           x
+         5)   Allowable Levy Growth Factor (1 + inflation factor, up to 2%)               2.00%
+                                                            Sub-Total                 44,352,787
+MINUS                                                                           -
+         6)   CY PILOTS                                                               655,000.00
+PLUS                                                                           +
+         7)   Available Carryover                                                         718.00
+EQUALS                                                                         =
+         CY TAX LEVY LIMIT (to be submitted to State Comptroller,
+         Commissioner of Tax & Finance and the Commissioner of Education by
+         March 1st)                                                                   43,698,505
+PLUS                                                                           +
+         8)   CY Levy for Judgements over 5% of total tax levy                                   0
+              CY Levy for excess increases to ERS                                                     see "Salaries" tab in this worksheet
+              CY Levy for excess increases to TRS                                        493,335      see "Salaries" tab in this worksheet
+              CY Capital Tax Levy                                                      2,942,702      capital debt service by GF
+MINUS                                                                           -              0
+         9)   Erroneous levy plus interest from prior year
+EQUALS                                                                         =
+
+         ALLOWED TAX LEVY WITH 50% plus 1 approval                                    47,134,542
+

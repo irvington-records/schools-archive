@@ -1,0 +1,1767 @@
+SOURCE http://www.irvingtonschools.org/cms/lib/NY02208289/Centricity/domain/4/district%20documents/2019%20HR%20Audit%20Report.pdf | DATE 2023-10-25 | TITLE 2019 HR Audit Report.pdf
+
+Contents
+Introduction                                                               3
+Global Perspective of the K-12 Human Resource Operation                    4
+Irvington’s Human Resource Operation – Staffing Configuration              5
+Use of Technology in the Human Resource Operation                          6
+Human Resource Audit Topics
+          1. Certification                                                 6
+          2. I-9 form                                                      7
+          3. AESOP                                                         7
+          4. Finance Manager/NVision                                       8
+          5. Teacher Seniority Roster                                      8
+          6. Staffing Charts                                               10
+          7. My Learning Plan (MLP)                                        11
+          8. Online Application System for Educators (OLAS)                12
+          9. New Staff Hiring Checklist                                    12
+          10. Monitoring Teacher Attendance                                12
+          11. Monitoring Administrator Attendance                          15
+          12. Teacher Evaluation                                           16
+          13. Mandated Training                                            16
+          14. Online HR Resource Center                                    17
+          15. Personnel Files                                              18
+          16. Inactive Personnel Files                                     19
+          17. Sexual Harassment Compliance Officer                         19
+          18. Compliance Postings                                          20
+          19. Substitute Letters of Continued Assurance                    20
+          20. Fingerprinting and Subsequent Arrest Notices                 21
+          21. Job Descriptions                                             21
+          22. Equal Employment Opportunity Commission                      22
+          23. Oath of Allegiance                                           22
+          24. Tax Shelters / Retirement System Declination                 22
+          25. Overtime / Comp-Time / Extra Pay                             23
+          26. Change Order Process                                         24
+          27. Family Medical Leave Act                                     24
+          28. Preferred Eligible List                                      25
+          29. Internal Job Posting                                         26
+          30. Teacher Longevity Payments                                   26
+          31. Teachers on Special Assignment                               27
+          32. Substitute Teachers                                          27
+          33. Exit Surveys                                                 28
+          34. Course Approval for Salary Advancement                       29
+          35. Support Staff Evaluations                                    29
+          36. Recruitment and Selection Guidelines                         29
+          37. Personnel Consent Agenda                                     30
+          38. Tenure Review Process                                        30
+          39. Separation of Duties Procedure                               32
+          40. New Teacher Orientation/Teacher Academy​/Teacher Mentoring   32
+          41. District Organization Chart                                  33
+          42. Extracurricular Clubs                                        33
+          43. Notification of Administrative Vacancies                     33
+          44. Board Policy Review                                          33
+
+
+
+                                            1
+
+                               Back to ​Table of Contents
+Conclusion                                                                                  34
+
+Exhibit A - Full List of 2019 Audit Recommendations                                         34
+
+Exhibit B - 2012 Human Resources Audit (click here)                                         42
+
+Exhibit C - Historical Summary of District Personnel / Table of Organization (click here)   42
+
+Exhibit D - Current IUFSD Organizational Chart (click here)                                 42
+
+
+
+
+                                                   2
+
+                                    Back to ​Table of Contents
+Introduction
+The purpose of the report is to provide the Irvington Board of Education with an audit of its
+Human Resources (HR) Operation. The auditor worked directly for the Board and worked
+with a sub-committee of the Board throughout the audit process. The work associated with
+this report commenced in March 2019 and focused on researching and evaluating the
+current strengths and weaknesses of the Irvington School District‘s Human Resources (HR)
+Operation. In 2012 the Board of Education hired Lenora Boehlert of Human Resources
+School Services to review the District’s HR Operations processes and procedures. A
+33-page report including findings and recommendations was produced. Due to the quality
+and comprehensive scope of this report, it became the basis of the 2019 audit. The 2012
+report is attached to this report as Exhibit B.
+
+The District has successfully implemented many of the processes and procedural
+recommendations contained in the 2012 report, significantly strengthening their HR
+function from 2012 to 2019. For the most part, the operation today works very differently
+from the one that was audited in 2012. Many of the current processes and protocols are in
+alignment with best K-12 HR practices.
+
+In this report I will provide a definition of the function, refer to prior work conducted to
+improve the function, then offer the 2019 status of the operation, systems and procedures
+currently in use. In most cases, I will layer my research and recommendations within the
+template used in 2012. Topics that were not audited in 2012 but were audited in the
+current report were added to the template.
+
+The audit is based upon interviews, discussions and follow-up conversations conducted
+with the following constituents: the Superintendent; the Assistant Superintendent of
+Instruction and Human Resources (ASIHR); the Assistant Superintendent for Business; the
+Personnel Assistant (PA); the Benefits and Payroll clerical assistant; the clerical assistant for
+the Office of Curriculum and Instruction; the Board of Education subcommittee established
+to support the work associated with this audit and the Board of Education’s counsel.
+
+The audit is also based on a review of several documents such as the 2012 audit report; the
+teachers’ and administrators’ Collective Bargaining Agreements (CBA); Board of Education
+policy related to personnel; content on the District’s web site; review of the personnel
+folders of a variety of employees; review of several reports generated by the various online
+applications used to provide information about attendance, certification, seniority; and
+documents promulgated by the Office of Human Resources i.e. the Employee Handbook,
+Staff Directory, the Administrative Guidelines for Recruitment and Selection of Certified
+Staff, Club Catalog 2018-2019.
+
+
+
+
+                                                3
+
+                                    Back to ​Table of Contents
+Sampling methodology
+The 2019 audit typically used a sampling of approximately 10% of total staff when
+reviewing personnel files, certification of coaching staff, and teacher seniority records. If
+discrepancies were observed within the 10% sampled, additional sampling was performed
+in order to generate clarity.
+In some cases 100% of staff records were reviewed, such as the teacher and administrator
+attendance, teacher and administrator probation/tenure records, and teacher certification.
+
+
+Global Perspective of the K-12 Human Resource Operation
+In their book, ​Human Resource and Contract Management in the Public School – A Legal
+Perspective​, Bernadette Marczely and David W. Marczely (2009) define public school
+human resource management as “the task of creating a work environment that is fair,
+impartial, and predictable by implementing the laws, regulations, policies, protocols, and
+contracts that govern the workplace, and in this context of equity and predictability,
+fostering the individual employee’s opportunities for esteem, autonomy and
+self–actualization.”1
+In their description of the public school human resource manager, Marczely and Marczely
+state that this role is best identified by the varied functions of the position such as, Record
+Keeping; Planning; Job Description Development; Recruitment; Applicant Screening,
+Interviewing and Selection; Hiring; Induction/Orientation; Supervision; Benefit
+Management; Negotiations; Grievance Administration; Policy Development and Evaluation
+and Education (2009).
+Furthermore, they emphasize the importance of a solid knowledge base and proper
+training of a Human Resource administrator:
+        “Every administrator in charge of any aspect of human resource management must
+       be schooled in the laws, regulations, policies, and procedures that provide the
+       context for the decisions they will make and the actions they will take. No other
+       aspect of public-school administration demands a greater deference to
+       organizational history, field experience and job-specific training. The human
+       resource manager should minimally have completed course work and training in
+
+
+
+
+1
+ Marczely, Bernadette, and David W. Marczely. Human Resource and Contract
+Management in the Public School: A Legal Perspective. Roman & Littlefield Education,
+2009, p. 4.
+
+                                               4
+
+                                   Back to ​Table of Contents
+           public school administration, school law, collective bargaining and contract
+           management, school finance and clinical supervision.” 2
+Lastly their belief that “Human resource management is the vital underpinning of
+public-school administration that creates an environment in which the educational mission
+can be pursued without the distraction of workplace concerns” speaks to the importance
+of the role of the HR administrator as well as the crucial role that the management of the
+HR operation has within a K-12 school district operation.3
+
+
+Irvington’s Human Resource Operation - Staffing Configuration
+The staff supporting the Irvington Human Resource Operation includes the
+Superintendent, the Assistant Superintendent for Instruction and Human Resources
+(ASIHR), the Assistant Superintendent for Business and Operations, the Personnel Assistant
+(PA), the Benefits and Payroll Clerk and the Clerical Assistant for the Office of Curriculum
+and Instruction. The PA works under the direction of the ASIHR and manages the vast
+majority of the tasks associated with the HR Operation. The Benefits and Payroll​ Clerk
+works ​under the supervision and direction of the Assistant Superintendent for Business and
+Operations and works closely with the PA regarding payroll actions and employee benefits.
+The Clerical Assistant for the Office of Instruction manages HR related tasks associated
+with course and conference attendance requests flowing from the teacher and building
+principal to the ASIHR. This team works collaboratively to address all the functions related
+to the District’s HR operation.
+It is important to note that the employees who held their respective positions existing prior
+to July 2012 and are still part of the HR Operation and Business operation respectively are
+the PA, and the Clerical Assistant for the Office of Instruction, and the Payroll Benefits
+Clerical Assistant. Following the recommendation made in the 2012 audit to hire an
+Assistant Superintendent for Instruction with responsibility of the HR Operation, the
+position was added on July 1, 2012.
+Attached to this report, please find a current organizational chart as Exhibit C.
+
+
+
+
+2
+     Ibid, p. 6.
+3
+    ​Ibid, p. 14.
+
+                                                  5
+
+                                      Back to ​Table of Contents
+Use of Technology in the HR Operation
+The use of applications such as My Learning Plan (MLP), AESOP, and nVision (HR
+component) has significantly increased the overall effectiveness and efficiency of managing
+the HR operation.
+Audit topics #1-14 below have been grouped together because they provide evidence that
+the 2012 recommendation to shift from manually managing and maintaining HR records to
+digitally managing and maintaining HR records was successfully implemented. The District
+is now using state-of-the-art applications that far exceed the capabilities and data
+capacities of the previously used manual systems. These digital systems represent the use
+of best practices for a quality HR operation.
+
+
+Human Resource Audit Topics
+Set forth below are the specific areas and topics of the Human Resource (HR) operation in
+Irvington that were audited, in addition to any recommendations to change or revise
+current practice. Many of the topics will first refer to the 2012 report’s assessment and
+recommendations followed by assessment, commentary and recommendations.
+   1. Certification
+      New York State teachers, administrators and pupil personnel service providers are
+      required to hold a valid New York State certificate for employment in order to work
+      in the public school system. The New York State Education Department's Office of
+      Teaching Initiatives issues certificates to ensure that an individual has met required
+      degree, coursework, assessment and experience requirements. The digital system
+      used by the state for managing this process and for maintaining individuals’
+      certificate records is referred to as the “TEACH” database.
+       The 2012 recommendation to review each teacher’s certification status against the
+       records in the NYS Education Department’s digital TEACH database was followed in
+       its entirety. All teacher files audited reveal that each teacher has proper
+       certification to teach in his/her respective tenure area. The New York State TEACH
+       database and the HR module of the nVision application are now used exclusively to
+       manage teacher certification. The PA effectively uses both systems to document
+       proper certification at the time of hire as well as throughout the period in which it
+       takes each teacher to obtain Professional/Permanent certification status. The PA
+       runs a teacher certification report in June of each school year and emails
+       provisionally certified teachers their certification status. A copy of each teacher’s
+       certification status is maintained in the personnel folder for quick reference.
+
+
+
+                                              6
+
+                                  Back to ​Table of Contents
+  The 2012 recommendation to shift the responsibility of managing and maintaining
+  all athletic coaches’ certification and credentials from the Athletic Director to the
+  PA was successfully implemented. The PA now manages a system that assures that
+  all coaches have the required credentials to coach. Credentials include coaching
+  certification if the coach is not serving as a physical education teacher along with
+  the required current certification in CPR/AED and First Aid. Ten coaches’ personnel
+  folders were audited, and all ten folders contained evidence indicating that all
+  required credentials were in proper order. Specifically, evidence of updated
+  CPR/AED training every two years and First Aid training every three years was
+  evident.
+
+  Recommendation: ​In extenuating circumstances, a coach is placed on a Board of
+  Education agenda for approval before the coach has submitted the necessary
+  certifications/credentials to be hired. The Board agenda item is asterisked signifying
+  the need for conditional approval. I support this practice; however, I am
+  recommending that when a coach is placed on the Board agenda for conditional
+  approval, the ASIHR issue ​a​ letter to the Athletic Director and the coach specifying
+  that until the PA has copies of certifications in hand, the coach must not serve in
+  any capacity as a coach in the District.
+
+
+2. I-9 form
+   The Form I-9 is the Employment Eligibility Verification Form issued by the
+   Department of Homeland Security/United States Citizenship and Immigration
+   Services identifying if an applicant is a citizen of the USA, a non-citizen, a lawful
+   permanent resident or an alien authorized to work in the USA.
+
+  In 2012 it was not clear as to how many employees completed an I-9 form.
+
+  Today a completed, signed form along with copies of two documents attesting to
+  the proof of citizenship is appropriately scanned and filed into the nVision data
+  base for each employee at the time of hire. The system used is an excellent
+  method of meeting the requirements of the law.
+
+
+3. AESOP Absence Management System
+   AESOP is a fast, efficient and flexible way to record and approve employee
+   absences, maximizing the District’s ability to obtain attendance information and
+   qualified substitute teachers. The system is accessed by phone or the internet.
+
+
+                                           7
+
+                               Back to ​Table of Contents
+    The 2012 recommendation to shift to this automated substitute calling service was
+    implemented and is still being used successfully today. Although the system
+    maximizes the District’s ability to obtain teacher substitutes, the fact is that
+    securing quality substitutes for many districts in the metropolitan area continues
+    to be a growing challenge.
+
+
+4. Finance Manager/nVision
+   The nVision application (a Finance Manager application used in the District
+   Business Office) provides K-12 Business/HR functions that improve the efficiency of
+   school business operation and allows authorized staff to store and share data
+   related to Accounting, Budget, Payroll, Requisitions, Human Resources, and
+   Negotiations.
+
+   The 2012 recommendation that nVision, be expanded for certain HR functions was
+   implemented in several HR areas. One specific example is that the District now
+   maintains its Seniority Roster of Teachers within the nVision HR module. Another
+   example is the filing of the I-9 form and supporting proof of citizenship within
+   nVision. Attendance data is also now housed in nVision, and it provides a variety of
+   ways for the PA and ASIHR to retrieve, review and analyze attendance data.
+
+
+5. Teacher Seniority Roster
+   Teacher seniority is the factor which determines which teachers are to be laid off in
+   the event of staffing cuts. When layoffs are enacted, the least senior teacher within
+   a tenure area defined by New York State Education Department are laid off in the
+   reverse order of seniority. The practice is also known as last in - first out.
+
+   Notwithstanding the fact that the Irvington school district has not been in an
+   excessing/lay off situation more recently, it is extremely prudent that an accurate
+   seniority list be maintained on a yearly basis in case a time comes when layoffs
+   must be made.
+
+   Teachers’ seniority is accrued according to paid days worked. Each scheduled
+   school day that a teacher is not paid results in that day being deducted from his/her
+   seniority credited for that school year. Typically, teachers who take leaves without
+   pay or teachers who use all of their paid leave time and then are placed on unpaid
+   leave status lose seniority credit for unpaid days. For example, if a teacher is given
+
+
+                                          8
+
+                              Back to ​Table of Contents
+a 60-day leave of absence without pay, that teacher would then lose a day’s credit
+for each unpaid leave day. Similarly, if a teacher runs out of sick time, then each
+calendared school day that the teacher is not paid would be deducted from the
+teacher’s seniority.
+
+During the 2019 audit, the Seniority Roster was tested in several areas for accuracy.
+Only the teachers​ ​at the bottom of each tenure area (on average the bottom 4-5
+least senior teachers on the list) were tested for proper placement. This
+methodology is premised upon the assumption that there is a very little chance that
+more senior teachers would ever be in jeopardy of being excessed. The 2019 audit
+revealed a formula-based inconsistency which applied to each teacher who was in a
+“leave without pay” condition. It appears that in every case where the teacher’s
+seniority credit had to be adjusted down to accommodate a leave without pay
+condition, the calculation of the days to be deducted was incorrectly calculated by
+the nVision system. The District is in the process of communicating with the
+application provider to determine if this inconsistency is an application issue or a
+formula glitch at the District level.
+
+Recommendation: ​While the District is researching where the problem lies within
+nVision, the Seniority Roster should be reconstructed manually to correct the few
+cases where this condition presents itself.
+
+Additionally, when teachers within the same tenure area are appointed at the same
+Board meeting the District has a “tie-breaker” protocol that must be applied to
+determine the relative seniority for the affected teachers. When a sampling of
+teachers found in a tie-breaking situation was tested, I found that in some cases the
+District’s tie-breaker protocol was not applied in a consistent manner, thereby
+resulting in situations where the relative seniority of teachers now needs to be
+adjusted to comport with the District’s rule of last in-first out.
+
+Recommendation: ​Going forward, the tie-breaker protocol should be used
+consistently, using the corrected Seniority Roster data.
+
+Another issue that needs to be addressed concerns when a teacher works as a
+leave replacement teacher and is thereafter hired as a probationary teacher. When
+the resulting probationary appointment is contiguous to the leave replacement
+assignment, the teacher must be given seniority credit for the days served as a
+leave replacement teacher. There is one instance in which this tie-breaker protocol
+
+
+
+                                       9
+
+                           Back to ​Table of Contents
+        was not applied, resulting in the need to change the relative position of one teacher
+        in a particular tenure area.
+
+        Recommendation: ​An item confirming the addition of leave replacement time
+        should be added to the new hire checklist to ensure that the time is included during
+        the onboarding process.
+
+        Lastly, when a probationary teacher takes a leave of absence without pay, I am
+        recommending that each day without pay be added to the teachers’ original
+                                                                      4
+        probationary appointment period in accordance with case law . This will ensure
+        that the appropriate probationary period required by law is preserved as much as
+        possible. The extension of the teacher’s probationary period can only be
+        effectuated by way of Board resolution.
+
+        Recommendation: ​A tracking system should be developed to document all
+        extended leave of absences during employee probationary periods.
+
+
+    6. Staffing Charts
+       In 2012 staffing charts were created and managed manually without the assistance
+       of word processing or spreadsheet applications. The current audit revealed that
+       the HR operation uses a variety of Excel or Google spreadsheets as well as nVision
+       to monitor and review HR data. The evolution from manually to digitally processing
+       HR data represents a vast improvement in managing data within the operation.
+        Recommendation: ​Add to the existing system of maintaining an account of all staff
+        by generating​ ​a comprehensive report from nVision of all employees by job
+        function. I highly recommend that the PA use this report for maintaining an
+        ongoing Historical Summary of District Personnel otherwise referred to as a Table
+        of Organization (TO) for the Full Time Equivalent (FTE) count of every full- and
+        part-time staff member in the District. Exhibit D in the appendix is a sample of a
+        Historical Summary of District Personnel / Table of Organization. This form should
+        be adapted to reflect the staffing nuances of the district.
+        I further recommend that each October the Board adopt a resolution accepting the
+        TO as the District’s TO for that particular school year. The approved TO then
+        becomes the baseline for future budget discussions and personnel adjustments that
+        are made throughout the school year.
+
+4
+ Although somewhat illogical, the current interpretation of NY state law is that for each unpaid workday the
+probationary period must be extended by one (1) CALENDAR day.
+
+                                                     10
+
+                                         Back to ​Table of Contents
+7. My Learning Plan (MLP)
+   MLP is an online application that is used for a variety of HR functions. It expedites
+   and simplifies the process for applying for approval to attend conferences and
+   workshops and for tracking coursework applicable for salary advancement and
+   professional development hours -- professional development/courses needed by
+   staff to maintain certification -- where applicable. Teachers or administrators sign
+   into their MLP account and apply to attend a conference or take a course. The
+   teacher or administrator’s immediate supervisor (typically the principal for
+   teachers) reviews and approves or denies the application. If approved, the
+   application moves to the next and final level of approval wherein the ASIHR acts on
+   the request. MLP maintains a historical account of all courses that have either been
+   approved or denied.
+   In the 2012 audit it was noted that it appeared that the District was not using the
+   full capabilities of the MLP program. The use of OASYS, a module within MLP, for
+   inputting and tracking teacher and administrative evaluation data, was
+   recommended at that time.
+   Tracking and approving conference attendance as well as tracking other in-service
+   workshops both in-district and out-of-district are facilitated within MLP. Course
+   work applied toward salary advancement are registered and approved within the
+   MLP application. CTLE credits needed to maintain certifications are tracked within
+   the MLP application.
+    The 2012 recommendation to use MLP to track and manage instructional staff
+   evaluations was successfully operationalized and has become the only system used
+   for this purpose. The ASIHR’s clerical assistant manages all the requests that are
+   made through this product.
+   Notwithstanding the fact that the practice of reconciling AESOP data with nVision
+   data has led to more consistency and reduced the need for reconciling as often,
+   one of the concerns revealed by the current audit is the fact that MLP
+   conference/workshop attendance data is not cross referenced to either AESOP data
+   (AESOP is the application used to provide substitutes for absent teachers and or to
+   register employee absence) or nVision data (nVision is the system used for
+   maintaining absence data/records).
+   Recommendation: ​ The absence data generated by the three applications should
+   be either digitally (if possible) and/or manually cross referenced by the PA on a
+   monthly basis in order to reconcile the data across the three systems (MLP, nVision,
+   AESOP).
+
+
+
+                                         11
+
+                              Back to ​Table of Contents
+8. The Online Application System for Educators (OLAS)
+   The Online Application System for Educators (OLAS) is an online, cloud-based
+   application serving school districts throughout New York State. Its primary function
+   is to assist districts in filling job vacancies. Candidates can easily apply for specific
+   positions online. Districts can view application information, resumes and cover
+   letters submitted by each applicant, and can share the information with anyone
+   involved with the screening/interview process.
+   In 2012 the audit indicated that the OLAS system was not used to its capacity or
+   with any measure of consistency. Today, OLAS is used as the primary resource to
+   advertise teacher, substitute teacher and administrative job vacancies.
+   Administrators at both the District Office and building levels have access to the
+   resources within this program and use it effectively as the system for conducting
+   the document screening process associated with the interview/selection process.
+   The PA, under the direction of the ASIHR, normally posts vacancies onto this
+   system.
+
+
+9. New Staff Hiring Checklist
+   The PA currently uses a new hire checklist embedded in the nVision system as well
+   as a supplemental Google spreadsheet to ensure that all required forms, paperwork
+   and materials for new hires are filed in each teacher’s respective personnel folder.
+   The 2012 recommendation to create a checklist was successfully implemented.
+
+
+10. Monitoring Teacher Attendance
+   All contractual employee attendance is registered and managed within the AESOP
+   and nVision systems. Employees input their absences within AESOP. All absences,
+   whether they are for sick, personal, family illness, conference or workshop, jury
+   duty, or other reasons are registered within the AESOP system. Absence data is
+   then manually transferred from AESOP to the nVision application where it becomes
+   part of an employee’s permanent attendance record. There are clerical employees
+   at each building who enter this data into nVision. Once this data is entered into the
+   nVision system, only the PA has the system permission to change that data.
+   Currently the PA does not discuss or formally document requests to change
+   attendance data.
+   Recommendation: ​The PA should create a system wherein she logs each written
+   request to change attendance data. This log should be reviewed and approved
+
+
+
+                                           12
+
+                                Back to ​Table of Contents
+weekly by the ASIHR. All emails or other written requests pertaining to requests to
+change attendance should be kept for future reference.
+Once the data is permanently fixed in nVision, the ASIHR advises that she uses the
+following system to monitor attendance:
+   1. The PA reviews the absence entries to ensure that proper absence category
+      codes have been used and to ensure that the employee has not exceeded
+      contractual limits for certain absence categories i.e. family illness, personal,
+      vacation or bereavement. This takes place on a daily basis.
+   2. A periodic review by the PA of the proper use of the form and code for
+      absences related to certain types of health care, such as cancer screening;
+   3. Periodic discussions thereafter take place between the PA and the ASIHR
+      regarding patterns of use that may raise a concern.
+   4. A mid-year report of staff with 10 or more absences is generated by the PA
+      and shared with the ASIHR. The PA then is typically asked to generate a
+      follow up 5-year attendance history for those identified staff members;
+   5. An end of year report of staff with 15 or more absences is generated by the
+      PA and shared with the ASIHR and typically linked with a follow up 5-year
+      attendance history for the identified staff.
+   6. The ASIHR discusses the information gleaned from the mid-year and
+      end-of-year review with principals.
+The 2012 audit stated that “although most staff members are diligent about their
+duties, there are staff members who exceed acceptable limits for absence and
+tardiness.” It further states, “[M]onitoring employee absences and identifying a
+rubric with ranges for acceptable use, as well as developing a consistent method of
+handling these cases, should reduce absenteeism. A standard letter should be
+developed to document these cases with a formal meeting arranged to address
+concerns. Training should be done with staff in the HR office to develop
+correspondence systems.”
+During the 2019 audit of the attendance of teachers and administrators, I found
+clear evidence that a minority of the teaching staff exceeded acceptable limits for
+absence, This finding supports the 2012 auditor’s above-stated views on
+attendance. Notwithstanding the current system that the ASIHR is using, I did not
+find a well-defined system of regularly reviewing attendance data or a well-defined
+system of addressing excessive use or questionable patterns of use of days that
+serve to extend weekends and/or holiday periods.
+There is a culture in which some teachers use most of their personal day allotment
+each year. Personal days as defined in the Irvington Faculty Association (teachers’)
+
+                                      13
+
+                           Back to ​Table of Contents
+Collective Bargaining Agreement (CBA:Article VII LEAVES Personal Business Leave)
+states:
+“Personal days may only be used for the purpose of transacting or attending to
+personal business which cannot be attended to other than on a school day during
+school hours.”
+This guideline has been interpreted by some to mean personal days can be used
+interchangeably as vacation days, which teachers do not receive as a benefit in
+their contract. Personal days should never be allowed to be used as vacation days
+by teachers or administrators who already receive vacation days by contract.
+In summary, a culture shift with respect to the excessive use and/or abuse of sick,
+family illness and personal days by a minority of staff would be very beneficial for
+the students and to the instructional program.
+Recommendation: ​As it is clear that there continues to be a subset of staff still
+exceeding acceptable limits for absences, the District can supplement the
+aforementioned process by adding a clear, formal, well-articulated system of
+reviewing and addressing absences on a regular basis. I further recommend that
+this system be managed at the District Office level under the direction of the ASIHR
+with the assistance of the PA and include a formal monthly review of attendance
+for all staff with particular attention and scrutiny upon staff members who
+consistently exceed reasonable limits over a consistent period of time. Without a
+more robust system for monitoring attendance as well as communicating,
+supporting and counseling employees who typically exceed normal absence limits,
+the likelihood of altering the poor attendance patterns of certain individuals
+diminishes significantly.
+In addition to introducing a more robust system for reviewing, analyzing and
+addressing staff attendance, introducing a process for validating the accuracy of
+registering attendance should be addressed as well. The current system of
+verifying attendance data is not grounded in a procedure that requires each staff
+member sign into work and out of work every day. Instead an honor system is used
+wherein the teacher or administrator communicates that they will be absent by
+signing into AESOP to record their absence. If a classroom teacher or non-classroom
+teacher (i.e. guidance counselor, psychologist or social worker) or administrator
+inadvertently forgets to register his/her absence into AESOP, or fails to notify the
+building secretary assigned with the responsibility of inputting attendance into the
+nVision system of recording absences after the fact, then the absence is not
+registered in the system in any manner.
+
+
+
+                                      14
+
+                           Back to ​Table of Contents
+   If a disagreement or disparity arises later between what was recorded in AESOP or
+   nVision, and information that should have been recorded in AESOP or nVision is
+   challenged, the resolution of the disagreement must rely on each party’s
+   recollection as to the circumstances surrounding the absence.
+   Further, the current practice is that AESOP data is periodically manually reconciled
+   with nVision data, as nNVision maintains the official attendance record of all
+   teacher and administrator attendance. A substantive weakness still exists because
+   the data being cross referenced is not verified against data which can be confirmed
+   by way of an appropriate sign in/sign out procedure.
+   Recommendation: ​I strongly recommend that the District make every effort to
+   institute a system for all employees to sign in and sign out of the building each day
+   because a sign in and sign out procedure functions as proof of attendance or
+   absence. Many districts use a sign in/sign out procedure that is either manual or
+   digital. Some digital systems use an ID badge reader to scan an employee’s
+   entrance or departure from the work site. A manual system usually is facilitated by
+   way of a sign in/sign out sheet that is typically maintained in the principal’s office.
+   Both systems create a formal, retrievable, legal imprint for all employee attendance
+   and are invaluable when disagreements and/or discrepancies arise concerning
+   absence.
+   Recommendation: ​The District should facilitate having both AESOP and MLP
+   communicate with each other digitally, so that the data can be regularly reconciled
+   digitally rather than manually.
+   Lastly, one additional component of attendance that was audited is
+   conference/workshop attendance.
+   Recommendation: ​Conference attendance data should be monitored on an annual
+   basis to determine the impact that such attendance has on District operations, if
+   any.
+
+
+11. Monitoring Administrator Attendance
+    Current Administrator Attendance Approvals
+      ● The Superintendent approves Building Principals, District Office
+        administrators and Director of Pupil Personnel Services (PPS).
+      ● Assistant Superintendent for Instruction and Human Resources (ASIHR)
+        approves Assistant Principals, the Director of Technology, the Assistant PPS
+        Director, and the Athletic Director.
+
+
+                                         15
+
+                              Back to ​Table of Contents
+       ● Assistant Superintendent of Business approves the Supervisor of Buildings
+         and Grounds.
+   The 2012 report recommended that a documented procedure be established for
+   ensuring that all administrators’ time is reported and accounted for in an
+   appropriate manner. The District instituted the use of AESOP for recording and
+   managing administrator attendance just after the recommendation was made in
+   2012. This audit found that the system that is in use for all teaching staff as
+   identified above has been applied to the monitoring of administrator attendance as
+   well. The recommendation for managing attendance that I have made (as set forth
+   above) applies to all employees equally and therefore includes all administrators at
+   the building and District Office levels.
+   The overall average administrative use of sick, personal, and family illness days of
+   current administrator staff is low. The overall administrators’ use of
+   conference/workshop days is commensurate with the amount of money contained
+   in their individual budgeted allocations.
+
+
+12. Teacher Evaluation
+    The teacher evaluation process, the Annual Professional Performance Review
+    (APPR), is managed and maintained within the MLP/OASYS application. Review of
+    the APPR process and compliance with observation requirements and timelines was
+    not made a part of this audit; however, the 2012 audit recommendation to use
+    OASYS to manage this complex process was successfully implemented. It should be
+    noted that MLP/OASYS is an industry standard for efficiently and effectively
+    maintaining and managing the APPR process within the K-12 environment.
+
+
+13. Mandated Training
+    The District currently provides training in DASA, Computer Security, and Emergency
+    Preparedness at the first Superintendent’s Conference Day. All staff present at the
+    training sign a sheet documenting that they were present and trained in the above
+    three topics. Staff who are not present for this training are required to receive the
+    training at another time. Participation and completion of the training is tracked by
+    the PA for all employee groups at the time of hire. New staff are provided
+    information requiring them to access the District’s website to participate in the
+    DASA and Computer Security Awareness training within one week of receipt of the
+    training information. This training is also tracked by the PA.
+
+
+
+
+                                          16
+
+                               Back to ​Table of Contents
+   In 2012, regular training with documentation regarding the date and attendance for
+   the training in the areas of Sexual Harassment and Communication concerning
+   Hazardous Substances was not occurring. A recommendation was made to train all
+   staff in both subjects.
+   During the 2019 audit training in Sexual Harassment was not in evidence. This
+   training is required by Board policy as well as regulation.
+   Recommendation: ​At a minimum, the District should include Sexual Harassment
+   training within their yearly training program. I am further recommending that the
+   District consider broadening the number of topics being presented for training and
+   use an online training system that will standardize the topic content and add
+   flexibility as to when the training can take place. Annual online trainings can be
+   easily documented by printing the training completion document which would then
+   be filed in each employee’s personnel folder.
+   The use of the Global Compliance Network online training program or a similar
+   program should be researched for use as the District’s online training program. At a
+   minimum I would recommend the following modules be used in connection with
+   the District’s annual training program:
+           a.    Employee Acceptable Use policy
+           b.    Harassment & Sexual Harassment
+           c.    Code of conduct (DASA)
+           d.    Fraternization
+           e.    Cyberbullying
+           f.    Epinephrine Auto Injection Training for NY State
+           g.    School safety
+           h.    Hazard communications
+           i.    Bloodborne Pathogens
+
+
+14. Online HR Resource Center
+    The District’s web page contains a section named “Staff Information” that provides
+    staff with links for quick reference and easy use of several HR applications such as
+    AESOP, MyLearning Plan, Staff Technology Guide, and the Westchester Teacher
+    Center. A majority of the applications require a login to use them.
+   Recommendation: ​ To improve the existing online “Staff Information” section of
+   the District’s web page, the District should modify and augment this existing
+   online resource by creating an additional area called the “HR Resource Document
+
+
+
+
+                                          17
+
+                               Back to ​Table of Contents
+   Center”. This area would require a login. The following list of documents could be
+   posted within the Center:
+          a.     Board of Education policies relating to HR matters;
+          b.     Forms used for HR functions;
+          c.     Collective Bargaining Agreements for each unit;
+          d.     the annually updated Employee Handbook;
+          e.     the guidelines for hiring staff;
+          f.     the District calendar;
+          g.     the 12-month holiday calendar;
+          h.     relevant portions of the District’s APPR plan; specifically, due dates
+                 and timelines in connection with observations and evaluations;
+          i.     the Teacher Seniority Roster;
+          j.     a link for the District’s Mandated Online Training program;
+          k.     job descriptions;
+          l.     the Extra-curricular Club Activities handbook; and
+          m.     yearly pay schedules.
+
+   Using this online resource will reduce the cost of creating and disseminating paper
+   copies of the aforementioned documents, create efficiencies to the extent that
+   changes to documents can be made easily and quickly, and provide easy access for
+   staff seeking to retrieve this information. Adding this area will also standardize and
+   increase the flow of HR information to staff. A separate section for new hires
+   within this area should include information specifically supporting new staff as they
+   become assimilated into the Irvington system.
+
+
+15. Personnel Files
+    Personnel files are files that contain many important records, correspondence,and
+    documents that are associated with each employee’s employment and tenure in
+    the district.
+   In 2012 it was noted that many personnel files contained non-compliant letters and
+   documents. District correspondence not directly issued to the employee was
+   inappropriately filed in the employee’s file. Several files inappropriately included
+   information that was part of the interview process, reference information or
+   paperwork concerning legal proceedings. The overall impression of the filing system
+   was that it required an overhaul.
+   During the 2019 audit I sampled twenty-five personnel files (about 10 percent of
+   the total staff) of teachers, administrators, clerical, teacher aides and custodians for
+
+                                          18
+
+                               Back to ​Table of Contents
+   content that should be present in an employee’s personnel file and for content
+   which should not be in a personnel file. The overwhelming majority of files audited
+   contained only the proper paperwork that should be found in an employee’s
+   personnel file.
+   Each file is well organized and has several sections separated by different colored
+   tabs which segregate subject areas for example, application and pre-employment,
+   letters of appointment, certification, in-service training, and evaluation, among
+   others. The tab system provides for an effective and easy filing/retrieval system for
+   the PA. It also maximizes her ability to efficiently and effectively manage the
+   content of each file. The PA uses a spreadsheet and checklist to monitor the status
+   of all necessary documents that are associated with hiring a new employee that are
+   required to be present in each employee’s file. The current system ensures that all
+   required documents are obtained from the new hire, thereby helping to avoid
+   important documents being omitted from the official personnel record at the time
+   of hire.
+   The current state of the files along with the system used for maintaining file records
+   is sound and in keeping with best practice in this area.
+
+
+16. Inactive Personnel Files
+    State regulations exist that guide the process of storing files for inactive employees,
+    which are employees separated from the District for any reason.
+   In 2012 the auditor was unable to determine where personnel files of inactive
+   employees were stored and how their contents were monitored. The 2012 audit
+   (Appendix I) contains the Personnel/Civil Service Regulations that should be
+   followed.
+   The 2019 audit revealed that personnel files for inactive employees are maintained
+   by the PA and filed in the Dows Lane Elementary School attic.
+   Recommendation: ​The PA has applied for a grant that will support the work
+   associated with digitizing select documents that must be retained pursuant to the
+   Retention Regulations for New York State Civil Servants. The district is awaiting the
+   award of the grant to begin the process of digitizing the required documents.
+
+
+17. Sexual Harassment Compliance Officer
+    In 2012 a recommendation was made that the District clearly identify the District’s
+    Sexual Harassment Officer, and that this information be clearly posted and
+
+                                          19
+
+                               Back to ​Table of Contents
+   identifiable to all staff. Today, the District appoints the Sexual Harassment
+   Compliance Officer at its annual reorganization meeting each July; however, I
+   question how identifiable the name of the Officer is amongst the staff.
+   Recommendation: ​ The name of the compliance officer should be posted annually
+   in the Employee Handbook which is typically updated annually during the summer
+   months. The name should also be added to the Compliance postings made available
+   to staff in each building.
+
+
+18. Compliance Postings
+    In each building’s teachers lounge there is a bulletin board on which postings
+    related to workers rights are posted for staff (e.g., Right to Know; DASA; Sexual
+    Harassment, Discrimination, FMLA, OSHA Job Safety and Health, New York
+    Breastfeeding, EEOC, Worker’s Compensation and many more.)
+
+   The presence of comprehensive postings at each work site is evidence that the
+   2012 audit recommendation to provide compliance posting information to all staff
+   was successfully implemented.
+
+   Today, legally required compliance postings were observed on the District Office
+   bulletin board. The ASIHR has reported that similar postings are present in the high
+   school, middle school, Dows Lane and Main Street schools. The large chart
+   containing most legal postings along with smaller supplemental postings at District
+   Office clearly meet both the letter and spirit of the law.
+
+
+19. Substitute Letters of Continued Assurance
+    Part time employees may be eligible for unemployment insurance for time not
+    worked during school holiday periods and the summer vacation period. Issuing a
+    Letter of Continued Assurance to each part time employee indicating that their
+    position will be available for a substantially equivalent period during the following
+    school year minimizes the amount of unemployment insurance that the employee
+    could receive. A recommendation was made in 2012 to issue such Assurance
+    letters to protect the District from incurring liability for unemployment claims from
+    part time employees.
+
+   The current audit revealed that the PA issues Letters of Continued Assurance on an
+   annual basis​ ​for both summer and school holiday periods. This effective practice
+
+
+
+                                          20
+
+                               Back to ​Table of Contents
+   has virtually eliminated the practice of part time or substitute employees filing for
+   unemployment insurance.
+
+20. Fingerprinting and Subsequent Arrest Notices
+    All employees hired on or after July 1, 2001 must be fingerprinted as a condition of
+    employment.
+
+   Subsequent Arrest Notices are issued by SED indicating that an individual who
+   either works for the District or has worked for the District was arrested. The
+   underlying infraction is not listed on the notice. Notices are sent directly to the
+   Superintendent of Schools for each district.
+
+   In 2012 the audit indicated that procedures on how to address Subsequent Arrest
+   notices were not in place.
+   In the 2019 audit all twenty-five personnel files tested demonstrated that each
+   employee was properly fingerprinted and approved for work.
+
+   The current Subsequent Arrest Notice procedure involves the Superintendent
+   receiving and immediately reviewing the notice with the ASIHR and school attorney
+   to discuss the appropriate action to be taken on the matter. A copy of the notice is
+   filed with the PA in a file kept in her office for this topic. Both actions are
+   appropriate and represent best practice in this area.
+
+
+21. Job Descriptions
+    The 2012 audit indicated that job descriptions are not required by law but help
+    ensure compliance with the Americans Disability Act (ADA). A small number of
+    clear job descriptions were evident at that time. A recommendation was made to
+    create job descriptions for each job category. The District fully complied with this
+    recommendation.
+
+   The District has job descriptions for teachers, administrators and support staff
+   housed in a large binder that resides in the PA’s office. Job descriptions are
+   detailed and well designed. The ASIHR and the PA update this book on an as
+   needed basis.
+
+    ​Recommendation: ​In addition to being available in the PA’s office, all job
+   descriptions should be posted digitally within the HR module environment so that
+   they can be easily accessed by staff.
+
+
+                                          21
+
+                               Back to ​Table of Contents
+22. Equal Employment Opportunity Commission (EEOC)
+    The District is required by law to post a notice describing the Federal laws
+    prohibiting job discrimination based on race, color, sex, national origin, age, equal
+    pay, disability or genetic information. The District displays the EEOC legal notice on
+    the Compliance Postings and in the Employee Handbook which contains Board
+    policy 6120 – Equal Employment Opportunity. The OLAS employee application
+    used by the District also contains an EEOC statement.
+   The PA is responsible for working with the ASIHR to complete the EEO-5 compliance
+   report submitted to the Federal government on a periodic basis. The District’s
+   compliance officer is designated at the Board’s Annual meeting in July of each year.
+   Recommendation:​ The name of the EEOC compliance officer be added to the
+   Employee Handbook and be posted in the HR module on an annual basis.
+
+
+23. Oath of Allegiance
+    Section 3002 of the NYS Education Law requires that citizen teachers serving in the
+    New York State public schools file a statement that they will support the
+    Constitution of the United States of America and the Constitution of the State of
+    New York. This statement is commonly known as the Oath of Allegiance.
+
+   In 2012 many files did not have a signed Oath as part of the file.
+
+   Today, a signed copy of the Oath of Allegiance was found in each of the 25
+   personnel files that were audited.
+
+
+24. Tax Shelters and Retirement System Declination
+    All applications and forms associated with opening a 403b or 457 Tax Shelter
+    annuity programs can be found in the Business Office’s files for each employee
+    participating in these programs. The District contracts with OMNI, a company that
+    specializes in managing the tax shelter application process, and OMNI provides
+    assurances to both the District and the employee that all laws and regulations
+    concerning the respective tax shelters are being followed. The use of OMNI is an
+    excellent practice because it keeps the District out of the business of navigating the
+    laws and regulations associated with opening and maintaining a tax shelter. It also
+
+
+                                          22
+
+                               Back to ​Table of Contents
+   greatly limits the District’s liability to the extent inaccurate information is provided
+   to an employee. The District’s responsibility to offer and administer both tax shelter
+   programs rests with the Assistant Superintendent for Business and the payroll
+   clerical assistant.
+
+   In 2012, both the 403b process and the declination process for part time employees
+   did not appear to be consistently applied. Today the process for dealing with both
+   issues is clearly and consistently applied. Any part time employee must be offered
+   the option to join either the Teacher’s Retirement System (TRS) or the Employee’s
+   Retirement System (ERS). Those who decline participation in the TRS or ERS sign
+   the District’s Written Acknowledgement TRS/ERS Right to Join Form and the form is
+   filed in the employee’s file in the Business office. The signed form protects the
+   District from potential future challenges that the employee was never offered an
+   opportunity to join the system at the time of hire.
+
+   Two instances were reviewed in which a part-time substitute teacher and a part
+   time teacher aide signed the form declining to participate in the respective
+   retirement system programs. Forms were filed in each employee’s personnel file in
+   the Business office.
+
+
+25. Overtime, Compensatory Time, and Extra Pay
+    Overtime is typically issued to clerical and custodial staff. Compensatory time is an
+    arrangement by which eligible employees are entitled to time off in lieu of overtime
+    pay. Extra pay for teachers would include but not be limited to clubs, interscholastic
+    sports, teaching extra periods, internal substitute teaching on free periods,
+    curriculum writing, and extra days worked that are not part of the yearly work
+    calendar requirement i.e. summer work.
+
+   The 2012 report recommended that administrative oversight be inserted in the
+   approval and payment process for overtime and comp time.
+
+   Today, the Assistant Superintendent for Business Operations actively oversees the
+   use of and the payment for overtime on a regular basis. Most custodial overtime is
+   due to scheduled events associated with the use of the district’s facilities. All
+   overtime for custodial and maintenance employees is pre-approved and managed
+   by the Supervisor of Buildings and Grounds. Overtime for clerical time is managed
+   by the building principal with oversight from the Assistant Superintendent for
+
+
+
+                                          23
+
+                               Back to ​Table of Contents
+   Business. The administration building staff overtime is managed by the respective
+   office administrator with oversight from the Assistant Superintendent for Business.
+
+   Extra pay for teachers and administrators is managed by the ASIHR with oversight
+   by the Assistant Superintendent for Business. Extra pay for teachers would include
+   but not be limited to clubs, interscholastic sports, teaching extra periods, internal
+   substitute teaching on free periods, curriculum writing, and extra days worked that
+   are not part of the yearly work calendar requirement i.e. summer work.
+
+
+26. Change Order Process
+    The change order process is used by the HR operation to inform the payroll staff of
+    a personnel change and/or a payroll change.
+   The 2012 audit recommended the institution of a Change Order system that is
+   triggered by the Board’s approval of an appropriate personnel agenda resolution.
+   The 2019 audit revealed that HR communicates all personnel changes and/or
+   payroll changes exclusively by using the Board’s approved agenda. All pay actions
+   that are not related to the payment of overtime are authorized in the form of an
+   approved Board resolution. Board resolutions exclusively dictate what action
+   administrators and/or clerical assistants are to take in terms of changing an
+   employee’s payroll status. The current Change Order system functions well.
+   Recommendation: ​One additional step can be taken in order to prevent any
+   possible miscommunication between the PA, the Board clerk, and the payroll
+   clerical assistant concerning the action taken by the Board. A paper copy of each
+   Personnel agenda should be signed by the Board clerk after each Board meeting
+   verifying that the document has been approved. The signed copy of the Personnel
+   Agenda should then be distributed to both the PA directly and Payroll Clerk by way
+   of the Assistant Superintendent for Business at the Superintendent’s debriefing
+   meeting held after every Board meeting. The signed copy of the agenda then
+   becomes the only document that drives payroll changes.
+
+
+27. Family Medical Leave Act (FMLA)
+    The Family and Medical Leave Act (FMLA) provides certain employees with up to 12
+    weeks of unpaid, job-protected leave per year. It also requires that their group
+    health benefits be maintained during the leave.
+
+
+
+
+                                         24
+
+                              Back to ​Table of Contents
+    FMLA is designed to help employees balance their work and family responsibilities
+    by allowing them to take reasonable unpaid leave for certain family and medical
+    reasons.
+    The 2012 audit revealed a lack of clarity as to the process of implementing FMLA
+    law and regulations. It also questioned the IFA’s interpretation of the 30-day leave
+    provision as the provision relates to the IFA’s Collective Bargaining Agreement in
+    regard to FMLA law and regulations and the District’s application of these
+    provisions.
+    My audit revealed that the PA under the direction of the ASIHR now administers all
+    matters relating to FMLA. This was not the case in 2012. The PA manages each case
+    using the current practice as the guiding principle and seeks the approval of the
+    ASICHR before providing FMLA parameters to the employee.
+    The only departure from the law that I observed is that the FMLA benefit still
+    provides 30 school days rather than 30 calendar days as the benefit period for time
+    allotted for pregnancy and birth. ​ ​The law calls for using calendar days – not school
+    days. For the teaching staff this translates into teacher’s being on paid or unpaid
+    FMLA leave longer than the law provides, therein adding costs associated with
+    short or long-term substitute teacher pay, and the loss of instructional time
+    provided by the permanent teacher of record.
+    Additionally, the District currently uses the school year as the defined period to
+    calculate the FMLA benefit. The Board policy dealing with FMLA names a “rolling”
+    system for defining the period to calculate this benefit.
+    Recommendation: ​While the District is aware of this discrepancy, corrective action
+    requires negotiation with the IFA. I recommend that the District work to redefine
+    and negotiate the current practice so that it meets but does not exceed the
+    provisions of FMLA law and regulations.
+    The ASIHR, the PA, and District counsel should review both issues to verify these
+    findings and, if necessary, remedy the situation.
+
+
+28. Preferred Eligible List (PEL)
+    A permanent or probationary teacher or teaching assistant whose position is
+    abolished must be placed on a preferred eligibility list (PEL) for appointment to a
+    similar position within the teacher’s tenure area of employment and remains on
+    the list for 7 years after the position is abolished. This is also called the right of first
+    refusal.
+
+
+                                             25
+
+                                 Back to ​Table of Contents
+   School-related job titles except for teachers and teaching assistants are covered
+   under Civil Service law under the category of “Classified Services.” These titles
+   include but are not limited to clerical, custodial, and teacher aide positions. Only
+   individuals holding competitive service positions are guaranteed rights in a layoff
+   situation as defined under civil service law. Some cases of non-competitive and
+   labor class positions held by honorably discharged veterans or exempt volunteer
+   firefighters may add some additional rights under the law.
+
+   The District currently has one teacher on the PEL. The PEL list is housed in the PA’s
+   office. I have researched the accuracy of this teacher’s original placement on the
+   list and found all to be in order.
+
+   Recommendation:​ I recommend that a system of notifying the teacher that her
+   right to be on the list is expiring at the end of this school year be developed by the
+   District in consultation with the school district attorney. Furthermore, I
+   recommend that her name be taken off the list on June 30, 2019. Effective July 1,
+   2019 she will no longer have the right of first refusal for any openings arising within
+   her tenure area. The District may therefore hire anyone for a job within her tenure
+   area without first contacting her to determine if she is interested in returning to
+   Irvington.
+
+   As for support staff, the District indicated that there haven’t been any Civil Service
+   layoffs that have triggered the implementation of the process employed by the
+   Department of Civil Service.
+
+
+29. Internal Job Posting
+    The District uses a posting template which is specifically designed to address the
+    unique posting requirements for each bargaining unit to post vacancies to staff.
+    The four representative samples of postings that were audited in 2019 contained
+    each of the elements that were recommended to be included in 2012, namely the
+    start ​and end date, Equal Employment Opportunity (EEO) information, rate of pay
+    and job duties associated with the vacancy.
+
+
+30. Teacher Longevity Payments
+    Longevity payments typically acknowledge time worked within a system. Payments
+    are provided for service rendered in incremental amounts, typically depending
+
+
+                                          26
+
+                               Back to ​Table of Contents
+   upon how many years a teacher works within the system. The CBA usually dictates
+   when longevity payments are paid and the amount that a teacher receives when
+   they meet the credited service time requirements.
+
+   Discussion with staff about this issue reveals that the practice of calculating
+   longevity has been inconsistent over time. This inconsistent practice seems to be
+   embedded in how the District defined “credited service” time at the time of hire
+   which is then used to trigger longevity payments. The District is now using time
+   within the Teacher’s Retirement System as the determining factor for the payment
+   of longevity. This practice has been in place for approximately three years.
+
+
+31. Teachers on Special Assignment (TOSA)
+    Teachers on Special Assignment are teachers who work as instructional coaches
+    (and/or other related services) for the instructional staff. Like any good coach,
+    instructional coaches have a high level of knowledge and expertise in the area they
+    are coaching. The District now has two elementary and one secondary instructional
+    coaches. Each provide an invaluable amount of support in teaching staff best
+    practices in their area of expertise. They also teach students directly or indirectly
+    by working in a co-teaching situation with another teacher or by facilitating demo
+    lesson to teachers. Teachers on Special Assignment report directly to the ASIHR.
+
+   Recommendation:​ The District should ensure that all Board of Education
+   appointments reflect an appropriate area of tenure for any Teachers on Special
+   Assignment.
+
+
+32. Substitute Teachers
+    The ASIHR is the District’s designated individual for recruiting and selecting
+    substitute teachers. The District hires substitute teachers three different ways:
+            1. Building Subs – Principals conduct interviews and recommend
+                candidates to the ASIHR.
+            2. Sub Fairs – Approximately 2 to 3 times a year the District advertises for a
+                sub fair. Applicants apply and are interviewed by administrators. The
+                Fairs are coordinated and managed by the ASIHR and the PA.
+            3. Rolling Hires – The District is always looking for subs and throughout the
+                year the ASIHR interviews interested candidates.
+   Substitute teachers approved for employment are then forwarded to the PA who
+   facilitates the process of obtaining reference checks and/or recommendations for
+
+                                          27
+
+                               Back to ​Table of Contents
+   employment. Once references and/or letters of reference are obtained and all new
+   employee requirements for teacher substitutes are met, the teacher is added to a
+   Board agenda for approval.
+   Substitute teachers are informally assessed by the administrative staff at the
+   building level. Specific forms are used to share both positive feedback and
+   constructive criticism of the substitute teacher’s performance. Teachers not
+   meeting Irvington standards are removed from the active service pool.
+
+   In 2012 the recommendation to designate someone to be responsible for obtaining
+   and managing teacher substitute staff was successfully accomplished with the
+   appointment of the ASIHR.
+
+   Article XIX -TEACHING LOAD of the 2009-2016 CBA paragraph ​Class Coverage
+   states:
+
+    “In the event that classroom teachers in a building are absent and a substitute
+    cannot be obtained following reasonable efforts to do so, teachers may be
+    assigned to cover the classes of an absent teacher during one or their preparation
+    periods. For this assignment, compensation will be $40 per period.”
+
+   Secondary teacher period openings are therefore sometimes filled by permanent
+   staff members who volunteer to work during their preparation periods. Teachers
+   who volunteer forgo their prep period are paid a $40 stipend to fill the period
+   vacancy. The number of cases in which this option is used is directly commensurate
+   to the ability of the District to find substitute teachers available to fill secondary
+   vacancies. The ASIHR is currently conducting an analysis of the use of permanent
+   staff to fill period vacancies, so additional research during the 2019 audit was not
+   pursued.
+
+
+33. Exit Surveys
+    The use of exit surveys was recommended in 2012 so that the thoughts and
+    opinions of staff exiting the organization could be shared with administration.
+    Currently exit surveys are now issued to employees exiting the District. Exit surveys
+    have been used and reviewed by the ASIHR and the information is then used to
+    reinforce or change practice.
+   In the 2019 survey four surveys were randomly selected for review – a retiring
+   teacher, a retiring custodian, a school monitor, and an aide. Each of the surveys was
+
+
+                                          28
+
+                               Back to ​Table of Contents
+   completed and provided specific insights regarding the District generically and/or
+   one or more of its operations. Exit surveys are stored in a separate file in the PA’s
+   office.
+
+
+34. Course Approval for Salary Advancement
+    Teacher pay is predicated on two major factors: salary steps, or vertical movement
+    through a salary schedule, and salary grade, or horizontal movement based upon
+    educational degree(s) earned and/or the number of graduate credits or in-service
+    training credits earned. Article IV of the IFA (teacher) CBA “Salary / Professional
+    Improvement” identifies the terms and conditions that are necessary to obtain
+    credit for additional salary advancement.
+
+   The 2012 audit indicated that without a standard for course approvals used for
+   salary advancement, horizontal movement or other methods to identify courses
+   that align with the mission and goals of the District, teachers could take courses
+   that have little or any value to the instructional program.
+
+   The 2019 audit reviewed several horizontal salary request applications to
+   determine the quality of the courses being used for salary advancement. All courses
+   audited were compliant with CBA requirements. Many of the courses were
+   substantive in nature and were relevant to the applicant’s area of instruction. It is
+   important to note that the process used by the ASIHR involves the careful
+   inspection of each application against the teacher’s undergraduate and graduate
+   college transcripts and previous transcripts associated with prior applications for
+   salary advancement if any exist. All courses are cross referenced to determine if
+   duplication exists. This process also allows for the inspection of the quality and the
+   appropriateness of the courses relative to the teacher’s role within the District. I
+   found this process to be sound, as it encourages staff to extend their understanding
+   and knowledge of their area of expertise by ensuring that only quality courses are
+   taken for salary advancement. This process represents a best practice method of
+   vetting course requests.
+
+
+35. Support Staff Evaluations
+    Support staff evaluations were contained in each of the several support staff
+    personnel folders reviewed during this audit. Clear evidence exists that the District
+    evaluates its support staff on an annual basis in accordance with best practices.
+
+
+
+
+                                          29
+
+                               Back to ​Table of Contents
+36. Recruitment and Selection Guidelines
+    In 2014 the ASIHR created a comprehensive set of guidelines that outline the
+    process and elements associated with recruiting, interviewing, and hiring of staff.
+    The document is entitled “Administrative Guidelines for Recruitment and Selection
+    of Certified Staff.” It provides pertinent information concerning how to determine
+    staff needs, securing applicants, procedures for sorting and screening applicants,
+    guidelines for conducting interviews, selecting finalists, and how to manage internal
+    transfer requests, among other topics.
+   Recommendation: ​The section on administrator interviews should be edited to
+   conform with current practice, including a pre-screening interview process which
+   takes place at the District Office level for all administrator job openings and
+   includes other administrators on an as needed basis. Participation in the
+   prescreening process typically includes the Superintendent’s cabinet along with
+   administrators invited by the Superintendent.
+
+
+37. Personnel Consent Agenda
+    A consent agenda is a board meeting practice that groups routine business and
+    reports into one agenda item. The consent agenda can be approved in one action,
+    rather than filing motions on each item separately.
+
+   The 2012 report recommendation to use a consent agenda for Personnel items has
+   been operationalized and continues to be an ongoing practice of the
+   Superintendent and Board of Education. It is an effective system for building an
+   agenda and for expediting Board action.
+
+
+38. Tenure Review Process
+    Under New York State law, appointed teachers achieve tenure after completing a
+    probationary period (usually 4 years) and fulfilling all the requirements for the
+    professional certificate. Having tenure means an employee may not be disciplined
+    or terminated without due process. A tenured teacher has the right to a hearing
+    before an independent arbitrator regarding charges brought against him or her.
+    This due process right protects teachers and administrators from being fired for
+    personal, arbitrary or political reasons.
+
+   The 2012 audit addressed the manual tracking versus digital tracking of
+   probationary teacher status within the nVision system. In addition, it
+   recommended designing a process wherein every probationary teacher’s and
+
+                                          30
+
+                               Back to ​Table of Contents
+administrator’s performance is reviewed every year throughout their probationary
+appointment period.
+
+There is clear evidence in the 2019 audit that this recommendation was
+operationalized. Currently there is a system used for tracking and managing timely
+tenure recommendations using the nVision program and a review system wherein
+the Superintendent annually reviews teacher, teacher assistant or administrator job
+performance with the Board of Education for staff members who are within their
+last year of probation.
+
+The first aspect of the process is a management system maintained by the PA under
+the supervision of the ASIHR. A spreadsheet contains the names of all untenured
+staff coming up for tenure, lists the number of years of probation to be served, and
+the date on which the employee is up for tenure. The number of years for the
+probationary term for teachers is established in law, regulation and case law. Under
+certain circumstances a teacher’s probationary term must be shortened. One such
+circumstance is when the teacher achieves tenure from another NYS school district.
+When this happens one year is deducted from the normal 4-year probationary
+period.
+
+Recommendation: ​ All newly hired teachers that do not provide the PA with valid
+proof of having prior tenure at the time of hire should be appointed to a four-year
+probationary term, the maximum allowable by law. When the teacher provides
+proof of having received prior tenure from a NYS school district, the teacher’s
+original appointment should then be amended by the Board to reflect this
+information. This action will ensure that teachers are serving the maximum amount
+of probationary time allowed by law, while also preventing tenure from being
+granted by estoppel.
+
+The second aspect of the tenure process is an evaluation system which deals with
+monitoring a teacher’s performance throughout his/her probationary period. The
+District’s current system is restricted to monitoring a teacher’s last year of
+probation and identifies specific points in time throughout the year when the
+superintendent, administration and Board review that teacher’s performance in the
+context of the teacher’s entire probationary period. The process/timeline
+presented by the District clearly outlines a comprehensive process:
+   1. In the Fall the District provides notice to the community of teachers and
+      administrators coming up for tenure in the Spring.
+
+
+
+                                     31
+
+                          Back to ​Table of Contents
+       2. The Board reviews candidates with the administration in January and
+          February.
+       3. The Board acts to grant tenure in the Spring.
+   This process maximizes communication among teachers, administration and the
+   Board and should maximize the ability to make necessary decisions concerning the
+   granting of tenure.
+   Recommendation: ​The Superintendent should extend the current process to
+   include the review of the probationary status of teachers each year of their
+   probationary term so that he, the ASIHR, building administrators, and the Board
+   maintain open lines of communication about the performance of each teacher
+   throughout his/her entire probationary period.
+
+
+39. Separation of Duties Procedure
+    The concept of “Separation of Duties” is defined as assigning more than one person
+    to complete a particular task and/or function. In the Business Office this concept
+    serves as an internal control intended to prevent fraud and error. For example, it is
+    one person’s responsibility to enter an employee into the payroll system of nVision,
+    and a different person is assigned the responsibility for generating payment to that
+    employee. The PA inputs all demographic data into the nVision system. The Payroll
+    and Benefits Clerk inputs the original contract salary for each new employee. The
+    Payroll and Benefits Clerk manages the payroll function to pay all employees. This
+    process maintains the appropriate separation of duties between the PA and the
+    business office.
+   The 2019 audit confirmed that this necessary separation of duty is in place.
+
+
+40. New Teacher Orientation/Teacher Academy/Mentoring Program
+    A two-day teacher orientation program is offered in late August. Topics include but
+    are not limited to District Beliefs, Philosophies, Introduction of Irvington UFSD
+    Systems, HR resources and Payroll functions, and an overview of the Pupil
+    Personnel division.
+
+   The District also maintains a mentor teacher program overseen and supported by
+   the ASIHR. This program provides direct one-to-one support to teachers requiring a
+   mentor pursuant to NYS Education Department regulations.
+
+
+
+
+                                          32
+
+                               Back to ​Table of Contents
+   Recommendation: ​Specific expectations concerning attendance should be included
+   in the program along with expectations for courses to be used for salary transfer
+   advancement purposes.
+
+
+41. District Organization Chart
+   The 2012 audit recommended that a district organizational chart be established.
+
+   During the 2019 audit, I confirmed that the District now has an organizational chart
+   that lists the relationship of the Board and district administration. As noted above,
+   the 2018-19 organizational chart is attached to this report as Exhibit D.
+
+
+42. Extracurricular Clubs
+    The payment for club advisors is addressed in Article VI “Extra Duties” of the IFA
+    CBA.
+
+   The 2012 audit recommended that an extra pay compensation table be created for
+   co-curricular stipends associated with student clubs. The audit also recommended
+   that appointment letters to club activities should be sent to each club advisor after
+   the Board approved the resolution to hire advisors. Both recommendations were
+   successfully implemented.
+
+   The 2019 audit confirmed that a comprehensive handbook of course offerings for
+   all school club activities and a series of compensation tables listing the pay rate for
+   advisors were both developed by the ASIHR. The handbook contains the club
+   offerings, description of activities, number of students anticipated to participate
+   and remuneration for each activity. The contractual stipend rate tables are used by
+   the PA when creating the Board agenda.
+
+
+43. Notification of Administrative or Other Vacancies
+    The 2012 audit indicated that the posting for administrative openings was sporadic.
+    The District now effectively uses its in-house posting system to notify all staff of
+    administrator vacancies that meet the 30 day requirement of the IFA contract. I
+    recently reviewed two postings for open administrative positions, and they were
+    appropriately issued by the PA to all staff.
+
+
+
+
+                                          33
+
+                               Back to ​Table of Contents
+   44. Board Policy Review
+      Section 6000 of the Board Policy Manual; Board policy 2160 Code of Ethics and
+      Board policies contained in the Employee Handbook were reviewed as part of the
+      2019 audit. The audit revealed that the majority of the policies posted on the
+      digital version of the District’s web site or contained in the Employee Handbook
+      were last reviewed/adopted in 2006.
+       Recommendation: ​The Superintendent and the Board of Education review Board
+       policy on an ongoing basis. I am recommending that they review and update the
+       aforementioned policies as soon as practicable so that the revisions to these
+       policies can be integrated into the HR operation’s protocols as soon as possible. I
+       further recommend that the Superintendent review the policies contained in the
+       Employee Handbook to ensure alignment with notice requirements contained in
+       the Board’s 6000 series policies.
+
+
+
+
+Conclusion
+In conclusion, notwithstanding the need to significantly create or strengthen some key
+areas of the Irvington HR operation, when taking the totality of the HR systems, processes
+and procedures into consideration the vast majority of all of the systems that exist today
+are sound and serve the District, staff, and organization well. The Superintendent,
+administrators and Board of Education effectively applied the vast majority of the
+recommendations contained in the 2012 audit to significantly strengthen the HR
+operation. The current Board’s interest in conducting a comprehensive audit of the HR
+Operation in order to assess and strengthen the procedures and practices within the HR
+operation is a testament to its commitment to transparency and to ensure an efficient and
+effective HR operation.
+
+
+Exhibit A      Full List of Recommendations
+
+Certification:
+In extenuating circumstances, a coach is placed on a Board of Education agenda for
+approval before the coach has submitted the necessary certifications/credentials to be
+hired. The Board agenda item is asterisked signifying the need for conditional approval. I
+support this practice; however, I am recommending that when a coach is placed on the
+
+
+                                              34
+
+                                  Back to ​Table of Contents
+Board agenda for conditional approval, the ASIHR issue ​a​ letter to the Athletic Director and
+the coach specifying that until the PA has copies of certifications in hand, the coach must
+not serve in any capacity as a coach in the District.
+
+Teacher Seniority Roster:
+1) ​While the District is researching where the problem lies within nVision, the Seniority
+Roster should be reconstructed manually to correct the few cases where this condition
+presents itself.
+
+2) ​Additionally, when teachers within the same tenure area are appointed at the same
+Board meeting the District has a “tie-breaker” protocol that must be applied to determine
+the relative seniority for the affected teachers. When a sampling of teachers found in a
+tie-breaking situation was tested, I found that in some cases the District’s tie-breaker
+protocol was not applied in a consistent manner, thereby resulting in situations where the
+relative seniority of teachers now needs to be adjusted to comport with the District’s rule
+of last in-first out.
+
+Going forward, the tie-breaker protocol should be used consistently, using the corrected
+Seniority Roster data.
+
+3) ​Another issue that needs to be addressed concerns when a teacher works as a leave
+replacement teacher and is thereafter hired as a probationary teacher. When the resulting
+probationary appointment is contiguous to the leave replacement assignment, the teacher
+must be given seniority credit for the days served as a leave replacement teacher. There is
+one instance in which this tie-breaker protocol was not applied, resulting in the need to
+change the relative position of one teacher in a particular tenure area.
+
+An item confirming the addition of leave replacement time should be added to the new
+hire checklist to ensure that the time is included during the onboarding process.
+
+4)​ When a probationary teacher takes a leave of absence without pay, I am recommending
+that each day of that leave be added to the teachers’ original probationary appointment
+period in accordance with case law. This will ensure that the appropriate probationary
+period required by law is preserved as much as possible. The extension of the teacher’s
+probationary period can only be effectuated by way of Board resolution.
+
+A tracking system should be developed to document all extended leave of absences during
+employee probationary periods.
+
+
+
+                                              35
+
+                                   Back to ​Table of Contents
+Staffing Charts:
+1) ​Add to the existing system of maintaining an account of all staff by generating​ ​a
+comprehensive report from nVision of all employees by job function. I highly recommend
+that the PA use this report for maintaining an ongoing Historical Summary of District
+Personnel otherwise referred to as a Table of Organization (TO) for the Full Time
+Equivalent (FTE) count of every full- and part-time staff member in the District. Exhibit C
+in the appendix is a sample of a Historical Summary of District Personnel / Table of
+Organization. This form should be adapted to reflect the staffing nuances of the district.
+2) ​I further recommend that each October the Board adopt a resolution accepting the TO
+as the District’s TO for that particular school year. The approved TO then becomes the
+baseline for future budget discussions and personnel adjustments that are made
+throughout the school year.
+
+My Learning Plan:
+The absence data generated by the three applications (MLP, nVision, AESOP) should be
+either digitally (if possible) and/or manually cross referenced by the PA on a monthly basis
+in order to reconcile the data across the three systems.
+
+
+Monitoring Teacher Attendance:
+1) ​As it is clear that there continues to be a subset of staff still exceeding acceptable limits
+for absences, the District can supplement the aforementioned process by adding a clear,
+formal, well-articulated system of reviewing and addressing absences on a regular basis. I
+further recommend that this system be managed at the District Office level under the
+direction of the ASIHR with the assistance of the PA and include a formal monthly review of
+attendance for all staff with particular attention and scrutiny upon staff members who
+consistently exceed reasonable limits over a consistent period of time. Without a more
+robust system for monitoring attendance as well as communicating, supporting and
+counseling employees who typically exceed normal absence limits, the likelihood of
+altering the poor attendance patterns of certain individuals diminishes significantly.
+In addition to introducing a more robust system for reviewing, analyzing and addressing
+staff attendance, introducing a process for validating the accuracy of registering
+attendance should be addressed as well. The current system of verifying attendance data
+is not grounded in a procedure that requires each staff member sign into work and out of
+work every day. Instead an honor system is used wherein the teacher or administrator
+communicates that they will be absent by signing into AESOP to record their absence. If a
+
+                                               36
+
+                                    Back to ​Table of Contents
+classroom teacher or non-classroom teacher (i.e. guidance counselor, psychologist or
+social worker) or administrator inadvertently forgets to register his/her absence into
+AESOP, or fails to notify the building secretary assigned with the responsibility of inputting
+attendance into the nVision system of recording absences after the fact, then the absence
+is not registered in the system in any manner.
+If a disagreement or disparity arises later between what was recorded in AESOP or nVision,
+and information that should have been recorded in AESOP or nVision is challenged, the
+resolution of the disagreement must rely on each party’s recollection as to the
+circumstances surrounding the absence.
+Further, the current practice is that AESOP data is periodically manually reconciled with
+nVision data, as nNVision maintains the official attendance record of all teacher and
+administrator attendance. A substantive weakness still exists because the data being cross
+referenced is not verified against data which can be confirmed by way of an appropriate
+sign in/sign out procedure.
+2) ​I strongly recommend that the District make every effort to institute a system for all
+employees to sign in and sign out of the building each day because a sign in and sign out
+procedure functions as proof of attendance or absence. Many districts use a sign in/sign
+out procedure that is either manual or digital. Some digital systems use an ID badge
+reader to scan an employee’s entrance or departure from the work site. A manual system
+usually is facilitated by way of a sign in/sign out sheet that is typically maintained in the
+principal’s office. Both systems create a formal, retrievable, legal imprint for all employee
+attendance and are invaluable when disagreements and/or discrepancies arise concerning
+absence.
+3) ​The District should facilitate having both AESOP and MLP communicate with each other
+digitally, so that the data can be regularly reconciled digitally rather than manually.
+4) ​Conference attendance data should be monitored on an annual basis to determine the
+impact that such attendance has on District operations, if any.
+
+
+Mandated Training:
+At a minimum, the District should include Sexual Harassment training within their yearly
+training program. I am further recommending that the District consider broadening the
+number of topics being presented for training and use an online training system that will
+standardize the topic content and add flexibility as to when the training can take place.
+Annual online trainings can be easily documented by printing the training completion
+document which would then be filed in each employee’s personnel folder.
+
+
+                                              37
+
+                                   Back to ​Table of Contents
+The use of the Global Compliance Network online training program or a similar program
+should be researched for use as the District’s online training program. At a minimum I
+would recommend the following modules be used in connection with the District’s annual
+training program:
+               a.    Employee Acceptable Use policy
+               b.    Harassment & Sexual Harassment
+               c.    Code of conduct (DASA)
+               d.    Fraternization
+               e.    Cyberbullying
+               f.    Epinephrine Auto Injection Training for NY State
+               g.    School safety
+               h.    Hazard communications
+               i.    Bloodborne Pathogens
+
+Online HR Resource Center:
+To improve the existing online “Staff Information” section of the District’s web page, the
+District should modify and augment this existing online resource by creating an additional
+area called the “HR Resource Document Center.” This area would require a login. The
+following list of documents could be posted within the Center:
+               a.    Board of Education policies relating to HR matters;
+               b.    Forms used for HR functions;
+               c.    Collective Bargaining Agreements for each unit;
+               d.    the annually updated Employee Handbook;
+               e.    the guidelines for hiring staff;
+               f.    the District calendar;
+               g.    the 12-month holiday calendar;
+               h.    relevant portions of the District’s APPR plan; specifically, due dates
+                     and timelines in connection with observations and evaluations;
+               i.    the Teacher Seniority Roster;
+               j.    a link for the District’s Mandated Online Training program;
+               k.    job descriptions;
+               l.    the Extra-curricular Club Activities handbook; and
+               m.    yearly pay schedules.
+
+Using this online resource will reduce the cost of creating and disseminating paper copies
+of the aforementioned documents, create efficiencies to the extent that changes to
+documents can be made easily and quickly, and provide easy access for staff seeking to
+retrieve this information. Adding this area will also standardize and increase the flow of HR
+information to staff. A separate section for new hires within this area should include
+
+
+                                             38
+
+                                  Back to ​Table of Contents
+information specifically supporting new staff as they become assimilated into the Irvington
+system.
+
+
+
+
+Inactive Personnel Files:
+The PA has applied for a grant that will support the work associated with digitizing select
+documents that must be retained pursuant to the Retention Regulations for New York
+State Civil Servants. The district is awaiting the award of the grant to begin the process of
+digitizing the required documents.
+
+
+Sexual Harassment Compliance Officer:
+The name of the compliance officer should be posted annually in the Employee Handbook
+which is typically updated annually during the summer months. The name should also be
+added to the Compliance postings made available to staff in each building.
+
+
+Job Descriptions:
+In addition to being available in the PA’s office, all job descriptions should be posted
+digitally within the HR module environment so that they can be easily accessed by staff.
+
+
+Equal Employment Opportunity Compliance Officer:
+The name of the EEOC compliance officer be added to the Employee Handbook and be
+posted in the HR module on an annual basis.
+
+Change Order Process:
+One additional step can be taken in order to prevent any possible miscommunication
+between the PA, the Board clerk and the payroll clerical assistant concerning the action
+taken by the Board. A paper copy of each Personnel agenda should be signed by the Board
+clerk after each Board meeting verifying that the document has been approved. The
+signed copy of the Personnel Agenda should then be distributed to both the PA directly
+and Payroll Clerk by way of the Assistant Superintendent for Business at the
+Superintendent’s debriefing meeting held after every Board meeting. The signed copy of
+the agenda then becomes the only document that drives payroll changes.
+
+
+
+                                              39
+
+                                   Back to ​Table of Contents
+Family Medical Leave Act (FMLA):
+While the District is aware of a discrepancy between District practice and law, corrective
+action requires negotiation with the IFA. I recommend that the District work to redefine
+and negotiate the current practice, so that it meets but does not exceed the provisions of
+FMLA law and regulations.
+The ASIHR, the PA and District counsel review both issues to verify these findings and if
+necessary, remedy the situation.
+
+Preferred Eligible List (PEL):
+It is recommended that a system of notifying the teacher that her right to be on the PEL list
+is expiring at the end of this school year be developed by the District in consultation with
+the school district attorney. Furthermore, it is recommended that her name be taken off
+the list on June 30, 2019. Effective July 1, 2019 she will no longer have the right of first
+refusal for any openings arising within her tenure area. The District may therefore hire
+anyone for a job within her tenure area without first contacting her to determine if she is
+interested in returning to Irvington.
+
+As for support staff, the District indicated that there haven’t been any Civil Service layoffs
+that have triggered the implementation of the process employed by the Department of
+Civil Service.
+
+
+Teachers on Special Assignment (TOSA):
+The District should ensure that all Board of Education appointments reflect an appropriate
+area of tenure for any Teachers on Special Assignment.
+
+
+Recruitment and Selection Guidelines:
+The section on administrator interviews should be edited to conform with current practice,
+including a pre-screening interview process which takes place at the District Office level for
+all administrator job openings and includes other administrators on an as needed basis.
+Participation in the prescreening process typically includes the Superintendent’s cabinet
+along with administrators invited by the Superintendent.
+
+
+Tenure Review Process:
+
+
+                                               40
+
+                                    Back to ​Table of Contents
+1) ​All newly hired teachers that do not provide the PA with valid proof of having prior
+tenure at the time of hire should be appointed to a four-year probationary term, the
+maximum allowable by law. When the teacher provides proof of having received prior
+tenure from a NYS school district, the teacher’s original appointment should then be
+amended by the Board to reflect this information. This action will ensure that teachers are
+serving the maximum amount of probationary time allowed by law, while also preventing
+tenure from being granted by estoppel.
+
+The second aspect of the tenure process is an evaluation system which deals with
+monitoring a teacher’s performance throughout his/her probationary period. The District’s
+current system is restricted to monitoring a teacher’s last year of probation and identifies
+specific points in time throughout the year when the superintendent, administration and
+Board review that teacher’s performance in the context of the teacher’s entire
+probationary period. The process/timeline presented by the District clearly outlines a
+comprehensive process:
+           1. In the Fall the District provides notice to the community of teachers and
+              administrators coming up for tenure in the Spring.
+           2. The Board reviews candidates with the administration in January and
+              February.
+           3. The Board acts to grant tenure in the Spring.
+This process maximizes communication among teacher, administration, and the Board and
+should maximize the ability to make necessary decisions concerning the granting of tenure.
+2) ​The Superintendent should extend the current process to include the review of the
+probationary status of teachers each year of their probationary term so that he, the ASIHR,
+building administrators and the Board maintain open lines of communication about the
+performance of each teacher throughout his/her entire probationary period.
+
+
+New Teacher Orientation/ Teacher Academy/Mentoring Program:
+Specific expectations concerning attendance should be included in the program along with
+expectations for courses to be used for salary transfer advancement purposes.
+
+
+Board Policy Review:
+The Superintendent and the Board of Education review Board policy on an ongoing basis. I
+am recommending that they review and update the aforementioned policies as soon as
+practicable so that the revisions to these policies can be integrated into the HR operation’s
+
+
+                                              41
+
+                                   Back to ​Table of Contents
+protocols as soon as possible. I further recommend that the Superintendent review the
+policies contained in the Employee Handbook to ensure alignment with notice
+requirements contained in the Board’s 6000 series policies.
+
+
+
+
+Exhibits B-D which are older documents are attached as separate files. Click on each to
+open and review.
+
+
+Exhibit B: 2012 HR Audit
+
+
+Exhibit C: Historical Summary of District Personnel
+
+
+Exhibit D: IUFSD 2018-19 Organizational Chart
+
+
+
+
+                                             42
+
+                                  Back to ​Table of Contents

@@ -1,0 +1,67 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/goto?open&id=8VLM3B593D5C | DATE: 2012-07-10 | TITLE: 2012-13 Reorganization Meeting/Special Meeting | 18.4 Budget Transfers
+
+Meeting: Jul 10, 2012 - 2012-13 Reorganization Meeting/Special Meeting
+Date: 2012-07-10
+Category: 18. Business Office Matters
+Subject: 18.4 Budget Transfers
+Type: Action (Consent)
+
+Budget Transfer 2011/12-35
+
+	     Credit A1620-163 (Cust/Cleaner-Substitutes)                   $2,392  (sub-cleaners)
+
+	     Debit  A1620-161-00-0002 (Cust. OT/Athletics)                $2,392
+
+	     Credit A2020-150 (Supervision-Instr. salaries)                  $2,061 (Glen Weeks & Adm. vac. pay)
+
+	     Debit  A2020-160 (Supervision- Non-Instr. salaries)          $2,061
+
+	     Credit A2110-117-00-7000 (K-3 Curr. development)          $3,788 (mentor stipends)
+
+	     Debit  A2110-110 (K-3 Instr. salaries)                                $3,788
+
+	     Credit A2110-137-00-7000 (7-12 Curr. development)        $153 (curr. work/mentor stioends)
+
+	     Debit  A2110-138 (7-12 Health payout)                              $153
+
+	     Credit A2250-150-00-0001 (Spec. Ed Sal.-CSE Chair)      $115 (vacation pay)
+
+	     Debit  A2250-150-50-0000 (Inst. Sal.- John Card.O'Con)  $115
+
+	     Credit A2850-150 (Co-Curric. Instr. Salaries)                     $434 (stipends)
+
+	     Debit  A2850-160 (Co-Curric. Non-instr. salaries)             $434
+
+	     Credit A2855-150-00-0001(Instr. salaries -Ath.Dir)          $2,875 ( vacation pay)
+
+	     Debit  A1620-160 (Plant Operations-salary)                      $2,875
+
+	     Credit A2855-151 (Intersch.-Chaperone)                          $4,425 (athletic- chaperones)
+
+	     Debit  A2850-160 (Co-Curr-Non-Instr. Salaries)                $4,425
+
+	     Credit A2855-160 (Intersch-non-instr. coaches sal.)        $4,017 (Coaching stipends)
+
+	     Debit  A1620-160 (Plant Operations-Salary)                      $4,017
+
+	     Credit A2855-161 (Intersch. Chaperone)                           $7,095 (athletic-chaperones)
+
+	     Debit  A2810-150 (Guidance-Inst. salaries)                       $7,095
+
+	These budgets transfers are to cover the 6/22/12 payroll.
+
+	Budget Transfer 12/13-01
+
+	     Credit A2010-490 (Curr. BOCES)                                     $15,000
+
+	     Debit  A2010-400-00-7000 (Curr. other expenses)         $15,000
+
+	This budget transfer is to cover Teachscape which is now offered through BOCES and therefore partially state aidable now.
+
+	Budget Transfer 12/13-02
+
+	     Credit A2110-490-40-7002 (BOCES-AESOP Substitute)   $10,000
+
+	     Debit  A2110-400-40-7001 (Other expenses-AESOP)      $10,000
+
+	This budget transfer is to cover the AESOP sub service which is being purchased through BOCES and therefore is aidable.

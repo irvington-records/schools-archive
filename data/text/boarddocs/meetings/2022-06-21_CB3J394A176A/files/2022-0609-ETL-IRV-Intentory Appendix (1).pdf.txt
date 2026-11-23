@@ -1,0 +1,248 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/pfiles/CFDRJB6D5709/$file/2022-0609-ETL-IRV-Intentory%20Appendix%20(1).pdf | DATE: 2022-06-21 | TITLE: Work Session | 13.5 Contract - OnSite Technology (IT) and Data Management Services | 2022-0609-ETL-IRV-Intentory Appendix (1).pdf
+
+                                            Exhibit A:
+
+                  Irvington UFSD Inventory/Device Distribution Procedures
+Requirements
+       •    This Procedure is provided to any Irvington UFSD Employee capable of ordering
+            technology.
+All Technology orders, hardware or software is reviewed and approved by EduTek and The Director of
+     Technology, prior to a requisition being created. The approval will be in written form and must be
+     sent with the requisition for approval by the Irvington Business Official. Hardware / Software
+     Approval form.
+        • Any User receiving a device issued to them will fill out a Device 1:1 form. See Attached,
+            Student Device 1:1 Google form or staff form.
+        • Devices can only be removed from the asset management system by EduTek.
+        • Inventory, Asset management, Collection, and Distribution take priority to all but network
+            outages or Irvington Superintendent deemed task.
+        • This procedure can only be changed via written signed consent by both Irvington
+            Superintendent and a Principle of EduTek.
+
+
+Ordering of Technology
+       •   Requests for hardware or software review are provided to EduTek and the Director of
+           Technology through the Helpdesk.
+           • Any user requesting a device, software, or other technology request, must enter a
+                helpdesk ticket under the Technology needs category.
+                    • Director of Technology will collaborate with the Building Administrator to gain
+                        approval and provide quotes based on specifications, with attached Hardware
+                        Approval form.
+       •   EduTek, reviews the request for hardware or software
+           • If hardware or software meets Irvington current environment a Hardware / Software
+                Approval form is approved, saved to the Technology share drive, emailed to the
+                requestor, and the Helpdesk ticket updated and closed.
+           • If the request does not meet the District’s current technology standard the request is
+                then escalated to the Director of Technology.
+       •   The District’s Business official reviews requisition with attached Hardware / Software
+           Approval Form.
+           • Confirms Shipping and Attention is to 40 North Broadway Irvington NY, 10533 Attn.
+                EDUTEK Technology Office.
+       •   Purchase order is forwarded to the vendor, Director of Technology, and EduTek.
+       •   Irvington Business Office Provides EduTek VIA Intra-District mail a copy of the PO with
+           appropriate quantity of Asset Tags for all hardware for items over $5000 or the asset limit
+           set by the board annually. Edutek will continue to use the Edutek tags for all items to be
+           maintained in inventory.
+
+
+Receiving new Hardware
+       •   Hardware is received and delivered by District facilities to EDUTEK Technology Office.
+       •   After receipt of newly ordered devices and peripherals, the EduTek onsite IT team will:
+           • Confirm receipt of hardware by cross referencing the PO with packing slips.
+           • Scan packing sheet and email to Director of Technology and the Technology
+               Department Office Assistant.
+           • Only EduTek Staff will unbox, asset tag, and enter appropriate information/data in the
+               current Asset Management System
+
+
+
+                                                          Educational Technology Consultants for Voice, Video & Data   1
+
+          •    Apply Edutek-provided Asset tags (serialized and non-repeating). Items over $5,000 as
+               stated above will receive a second tag required for Fixed Asset reporting. Items
+               purchased through a federal grant receive a Federal grant tag as well.
+          • EduTek Staff will create a new record in the District Asset Management system, this
+               shall include
+                   • PO Number
+                   • Date of receipt/inventory addition
+                   • Manufacturer
+                   • Model
+                   •     Serial Number
+                   • Edutek asset tag
+                   • Fixed Asset Tag (items over Asset limit)
+                   • Federal Grant Tag *If provided.
+                   • Approximate Value
+                   • Location deployed to or name of individual to whom it is assigned
+                   • Program or Grant
+                            • Program or Grant Description.
+      •   Device 1:1 form must be completed by end user for District-owned devices prior to
+          distribution
+      •   All devices will be configured appropriately with all necessary software and applications
+          provided by the District
+
+
+
+Distributing Devices
+
+Fixed Devices (Classroom/Office/Cart Devices)
+
+
+      •   Hardware distribution plan to be provided to EduTek by the Director of Technology.
+          • Distribution plan shall include Schedule, Device type, locations ,Hardware to be Asset
+             recovered.
+          • Distribution plan shall be finalized prior to July 1st.
+          • Director of Technology shall provide a plan to the Superintendent or designee for
+             approval.
+          •
+      •   Hardware will be deployed and set up based on the distribution plan.
+          • Hardware only to be deployed into spaces ready to receive devices.
+          • Wirings will be neatly managed and devices will be tested for functionality.
+          • Hardware will not be set up on Student desks permanently, or as a stop gap measure
+              without written consent of the Superintendent.
+      •   EduTek shall update the Asset management system as devices are distributed.
+      •   EduTek shall update the Asset management system with Hardware to be Asset recovered if
+          hardware is deemed unusable or not able to be repaired . See Asset Recovery procedure
+          below.
+Mobile Devices (Laptop/Chromebook)
+
+      •   Distribution Plan and Rosters
+          • Distribution plan shall include granular deployment schedule, Device type, userbase.
+          • Distribution plan shall be finalized prior to July 1st.
+          • Finalized student and staff rosters shall be provided by 1st week of August.
+          • District Registrar shall provide a list of New registrants after August 1st.
+          • EduTek will have additional devices available for users on the Registrar's list.
+          • A device will only be provided to users on either the Finalized roster or Registrar list.
+                                                         Educational Technology Consultants for Voice, Video & Data   2
+
+           •   This shall be outlined in the distribution plan.
+           •   Distribution Plan must be approved by the Superintendent prior to implementation.
+           •   Distribution plan to be provided to all administrators by the Director of Technology.
+           •   Communication of distribution plan to be sent to all community members (students
+               and staff) by the Director of Technology/Superintendent, as appropriate.
+                   • Director of Technology must send the distribution plan twice (2), the 2nd
+                       notification no later than one (1) week prior to commencement of the plan.
+                   • Distribution plan must include directions for users who cannot conform to the
+                       plan.
+                            • Arrangements must be made with the Director of Technology if a
+                                schedule conflict exists.
+
+       •   Mass Distribution of all Devices will be concluded one (1) week Prior to school opening.
+       •   All device distribution will be conducted out of an assigned space approved by the district
+       •   The plan needs to include the number of devices needing to be distributed
+           • The District will provide the appropriate number of staff to meet the plan.
+           • At least one Edutek person will supervise the process
+       •   Devices will be assigned to users based on the direction of the approved distribution plan.
+           • Devices will be scanned out to individuals based on, Serial Number and User ID
+       •   Edutek must pre-screen devices for distribution, checking for functionality, vandalism, and
+           breakage.
+           • To receive Devices, End Users will:
+           •
+           •   Have digitally accepted Acceptable Use as well as Accountability of device, and
+               requisite insurance paperwork.
+                   • Director of Technology to provide report of non-compliant users.
+           •   Bring District provided Device cases.
+           •   Device and charger will be given only to users that have their case with them.
+                   • If their case was lost, another case will be issued and documented accordingly.
+
+
+Maintenance of Devices
+
+   •   EduTek will Track via the asset management system
+          • Repairs, or insurance claims
+          • Parts replaced
+          • Cosmetic damages that are found
+                   • Sticker residue, that may not be removable
+                   • Obvious scratches/dents that do not render the device unusable.
+   •   Provide Audit log To director of Technology as requested.
+          • Audit log shall include Timestamped records
+          • Reports shall be within Asset Management software limitations.
+
+Device Collection
+
+Collection Plan
+
+       •   Collection plan shall be provided by the Director of Technology.
+       •   Collection plan shall include granular Collection schedule, Device type, userbase.
+       •   Collection plan to include devices to be Asset recovered. See Asset Recovery procedure
+           below.
+       •   Collection plan shall be finalized prior to April 1st.
+       •   Approval of Collection Plan to be signed off by District Superintendent.
+
+                                                         Educational Technology Consultants for Voice, Video & Data   3
+
+      •   Collection plan to be provided to administrators by the Director of Technology.
+      •   Communication of distribution plan to be sent to all community members (students and
+          staff) by the Director of Technology/Superintendent
+      •   Plan shall be sent twice (2), the 2nd notification no later than one (1) week prior to
+          commencement of the plan.
+          • Distribution plan must include directions for users who cannot conform to the plan,
+               such as not being able to be present to receive a device on the specific date/dates
+               identified.
+                   • Arrangements must be made with the Director of Technology if a schedule
+                        conflict exists.
+          • Mass Collection of all Devices will be mutually agreed upon as per the plan prior to
+               school closing for summer.
+      •   Device collection will be conducted:
+          • 1:1 Devices will be collected out of a central location in each building.
+          • Classroom devices will be picked up from classrooms as needed per Collection Plan.
+      •
+      •   The plan needs to include the number of devices needing to be collected
+      •   The District will provide the appropriate number of staff to meet the plan.
+      •   At least one Edutek person will supervise the process
+      •   Users will keep cases for future acceptance of devices by students in all grades 6-11.
+          • 12th grade cases will be collected upon graduation.
+      •   Devices will be logged into the inventory management tool by scanning device tags and
+          documenting return status and condition.
+      •   Emails will be generated by Asset management system for receipt.
+      •   Damaged devices will be appropriately documented and claims will be filed if insurance is
+          active.
+      •   EduTek to provide a report to Director of technology of missing and damaged devices after
+          Third week of July.
+
+
+
+Inventory maintenance
+
+Room Based Devices
+
+      •   A physical inventory of all room-based devices will be conducted for three (3) weeks over
+          the final two (2) weeks of the calendar year and the first (1) week of January.
+      •   Two of the onsite Technicians will be dedicated to the inventory and unavailable for
+          desktop support or projects based on a mutually agreed upon schedule..
+      •   Inventory shall include mobile devices assigned to carts or rooms.
+      •   A check of Devices Allocated to users will not be part of this inventory.
+      •   EduTek To provide a report of missing or damaged devices to DOT & Superintendent for
+          review.
+
+
+User Devices
+
+      •  An Inventory of user-based devices will commence following device collection.
+      Two of the onsite Technicians will be dedicated to the inventory and unavailable for desktop
+         support or projects.
+      • A reconciliation of received devices will be conducted and a report shall be provided to the
+         Director of Technology and Superintendent of schools.
+      • Director of Technology, or School Admin shall notify users of missing devices.
+      • EduTek to disable devices at the direction of the Director of Technology.
+      • Director of Technology to provide a report of Users approved to keep district devices.
+                                                        Educational Technology Consultants for Voice, Video & Data   4
+
+      •   Must be provided one (1) week prior to device collection and shall be included in device
+          collection plan.
+
+Asset Recovery
+
+      •   Director of Technology shall provide a written plan of Hardware to be recovered.
+      •   Edutek to make recommendations for devices to be discarded based on IT expertise
+      •   EduTek to Properly deprovisioned in the inventory management tool and Google Admin
+          Console.
+      •   EduTek to provide a report to the Irvington Business official in spreadsheet format of
+          devices to be asset recovered.
+      •   Report shall include Make, Model, Asset tag(s), Serial number.
+      •   Devices will not be recycled until approval by the Board of Education and Irvington
+          Business official approves in writing.
+
+
+
+
+                                                        Educational Technology Consultants for Voice, Video & Data   5
+

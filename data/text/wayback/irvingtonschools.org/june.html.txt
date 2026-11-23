@@ -1,0 +1,151 @@
+SOURCE http://www.irvingtonschools.org:80/june.html | DATE 2004-11-14 | TITLE june.html
+
+<TITLE>June ~ 1999</TITLE>
+<TABLE BORDER CELLSPACING=2 BORDERCOLOR="#000000" CELLPADDING=2 WIDTH=959>
+<TR><TD WIDTH="29%" VALIGN="MIDDLE" COLSPAN=2 HEIGHT=76>
+<P ALIGN="CENTER"><B><FONT SIZE=5>1999</B></FONT></TD>
+<TD WIDTH="43%" VALIGN="MIDDLE" COLSPAN=3 HEIGHT=76>
+<I><FONT SIZE=7><P ALIGN="CENTER">June</I></FONT></TD>
+<TD WIDTH="29%" VALIGN="MIDDLE" COLSPAN=2 HEIGHT=76>
+<B><FONT SIZE=5><P ALIGN="CENTER">1999</B></FONT></TD>
+</TR>
+<TR><TD WIDTH="14%" VALIGN="MIDDLE" HEIGHT=35>
+<B><P ALIGN="CENTER">Sunday</B></TD>
+<TD WIDTH="14%" VALIGN="MIDDLE" HEIGHT=35>
+<B><P ALIGN="CENTER">Monday</B></TD>
+<TD WIDTH="14%" VALIGN="MIDDLE" HEIGHT=35>
+<B><P ALIGN="CENTER">Tuesday</B></TD>
+<TD WIDTH="14%" VALIGN="MIDDLE" HEIGHT=35>
+<B><P ALIGN="CENTER">Wednesday</B></TD>
+<TD WIDTH="14%" VALIGN="MIDDLE" HEIGHT=35>
+<B><P ALIGN="CENTER">Thursday</B></TD>
+<TD WIDTH="14%" VALIGN="MIDDLE" HEIGHT=35>
+<B><P ALIGN="CENTER">Friday</B></TD>
+<TD WIDTH="14%" VALIGN="MIDDLE" HEIGHT=35>
+<B><P ALIGN="CENTER">Saturday</B></TD>
+</TR>
+<TR><TD WIDTH="14%" VALIGN="TOP" HEIGHT=115>
+<FONT SIZE=1><P>&nbsp;</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=115>
+<FONT SIZE=1><P>&nbsp;</P>
+<P>&nbsp;</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=115>
+<FONT SIZE=1><P>&nbsp;</P>
+<P>1 Grade 8 NYS Assessments - ELA &amp; Math</P>
+<P>NYS Math Test Grade 4</P>
+<P>IMS Accelerated Art Show</P>
+<P>Board Public Meeting</P>
+<P>7:30 pm IMS Auditorium</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=115>
+<FONT SIZE=1><P>2 Grade 8 NYS Assessments- ELA &amp; Math</P>
+<P>NYS Math Test Grade 4</P>
+<P>IMS Grade 5 Orientation 9:30 am Students, 7:30 pm Parents</P>
+<P>Senior Award Program</P>
+<P>Dinner 7:30 pm IHS Gym</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=115>
+<FONT SIZE=1><P>3 Grade 8 NYS Assessments -</P>
+<P>ELA &amp; Math</P>
+<P>NYS Math Test Grade 4</P>
+<P>IHS Vocal &amp; Instrumental Music Solo Recital 7:30 pm Vocal Room </P>
+<P>IHS Site Committee Meeting</P>
+<P>3:30 - 5 pm</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=115>
+<FONT SIZE=1><P>&nbsp;</P>
+<P>4 Grade 8 NYS Assessments - ELA &amp; Math</P>
+<P>NYS Math Test Grade 4</P>
+<P>PTSA DL Pizza Ends</P>
+<P>New York State School Music Association Solo Evaluations</P>
+<P>Site to be determined</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" BGCOLOR="#ffffff" HEIGHT=115>
+<FONT SIZE=1><P>5 S.A.T. I &amp; S.A.T. II</P>
+<P>New York State School Music Association Solo Evaluations</P>
+<P>Site to be determined</FONT></TD>
+</TR>
+<TR><TD WIDTH="14%" VALIGN="TOP" BGCOLOR="#ffffff" HEIGHT=115>
+<FONT SIZE=1><P>6 </FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=115>
+<FONT SIZE=1><P>7 IHS Senior Sports Banquet 7 pm Tarrytown Hilton</P>
+<P>Senior Final Exams</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=115>
+<FONT SIZE=1><P>8 IMS Site Committee Meeting 3:45 - 5:15 pm</P>
+<P>Senior Final Exams</P>
+<P>I.E.F. Meeting </P>
+<P>7:45 pm IMS Library</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=115>
+<FONT SIZE=1><P>9 DL Musical 7 pm</P>
+<P>Town Hall Theatre</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=115>
+<FONT SIZE=1><P>10 </FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=115>
+<FONT SIZE=1><P>11 </FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" BGCOLOR="#ffffff" HEIGHT=115>
+<FONT SIZE=1><P>12 IHS Commencement </P>
+<P>5 pm</FONT></TD>
+</TR>
+<TR><TD WIDTH="14%" VALIGN="TOP" BGCOLOR="#ffffff" HEIGHT=115>
+<FONT SIZE=1><P>13 </FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=115>
+<FONT SIZE=1><P>14 PTSA General Membership Meeting 7:30 pm IMS Auditorium</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=115>
+<FONT SIZE=1><P>15Y.A.C. Career Switch Day 9:30 - 10:45 am</P>
+<P>Board Public Meeting 7:30 pm IMS Auditorium</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=115>
+<FONT SIZE=1><P>16 IMS/IHS Regents Testing</P>
+<P>IHS Final Exams </FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=115>
+<FONT SIZE=1><P>17 IMS/IHS Regents Testing</P>
+<P>IHS Final Exams</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=115>
+<FONT SIZE=1><P>18 IMS/IHS Regents Testing</P>
+<P>IHS Final Exams</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" BGCOLOR="#ffffff" HEIGHT=115>
+<FONT SIZE=1><P>19 </FONT></TD>
+</TR>
+<TR><TD WIDTH="14%" VALIGN="TOP" BGCOLOR="#ffffff" HEIGHT=115>
+<FONT SIZE=1><P>20 FATHER'S DAY</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=115>
+<FONT SIZE=1><P>21 IMS/IHS Regents Testing</P>
+<P>IHS Final Exams</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=115>
+<FONT SIZE=1><P>22 IMS/IHS Regents Testing</P>
+<P>IHS Final Exams</P>
+<P>PTSA DL Staff Recognition</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=115>
+<FONT SIZE=1><P>23 IMS/IHS Regents Testing</P>
+<P>IHS Final Exams</P>
+<P>Grade 8 Dinner 5:30 - 7 pm</P>
+<P>IMS Dance 7 - 10 pm</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=115>
+<FONT SIZE=1><P>24 IMS/IHS Regents Testing</P>
+<P>DL Moving Up Ceremony </P>
+<P>9:15 am</P>
+<P>IMS Graduation 7 pm</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=115>
+<FONT SIZE=1><P>25 Last Day of School</P>
+<P>DL Report Cards</P>
+<P>Regents Rating Day</P>
+<P>IHS Report Cards</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" BGCOLOR="#ffffff" HEIGHT=115>
+<FONT SIZE=1><P>26 </FONT></TD>
+</TR>
+<TR><TD WIDTH="14%" VALIGN="TOP" BGCOLOR="#ffffff" HEIGHT=115>
+<FONT SIZE=1><P>27 </FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=115>
+<FONT SIZE=1><P>28 </FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=115>
+<FONT SIZE=1><P>29 </FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=115>
+<FONT SIZE=1><P>30 </FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=115>
+<FONT SIZE=1><P>&nbsp;</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=115>
+<FONT SIZE=1><P>&nbsp;</P>
+<P>&nbsp;</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=115>
+<FONT SIZE=1><P>&nbsp;</P>
+<P>&nbsp;</FONT></TD>
+</TR>
+</TABLE>

@@ -1,0 +1,736 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/pfiles/9XLKZH4D40F9/$file/EduTek.pdf | DATE: 2015-07-07 | TITLE: 2015-16 Reorganization Meeting/Special Meeting | 14.6 Contracts - On Site Technology (IT) Services | EduTek.pdf
+
+[OCR]
+PROPOSAL & CONSULTANT AGREEMENT
+For
+Onsite Information Technology (IT) Services 2015-2016
+
+Between the District (D) and Technology Consultant (TC)
+
+Between
+Irvington Union Free School District (IUFSD)
+and
+
+Edu Tek Ltd. (ETL)
+
+Dated this 17°" day of June, Two Thousand and Fifteen
+
+[OCR]
+PROJECT DESCRIPTION
+Working with the Irvington Union Free School District, (IUFSD) Edu Tek Limited (ETL) will provide
+comprehensive Information Technology (IT) services at each of the district's three sites: the Dows
+Lane ES (including the relocated district offices), Main Street ES and the Middle/High School campus.
+This agreement will commence on July 1, 2015 and end on June 30, 2016. Edu Tek will support the
+
+district’s Local Area Networks (LAN’s) and Wide Area Network (WANs). This service includes support
+for all operating systems currently in use at all sites The IT support described will be performed by:
+
+* One (1) on-site, full-time, Level I! System Engineer
+
+* One (1) on-site, half-time, Level | System Engineer
+
+SCOPE OF SERVICES
+The scope of services contained in this agreement includes but is not limited to the following:
+
+System Support & Maintenance
+
+we
+
+. Install and support computers (PC’s).
+
+N
+
+. Troubleshoot computer hardware issues.
+
+w
+
+. Maintain current Symantec Ghost image library for machine duplication.
+
+4, Install and configure printers.
+
+w
+
+. Troubleshoot printing issues.
+
+6. Install and configure ancillary computer hardware (i.e. scanners, LCD projectors, electronic
+
+whiteboards, keyboards, mice, probes and PDA's).
+7. Provide basic software support and troubleshooting for desktop software applications.
+
+8. Interface with vendors to address warranty issues for hardware and software.
+
+Networking Management
+
+9. Administer Microsoft Active Directory.
+10. Administer Novell Directory Services (NDS).
+
+11. Install and configure networked applications.
+12. Administer the district’s backup drives and tape rotation.
+13. Maintain and manage all district servers.
+
+14. Setup and manage user accounts and passwords.
+
+Piia.com causa
+
+gy Consultants for Voice, Video & Data
+
+
+[OCR]
+15. Perform annual network migration of students from building to building and between grades.
+16. Manage security policies (i.e. Student, Teacher & Administrative)
+17. Install servers, backup drives and network cards.
+
+18. Install and maintain anti-virus system.
+
+Internet Support
+1. Setup and configure email accounts using Microsoft Exchange Server.
+2. Deploy Antivirus definition updates on a regular basis.
+3. Configure routers and switches.
+4. Manage internet filtering requests.
+
+5. Configure & maintain firewall.
+
+Technology Management
+
+. Make recommendations in the development of the district technology plan.
+
+N
+
+. Review technology budget proposal and service contracts for alignment with plan
+
+recommendations.
+
+w
+
+. Assist in budget development by providing analysis of District's networking needs and
+
+recommending hardware and network software.
+
+>
+
+Develop criteria and attend to details of annual technology deployment plan.
+
+w
+
+. Price and assist in the procurement of technology equipment in accordance with State bids as
+
+part of the annual deployment plan
+
+cad
+
+Meet with data consultant teams to discuss technology requirements for district participation in
+data warehousing.
+
+7. Update district equipment inventories on an as needed basis.
+
+8. Assist in developing, implementing and supporting solutions as per the District Technology Plan
+for SAN/Disaster Recovery Systems, alternative email solutions and compliance with NYS
+
+electronic records retention policies.
+
+Educational Technology Consultants for Voice, Video & Data
+
+Piitacom
+
+‘soe tei tented
+
+
+[OCR]
+PROPOSAL ASSUMPTIONS
+
+1. The owner will provide the necessary hardware and/or software or will reimburse Edu Tek for
+
+items procured to make repairs to computer equipment.
+
+N
+
+. The owner will provide Edu Tek with all necessary rights/passwords to administer the entire
+
+district’s network.
+
+w
+
+. Non-contractual services requested that cannot be completed within the time allotted per this
+
+contract will be negotiated for separately and will be billed as additional services.
+
+>
+
+The district will not be responsible for any employee benefits for Edu Tek employees.
+
+w
+
+. The owner will provide a viable technology budget for the project and our services, which shall
+include contingencies for changes during implementation and other costs which are the
+
+responsibility of the Owner.
+
+a
+
+The district will designate a representative authorized to act in the owner’s behalf with respect
+
+to the project at the time of the execution of this agreement.
+
+N
+
+. Should this agreement be terminated or discontinued at the end of the current period, the
+district agrees that they are precluded from employing current or former Edu Tek Ltd.
+employees directly or through competing firms for the duration of the project or within twenty-
+four (24) months of the date of termination or discontinuation of this agreement, whichever is
+longer.
+
+8. If a project requires either weekend and/or after hours attention a fixed fee will be negotiated
+
+for the service. ETL will be reimbursed for all overtime expenses either monetarily or by credit
+
+for time on site.
+
+»
+
+The district will provide an IT support structure, including staffing, commensurate with the size
+and requirements of the network.
+10. The district or Edu Tek may revoke this contract at any time with ninety (90) days notice.
+11, The district may request a change of staffing at any time and ETL will provide alternate staff with
+sixty (60) days notice.
+12. The district will make the worksite available during normal working hours to Edu Tek’s onsite
+staff all weekdays unless listed as a holiday in the SCHEDULE section below. This includes school
+
+vacation periods.
+
+Educational Technology Consultants for Voice, Video &
+
+Priia.com
+
+
+[OCR]
+SERVICES NOT INCLUDED
+
+The following services are not included in proposed basic services. These services can be provided as
+an additional service when authorized by the district. The services of a licensed electrical contractor
+
+are not included in our services.
+
+1. The district will continue to obtain the following services from a third-party provider and thus
+
+they would not be a part of Edu Tek’s base service:
+@ Internet Service
+Internet Filtering
+# Successmaker Support & Maintenance
+General Software Training
+@ District Test Scoring
+
+Leap & Step Reporting
+
+Educational Technology Consultants for Voice, Video & Data
+
+Phiacom
+
+
+[OCR]
+Piitacom
+
+ie tsk ted
+
+SCHEDULE
+
+Project Commencement
+
+The anticipated project start date is July 1%, 2015.
+
+Daily & Weekly
+
+Edu Tek will provide One (1) onsite, full-time, Level Il System Engineer, for forty (40) hours per week,
+52 weeks per year, less discretionary time described below. Their schedule will be from 8:00am until
+4:30pm and they will receive % hour for lunch unless another mutually agreeable schedule is
+determined. Additionally, Edu Tek will provide One (1) onsite, half-time, Level | System Engineer, for
+twenty (20) hours per week, 52 weeks per year, less discretionary time described below. Their
+schedule will be from 8:00am until 4:30pm, Tuesday and Thursdays and 8:00am until 12:30pm
+Wednesday’s. They will receive % hour for lunch unless another mutually agreeable schedule is
+determined. Twice monthly Edu Tek requests attendance at project status meetings in our
+Mamaroneck office at 4:30 PM by all employees. If there are no urgent matters requiring our
+immediate attention, we request that that the onsite staff be dismissed one half hour (.5) early (4:00
+
+PM) and allowed to attend these biweekly meetings.
+Transfer:
+
+To ensure stability and integrity of its network operations the district requires that Edu Tek personnel
+transfers and assignments to/from district schools meet the approval of the Superintendent of
+Schools. The Superintendent of Schools reserves the right to approve and/or disapprove any
+individual hired by Edu Tek to be an on-site network specialist for any reason he/she deems
+appropriate. The transfer of an existing on-site network specialist to another district during the school
+year must be approved by the Superintendent of Schools. The district requires that any personnel
+
+changes being considered be effectuated at a time least disruptive to its day-to-day operations.
+
+Discretionary e
+
+For each full time Edu Tek Staff position held in district Edu Tek will receive two (2) weeks or ten (10)
+days of discretionary time in addition to holidays (see below). For each half-time Edu Tek Staff
+position held in district Edu Tek will receive one (1) week or five (5) days of discretionary time in
+addition to holidays (see below). This time will be used to fill employee vacation and sickness
+requests. The time may also be used to provide training to our onsite staff or to perform tasks not
+
+related to the district. Notice regarding the use of discretionary time, in excess of two (2) days in
+
+nat Technology Consultants for Voice, Video & Dato
+
+[OCR]
+duration, will be discussed with the district at least two-weeks prior to commencement.
+Vacations
+
+So that the district has consistent on site coverage Edu Tek will make every effort to ensure that
+employee vacations do not overlap. Edu Tek will make every effort to coincide employee vacations
+
+with non-holiday district closures to provide consistent coverage throughout the schoo! year.
+
+Sick Days
+
+Edu Tek will make every effort to provide same day coverage for an ill employee who is unable to be
+present on a given day. If we are not able to provide a substitute employee for a given day the time
+
+absent will be counted against our discretionary time.
+
+Holidays
+
+Edu Tek Limited does not provide onsite coverage during the following holidays. (Note: These
+holidays are not included in the discretionary time):
+
+e Labor Day
+
+e = Columbus Day
+
+~~ Veteran’s Day
+
+* Thanksgiving Day and Friday after
+
+« % Day Christmas Eve Day
+
+¢ Christmas Day
+
+©  % Day New Years Eve Day
+
+* New Years Day
+
+¢ = Martin Luther King Day
+
+e = President’s Day
+
+¢ = Good Friday
+
+¢ Memorial Day
+
+«Independence Day
+
+Emergency School closures
+
+School closures due to emergencies including snow do not count against our allotted discretionary
+
+time.
+
+Phitacom
+
+eae tek bores
+
+Educational Technology Consultants for Voice, Video & Data
+
+
+[OCR]
+COMPENSATION
+
+Based on the SCOPE OF SERVICES and PROPOSAL ASSUMPTIONS described above, we propose the
+
+following fee:
+
+Item Proposed Fee
+
+$15,366.25.00/ Month
+On Site for 12-months
+
+$184,395.00/Year
+Optional Monitoring Package “Large” $7,110.00/Year
+Hourly Fee for Additional Services (Per Hour) See Pricing Matrix
+
+1. The Technology Consultant shall invoice the district monthly for the portion of the fee due and
+any reimbursable expenses incurred in preceding month. The Technology Consultant shall
+include supporting data as may be required by the district. Payment will be made within thirty
+(30) days of receipt of the invoice by the district.
+
+2. Acceptance by the Technology Consultant of the final payment under this agreement, shall
+constitute a full and complete release of the district from any and all claims, demands, and
+causes of action whatsoever, which the Technology Consultant, its successors have or may have
+against the district under the provisions of this Agreement.
+
+3. Payments for Reimbursable Costs shall be made monthly, upon presentation of a statement of
+costs incurred, including such supporting data as may be required by the district. Such
+
+statements shall be submitted concurrently with the invoices referred to above.
+
+Educational Technology Consultants for Voice, Video & Data
+
+Pitacom
+
+a Fi
+
+
+[OCR]
+ADDITIONAL SERVICES
+
+Additional services are services beyond those indicated in this proposal and include revisions due to
+adjustments in the project scope, quality, complexity, schedule, or budget. Additional services will be
+billed at our standard hourly rates. And those of our consultants plus 15%.
+
+Fee will be either:
+
+1. Negotiated Fixed Fee. Or.
+2. Hourly Service rates as outlined.
+
+TC shall be compensated for additional services by the Owner for the following:
+
+1. Legal-Preparing to serve or serving as a witness in conjunction with any public hearing,
+arbitration proceeding, legal proceeding or labor dispute except if subpoenaed by or testifying on
+behalf of a party other than the School District.
+
+2. Employee Overtime-If required by the Project Schedule, additional onsite monitoring exceeding
+the typical eight (8) hour work day.
+
+3. Weekends & Holidays-If required by the Project Schedule, weekends and holidays will be billed at
+a standard rate of $800.00 per day, per employee.
+
+Additional Services Matrix
+
+Skill Set [_Hourly Rate
+System Engineer Microsoft
+
+Level One $115.00
+Level Two $135.00
+Internetworking Engineer
+
+Level One $120.00
+Level Two $145.00
+Security Engineer
+
+Level One $125.00
+Level Two $145.00
+SAN Engineer
+
+Level One $120.00
+Level Two $145.00
+Desktop Technician
+
+Level One $65.00
+Level Two $85.00
+
+Educational Technology Consuttants for Voice, Video & Data
+
+Peiia.com
+
+
+[OCR]
+Staffing Definitions
+
+System Engineer Level One
+Certifications - MCSP, CAN, CLA or equivalent experience
+Skill Set:
+
+* — Ability to install Network operating system and perform simple operating system upgrades (not
+requiring any data or application movement/migration).
+
+* Basic operating system troubleshooting
+
+* — Standard network/local printing and print queue installation and management.
+
+* General network Administration (adding users, groups, shares, printers).
+
+¢ — Server hardware configuration.
+
+* Rack device installations and cable management.
+
+* SCSI attached storage subsystems.
+
+* Implementation of Patch process for individual NOS.
+
+* Non configurable/non manageable switch installations.
+
+* Stand-alone Tape drive installations.
+
+¢ Approved server based (non enterprise) tape backup software installation and configuration
+(specific agents may require a SE Level 2).
+
+* General server diagramming and documentation
+
+System Engineer Level Two
+Certifications - MCSE, CNE, CLE or equivalent experience
+Skill Set:
+
+* — Ability to install Network operating system and perform more complex upgrades (application and
+data moves must be well defined and pre-approved)
+
+* Advanced troubleshooting of operating system.
+
+* Advanced network/local printing such as shared faxing and shared scanning.
+
+* Advanced network Administration such as Directory and Domain troubleshooting.
+
+* Cluster Hardware configurations
+
+* Blade Server configurations
+
+* Entry Level NAS/SAN (Fiber Attached Subsystems and Appliance NAS devices) in cluster
+configurations only. Does not include additional products for load balancing or active-active
+failure.
+
+* Implementation of Patch process for Server group such as Microsoft Servers using bundled
+solutions such as SUS, WUS and Zenworks.
+
+* Entry level managed/configurable switches not requiring routing, trouncing, or multiple
+
+manufacturer switch operation.
+
+Paitacom cave
+
+eaesee boritee
+
+nology Consultants for Voice, Video & Data 10
+
+[OCR]
+FPiitacom
+
+ae sk fo
+
+¢ Standalone tape drive installations including autoloaders.
+¢ Approved server based (non enterprise) tape backup software installation and configuration and
+installation of approved backup agents including remote agents.
+
+¢ Server Centric diagramming and documentation
+
+Internetworking Engineer Level One
+Certifications - CCNA or equivalent experience
+Skill Set:
+
+* — Entry Level Engineer with ability to configure and install Network devices such as switches and
+routers not requiring advanced configurations.
+
+* Troubleshooting basic switched and routed environments.
+
+* — Layer 2 switch configurations including VLAN, Trunking, Channeling.
+
+* Basic router configurations using static routing, (no routing protocols or QoS)
+
+* Basic ACL's knowledge
+
+* Small to Medium Business basic Infrastructure design including IP addressing and Subnetting.
+
+* Router and switch image upgrades (that will not be impacted by routing protocols)
+
+* Basic internet and site-to-site connectivity (excluding VPNs)
+
+* General Network Diagramming and documentation
+
+Internetworking Engineer Level Two
+Certifications - CCNP or equivalent experience)
+Skill Set:
+
+¢ Mid Level Engineer should have all of the skill sets of Level 2 plus
+
+* Troubleshooting of advanced switched and routed environments.
+
+* Layer 2 switch configurations including VLAN, Trunking, Channeling and advanced STP
+configurations.
+
+* Layer 3 switch configurations including Basic routing protocols.
+
+¢ Advanced router configurations including routing protocols EIGRP, OSPF, RIP, IGRP
+¢ Advanced ACL's knowledge and the ability to configure.
+
+* Basic wireless installations including basic authentication (WEP, MAC)
+
+* Basic Infrastructure design
+
+* Basic knowledge of SNMP, SYSLOG, DNS, NTP, TACACS/Radius
+
+* Router and switch image upgrades which can be impacted by routing protocols.
+
+* — Site-to-site connectivity such as inter and intra site routing (Excluding VPNs)
+
+* General Network Diagramming and documentation
+
+Educational Technology Consultants for Voice, Video & Data a
+
+
+[OCR]
+Security Engineer Level One
+Certifications - Cisco Qualified Specialist or equivalent experience
+Skill Set:
+
+* Entry Level Engineer with ability to configure and install basic security devices including SOHO,
+and workgroup with one DMZ.
+
+* Basic firewall troubleshooting
+
+* Basic VPN configurations (Must be same devices for Site-to-Site), and User VPN using only
+firewall authentication.
+
+* Implementation of integrated add-ons such as general content filtering and web blocking.
+
+* Basic ACL's knowledge
+
+* Basic knowledge or DNS, NTP, RADIUS/TACACS.
+
+* Basic firewall upgrades
+
+* Basic Network and security diagramming and documentation
+
+Security Engineer Level Two
+Certifications - CSSP or equivalent experience
+Skill Set:
+
+* Mid Level Security engineer should have all of the skill sets of Level 2 plus
+
+* Perform basic security assessments
+
+¢ Advanced firewall and security device troubleshooting.
+
+* Advanced firewalls installations including firewall clusters, failover and advanced features.
+
+* Advanced VPN configurations (can include different manufacturers VPN devices if approved. Can
+include advanced authentication methods.)
+
+* Implementation point security products such as advanced or stand alone web filtering, spam
+filtering, authentication servers.
+
+* — Intrusion Detection device installations set to default values
+
+* Advanced ACL's knowledge and the ability to configure.
+
+* Ability to configure DNS, NTP, RADIUS/TACACS, IP protocols
+
+* Custom security audits and assessments (excluding external only vulnerability assessments).
+
+* Security Policy/Procedure design, review.
+
+* General Network and security diagramming and documentation
+
+hnology Consultants for Voice, Video & Data 12
+
+Piidcom conan
+
+[OCR]
+SAN Engineer Level One
+Certifications - SAN Architect
+Skill Set:
+
+Entry Level NAS/SAN engineer with the ability to design and implement general NAS and SAN
+devices such as EVA 3000.
+
+Entry Level DAS/NAS/SAN in cluster configurations only that require load balancing and active-
+active failover.
+
+Installation of basic fabric switching.
+
+Installation of basic SAN appliance.
+
+Advanced NAS configurations and implementations as appropriate to the workgroup SAN level.
+Basic Tape Library installations and configurations.
+
+Basic Enterprise tape backup software installation and configurations.
+
+Entry level SAN design and documentation.
+
+SAN Engineer Level Two
+Certifications - Master SAN Architect
+Skill Set:
+
+Lea litd com Educational Technology Ce
+7
+* vie
+
+Advanced Level SAN engineer with the ability to design and implement enterprise level SAN
+devices.
+
+Advanced SAN configurations such as those requiring data replication, automated cloning and
+snapshotting.
+
+Installation of advanced fabric switching such as data directors.
+
+Installation of advanced SAN appliance.
+
+Advanced NAS configurations and implementations as appropriate to the workgroup SAN level.
+Advanced Tape Library installations and configurations integrating special features.
+
+Advanced Enterprise tape backup software installation and configurations such as those that
+leverage distributed data replication.
+
+Data protection strategies
+
+Storage Auditing
+
+Storage Content Control
+
+Data Replication Strategies
+
+Disaster recovery strategies
+
+SAN Architecture and documentation
+
+tants for Voice, Video & Data
+
+13
+
+[OCR]
+Desktop Technician Level One
+Certifications: At MCP
+Skill Set
+
+.
+
+Troubleshooting of desktops
+Hardrive and System board swaps
+Memory and Card Installations
+Basic Desktop OS troubleshooting
+
+Bench repair work
+
+Desktop Technician Level Two
+Certifications: At MCP MCSP
+Skill Set
+
+First and second level on-site desktop support.
+Capable of moves, adds and changes in a network environment
+System imaging
+
+Desktop and Printer installation
+
+Rig Educational Technology Consultants for Voice, Video & Data
+com
+doeteh ites
+
+14
+
+[OCR]
+AGREEMENT
+If this proposal is acceptable, please sign one copy and return it to Edu Tek for our files. It will serve as a
+contract between the Owner and the Technology Consultant for this project.
+
+Thank you for considering Edu Tek Limited for this project. We look forward to continuing our productive
+
+relationship with your school district as we work together to support your educational technology.
+
+Sincerely,
+
+Micah Orifici
+CEO
+Edu Tek Ltd.
+
+ACCEPTED:
+
+BY:
+
+TITLE:
+
+DATE:
+
+Educational Technology Consultants for Voice, Video & Data
+
+Phiacom
+
+

@@ -1,0 +1,3 @@
+SOURCE https://drive.google.com/file/d/1v6rFB9QAmkKaGxH-A8svMKqrYzcOrIqE/view | DATE 2023-12-11 | TITLE How-To View Course Requests in HAC.docx
+
+To see your student’s course requests log in to Home Access Center

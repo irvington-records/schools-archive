@@ -1,0 +1,27 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/goto?open&id=9HCN2251721C | DATE: 2014-04-01 | TITLE: Regular Meeting - 6:30 p.m.* | 9.3 Budget Transfers
+
+Meeting: Apr 01, 2014 - Regular Meeting - 6:30 p.m.*
+Date: 2014-04-01
+Category: 9. Business Office Matters
+Subject: 9.3 Budget Transfers
+Type: Action (Consent)
+
+Budget Transfer 13/14-09
+
+				Debit  A2110-110  (K-3 Instructional Salaries)
+
+				          $3,064
+
+				Credit A1430-490 (Personnel-BOCES/Recruitment)
+
+				          $3,064
+
+				Debit  A2110-400-40-7000 (Other Exp.-Dist. Testing)
+
+				        $10,689
+
+				Credit A2110-490 (BOCES)
+
+				        $10,689
+
+	These transfers are for advertising employment vacancies and test scoring.

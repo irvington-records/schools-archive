@@ -1,0 +1,410 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/pfiles/8PQBYG2EA521/$file/Presentation1%20-%20BOE%2C%20%20Business%20Office%2C%20Debt%20Service.pdf | DATE: 2011-12-19 | TITLE: Regular Public Meeting | 3.1 2012-13 Budget Discussion: Superintendent's Office, District Clerk, Business Office, Debt Service, Insurance - Mrs. Beverly Miller will focus upon budget matters relating to the Superintendent's Office, the Business Office, the District Clerk's Office, Board of Education, debt service and insurance. | Presentation1 - BOE,  Business Office, Debt Service.pdf
+
+                            IRVINGTON UNION FREE SCHOOL DISTRICT
+                                      DISTRICT OFFICES
+
+                                          Proposed Budget 2012-13
+                                             Board of Education
+
+                                                                2011-12            2012-13
+                                                  2011-12     ESTIMATED          PROPOSED
+CODE         DESCRIPTION                         BUDGET        TO SPEND           BUDGET            CHANGE
+
+1010 Board of Education
+      400 Other Expense                             21,300           30,500            30,960          9,660
+      450 Supplies                                   1,045            1,000             1,000            (45)
+               Total Board of Education      $      22,345    $      31,500     $      31,960   $      9,615
+
+1040 District Clerk
+      160 Clerical Salaries                  $      10,200    $      13,000     $      13,250   $      3,050
+      400 Other Expense                                800            3,100             3,200          2,400
+      450 Supplies                                   1,710            1,700             1,710              0
+                   Total District Clerk      $      12,710    $      17,800     $      18,160   $      5,450
+
+1060 District Meeting
+      400 Other Expense                      $      15,000            9,000             9,000         (6,000)
+      450 Supplies                           $         760    $         700     $         700   $        (60)
+                Total District Meeting       $      15,760    $       9,700     $       9,700   $     (6,060)
+
+   TOTAL BOARD OF EDUCATION                  $      50,815    $      59,000     $      59,820   $      9,005
+
+                                                                                                                17.72%
+
+                        ## Increase due to implementation of Board Docs (annual cost $9,000)
+
+
+
+
+                                                                                                                         1
+
+A1010. 400 BOARD OF EDUCATION - OTHER EXPENSE $30,960
+
+               NYS School Board Association Dues
+                   WP School Board Assn. Dues
+                 Filming of school board meetings
+               Board Docs software - annual renewal
+                      School Board training
+
+   A1010.450 BOARD OF EDUCATION _ SUPPLIES $1,000
+
+              Office supplies -binders, envelopes, etc.
+                            Copy paper
+
+
+   A1040. 400 DISTRICT CLERK - OTHER EXPENSE $3,200
+
+       NYS School Boards - E-policy annual maintenance fee
+          NYS School Boards - E-policy annual updates
+
+      A1040.450 DISTRICT CLERK - SUPPLIES $1,710
+
+                        School Law books
+                     Computer toner & supplies
+                           Copy paper
+
+
+  A1060.400 DISTRICT MEETING - OTHER EXPENSE $9,000
+                        Election Inspectors
+               Voting machines - set up & moving
+             Legal ads - vote notices (2 newspapers)
+             Printing of brochures for annual meeting
+
+      A1060.450 DISTRICT MEETING- SUPPLIES $700
+
+         Misc. supplies for budget vote - binders, pens, etc.
+             Official oath envelopes - absentee ballots
+                                                                2
+
+                           IRVINGTON UNION FREE SCHOOL DISTRICT
+                                     DISTRICT OFFICES
+
+                                          Proposed Budget 2012-13
+                                          Chief School Administrator
+
+                                                               2011-12         2012-13
+                                                  2011-12    ESTIMATED       PROPOSED
+CODE        DESCRIPTION             FTE          BUDGET       TO SPEND        BUDGET           CHANGE
+
+1240 Chief School Administrator
+      150 Administrative Salaries    1.0     $     262,805   $     485,282   $   260,000   $     (2,805)
+      160 Clerical Salaries          2.0           121,812         121,812       122,718            906
+      200 Equipment                                                      0         3,000          3,000
+      400 Other Expense                             12,000          10,000        12,000              0
+      450 Supplies                                   1,900           1,900         1,900              0
+
+    TOTAL CHIEF SCHOOL
+      ADMINISTRATOR                          $     398,517   $     618,994   $   399,618   $      1,101
+
+                                                                                                           0.28%
+
+
+
+
+                                                                                                                   3
+
+1240.400 CHIEF SCHOOL ADMINISTRATOR – OTHER EXPENSE $12,000
+
+              NYS Council of School Supts. – Dues
+
+          Lower Hudson Council of School Supts. – Dues
+
+                   Newspaper subscriptions
+
+                          AASA Dues
+
+           Travel allotment – mileage reimbursement
+
+                          Conferences
+
+
+
+
+                                                              4
+
+                                    IRVINGTON UNION FREE SCHOOL DISTRICT
+                                              DISTRICT OFFICES
+                                            Proposed Budget 2012-13
+                                                    Finance
+                                                                    2011-12     2012-13
+                                                   2011-12        ESTIMATED    PROPOSED
+CODE           DESCRIPTION              FTE       BUDGET           TO SPEND     BUDGET       CHANGE
+1310 Business Administration
+        150    Administrative Salaries    .70     $   126,000   $    126,000   $   128,520   $    2,520
+        160    Clerical Salaries         4.00         269,675        269,675       272,746        3,071
+        200    Equipment                                    0                        1,000        1,000
+        400    Other Expense                           50,800         46,000        46,000       (4,800)
+        450    Supplies                                 6,650          6,500         6,500         (150)
+        490    BOCES Services                          66,455         58,185        59,900       (6,555)
+               Total Business Administration      $   519,580   $    506,360   $   514,666   $   (4,914)
+1320 Auditing
+        400    External Auditor                   $    35,000   $     34,275   $    35,000   $       0
+        401    Internal Auditor                        25,000         25,000        25,000           0
+        402    Claims Auditor                           6,200          6,000         6,200           0
+               Total Auditing                     $    66,200   $     65,275   $    66,200   $       0
+1325 Treasurer
+        160    Treasurer Salary                   $    31,948   $     31,948   $    33,000   $   1,052
+        450    Supplies                                   380            380           390          10
+               Total Treasurer                    $    32,328   $     32,328   $    33,390   $   1,062
+
+          TOTAL FINANCE                           $   618,108   $    603,963   $   614,256   $   (3,852)
+
+                                                                                                           -0.62%
+
+
+                                                                                                           5
+
+1310.400 BUSINESS ADMINISTRATION – OTHER EXPENSE $46,000
+
+            Omni Group – 403b administration fees
+       SWN Communications – Emergency alert system fees
+                   CBIZ asset inventory fees
+                     NY Municipal Advisors
+          NYS Assn. of School Business Officials – dues
+                   Bond administration fees
+               Bid purchasing services – Ed Data
+                  Business Office copier fees
+
+
+1310.490 BUSINESS ADMINISTRATION – BOCES SERVICES $59,900
+
+                Questar State Aid Planning service
+                   GASB 45 compliance service
+          Finance Manager accounting/payroll software
+        NYS reporting service (annual financial reports,etc.)
+
+
+
+
+                                                                6
+
+                          IRVINGTON UNION FREE SCHOOL DISTRICT
+                                     DISTRICT OFFICES
+                                   Proposed Budget 2012-13
+                                            Staff
+                                                               2011-12       2012-13
+                                                 2011-12     ESTIMATED     PROPOSED
+CODE     DESCRIPTION                            BUDGET        TO SPEND      BUDGET           CHANGE
+
+1420 Legal
+  400 Other Expense                         $      200,000   $   246,950       245,000   $     45,000
+        Total Legal                         $      200,000   $   246,950   $   245,000   $     45,000
+
+1430 Personnel
+  160 Clerical Salaries             (1.0)           53,000        52,154        52,795            (205)
+  400 Other Expense                                  4,000        17,000        29,000          25,000
+  450 Supplies                                         950           500           500            (450)
+  490 BOCES/Recruitment                             25,000        10,000        11,000         (14,000)
+         Total Personnel                    $       82,950   $    79,654   $    93,295   $      10,345
+
+1480 Public Information
+  400 Other Expense                                  7,100         6,000         6,500           (600)
+  490 BOCES Services                                 4,600         4,500         4,600              0
+         Total Public Information           $       11,700   $    10,500   $    11,100   $       (600)
+
+           TOTAL STAFF                      $      294,650   $   337,104   $   349,395   $     54,745
+                                                                                                          18.58%
+
+
+
+
+                                                                                                                   7
+
+                                        1420 LEGAL FEES
+
+                             2009‐10        2010‐11           2011‐12         2012‐13
+
+Total Budgeted Amount        $285,000       $260,000          $260,000
+Transferred to Special Educ.                                  ‐ 60,000
+                                                              $200,000        $245,000
+
+
+Actual Expenditures          $307,613       $373,215          $246,950 est.
+
+
+                        1430 PERSONNEL – OTHER EXPENSE $29,000
+
+2011‐12 Additional cost due to hiring an HR consultant to evaluate district’s HR systems
+
+2012‐13 New contractual cost to hire an HR consultant/advisor on an annual basis
+
+
+                             1430 PERSONNEL – BOCES $11,000
+
+                                      Co‐op negotiations
+                                         Recruitment
+                                        Fingerprinting
+                                     Regional certification
+
+ ** Elimination of personnel advertising costs thru BOCES ‐ all certified positions as are being
+advertised on OLAS. Advertising directly with newspapers for support positions (i.e. custodial)
+                                   is an additional savings.
+
+
+
+                                                                                                   8
+
+                                 IRVINGTON UNION FREE SCHOOL DISTRICT
+                                           DISTRICT OFFICES
+
+                                                 Proposed Budget 2012-13
+                                                      Special Items
+
+                                                                        2011-12        2012-13
+                                                           2011-12    ESTIMATED      PROPOSED
+CODE            DESCRIPTION                               BUDGET       TO SPEND       BUDGET       CHANGE
+
+Special Items
+
+ 1910.400       Insurance - NYSIR                     $     171,000   $    170,637   $   175,000   $     4,000
+ 1950.400       North Yonkers Sewer Tax                      60,000         63,000        65,000         5,000
+ 1980.400        MTA Payroll Tax                             90,000         60,000             0       (90,000)
+ 1981.490       BOCES Administrative Charge                 172,920        172,920       176,000         3,080
+ 1989.400       Refund of Prior Years Revenues                    0                                          0
+
+            TOTAL SPECIAL ITEMS                       $     493,920   $    466,557   $   416,000   $   (77,920)
+
+                                                                                                       -15.78%
+
+
+
+
+                                                                                                                  9
+
+                                   IRVINGTON UNION FREE SCHOOL DISTRICT
+                                             DISTRICT OFFICES
+                                            Proposed Budget 2012-13
+                                                 Debt Service
+
+                                              2011-12            2011-12             2012-13
+   CODE             DESCRIPTION               BUDGET         EST. TO SPEND      PROPOSED BUDGET         CHANGE
+
+ 9711.600    Construction Bond Principal     $ 2,845,000    $       2,845,000   $       2,940,000   $      95,000
+ 9711.700    Construction Bonds Interest       2,132,630            2,132,630           2,022,531        (110,099)
+ 9760.700    T.A.N. Interest                      80,000               12,375              50,000         (30,000)
+ 9780.600    ERS Loan - Principal *                    0               18,181              19,089          19,089
+ 9780.700    ERS Loan - Interest *                     0                4,067               3,159           3,159
+ 9785.600    Lease Purchase Principal **               0              245,749             238,238         238,238
+ 9785.700    Lease Purchase Interest **                0               29,300              22,899          22,899
+             TOTAL DEBT SERVICE              $ 5,057,630    $       5,287,302   $       5,295,916   $     238,286
+
+
+
+* Previously coded to A9010.800 ERS benefit                                                                 4.71%
+** Previously coded to A2630.400 Computer-Other Expense,District Technology
+
+
+
+
+                                                                                                                     10
+
+                                                 2012-13 SCHEDULE OF BOND PAYMENTS
+DUE      ISSUE REFUNDING   BOND                     AMOUNT           DUE       RATE    A9711.600        A9711.700          TOTAL
+DATE DATE        DATE      ISSUE                                     DATE       %      PRINCIPAL         INTEREST
+2012
+Aug.15 2004                Capital Project       15,925,000.00       2022     3.92%      895,000.00        214,512.50     1,109,512.50
+Aug.15 2004                     Tax Cert.         2,615,000.00       2015     3.32%      290,000.00         15,237.50       305,237.50
+Oct. 1   1993    2003      Capital Project        5,385,000.00       2012     3.37%      550,000.00         11,000.00       561,000.00
+Oct. 1   2002    2005      Capital Project       34,195,000.00       2032     4.56%            0.00        687,043.75       687,043.75
+Oct.15   2008                   Tax Cert.         1,700,000.00       2024     4.93%      100,000.00         37,212.50       137,212.50
+Dec.15 2008                     Tax Cert.         4,175,000.00       2023     3.79%      255,000.00         65,925.00       320,925.00
+
+
+2013
+Feb.15 2004                Capital Project       15,925,000.00       2022                                  197,731.25       197,731.25
+Feb.15 2004                     Tax Cert.         2,615,000.00       2015                                   10,525.00        10,525.00
+Apr.1    2002    2005      Capital Project       34,195,000.00       2032                850,000.00        687,043.75     1,537,043.75
+Apr.15 2008                     Tax Cert.         1,700,000.00       2024                                   34,837.50        34,837.50
+Jun.15   2008                   Tax Cert.         4,175,000.00       2023                                   61,462.50        61,462.50
+
+
+                                             TOTAL BOND PAYMENTS:                     $ 2,940,000.00   $ 2,022,531.25   $ 4,962,531.25
+
+
+
+
+                                                                                                                                         11
+
+                             IRVINGTON UNION FREE SCHOOL DISTRICT
+                                            2012-13
+
+
+
+                                                   LOAN PAYMENTS
+                                                                                  A9780.600    A9780.700
+                                                                                 PRINCIPAL     INTEREST    TOTAL
+ERS LOAN      Amortized Pension Loan - final payment 2015-16                          19,089       3,159     22,248
+
+
+
+
+                                          LEASE/PURCHASE AGREEMENTS
+                                                                                  A9785.600    A9785.700
+                                                                                 PRINCIPAL     INTEREST    TOTAL
+TECHNOLOGY:   Installment purchase for computer technology - 5 yr.payment plan       238,238      22,899    261,137
+
+
+
+
+                                                                                                                      12
+
+             COMPUTER LEASE PURCHASE AGREEMENTS
+CLOSING          APPROVED
+DATE             BORROWING 2011-12      2012-13    2013-14    2014-15    2015-16
+
+8/16/2006           235,000   53,697
+
+7/23/2007           330,000   75,863     75,863
+
+8/29/2008           200,000   45,940     45,940     45,940
+
+7/31/2009           210,000   47,159     47,159     47,158      47,158
+
+7/9/2010            240,000   52,390     52,390     52,390      52,390    52,390
+
+7/19/2011           186,000              39,785     39,785      39,785    39,785
+TOTAL PRINCIPAL
+& INTEREST PAYMENTS           275,049    261,137    185,273    139,333    92,175
+
+
+
+
+                                                                                   13
+
+                            IRVINGTON UNION FREE SCHOOL DISTRICT
+                                      DISTRICT OFFICES
+
+                                     Proposed Budget 2012-13
+                                            Summary
+
+                                                            2011-12        2012-13
+                                          2011-12         ESTIMATED      PROPOSED
+CODE      DESCRIPTION                    BUDGET            TO SPEND       BUDGET             CHANGE
+
+   1000   Board of Education         $       50,815   $        59,000    $     59,820    $       9,005
+   1200   Chief School Admin.               398,517           618,994         399,618            1,101
+   1300   Finance                           618,108           603,963         614,256           (3,852)
+   1400   Staff                             294,650           337,104         349,395           54,745
+   1600   Operation & Maint               3,138,162
+   1670   Messenger/Mailing                  32,600
+   1900   Special Items                     493,920           466,557         416,000           (77,920)
+   2000   Inst.Improv./Admin              1,292,145
+   2110   Instruction                    15,298,939
+   2200   Special Education               6,953,138
+   2280   Occupational Education             96,856
+   2600   Library                           508,897
+   2630   Instructional Tech              1,155,947
+   2800   Pupil Personnel Svcs            1,702,198
+   2850   Co-Curricular                     107,580
+   2855   Interscholastic                   664,263
+   5500   Transportation                  2,084,296
+   9000   Employee Benefits              10,029,275
+   9700   Debt Service                    5,057,630          5,287,302       5,295,916         238,286
+   9900   Interfund Transfers               346,956
+                                                                                                     0
+          TOTAL BUDGET               $ 50,324,892     $      7,372,920   $   7,135,005   $     221,365
+
+
+
+
+                                                                                                           14
+

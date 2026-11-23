@@ -1,0 +1,28 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/goto?open&id=D9THC847CED0 | DATE: 2024-10-08 | TITLE: Regular Meeting | 12.12 Appointment of Coaches
+
+Meeting: Oct 08, 2024 - Regular Meeting
+Date: 2024-10-08
+Category: 12. Personnel Matters
+Subject: 12.12 Appointment of Coaches
+Type: Action (Consent)
+
+NAME
+	SPORT
+	TYPE
+	GROUP
+	STEP
+	SALARY
+
+Michael McQuillan
+	Winter Track
+	Varsity Assistant
+	1
+	1
+	$5,291
+
+Sarah Reilly
+	Winter Track
+	Modified Assistant
+	1
+	1
+	$4,477

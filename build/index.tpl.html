@@ -1,0 +1,14 @@
+<section class="hero"><h1>Search Irvington school district records</h1>
+<p>Board of Education agendas, minutes and attachments, board meeting transcripts and slides, and the district website and its archived copies, all searchable in one place.</p>
+<p class="stats">{{STATS}}</p></section>
+<div id="search"></div>
+<p class="tips">Tips: use <code>"quotes"</code> for phrases. Filter by source, type or year on the left. Transcript results jump to the exact moment, and every result links to the official original.</p>
+<script>
+window.addEventListener('DOMContentLoaded', () => {
+  new PagefindUI({ element: "#search", showSubResults: true, showImages: false, resetStyles: false,
+    baseUrl: location.pathname.replace(/[^/]*$/, ''), pageSize: 10,
+    translations: { placeholder: "Search 20,000 documents" } });
+  const q = new URLSearchParams(location.search).get('q');
+  if (q) setTimeout(() => { const i = document.querySelector('#search input'); i.value = q; i.dispatchEvent(new Event('input')); }, 50);
+});
+</script>

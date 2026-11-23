@@ -1,0 +1,163 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/goto?open&id=CL7RVH6EABFE | DATE: 2022-11-22 | TITLE: Work Session | 10.8 Payment for Extracurricular Clubs
+
+Meeting: Nov 22, 2022 - Work Session
+Date: 2022-11-22
+Category: 10. Personnel Matters
+Subject: 10.8 Payment for Extracurricular Clubs
+Type: Action (Consent)
+
+Advisor
+			Club
+			Group
+			Step
+			Rate
+
+			Melisa Gacevic
+			Academic Challenge - IHS
+			V
+			1
+			$2,852.00
+
+			Jackie Grant
+			Asian American Club (IEF grant)
+			IV
+			0
+			$3,356.00
+
+			Amy Ma
+			Biology Club - IHS (IEF grant)
+			VII
+			0
+			$1,398.00
+
+			Jen Lentini
+			Chess Club - IHS (IEF grant)
+			VI
+			0
+			$1,678.00
+
+			Devon Steuer
+			French Club - IHS (IEF grant)
+			VIII
+			0
+			$839.00
+
+			Skyler Mosenthal
+			Fresh/Soph Class Advisor - IHS
+			VII
+			1
+			$1,454.00
+
+			Jonathan Silverman
+			Jewish Cultural Club
+			VIII
+			0
+			$839.00
+
+			Amy Falk
+			Investment Club - IHS
+			VIII
+			1
+			$895.00
+
+			Lauren Cutignola
+			IRVES - IHS (grant) - PTSA Grant (split)
+			VII
+			1
+			$727.00
+
+			Michael Berkowitz
+			IRVES - IHS (grant) - PTSA Grant (split)
+			VII
+			1
+			$727.00
+
+			Melisa Gacevic
+			Literary Magazine (Voices) - IHS
+			VII
+			1
+			$1,454.00
+
+			Diana Cassidy
+			Math Club - IHS (IEF grant)
+			IV
+			0
+			$3,356.00
+
+			Jennifer Lentini
+			Model UN - HS (split)
+			IV
+			0
+			$1,678.00
+
+			Melisa Gacevic
+			Model UN - HS (split)
+			IV
+			0
+			$1,678.00
+
+			Kristen Clancy
+			Robotics - IHS
+			IV
+			2
+			$3,467.00
+
+			Carleen Julian
+			Senior Internship Coordinator - IHS
+			IV
+			 3
+			 $3,523.00
+
+			Ilija Markic
+			Tolkien Club - IHS
+			VIII
+			0
+			$839.00
+
+			Melisa Gacevic
+			Westchester Youth Congress: Irvington Chapter
+			VIII
+			0
+			$839.00
+
+			Pat DiBenedetto
+			Yearbook -IHS
+			I
+			8
+			$5,201.00
+
+			Stephen DiGiovanni
+			Drama Prod/Director Fall (Arts & Ed)
+			I
+			5
+			$5,033.00
+
+			Sara Lake-Garcia
+			Drama Prod/Tech Asst. Fall (Arts & Ed)
+			II
+			1
+			$4,250.00
+
+			Stephen DiGiovanni
+			Drama Prod/Director Spring (Arts & Ed)
+			I
+			6
+			$5,089.00
+
+			Sara Lake-Garcia
+			Drama Prod/Tech Asst. Spring (Arts & Ed)
+			II
+			1
+			$4,250.00
+
+			Alan Goldberg
+			Drama Prod/Instrumental Spring (Arts & Ed)
+			II
+			1
+			$4,250.00
+
+			Melissa Hansen
+			Drama Prod/Choreographer Spring (Arts & Ed)
+			IV
+			3
+			$3,523.00

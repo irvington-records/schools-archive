@@ -1,0 +1,28 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/goto?open&id=DL6NM8607F4A | DATE: 2025-09-09 | TITLE: Regular Meeting | 12.5 Appointment of Coaches
+
+Meeting: Sep 09, 2025 - Regular Meeting
+Date: 2025-09-09
+Category: 12. Personnel Matters
+Subject: 12.5 Appointment of Coaches
+Type: Action (Consent)
+
+NAME
+	SPORT
+	TYPE
+	GROUP
+	STEP
+	SALARY
+
+Jason Dore
+	Field Hockey
+	Modified Head
+	1
+	1
+	$4,962
+
+Alissa Campbell
+	Soccer (Girls)
+	Modified Head
+	1
+	1
+	$4,962

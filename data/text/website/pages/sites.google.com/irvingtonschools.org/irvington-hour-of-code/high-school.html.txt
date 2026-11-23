@@ -1,0 +1,16 @@
+SOURCE https://sites.google.com/irvingtonschools.org/irvington-hour-of-code/high-school | DATE unknown | TITLE Hour of Code at Irvington UFSD - High School
+
+Embedded Files
+Use code to create a story -- and make the story change each time it runs. Then, remix the code to write your own story.
+Created by New York Times bestselling author Miriam Peskowitz
+Make your voice heard with code through the Plastic Pollution PSA. After coding a PSA on plastic pollution and learning to use loops, sine waves and customized emojis, make your own unique project on any subject that matters to you!
+Type: Drag and drop/JavaScript
+Use a facetracking library to code your own custom face filter, like the ones you use on social media.
+Type: Javascript
+In this course, you'll learn how to use functions to draw a pretty intricate shape (like a mobius strip but in triangle form). After this lesson, you'll have the building blocks for making a ton of different designs.
+In this course, you'll learn how to make a simple chatbot that plays a quick ad libs game.
+Build your own animal classifier! Learn about the differences between animals, and how Biologists use programming to help them do science. Use the programming language Python to classify animals based on their characteristics.
+Type: Python
+Images retrieved from https://hourofcode.com/us/learn
+Page updated 
+Report abuse

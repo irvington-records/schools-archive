@@ -1,0 +1,322 @@
+SOURCE https://www.irvingtonschools.org/cms/lib/NY02208289/Centricity/domain/4/district%20documents/2020-0810%20FINAL%20approved%20FAQs%20for%20School%20districts.pdf | DATE 2022-01-24 | TITLE 2020-0810 FINAL approved FAQs for School districts.pdf
+
+George Latimer
+ County Executive
+
+ Dr. Sherlita Amler, M.D., M.S.
+ Commissioner of Health
+
+
+                                                      8/10/2020
+                                               COVID-19 FAQ for Schools
+                                                   Prek-12th Grade
+                                  Westchester Country Department of Health (WCDOH)
+
+
+
+Q1: When and how should we report positive COVID-19 cases to WCDOH?
+A: Immediately notify WCDOH if a student, faculty or staff member tests positive for COVID-19:
+        914-813-5110 (weekday hours)
+        914-813-5000 (evening and weekend hours)
+
+Q2. Are schools responsible for contact tracing for students, faculty and staff?
+A. While WCDOH has the primary responsibility for contact tracing, effective contact tracing is a joint collaborative
+effort - WCDOH will need the assistance of schools in providing staff and student lists and schedules and other
+information to identify exposed individuals, arrange for testing, etc.
+
+Q3. Will contact tracers release the name of the positive individual to their contacts?
+A. No. Contact tracers will tell potentially infected persons that they were exposed – they will not disclose the identity
+of the person to whom they were exposed.
+
+Q4. How long will contacts to positive COVID-19 cases be required to quarantine?
+A. Individuals who are exposed to someone with COVID-19 will be required to quarantine for 14 days from the day
+they were last exposed. Please note that a negative test does not release an individual from quarantine.
+
+Q5. What resources will an isolating or quarantined person require?
+A. An isolating or quarantined person will need access to a private room and a private bathroom. Individuals will also
+need access to food, medications and other essential items that will allow them to remain in quarantine. People who
+need assistance during quarantine or isolation can call 866-588-0195.
+
+Q6. When should an exposed individual get tested for COVID-19?
+A. Testing should be conducted approximately 5 days after exposure. Exposed individuals must remain on quarantine
+until being tested and must immediately return to quarantine following such testing. If a person tests positive, they
+will be placed in isolation (for a period determined by the WCDOH). Even if the test is negative, the individual must
+continue to quarantine for the full 14 days.
+
+Q7. Where can students, faculty and staff get tested for COVID-19?
+A. A list of testing sites can be found on the WCDOH health website (https://health.westchestergov.com/2019-novel-
+coronavirus) under the testing, results and treatment tab. Students, faculty and staff can also call the NYS COVID-19
+hotline at 1-888-364-3065 for assistance locating a testing site.
+
+Q8. Is there a charge for COVID-19 tests conducted at state-run facilities?
+A. No, there is no out of pocket charge for COVID-19 tests conducted at state-run facilities. (Insurance information
+may be requested)
+
+Department of Health
+25 Moore Avenue
+Mount Kisco, New York 10549              Telephone: (914) 813-5000         Fax: (914) 813-5970
+Q9. When can a person who has tested positive return to school? Is it the same process for students, faculty and
+staff?
+A. If the individual who tested positive has symptoms (Fever, Cough, Shortness of Breath/Difficulty Breathing, Chills,
+Repeated Shaking with Chills, Muscle Pain, Headache, Sore Throat, or New Loss of Taste or Smell) the Clearance
+Criteria for release from isolation are:
+
+
+       It’s been at least 10 days since the individual first started experiencing symptoms; AND
+       The individual hasn’t had a fever in at least 3 days, without taking fever-reducing medication (such as Tylenol);
+        AND
+       Any shortness of breath/coughing/difficulty breathing, chills, repeated shaking with chills, muscle pain,
+        headache, sore throat, or new loss of taste or smell has improved.
+
+If the individual who tested positive is asymptomatic the Clearance Criteria are:
+
+       It’s been at least 10 days since the person’s first positive COVID-19 test was collected; AND
+       The individual hasn’t had any subsequent illness
+
+Q10. Can we assume that students with antibodies are safe from contracting COVID-19?
+A. No, we do not have enough information about whether antibodies protect individuals from re-infection and how
+long antibodies may provide protection. Antibody tests also CANNOT diagnose if an individual has active infectious
+COVID-19. A positive result can mean you had infection with COVID-19 in the past. A different test would be needed
+to determine active infection.
+
+Q11. Are rapid tests (Antigen or Molecular) reliable?
+A. Rapid tests provide results in under an hour, though they have a high rate of false negatives. Negative rapid antigen
+tests which are the most commonly performed rapid COVID-19 test cannot rule out COVID-19 and should be followed
+up by a molecular test. Please see the attached FDA Coronavirus Testing Basics factsheet.
+
+Q12. Do students coming back from vacation from states on Governor Cuomo’s travel advisory need to quarantine?
+A. Yes, students who are coming to New York from any of the states on the travel advisory need to quarantine for 14
+days. The most up-to-date list of states is available here. (https://coronavirus.health.ny.gov/covid-19-travel-
+advisory#restricted-states)
+
+Q13. What qualifies as an exposure to COVID-19?
+A. Close contact is defined as being within 6 feet of a person displaying symptoms of or testing positive for COVID-19
+for 10 minutes or longer. Close contacts will be required to quarantine. Proximate contact is defined as being in the
+same enclosed environment such as a classroom or office, but greater than 6 feet from a person displaying symptoms
+of or testing positive for COVID-19. WCDOH will determine if a proximate contact should be under quarantine.
+
+
+
+
+                                                            2
+-------------------------------------------------------------------------------------------------------------------
+
+
+
+QUARANTINE & ISOLATION CLARIFICATIONS
+
+Q14. Why is the isolation period for an infected person shorter than the quarantine period of a contact?
+A. The time period for incubation is different from the time period of illness and infectiousness. When a person is
+exposed to COVID-19, it can take anywhere from 2-14 days for the person to develop the disease (incubation), hence
+the quarantine period is 14 days. Once the disease develops, a person is infectious from 2 days prior to symptoms
+appearing to, at minimum, 10 days after the symptoms develop, hence the isolation period is at minimum 10 days,
+but can be longer.
+
+
+
+
+Image Courtesy of Johns Hopkins University/Bloomberg School of Public Health
+
+Q15. Can you leave quarantine for a Covid-19 test or does your quarantine start all over after you went out to get
+that test?
+A. Yes, you can leave quarantine for a COVID-19 test however during travel to and from testing you should minimize
+contact with others, wear a mask/ face covering, observe distancing and utilize private means for transportation.
+No, your quarantine period does not re-start. However, even if you test negative, you must continue to quarantine
+until the full 14 days from the last exposure to a COVID-19 positive individual.
+
+
+
+CONTACT TRACING QUESTIONS:
+
+Q16. In the event there is a large exposure, what is the plan if the DOH gets overwhelmed with the case load once
+school starts?
+A. The Westchester County Department of Health has been working in conjunction with the New York State
+Department of Health on contact tracing, using a joint system for tracking cases and contacts, This system also allows
+for both the county and state to have increased capacity of contact tracing should it be needed.
+
+
+
+
+                                                                               3
+Q17. How do those testing positive at sites or who live outside of Westchester County or NYS integrate into the
+NYSDOH systems?
+A. Lab reports from ‘out of jurisdiction’ are transferred and reported to the state/county of residence (of record) of
+the individual. So for instance, if a Westchester County resident tests at a location in Connecticut, that lab result is
+reported to the Connecticut Department of Health, who transfers it to New York State Department of Health, and
+subsequently the Westchester Department of Health. (Note: please make sure your current phone and address are
+correct at a testing location, so the results can be reported to the correct jurisdiction and local health department can
+follow up with communication). NYSDOH obtains lab reports on individuals who do not live (but work) in Westchester
+County and provides these to WCDOH.
+
+
+
+QUESTIONS RELATED TO HOUSEHOLD CONTACTS:
+
+Q18. If a child tests positive and has a sibling in the school, should the school keep the sibling out of school?
+A. Yes, unless the siblings reside in separate households, the sibling must be placed on quarantine which would mean
+that the sibling should not attend school during the required period for quarantine.
+
+Q19. If a student/staff member is home on quarantine and then develops symptoms, please explain how that
+impacts attendance to school/work and what it means for the siblings that may have been continuing to go to
+school.
+A. If a student or staff tests positive, their household members will likely be considered close contacts and will need to
+quarantine. Students or staff testing positive will require isolation for a minimum of 10 days
+
+Q20. If someone has to quarantine and has a family member in isolation is it 10 days+14 for the quarantine. Or
+would it be 4 more days?
+A. Determining quarantine periods can vary depending on the particular situation; the specifics will be determined in
+conversation with the Department of Health case investigators and contact tracers. Here are some sample scenarios
+(CDC: https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/quarantine.html):
+
+        Scenario 1: Close contact with someone who has COVID-19—will not have further close contact
+
+        I had close contact with someone who has COVID-19 and will not have further contact or interactions with the
+        person while they are sick (e.g., co-worker, neighbor, or friend).
+
+        Your last day of quarantine is 14 days from the date you had close contact.
+
+        Date of last close contact with person who has COVID-19 + 14 days= end of quarantine
+
+
+
+
+                                                            4
+Scenario 2: Close contact with someone who has COVID-19—live with the person but can avoid further close
+contact
+
+I live with someone who has COVID-19 (e.g., roommate, partner, family member), and that person has
+isolated by staying in a separate bedroom. I have had no close contact with the person since they isolated.
+
+Your last day of quarantine is 14 days from when the person with COVID-19 began home isolation.
+
+Date person with COVID-19 began home isolation + 14 days = end of quarantine
+
+
+
+
+Scenario 3. Under quarantine and had additional close contact with someone who has COVID-19
+
+I live with someone who has COVID-19 and started my 14-day quarantine period because we had close
+contact. What if I ended up having close contact with the person who is sick during my quarantine? What if
+another household member gets sick with COVID-19? Do I need to restart my quarantine?
+
+Yes. You will have to restart your quarantine from the last day you had close contact with anyone in your
+house who has COVID-19. Any time a new household member gets sick with COVID-19 and you had close
+contact, you will need to restart your quarantine.
+
+Date of additional close contact with person who has COVID-19 + 14 days = end of quarantine
+
+
+
+
+Scenario 4: Live with someone who has COVID-19 and cannot avoid continued close contact
+
+I live in a household where I cannot avoid close contact with the person who has COVID-19. I am providing
+direct care to the person who is sick, don’t have a separate bedroom to isolate the person who is sick, or live
+in close quarters where I am unable to keep a physical distance of 6 feet.
+
+You should avoid contact with others outside the home while the person is sick, and quarantine for 14 days
+after the person who has COVID-19 meets the criteria to end home isolation.
+
+Date the person with COVID-19 ends home isolation + 14 days = end of quarantine
+
+                                                   5
+Q21. If a person travels to a state with a mandatory quarantine upon return to NY, but their child, who lives with
+them, did not travel, does the child also have to quarantine, or can they attend school?
+A. No, the child can attend school as long as the traveler in the household remains asymptomatic and does not test
+positive for COVID-19.
+
+Q22. Does the student have to quarantine if the parent had contact and is quarantining, but does not have
+symptoms?
+A. If a member of the household is quarantining because of either a known exposure to a COVID-19 positive individual
+or because of travelling, other members of the household can leave the home if that person can quarantine properly
+from the household members. A quarantined person should:
+
+    - Separate themselves from other members of the household
+    - Use a separate bedroom and bathroom
+    - Do not share linens, towels, eating utensils, cups and plates
+    - Limit time in common household areas, such as kitchens.
+Q23. What is the timeframe for contract tracing? Will you work with the school immediately? What if we are
+notified in the evening and siblings may be at school in am.
+A. WCDOH will notify relevant school staff upon learning of a positive test for COVID-19 at the school. WCDH also
+verifies that individuals reporting a positive COVID test have a positive lab test result in order to proceed with further
+measures. Labs are required to report to New York State Department of Health any positive test results immediately,
+and local health departments aim to contact positive individuals within 24 hours of receiving that lab report. Schools
+should be conducting daily health screenings, including asking whether the child/staff has been in contact with a
+person who has tested positive.
+
+
+
+SHARING OF MEDICAL INFO/PARENTAL PERMISSION
+
+Q24. Do schools need parental permission to send COVID-19 related medical information to DOH?
+A. COVID-19 is a reportable communicable disease mandated under the New York State Sanitary Code (10NYCRR 2.10,
+2.14), including reporting by schools nurses (10NYCRR 2.12).
+
+https://regs.health.ny.gov/volume-title-10/content/reporting-cases-records
+https://www.health.ny.gov/forms/instructions/doh-389_instructions.pdf
+
+While the Family Educational Rights and Privacy Act (FERPA) generally requires parental permission for school
+personnel to disclose personally identifiable information from a student’s education record (including health
+information). But the law provides exceptions allowing disclosure without consent. Under the “health or safety
+emergency” exception, even though a student’s positive COVID-19 test would be considered personal identifiable
+information, the school may report this information without parental consent to individuals whose knowledge of the
+information is necessary to protect the health or safety of students or other individuals. (See 20 U.S.C. §
+
+                                                             6
+1232g(b)(1)(I); 34 C.F.R. §§ 99.31(a)(10) and 99.36.) These may include public health officials, school administration,
+trained medical personnel, school staff, and parents. The “health or safety emergency” exception is limited in time to
+the period of the emergency and generally does not allow for a blanket release of personal identifiable information
+from student education records.
+
+(Extracted from https://www.networkforphl.org/resources/faqs-covid-19-and-health-data-privacy/)
+
+See also https://studentprivacy.ed.gov/
+
+
+
+THRESHOLD QUESTIONS:
+
+Q25. Is there a threshold of infections or absentee rates that would indicate a school should close?
+   A. The Westchester County Department of Health does not make the decision as to whether a school or
+         classroom should be closed because of COVID-19. That decision rest solely with the school and school district.
+         The Westchester County Commissioner of Health has the legal authority to determine who needs to isolate
+         and quarantine due to COVID-19 positive cases and/or exposure to a COVID-19 case.
+
+
+Q26. What parameters/conditions/metrics should we use as an early warning sign that positive cases or
+absenteeism are increasing beyond an acceptable rate?
+A. Generally, schools in regions in Phase IV (which the Mid-Hudson entered on July 7th) can reopen if daily infection
+rate remains below 5% using a 14- Day Average. Schools will close if regional infection rate raises over 9% after
+August 1st. (To see the regional rate, go to https://forward.ny.gov/early-warning-monitoring-dashboard)
+
+
+
+Q27. In regards to screening, should it be prior to entering the building or before they leave their house?
+A. School districts are required to have a protocol in place to perform temperature and health screenings for COVID
+symptoms. Screenings by the parent/guardian prior to school are preferred. (See the NYSED Reopening Guidance).
+
+Symptomatic individuals should not leave their households. Parents/ guardians/ students should be provided with
+information explaining the importance of monitoring for symptoms and remaining at home when ever symptoms are
+recognized.
+
+
+
+Q28. Previously, if there was a case, we had to close a building for 24 hours. Is that still the case?
+A. Typically a 24 hr. time period may be required for disinfection of an area or building. If disinfection can be
+conducted over night or during a weekend disruption of classes could be minimized. The CDC and NYSDOH
+recommend:
+
+       Closing off areas used by a sick person and not using these areas until after cleaning and disinfection has
+        occurred;
+     Opening outside doors and windows to increase air circulation in the area.
+     Waiting at least 24 hours before cleaning and disinfection. If waiting 24 hours is not feasible, wait as long as
+        possible;
+     Clean and disinfect all areas used by the person suspected or confirmed to have COVID-19, such as offices,
+        classrooms, bathrooms, lockers, and common areas
+Go to the NYSED guidance for more information: http://www.nysed.gov/common/nysed/files/programs/reopening-
+schools/nys-p12-school-reopening-guidance.pdf
+
+
+
+                                                             7

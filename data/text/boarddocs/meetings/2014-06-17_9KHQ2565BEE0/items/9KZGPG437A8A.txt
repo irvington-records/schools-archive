@@ -1,0 +1,39 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/goto?open&id=9KZGPG437A8A | DATE: 2014-06-17 | TITLE: Work Session/Special Meeting - 7:30 pm* | 10.10 Budget Transfers
+
+Meeting: Jun 17, 2014 - Work Session/Special Meeting - 7:30 pm*
+Date: 2014-06-17
+Category: 10. Business Office Matters
+Subject: 10.10 Budget Transfers
+Type: Action (Consent)
+
+Budget Transfer 13/14-12
+
+				Debit   A2250-490 (BOCES- Special Ed.)
+
+				$30,021.06
+
+				Credit  A1430-490 (BOCES - Recruitment Costs)
+
+					$15,811.06
+
+				Credit  A2110-490-30 (Arts in Ed. - Dows Lane)
+
+				$6,350
+
+				Credit  A2110-490-35 (Arts in Ed.  -Main St.)
+
+				$5,100
+
+				Credit  A2110-490-20 (Arts in Ed. - IMS)
+
+				$2,760
+
+	Budget Transfer 13/14-13
+
+				Debit  A2855-150 (Instructional salaries Coaches)
+
+				$59,894.28
+
+				Credit A2855-160 (Non-Instructional salaries Coaches)
+
+				$59,894.28

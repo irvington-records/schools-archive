@@ -1,0 +1,19 @@
+SOURCE http://www.irvingtonschools.org:80/meetingdates00.html | DATE 2001-07-16 | TITLE 2000-01 Board Meeting Dates
+
+2000-2001 Board Meeting Dates
+| Public Meetings | Work Sessions | 
+| July 12 at IMS Library at 6:30 PM | n.a. | 
+| August 29 | n.a. | 
+| September 12 | September 26 | 
+| October 10 | October 24 | 
+| November 7 | November 21 | 
+| December 5 | n.a. | 
+| January 9 | January 23 | 
+| February 6 | February 27 | 
+| March 13 | March 27 | 
+| April 3 | April 17 (BOCES Budget Vote) | 
+| May 1 | May 15** (if necessary) | 
+| June 5 | June 19 | 
+Meetings will be held in the High School Library at 7:30 PM unless otherwise noted.
+* Board of Education Reorganization Meeting
+** Budget Vote

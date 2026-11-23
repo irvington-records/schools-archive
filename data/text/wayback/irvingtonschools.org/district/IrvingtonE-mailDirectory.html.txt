@@ -1,0 +1,406 @@
+SOURCE http://irvingtonschools.org:80/district/IrvingtonE-mailDirectory.html | DATE 2017-11-07 | TITLE IrvingtonE-mailDirectory
+
+| . | Irvington Staff Email List |  |  |  | 
+| . |  |  |  |  | 
+| . |  |  |  |  | 
+| . | District Office Staff |  |  |  | 
+| . |  |  |  |  | 
+| . | Acri, Savina | SR. ACCOUNTANT | Savina.Acri@Irvingtonschools.Org |  | 
+| . | Cardea, Elaine M. | DISTRICT CLERK/SUPT. SECRETARY | Elaine.Cardea@Irvingtonschools.Org |  | 
+| . | Centofanti, Debbi A. | SECRETARY TO ASST. SUPT. OF BUSINESS | Debbi.Centofanti@Irvingtonschools.Org |  | 
+| . | Harrison, Kristopher | SUPERINTENDENT | Kristopher.Harrison@Irvingtonschools.org |  | 
+| . | Knowles, Gary | DIRECTOR OF FACILITIES | Gary.Knowles@Irvingtonschools.Org |  | 
+| . | Kor, Raina | ASSISTANT SUPT. FOR INSTRUCTION & HR | Raina.Kor@IrvingtonSchools.Org |  | 
+| . | Laski, Maria D. | PAYROLL | Maria.Laski@Irvingtonschools.Org |  | 
+| . | Miller, Beverly | ASSISTANT SUPT. OF BUSINESS | Beverly.Miller@Irvingtonschools.org |  | 
+| . | Stratton, Connie K. | SECRETARY TO SCHOOL ADMINISTRATOR | Connie.Stratton@Irvingtonschools.Org |  | 
+| . | Tortora, Lisa | PERSONNEL ASSISTANT | Lisa.Tortora@Irvingtonschools.Org |  | 
+| . | Veltre, Donna A. | TREASURER | Donna.Veltre@Irvingtonschools.org |  | 
+| . |  |  |  |  | 
+| . | Transportation |  |  |  | 
+| . |  |  |  |  | 
+| . |  |  |  |  | 
+| . | Owicz, Joe |  | urbanowj@Ardsleyschools.org |  | 
+| . | Granuzzo, Vic |  | GranuzzV@ardsleyschools.org |  | 
+| . |  |  |  |  | 
+| . |  |  |  |  | 
+| . | Dows Lane Staff |  |  |  | 
+| . |  |  |  |  | 
+| . | Anniccharico, Amy | TA | Amy.Anniccharico@Irvingtonschools.Org |  | 
+| . | Anniccharico, Joseph | TA K | Joseph.Anniccharico@Irvingtonschools.Org |  | 
+| . | Augustin, Merle | GR 3 | Merle.Augustin@Irvingtonschools.Org |  | 
+| . | Baisley, Gretchen V. | TA | Gretchen.Baisley@Irvingtonschools.Org |  | 
+| . | Barrett, Margaret H. | READING SPECIALIST | Margaret.Barrett@Irvingtonschools.Org |  | 
+| . | Behrens, Thomas | TEACHING ASSISTANT | Thomas.Behrens@Irvingtonschools.Org |  | 
+| . | Benedetto, Margaret | ASSISTANT PRINCIPAL | Margaret.Benedetto@Irvingtonschools.org |  | 
+| . | Bietsch, Joseph | CLEANER | Joseph.Bietsch@Irvingtonschools.Org |  | 
+| . | Blackwell, Amy | GR1 | Amy.Blackwell@Irvingtonschools.Org |  | 
+| . | Bowen, Catherine | LIBRARY CLERK | Catherine.Bowen@Irvingtonschools.Org |  | 
+| . | Buck, Susan B. | GR 1 | Susan.Buck@Irvingtonschools.Org |  | 
+| . | Burns, Joan | SPECIAL EDUCATION | Joan.Burns@Irvingtonschools.Org |  | 
+| . | Buttino, Catherine | K | Catherine.Buttino@Irvingtonschools.Org |  | 
+| . | Caicedo, Carla | COMMUNITY AIDE | Carla.Caicedo@Irvingtonschools.Org |  | 
+| . | Caporal, Susan T. | NURSE | Susan.Caporal@Irvingtonschools.Org |  | 
+| . | Cappello, Sandra L. | TA | Sandra.Cappello@Irvingtonschools.Org |  | 
+| . | Carle, Elizabeth | AIS | Elizabeth.Carle@Irvingtonschools.Org |  | 
+| . | Carlson, Karen B. | GR 2 | Karen.Carlson@Irvingtonschools.Org |  | 
+| . | Carnahan, Sarah | GR 2 | Sarah.Carnahan@Irvingtonschools.Org |  | 
+| . | Caroprese, JoAnne | MUSIC | JoAnne.Caroprese@Irvingtonschools.Org |  | 
+| . | Child, Mary Lynn | GR 3 | MaryLynn.Child@Irvingtonschools.Org |  | 
+| . | Cole, Neil | HEAD CUSTODIAN | Neil.Cole@Irvingtonschools.Org |  | 
+| . | Cullen, Christopher J. | GR 3 | Christopher.Cullen@Irvingtonschools.Org |  | 
+| . | Dama, Nicole M. | SPECIAL EDUCATION | Nicole.Dama@Irvingtonschools.Org |  | 
+| . | Daniels, Corinne | GR K | Corinne.Daniels@Irvingtonschools.Org |  | 
+| . | Daniels, Kevin | TA | Kevin.Daniels@Irvingtonschools.org |  | 
+| . | Deuel, Kathleen S. | GR 3 | Kathleen.Deuel@Irvingtonschools.Org |  | 
+| . | Driscoll, Barbara | TA | Barbara.Driscoll@IrvingtonSchools.Org |  | 
+| . | Duffield, Sandra M. | ART | Sandra.Duffield@Irvingtonschools.Org |  | 
+| . | Duke, Megan M | TA | Megan.Duke@Irvingtonschools.Org |  | 
+| . | Falcon, Katherine Egan | GR1 | Katherine Egan.Falcon@Irvingtonschools.Org |  | 
+| . | Feinberg-Gur, Julie | TA | Julie.Feinberg-Gur@Irvingtonschools.Org |  | 
+| . | Ferraro, Anthony M. | CLEANER | Anthony.Ferraro@Irvingtonschools.Org |  | 
+| . | Ferreri, Anita | READING | Anita.Ferreri@Irvingtonschools.Org |  | 
+| . | Festa, Donna | SECRETARY TO THE PRINCIPAL | Donna.Festa@Irvingtonschools.Org |  | 
+| . | Fisher, Alyssa A. | GR 1 | Alyssa.Fisher@Irvingtonschools.Org |  | 
+| . | Franciosa, Tina | OFFICE ASSISTANT | Tina.Franciosa@Irvingtonschools.Org |  | 
+| . | Fulgieri, Gloria R. | READING | Gloria.Fulgieri@Irvingtonschools.Org |  | 
+| . | Gabriel, Danielle | TA | Danielle.Gabriel@IrvingtonSchools.Org |  | 
+| . | Giacomantonio, Julie E. | SPECIAL EDUCATION | Julie.Giacomantonio@Irvingtonschools.Org |  | 
+| . | Gizzi, Nicolette | TA | Nicolette.Gizzi@Irvingtonschools.org |  | 
+| . | Gordineer, Darnell D | CUSTODIAN | Darnell.Gordineer@Irvingtonschools.Org |  | 
+| . | Griffin, Michelle | GR 3 | Michelle.Griffin@Irvingtonschools.Org |  | 
+| . | Grundstein, Andrea L. | COTA | Andrea.Grundstein@Irvingtonschools.Org |  | 
+| . | Hallock, Anne Marie | OCCUPATIONAL THERAPIST | Anne Marie.Hallock@Irvingtonschools.Org |  | 
+| . | Hartnett, Rose | TA | Rose.Hartnett@Irvingtonschools.Org |  | 
+| . | Hevern, Mary | TA | Mary.Hevern@Irvingtonschools.Org |  | 
+| . | Jelenek, Joanne | TA | Joanne.Jelenek@Irvingtonschools.Org |  | 
+| . | Johns, Kathryn L. | GR 1 | Kathryn.Johns@Irvingtonschools.Org |  | 
+| . | Kaufman, Mona J. | TA | Mona.Kaufman@Irvingtonschools.Org |  | 
+| . | Kiernan, Diane | SPECIAL EDUCATION | Diane.Kiernan@Irvingtonschools.org |  | 
+| . | Lane, Laura | K | Laura.Lane@Irvingtonschools.Org |  | 
+| . | Lasker, Andrea E. | SPEECH | Andrea.Lasker@Irvingtonschools.Org |  | 
+| . | Lewandowski, Carmel A. | AIDE | Carmel.Lewandowski@Irvingtonschools.Org |  | 
+| . | Lichtenwalner.Randy | PRINCIPAL | Randy.Lichtenwalner@Irvingtonschools.Org |  | 
+| . | Malara, Virginia M. | ESL | Virginia.Malara@Irvingtonschools.Org |  | 
+| . | Maugeri, Thea S. | TA | Thea.Maugeri@Irvingtonschools.Org |  | 
+| . | McNamara, Claudia | K | Claudia.Mcnamara@Irvingtonschools.Org |  | 
+| . | Merisse, Vernis | CLEANER | Vernis.Merisse@Irvingtonschools.org |  | 
+| . | Milstein, Mark R. | GR 3 | Mark.Milstein@Irvingtonschools.Org |  | 
+| . | Miraglia, Crystal | SPECIAL EDUCATION | Crystal.Miraglia@Irvingtonschools.org |  | 
+| . | Mitchell, Kyah M. | GR 2 | Kyah.Mitchell@Irvingtonschools.Org |  | 
+| . | Moore, Pamela M. | TA | Pamela.Moore@Irvingtonschools.Org |  | 
+| . | Morgan, Wendy L. | TA | Wendy.Morgan@Irvingtonschools.Org |  | 
+| . | Nevins, Rachel A. | COMPUTER AIDE | Rachel.Nevins@Irvingtonschools.Org |  | 
+| . | Pickard, Julia | TA | Julia.Pickard@IrvingtonSchools.Org |  | 
+| . | Rahman, Farhana | MONITOR | Farhana.Rahman@Irvingtonschools.Org |  | 
+| . | Reardon, Ann Marie | K | Ann Marie.Reardon@Irvingtonschools.Org |  | 
+| . | Rogan, Deborah C. | GR2 | Deborah.Rogan@Irvingtonschools.Org |  | 
+| . | Rogers, Mark A. | K | Mark.Rogers@Irvingtonschools.Org |  | 
+| . | Rosenblatt, Christina | LIBRARY CLERK | Christina.Rosenblatt@Irvingtonschools.Org |  | 
+| . | Rosner, Christine | MATH SPECIALIST | Christine.Rosner@Irvingtonschools.Org |  | 
+| . | Ross, Pamela | TA | Pamela.Ross@Irvingtonschools.org |  | 
+| . | Sabia.Noreen | PSYCHOLOGIST | Noreen.Sabia@Irvingtonschools.org |  | 
+| . | Scanlon, Eileen | GR 2 | Eileen.Scanlon@Irvingtonschools.Org |  | 
+| . | Schermerhorn, Susan M. | PSYCHOLOGIST | Susan.Schermerhorn@Irvingtonschools.Org |  | 
+| . | Shaw, Laura A | PHYSICAL EDUCATION | Laura.Shaw@Irvingtonschools.Org |  | 
+| . | Shay, Barbara J. | TA | Barbara.Shay@Irvingtonschools.Org |  | 
+| . | Shepherd, Stephanie | TA | Stephanie.Shepherd@Irvingtonschools.Org |  | 
+| . | Shortino, Krista | GR 2 | Krista.Shortino@Irvingtonschools.Org |  | 
+| . | Smerling, Selene | TA | Selene.Smerling@Irvingtonschools.Org |  | 
+| . | Stracuzzi, Marisa N. | PHYSICAL EDUCATION | Marisa.Stracuzzi@Irvingtonschools.Org |  | 
+| . | Swiecka, Izabela | K | Izabela.Swiecka@Irvingtonschools.Org |  | 
+| . | Tatananni, Stacy D | TA | Stacy.Tatananni@Irvingtonschools.Org |  | 
+| . | Tempesta, Margaret | TA | Margaret.Tempesta@Irvingtonschools.Org |  | 
+| . | Triga, Adrienne | TA | Adrienne.Triga@Irvingtonschools.Org |  | 
+| . | Trombetta, Brian | BUILDING SUBSTITUTE | Bryan.Trombetta@IrvingtonSchools.Org |  | 
+| . | Warager, Laurel A | GR 1 | Laurel.Warager@Irvingtonschools.Org |  | 
+| . | Wilhelm, Cheryl L. | SPEECH THERAPIST | Cheryl.Wilhelm@Irvingtonschools.Org |  | 
+| . | Woeckener, Nancy | MATH SPECIALIST | Nancy.Woeckener@Irvingtonschools.Org |  | 
+| . | Zandel, Tanja | TA | Tanja.Zandel@Irvingtsonschools.Org |  | 
+| . |  |  |  |  | 
+| . |  |  |  |  | 
+| . |  |  |  |  | 
+| . | High School Staff |  |  |  | 
+| . |  |  |  |  | 
+| . | Agosti, Brian | PHYSICAL EDUCATION | Brian.Agosti@Irvingtonschools.Org |  | 
+| . | Artiles, Jorge | CLEANER | Jorge.Artiles@irvingtonschools.org |  | 
+| . | Attenello, Heather A. | GUIDANCE | Heather.Attenello@IrvingtonSchools.Org |  | 
+| . | Barry, Christopher B. | SOCIAL STUDIES | Christopher.Barry@Irvingtonschools.Org |  | 
+| . | Bisceglia, Patricia | SECRETARY TO PPS DIRECTOR | Patricia.Bisceglia@Irvingtonschools.Org |  | 
+| . | Brinkerhoff, Stefanie L | 1 TO 1 | Stefanie.Brinkerhoff@Irvingtonschools.Org |  | 
+| . | Caicedo, Carla C | COMPUTER AIDE | Carla.Caicedo@Irvingtonschools.Org |  | 
+| . | Callas, Nicholas | CLEANER | Nicholas.Callas@Irvingtonschools.Org |  | 
+| . | Calves-Decurtis, Benigna | SPANISH | Benigna.Calves-Decurtis@Irvingtonschools.Org |  | 
+| . | Caporal-Dawson, Nina | SPANISH | Nina.Caporal-Dawson@Irvingtonschools.Org |  | 
+| . | Cassidy, Diana T. | MATH | Diana.Cassidy@Irvingtonschools.Org |  | 
+| . | Cella, Michele | LATIN | Michele.Cella@Irvingtonschools.Org |  | 
+| . | Cohen, David | PRINCIPAL | David.Cohen@Irvingtonschools.org |  | 
+| . | Costabile, Patsy P. | ARCHITECT TEACHER | Patsy.Costabile@Irvingtonschools.Org |  | 
+| . | Cutignola, Lauren | SPECIAL EDUCATION | Lauren.Cutignola@Irvigntonschools.org |  | 
+| . | DeBlasio, Robert | CLEANER | Robert.DeBlasio@Irvingtonschools.Org |  | 
+| . | Denis, Rita M. | LIBRARY CLERK | Rita.Denis@Irvingtonschools.Org |  | 
+| . | Devaney, Donna M | PHYSICAL EDUCATION | Donna.Devaney@Irvingtonschools.Org |  | 
+| . | DiGennaro, Michael | GUIDANCE DEPT CHAIR | Michael.DiGennaro@IrvingtonSchools.Org |  | 
+| . | DiNapoli, Francine | MATH | Francine.DiNapoli@Irvingtonschools.Org |  | 
+| . | Dunne, Michele K. | SCIENCE | Michele.Dunne@Irvingtonschools.Org |  | 
+| . | Dupre, Collette | FRENCH/SPANISH | Collette.Dupre@Irvingtonschools.Org |  | 
+| . | Engeldrum-Pappalardi, Lisa | HEALTH | Lisa.Pappalardi@Irvingtonschools.Org |  | 
+| . | Fagan, Denise T. | MATH | Denise.Fagan@Irvingtonschools.Org |  | 
+| . | Falk, Amy E. | SOCIAL STUDIES | Amy.Falk@Irvingtonschools.Org |  | 
+| . | Fata, Lawrence | SOCIAL STUDIES | Lawrence.Fata@Irvingtonschools.Org |  | 
+| . | Fazzino, Sebastian | CLEANER | Sebastian.Fazzino@Irvingtonschools.Org |  | 
+| . | Fetzer, Peter E. | CUSTODIAN | Peter.Fetzer@Irvingtonschools.Org |  | 
+| . | Fiorisi, Kenneth J. | CUSTODIAN | Kenneth.Fiorisi@Irvingtonschools.Org |  | 
+| . | Fortunato, Dania M | CLEANER | Dania.Fortunato@Irvingtonschools.Org |  | 
+| . | Fox, Mary | TEACHING ASSISTANT | Mary.Fox@Irvingtonschools.org |  | 
+| . | Fried, Andrew J. | ENGLISH | Andrew.Fried@Irvingtonschools.Org |  | 
+| . | Galletta, Anne | SR OFFICE ASSISTANT | Anne.Galletta@Irvingtonschools.org |  | 
+| . | Garbutt, Angelina | SR OFFICE ASSISTANT | Angelina.Garbutt@Irvingtonschools.org |  | 
+| . | Geelan, Courtney A. | SOCIAL STUDIES | Courtney.Geelan@Irvingtonschools.Org |  | 
+| . | Gillespie, Janet M. | MUSIC | Janet.Gillespie@Irvingtonschools.Org |  | 
+| . | Gillispie, Donna | TA | Donna.Gillispie@irvingtonschools.org |  | 
+| . | Graham, Patricia K. | TA | Patricia.Graham@Irvingtonschools.Org |  | 
+| . | Grant, Jacquelyn | ENGLISH | Jacquelyn.Grant@Irvingtonschools.Org |  | 
+| . | Groven, James J. | ENGLISH | James.Groven@Irvingtonschools.Org |  | 
+| . | Grundstein, Andrea | COTA | Andrea.Grundstein@Irvingtonschools.Org |  | 
+| . | Gutman, Craig B. | CLEANER | Craig.Gutman@Irvingtonschools.Org |  | 
+| . | Hallock, AnnMarie | OCCUPATIONAL THERAPIST | AnnMarie.Hallock@Irvingtonschools.Org |  | 
+| . | Hart, Jeanine A. | SPECIAL EDUCATION | Jeanine.Hart@Irvingtonschools.Org |  | 
+| . | Henry, Kiersten | FRENCH | Kiersten.Henry@Irvingtonschools.org |  | 
+| . | Holder, Walter H. | CLEANER | Walter.Holder@Irvingtonschools.Org |  | 
+| . | Hughes, Jessica | SCIENCE | Jessica.Hughes@Irvingtonschools.org |  | 
+| . | Ippolito, Julie | ENGLISH | JulieIppolito@Irvingtonschools.Org |  | 
+| . | Jezik, Andrew | BUILDING SUBSTITUTE | Andrew.Jezik@irvingtonschool.org |  | 
+| . | Julian, Carleen M. | SPECIAL EDUCATION | Carleen.Julian@Irvingtonschools.Org |  | 
+| . | Kahl, Deanna K. | MATH | Deanna.Kahl@Irvingtonschools.Org |  | 
+| . | Kelly, Lauren | TA | Lauren.Kelly@Irvingtonschools.org |  | 
+| . | Kennedy, Marianne | ESL | Marianne.Kennedy@Irvingtonschools.Org |  | 
+| . | Koester, Holly L. | SPECIAL EDUCATION | Holly.Koester@Irvingtonschools.Org |  | 
+| . | Krieger, Gail P. | CPSE CHAIR | Gail.Krieger@Irvingtonschools.Org |  | 
+| . | Kwiatkowski, Ben | BUILDING SUBSTITUTE | Ben.Kwiatkowski@Irvingtonschools.Org |  | 
+| . | Lake-Garcia, Sara | SOCIAL STUDIES | Sara.Lake-Garcia@Irvingtonschools.Org |  | 
+| . | Lent, Jamie C. | SOCIAL STUDIES | Jamie.Lent@Irvingtonschools.Org |  | 
+| . | Lockwood, John | SPECIAL EDUCATION LR | John.Lockwood@Irvingtonschools.org |  | 
+| . | Lombardi, Eileen | NURSE | Eileen.Lombardi@Irvingtonschools.Org |  | 
+| . | Lubinsky, Jesse T. | TECHNOLOGY COORDINATOR/CIO | Jesse.Lubinsky@Irvingtonschools.Org |  | 
+| . | Lund, Andrew | GUIDANCE | Andrew.Lund@Irvingtonschools.Org |  | 
+| . | Lyson, Tricia | MATH | Tricia.Lyson@Irvingtonschools.Org |  | 
+| . | Ma, Amy | SCIENCE | Amy.Ma@Irvingtonschools.Org |  | 
+| . | Many, Trish E. | SPECIAL EDUCATION | Trish.Many@Irvingtonschools.Org |  | 
+| . | Maraziti, Jr., Thomas M | CUSTODIAN | Thomas.Maraziti@Irvingtonschools.Org |  | 
+| . | Mariniello, Deborah | ASSISTANT PRINCIPAL | Deborah.Mariniello@IrvingtonSchools.Org |  | 
+| . | Markic, IliJa | SCIENCE | Ilija.Markic@Irvingtonschools.Org |  | 
+| . | May, Dalia O. | PSYCHOLOGIST | Dalia.May@Irvingtonschools.Org |  | 
+| . | Mccormack, Arthur K. | ATHLETIC DIRECTOR/ASSISTANT PRINCIPAL | Arthur.Mccormack@Irvingtonschools.Org |  | 
+| . | Molloy, Joann L. | LIBRARY CLERK | Joann.Molloy@Irvingtonschools.Org |  | 
+| . | Morabito, Joanna | SCIENCE | Joanna.Morabito@Irvingtonschools.Org |  | 
+| . | Munigle, Kyle S. | CUSTODIAN | Kyle.Munigle@Irvingtonschools.Org |  | 
+| . | O'Connor, Kim E. | ENGLISH | Kim.O'Connor@Irvingtonschools.Org |  | 
+| . | O'Dell, Douglas G. | CUSTODIAL WORKER/GROUNDSKEEPER | Douglas.O'Dell@Irvingtonschools.Org |  | 
+| . | Orlando, Julia F | OFFICE ASSISTANT | Julia.Orlando@Irvingtonschools.Org |  | 
+| . | Palermo, Scott | PPS DIRECTOR | Scott.Palermo@Irvingtonschools.Org |  | 
+| . | Palmer, Karen E. | MATH | Karen.Palmer-Tucker@irvingtonschools.org |  | 
+| . | Pancotto, Patricia A. | OFFICE ASSISTANT | Patricia.Pancotto@Irvingtonschools.Org |  | 
+| . | Parikka, Nadia M. | SCIENCE | Nadia.Parikka@Irvingtonschools.Org |  | 
+| . | Pitore, Richie | HEAD CUSTODIAN | Richard.Pitore@Irvingtonschools.Org |  | 
+| . | Ranere, Ramona | CLEANER | Ramona.Ranere@Irvingtonschools.org |  | 
+| . | Regan, Sharon L. | SECRETARY TO THE PRINCIPAL | Sharon.Regan@Irvingtonschools.Org |  | 
+| . | Resendiz, Martin S. | PHYSICAL EDUCATION | Martin.Resendiz@Irvingtonschools.Org |  | 
+| . | Rodriguez, Claudia | GUIDANCE | Claudia.Rodriguez@Irvingtonschools.Org |  | 
+| . | Rossi, Nina M | ART | Nina.Rossi@Irvingtonschools.Org |  | 
+| . | Roth, Gail | SR OFFICE ASSISTANT | Gail.Roth@IrvingtonSchools.Org |  | 
+| . | Ruffler,James | GROUNDS | James.Ruffler@Irvingtonschools.Org |  | 
+| . | Ryan, Anna M. | TA | Anna.Ryan@Irvingtonschools.Org |  | 
+| . | Ryan, Tiffany A | BUILDING SUBSTITUTE | Tiffany.Ryan@Irvingtonschools.Org |  | 
+| . | Savalli, Sara | SCIENCE | Sara.Savalli@Irvingtonschools.Org |  | 
+| . | Scally, Marguerite | AIDE | Marguerite.Scally@Irvingtonschools.Org |  | 
+| . | Serrano, Rey | MATH | Rey.Serrano@Irvingtonschools.Org |  | 
+| . | Sewalk, Holly G. | SPECIAL EDUCATION | Holly.Sewalk@Irvingtonschools.Org |  | 
+| . | Silverman, Jonathan A. | LATIN | Jonathan.Silverman@Irvingtonschools.Org |  | 
+| . | Sim, Robert | ENGLISH | Robert.Sim@Irvingtonschools.Org |  | 
+| . | Tessler, Deanna | FOREIGN LANGUAGE | Deanna.Tessler@Irvingtonschools.Org |  | 
+| . | Tetro, Kathleen N. | ART | Kathleen.Tetro@Irvingtonschools.Org |  | 
+| . | Torregrossa, Christine | FOOD SERVICE MANAGER | Christine.Torregrossa@IrvingtonSchools.Org |  | 
+| . | Turk, Steven J. | SCIENCE | Steven.Turk@Irvingtonschools.Org |  | 
+| . | Vargas De Almon, Maritza | SPANISH | Maritza.VargasDeAlmon@Irvingtonschools.Org |  | 
+| . | Vasquez, Nancy | 1 TO 1 | Nancy.Vasquez@Irvingtonschools.Org |  | 
+| . | Venturino, Dale | TA | Dale.Venturino@Irvingtonschools.Org |  | 
+| . | Weinstein-Dupre, Collette | FRENCH/SPANISH | Collette.Weinstein@Irvingtonschools.Org |  | 
+| . | Weiselberg, Erik L. | SOCIAL STUDIES | Erik.Weiselberg@Irvingtonschools.Org |  | 
+| . | Whitehead, David G. | SCIENCE | David.Whitehead@Irvingtonschools.Org |  | 
+| . | Williams, Jason C. | ENGLISH | Jason.Williams@Irvingtonschools.Org |  | 
+| . | Winterroth, Geraldine | SCIENCE | Geraldine.Winterroth@irvingtonschools.org |  | 
+| . |  |  |  |  | 
+| . |  |  |  |  | 
+| . | Main Street Staff |  |  |  | 
+| . |  |  |  |  | 
+| . | Alpert, Ronni | GR 5 | Ronni.Alpert@Irvingtonschools.Org |  | 
+| . | Androsko, Scott M. | GR 4 | Scott.Andrasko@Irvingtonschools.Org |  | 
+| . | Aviles, Angel M. | HEAD CUSTODIAN | Angel.Aviles@Irvingtonschools.Org |  | 
+| . | Baretela, Marilyn | OFFICE ASSISTANT | Marilyn.Baretela@Irvingtonschools.Org |  | 
+| . | Cangelosi, Giulietta | GR 5 | Giulietta.Cangelosi@Irvingtonschoos.org |  | 
+| . | Carney, Gwenn | TECHNOLOGY | Gwenn.Carney@Irvingtonschools.org |  | 
+| . | Casey, Eileen | PRINCIPAL (INTERIM) | Eileen.Casey@IrvingtonSchools.Org |  | 
+| . | Castillo, Allan | CLEANER | Allan.Castillo@Irvingtonschools.org |  | 
+| . | Connick, Tim | CUSTODIAN | Tim.Connick@Irvingtonschools.Org |  | 
+| . | De La Garza, Fernando | TA | Fernando.Delagarza@Irvingtonschools.org |  | 
+| . | Ferraro, Louis | CLEANER | Louis.Ferraro@Irvingtonschools.Org |  | 
+| . | Fiol.Cristina | SPECIAL EDUCATION | Cristina.Sclafani@Irvingtonschools.Org |  | 
+| . | Fortini, Mary Ellen | GR 4 | MaryEllen.Fortini@Irvingtonschools.org |  | 
+| . | Flynn, Tiffany | PHYSICAL EDUCATION | Tiffany.Flynn@Irvingtonschools.Org |  | 
+| . | Gervasi, Lisa | GR 4 | Lisa.Gervasi@Irvingtonschools.org |  | 
+| . | Goldberg, Alan M. | MUSIC | Alan.Goldberg@Irvingtonschools.Org |  | 
+| . | Guerrero, Euric V | PSYCHOLOGIST | Euric.Guerrero@Irvingtonschools.Org |  | 
+| . | Haddeland, Diane | PHYSICAL EDUCATION - LR | Diane.Haddeland@IrvingtonSchools.Org |  | 
+| . | Hallock, AnnMarie | OCCUPATIONAL THERAPIST | AnnMarie.Hallock@Irvingtonschoos.Org |  | 
+| . | Hannon, Megan R. | MUSIC | Megan.Hannon@Irvingtonschools.Org |  | 
+| . | Imber, Helene S. | READING SPECIALIST | Helene.Imber@Irvingtonschools.Org |  | 
+| . | Jones, Amy | GR 4 | Amy.Jones@Irvingtonschools.Org |  | 
+| . | Keane Fortini, Mary Ellen | GR 4 | MaryEllen.Fortini@Irvingtonschools.org |  | 
+| . | Knoblich, Jessica L | SPECIAL EDUCATION | Jessica.Knoblich@Irvingtonschools.Org |  | 
+| . | LaBella, Danielle | BUILDING SUBSTITUTE | Danielle.LaBella@IrvingtonSchools.Org |  | 
+| . | Lee, Danielle | SPECIAL EDUCATION | Danielle.Lee@IrvingtonSchools.Org |  | 
+| . | Luzzi, Linda | CLERK | Linda.Luzzi@Irvingtonschools.Org |  | 
+| . | Malara, Virginia | ESL | Virginia.Malara@Irvingtonschools.Org |  | 
+| . | Meiseles, Alison D. | GR 5 | Alison.Meiseles@Irvingtonschools.Org |  | 
+| . | Morgan, Elizabeth | TA | Elizabeth.Morgan@Irvingtonschools.Org |  | 
+| . | Nevins, Rachel | COMPUTER AIDE | Rachel.Nevins@Irvingtonschools.org |  | 
+| . | Onoda, Marilyn R. | NURSE | Marilyn.Onoda@Irvingtonschools.Org |  | 
+| . | Ottaviano, Deborah | GR 5 | Deborah.Ottaviano@Irvingtonschools.Org |  | 
+| . | Papovitch, Lisa M | 1 to 1 Aide | Lisa.Papovitch@Irvingtonschools.Org |  | 
+| . | Richardson, Jacqueline | LIBRARY CLERK | Jacqueline.Richardson@Irvingtonschools.Org |  | 
+| . | Rosner, Christine | MATH | Christine.Rosner@Irvingtonschools.Org |  | 
+| . | Rossi, Nina M. | ART | Nina.Rossi@Irvingtonschools.Org |  | 
+| . | Samnarine, Preerea | LIBRARY CLERK | Preerea.Samnarine@Irvingtonschools.Org |  | 
+| . | Sampelayo, Rebeca | SPEECH THERAPIST | Rebeca.Sampelayo@Irvingtonschools.Org |  | 
+| . | Sauter-Decarlo, Carole A. | 1 TO 1 | Carole.Sauter-Decarlo@Irvingtonschools.Org |  | 
+| . | Sensi, Michelle L. | GR 5 | Michelle.Sensi@Irvingtonschools.Org |  | 
+| . | Tasigiannis, Georgia G. | GR 4 | Georgia.Tasigiannis@Irvingtonschools.Org |  | 
+| . | Vaqureo, Keri | READING | Keri.Vaquero@IrvingtonSchools.Org |  | 
+| . | Varian, Donna P. | TA GR 5 | Donna.Varian@Irvingtonschools.Org |  | 
+| . | Wallace, Susan | GR 5 | Susan.Wallace@Irvingtonschools.org |  | 
+| . | Walsh, Tammy | TA | Tammy.Walsh@Irvingtonschools.org |  | 
+| . | Watkinson, Diane M. | GR 4 | Diane.Watkinson@Irvingtonschools.Org |  | 
+| . | Webber, Kathleen | SPECIAL EDUCATION | Kathleen.Webber@Irvingtonschools.org |  | 
+| . |  |  |  |  | 
+| . |  |  |  |  | 
+| . |  |  |  |  | 
+| . |  |  |  |  | 
+| . |  |  |  |  | 
+| . | Middle School Staff |  |  |  | 
+| . |  |  |  |  | 
+| . | Acrish, Karen E. | SPECIAL EDUCATION | Karen.Acrish@Irvingtonschools.Org |  | 
+| . | Agosti, Brian A | PHYSICAL EDUCATION | Brian.Agosti@Irvingtonschools.Org |  | 
+| . | Almeida, Danielle | MATH | Danielle.Almeida@Irvingtonschools.Org |  | 
+| . | Baily, Roger | 1 to 1 Aide | Roger.Bailey@Irvingtonschools.Org |  | 
+| . | Balducci, Norma | TA | Norma.Balducci@Irvingtonschools.Org |  | 
+| . | Ballas, Guylaine D | 1 to 1 Aide | Guylaine.Ballas@Irvingtonschools.Org |  | 
+| . | Becker, Katherine E. | PHYSICAL EDUCATION | Kate.Becker@Irvingtonschools.Org |  | 
+| . | Bereday, Luz Elena | 1 TO 1 | LuzElena.Bereday@Irvingtonschools.Org |  | 
+| . | Bivens, Felicia Kaye | 1 TO 1 | FeliciaKaye.Bivens@Irvingtonschools.Org |  | 
+| . | Buzzetto, Tina N. | SCIENCE | Tina.Buzzetto@IrvingtonSchools.Org |  | 
+| . | Byers, Elisha | MATH | Eli.Byers@Irvingtonschools.Org |  | 
+| . | Caraballo, Vilma | TA SPECIAL EDUCATION | Vilma.Caraballo@Irvingtonschools.Org |  | 
+| . | Castillo, Kyung J | 1 TO 1 | Kyung.Castillo@Irvingtonschools.Org |  | 
+| . | Cerbone, Florence I. | TA | Florence.Cerbone@Irvingtonschools.Org |  | 
+| . | Chapnick, Joyce | ASSISTANT PRINCIPAL | Joyce.Chapnick@Irvingtonschools.org |  | 
+| . | Condit, Amy T. | MATH | Amy.Condit@Irvingtonschools.Org |  | 
+| . | Deblasio, Robert | CLEANER | Robert.Deblasio@Irvingtonschools.Org |  | 
+| . | Delisi, Jennifer M. | ENGLISH | Jennifer.Delisi@Irvingtonschools.Org |  | 
+| . | Dibenedetto, Patrick J. | ART | Patrick.Dibenedetto@Irvingtonschools.Org |  | 
+| . | Digiovanni, Stephen P. | MUSIC | Stephen.Digiovanni@Irvingtonschools.Org |  | 
+| . | Doherty, Jessica | SPECIAL EDUCATION | Jessica.Doherty@Irvingtonschools.Org |  | 
+| . | Druzic, Angela | SPANISH | Angela.Druzic@Irvingtonschools.Org |  | 
+| . | Dupre, Collette | FRENCH | Collette.Dupre@irvingtonschools.org |  | 
+| . | Fried, Linda | OFFICE ASSISTANT | Linda.Fried@IrvingtonSchools.Org |  | 
+| . | Goldberg, Alan | MUSIC | Alan.Goldberg@Irvingtonschools.Org |  | 
+| . | Grundstein, Andrea | COTA | Andrea.Grundstein@Irvingtonschools.Org |  | 
+| . | Hallock, AnnMarie | OCCUPATIONAL THERAPIST | AnnMarie.Hallock@Irvingtonschools.Org |  | 
+| . | Hannon, Megan | MUSIC | Megan.Hannon@Irvingtonschools.Org |  | 
+| . | Holt, Dawn | SPECIAL EDUCATION | Dawn.Holt@Irvingtonschools.org |  | 
+| . | Hunt, Teresa | HOME | Teresa.Hunt@Irvingtonschools.Org |  | 
+| . | Infelice, Tracy Ann | SPEECH/HEARING | Tracy.Infelice@Irvingtonschools.Org |  | 
+| . | Jacobsen, Susan | NURSE | Susan.Jacobsen@Irvingtonschools.Org |  | 
+| . | Keating, Bernard | MATH | Bernard.Keating@Irvingtonschools.Org |  | 
+| . | Kennedy,Marianne | ESL | Marianne.Kennedy@Irvingtonschools.Org |  | 
+| . | Kirsch, Karen E. | SCIENCE | Karen.Kirsch@Irvingtonschools.Org |  | 
+| . | Kozak, Kelly A. | ENGLISH | Kelly.Kozak@Irvingtonschools.Org |  | 
+| . | Labella, Carol A. | SOCIAL STUDIES | Carol.Labella@Irvingtonschools.Org |  | 
+| . | Lagana, Melissa | READING | Melissa.Lagana@IrvingtonSchools.Org |  | 
+| . | Ledwith, Noreen | TA | Noreen.Ledwith@irvingtonschools.org |  | 
+| . | Lehoczky, Caroline | SPECIAL EDUCATION | Caroline.Lehoczky@IrvingtonSchools.Org |  | 
+| . | Leite, Liza | GUIDANCE | Liza.Leite@Irvingtonschools.Org |  | 
+| . | Levine, Philip | SCIENCE | Philip.Levine@Irvingtonschools.org |  | 
+| . | Lividini, Christopher | 1 TO 2 | Christopher.Lividini@Irvingtonschools.Org |  | 
+| . | Maher, Regina | TECH SUPPORT | Regina.Maher@Irvingtonschools.Org |  | 
+| . | Martin, Clarice | SPECIAL EDUCATION | Clarice.Martin@Irvingtonschools.Org |  | 
+| . | McArdle, Jennifer | ENGLISH | Jennifer.McArdle@Irvingtonschools.Org |  | 
+| . | Medina, Nicole | SCIENCE | Nicole.Medina@Irvingtonschools.Org |  | 
+| . | Mitchell, Christina | SOCIAL STUDIES | Christina.Mitchell@IrvingtonSchools.Org |  | 
+| . | Morgan, Elizabeth M. | SPEECH | Elizabeth.Morgan@Irvingtonschools.Org |  | 
+| . | Motush, Patricia | BUILDING SUBSTITUTE | Pat.Motush@IrvingtonSchools.Org |  | 
+| . | Murray, Griffin R. | GUIDANCE | Griffin.Murray@Irvingtonschools.Org |  | 
+| . | Nadler, Judy | ELA | Judy.Nadler@Irvingtonschools.Org |  | 
+| . | Palumbo, Linda | SPECIAL EDUCATION | Linda.Palumbo@Irvingtonschools.Org |  | 
+| . | Panitz, Amy | ELA | Amy.Panitz@Irvingtonschools.Org |  | 
+| . | Papovitch, Lisa | AIDE | Lisa.Papovitch@Irvingtonschools.Org |  | 
+| . | Patricola Vasey, Cathryn | PSYCH | Cathryn.Patricola@Irvingtonschools.Org |  | 
+| . | Pernick, Gregg E. | MATH | Gregg.Pernick@Irvingtonschools.Org |  | 
+| . | Ricciardi, Luann M. | HEALTH | Luann.Ricciardi@Irvingtonschools.Org |  | 
+| . | Riccobono, Patricia | SECRETARY TO PRINCIPAL | Patricia.Riccobono@Irvingtonschools.org |  | 
+| . | Rieck, Jeffery D. | SOCIAL STUDIES | Jeffery.Rieck@Irvingtonschools.Org |  | 
+| . | Rios, Allicia A. | SPEICAL EDUCATION | Allicia.Rios@Irvingtonschools.Org |  | 
+| . | Romano, Victoria J. | SPANISH | Victoria.Romano@Irvingtonschools.Org |  | 
+| . | Sandler, Thomas | ELA | Thomas.Sandler@Irvingtonschools.Org |  | 
+| . | Sandoval, Karina | 1 TO 2 | Karina.Sandoval@Irvingtonschools.Org |  | 
+| . | Schmertz, Diana | ART | Diana.Schmertz@Irvingtonschools.Org |  | 
+| . | Scofield, Deborah J. | SOCIAL STUDIES | Deborah.Scofield@Irvingtonschools.Org |  | 
+| . | Sottile, David J | PRINCIPAL | David.Sottile@Irvingtonschools.Org |  | 
+| . | Spatola, Marc | SCIENCE | Marc.Spatola@Irvingtonschools.Org |  | 
+| . | Tavitian, Michael | SCIENCE - LR | Michael.Tavitian@Irvingtonschools.org |  | 
+| . | Tempest, Allyson L. | SPANISH | Allyson.Tempest@Irvingtonschools.Org |  | 
+| . | Tessler, Deanna M | FRENCH | Deanna.Tessler@IrvingtonSchools.Org |  | 
+| . | Tomaselli, Diana | SPANISH | Diana.Tomaselli@Irvingtonschools.Org |  | 
+| . | Tuzman, Debra | MUSIC | Debra.Tuzman@Irvingtonschools.Org |  | 
+| . | Warnke, Janet A. | OFFICE ASSISTANT | Janet.Warnke@Irvingtonschools.Org |  | 
+| . | Zeese, Eve E. | SOCIAL STUDIES | Eve.Zeese@Irvingtonschools.Org |  | 
+| . |  |  |  |  | 
+| . |  |  |  |  | 
+| . |  |  |  |  | 
+| . |  |  |  |  | 
+| . |  |  |  |  | 
+| . |  |  |  |  | 
+| . |  |  |  |  | 
+| . |  |  |  |  | 
+| . |  |  |  |  | 
+| . |  |  |  |  | 
+| . |  |  |  |  | 
+| . |  |  |  |  | 
+| . |  |  |  |  | 
+| . |  |  |  |  | 
+| . |  |  |  |  | 
+| . |  |  |  |  | 
+| . |  |  |  |  | 
+| . |  |  |  |  | 
+| . |  |  |  |  | 
+| . |  |  |  |  | 
+| . |  |  |  |  | 
+| . |  |  |  |  | 
+| . |  |  |  |  | 
+| . |  |  |  |  | 
+| . |  |  |  |  | 
+| . |  |  |  |  | 
+| . |  |  |  |  | 
+| . |  |  |  |  | 
+| . |  |  |  |  | 
+| . |  |  |  |  | 
+| . |  |  |  |  | 
+| . |  |  |  |  | 
+| . |  |  |  |  | 
+| . |  |  |  |  | 
+| . |  |  |  |  | 
+| . |  |  |  |  | 
+| . |  |  |  |  | 
+| . |  |  |  |  | 
+| . |  |  |  |  | 
+| . |  |  |  |  |

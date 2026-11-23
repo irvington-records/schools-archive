@@ -1,0 +1,50 @@
+SOURCE https://www.irvingtonschools.org/departments/technologyandinnovation/infinite-campus/infinite-campus-faqs | DATE 2026-05-01 | TITLE Infinite Campus FAQs
+
+Parent Portal Guide and FAQ
+The Infinite Campus Parent Portal provides parents and guardians with a host of information about their children and their academics. We have collected frequently asked questions (FAQs) and provided answers below. If you have any other questions that are not answered here, please send them to us via email at IC Support.
+Q: What is Infinite Campus? Why would I use it?
+A: Infinite Campus is the student information system in use by Irvington Union Free School District. Student information, schedules, grades, attendance, and more are managed in the system. The Parent Portal is a password-protected website that allows you to view this information about your student online.
+Q: Is there an app I can download on my phone?
+A: Yes! You can download the Campus Parent app on any smartphone or tablet. Students can even download the Campus Student app to view similar information in the Campus Student app.
+Q: How do I log into the Parent Portal?
+A: Go to the Campus Parent Login page or open the Campus Parent app from your smartphone or tablet.
+If you have not received your Campus Parent Activation Code to setup your account when you enrolled or are having difficulty logging in, then fill out the Campus Parent Support Form.
+Q: I logged into my Portal Account for the first time, why am I being asked to enter an email and password?
+A: When you log in to Campus Parent for the first time, it will ask you to enter an email address that can be used for security purposes. Enter your email as seen below and then enter the password you created when you setup your account. Then click Save.
+You should then receive an email from Infinite Campus (see below), that will ask you click on a link to validate your account. After you click on this link, you will now be able to use the "Forgot My Password" link in the future.
+Click on the link, or copy and paste the URL into your browser, to verify your security email. Once verified, you will be able to use the Forgot Password? and Forgot Username? tools on the Parent Portal login page.
+You must click on the link in this email to enable the "Forgot Password?" or "Forgot Username?" feature.
+Q: How do I find my child (or switch between my children) in Infinite Campus?
+A: If a tool is specific to a single student, such as Grades or Schedule, a student drop down list displays in the top right corner. Use this list to switch between your children. This dropdown list does not display for tools that are not student specific like Announcements and More.
+Q: Where do I find my child’s schedule?
+A: The Schedule tool shows the student's schedule for each term. Click on the Schedule option from your menu. The schedule will show you your student's schedule for the selected school year.
+A printable schedule report is available in the Documents tool in the menu on the left. Click on Student Schedule view a PDF version of your student's schedule.
+Q: How do I contact my child’s teachers?
+A: If you need to contact your student's teacher, click on the Schedule tool. Here you will see your student's course schedule. Click on the class with the teacher you want to contact.
+This will provide you with the teacher's email address. Copy and paste an email address into a new message in your email inbox.
+Q: Where do I find attendance information?
+A: Your student's attendance can be viewed two different ways, by course or by date.
+To view your student's attendance by course, click on Attendance. This will display a list of current courses and the number of absences or tardies the student received.
+To view specific absences for a course, click on the Course name.
+This will provide you with each date the student was marked absent or tardy and whether it was excused or unexcused.
+To view your student's attendance by course, click on Calendar. Click on any date to view attendance records for the selected student.
+Q: Where do I find my child’s assignment grades? Where can I find missing assignments?
+A: The Assignments tool collects all of a student's assignments with the focus on today. Click on Assignments to view a list of assignments the student has completed or is currently missing.
+Click on any individual assignment to view the assigned date, due date, and score/grade.
+Q: Where do I find my course child’s grades?
+A: Click on Grades to view your student's grade for all of their current courses.
+Courses using Standards Based Grading will provide a grade for each standard that is measured. The Semester Grade is the grade the student is currently receiving overall for the course and is displayed as a decimal number and letter grade. Click here to learn more about standards based grading in Irvington.
+If a course is not using standards based grading, then a Semester Grade will display the overall percentage and letter grade the student is currently receiving for the course.
+*"In-Progress" indicates the course is currently in progress and may change at any time. Once the semester has been completed, teachers will post a final grade and it will appear in bold.
+If you want to view grades between different semesters, hide courses that have been dropped or hide rows without grades or assignments, click on the Term filters or Settings at the top to adjust.
+Click on Grade Book Updates from the menu on the left to view a list all of the assignments and scores that have updated in the last 14 days.
+Q: Where do I find progress reports and report cards?
+A: Report cards are available in the Parent Portal at the end of every semester. If you want to print a copy of your student's Report Card, click on Documents and select the Semester 1 or Semester 2 Report Card. This file will open in a PDF where you can click Print.
+Q: Where do I find transcripts?
+A: If you need an official or unofficial copy of your student's transcript, contact your school registrar.
+Q: How do I get Notifications?
+A: Notifications are available through the Campus Student and Campus Parent mobile apps. Once notifications are set up, parent/guardians can receive alerts for graded assignments, class grade updates, and attendance updates to parents/guardians.
+1. Open the app on your smartphone or tablet. Before you login, check the box next to Stagy logged in. This will enable the notifications to appear in the mobile app.
+2. Log in to the mobile app on your smartphone or table. Click on the person icon at the top of your screen.
+3. Click on Notification Settings. Check each notification type you would like to receive. Assignment and Grade allow you set to a threshold. For example, if you want to receive a notification when the student receives a score of 50% or less, move the slider over until you see "less than 50%".
+4. Click Save to apply these notification settings. You will now receive a notification through the app on your smartphone or tablet based on these settings.

@@ -1,0 +1,446 @@
+SOURCE https://www.irvingtonschools.org/fs/resource-manager/view/7b78025d-dfaf-44c1-bdc4-dcde5158fab6 | DATE 2025-12-12 | TITLE BasicUserQuickStartGuuideMasterLibrary.pdf
+
+Basic User Quick Start Guide
+First-time overview . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .              2
+Register new account . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                 3
+Log in . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   6
+  • Add Group Insurance Information . . . . . . . . . . . . . .                                7
+Submit Facility Requests . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+  • Three ways to request a facility. . . . . . . . . . . . . . . . .             9
+  • Accessing the ​Make A Request​ screen. . . . . . . . . . . . . 10
+  • Make a New Request . . . . . . . . . . . . . . . . . . . . . . . . . 11
+  • Provide Additional Information . . . . . . . . . . . . . . . . . . 17
+  • Submit Request . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+Edit a User Profile and Add Groups . . . . . . . . . . . . . . . . . . 19
+Edit Group Information . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+Online Documentation . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+                                                           ML Schedules™ Community User Quick Start Guide
+
+
+First-Time Overview
+                      The first time you use ML Schedules™, you will need to register
+                      for a new user account with a Group Name (e.g., for a district
+                      club or Girl Scout troop).
+                      You can also create multiple Group Names under one user
+                      account. Adding new Groups is described in the Log In
+                      procedure.
+                      This Account setup step is only necessary the first time you use
+                      the platform. After that, you will be able to log into your
+                      district’s ML Schedules’ account using your email address and
+                      password to submit requests for a desired space(s).
+                      Many districts require external (community) Group Managers
+                      to upload the Group’s insurance certificate (in PDF or JPG
+                      format) and enter the insurance expiration date the first time
+                      you log into the system as described later in this Guide.
+
+
+
+
+                                                                                                      2
+                                                                       ML Schedules™ Community User Quick Start Guide
+
+
+1. Register a new account
+                            Access ML Schedules from your district’s website
+
+
+                            1. Access the ML Schedules login screen using your
+                               district-specific URL.
+                            Note:   The format of the district-specific URL is a two-character
+                                    State Abbreviation followed by a number-dot-mlschedules.com.
+                                    E.g.: ​http://www.ny9.mlschedules.com.
+
+                            The ML Schedules login screen similar to the one shown at
+                            left will be displayed.
+                            2. Select the ​Create New Account​ command.
+                            A Register screen will be displayed (see next page) to enter
+                            information about yourself and your Group(s).
+                            Note: ​Once your account is set up, you may want to
+                            bookmark the URL for your district’s log-in page.
+
+
+
+
+                                                                                                                  3
+                                                                     ML Schedules™ Community User Quick Start Guide
+1. Register a new account (cont.)
+                                    Enter User and Group information
+                                    From the Register screen:
+                                    3. Enter all of the requested data including:
+                                    User Information
+                                    ● First and Last Name
+                                    ● Email address including confirmation
+                                    ● Password with confirmation
+                                    Group Information
+                                    ● Your Group’s Name
+                                    ● A phone number with Area Code in specified format
+                                    ● Street mailing address including ZIP Code
+
+
+
+
+                                                                                                                4
+                                                                              ML Schedules™ Community User Quick Start Guide
+1. Register a new account (cont.)
+
+                                    Additional Group Information
+                                    Select a Group Classification from the drop-down menu.
+                                    If you will be submitting requests on behalf of a ​non-
+                                    district group​ (e.g., scout troop, community athletic
+                                    league), it is highly recommended that you:
+                                    —       Use the ​Choose File​ button to upload a copy of the
+                                            group’s current insurance certificate (PDF or JPG), and;
+                                    —       Enter the insurance ​Expiration Date.
+                                    Note:    If the Classification you have chosen requires insurance, you will
+                                             need to upload insurance before selecting ​Create User Account.
+
+                                    When all the data is entered:
+                                    4. Select the ​Create User Account​ button at the bottom
+                                       of the screen.
+                                    An email message confirming your registration will be sent
+                                    to you. Please keep this message for your records.
+
+
+
+                                                                                                                         5
+                                             ML Schedules™ Community User Quick Start Guide
+
+
+2. Log in
+            Log into ML Schedules™
+            You can now start making space reservations. If you are not
+            already in your account:
+
+            1. Access the ML Schedules login screen using your
+               district-specific URL.
+            2. Enter your ​Username ​(i.e., email address) and
+               Password.
+            3. Select the ​Log In​ button.
+
+
+
+
+                                                                                        6
+                                                              ML Schedules™ Community User Quick Start Guide
+
+
+Add Group Insurance Information
+                             If your district requires non-district group insurance
+                             information, your User Profile screen will be displayed the
+                             first time you log into the software.
+
+                             The Group Information section of the screen lists all the
+                             groups for which you have administrator privileges.
+
+                             To add the required group insurance information:
+                             1. Select the ​Edit​ button next to the Group name to
+                                  display a new window with the selected Group’s current
+                                  information.
+                             In the ​Insurance Information​ section of the Group
+                             Information screen:
+
+
+
+
+                                                                                                         7
+                                                                            ML Schedules™ Community User Quick Start Guide
+Add Group Insurance Information (cont.)
+                                          2. Select the ​Choose File​ button and navigate to the
+                                             desired file from your local drive. Select ​OK.
+
+                                          3. Enter the ​Insurance Expiration Date​ field.
+
+                                          4. Select the ​Save Group​ button.
+
+                                          Your User Profile screen will be displayed.
+
+                                          Notes:
+                                          ● You will only need to perform this procedure once per
+                                            Group that you manage.
+
+                                          ● The red flag icon ( ) will be displayed after login next to
+                                            your email address in the top white bar if your Group’s
+                                            insurance information is about to or has already expired.
+
+
+
+
+                                                                                                                       8
+                                                               ML Schedules™ Community User Quick Start Guide
+
+
+3. Submit Facility Requests
+                              Three ways to Request a Facility
+                              There are three ways to submit a Facility Use Request with
+                              the ML Schedules:
+                              A. By selecting a specific time and date.
+                              B. By selecting a specific space (calendar view).
+                              C. Viewing multiple spaces at the same time (e.g., gym,
+                                 locker rooms, and concession area).
+                              Regardless of the way you make your request, the same
+                              procedure is used from the ​Make A Request​ screen (as
+                              shown at left). This screen can be accessed in a number of
+                              ways as described on the next page.
+
+
+
+
+                                                                                                          9
+                                                                        ML Schedules™ Community User Quick Start Guide
+
+3. Submit Facility Requests (cont.)
+                                      Accessing the ​Make A Request​ screen
+                                      There are a number of ways to access the ​Make A Request
+                                      screen:
+                                      1. By selecting ​Requests > Submit New Request​ from
+                                         the left-panel toolbox on any screen ​(below left).
+                                      2. By double clicking an ​open day/time slot​ on the
+                                         calendar panel​ (below center) ​from the default screen
+                                         (shown at left).
+                                      3. By selecting ​New Request > Add Event​ at the top right
+                                         of the screen on any screen ​(below right).
+
+
+
+
+                                                                                                                 10
+                                                                        ML Schedules™ Community User Quick Start Guide
+3. Submit Facility Requests (cont.)
+                                      Make a New Request
+                                      All request types require three basic steps:
+                                      1. Search​ spaces by date(s) for availability.
+                                      2. Provide​ additional information including the need for
+                                         support personnel and/or equipment.
+                                      3. Confirm​ and submit your Request.
+
+                                      To request an available space:
+                                      1. Select ​New Request > Make New Request​ from the
+                                         upper right of the screen or use one of the other two
+                                         access methods shown on page 15.
+                                      The ​Make A Request​ screen will be displayed. If you only
+                                      manage one group, the group name will be displayed in the
+                                      Select Group​ menu.
+
+
+
+
+                                                                                                                 11
+                                                                                        ML Schedules™ Community User Quick Start Guide
+3. Submit Facility Requests/Make A New Request (cont.)
+                                                    2a. If managing more than one Group:​ Select the desired
+                                                        group from the ​Select Group​ drop-down menu.
+                                                    2b. ​If submitting the Request on behalf of another user:
+                                                         Select the user from the ​Request on Behalf of ​menu.
+                                                    3. Select the location(s) of the space you want to reserve
+                                                       from the ​Site(s)​ drop-down menu.
+
+                                                    Multiple Selections: ​To select multiple options in the
+                                                    Site(s),​ ​Space(s)​ and other menus:
+                                                     ● Select your first option. A tag with the selected space
+                                                       name will appear at the top of the menu.
+                                                     ● Select the Site(s) field again to select other options. Each
+                                                       selected site will appear as a tag at the top of the menu
+                                                       as shown at lower left.
+                                                     ● Select the ​x​ in each tag to delete the selection.
+
+
+
+
+                                                                                                                                 12
+                                                                                       ML Schedules™ Community User Quick Start Guide
+3. Submit Facility Requests/Make A New Request (cont.)
+                                                    4. Select the desired space(s) from the ​Space(s)
+                                                       drop-down menu. Make multiple selections, if desired.
+                                                    5. Select a request ​Frequency​ from the drop-down
+                                                       menu. Available options include:
+
+                                                         - One Time Event​ (default)   -Every Other Week
+                                                         -Daily                        -Multiple Days Per Week
+                                                         -Daily - Weekdays only        -Monthly
+                                                         -Weekly                       -Custom Frequency
+
+                                                    5a. Multiple Days Per Week:​ Select the desired days for
+                                                        the weekly event​ (left center).
+
+                                                    5b. Custom Frequency: ​Select the desired dates from the
+                                                        drop-down calendar​ (left bottom) ​selecting as many
+                                                        dates as needed.
+
+
+
+
+                                                                                                                                13
+                                                                                       ML Schedules™ Community User Quick Start Guide
+
+
+
+
+3. Submit Facility Requests/Make A New Request (cont.)
+                                                    The application will calculate all other Frequency settings
+                                                    based on the ​Starting Date​ selected in step 6.
+                                                    6. Select ​Start and End Dates​ from the drop-down
+                                                       calendars.
+                                                         Note: ​If the ​Make A Request​ screen was accessed
+                                                         from the calendar panel, these fields will be prefilled
+                                                         with the date selected on the calendar.
+                                                    7. Select ​Start and End Times​ from the drop-down
+                                                       menus. Be sure to include all setup and breakdown
+                                                       times in these settings.
+                                                    8. Select the ​View Availability ​button.
+
+
+
+
+                                                                                                                                14
+                                                                                      ML Schedules™ Community User Quick Start Guide
+3. Submit Facility Requests/Make A New Request (cont.)
+
+
+                                                    A list of each occurrence showing an ​Available​ status
+                                                    (YES or NO) for the selected space will be displayed.
+                                                    If the desired space is available for the selected start date,
+                                                    times and frequency, ​YES​ will be displayed in the ​Available
+                                                    column.
+                                                    Note: ​If the desired space is not available, try changing
+                                                    one or more of the field settings to find available spaces
+                                                    that meet your group’s needs.
+                                                    6. If you searched for multiple sites/spaces:
+                                                       Select the Delete icon ( ) for any spaces that you don’t
+                                                       want included on the request.
+                                                    7. Select the ​Continue​ button to confirm the request.
+                                                       You will now be able to add more event data.
+
+
+
+
+                                                                                                                               15
+                                                                                      ML Schedules™ Community User Quick Start Guide
+3. Submit Facility Requests/Make A New Request (cont.)
+                                                    If the desired space is not available for the selected start
+                                                    date, times and frequency, ​NO​ will be displayed in the
+                                                    Available column. To find available spaces:
+                                                     ● Enter different dates and/or Start and End Times.
+                                                     ● The ​Available​ status will change to ​YES​ if available.
+                                                     ● Select the available space and proceed to step 6 above.
+
+                                                    Notes:
+                                                    ● To search using different parameters, enter new field
+                                                      data and select the ​View Availability​ button.
+                                                    ● You can edit the ​Start and End Date and Time​ fields
+                                                      before selecting ​Continue​ to confirm your entries and
+                                                      proceed to the next step of the request process.
+
+
+
+
+                                                                                                                               16
+                                                                         ML Schedules™ Community User Quick Start Guide
+3. Submit Facility Requests (cont.)
+                                      Provide Additional Information
+                                      After confirming that the requested space(s) meet your
+                                      needs, a screen will be displayed where you can:
+                                      ● Provide additional information for the district including
+                                        how the event should be displayed on its calendar.
+                                      ● Select required seating, equipment and support staff.
+                                      ● Upload attachments such as setup drawings, event
+                                        registration forms, attendee lists, etc.
+                                      ● Confirm that you agree to all terms and conditions, sign
+                                        the form, and submit it for processing.
+                                      Note: ​Use the arrow buttons to the upper right of each
+                                      section to view its contents. Available options will vary by
+                                      district based on local preferences.
+                                      8. Complete the ​Event Information, Additional
+                                         Information, Calendar Information,​ and
+                                         Attachments​ sections as needed.
+
+
+                                                                                                                  17
+                                                                                         ML Schedules™ Community User Quick Start Guide
+                                                       Submit Request
+                                                       Once all desired additional event information has been
+                                                       completed:
+                                                       9. Select the checkbox signifying you have read and agree
+                                                          to the district’s terms of use.
+                                                       Note: ​The Terms of Use are usually available from the
+                                                       district’s website.
+                                                       10. Using a mouse (or your finger on a tablet or phone),
+                                                           sign your name in the box.
+
+                                                       11. Select the ​Confirm & Submit Request​ button to
+                                                           submit the Request for review and approval.
+
+A thank-you screen will confirm that your Request is being processed. You will be notified of its progress via email.
+
+Note that the requested space will now appear as ​Pending Approval​ to other basic users when searching spaces
+if your district has enabled this feature.
+
+
+
+
+                                                                                                                                  18
+                                                                          ML Schedules™ Community User Quick Start Guide
+
+
+Edit a User Profile / Add Groups
+                                   Edit Group Manager (User) information
+                                   1.   Select the Profile icon (   ) located at the top right of the
+                                        screen. The ​Manage Profile​ screen will be displayed.
+                                   2.   Select and enter the new data in the desired fields.
+                                   3.   Select the ​Save User Information​ button.
+                                   The updated information will be displayed.
+
+                                   Add a New Group
+                                   1.   Select the ​Add New Group​ button. An ​Add New Group
+                                        window will be displayed (see example on
+                                        next page).
+                                   2.   Enter the new Group information in all fields.
+                                   3.   Select the ​Save Group​ button.
+                                   The User Profile screen will be displayed with the new Group
+                                   information.
+
+
+
+                                                                                                                   19
+                                                          ML Schedules™ Community User Quick Start Guide
+
+
+Edit Group Information
+                         1. Select the ​Edit​ button next to the Group name (see
+                            previous page) to display a new window with your
+                            current information.
+                         2. Enter the new data in the desired fields.
+                         3. Select the ​Save Group​ button.
+                         The User Profile screen will display the new Group which
+                         will also appear in your Group drop-down menu when
+                         submitting a Facility Use Request.
+
+
+
+
+                                                                                                   20
+                                                                                                                                ML Schedules™ Community User Quick Start Guide
+
+
+Online Documentation
+                                                                                             When you’re logged into ML Schedules, comprehensive
+                                                                                             online documentation can be accessed from any screen by
+                                                                                             selecting the Help icon      from the gray header menu
+                                                                                             displayed at the top of all pages.
+
+                                                                                             If you have a suggestion on how to improve the usability of
+                                                                                             ML Schedules or this ​Quick Start Guide,​ please let us know
+                                                                                             using the Contact Us form.
+
+
+Thanks for using ML Schedules!
+                                                                                             Thanks for trusting your district’s facility use requests to
+                                                                                             ML Schedules. We hope you found this ​Quick Start Guide
+                                                                                             helpful.
+                                                                                             Remember to follow the step-by-step text instructions and
+                                                                                             graphics that indicate your place in the process.
+©2020, MasterLibrary.com. All rights reserved. MasterLibrary and ML Schedules are trademarks of MasterLibrary.com LLC.
+
+
+
+
+                                                                                                                                                                         21

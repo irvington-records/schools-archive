@@ -1,0 +1,21 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/goto?open&id=9H7J7K491070 | DATE: 2014-03-18 | TITLE: Work Session/Special Meeting - 6:30pm* | 10.1 Re-Appropriation of 2013-14 Budget
+
+Meeting: Mar 18, 2014 - Work Session/Special Meeting - 6:30pm*
+Date: 2014-03-18
+Category: 10. Business Office Matters
+Subject: 10.1 Re-Appropriation of 2013-14 Budget
+Type: Action (Consent)
+
+Re-Appropriation of 2013-14
+
+	Debit A510 Estimated Revenue                                                      $40,000
+
+	   Revenue Code A3289 (State Aid - Misc.)
+
+	Credit A960 Appropriations                                                            $40,000
+
+	   Expense Code A1621.200 (Maintenance Equipment)   $31,500
+
+	   Expense Code A2110.200 (Instructional Equipment)     $ 8,500
+
+	To appropriate grant-in-aid funding received from NYS Education Dept.

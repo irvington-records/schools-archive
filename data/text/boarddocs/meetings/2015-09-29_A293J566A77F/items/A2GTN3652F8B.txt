@@ -1,0 +1,15 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/goto?open&id=A2GTN3652F8B | DATE: 2015-09-29 | TITLE: Public Hearing/Work Session/Special Meeting | 9.1 Budget Transfers
+
+Meeting: Sep 29, 2015 - Public Hearing/Work Session/Special Meeting
+Date: 2015-09-29
+Category: 9. Business Office Matters
+Subject: 9.1 Budget Transfers
+Type: Action (Consent)
+
+Budget Transfer 15/16-01
+
+	Transfer Out-Account Code A2110.120-00-0000
+
+	Transfer In-Account Code A2825.160-00-0000
+
+	This budget transfer is needed to cover the salary for newly hired 1.0 FTE Social Worker.

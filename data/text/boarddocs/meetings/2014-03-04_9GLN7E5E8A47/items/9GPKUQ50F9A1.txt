@@ -1,0 +1,15 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/goto?open&id=9GPKUQ50F9A1 | DATE: 2014-03-04 | TITLE: Regular Meeting - 6:30 p.m.* | 9.6 Budget Transfer 13/14-08
+
+Meeting: Mar 04, 2014 - Regular Meeting - 6:30 p.m.*
+Date: 2014-03-04
+Category: 9. Business Office Matters
+Subject: 9.6 Budget Transfer 13/14-08
+Type: Action (Consent)
+
+Budget Transfer 13/14-08
+
+	Debit  A1310-200 (Equipment-Business Office)       $5,000
+
+	Credit A2110-200-40 (Equipment-District-wide)       $5,000
+
+	This transfer is to purchase student desks/chairs at Main St. School.

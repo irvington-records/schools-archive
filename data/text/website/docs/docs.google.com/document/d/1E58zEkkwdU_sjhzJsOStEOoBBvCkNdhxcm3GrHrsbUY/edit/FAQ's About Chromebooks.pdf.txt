@@ -1,0 +1,266 @@
+SOURCE https://docs.google.com/document/d/1E58zEkkwdU_sjhzJsOStEOoBBvCkNdhxcm3GrHrsbUY/edit | DATE unknown | TITLE FAQ's About Chromebooks.pdf
+
+CHROMEBOOK FREQUENTLY ASKED QUESTIONS
+
+
+
+What is a Chromebook, and why did we choose it?
+
+IUFSD selected this device platform because:
+
+What about charging the Chromebook battery?
+
+My Chromebook is not working right! What do I do?
+
+How can I identify my Chromebook?
+
+Is it OK to forget my Chromebook at home?
+
+Can students browse anywhere on the Web with the Chromebook?
+
+What about digital citizenship & cyber-safety?
+
+Can I use my Chromebook without an Internet connection?
+
+What will students connect to for wireless Internet access?
+
+What if we have no wireless internet at home?
+
+What if we have no internet at home?
+
+Do Chromebooks print to printers?
+
+Why is my Chromebook saying "Aw Snap!"?
+
+My Chromebook has a black screen and is unresponsive, yet the blue power button light is on-
+
+How can I update the Chrome OS Operating System
+
+Will faculty or staff be able to access or control the webcam on the Chromebook?
+
+How can I check for updates on my Chromebook?
+  Check for updates yourself
+
+Changing the Keyboard on your Chromebook
+
+Accessibility Shortcuts
+●​ What is a Chromebook, and why did we choose it?
+       ○​ A Chromebook is an Internet-based computer. It is fast, light and easy to
+          use.
+       ○​ The device compares favorably to other technologies on the market and is
+          easy to support.
+●​ IUFSD selected this device platform because:
+       ○​ Chromebooks natively and seamlessly integrate with Google Apps for
+          Education, our core platform at IUFSD for communication and
+          collaboration
+       ○​ Chromebooks come with an integrated keyboard and mouse, which makes
+          creating products online easier for many students.
+       ○​ It has a long battery life and will let students work through an entire
+          school day without charging.
+       ○​ IUFSD can manage the device and monitor student use.
+       ○​ Chromebooks update the operating system themselves while retaining the
+          ability to push out specific applications and tools to our students.
+       ○​ We have the ability to lock anyone out of a stolen or lost Chromebook, thus
+          making it unusable and serving as a deterrent for theft.
+       ○​ Chromebooks offer a full-featured browser for working on the Internet.
+       ○​ All work is saved in Google Drive. As a result, student work is accessible
+          from any device.
+●​ What about charging the Chromebook battery?
+       ○​ Each Chromebook is issued to students with a charging cable and adapter.
+          Students are required to charge their Chromebooks at home prior to
+          bringing it to school, and to keep their charger at home. A fully-charged
+          Chromebooks can last between 10 and 12 hours, depending on usage
+          patterns.
+●​ My Chromebook is not working right! What do I do?
+       ○​ Hold down the power button on the keyboard on your Chromebook for 10
+          seconds, or until the light goes off. Wait 2 seconds, then press the power
+          button to restart your Chromebook. This takes very little time and solves
+          many problems.
+●​ How can I identify my Chromebook?
+       ○​ The IUFSD Technology Department records and labels all 1:1
+          Chromebooks by their serial number. Students can identify their
+          Chromebook by its computer number, found on the back of the device.
+          This tag usually begins with “ET”
+●​ Is it OK to forget my Chromebook at home?
+       ○​ No, students are required to bring their Chromebooks, fully charged, to
+          school each day. All Chromebooks should remain inside of the Irvington
+          protective case that was issued to students with their Chromebooks.
+●​ Can students browse anywhere on the Web with the Chromebook?
+       ○​ IUFSD uses the web proxy service Lightspeed to monitor and block
+          inappropriate sites from an IUFSD 1:1 student, even at home.
+          Additionally, IUFSD maintains a content filter and firewall for all
+         Internet-enabled computers and equipment. Regardless of physical
+         location (on campus or out), all IUFSD Chromebooks will have all Internet
+         sites monitored.
+●​ What about digital citizenship & cyber-safety?
+     ○​ Yes. IUFSD is in compliance with the Children's Internet Protection Act
+         (CIPA). We teach digital citizenship/cyber-safety topics to students
+         throughout the year, centering around Digital Citizenship.
+●​ Can I use my Chromebook without an Internet connection?
+     ○​ In order to do so without internet access, you must have already logged
+         into that Chromebook, AND have enabled offline access.
+●​ What will students connect to for wireless Internet access?
+     ○​ At school, students’ Chromebooks will automatically connect to the secure
+         IUFSD wireless network. At home, students will need to connect to their
+         own home wireless network.
+●​ What if we have no wireless internet at home?
+     ○​ Most Chromebooks can connect to a wired internet connection using this
+         adapter. (to purchase on Amazon, click on the link)
+●​ What if we have no internet at home?
+     ○​ Please contact our Director of Technology, at (914)269-5540 to discuss
+         opportunities for support.
+●​ Do Chromebooks print to printers?
+     ○​ No, not at IUFSD sites, where only IUFSD teacher computers print. At
+         home, Chromebooks can print if Google Cloud Print is set up.
+●​ Why is my Chromebook saying "Aw Snap!"?
+     ○​ The Aw Snap! message appears if a web page crashes.
+         Usually, reloading the page will fix the problem.
+
+
+
+
+●​ My Chromebook has a black screen and is unresponsive, yet the blue
+   power button light is on-
+     ○​ Hold down the power button for 10 seconds, or until the power light on the
+        button turns off. Wait 2 seconds, then press the power button again to
+        turn it back on. Unless the battery is completely discharged, this usually
+        solves the problem.
+●​ How can I update the Chrome OS Operating System
+     ○​ Go to chrome://help
+      ○​ Look at the toolbar on the bottom right of your screen for this update icon.
+         If you see it, click and restart from its menu.
+●​ Will Google, Chromebooks or in Google Apps for Education sell or
+   share our information?
+      ○​ The information in Google Apps for Education is private and secure and is
+         not used or sold in any way as per Google
+●​ Can my students use their own Google account on the Chromebooks?
+      ○​ Each student is assigned an Irvington Google account; that is the only
+         account that will be used for logging into the chromebook.
+●​ Will faculty or staff be able to access or control the webcam on the
+   Chromebook?
+      ○​ No. Faculty and staff will not have access to remote control of the
+         Chromebooks in any way.
+●​ How can I check for updates on my Chromebook?
+
+
+       Check for updates yourself
+1.​ Turn on your Chromebook.
+2.​ Connect your Chromebook to Wi-Fi.
+3.​ At the bottom right, select the time.
+
+4.​ Select Settings     .
+
+5.​ Select Menu         About Chrome OS.
+6.​ Under "Google Chrome OS," you'll see which version of the Chrome operating system your
+    Chromebook is using.
+7.​ Select Check for Updates.
+   8.​ If your Chromebook finds a software update, it will start to download automatically.
+
+
+    ●​ Changing the Keyboard on your Chromebook
+Switch between keyboard languages
+If you have more than one keyboard language turned on, you’ll see the language you’re
+using next to your account photo.
+   1.​ At the bottom right, select the time.
+   2.​ Select your keyboard language   .
+   3.​ Choose the keyboard language you want to use.
+
+Tip: You can also switch your language by pressing Ctrl + Shift + Space until you see the
+language you want. To switch back, press Ctrl + Space.
+
+Set your keyboard language
+   1.​ At the bottom right, select the time.
+   2.​ Select Settings          Advanced.
+   3.​ Optional: To add another keyboard language, select Language                Add languages.
+       Choose your language(s) and select Add.
+   4.​ In the "Languages and input" section, select Input method              Manage input
+       methods.
+   5.​ Check the boxes next to the keyboard languages you'd like to use.
+          1.​ Check the boxes next to the keyboard language you's like to enable.
+          2.​ Uncheck the boxes next to the keyboard language you'd like to disable.
+   6.​ Select Back    .
+   7.​ Select the keyboard language you want to use. You’ll see "Enabled" listed under
+       the current keyboard.
+Optional: To see all your keyboard language options on your desktop, turn on Show
+input options in the shelf.
+
+
+Accessibility Shortcuts
+
+Learn how to make your Chromebook accessible.
+
+ Turn ChromeVox (spoken feedback) on or off       Ctrl + Alt + z
+
+
+ Turn on high contrast mode
+                                                  Search       + Ctrl + h
+
+ Magnify your whole screen
+                                                  Ctrl + Search      +m
+ Magnify part of your screen
+                                                   Ctrl + Search       +d
+
+ Highlight the launcher button on your shelf       Shift + Alt + L
+
+ Highlight the next item on your shelf
+                                                   Shift + Alt + L, then Tab or Right arrow
+
+ Highlight the previous item on your shelf         Shift + Alt + L, then Shift + Tab or Left arrow
+
+
+ Open the highlighted button on your shelf         Shift + Alt + L, then Space or Enter
+
+ Remove the highlight from a button on your        Shift + Alt + L, then Esc
+ shelf
+
+ Switch focus between:
+                                                   Ctrl + Back       or Ctrl + Forward
+     ​   Status area (where the time appears)
+     ​   Launcher
+     ​   Address bar
+     ​   Bookmarks bar (if visible)
+     ​   The webpage that's open
+     ​   Downloads bar (if visible)
+
+
+
+ Highlight the bookmarks bar (if shown)            Shift + Alt + b
+
+ Highlight the row with the address bar            Shift + Alt + t
+
+ Open right-click menu for highlighted item
+                                                   Search        + Shift + Increase volume
+
+ Use shortcuts on a braille keyboard               See braille keyboard shortcuts
+
+ Magnify your whole screen
+                                                   Search        + Ctrl + m
+
+ Magnify part of your screen
+                                                   Search        + Ctrl + d
+
+
+
+
+Google Classroom Tips/Tricks
+
+You can decide if you want to get email notifications about updates to your classes.
+
+   1.​ Go to classroom.google.com.
+2.​ At the top, click Menu .​
+
+
+
+
+3.​ Scroll down and click Settings.​
+
+
+
+
+4.​ Next to Receive email notifications, click the switch
+
+
+
+
+    You can also choose the notifications that you get for all of your classes. For example, you
+    can turn off invitation notifications for all classes but keep notifications for assignments on.

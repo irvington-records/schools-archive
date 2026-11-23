@@ -1,0 +1,25 @@
+SOURCE http://irvingtonschools.org:80/wrestling.html | DATE 2003-03-05 | TITLE Wrestling
+
+Varsity/Junior Varsity Sports
+Varsity Coach: Steve Leone
+Assistant Coach: Jim Matera
+| DATE | OPPONENT | TIME | 
+| Dec. 4 | at Enterprise Cup Tournament | 4:15 PM | 
+| Dec. 7 | at Rye Tournament | 9:00 AM | 
+| Dec. 9 | at Horace Greeley | 4:15 PM | 
+| Dec. 12 | at Fordham Prep | 4:15 PM | 
+| Dec. 17 | White Plains | 4:15 PM | 
+| Dec. 19 | at Tappan Zee | 4:15 PM | 
+| Jan. 7 | Westlake | 4:15 PM | 
+| Jan. 9 | Nanuet | 4:15 PM | 
+| Jan. 14 | at Pawling | 4:30 PM | 
+| Jan. 16 | Pleasantville | 4:15 PM | 
+| Jan. 21 | Woodlands | 4:15 PM | 
+| Jan. 30 | at Nyack | 4:15 PM | 
+| Jan. 31 | at John Jay/Cross River | 4:15 PM | 
+| Feb. 4 | at Croton-Harmon | 4:15 PM | 
+| Feb. 6 | Marsha Stern Talmudical | 6:00 PM | 
+| Feb. 8 | Conferences at Westlake | 9:00 AM | 
+| Feb. 15 | at Divisionals | 9:00 AM | 
+| Feb. 22 | at Sectionals | 9:00 AM | 
+| Feb. 23 | at Sectionals | 9:00 AM |

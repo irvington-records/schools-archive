@@ -1,0 +1,1335 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/pfiles/CGZJ4R4B6533/$file/Irvington_%20District-wide%20Safety%20Plan%202022-23%20DRAFT.pdf | DATE: 2022-08-23 | TITLE: Regular Meeting | 9.4 Adoption of the District Safety Plan | Irvington_ District-wide Safety Plan 2022-23 DRAFT.pdf
+
+DISTRICT-WIDE SAFETY & EMERGENCY
+              MANAGEMENT PLAN
+
+       DRAFT for PUBLIC COMMENT
+                         2022-23
+                         Adopted TBD
+
+DISTRICT-WIDE SAFETY & EMERGENCY MANAGEMENT PLAN
+
+TABLE OF CONTENTS
+
+
+
+SECTION I – GENERAL CONSIDERATIONS AND PLANNING GUIDELINES                3
+      PURPOSE                                                             3
+      IDENTIFICATION OF SCHOOL TEAMS                                      4
+      CONCEPT OF OPERATIONS                                               6
+      PLAN REVIEW AND PUBLIC COMMENT                                      6
+SECTION II – RISK REDUCTION/PREVENTION AND INTERVENTION                   7
+      PREVENTION AND INTERVENTION STRATEGIES                              7
+      IMPROVING COMMUNICATION WITH STUDENTS                               8
+      REPORTING THREATS OR ACTS OF VIOLENCE                               8
+      TRAINING, DRILLS, AND EXERCISES                                     8
+      STAFF DEVELOPMENT TRAINING                                          9
+      PROACTIVE BUILDING SECURITY MEASURES                                10
+      VITAL EDUCATIONAL INFORMATION                                       10
+      EARLY DETECTION OF POTENTIALLY VIOLENT BEHAVIOR                     10
+      HAZARD IDENTIFICATION                                               11
+      SCHOOL SAFETY PERSONNEL ALLOCATIONS, HIRING, DUTIES, AND TRAINING   13
+SECTION III - RESPONSE                                                    15
+      NOTIFICATION AND ACTIVATION (INTERNAL AND EXTERNAL COMM.)           15
+      SITUATIONAL RESPONSES                                               16
+              MULTI-HAZARD RESPONSE                                       16
+              RESPONSE PROTOCOLS                                          16
+              RESPONSES TO IMPLIED OR DIRECT THREATS OF VIOLENCE          18
+              RESPONSES TO ACTS OF VIOLENCE                               19
+              PROTOCOLS FOR A STATE DISASTER EMERGENCY INVOLVING A
+              COMMUNICABLE DISEASE                                        19
+              DISTRICT EMERGENCY RESOURCES                                22
+              INCIDENT COMMAND SYSTEM                                     23
+SECTION IV - COMMUNICATION WITH OTHERS                                    25
+      OBTAINING ASSISTANCE DURING EMERGENCIES                             25
+      OBTAINING ASSISTANCE FROM GOVERNMENT OFFICIALS                      25
+
+                                          District-wide Safety & Emergency Management Plan   1
+
+        CONTACTING PARENTS AND GUARDIANS                                  25
+SECTION V - RECOVERY                                                      27
+        DISTRICT SUPPORT FOR BUILDINGS                                    27
+        DISASTER MENTAL HEALTH SERVICES                                   27
+
+
+APPENDIX
+
+APPENDIX 1    LISTING OF SCHOOL BUILDINGS                                 28
+APPENDIX 2    BUILDING-LEVEL EMERGENCY RESPONSE PLANS                     29
+APPENDIX 3    MEMORANDA OF UNDERSTANDING                                  30
+APPENDIX 4    DISTRICT RESOURCES – CONTACT INFORMATION                    32
+
+
+
+
+                                          District-wide Safety & Emergency Management Plan   2
+
+SECTION I      GENERAL CONSIDERATIONS AND PLANNING GUIDELINES
+
+PURPOSE
+Emergencies in schools are deﬁned as undesirable events that occur and have the poten al to cause
+injury or illness to members of our school community or disrupt the orderly educa onal process. They
+range from acts of bullying or harassment to catastrophic natural or man-made events. Emergency
+management is the discipline of dealing with and avoiding risks. It is a discipline that involves preparing
+for an emergency situa on or disaster before it occurs as well as suppor ng and rebuilding from the
+emergency a er natural or human-made disasters have occurred.
+
+
+Emergency management in our schools is the con nuous process by which our staﬀ, students,
+administrators, parents, school groups, emergency responders and our community manages hazards in
+an eﬀort to avoid or mi gate the impact of disasters resul ng from hazards. Preven ve measures and
+good planning will reduce the likelihood that emergencies will occur and allow us to address those that
+do in an expedi ous and eﬀec ve manner.
+
+
+Districts are required to develop district-wide school safety and emergency management plans
+designed to prevent and eﬀec vely manage such events to minimize the eﬀects of serious incidents
+and emergencies. These plans also facilitate the coordina on of the District with local and county
+plans and resources when incidents and emergencies occur.
+
+
+The district-wide plan is responsive to the needs of all schools in the District and is consistent with the
+more detailed building-level emergency plans. Districts are vulnerable to a wide variety of acts of
+violence; and natural and manmade disasters. To address these threats, the State of New York has
+enacted the Safe Schools Against Violence in Educa on (S.A.V.E.) law. Project S.A.V.E. is a
+comprehensive planning eﬀort that addresses preven on, response, and recovery with respect to a
+variety of emergencies in schools.
+
+
+The Irvington Union Free School District supports the S.A.V.E. legisla on. As such, the Superintendent
+of Schools, Board of Educa on, and the en re District staﬀ encourages and advocates on-going
+district-wide coopera on in support of Project S.A.V.E.
+
+
+SUPERINTENDENT’S DIRECTIVE
+The Assistant Superintendent for Business and Opera ons will serve as the District’s Chief Emergency
+Oﬃcer (CEO) whose du es shall include, but not be limited to:
+            1. Coordina on of the communica on between school staﬀ, law enforcement, and other
+               ﬁrst responders;
+            2. Leading the eﬀorts of the district-wide school safety team in the comple on and yearly
+               update of the district-wide school safety plan and the coordina on of the district-wide
+               plan with the building-level emergency response plans;
+                                                District-wide Safety & Emergency Management Plan         3
+
+           3. Ensuring staﬀ understanding of the district–wide school safety plan;
+           4. Ensuring the comple on and yearly update of building-level emergency response plans
+              for each school building The CEO will require each building principal to maintain a
+              Building-level Emergency Response Plan in compliance with Commissioner of Educa on
+              Regula on 155.17(2). Each plan should be updated annually with the assistance of the
+              Building Emergency Response Team (BERT). The plan shall provide for lockdown,
+              lockout, sheltering, evacua on, early dismissal, ﬁre and other emergency planning and
+              no ﬁca on (when necessary) to students and staﬀ, annual drills and exercises, and
+              coordina on with local and county emergency preparedness administrators. These
+              plans shall be submi ed to the District's Safety Team for annual approval and
+              incorpora on into the overall District-wide Safety and Emergency Management Plan.
+           5. Assis ng in the selec on of security related technology and development of procedures
+              for the use of such technology;
+           6. Coordina on of appropriate safety, security, and emergency training for district and
+              school staﬀ, including required training in the emergency response plan;
+           7. Ensuring the conduct of required evacua on and lockdown drills in all district buildings
+              as required by Educa on Law sec on 807; and
+           8. Ensuring the comple on and yearly update of building-level emergency response plans
+              by the dates designated by the commissioner.
+
+
+IDENTIFICATION OF SCHOOL TEAMS
+
+
+
+The District-wide Safety and Emergency Management Plan was developed pursuant to Commissioner’s
+Regula on 155.17(b)(13). At the direc on of the Board of Educa on and under the direc on of the
+Superintendent, a District-wide Safety Team will be u lized for emergency management within the
+District. The Safety Team shall include, but is not limited to, representa ves of the school board,
+teacher, administrator, and parent organiza ons, school safety personnel and other school personnel
+including bus drivers and monitors. At the discre on of the board of educa on, a student may be
+allowed to par cipate on the safety team, however, no por on of a conﬁden al building-level
+emergency response plan shall be shared with such student nor shall such student be present where
+details of a conﬁden al building-level emergency response plan or conﬁden al por ons of a
+district-wide emergency response strategy are discussed.
+The du es of the team shall include the development, review, and update of the District-wide Safety
+and Emergency Management Plan in compliance with Commissioner of Educa on Regula on 155.17.
+The District Safety Team should meet regularly throughout the year to conduct the following business:
+
+
+   1. Assess and review the District-wide Safety and Emergency Management Plan annually.
+
+   2. Make any necessary recommenda ons regarding emergency opera ons, planning, procedures,
+      and/or protocols.
+
+   3. Conduct training sessions as necessary.
+
+
+                                                District-wide Safety & Emergency Management Plan    4
+
+    4. Meet with, oversee, and help guide the Building-level Emergency Response Teams at each school
+       as necessary.
+
+    5. Meet as needed with the District’s Emergency Management Consultant to review protocols and
+       procedures as well as receive training and instruc on.
+
+    6. Meet with local government and emergency service organiza on oﬃcials to develop procedures
+       for obtaining guidance and for emergency situa ons that exceed the exper se and/or resources
+       of the District. These procedures may then be incorporated into the District's Emergency
+       Management Plan.
+
+    7. Conduct all other business as deemed necessary.
+
+
+DISTRICT SAFETY TEAM:
+Members listed here may be removed from the “addi onal emergency numbers” table
+
+
+                        TITLE                                  NAME                  OFFICE PHONE
+
+Superintendent of Schools                          Kristopher Harrison            9145918501
+
+Assistant Superintendent for Business and          Carol Stein                    9145919780
+Opera ons
+
+Assistant Superintendent for Curriculum and        Gail Duﬀy                      9145914328
+Instruc on
+
+Director of Facili es                              Gary Knowles                   9145914678
+
+High School Principal                              TBD                            9145918648
+
+HS/MS Head Custodian                               Rich Pi ore                    9142695561
+
+Director of Technology                             Jason Strumwasser              9142695541
+
+Director of Athle cs, PE, Health                   John Buonamano                 9145918673
+
+Middle School Principal                            David So le                    9145918688
+
+Main Street School Principal                       Joyce Chapnick                 9145911962
+
+Dows Lane Head Custodian                           Niel Cole                      9144069216
+
+Main Street Head Custodian                         Angel Aviles                   9142695225
+
+Dows Lane School Principal                         Andrea Kantor                  9145916012
+
+
+                                               District-wide Safety & Emergency Management Plan     5
+
+Food Services Director                            Gloria Estrada              9142695567
+
+Irvington Police Department                       Chief Francis Pignatelli    914 591-8080
+
+Irvington Fire Department                         Jimmy Ruﬄer                 914 231-1900
+
+Security Consultant                               Chris Blackwell             845-544-0163
+
+Transporta on Department - Royal Coach            Eddie Colon                 914-260-4830
+contact for Bus Driver/Monitor
+
+Transporta on Department - Ardsley                Jack Coxen                  914 295-5559
+Transporta on
+
+Teacher Representa ve                             Karen Carlson
+
+Teacher Representa ve                             Kim O’Connor
+
+CSEA Representa ve                                Sandy Cappello
+
+Board of Educa on Representa ve                   Jayne Wissner
+
+
+
+CONCEPTS OF OPERATION
+
+1. The District-wide School Safety and Emergency Management Plan will be directly linked to individual
+   Building-level Emergency Response Plans for each school. Protocols developed in the District-wide
+   School Safety and Emergency Management Plan will guide the development and implementa on of
+   Building-level Emergency Response Plans.
+
+2. All District building plans have been standardized to the extent possible so that leadership decisions
+   are consistent and leaders may be interchangeable as necessary. The training and expecta ons set at
+   the district level are applicable to all building team members.
+
+3. In the event of an emergency or violent incident, the ini al response at an individual school will be
+   by the Building Emergency Response Team.
+
+4. Once the Superintendent and/or their designee are no ﬁed, the District Emergency Response Team
+   may be mobilized to respond, and when appropriate, local emergency oﬃcials will be no ﬁed. All
+   will follow the emergency management protocols and prac ces outlined in the Na onal Incident
+   Management System (NIMS) and will prac ce Incident Command System (ICS) techniques to be er
+   manage these events.
+
+
+
+
+                                               District-wide Safety & Emergency Management Plan       6
+
+PLAN REVIEW & PUBLIC COMMENT
+
+1. The District-wide Safety and Emergency Management Plan shall be monitored and maintained by
+   the District Safety Team and reviewed annually on or before September 1st of each year. A copy of
+   the plan will be available at the District oﬃce and on the District website.
+
+2. Building-level Emergency Response Plans shall be conﬁden al and not subject to disclosure under
+   Ar cle 6 of the Public Oﬃcers Law or any other provision of law in accordance with Educa on Law
+   Sec on 2801-a.
+
+3. Full copies of the District-wide Safety and Emergency Management Plan and any amendments will
+   be submi ed to the New York State Educa on Department on or before September 1st of each year
+   or within 30 days of adop on.
+
+4. The Board of Educa on must formally adopt the District-wide Plan pursuant to Commissioner’s
+   Regula on, Sec on 155.17(c)(xiii). This plan will be made available for public comment at least 30
+   days prior to its adop on.
+
+5. Building-level Emergency Response Plans will be supplied to the New York State Police, County
+   Police and all local police departments covering the District, by October 1st of each year or within
+   30 days of adop on.
+
+
+SECTION II RISK REDUCTION/PREVENTION AND INTERVENTION
+
+PREVENTION AND INTERVENTION STRATEGIES
+The District u lizes a variety of interven on strategies to reduce risk and prevent cri cal incidents.
+        1.      Any u lized school safety oﬃcers and other security personnel are trained annually with
+                the assistance of one or more of the following collabora ve rela onships:
+
+                     ●   Emergency Responders
+                     ●   Regional BOCES
+                     ●   District Consultants
+
+        2.      Training for school staﬀ working in an incident control capacity may include:
+
+                         a.      Individual and group de-escala on techniques
+                         b.      Non-violent conﬂict resolu on skills and
+                         c.      Peer media on
+
+        3.      The District may provide de-escala on techniques and nonviolent conﬂict resolu on
+                training to other staﬀ annually. Each building has some staﬀ trained in nonviolent
+                conﬂict resolu on.
+
+                                                 District-wide Safety & Emergency Management Plan        7
+
+       4.       Training may be available during staﬀ development sessions, on conference days and via
+                on-demand web-based training modules.
+
+       5.       The use of a visitor management system (currently Raptor) to screen visitors.
+
+The District con nually inves gates other security measures and conducts staﬀ development training to
+ensure schools are as safe as possible.
+
+IMPROVING COMMUNICATION WITH STUDENTS
+Each of the schools within the district provides a wealth of school safety-related ini a ves. These
+programs include, bullying preven on, social skills development, anger management and components
+of character educa on. Students are involved in a wide variety of safety ac vi es through both their
+classes as well as through work with guidance counselors, social workers, and school psychologists.
+
+In addi on, each school has a wide range of programs that impact school safety. The District has a
+character educa on program that complies with Project S.A.VE. Our many clubs and ac vi es oﬀer
+students opportuni es for inclusion and fellowship.
+
+REPORTING THREATS OR ACTS OF VIOLENCE
+Students, staﬀ, parents and others are informed annually about the importance of repor ng threats or
+acts of violence and the procedures of repor ng.
+
+The District has developed a system for repor ng threats and actual acts of violence. The procedure for
+repor ng is as follows:
+
+            ▪   Students are instructed to report threats and acts of violence to staﬀ members.
+
+            ▪   Each school has designated a repor ng process, which can be done anonymously. The
+                district also has a link on our website for this speciﬁc purpose (www.irvingtonschools.org
+                Click on District, then DASA). The District has implemented a phone app called
+                Anonymous Alerts to further promote reports of any suspicious ac vity, bullying or other
+                threats.
+
+            ▪   Staﬀ members are required to report all student referrals to the administra on for
+                inves ga on.
+
+            ▪   Staﬀ training programs meet S.A.V.E. requirements. Instruc on on issues of school
+                safety is provided to all employees each year.
+
+            ▪   The District u lizes a monitoring service both on and oﬀ-campus to detect threats or
+                acts of violence from student internet ac vity, wri ng, and searches on
+                chromebooks/devices.
+
+
+
+TRAINING, DRILLS AND EXERCISES
+
+                                               District-wide Safety & Emergency Management Plan         8
+
+DRILLS AND EXERCISES:
+
+The District will conduct emergency management drills and exercises annually including, but not limited
+to:
+
+        FIRE AND LOCKDOWN DRILLS: Evacua on and lockdown drills will be conducted during school days in
+        each school within the District with staﬀ and students twelve (12) mes annually (September –
+        June). The ﬁrst eight (8) drills are conducted prior to December 31st of each school year. Eight
+        of all such drills shall be evacua on drills. Four of all such required drills shall be lockdown
+        drills. The appropriate Fire Department may, upon mutual agreement with the District,
+        par cipate in some or all of the drills and oﬀer feedback regarding eﬀec ve building evacua on
+        in the event of a ﬁre. The appropriate Police Department may upon mutual agreement with the
+        District, par cipate in some or all of the lockdowns drills and oﬀer feedback regarding the
+        eﬀec veness of these drills. Drills shall be conducted at diﬀerent mes of the school day with
+        at least one of the eight required evacua on drills occurring during a mass gathering event such
+        as lunch or assemblies.
+
+        EARLY DISMISSAL DRILL: The District will conduct an Early Dismissal drill annually wherein students are
+        dismissed early from each school. Parents will be no ﬁed of these drills well in advance.
+        Transporta on Oﬃcials and District staﬀ may also take place in conduc ng and evalua on of this
+        drill.
+
+        SHELTER-IN-PLACE DRILLS: Each school in the District will conduct at least one (1) Shelter-in-Place Drill
+        annually u lizing Shelter-in-Place protocols. The appropriate Police Department may, upon
+        mutual agreement with the District, par cipate in some or all of the drills and oﬀer feedback
+        regarding the eﬀec veness of these drills.
+
+In addi on to post-drill debrieﬁngs conducted by each building-level emergency response team, each
+building will complete a drill evalua on form that will be submi ed to the district-wide safety team for
+periodic review.
+
+Each Building-level Emergency Response Team and representa ves of the District administra on engage
+in tabletop exercises facilitated by the district’s emergency management consultant. Emergency
+response agencies are encouraged to par cipate in these exercises. The district may opt to conduct
+func onal exercises with emergency response agencies to involve staﬀ, students and parents in realis c
+drills.
+
+
+STAFF DEVELOPMENT TRAINING:
+
+All general staﬀ will receive training on District-wide procedures as well as speciﬁc procedures contained
+within their respec ve building-level emergency response plan. This training shall occur prior to
+September 15th of each school year or within 30 days of joining the district. This training will be
+conducted at a staﬀ development day in August, online or a combina on of both.
+
+
+
+                                                  District-wide Safety & Emergency Management Plan            9
+
+The District will provide advanced training for each Building-level Emergency Response Team (BERT) and
+District-wide Safety Team annually. The training will include prac ces and procedures to educate,
+evaluate, update and review all Emergency management protocols and procedures the teams perform
+including, but not limited to Lockdown, Lockout, Evacua on, Shelter-In-Place, Hold-in-Place and Early
+Dismissal. The District may involve local emergency responders to par cipate in this training.
+
+Addi onal training may include but is not limited to:
+
+             ▪   De-escala on training
+             ▪   Warning signals for violence and mental health concerns
+             ▪   Non-violent conﬂict resolu on
+             ▪   Emergency response team training
+
+
+
+PROACTIVE BUILDING SECURITY MEASURES
+
+The Irvington Union Free School District buildings u lize trained security guards at all school entrances.
+
+        1.       Staﬀ members are required to wear visible iden ﬁca on badges.
+
+        2.       Visitors are required to show ID, sign in and wear visitor iden ﬁca on. Currently the
+                 Raptor system is u lized to issue visitor passes (with pictures) and diﬀerent color
+                 lanyards are used in the buildings to indicate a visitor has permission to be in the
+                 building.
+
+
+VITAL EDUCATIONAL INFORMATION
+Informa on on each building’s student and staﬀ, transporta on needs, and the telephone numbers of
+ key oﬃcials are outlined in each Building-level Emergency Response Plan.
+
+
+EARLY DETECTION OF POTENTIALLY DANGEROUS BEHAVIOR
+
+This sec on contains the District policy and procedure for dissemina ng informa on regarding early
+detec on of poten ally dangerous behavior.
+
+
+        1.       A summary of the District’s Code of Conduct is provided to all students in the District at
+                 the start of every school year to ensure that all students understand acceptable behavior
+                 in the school se ng. The Code of Conduct delineates, among other behavior, lack of
+                 tolerance for bullying, violence, and harassment.
+
+
+
+
+                                               District-wide Safety & Emergency Management Plan         10
+
+       2.         A “plain language” summary of the Code of Conduct is mailed or emailed to all
+                  parents/guardians of students in the District at the start of each school year and is
+                  disseminated at the me of registra on therea er.
+
+       3.         All new employees are provided with a copy of the Staﬀ Handbook at the me of hire
+                  which contains the student “Code of Conduct” including expecta ons of staﬀ. All staﬀ
+                  members review this annually as part of the online training modules.
+
+       4.         Eﬀorts are made on the building level in each of the District’s schools to iden fy,
+                  prevent, and resolve poten ally dangerous behavior at the earliest possible stage.
+                  School counselors, school psychologists, school social workers, nurses, outside agencies
+                  (when appropriate), administrators, teachers, parents/guardians and students are
+                  involved in this process.
+
+       5.         Secondary health curricula incorporate informa on regarding emo onal health, the
+                  impact of drugs and alcohol on an individual’s behavior, and on responsible
+                  decision-making.
+
+       6.         Each of the District’s school psychologists/social workers facilitates counseling groups for
+                  iden ﬁed students around issues related to poor social skills development, anger
+                  management, and good decision-making.
+
+       7.         Cer ﬁed and noncer ﬁed staﬀ members working with students who have been
+                  iden ﬁed by the Commi ee on Special Educa on as being at-risk for engaging in violent
+                  behaviors receive annual training in crisis preven on and interven on.
+
+       8.         The District works in collabora on with our PTSA, CAB and iASK community groups to
+                  oﬀer parents/guardians informa on regarding early-warning signs of poten ally
+                  dangerous and/or violent behavior, as well as forums to discuss speciﬁc parental
+                  concerns.
+
+
+POLICE AGENCIES
+
+   The District buildings fall within the jurisdic on of the following police departments:
+
+       Agency                                                       Phone Number
+       Irvington Police Department                                  914-591-8080
+       Westchester County Police                                    914-741-4400
+       New York State Police                                        914-769-2600
+
+
+HAZARD IDENTIFICATION
+
+
+
+
+                                                 District-wide Safety & Emergency Management Plan         11
+
+IDENTIFICATION OF POTENTIALLY DANGEROUS OR HAZARDOUS SITES:
+Each school will iden fy and locate areas of poten al emergencies in and around its building. The
+Director of Facili es and building custodians will locate these sites.
+
+    1. These sites are to include electrical, gas, hea ng, ven la on, water supply and sewage systems
+       loca ons and shut-oﬀ valves. Local ﬁre department personnel have and will con nue to
+       par cipate in these eﬀorts.
+
+    2. These sites of poten al emergencies will be listed in each Building-level Emergency Response
+       Plan supplied to police, ﬁre, emergency management services, and District personnel.
+
+    3. Poten ally dangerous sites indicated below that are contained within school property and under
+       the jurisdic on of the school district, will be checked regularly and inspected by building safety
+       personnel on a regular schedule, at least annually. They include but are not limited to:
+
+            ●   Electrical panels/shut-oﬀs
+            ●   Gas lines/shut-oﬀ
+            ●   Gas appliances
+            ●   Hea ng plant
+            ●   Sewage system
+            ●   Structural failure
+            ●   HVAC
+            ●   Water supply/shut-oﬀ
+            ●   Chemical storage and cleaning supplies
+            ●   Paper supply storage
+            ●   Industrial arts room
+            ●   Science rooms and labs
+            ●   Isolated areas near the school
+            ●   Nearby aqueduct, streams, ponds, rivers (ﬂooding)
+            ●   Steep areas near school
+            ●   Unprotected exterior gas/electric, air condi oning supplies or equipment
+            ●   Playground equipment
+
+
+TYPICAL EMERGENCY SITUATIONS:
+ The District has procedures and trains for emergencies including but not limited to:
+
+     ●   Bomb Threats
+     ●   Building Collapse
+     ●   Civil Disturbance
+     ●   Cyber Security
+
+                                              District-wide Safety & Emergency Management Plan       12
+
+     ●   Earthquakes
+     ●   Explosion
+     ●   Fire
+     ●   Floods
+     ●   Hazardous Materials and Radiological Incidents
+     ●   High Winds
+     ●   Hostage Situa ons
+     ●   Intruders (Armed/Unarmed)
+     ●   Kidnapped/Missing Students
+     ●   School Bus Accidents
+     ●   Suicide
+     ●   Suspicious Packages
+     ●   Severe Weather
+     ●   Tornadoes
+     ●   Weapons Possession
+
+
+SCHOOL SAFETY PERSONNEL ALLOCATIONS, HIRING, DUTIES, AND TRAINING
+Private /School Security
+This plan includes contracts or memoranda of understanding that deﬁne the rela onship between the
+ district, personnel, students, visitors, law enforcement, and public or private security personnel. These
+ contracts or memoranda are consistent with the Code of Conduct, and deﬁne the roles,
+ responsibili es, and involvement in the schools of law enforcement or security personnel. The role of
+ school discipline is delegated to school administra on.
+
+
+District Memorandum(s) of Understanding related to this sec on are maintained in the District oﬃce.
+ALLOCATIONS
+
+
+    A. At the elementary school level, there is a single point of entry for visitors at each building and
+       visitors to the school must be buzzed into the building, sign in and receive an iden ﬁca on
+       badge issued by a safety greeter. Staﬀ in the building all wear district-produced iden ﬁca on
+       badges which must be worn at all mes. Staﬀ is trained to report to the main oﬃce any person
+       they observe who is not wearing a badge.
+
+    B. At the middle and high school level, there are designated points of entry for visitors, which are
+       staﬀed during normal school hours by one of several staﬀ members or safety personnel
+       assigned to the school. Visitors to the school must sign in and receive an iden ﬁca on badge
+       issued by a safety greeter. Staﬀ in the building all wear district-produced iden ﬁca on badges,
+                                               District-wide Safety & Emergency Management Plan 13
+
+         which must be worn at all mes. In addi on, safety personnel are assigned to areas throughout
+         the building and grounds.
+HIRING
+The interviewing and hiring of safety personnel follows the district’s prac ces for hiring of new staﬀ. All
+new staﬀ employed by the District must be ﬁngerprinted in order to be employed. Security guards
+hired through private companies must also have ﬁngerprint clearance.
+
+
+DUTIES AND TRAINING
+
+
+School Security Monitors
+   ●     staﬀed during regular school hours at each school as well as for selected special events in the
+         evening and on weekends
+   ●     enforce our visitor policy as well as ac vely monitor the building and support the staﬀ with
+         student safety and traﬃc
+
+Required training includes:
+   ●     School violence preven on and interven on training
+   ●     Site-speciﬁc training may include review of all manuals (e.g., school district policies, Code of
+         Conduct, District-wide School Safety Plan, School Handbook, etc).
+   ●     Right-to-know training
+   ●     Blood borne pathogen training
+   ●     Sexual Harassment
+
+
+
+
+                                               District-wide Safety & Emergency Management Plan            14
+
+SECTION III    RESPONSE
+
+CONTINUITY OF OPERATIONS
+This district maintains con nuity of opera ons at both the district and building-level to ensure that
+essen al func ons con nue during an emergency and its immediate a ermath. Essen al func ons
+include business services (payroll and purchasing), communica on (internal and external), computer
+and systems support, facili es maintenance, safety and security, and con nuity of instruc on. Speciﬁc
+con nuity plans are contained within each Building-level Emergency Response Plan.
+
+
+CONTINUITY OF INSTRUCTION
+The District oﬀers a suite of online instruc onal tools that can be used to support remote instruc on
+and communica on. General instruc onal tools for communica ng with students include online
+services using Google Classroom.
+
+Detailed grade-speciﬁc remote instruc onal procedures are contained within each building-level
+emergency plan.
+
+Note: The local public Library online resources are available remotely and can be accessed by students
+who have a library card.
+
+
+NOTIFICATION AND ACTIVATION - INTERNAL AND EXTERNAL COMMUNICATIONS
+EXTERNAL
+Anyone with knowledge of an incident is encouraged to immediately call 911 in an emergency.
+The District’s mass communica on system will be used to provide informa on to parents/guardians
+and emergency contacts. The District website and it’s Facebook page may also be used to provide
+updated informa on throughout an incident as deemed appropriate by the Incident Commander.
+Schools may also use their websites for announcements or updates as directed by the Incident
+Commander.
+When an emergency requires no ﬁca on of staﬀ, the Superintendent or his designee will provide
+updated informa on to parents and students through the emergency no ﬁca on system.
+Addi onal informa on may also be found on the District’s website: h ps://www.irvingtonschools.org/.
+During an emergency, all contact with the media will be handled either by the Superintendent or his
+designee. The media and public will be informed and updated as soon as prac cable on all
+developments in statements released by the Superintendent or his designee. Students, staﬀ and
+parents should refer all ques ons and requests for informa on to the Superintendent in order to
+assure the release of factual and current informa on. The Superintendent may refer such requests to a
+designee.
+By deﬁni on, emergency events are unforeseen and unpredictable. The safety of students and staﬀ is
+the primary focus of all ac vi es surrounding an emergency event. Every eﬀort will be made to
+contact parents and the general public once the situa on has stabilized.
+
+                                            District-wide Safety & Emergency Management Plan       15
+
+INTERNAL
+A er receiving the informa on from the Incident Commander at the scene, an email will be sent from
+the Superintendent’s oﬃce to all administrators and administra ve oﬃces aler ng them to the nature
+and status of any incident in the district. The mass communica on system may be used to provide
+informa on as deemed appropriate by the Incident Commander. Portable radios will also be used
+when possible.
+
+
+SITUATIONAL RESPONSES
+
+
+MULTI-HAZARD RESPONSE
+In the event of an emergency, a Command Center will be set up at a safe loca on in collabora on with
+emergency responders. Each building has speciﬁc plans for dealing with a wide range of hazards.
+Speciﬁc response procedures are sensi ve in nature and therefore are contained within each
+conﬁden al building-level emergency response plan.
+In each emergency, the building’s administrator will contact the District oﬃce for assistance. The
+District oﬃce will provide support as appropriate and deemed necessary by the Incident Commander
+on the scene (i.e. sending addi onal mental health resources). The Superintendent or their designee
+will be the sole contact person for releasing informa on to the media and for communica ng the
+status of the emergency with other District schools, out-of-district schools, private schools, and outside
+agencies.
+
+
+RESPONSE PROTOCOLS
+
+SCHOOL CANCELLATION
+    ●   The Superintendent or their designee will monitor any situa on that may warrant a school
+        cancella on and will make the determina on to do so.
+    ●   The Public Informa on Oﬃcer will ac vate use of the District’s mass communica on system.
+    ●   The Public Informa on Oﬃcer will contact local media, post the informa on on the website and
+        social media sites u lized by the District.
+
+
+EARLY DISMISSAL
+    ●   The Superintendent or their designee will monitor any situa on that may warrant an early
+        dismissal and will make the determina on to do so.
+    ●   The Opera ons Chief will designate people to arrange transporta on for students.
+    ●   The Public Informa on Oﬃcer will ac vate use of the District’s mass communica on system.
+    ●   The Public Informa on Oﬃcer will contact local media, post the informa on on the website and
+        social media sites u lized by the District.
+    ●   The Liaison Oﬃcer will no fy each of the building principals.
+
+
+                                              District-wide Safety & Emergency Management Plan         16
+
+EVACUATION
+     ●   The Superintendent or their designee will determine the level of the threat.
+     ●   The Opera ons Chief will contact the transporta on supervisor to arrange transporta on. They
+         will also arrange for student-parent reuniﬁca on.
+     ●   The Safety Oﬃcer will clear all evacua on routes and sites prior to evacua on
+     ●   Principal(s) will evacuate all staﬀ and students to prearranged evacua on sites as outlined in
+         building plans. They will report to the superintendent or their designee any missing staﬀ or
+         students.
+
+
+SHELTERING SITES (INTERNAL AND EXTERNAL)
+    ●    The Superintendent or their designee will determine the level of the threat and communicate
+         with building principal(s) who are aﬀected by the emergency.
+    ●    Principal(s) will move all staﬀ and students to pre-arranged sheltering sites as outlined in
+         building plans. They will report to any missing staﬀ or students.
+    ●    The Logis cs Chief will make appropriate arrangements for human needs in the event of a
+         long-term situa on.
+
+
+PROTOCOLS FOR RESPONDING TO BOMB THREATS, HOSTAGE-TAKINGS, INTRUDERS, ABDUCTION, AND OTHER EMERGENCY
+SITUATIONS
+ The District has procedures and provides training for emergencies. Speciﬁc response steps are
+ conﬁden al and contained within each Building-level Emergency Response Plan. Emergencies include
+ but are not limited to the following situa ons.
+
+     ●   Abduc on
+     ●   Armed Intruders / Ac ve Shooters
+     ●   Bomb Threats
+     ●   Early or Alternate Emergency Dismissal
+     ●   Explosions
+     ●   Fires
+     ●   Hazardous Material Incident
+     ●   Homeland Security Threats
+     ●   Hostage Situa ons
+     ●   Infec ous Diseases
+     ●   Severe Weather
+     ●   Student-Made Threats
+     ●   Suicidal Students
+     ●   Suspicious Package Protocol
+     ●   Suspicious Persons
+                                              District-wide Safety & Emergency Management Plan          17
+
+RESPONSES TO IMPLIED OR DIRECT THREATS OF VIOLENCE
+  1. Students are required to inform school staﬀ about any direct or indirect threat of violence or
+     actual act of violence to themselves, others or school property.
+
+  2. Staﬀ members are required to immediately inform the Principal or their designee of any direct or
+     implied threat of violence or actual act of violence by students, teachers, or other school
+     personnel including bus drivers and monitors as well as visitors to the school, including threats
+     by students against themselves, which shall include suicide. The Principal or their designee
+     decides whether to u lize the building’s trained clinician(s) in an eﬀort to de-escalate or defuse
+     the situa on.
+
+  3. Parents and visitors are encouraged to tell school staﬀ about any indirect or direct threats of
+     violence or actual act of violence towards students, themselves, others or property.
+
+  4. A er considering the speciﬁcity/generality of the threat or severity of the violent act, the
+     Principal or her/his designee will decide whether to immediately contact the Superintendent of
+     Schools or the Assistant Superintendent to advise them of the threat, get help to determine the
+     level of threat or report the violent act. The Principal will have the discre on to report minor
+     incidents to the Superintendent verbally and/or in memorandum form a er the situa on has
+     been resolved.
+
+  5. The Principal or her/his designee will also decide whether to contact law enforcement
+     personnel. Threats or ac ons placing students, staﬀ and others in imminent danger require an
+     immediate LOCKDOWN protocol followed by a call to the police and the District
+     Superintendent (if safe to do so). Violent oﬀenses deﬁned in the S.A.V.E. regula ons will also
+     require the involvement of the police.
+
+  6. The Principal, and/or her/his designee then determine the appropriateness of direc ng the
+     Building Emergency Response Team to be ac vated.
+
+  7. The Building Emergency Response Team (BERT) consis ng of trained staﬀ and school personnel
+     may assist with an Evacua on, Lockout, Shelter – In – Place, Fire or Early Dismissal and will follow
+     the appropriate protocol (see appendices for further informa on). The Incident Command
+     System (ICS) under the Na onal Incident Management System (NIMS) should be followed as
+     closely as possible to ensure good coordina on between the building level teams, District
+     leadership, and responding agencies.
+
+  8. If the threat of violence or danger is imminent, a Lockdown may be u lized. A Lockdown is me
+     sensi ve and therefore may be requested by any school staﬀ member based on the incident and
+       mely need for the Lockdown. During the Lockdown, all school staﬀ, students, and visitors
+     (including all BERT members) are required to Lockdown in the nearest lockable space and await
+     further instruc on.
+
+
+
+
+                                             District-wide Safety & Emergency Management Plan        18
+
+        9. Procedures for contac ng parents, guardians and persons in parental rela on to students in the
+           event of a violent incident or early dismissal are spelled out by each building. The use of the
+           District’s mass communica on system is typically u lized.
+
+        10. The building administrator will inves gate reported threats and reported acts of violence and
+            will make the determina on of disciplinary measures consistent with the District’s Code of
+            Conduct.
+
+        11. School administrators must keep records of serious threats and acts of violence and report them
+            annually to the state in accordance with state regula ons and laws.
+
+
+     RESPONSES TO ACTS OF VIOLENCE
+
+        1. Aggressively dangerous and violent students, staﬀ or visitors shall be managed as outlined by the
+           procedures detailed in the district Code of Conduct.
+
+        2. The building administrator will inves gate reported threats of violence and will make the
+           determina on of disciplinary measures consistent with the District’s Code of Conduct. Chronic
+           oﬀenders may require a behavior plan or contract, close monitoring, and/or police involvement
+
+        3. School administrators must keep records of serious threats and acts of violence and report them
+           annually to the state.
+
+        4. Prompt contact with appropriate law enforcement oﬃcials is essen al in the event of a violent
+           incident. These rela onships have been established by par cipa on of local response oﬃcials on
+           Building-Level Emergency Response Teams. These individuals and appropriate means of contact
+           are documented in each Building-Level Emergency Response Plan.
+
+
+    PROTOCOLS FOR A STATE DISASTER EMERGENCY INVOLVING A COMMUNICABLE DISEASE
+    Background
+    In September 2020, Governor Cuomo signed legisla on that requires all New York State public employers
+    to adopt a plan for opera ons in the event of a declared state disaster emergency involving a
+    communicable disease. The new legisla on can be found in New York State Labor Law Sec on 27-c, and
+    in Sec on 2801-a(2)(m) of the Educa on Law. This sec on addresses the required addi ons to the
+    District Plan.
+
+
+   Protocols
+1. In the event of a state-ordered reduc on of the District’s in-person workforce, the following is a list of
+   essen al employees who would be allowed to be physically present to perform his or her job.
+
+           Essen al Posi on                                         Descrip on
+
+    Superintendent of Schools          The Superintendent is the District’s chief execu ve oﬃcer.
+
+
+                                                   District-wide Safety & Emergency Management Plan             19
+
+Assistant Superintendent of        This posi on is responsible for all ﬁnancial management,
+Business and Opera ons             transporta on, food services, facili es, security, and business oﬃce
+                                   func ons including payroll, purchasing, and state repor ng.
+
+Assistant Superintendent for       This posi on is responsible for all educa onal programs in the
+Instruc on and Human               district, staﬀ development/training and human resources.
+Resources
+
+Director of Facili es              This posi on is responsible for the maintenance of infrastructure of
+                                   the District’s buildings and grounds. Supervises maintenance and
+                                   custodial staﬀ and oversees/coordinates with outside contractors.
+
+Custodial Staﬀ                     Maintain building essen al systems and func ons and clean building
+                                   premises.
+
+Director of Technology             This posi on is responsible for instruc onal technology, network
+                                   security, hardware procurement and distribu on.
+
+Technology Staﬀ                    These posi ons need to support administra ve and instruc onal
+                                   technology needs.
+
+Food Service Staﬀ                  These posi ons are required for food distribu on, as needed.
+
+Director/Asst Director of Pupil    These posi ons are essen al for providing specialized support for
+Personnel Services                 students and in overseeing health services.
+
+School nurses                      Provides health services to students
+
+Principals/Assistant Principals.   Chief/deputy oﬃcer of each school
+
+Conﬁden al/Clerical Staﬀ           Clerical staﬀ are essen al to suppor ng school opera ons
+
+Director of Athle cs               This posi on oversees Athle c programs and Physical Educa on
+                                   programs
+
+Security Coordinator/              This posi on coordinates the security needs of the District and
+Consultant                         compliance to NYS regula ons.
+
+
+
+    2. To enable all non-essen al employees to telecommute, District staﬀ will be guided by the
+       Con nuity of Opera ons and Con nuity of Instruc on annexes contained within the
+       Building-level Emergency Response Plans. Further planning is located in the District’s Reopening
+       Plan accessible on the District website.
+
+    3. In an eﬀort to reduce overcrowding on public transporta on and at work sites:
+
+        ●   Class schedules will be staggered by cohorts, either with varying days of a endance or with
+            morning and a ernoon sessions for in-person learning.
+
+                                               District-wide Safety & Emergency Management Plan           20
+
+    ●   Remote learning will be u lized through Google Classroom and other technology methods.
+    ●   Staﬀ may walk or drive a personal vehicle to school buildings.
+    ●   Students will be encouraged to walk to school
+    ●   Employees may be permi ed to work remotely as directed by the Superintendent of Schools
+        based on guidance from the Department of Health and the New York State Department of
+        Educa on. This may include essen al personnel to the extent they can complete their work
+        remotely.
+    ●   Visitors will be limited during school hours and must complete the proper health
+        pre-screening.
+
+4. A quan ty of personal protec ve equipment (PPE), suﬃcient to provide to all essen al
+   employees, will be procured, stored, and managed as follows:
+
+    ●   The Facili es Department will maintain an inventory of PPE in accordance with NYS
+        Educa on Department guidelines, and con nually restock as needed.
+    ●   Storage of personal protec ve equipment will be monitored and comply with the
+        manufacturer’s storage recommenda ons for each item.
+    ●   PPE equipment will be readily available, if needed.
+    ●   We will maintain rela onships with mul ple vendors to ensure suﬃcient stock is available.
+
+5. The Irvington School District is commi ed to crea ng a learning environment that protects
+   student and staﬀ health, safety and privacy. The District will u lize all current guidance to
+   protect public health. In the event an employee, student or visitor is exposed to a known case of
+   a communicable disease subject to a state disaster emergency or exhibits symptoms of such
+   disease, or tests posi ve for such disease. The District will respond as per the Infec ous Disease
+   Annex found in the Building Level Emergency Plans, sec on 25 and/or the District’s Reopening
+   Plan. The District will stay current with all guidance from the New York State and local
+   Departments of Health.
+
+6. All essen al employees will have their hours and work loca ons documented, including oﬀ-site
+   visits, by:
+
+    ●   All entrances will be locked and monitored by security guards/greeters.
+    ●   The District’s a endance management system will be u lized to determine an employee’s
+        presence in District buildings.
+    ●   The District’s student management system will be u lized to determine a student’s presence
+        at District buildings.
+    ●   Visitors will sign in with the security guards/greeters, and their presence registered in the
+        visitor management system.
+    ●   Non-essen al visitors will not be allowed on site.
+
+
+7. If emergency housing is needed the District will lodge an essen al employee on a district
+   property or at a local hotel.
+
+
+
+
+                                          District-wide Safety & Emergency Management Plan        21
+
+If there is a declared state disaster emergency involving a communicable disease that involves the
+Irvington School District, all staﬀ, essen al and non-essen al, will be contacted, and they will be guided
+by the aforemen oned protocols.
+
+    8. OTHER Any other requirements determined by the Department of Health such as contract
+       tracing or tes ng, physical distancing, hygiene, and disinfectant, or mask-wearing.
+
+IDENTIFICATION OF DISTRICT RESOURCES WHICH MAY BE AVAILABLE FOR USE DURING AN EMERGENCY
+District resources are available in each building and stored in a central loca on. Each building will
+designate a Command Post. The list, which is not meant to be inclusive, requires the following items:
+
+
+    ●   Copy of District-Wide School Safety Plan
+    ●   Building-level Emergency Plan
+    ●   Quick reference Emergency Management Procedures
+    ●   List of emergency telephone numbers
+    ●   Building ﬂoor plans
+    ●   Telephones
+    ●   Radio communica ons
+    ●   Weather radio
+    ●   Flashlights
+    ●   Photocopier
+    ●   Computer
+    ●   Student rosters
+    ●   List of individuals with special needs and speciﬁc evacua on plans
+    ●   Telephone numbers for parents/guardians Informa on about emergency needs (e.g.
+        students/staﬀ that require medica ons, vehicular transporta on issues, etc.)
+    ●   School and staﬀ census informa on
+
+
+COORDINATION AND SCHOOL DISTRICT RESOURCES AND MANPOWER DURING EMERGENCIES
+
+
+The District will, as appropriate, u lize all available manpower during an emergency. Within each
+ building, schools may use the Staﬀ All Call response protocol, which quickly summons all available staﬀ
+ members to a staging area for assignments. Coordina on of available employees is typically performed
+ by the Principal or their designee. Speciﬁc job du es will be assigned based on the type of emergency
+ and in compliance with the appropriate district and building emergency response procedure.
+ Addi onal district resources may be requested by any building administrator or designee as needed.
+ The Superintendent or their designee will call in all available maintenance and custodial staﬀ to provide
+ support during an emergency as needed. Assistance from outside government agencies may also be
+ requested. A speciﬁc list of available resources may be found in Appendix 4 of this plan.
+
+
+
+
+                                               District-wide Safety & Emergency Management Plan         22
+
+PARTICIPATING IN UNIFIED COMMAND UNDER ICS PRINCIPLES
+
+       ASSIGNMENT OF RESPONSIBILITIES
+       A chain of command consistent with the Na onal Interagency Incident Management System
+       (NIMS)/Incident Command System (ICS) will be used in response to an emergency. Members of
+       the School, Emergency Response Team, will be part of this system. In the event of an emergency,
+       the response team will adopt NIMS/ICS principles based on the size, scope, and character of the
+       emergency.
+
+           1. All administrators and Building-level Emergency Response Teams members shall
+              complete the incident command training level one.
+
+           2. All District Emergency Response Team members shall complete incident command
+              training level one and level two.
+
+
+ICS POSITIONS
+The number of ICS posi ons ﬁlled will be dependent upon the scope of the incident.
+
+       ●    Incident Commander – Responsible for the direc on of the building response in a
+            building-level emergency (Building Administrator/designee).
+
+       ●    Public Informa on Oﬃcer – Compiles and releases informa on to the news media.
+
+       ●    Safety Oﬃcer – Monitors the response to prevent injuries from occurring to both those
+            involved in the incident and those trying to resolve it.
+
+       ●    Liaison – Represents the District by working with responding agencies (law enforcement, ﬁre
+            department, EMS, u li es, etc.) and other school districts that may be involved in the
+            incident.
+
+       ●    Incident Log – Keeps a wri en log of all incident events and updates appropriate command
+            post personnel on signiﬁcant developments.
+
+       ●    Opera ons – responsible for direc ng the implementa on of ac on plans and strategies for
+            incident resolu on.
+
+       ●    Logis cs – Responsible for providing all resources (personnel, equipment, facili es and
+            services) required for incident resolu on.
+
+       ●    Planning/Intelligence – Responsible for collec ng, evalua ng, and dissemina ng the
+            informa on needed to measure the size, scope and seriousness of an incident and to plan a
+            response.
+
+
+                                             District-wide Safety & Emergency Management Plan      23
+
+            ● Administra on/Finance – Responsible for all cost and ﬁnancial ma ers related to the
+               incident.
+
+ DISTRICT COMMAND POST (DCP):
+
+Unless otherwise speciﬁed, The DCP will be located in the Central Administra ve Oﬃces. If necessary,
+the command post may be moved to an alternate site including the transporta on facility and even
+non-district-owned buildings.
+
+
+ POTENTIAL ICS EMERGENCY SITES:
+
+
+BUILDING:                                             USES:
+
+Irvington Union Free School District                  Command Center
+District Oﬃces                                        Public Informa on Center
+                                                      Communica ons Center
+
+Irvington High School                                 Shelter-in-Place
+                                                      Staging Area(s)
+                                                      Alternate Command Center
+
+Dows Lane Elementary School                           Shelter-in-Place
+                                                      Staging Area(s)
+
+Irvington Middle School                               Shelter-in-Place
+                                                      Staging Area(s)
+
+Main Street School                                    Shelter-in-Place
+                                                      Staging Area(s)
+
+
+
+
+                                             District-wide Safety & Emergency Management Plan   24
+
+SECTION IV      COMMUNICATION WITH OTHERS
+
+OBTAINING ASSISTANCE DURING EMERGENCIES FROM EMERGENCY SERVICE ORGANIZATIONS AND LOCAL
+GOVERNMENT AGENCIES
+
+
+
+    1. The district con nues to work closely with local police, ﬁre, EMS, and governmental agencies to
+       obtain assistance during emergencies. Representa ves helped in the development of this plan,
+       have assisted in emergency drills, and provided technical assistance. Providers have given
+       approval to the district to rely on local personnel, resources, and facili es in emergency
+       situa ons.
+
+    2. The district maintains an updated list of local, county, and state agencies and personnel to
+       contact to obtain assistance. The superintendent or their designee will ini ate the contact when
+       needed.
+
+
+
+OBTAINING ADVICE AND ASSISTANCE FROM LOCAL GOVERNMENT OFFICIALS, INCLUDING THE COUNTY OR
+CITY OFFICIALS RESPONSIBLE FOR IMPLEMENTATION OF ARTICLE 2-B OF THE EXECUTIVE LAW
+
+
+    1. The district maintains an updated list of local and county emergency organiza ons, agencies, and
+       government oﬃcials responsible for implementa on of Ar cle 2-B of the Execu ve Law. The
+       superintendent and their designee will ini ate the contact when needed.
+
+    2. The key oﬃcials in local government that can help to develop plans and assist in emergency
+       situa ons as listed in emergency situa ons are listed in Appendix 4. Key government agencies
+       are listed below:
+
+                         1.   Irvington Police Department
+                         2.   Irvington Fire Department
+                         3.   Irvington Volunteer Ambulance
+                         4.   Westchester County OEM
+                         5.   Westchester County Police Department
+                         6.   New York State Police
+                         7.   Red Cross
+
+
+CONTACTING PARENTS, GUARDIANS OR PERSONS IN PARENTAL RELATION TO THE STUDENTS OF THE
+DISTRICT IN THE EVENT OF A VIOLENT INCIDENT OR AN EARLY DISMISSAL
+
+In the event of violent incidents or crises, or an early dismissal of students, every eﬀort will be made to
+ no fy parents. As soon as prac cal, the Superintendent or their designee shall ac vate the emergency
+ no ﬁca on system that will provide relevant informa on. Parental no ﬁca on procedures for a
+
+                                                District-wide Safety & Emergency Management Plan         25
+
+student involved in disciplinary situa ons shall be consistent with the Code of Conduct and New York
+State law, and shall be presented clearly and concisely to staﬀ and students each year.
+When a student is involved in any violent situa on, or an implied or direct threat of violence by such
+student against themselves, including suicide, parent or guardian shall be contacted as soon as
+prac cable. Administra on shall u lize school mental health resources when necessary.
+It is the responsibility of all parents and guardians to ensure that emergency contact informa on for
+ students is always up-to-date and complete.
+
+
+
+
+                                               District-wide Safety & Emergency Management Plan          26
+
+SECTION V RECOVERY
+
+DISTRICT SUPPORT FOR BUILDINGS
+When the Chief Emergency Oﬃcer is no ﬁed that an emergency exists, he/she will respond
+accordingly.
+
+Members of the District Safety Team will assist as needed either at their respec ve Building Command
+Posts or by responding where directed by the Incident Commander(s). The District Safety Team will
+assign such other personnel as deemed necessary to meet the needs of the situa on.
+
+The District Safety Team members will remain at their assigned posts un l the Incident Commander(s)
+has determined that the emergency is over, or it is unsafe, or no longer necessary to remain, or need to
+relocate.
+
+Should the incident involve a single building, at the discre on of the District Safety Team leader in
+consulta on with that building’s administrators and Building Emergency Response Team (BERT), other
+school buildings may be called to support the Building Emergency Response Team in that building.
+
+Should the incident involve mul ple buildings, at the discre on of the District Safety Team leader, in
+consulta on with building administrators, addi onal mental health support from the County Crisis Team
+and local area hospitals may be solicited to support the Emergency Response Teams in the aﬀected
+building(s).
+
+In any case, a “debrieﬁng”, or post-incident analysis, will be facilitated by the District Safety Team. This
+process will include a review of the actual incident, the Team’s response to the incident, and
+post-trauma c incident debrieﬁng.
+
+District clinicians (or, mental health professionals from outside agencies if they have been involved) will
+provide ongoing as-needed support to the Team members, and will monitor post-trauma c stress
+symptoms in team members. As appropriate, team members may be provided with a referral to EAP
+and/or with informa on regarding private mental health providers in the area.
+
+Principal(s) are expected to consult with the District Public Informa on Oﬃcer in composing le ers to
+parents following any emergency. The District’s Public Informa on Oﬃcer will assist in sending mass
+communica on messages to aﬀected groups. The District’s Liaison Oﬃcer will communicate with
+outside agencies, such as the County Health Department, to provide necessary services following any
+emergency.
+
+
+
+DISASTER MENTAL HEALTH SERVICES
+The Superintendent or designee will communicate with outside agencies, such as the County Health
+Department, to provide necessary mental health services following any emergency. District mental
+health providers may be temporarily reassigned to assist in the recovery process.
+
+
+                                               District-wide Safety & Emergency Management Plan         27
+
+APPENDIX 1 - LISTING OF SCHOOL BUILDINGS
+
+DISTRICT OFFICE
+6 Dows Lane
+Irvington, NY 10533
+Phone: 914-591-8500
+
+
+IRVINGTON HIGH SCHOOL
+40 North Broadway
+Irvington, NY 10533
+Phone: 914-269-5412
+
+
+DOWS LANE ELEMENTARY SCHOOL
+6 Dows Lane
+Irvington, NY 10533
+Phone: 914-591-6012
+
+
+
+IRVINGTON MIDDLE SCHOOL
+40 North Broadway
+Irvington, NY 10533
+Phone: 914-269-5312
+
+
+MAIN STREET SCHOOL
+101 Main Street
+Irvington, NY 10533
+Phone: 914-591-1961
+
+
+
+
+                                           District-wide Safety & Emergency Management Plan   28
+
+APPENDIX 2 – BUILDING-LEVEL EMERGENCY RESPONSE PLANS
+
+
+Due to the sensi ve safety and security informa on contained in each Building-level Emergency
+Response Plan, these plans are conﬁden al and not available for public dissemina on. Copies of plans
+are maintained at each school building and the District oﬃce.
+
+
+
+
+                                           District-wide Safety & Emergency Management Plan      29
+
+APPENDIX 3 – MEMORANDA OF UNDERSTANDING
+
+
+Any applicable Memoranda of Understanding relevant to implementa on of the District-wide and
+Building-level Emergency Response Plans are on ﬁle in the district oﬃce.
+
+
+
+
+                                        District-wide Safety & Emergency Management Plan   30
+
+District-wide Safety & Emergency Management Plan   31
+[OCR]
+Understanding. Allied shall be cognizant of such rights, responsibilities and
+expectations In providing contracted security services to the District and shall act in
+accordance with the District's Code of Conduct.
+
+5. It is expressly understood that the Agreement and MOU shall not be assigned or
+transferred without the prior written consent of the other party.
+
+6. Should any provision of the Agreement and MOU for any reason, be declared invalid
+and/or unenforceable, such decision shall not affect the validity of the remaining
+provisions of the Agreement/MOU. Such remaining provisions shall remain in full
+force and effect as If the Agreement and MOU had been executed with the Invalid
+provision(s) eliminated.
+
+7. The Agreement and MOU constitutes the complete and exclusive statement of
+understanding between the Parities, and supersedes all prior or contemporaneous,
+coral or written: proposals, understandings, representations, conditions or covenants
+between the Parties relating to the subject matter of the Agreement.
+
+8. The Agreement and MOU may not be changed orally, but only by an Amendment, in
+writing, signed by authorized representatives of both Parties.
+
+9. The Agreement and MOU, and any additional amendments to this Agreement, will
+not be in effect until agreed to In writing and signed by authorized representatives of
+both Parties.
+
+10. All Parties agree to abide by any and all applicable Federal, State, and/or local laws in
+connection with the performance of Its obligations pursuant to the Agreement and
+
+AD pu ae; C/b/z/
+
+Universal Protection Services, LLC
+d/b/a Allied Universal Security Services
+
+a owe 8/3/21
+Brian Friedman, Board President
+
+re ~~ l3i)20
+
+Dr. Kristopher Harrison, Superintendent of Schools
+Irvington Union Free School District
+
+District-wide Safety & Emergency Management Plan
+
+31
+
+
+        APPENDIX 4 – DISTRICT RESOURCES – CONTACT INFORMATION
+
+
+TITLE                                              NAME                          OFFICE PHONE
+Superintendent of Schools                          Kristopher Harrison           914-591-8501
+Asst. Superintendent, Business/Emergency           Carol Stein                   914-591-9780
+ Coordinator
+Asst. Superintendent, Curriculum                   Gail Duﬀy                     914-591-4328
+Transporta on Supervisor                           John Coxen                    914-295-5544
+Bus Dispatch Oﬃce – Royal Coach                    Eddie Colon                   914-965-0733
+District Clerk                                     Sara Lizzo                    914-269-5011
+Director of Facili es                              Gary Knowles                  914-591-4678
+Director of Pupil Personnel Services               Celia Strino                  914-269-5440
+Director of Technology                             Jason Strumwasser             9142695540
+Athle c Director, PE & Health                      John Buonamano                914-591-8673
+Cafeteria Services                                 Gloria Estrada                914-269-5567
+Mayor                                              Brian Smith                   914-591-4356
+Fire Dept./Ambulance                               Jimmy Ruﬄer                   914-231-1900
+Westchester County
+County Execu ve                                    George La mer                 914-995-2900
+Emergency Management                               Richard Wishne                914-231-1851
+Transporta on Commissioner                         Hugh J. Greechan, P.E.        914-995-2546
+Public Safety Commissioner                         Thomas Gleason                914-864-7906
+County Health Dept.                                Dr. Sherlita Amler            914-864-7292
+Red Cross Emergency Services                       Oﬃce                          203-869-8444
+Chief of Technical Services                        Marguerite Beirne (interim)   914-995-8161
+
+
+
+
+                                               District-wide Safety & Emergency Management Plan   32
+

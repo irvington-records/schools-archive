@@ -1,0 +1,23 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/goto?open&id=94VLLP56E9E4 | DATE: 2013-03-05 | TITLE: Regular Meeting - 7:30 p.m.* | 10.4 Budget Transfers
+
+Meeting: Mar 05, 2013 - Regular Meeting - 7:30 p.m.*
+Date: 2013-03-05
+Category: 10. Business Office Matters
+Subject: 10.4 Budget Transfers
+Type: Action (Consent)
+
+Budget Transfer 12/13-10
+
+	Credit  A1240.200 (C.S.A. Equipment)                          $1907.24
+
+	Debit   A2110.200.40 (District Equipment)                     $1907.24
+
+	This transfer is to purchase conference room chairs in the district office.
+
+	Budget Transfer 12/13-11
+
+	Credit  A1480.490 (Public Info- BOCES Services)      $9909
+
+	Debit   A2250.490 (Spec. Ed.- BOCES)                      $9909
+
+	This transfer is to cover the PR Consultant on the Jan. 2013 BOCES invoice.

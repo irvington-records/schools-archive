@@ -1,0 +1,25 @@
+SOURCE http://www.irvingtonschools.org:80/girlsbball.html | DATE 2003-04-19 | TITLE Girls Basketball
+
+Varsity/Junior Varsity Sports
+Varsity Coach: Gina Maher
+| DATE | OPPONENT | TIME | 
+| Dec. 4 | Warnock Tournament - Blind Brook | 6:15 PM | 
+| Dec. 7 | Warnock Finals | 2:00 & 6:00 PM | 
+| Dec. 9 | at North Salem | 6:15 PM | 
+| Dec. 11 | Hastings | 4:30 PM | 
+| Dec. 16 | at Keio Academy | 4:30 PM | 
+| Dec. 20 | at Rye Neck | 4:30 PM | 
+| Jan. 6 | at Tuckahoe | 4:30 PM | 
+| Jan. 7 | at Croton-Harmon | 6:15 PM | 
+| Jan. 10 | Martin Luther King Jr. | 4:30 PM | 
+| Jan. 11 | at Pleasantville | 7:00 PM | 
+| Jan. 13 | at Briarcliff | 6:15 PM | 
+| Jan. 15 | Haldane | 5:15 PM | 
+| Jan. 17 | at Westlake | 7:00 PM | 
+| Jan. 23 | at Martin Luther King Jr. | 4:30 PM | 
+| Jan. 25 | Croton-Harmon | 12:30 PM | 
+| Jan. 31 | Briarcliff | 6:00 PM | 
+| Feb. 4 | at Haldane | 6:15 PM | 
+| Feb. 6 | Westlake | 4:30 PM | 
+| Feb. 7 | Pleasantville | 4:30 PM | 
+| Feb. 10 | Rye Neck | 4:15 PM |

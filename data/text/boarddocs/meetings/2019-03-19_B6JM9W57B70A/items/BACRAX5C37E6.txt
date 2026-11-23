@@ -1,0 +1,65 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/goto?open&id=BACRAX5C37E6 | DATE: 2019-03-19 | TITLE: Special Meeting/Work Session | 8.5 Appointment of Spring Coaching Positions
+
+Meeting: Mar 19, 2019 - Special Meeting/Work Session
+Date: 2019-03-19
+Category: 8. Personnel Matters
+Subject: 8.5 Appointment of Spring Coaching Positions
+Type: Action (Consent)
+
+SPORT
+			TYPE
+			NAME
+			GROUP
+			STEP
+			STIPEND
+
+			Boys Tennis
+			Varsity Head
+			John Monterillo
+			IV
+			1
+			$5,438
+
+			Baseball
+			Modified Head
+
+			Mike Esteves
+
+			III
+			1
+			$4,232
+
+			Boys Lacrosse
+			Modified Head
+			Chris Suplina
+			III
+			1
+			$4,232
+
+			Boys Tennis
+			Modified Head
+			Carol Labella
+			IV
+			7
+			$3,457
+
+			Softball
+			Modified Head
+			James Horan
+			III
+			2
+			$4,264
+
+			Track Boys/Girls
+			Modified Head
+			Jim Buckley
+			III
+			8
+			$4,458
+
+			Track Boys/Girls
+			Modified Assistant
+			Claudia Rodriquez
+			III
+			8
+			$4,087

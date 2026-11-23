@@ -1,0 +1,949 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/pfiles/C6PMAM57AEA4/$file/2021-22%20Reopening%20-IUFSD%20Plan%20for%20the%20Mitigation%20of%20COVID-19%2008-31-2021.pdf | DATE: 2021-09-14 | TITLE: Regular Meeting | 9.1 Approval of the IUFSD Reopening Plan | 2021-22 Reopening -IUFSD Plan for the Mitigation of COVID-19 08-31-2021.pdf
+
+Reopening Irvington:
+    The 2021-22 School Year
+
+
+
+
+The IUFSD Plan for the Mitigation of
+      COVID-19 in its Schools
+
+           August 31, 2021
+      Updated September 3, 2021
+       Updated content noted in blue
+
+                                 Table of Contents
+
+
+
+    I.   Board of Education………………………………………………………………………………….…………...………………….2
+   II.   Administration…………………………………………………………………………………………..……………………………….2
+  III.   Superintendent’s Message…………………………………………………………………………..……………………… 3
+ IV.     Reopening Planning Process …………………………………………………….……………………..………………. 4
+   V.    Reopening Plan Overview/Introduction………………………………………………….……………………. .4
+ VI.     Summary of Plan Provisions …….…….………………………………………………………………………………….4
+VII.     Communication: Family and Community Engagement ..……………………………………..6
+VIII.    Health and Safety ……..…………………………………………………………………………………………………………….7
+ IX.     Social Distancing and Facilities ……………………………………………………………………………………. 13
+   X.    Child Nutrition …..…………………………………………………………………………………………………………………… 15
+ XI.     Transportation ……..………………………………………………………………………………………………………………… 15
+ XII.    Social-Emotional Well-Being ……….……………………………………………………………………………………16
+XIII.    School Schedules .........……………………………………………………………………………………………………………17
+XIV.     2021-22 Reopening Plan Overview ……………………………………………………………………………… 17
+
+
+
+
+                                                                                 1
+
+ I.   Board of Education
+
+ Brian Friedman, President
+ David Graeber, 1st Vice President
+ Beth Propper, 2nd Vice President
+ Maura Gedid, Trustee
+ Erin Bernstein, Trustee
+ Jayne Wissner, Trustee
+ Susan Brunenavs, Trustee
+
+
+
+II.   Administration
+
+ District Administration
+
+ Kristopher Harrison, Superintendent
+ Carol Stein, Asst. Supt. for Business and Operations
+ Gail Duffy, Asst. Supt. for Instruction & Human Resources
+ Gary Knowles, Director of Facilities
+ Celia Strino, Director of Pupil Personnel Services
+ Michele O’Bryan, Assistant Director of Pupil Personnel Services
+ John Buonamano, Director of Physical Education, Health and Athletics
+ Jason Strumwasser, Director of Technology
+
+ School Administration
+
+ Juliet Gevargis-Mizimakoski, IHS Principal
+ Michelleann DeFilippis, IHS Assistant Principal
+ David Sottile, IMS Principal
+ Allyson Daley, IMS Assistant Principal
+ Joyce Chapnick, MSS Principal
+ Andrea Kantor, DL Principal
+ Liza Wishney, DL Assistant Principal
+
+
+
+
+                                                                        2
+
+III.   Superintendent’s Message
+
+       Dear Irvington School Community,
+
+       Throughout the 2020-21 school year, we as a community came together to provide for the
+       safe education of our students. This was achieved by the establishment of necessary
+       changes to the school experience; wherein, many mitigating strategies were implemented
+       and student attendance structures altered to protect the health of our students and staff
+       members. As a result of these efforts and our shared commitment to provide for healthy
+       school environments, we enjoyed a successful school year wherein the number of cases of
+       COVID-19 were minimal.
+
+       Unfortunately, as we head into the 2021-22 school year, we continue to face concerns
+       regarding the coronavirus/COVID-19 pandemic. While the introduction of vaccines has had
+       a great impact in the fight against the virus, COVID-19 continues to be a serious concern
+       that we will contend with for the months ahead. As a result, the Irvington UFSD will
+       implement numerous measures to provide for the health and safety of the school
+       community. These efforts will include all New York State Department of Health (NYSDOH)
+       and Westchester County Department of Health (WCDOH) requirements, while employing
+       many recommendations from the Center for Disease Control (CDC).
+
+       Additionally, as in the last two school years, the District consulted its Reopening Steering
+       Committee to establish its Reopening Plan for the 2021-22 school year. The Committee is
+       composed of a dedicated and representative group of school community members
+       inclusive of teachers, school nurses, support staff, facilities staff, administrators, parents,
+       Board of Education Trustees, representatives of the Irvington Police Department and the
+       School Medical Director. The plan that is outlined in the following pages reflects the
+       guidance and requirements that are currently available at this time. However, as a school
+       community we must understand that the plan will evolve and the District will respond to
+       changes in guidance and other environmental factors that will inform how we are able to
+       educate our students. In any circumstance, we will continue to communicate with the
+       parent community and provide as much notice as possible for changes that will impact
+       you.
+
+       As always, we appreciate your continued support and understanding.
+
+       Sincerely,
+
+       Dr. Kristopher Harrison
+       Superintendent of Schools
+
+
+
+
+                                                                                                  3
+
+IV.   Reopening Planning Process
+
+To develop a plan for the reopening of school, the sub-committees had the
+responsibility of identifying steps or strategies to support the delivery of instruction,
+set up District and school operations that are consistent with official guidance from
+the New York State Department of Health (NYSDOH), Westchester County
+Department of Health (WCDOH), New York State Education Department (SED) and
+the Center for Disease Control (CDC) and serve additional local needs identified
+within the school community. The Reopening Steering Committee that was
+established in 2020 to develop the District’s initial plans was called to service again to
+inform and vet the plans for the 2021-22 school year.
+
+
+V.    Reopening Plan Overview/Introduction
+
+The Irvington UFSD is committed to providing a safe environment for our students to
+grow and learn in and for our staff members to work in. To achieve this goal, the
+District will follow all applicable health and safety guidance provided by the New
+York State Department of Health and the New York State Education Department. To
+further provide the safest school environments possible, the District may take
+additional steps where appropriate. The District is also dedicated to providing the
+optimal learning experience for every student, every day. Therefore, regardless of the
+model of instruction that is delivered or the location from which students are
+learning, we will strive to provide a dynamic learning experience that will prepare
+students to achieve their personal best.
+
+The 2021-22 Irvington UFSD Reopening Plan outlines many aspects of school and
+District operations, while identifying adjustments to practices and procedures to
+reduce the risk of contracting and spreading illness.
+
+As the coronavirus/COVID-19 pandemic is ever-evolving, it is expected that guidance
+will be modified and that local conditions may warrant alterations to this plan.
+Therefore, this plan is intended to be a framework for the District and the school
+community to follow with the understanding that changes to the details outlined
+herein are likely to be adjusted.
+
+
+VI.   Summary of Plan Provisions
+
+Health and Safety
+Focused on preventive actions, schools and districts will be required to perform
+health checks and screenings, per DOH guidance, and recognize signs and
+symptoms of illness in students and staff; create plans to maximize social distancing
+and to manage and isolate ill persons until they can be sent home; instruct
+students and staff in proper hand and respiratory hygiene and wearing of
+appropriate face coverings; and institute cleaning and disinfection procedures in
+accordance with CDC and DOH guidance.
+
+                                                                                        4
+
+Facilities
+Promote social distancing while maintaining existing safety requirements designed
+to protect students. Provide adequate ventilation in school facilities. Continue to
+conduct mandatory fire and lockdown drills according to the existing statutory
+requirements, but with necessary social distancing at exits and gathering points
+outside the building, while still preparing students to respond in emergencies.
+
+Nutrition
+Provide all enrolled students with access to free school meals each school day
+whether school is in-person or remote; address all applicable health and safety
+guidelines; ensure compliance with Child Nutrition Program requirements; and
+communicate with families through multiple means.
+
+Transportation
+The school bus is an extension of the classroom and services should be provided to
+all students with consistency and equity. Irvington UFSD will: perform regular school
+bus disinfection measures; train students and school bus staff regarding social
+distancing on the bus, at stops, and at unloading times; and train students and staff
+regarding the wearing of masks. Both students and drivers will wear masks and
+social distance when possible on the bus. Irvington UFSD will continue to provide
+transportation to homeless students, students in foster care, those who attend
+religious, independent or charter schools – and those with disabilities – in
+accordance with District policy, IEP provision and applicable statutes and regulations
+as they apply.
+
+Social-Emotional Well-Being
+As school and district personnel adapt to the on-going challenges associated with
+the COVID-19 pandemic, ensuring intentional and meaningful inclusion of
+social-emotional learning (SEL) across all aspects of operating strategies is critical to
+support the well-being and success of students, staff, and families. Along with
+physical health and well-being, schools and districts must also prioritize
+social-emotional well-being – not at the expense of academics, but in order to create
+the mental, social, and emotional space for academic learning and growth to occur.
+
+School Schedules
+The Irvington UFSD has developed a comprehensive plan for a schedule that
+prioritizes in-person instruction, while also being prepared for remote instruction
+(distance learning) and a hybrid of both in-person and remote instruction if needed.
+To adhere to state and local health and safety guidelines and ensure social
+distancing practices, the District may modify its plans and schedules as needed.
+However, in such cases the District shall endeavor to collaborate with District
+stakeholders when considering alternate schedules. Plans will be clearly
+communicated, as practicable, to students, families and staff.
+
+
+
+
+                                                                                        5
+
+Attendance and Chronic Absenteeism
+Daily student attendance is essential to each student’s success and individual
+growth.   Therefore, the District and each school shall closely monitor daily
+attendance and will employ interventions when attendance is not satisfactory.
+
+Technology and Connectivity
+Adequate access to a computing device and high-speed broadband is essential for
+educational equity. The Irvington UFSD will ensure that all students and staff have
+access to the appropriate technology to support the mode of learning that is being
+employed at the time. This may include the distribution of personal Chromebooks to
+each student. Furthermore, if students are in need of internet access in their homes,
+the District will provide devices to ensure equity of access to learning and school
+programming. Families seeking this support may contact the school social worker,
+school counselor or building administration.
+
+Teaching and Learning
+Mandatory teaching and learning requirements include providing clear
+opportunities for equitable experiences for all students regardless of the
+instructional model used. The District will demonstrate flexibility in its approach to
+achieving curricular goals to ensure that all students receive a thorough and
+developmentally appropriate education.
+
+Special Education and English as New Language (ENL)
+The District will provide: a Free Appropriate Public Education (FAPE) consistent with
+the need to protect the health and safety of students with disabilities and those
+providing Special Education programs and services; meaningful parental
+engagement regarding the provision of services to their child; collaboration between
+the Committee on Preschool Special Education/Committee on Special Education
+(CPSE/CSE) and program providers representing the variety of settings where
+students are served; access to the necessary instructional and technological
+supports to meet the unique needs of students; and documentation of programs,
+services and communications with parents. ENL services shall continue to be
+provided to all students who are eligible.
+
+
+
+VII.   Communication: Family and Community Engagement
+
+The Irvington UFSD is committed to frequent, on-going communication between
+the District, schools, students’ families and the broader Irvington community.
+Community engagement, now more than ever, is essential to support student
+learning and community health needs. During the summer of 2021, the District and
+schools sent frequent communications providing the school community with
+updates on developments associated with the reopening of school and engaged a
+representative group of stakeholders to inform its operational plans for the 2021-22
+school year.
+
+
+                                                                                     6
+
+The District will maintain a comprehensive, informative website that inventory
+numerous resources for the school community. The District will also provide details
+on instructional experiences, social and emotional supports, community services,
+health and safety updates, and COVID-19 resources. Additionally, the District will
+utilize email, text messages and pre-recorded audio messages to convey important
+information. The Superintendent of Schools will facilitate regular Facebook Live
+broadcasts to provide regular updates to the school community.
+
+Website Resources: The District will maintain a centralized webpage for all
+District-level plans, resources and archived communications.
+
+Irvington UFSD Resource Page
+
+Social Media Resources: The District also uses Facebook and Instagram to
+communicate with the school community. However, the above referenced web
+pages should be considered the primary resources for official District and school
+communications. The District social media pages are:
+
+Facebook: https://www.facebook.com/IrvingtonUFSD/
+Instagram: https://www.instagram.com/irvingtonufsd/
+
+Should any member of the school community experience difficulties in receiving
+District  or   school    communications, please   send     an      email    to:
+Donna.Friedlander@IrvingtonSchools.org.
+
+
+
+VIII.   Health and Safety
+
+Site Safety Managers
+The District will establish a District-wide Safety Manager that will oversee continuous
+compliance with all aspects of this plan. Each District building will designate a Site
+Safety Monitor who will ensure compliance with this plan in their respective
+buildings and report directly to the District-wide Safety Manager.
+
+
+ School Name          Site Monitor Name      Phone          Email
+
+ District Manager     Carol Stein            914-269-5052   Carol.Stein@IrvingtonSchools.org
+
+ High School          Juliet                 914-269-5412   Juliet.Gevargis-Mizimakoski@
+                      Gevargis-Mizimakoski                  IrvingtonSchools.org
+
+ Middle School        David Sottile          914-269-5312   David.Sottile@IrvingtonSchools.org
+
+ Main Street School   Joyce Chapnick         914-269-5212   Joyce.Chapnick@IrvingtonSchools.org
+
+ Dows Lane E. S.      Andrea Kantor          914-269-5112   Andrea.Kantor@IrvingtonSchools.org
+
+
+
+                                                                                                  7
+
+Screening and Monitoring
+Students, staff members and visitors will not be required to complete a pre-entry
+health screening process as they had in the past. However, if individuals are
+experiencing any symptoms of illness, especially those associated with COVID-19
+(listed below), they are required to stay home and seek medical care.
+
+Important health reminders:
+
+   ●   Encourage staff to stay home if they are sick.
+   ●   Encourage parents to keep sick children home.
+   ●   Distribute a written protocol to instruct parents/guardians to be aware of
+       signs of illness in their child that require them to stay home from school.
+           ○     Rapid or difficulty breathing (without recent physical activity)
+           ○     Flushed cheeks
+           ○     Fatigue, and/or irritability; and
+           ○     Frequent use of the bathroom
+   ●   All employees, parents, and regular contractors will be required to assess their
+       health on a daily basis. This may include a temperature check, prior to
+       departing for school. All members of the school community should monitor
+       their health for the following symptoms of COVID-19:
+          ○    Fever or chills (100°F or greater);
+          ○    Cough;
+          ○    Shortness of breath or difficulty breathing;
+          ○    Fatigue;
+          ○    Muscle or body aches;
+          ○    Headache;
+          ○    New loss of taste or smell;
+          ○    Sore throat;
+          ○    Congestion or runny nose;
+          ○    Nausea or vomiting; and/or
+          ○    Diarrhea
+
+
+If they have had a positive COVID-19 test or have been directed to quarantine due to
+being a close contact with a confirmed case of COVID-19, they must stay home and
+immediately advise:
+   ●   For students: the school nurse and school principal and
+   ●   For employees: their immediate supervisor.
+
+All school community members are reminded that their diligence in monitoring
+their health, staying home when sick or displaying symptoms and seeking medical
+care, and communicating with the District/schools with transparency and honesty
+
+                                                                                     8
+
+are essential in supporting the District’s efforts to maintain healthy school
+environments and ensuring that the schools will remain open for in-person learning.
+
+Self-Reporting Exposures and Infections
+Employees and families who are alerted that they have come into close or proximate
+contact with a person with COVID-19 or have been alerted via tracing, tracking or
+another mechanism, are required to self-report to their employer or school at the
+time of the alert and shall not be permitted to remain or return to the building until
+they have completed quarantine
+
+In the event a student or District employee reports testing positive for COVID-19
+or is exposed to a person who tests positive for COVID-19:
+
+   ●   The student or District employee should immediately notify the District by
+       contacting:
+          ○   For students, the nurse’s office at the school which they attend or
+          ○   For employees, their supervisor
+          ○   If not assigned to any one school building, the employee should
+              contact: Lisa Tortora in the District Office at (914) 269-5060
+   ●   If a student or staff member tests positive for COVID-19, the District will
+       immediately notify state and local health departments and cooperate with
+       contact tracing efforts, including notification of potential contacts, such as
+       workers or visitors who had close contact with the individual, while
+       maintaining confidentiality required by state and federal law and regulations.
+
+Management of Sick Persons
+In the event a person becomes ill with COVID-like symptoms while at school, the
+following procedure will be followed:
+
+   ●   Staff will be trained on how to identify signs of illness in students and staff and
+       on the procedure for sending symptomatic persons to the school nurse or
+       other designated personnel in each building.
+   ●   The person will be moved to a predetermined isolation room or area to
+       separate anyone who exhibits COVID-like symptoms.
+   ●   The person will be assessed by a registered nurse at the school.
+   ●   Transportation arrangements will be made to transport the sick person home
+       or to a healthcare facility.
+   ●   Areas used by a sick person will be closed off and not used again before
+       cleaning and disinfection.
+   ●   When possible, custodial staff will wait 24 hours (or as long as possible) before
+       cleaning and disinfecting the area in accordance with procedures contained
+       in this plan. If it is not possible to wait 24 hours, wait as long as possible.
+
+
+
+                                                                                        9
+
+   ●   Persons who had close contact with a person diagnosed with COVID-19 may
+       be advised to stay home and self-monitor for symptoms and to follow CDC
+       guidance if symptoms develop. If a person does not have symptoms, they will
+       be instructed to follow appropriate CDC guidance for home isolation.
+   ●   Sick staff members and children will be advised not to return until they have
+       met CDC criteria to discontinue home isolation.
+   ●   The District will consult with the local health department regarding the
+       current COVID-19 positivity rate and Local Hospital Capacity when making
+       decisions on school closures.
+
+In the event that the school is notified that an employee or student has been
+exposed to COVID-19 and are quarantined, or if a family member has been
+diagnosed with or presumed to have COVID-19 and/or is being isolated, the
+following procedure will be followed:
+
+   ●   Personnel and students with known exposure to someone with diagnosed or
+       presumed COVID-19 will be instructed to self-quarantine at home for the
+       period of time designated by the NYSDOH or WCDOH. Note: those who are
+       fully vaccinated may not have to quarantine if they are asymptomatic.
+   ●   If a student is excluded from school due to COVID-19 symptoms or has had a
+       positive COVID-19 test, his or her siblings or other students living in the same
+       household will be questioned, and if they exhibit symptoms, they will also be
+       excluded from school. If they do not exhibit symptoms, they may still be
+       excluded from school and asked to self-quarantine.
+   ●   The custodial staff will be informed so that all desks, lockers, and workspaces
+       of the person are thoroughly disinfected. If the school is not open when
+       notification occurs, the custodial staff will wait 24 hours or as long as possible
+       prior to disinfecting and instead will block off the area so that others do not
+       have contact. However, if that is not possible or school is in session, the
+       cleaning will occur immediately.
+
+These protocols will be updated as any shifts in guidance are provided by
+NYSDOH, WCDOH, and NYSED.
+
+Contact Tracing
+Contact Tracing assessing and informing those with potential exposure is a
+fundamental control strategy for minimizing spread within a group population. The
+NYSDOH and WCDOH will provide guidelines that the IUFSD will employ. In all
+cases, the school and District will communicate with individuals deemed to be close
+contacts and shall report their names and contact information to the NYSDOH.
+Current guidance from the NYSED provides the following:
+
+“The CDC guidance document defines a close contact as someone who was within
+six (6) feet of an infected person (laboratory-confirmed or a clinically compatible
+
+                                                                                       10
+
+illness) for a cumulative total of 15 minutes or more over a 24-hour period (for
+example, three individual 5-minute exposures for a total of 15 minutes).
+
+Exception: In the K–12 indoor classroom setting, the close contact definition excludes
+students who were within 3 to 6 feet of an infected student (laboratory-confirmed or
+a clinically compatible illness) if both the infected student and the exposed
+student(s) correctly and consistently wore well-fitting masks the entire time. This
+exception does not apply to teachers, staff, or other adults in the indoor classroom
+setting.
+
+According to the CDC, people who are fully vaccinated do NOT need to quarantine
+after contact with someone who had COVID-19 unless they have symptoms.
+However, fully vaccinated people should get tested 3-5 days after their exposure,
+even if they do not have symptoms, and wear a mask indoors in public for 14 days
+following exposure or until their test result is negative.”
+
+Healthy Hygiene Practices
+The following healthy hygiene practices will be in place at all District buildings:
+   ●   Signage will be installed in each school or office to provide direction on how to
+       best wash or sanitize hands.
+   ●   Hand sanitizer containing 60% alcohol will be readily available in common
+       areas of all school buildings.
+   ●   Elementary students will be brought to hand washing locations prior to eating
+       or handling food.
+   ●   Posters describing handwashing steps have been installed near sinks.
+   ●   Water fountains will be only operable as guided by NYSDOH and WCDOH
+       guidelines.
+   ●   The District will ensure all students are trained on how to follow new COVID-19
+       protocols safely and correctly, including but not limited to hand hygiene, the
+       proper use of face coverings, social distancing, and respiratory hygiene.
+
+Face Coverings
+The following procedures regarding face coverings will be in place at all District
+buildings:
+
+   ●   In accordance with the Commissioner’s determination issued pursuant to 10
+       NYCRR 2.60, all students, personnel, teachers, administrators, contractors, and
+       visitors must wear masks at all times indoors, regardless of vaccination status.
+   ●   Staff in personal/individual offices or classrooms will not have to wear masks
+       so long as they are not in the company of others, adhering to social distancing
+       requirements and practicing proper hygiene.
+   ●   Acceptable face coverings for COVID-19 include but are not limited to
+       cloth-based face coverings, and surgical masks that cover both the mouth and
+
+                                                                                      11
+
+       nose. Face shields worn without other face coverings are not considered
+       adequate protection or source control against COVID-19 and should not be
+       used. Additionally, “gaiters” and face masks with valves are not permitted.
+   ●   The District will obtain and maintain adequate supplies of disposable face
+       coverings for school staff, students who forget their masks, and PPE for use by
+       school health professionals
+   ●   Face coverings must be cleaned or replaced after use or when damaged or
+       soiled, may not be shared, and should be properly stored or discarded.
+   ●   Face shields and smocks will be utilized by staff when required to be in close
+       contact with students and when there is a high risk of transmission of bodily
+       fluids
+   ●   Students who are unable to medically tolerate a face covering, including
+       students where such covering would impair their physical health or mental
+       health will not be subject to the required use of a face covering. In these
+       cases, medical documentation must be provided to the school health office.
+
+Arrival and Dismissal
+To reduce close contact of persons entering and exiting the building, the District will:
+   ●   Stagger arrival times of both buses and parent transportation to reduce
+       density
+   ●   Establish designated areas for student drop-off and pick-up,
+   ●   Limit contact and entry of parents/guardians into the building, to the greatest
+       extent possible.
+   ●   Utilize multiple supervised points of entry into each school building to reduce
+       bottlenecks, close contact and hallway travel to classrooms.
+   ●   Require face masks to be worn by students, staff, and parents during the
+       arrival and dismissal process.
+   ●   Install hand sanitizer dispensers at all entrances to the facility.
+
+Visitor Management and the Drop-Off of Items
+A modified visitor management process will be utilized at all school buildings as
+follows:
+   ●   Only essential visitors, including parents, will be permitted into the school
+       buildings.
+   ●   Essential visits consist of:
+          ○ Pre-scheduled meetings that cannot be handled virtually. Parents will
+             be provided the opportunity to meet with school personnel virtually via
+             Google Meet or Zoom including parent/teacher conferences, which
+             should be limited to virtual meetings.
+          ○   Picking up of sick persons, with ill students being escorted out of the
+              building to meet their parent/guardian.
+
+
+                                                                                      12
+
+             ○   Other visits deemed essential by the school administration.
+      ●   All persons entering the building will be required to wear face masks prior to
+          being permitted entry into the building. Disposable masks will be provided to
+          visitors as needed.
+      ●   Touchless hand sanitizer dispensers will be installed at building entrances,
+          check-in locations and any delivery locations, such as loading docks.
+      ●   Drop-off procedures of “forgotten student items” has been modified as
+          follows:
+             ○   Most drop-offs will be prohibited unless prior approval is obtained from
+                 the building administrator.
+             ○   Drop-off bins will be eliminated.
+             ○   Medication drop-offs should be coordinated with the school health
+                 office.
+             ○   Forgotten lunch drop-offs will be prohibited with the exception of
+                 students who may have a food allergy and cannot safely be provided a
+                 school lunch.
+      ●   A designated drop-off area will be established for all deliveries (e.g., FedEx,
+          UPS) to prevent delivery persons from entering the building.
+
+
+
+IX.       Social Distancing and Facilities
+
+Social Distancing
+All building occupants will be required to maintain social distancing of at least three
+(3) feet from one another wherever possible.
+
+In order to accommodate social distancing in each school building, the District will
+take the following general actions:
+      ●   Some large common areas such as auditoriums and gymnasiums, may be
+          repurposed as instructional spaces to accommodate a larger number of
+          students in the same class.
+      ●   Furnishings may be removed from rooms to maximize capacity.
+      ●   Desks will be arranged to allow for three (3) feet of distancing where possible.
+      ●   Outdoor or off-site spaces may be utilized as appropriate.
+      ●   Specific isolation rooms will be designated in each school health office.
+
+The NYSDOH’s guidance of September 3, 2021 specifically states the following:
+
+Because of the importance of in-person learning, schools should implement physical
+distancing to the extent possible within their structures, consistent with the
+following, but should not exclude students from in-person learning in order to meet
+a minimum distance requirement.
+                                                                                         13
+
+   ●   A distance of at least 3 feet is strongly recommended between all students.
+   ●   A distance of at least 6 feet is recommended between students and
+       teachers/staff, and between teachers/staff who are not fully vaccinated.
+   ●   Universal masking is required according to the Commissioner’s masking
+       determination issued pursuant to 10 NYCRR 2.60 for indoor settings. Should
+       there be a time when the determination for universal masking in schools is
+       lifted, masking must occur when physical distance cannot be maintained.
+   ●   Maximize physical distance as much as possible when moving through the
+       food service line and while eating (especially indoors).
+   ●   People do not need to wear masks when eating, drinking, singing, or playing a
+       wind instrument; when masks are removed for these purposes, individuals
+       must be spaced six feet apart.
+
+Cleaning and Disinfecting
+The District will adhere to hygiene, cleaning, and disinfection requirements from the
+CDC and the DOH. The custodial staff of each building will perform frequent
+cleaning of high touch surfaces throughout the school day and will use registered
+disinfectants identified by the Environmental Protection Agency (EPA) as effective
+against COVID 19. The following additional measures will be taken:
+
+   ●   Classroom, office spaces and conference rooms will be provided with
+       appropriate disinfectant wipes (as available) for employee self-cleaning of
+       shared and frequently touched surfaces as practical.
+   ●   Every 60-70 days, we will apply BioProtect to most surfaces in our buildings.
+       BioProtect is a durable, bound antimicrobial technology that protects surfaces
+       for up to 90 days without reapplication. It creates a non-receptive surface for
+       incoming microbes which physically disrupts and inhibits the growth of a
+       large array of bacteria, molds, mildew, fungi and algae. Extensive third-party
+       testing has conclusively proven that it also destroys MRSA, C. Diff. and H1N1.
+       Testing is ongoing for COVID-19.
+
+Heating and Cooling
+  ● The percentage of outdoor air will be increased where possible (e.g., using
+      economizer modes of HVAC operations and discouraging use of room air
+      conditioners).
+   ●   Natural ventilation will be increased by opening windows if possible and safe
+       to do so to increase outdoor air dilution of indoor air when environmental
+       conditions allow.
+   ●   Building ventilation systems will periodically be run during unoccupied times
+       to maximize dilution ventilation.
+   ●   Where possible, air filters have been upgraded to MERV 13.
+
+
+
+
+                                                                                    14
+
+      ●   Portable air purifiers with HEPA filters will be added in spaces where masks
+          may be removed such as cafeterias and music rooms or in high risk areas such
+          as our nurse offices.
+
+Emergency Drills
+Education Law § 807 requires that schools conduct eight (8) evacuation and four (4)
+lockdown drills each school year. When planning drills, the District, in consultation
+with our security consultant, may modify the drill procedures to minimize risk of
+spreading infection. Conducting drills is an important part of keeping students and
+staff safe in an emergency. As such, it may be necessary for the District to conduct
+drills in the 2021-22 school year using protocols that are different from past years.
+
+Regardless of the modification used when conducting a drill, students will be
+instructed that if it was an actual emergency that required evacuation or lockdown,
+the most imminent concern is to get to safety; maintaining social distancing in an
+actual emergency that requires evacuation or lockdown may not be possible and
+should not be the first priority. If schools re-open with a hybrid in-person model,
+such as one where students attend school on alternate days to reduce the
+occupancy of the school building, schools will ensure that all students are receiving
+instruction in emergency procedures, and participating in drills while they are in
+attendance in-person.
+
+
+
+X.        Child Nutrition
+
+The District/school will provide all students enrolled with access to school meals each
+school day. This includes students in attendance at school and students learning
+remotely due to quarantine or isolation. Our program will address all applicable
+health and safety guidelines and comply with Child Nutrition Program guidelines.
+Cafeteria, dining and snack procedures may be modified to comply with NYSDOH
+and WCDOH guidelines. Specific protocols will be communicated by each school.
+At this time, standard meals (not inclusive of ala carte items) will continue to be free
+of charge for the 2021-22 school year.
+
+
+
+XI.       Transportation
+
+The District will conduct transportation activities that are consistent with
+state-issued public transit guidance and NYSED School Reopening guidelines. These
+guidelines state that students and school staff must wear acceptable face coverings
+at all times on school buses (e.g., entering, exiting, and seated) and should maintain
+appropriate social distancing to the extent practicable.
+
+Students who are able, will be required to wear masks to the extent practicable;
+however, students whose physical or mental health would be impaired are not
+required to wear a face covering, and will be appropriately socially distanced.
+
+                                                                                      15
+
+Members of the same household may be seated in the same seat. To the extent
+possible, seating will be arranged to provide social distance on the bus.
+
+All students are entitled to transportation by the District to the extent required by
+law and District policy. Transportation departments do not have the ability or the
+right to deny transportation for children who are in foster care, homeless or attend
+private or charter schools. Parents who may have missed the due date to request out
+of district transportation due to a reasonable excuse may file a 310 appeal with the
+Commissioner of Education.
+
+School Bus Staff
+School bus drivers, monitors, attendants and mechanics are required to perform a
+self-health assessment for symptoms of COVID-19 before arriving at work. If
+personnel are experiencing any of the symptoms of COVID-19, they will notify their
+employer/supervisor as per the reporting policies and seek medical attention.
+
+School bus drivers and monitors must wear a face covering along with an optional
+face shield. Transportation staff (drivers, monitors, attendants, mechanics and
+cleaners) will be trained and provided with periodic refreshers on the proper use of
+PPE and the signs and symptoms of COVID-19. Transportation departments/carriers
+will provide PPE such as masks and gloves for drivers, monitors and attendants in
+buses as well as hand sanitizer for all staff in their transportation locations such as
+dispatch offices, employee lunch/break rooms and/or bus garages. Drivers, monitors
+and attendants who must have direct physical contact with a child must wear
+gloves.
+
+Drivers will maintain a passenger log for each run to assist with contact tracing when
+needed. Whenever possible, a single driver will be assigned to the same bus and
+same routes to minimize mixing.
+
+
+
+XII.   Social-Emotional Well-Being
+
+As District and school personnel adapt to environments that result in substantially
+reduced time spent interacting in-person, ensuring intentional and meaningful
+inclusion of social-emotional learning (SEL) across all aspects of operating strategies
+is critical to supporting the well-being and success of students, staff, and families.
+Along with physical health and well-being, our schools and District must prioritize
+social-emotional well-being - not at the expense of academics, but in order to create
+the mental, social, and emotional space for academic learning to occur.
+
+We recognize that social and emotional well-being must be prioritized during
+transitions back to school and for as long as necessary to appropriately support
+student needs; physical and emotional safety is necessary for the brain and body to
+be ready to learn. We also recognize the critical need to address adults’ social and
+emotional needs before the return to school and on an ongoing basis. Adults must
+have systems of support including meaningful peer relationships, opportunities to
+
+                                                                                     16
+
+connect, and resources to support self-care. Without these supports in place, adults
+will not have optimal capacity to support the needs of students and families.
+Families are also encouraged to contact Student Support personnel in their child’s
+school if their child needs social-emotional support.
+
+
+
+XIII.   School Schedules
+
+To begin the 2021-22 school year, all IUFSD schools will open with 100% daily student
+attendance. Should orders from governmental agencies require a model of student
+attendance with fewer individuals present on a daily basis, the District will apply all
+guidance available at that time to inform its planning and will consider those models
+of attendance that were implemented during the 2020-21 school year.
+
+
+
+XIV.    2021-22 Reopening Plan Overview
+
+To provide for the health and safety of all students and staff members the following
+measures will be implemented:
+
+Mode of Student Attendance
+The Irvington schools will operate with in-person learning for all students daily. No
+hybrid or remote learning will be implemented or offered at this time.
+
+Face Masks
+In accordance with the Commissioner’s determination issued pursuant to 10 NYCRR
+2.60, all students, personnel, teachers, administrators, contractors, and visitors must
+wear masks at all times indoors, regardless of vaccination status. Outdoor mask
+breaks will be provided for all. People do not need to wear masks when eating,
+drinking, singing, or playing a wind instrument; when masks are removed for these
+purposes, individuals must be spaced six feet apart to the extent possible.
+
+Social Distancing
+Social distancing in all school spaces will be three (3) feet when possible. Because
+of the importance of in-person learning, schools should implement physical
+distancing to the extent possible within their structures, consistent with the
+following, but should not exclude students from in-person learning in order to meet
+a minimum distance requirement.
+
+Transportation
+While riding in school buses all occupants will wear face masks and windows will be
+open to maximize ventilation. Students are reminded to bring a sweatshirt or jacket
+to school as the weather cools to ensure their comfort on the school bus.
+
+Daily Health Screening
+The use of a daily health screener is no longer recommended and, therefore, will not
+be used at the start of the 2021-22 school year. All school community members are
+reminded that their diligence in monitoring their health, staying home when sick or
+displaying symptoms and seeking medical care, and communicating with the
+
+                                                                                     17
+
+District/schools with transparency and honesty are essential in supporting the
+District’s efforts to maintain healthy school environments and ensuring that the
+schools will remain open for in-person learning.
+
+Contact Tracing and Quarantine/Isolation Requirements
+The Irvington UFSD will employ all NYSDOH and WCDOH quarantine requirements.
+While new guidelines have yet to be published, it is expected that revised protocols
+will be introduced for the 2021-22 school year, such as those outlined by the NYSED
+below, that will lessen the number of individuals who will need to quarantine when
+a positive case of COVID-19 is identified. This shift in practice is the result of the
+known benefits of vaccination and mask wearing.
+
+Current guidance from the NYSED provides the following:
+
+“The CDC guidance document defines a close contact as someone who was within
+six (6) feet of an infected person (laboratory-confirmed or a clinically compatible
+illness) for a cumulative total of 15 minutes or more over a 24-hour period (for
+example, three individual 5-minute exposures for a total of 15 minutes).
+
+Exception: In the K–12 indoor classroom setting, the close contact definition excludes
+students who were within 3 to 6 feet of an infected student (laboratory-confirmed or
+a clinically compatible illness) if both the infected student and the exposed
+student(s) correctly and consistently wore well-fitting masks the entire time. This
+exception does not apply to teachers, staff, or other adults in the indoor classroom
+setting.
+
+According to the CDC, people who are fully vaccinated do NOT need to quarantine
+after contact with someone who had COVID-19 unless they have symptoms.
+However, fully vaccinated people should get tested 3-5 days after their exposure,
+even if they do not have symptoms, and wear a mask indoors in public for 14 days
+following exposure or until their test result is negative.”
+
+Students who are required to quarantine, will continue to have access to learning via
+the following models, which will be implemented following a 24 hour period to
+coordinate all necessary arrangements:
+
+     Elementary Schools
+     One teacher will be designated in each school to support student learning
+     remotely through the use of Google Meet. Classroom teachers will provide all
+     necessary assignments and the remote learning teacher will provide direct
+     learning support for the students who are in quarantine or isolation.
+
+     Secondary Schools
+     Students will be able to view a live stream of classroom instruction and all
+     assignments and learning resources will be posted in Google Classroom for
+     students to access while in quarantine or isolation.
+
+Medically Fragile Individuals
+Any members of the school community, students or staff members, whose medical
+
+                                                                                    18
+
+needs may necessitate accommodations must present documentation from their
+treating physician. This documentation will be reviewed by the appropriate District
+personnel and the District Medical Director to evaluate any necessary
+accommodations.
+
+Surveillance Testing
+The District will collaborate with the WCDOH to implement on-going surveillance
+testing for approximately 20% of students and staff weekly. The surveillance testing
+program will utilize a saliva-based PCR test. Consent forms will be distributed by the
+District to each staff member and student’s parents/guardians for necessary
+authorization prior to any testing being conducted. Specific details on the
+surveillance testing program will be communicated to the school community prior
+to implementation.
+
+Desk Barriers
+Desk barriers will not be used in any classrooms, K-12. However three (3) feet of social
+distancing will be followed where possible. Barriers will continue to be used in
+common spaces such as on security desks and in school offices.
+
+Hallways and Stairwells
+Hallways and stairwells will not be laned for one-way traffic. However, students and
+staff members will still be expected to maintain social distancing as much as
+possible as they move about these spaces.
+
+Lunch and Snack Periods
+Cafeteria, lunch and snack plans (elementary schools) will comply with all NYSDOH
+and WCDOH guidelines. School-specific plans will be communicated by each school
+principal.
+
+Athletics, Recess, Music, Drama, Physical Education, and Extracurricular
+Programs
+The District plans to provide all traditional programs and experiences for its students.
+Program or event-specific requirements may be implemented based on the nature
+of the activity and in compliance with all applicable guidelines.
+
+Outdoor recess will be facilitated as in the past, without masks. However, students
+will be encouraged to to maintain three (3) feet of distance between themselves
+when possible. Indoor recess will introduce the need to wear masks and modify
+activity. The CDC recommends that unvaccinated individuals wear masks during
+recess and physical education classes.
+
+Large Group Indoor Gatherings
+Events will be evaluated on a case-by-case basis to determine whether they can be
+facilitated safely. In cases where three (3) feet of social distancing cannot be
+provided, events will be held virtually or reformatted to reduce attendance.
+
+School Visitors and Special Events
+The District will limit visitors to schools for indoor activities. Visitors who are
+permitted to enter the building for necessary business may be required to provide
+information for contact tracing purposes.
+
+It has been determined that the annual school Open House events and the fall
+elementary school parent-teacher conferences will be held virtually.
+
+                                                                                      19
+
+Field Trips
+Outdoor field trips will be permitted and walking trips to explore the many historical
+and natural resources in the community will be encouraged. Field trips that would
+take place at an indoor venue will not be permitted this fall and will be reevaluated in
+January 2022.
+
+Facility Cleaning and School Ventilation
+The District will continue to implement stringent cleaning and sanitization practices
+in each school. Cleaning of common spaces and high-contact items such as door
+handles will be performed throughout each school day. Quality air circulation will
+continue in each classroom. Please be reminded that the District has installed the
+recommended MERV13 filters where applicable.
+
+Vaccinations
+As you know, vaccinations are highly recommended by the Center for Disease
+Control (CDC) and the New York State Department of Health (NYSDOH). It remains a
+personal choice as to whether one is vaccinated. However, should one be vaccinated,
+in accordance with the soon-to-be-released WCDOH guidelines, they will be far less
+likely to be quarantined in the event of a close contact with an individual who has
+contracted COVID-19. The District will continue to partner with WCDOH to facilitate
+vaccination clinics for those who are interested.
+
+The mitigation strategies outlined above are not all-inclusive, will continue to be
+updated as new guidance is released and will be vetted with the District’s Medical
+Director and the Reopening Committee.
+
+
+
+
+                                         ####
+
+
+
+
+                                                                                     20
+

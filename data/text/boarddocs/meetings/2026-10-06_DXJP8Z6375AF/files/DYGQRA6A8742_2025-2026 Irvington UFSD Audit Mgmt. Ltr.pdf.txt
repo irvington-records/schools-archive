@@ -1,0 +1,1123 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/pfiles/DYGQRA6A8742/$file/2025-2026%20Irvington%20UFSD%20Audit%20Mgmt.%20Ltr.pdf | DATE: 2026-10-06 | TITLE: October 6, 2026 Regular Meeting | 11.2 Acceptance of the 2025-26 Audit Report and Financial Statements | DYGQRA6A8742_2025-2026 Irvington UFSD Audit Mgmt. Ltr.pdf
+
+     Irvington Union Free School District
+Report to Those Charged with Governance
+                           June 30, 2026
+
+
+                           September 29, 2026
+
+
+
+
+                                     Prepared by
+
+
+
+                         Jeffrey C. Shaver, CPA
+                                        Partner
+                            jshaver@pkfod.com
+
+
+September 29, 2026
+
+
+The Board of Education
+Irvington Union Free School District
+6 Dows Lane
+Irvington, New York 10533
+
+
+We have audited the financial statements of Irvington Union Free School District, New York (“School
+District”) as of and for the year ended June 30, 2026 and have issued our report thereon dated
+September 29, 2026.
+
+Professional standards require that we provide you with information about our responsibilities under
+generally accepted auditing standards and Government Auditing Standards as well as certain
+information related to the planned scope and timing of our audit. We have communicated such
+information in our engagement letter to you dated April 28, 2026. Professional standards also require
+that we communicate to you the following information related to our audit.
+
+We are pleased to be of service to you and the School District and appreciate the opportunity to present
+our audit findings to you. We are also pleased to discuss other matters which may be of interest to you
+and to answer any questions you may have.
+
+This information is intended solely for the information and use of Those Charged with Governance and
+management of the School District and is not intended to be and should not be used by anyone other
+than these specified parties.
+
+Very truly yours,
+
+
+
+
+PKF O’Connor Davies, LLP
+
+
+
+
+                                                                                                      2
+
+(This page intentionally left blank)
+
+Contents
+Status of the Audit ................................................................................................................................ 4
+Required Communications and Other Matters....................................................................................... 5
+Internal Control Over Financial Reporting ........................................................................................... 10
+On the Horizon.................................................................................................................................... 12
+
+
+
+
+Appendices
+1 – Corrected Misstatements
+2 – Management Representation Letter
+3 – About PKF O’Connor Davies, LLP
+
+
+
+
+                                                                                                                                                    3
+
+(This page intentionally left blank)
+
+Status of the Audit
+Audit of Financial Statements
+     Audit fieldwork is complete
+     The financial statements have been reviewed by management and issued.
+     We have issued an unmodified report on the financial statements.
+
+
+
+
+                                                                              4
+
+Required Communications and Other Matters
+
+     Required Item                                        Comments
+
+Auditor’s responsibility     We have communicated such information in our engagement letter to
+under professional           you dated April 28, 2026. Generally, these responsibilities include:
+standards and planned
+scope and timing of the         •   Forming and expressing an opinion on the financial
+audit                               statements.
+                                •   Obtaining reasonable assurance that the financial statements
+                                    are free of material misstatements, whether caused by error or
+                                    fraud.
+                                •   Accumulating and communicating uncorrected misstatements
+                                    to Those Charged with Governance (“TCWG”).
+                                •   Maintaining professional skepticism.
+                                •   Communicating audit related matters that are, in our
+                                    professional judgment, significant to TCWG.
+
+Supplementary information    Our audit was conducted for the purpose of forming opinions on the
+accompanying the financial   financial statements that collectively comprise the School District’s
+statements                   basic financial statements. The supplementary information is
+                             presented for purposes of additional analysis and is not a required part
+                             of the basic financial statements. Such information is the responsibility
+                             of management and was derived from and relates directly to the
+                             underlying accounting and other records used to prepare the basic
+                             financial statements. The information has been subjected to the
+                             auditing procedures applied in the audit of the basic financial
+                             statements and certain additional procedures, including comparing
+                             and reconciling such information directly to the underlying accounting
+                             and other records used to prepare the basic financial statements or to
+                             the basic financial statements themselves, and other additional
+                             procedures in accordance with auditing standards generally accepted
+                             in the United States of America.
+
+Required supplementary       We have applied certain limited procedures to the required
+information accompanying     supplementary information in accordance with auditing standards
+the financial statements     generally accepted in the United States of America, which consisted
+                             of inquiries of management about the methods of preparing the
+                             information and comparing the information for consistency with
+                             management’s responses to our inquiries, the basic financial
+                             statements, and other knowledge we obtained during our audit of the
+                             basic financial statements. We do not express an opinion or provide
+                             any assurance on the information because the limited procedures do
+                             not provide us with sufficient evidence to express an opinion or provide
+                             any assurance.
+
+
+
+                                                                                                  5
+
+     Required Item                                         Comments
+
+Other information in           Our responsibility as auditors for other information in documents
+documents containing           containing the audited financial statements does not extend beyond
+audited financial statements   the financial information identified in the auditors’ report, and we are
+                               not required to perform any procedures to determine that such other
+                               information is properly stated.
+
+Our responsibilities under     In connection with our audit we performed tests of the Entity’s
+Yellow Book                    compliance with certain provisions of laws, regulations, contracts, and
+                               grants. However, the objective of our tests was not to provide an
+                               opinion on compliance with such provisions.
+
+Responsibilities of            Management’s responsibilities include:
+management and TCWG
+                                  •   The fair presentation of the financial statements, including the
+                                      selection of appropriate accounting policies.
+                                  •   Establishing and maintaining effective internal control.
+                                  •   Complying with laws, regulations, grants and contracts.
+                                  •   Providing the auditors with all financial records and related
+                                      information and a signed representation letter.
+                                  •   Evaluate if there are any conditions or events, considered in
+                                      the aggregate that raise substantial doubt about the Entity’s
+                                      ability to continue as a going concern for twelve months beyond
+                                      the financial statement date, including any currently known
+                                      information that may raise substantial doubt shortly thereafter.
+                                  •   Setting the proper tone at the top.
+                                  •   Designing and implementing policies and controls to prevent
+                                      and detect fraud
+
+                               TCWG are responsible for communicating with the auditors and
+                               overseeing the financial reporting process.
+
+
+
+
+                                                                                                   6
+
+     Required Item                                       Comments
+
+Qualitative aspects of     Management is responsible for the selection and use of appropriate
+accounting practices -     accounting policies. The significant accounting policies are described
+Accounting Policies        in Note 1 to the financial statements. No new accounting policies were
+                           adopted and the application of existing policies was not changed
+                           during the year, except for the adoption of the provisions of
+                           Governmental Accounting Standards Board Statement No. 103,
+                           “Financial Reporting Model Improvements”, and Governmental
+                           Accounting Standards Board Statement No. 104, “Disclosure of
+                           Certain Capital Assets”.
+                           The accounting policies of the Entity conform to U.S. generally
+                           accepted accounting principles as applicable to state and local
+                           governments. The Entity’s reports are based on all applicable GASB
+                           pronouncements.
+                           We noted no transactions entered into by the Entity during the year for
+                           which there is a lack of authoritative guidance or consensus.
+                           All significant transactions have been recognized in the financial
+                           statements in the proper period.
+
+Qualitative aspects of     No matters have come to our attention that would require us to inform
+accounting practices –     you about the methods used to account for significant unusual
+Significant Unusual        transactions.
+Transactions
+
+Qualitative aspects of     Accounting estimates are an integral part of the financial statements
+accounting practices -     prepared by management and are based on management's
+Accounting Estimates and   knowledge and experience about past and current events and
+Management’s Judgment      assumptions about future events.
+
+                           Certain accounting estimates are particularly sensitive because of
+                           their significance to the financial statements and because of the
+                           possibility that future events affecting them may differ significantly from
+                           those expected. The most sensitive estimates affecting the School
+                           District's financial statements were:
+
+                              Actuarial assumptions related to the Other Postemployment
+                               Benefit Liability (“OPEB”)
+                              Actuarial assumptions and proportionate share calculations
+                               related to pension liabilities
+                              Asset lives for depreciable capital assets
+                              Estimates of certain receivable balances and allowances for
+                               uncollectible amounts
+                              Estimates for compensated absences liabilities
+                              Estimates for certain operating and long-term liabilities
+
+
+
+                                                                                                  7
+
+      Required Item                                   Comments
+
+Qualitative aspects of   Certain financial statement disclosures involve significant judgment
+accounting practices -   and are particularly sensitive because of their significance to financial
+Financial Statement      statement users. The most sensitive disclosure affecting the financial
+Disclosures              statements are:
+
+                               Other postemployment benefit liabilities payable
+                               Pension plan information
+                               Outstanding bonded indebtedness
+                               Fund balances
+                         The financial statement disclosures are neutral, consistent and clear.
+
+Going Concern            The auditor is required to communicate with TCWG events or
+                         conditions that, when considered in the aggregate; indicate a
+                         substantial doubt about the Entity’s ability to continue as a going
+                         concern for a reasonable period of time.
+                         We concur with management’s assessment that the Entity will
+                         continue as a going concern for one year from the balance sheet date.
+
+Significant risks        Significant risks are defined as risks that require special audit
+                         consideration without regard to identified internal controls related to
+                         those risks. In most audits, one or more significant risks normally arise.
+                         We have identified the following significant risks in connection with our
+                         audit.
+                         Management override of internal controls
+                         Management is in a unique position to perpetrate fraud because
+                         of management’s ability to manipulate accounting records and prepare
+                         fraudulent financial statements by overriding controls that otherwise
+                         appear to be operating effectively. Although the level of risk
+                         of management override of controls will vary from entity to entity, the
+                         risk is, nevertheless, present in all entities.
+                         Improper revenue recognition due to fraud
+                         Auditing standards require the auditor to ordinarily presume
+                         that improper revenue recognition is a fraud risk on all audit
+                         engagements unless the auditor can conclude that the risk is not
+                         applicable to the entity.
+                         The audit procedures applied as a result of the aforementioned
+                         significant risks were designed to and have reduced the risk of material
+                         misstatement to low.
+                         Our audit procedures did not identify any management override of
+                         internal controls or improper revenue recognition.
+
+
+
+                                                                                               8
+
+     Required Item                                          Comments
+
+Difficulties encountered in    We encountered no significant difficulties in dealing with management
+performing the audit           in performing and completing our audit.
+
+Corrected and uncorrected      Professional standards require us to accumulate all known and likely
+misstatements                  misstatements identified during the audit (including passed
+                               adjustments and omitted financial statement disclosures), other than
+                               those that are clearly trivial, and communicate them to the appropriate
+                               level of management. Management has corrected all such
+                               misstatements.
+
+                               In addition, corrected misstatements that were brought to the attention
+                               of management as a result of our audit procedures are also included
+                               in Appendix 1.
+
+Disagreements with             For purposes of this communication, a disagreement with
+management                     management is a matter, whether or not resolved to our satisfaction,
+                               concerning financial accounting, reporting, or auditing, which could be
+                               significant to the financial statements or the auditors’ report. We are
+                               pleased to report that no such disagreements arose during the course
+                               of the audit.
+
+Management                     We have requested certain representations from management that are
+representations                included in the management representation letter (see Appendix 1).
+
+Management’s                   In some cases, management may decide to consult with other
+consultations with other       accountants about auditing and accounting matters, similar to
+accountants                    obtaining a “second opinion” on certain situations. If a consultation
+                               involves application of an accounting principle to the Entity’s financial
+                               statements or a determination of the type of auditors’ opinion that may
+                               be expressed on those statements, our professional standards require
+                               the consulting accountant to check with us to determine that the
+                               consultant has all the relevant facts. To our knowledge, there were no
+                               such consultations with other accountants.
+
+Auditor independence           We affirm that PKF O’Connor Davies, LLP is independent with respect
+                               to the School District in accordance with relevant professional
+                               standards.
+
+Significant issues discussed   We generally discuss a variety of matters, including the application of
+with management prior to       accounting principles and auditing standards, with management each
+retention                      year prior to retention as the Entity’s auditor. However, these
+                               discussions occurred in the normal course of our professional
+                               relationship and our responses were not a condition to our retention.
+
+
+                                                                                                    9
+
+Internal Control over Financial Reporting
+In planning and performing our audit of the financial statements, we considered the Irvington Union Free
+School District, New York (“School District”) internal control over financial reporting (“internal control”)
+as a basis for designing audit procedures that are appropriate in the circumstances for the purpose of
+expressing our opinion on the financial statements, but not for the purpose of expressing an opinion on
+the effectiveness of the School District’s internal control. Accordingly, we express no such opinion.
+
+Professional standards require that we communicate to you, in writing, all significant deficiencies and/or
+material weaknesses in internal control that we identify in performing our audit. For this purpose,
+deficiencies in internal control are categorized as follows:
+
+   A deficiency in internal control exists when the design or operation of a control does not allow
+    management or employees, in the normal course of performing their assigned functions, to prevent,
+    or detect and correct, misstatements on a timely basis.
+
+   A material weakness is a deficiency, or combination of deficiencies, in internal control, such that
+    there is a reasonable possibility that a material misstatement of the School District’s financial
+    statements will not be prevented, or detected and corrected, on a timely basis.
+
+   A significant deficiency is a deficiency, or a combination of deficiencies, in internal control that is
+    less severe than a material weakness, yet important enough to merit attention by those charged with
+    governance.
+
+Our consideration of internal control was for the limited purpose described in the first paragraph and was
+not designed to identify all deficiencies in internal control that might be deficiencies, significant
+deficiencies, or material weaknesses and, therefore, there can be no assurance that all such deficiencies
+have been identified.
+
+We did not identify any deficiencies in internal control that we consider material weaknesses, as defined
+above.
+
+However, we share for your consideration on the following pages other observations about the internal
+control and operations.
+
+This communication is intended solely for the information and use of management and others charged
+with governance, is not intended to be, and should not be used by anyone other than these specified
+parties. We will be pleased to discuss these communications and comments in further detail at your
+convenience, or to assist you in implementing the recommendations.
+
+
+
+Harrison, New York
+September 29, 2026
+
+
+
+
+                                                                                                         10
+
+                        Irvington Union Free School District, New York
+
+                                           Other Matters
+
+
+   Extraclassroom - Inactive Clubs
+
+    The Spanish Club and Student Council had no financial activity during the current fiscal year, with
+    ending balances of approximately $164 and $2,353, respectively. State Education Department
+    Regulations provide that the funds of a discontinued activity shall automatically revert to the account
+    of the general student organization or the student council and shall be expended in accordance with
+    that organization’s constitution.
+
+    Recommendation
+
+    We recommend that the School District periodically evaluate the status of clubs with no financial
+    activity to determine whether the club remains active or has been discontinued. If a club other than
+    the Student Council is determined to be discontinued, its remaining balance should be transferred
+    to the Student Council or general student organization, as appropriate. The Student Council account
+    should remain open, as its activity and use of funds may fluctuate annually based on student
+    leadership and planned student activities.
+
+
+   Extraclassroom - Timeliness of Deposits
+
+    During our testing of cash receipts, we noted that two out of sixteen selections did not include
+    formal documentation on when monies are received and nine selections weren’t deposited
+    timely.
+
+    Recommendation
+
+    We recommend that the client properly documents when cash is received and to ensure cash is
+    deposited within three business days.
+
+
+
+
+                                                                                                        11
+
+On the Horizon
+GASB Statement No. 105 – Subsequent Events
+
+The objective of this Statement is to improve the financial reporting requirements for subsequent events,
+thereby enhancing consistency in their application and better meeting the information needs of financial
+statement users.
+
+This Statement defines subsequent events as transactions or other events that occur after the date of
+the financial statements but before the date the financial statements are available to be issued. This
+Statement describes the date the financial statements are available to be issued as the date at which (1)
+the financial statements are complete in a form and format that complies with generally accepted
+accounting principles and (2) approvals necessary for issuance have been obtained. That definition
+modifies the subsequent events time frame throughout the GASB literature. This Statement also clarifies
+the subsequent events that constitute recognized and nonrecognized events and establishes specific
+note disclosure requirements for nonrecognized events.
+
+The requirements of this Statement are effective for fiscal years beginning after June 15, 2026 (i.e.
+the School District's financial statements for the year ended June 30, 2027).
+
+
+
+
+                                                                                                      12
+
+(This page intentionally left blank)
+
+Appendix 1
+Corrected Misstatements
+                                         Irvington Union Free School District, New York
+                                                    Corrected Misstatements
+                                                          June 30, 2026
+
+              Account                                   Description                              Debit           Credit
+
+   General Fund
+
+   Adjusting Journal Entry #16
+   To adjust Employee Retirement System retirement amount
+
+              A 637               Due To Employees Retirement System                               277,480
+        A 9010.800-00-0000        Employees Retirement                                                             277,480
+                                                                                                   277,480         277,480
+
+   Special Aid Fund
+
+   Adjusting Journal Entry #3
+   To write off Summer Handicap 2023-2024 school year amount in the Special Aid Fund
+
+               F 630              Due To General Fund                                                17,632
+               F 410              Due From State And Federal                                                        17,632
+                                                                                                     17,632         17,632
+
+   Adjusting Journal Entry #4
+   To adjust accrual, revenue, and encumbrance balances related to a portion of
+   subsequent-period purchase of kitchen equipment
+
+              F 4289              Other Federal Aid                                                      9,871
+               F 600              Accounts Payable                                                       9,871
+        F 1620.200-00-1000        NSLP Food Service Equipment Grant Award - Equipment                                9,871
+               F 410              Due From State And Federal                                                         9,871
+                                                                                                     19,742         19,742
+
+   Adjusting Journal Entry # 5
+   To remove subsequent transfer from Special Purpose fund cash account out of account balance
+
+               F 391              Due From General Fund                                                  8,246
+               F 200              Cash-Chase                                                                         8,246
+                                                                                                         8,246       8,246
+
+   Special Purpose Fund
+
+   Adjusting Journal Entry #2
+   To include subsequent transfer to Special Aid fund cash account out of account balance
+
+              CM 200              Cash in Checking                                                       8,246
+              CM 631              Due To Other Funds                                                                 8,246
+                                                                                                         8,246       8,246
+
+
+
+
+                                                                                                                             13
+
+(This page intentionally left blank)
+
+Appendix 2
+Management Representation Letter
+
+
+
+
+                                   14
+[OCR]
+DPKE
+
+OCONNOR
+DAVIES
+
+ACCOUNTANTS AND ADVISORS
+ESTABLISHED IN 1891
+
+Appendix 2
+
+Management Representation Letter
+
+14
+
+(This page intentionally left blank)
+
+[OCR]
+| R V | N G TO N Toate aearnehaane for Business & Operations
+
+UNION FREE SCHOOL DISTRICT
+
+September 29, 2026
+
+PKF O'Connor Davies, LLP
+500 Mamaroneck Avenue, Suite 301
+Harrison, New York 10528
+
+This representation letter is provided in connection with your audit of the basic financial statements of
+the Irvington Union Free School District, New York, which comprise the respective financial position of
+the governmental activities, each major fund, and the aggregate remaining fund information as of June
+30, 2026, and the respective changes in financial position for the year then ended, and the disclosures
+(collectively, the “financial statements”), for the purpose of expressing opinions as to whether the
+financial statements are presented fairly, in all material respects, in accordance with accounting
+principles generally accepted in the United States of America (U.S. GAAP).
+
+This representation letter is also provided in connection with your audit of the financial statements of
+the Extraclassroom Activity Funds of the Schoo! District, which comprise the statement of cash receipts,
+cash disbursements and cash balances as of June 30, 2026 and for the year then ended, for the
+purpose of expressing an opinion as to whether the financial statements are presented fairly, in all
+material respects, in accordance with the basis of accounting prescribed by the New York State
+Department of Education.
+
+Certain representations in this letter are described as being limited to matters that are material. Items
+are considered material, regardless of size, if they involve an omission or misstatement of accounting
+information that, in light of surrounding circumstances, makes it probable that the judgment of a
+reasonable person relying on the information would be changed or influenced by the omission or
+misstatement. An omission or misstatement that is monetarily small in amount could be considered
+material as a result of qualitative factors.
+
+We confirm, to the best of our knowledge and belief, having made such inquiries as we considered
+necessary for the purpose of appropriately informing ourselves as of the date of this letter, the following
+representations made to you during your audit:
+
+Our Responsibilities
+
+1) We acknowledge that we have fulfilled our responsibilities as set forth in the terms of the
+engagement letter dated April 28, 2026 for:
+
+a) The preparation and fair presentation of the financial statements in accordance with US GAAP
+and inciude all properly classified funds and other financial information of the primary
+government required by generally accepted accounting principles to be included in the financial
+reporting entity. The combining and individual fund financial statements have been prepared
+and presented in conformity with the accounting principles used to prepare the basic financial
+statements.
+
+b) The preparation and fair presentation of the financial statements of the School District's
+Extraclassroom Activity Funds in conformity with the accounting principles prescribed by the
+New York State Department of Education, which is a comprehensive basis of accounting other
+than US GAAP.
+
+[OCR]
+2)
+
+3)
+
+4)
+
+5)
+
+c) The design, implementation, and maintenance of internal control relevant to the preparation and
+fair presentation of financial statements that are free from material misstatement, whether due
+to fraud or error; and
+
+d) The design, implementation, and maintenance of internal control to prevent and detect fraud.
+
+We understand that the term “fraud” refers to intentional acts by one or more individuals among
+management, those charged with governance, employees, or third parties, involving the use of
+deception that results in a misstatement in financial statements. Two types of intentional
+misstatements are relevant to your audit - misstatements resulting from fraudulent financial
+reporting and misstatements resulting from misappropriation of assets. Fraudulent financial
+reporting involves intentional misstatements, including omissions of amounts or disclosures in
+financial statements to deceive financial statement users. Misappropriation of assets involves the
+theft of an entity's assets.
+
+In regard to the financial statement preparation non-attest services performed by you, we have:
+
+a) Assumed all management responsibilities.
+
+b) Designated individuals within senior management, who have suitable skill, knowledge, or
+experience to oversee the services.
+
+c) Evaluated the adequacy and results of the services performed.
+
+d) Accepted responsibility for the result of the services.
+
+We are further responsible for reviewing, accepting and processing the standard, adjusting, or
+correcting journal entries that you proposed during the course of your engagement. We confirm that
+we designated a suitably qualified individual who understands the nature and impact of the
+proposed entries to the financial statements, and we accept responsibility for the proposed entries
+that we authorized and processed.
+
+We acknowledge our responsibility for presenting the combining and individual fund financial
+statements and schedules and the schedule of expenditures of federal awards in accordance with
+US GAAP, and we believe the combining and individual fund financial statements and schedules
+and the schedule of expenditures of federal awards, including its form and content, is fairly
+presented in accordance with US GAAP. The methods of measurement and presentation of the
+combining and individual fund financial statements and schedules and the schedule of expenditures
+of federal awards have not changed from those used in the prior period, and we have disclosed to
+you any significant assumptions or interpretations underlying the measurement and presentation of
+the supplementary information.
+
+Financial Statements
+
+8)
+
+7)
+
+8)
+
+The financial statements referred to above are fairly presented in conformity with US GAAP and
+
+include all disclosures necessary for such fair presentation. In that connection, we specifically
+
+confirm that:
+
+a) The School District's accounting policies, and the practices and methods followed in applying
+them, are appropriate and are as disclosed in the financial statements.
+
+b) There have been no changes during the period audited in the School District's accounting
+policies and practices.
+
+c) All material transactions have been recorded in the accounting records and are reflected in the
+financial statements and the schedule of expenditures of federal awards.
+
+Significant assumptions we used in making accounting estimates, including those measured at fair
+value, are reasonable.
+
+The following, where they exist, have been appropriately disclosed to you and accounted for and/or
+disclosed in the financial statements in accordance with the requirements of US GAAP:
+
+[OCR]
+a) The identity of all related parties and related party relationships and transactions including
+revenues, expenditures/expenses, loans, transfers, leasing arrangements, and guarantees, and
+amounts receivable from or payable to related parties.
+
+b) Guarantees, whether written or oral, under which the School District is contingently liable, if any.
+
+c) The effects of all known actual, possible, pending or threatened litigation, claims and
+assessments.
+
+9) We have evaluated events subsequent to the date of the financial statements through the date of
+this letter, and no such events have occurred which would require adjustment or disclosure in the
+financial statements. No events, including instances of noncompliance, have occurred subsequent
+to the balance sheet date and through the date of this letter that would require adjustment to or
+disclosure in the aforementioned financial statements or in the schedule of findings and questioned
+costs.
+
+10) The effects of uncorrected misstatements are immaterial, both individually and in the aggregate, to
+the financial statements as a whole for each opinion unit. A list of the uncorrected misstatements is
+attached to the representation letter. In addition, you have proposed adjusting journal entries that
+have been posted to the School District's accounts. We are in agreement with the adjusting journal
+entries you have proposed, and they have been posted to the School District’s accounts.
+
+Information Provided
+
+11) We have provided you with:
+
+a) Access to all information, of which we are aware, that is relevant to the preparation and fair
+presentation of the financial statements, such as records (including information obtained from
+outside of the general and subsidiary ledgers), documentation, and other matters.
+
+b) Communications from regulatory agencies concerning noncompliance with, or deficiencies in,
+financial reporting practices, if applicable.
+
+c) Additional information that you have requested from us for the purpose of the audit.
+
+d) Unrestricted access to persons within the School District from whom you determined it
+necessary to obtain audit evidence.
+
+e) Completeness and availability of all minutes of the meetings of the Board of Education or
+summaries of actions of recent meetings for which minutes have not yet been prepared.
+
+f) All significant contracts and agreements.
+
+g) All documents and records provided electronically are accurate and complete reproductions of
+the original documents and records.
+
+12) We have disclosed to you the results of our assessment of the risk that the financial statements
+may be materially misstated as a result of fraud. Based on our assessment, we did not identify any
+fraud risks that we believe would result in a material misstatement of the financial statements.
+
+13) There are no deficiencies in the design or operation of internal control over financial reporting that
+are reasonably likely to adversely affect the Schoo! District's ability to initiate, authorize, record,
+process, and report financial data reliably in accordance with US GAAP.
+
+14) We have no knowledge of any fraud or suspected fraud that affects the School District and involves:
+a) Management,
+b) Employees who have significant roles in internal control, or
+c) Others where the fraud could have a material effect on the financial statements.
+
+45) We have no knowledge of any allegations of fraud or suspected fraud affecting the School District's
+financial statements communicated by employees, former employees, regulators, or others.
+
+[OCR]
+16) We have no knowledge of instances of noncompliance or suspected noncompliance with provisions
+of laws, regulations, contracts, or grant agreements, or waste or abuse, whose effects should be
+considered when preparing financial statements.
+
+Hosting Services
+
+17) We acknowledge that electronic portals used during the audit are only a method of transferring data
+and the data may be deleted by you at any time.
+
+18) We are responsible for maintaining our financial and non-financial information, licensing and hosting
+of any applications, and downloading and retaining anything you uploaded to such portal in a timely
+manner.
+
+Government—specific
+19) We have a process to track the status of audit findings and recommendations.
+
+20) We have identified to you any previous audits, attestation engagements, and other studies related
+to the objectives of the audit and whether related recommendations have been implemented.
+
+21) We have identified to you any investigations or legal proceedings that have been initiated with
+respect to the period under audit.
+
+22) The School District has no plans or intentions that may materially affect the carrying value or
+classification of assets, deferred outflows of resources, liabilities, deferred inflows of resources and
+fund balance or net position.
+
+23) We are responsible for compliance with the laws, regulations, and provisions of contracts and grant
+agreements applicable to us, including tax or debt limits and debt contracts, and legal and
+contractual provisions for reporting specific activities in separate funds.
+
+24) We have identified and disclosed to you all instances of identified and suspected fraud and
+noncompliance with provisions of laws, regulations, contracts and grant agreements that we believe
+have a material effect on the financial statements.
+
+25) There are no violations or possible violations of budget ordinances/resolutions, laws and regulations
+(including those pertaining to adopting, approving, and amending budgets), provisions of contracts
+and grant agreements, tax or debt limits, and any related debt covenants whose effects should be
+considered for disclosure in the financial statements, or as a basis for recording a loss contingency,
+or for reporting on noncompliance.
+
+26) As part of your audit, you assisted with preparation of the financial statements and disclosures and
+schedule of expenditures of federal awards. We acknowledge our responsibility as it relates to
+those nonaudit services, including that we assume all management responsibilities; oversee the
+services by designating an individual, preferably with senior management, who possesses suitable
+skill, knowledge, or experience; evaluate the adequacy and results of the services performed; and
+accept responsibility for the results of the services We have reviewed, approved, and accepted
+responsibility for those financial statements and disclosures and schedule of expenditures of federal
+awards. We also understand that as part of your audit, you prepared various adjusting journal
+entries, both on the fund and entity-wide level, and acknowledge that we have reviewed and
+approved those entries and accepted responsibility for them.
+
+[OCR]
+27)The School District has satisfactory title to all owned assets, and there are no liens or
+encumbrances on such assets nor has any asset been pledged as collateral.
+
+28) The Schoo! District has complied with all aspects of contractual agreements that would have a
+material effect on the financial statements in the event of noncompliance.
+
+29) We have followed all applicable laws and regulations in adopting, approving, and amending
+budgets.
+
+30) The financial statements include all component units, appropriately present majority equity interests
+in legally separate organizations and joint ventures with an equity interest, and properly disclose all
+other joint ventures and other related organizations.
+
+31) The financial statements include all fiduciary activities required by GASB Statement No. 84.
+
+32)The financial statements properly classify all funds and activities in accordance with GASB
+Statement No. 34, as amended.
+
+33) All funds that meet the quantitative criteria in GASB Statement Nos. 34 and 37 for presentation as
+major are identified and presented as such and all other funds that are presented as major are
+particularly important to financial statement users.
+
+34)Components of net position (net investment in capital assets; restricted; and unrestricted) and
+classifications of fund balance (nonspendable, restricted, committed, assigned, and unassigned)
+are properly classified and, if applicable, approved.
+
+35) Investments and land are properly valued.
+
+36) Receivables recorded in the financial statements represent valid claims against debtors for
+transactions arising on or before the balance sheet date and have been reduced to their estimated
+net realizable value.
+
+37) Provisions for uncollectible receivables have been properly identified and recorded.
+
+38) Expenses have been appropriately classified in or allocated to functions and programs in the
+statement of activities, and allocations have been made on a reasonable basis.
+
+39) We agree with the findings of specialists in evaluating the other postemployment benefit obligation
+and any other specialists utilized and have adequately considered the qualifications of the
+specialists in determining the amounts and disclosures used in the financial statements and
+underlying accounting records. We did not give or cause any instructions to be given to the
+specialists with respect to the values or amounts derived in an attempt to bias their work, and we
+are not otherwise aware of any matters that have had an impact on the independence or objectivity
+of the specialists
+
+40) We believe that the actuarial assumptions and methods used to measure pension and OPEB
+liabilities and costs for financial accounting purposes are appropriate in the circumstances.
+
+41) Revenues are appropriately classified in the statement of activities within program revenues,
+general revenues, contributions to term or permanent endowments, or contributions to permanent
+fund principal.
+
+42) Interfund, internal, and intra-entity activity and balances have been appropriately classified and
+reported.
+
+[OCR]
+43) Deposits and investment securities are properly classified as to risk and are properly disclosed.
+
+44) Capital assets, including infrastructure and intangible assets, are properly capitalized, reported, and,
+if applicable, depreciated or amortized.
+
+45) Capital assets, including intangible assets, have been evaluated for impairment as a result of
+significant and unexpected decline in service utility. Impairment loss and insurance recoveries have
+been properly recorded.
+
+46) We have appropriately disclosed the School District's policy regarding whether to first apply
+restricted or unrestricted resources when an expense is incurred for purposes for which both
+restricted and unrestricted net position is available and have determined that net position is properly
+recognized under the policy.
+
+47)We are following GASB Statement No. 54, paragraph 18, to determine the fund balance
+classifications for financial reporting purposes.
+
+48) We acknowledge our responsibility for the required supplementary information (RSI). The RSI is
+measured and presented within prescribed guidelines and the methods of measurement and
+presentation have not changed from those used in the prior period. We have disclosed to you any
+significant assumptions and interpretations underlying the measurement and presentation of the
+RSI.
+
+49) Tax abatement agreements have been properly disclosed in the notes to the financial statements,
+including the names of all governments involved, the gross amount and specific taxes abated, and
+additional commitments.
+
+50) The School District has agreements that meet the definition of subscriptions contained in GASB
+Statement No. 87, “Leases However, the total value of the subscription agreements for the year
+ended June 30, 2025 was deemed immaterial, therefore, the related amounts and disclosures have
+been excluded from these financials statements.
+
+51) The School District has agreements that meet the definition of leases contained in GASB Statement
+No. 96, “Subscription-Based Information Technology Arrangements’. However, the total value of
+the lease agreements for the year ended June 30, 2026 was deemed immaterial, therefore, the
+related amounts and disclosures have been excluded from these financials statements.
+
+52) Compensated Absences have been appropriately accounted for and disclosed in accordance with
+the requirements of GASB Statement No. 101, “Campensated Absences”. The School District
+made available all relevant information.
+
+53) In accordance with GASB Statement No. 102, “Certain Risk Disclosures”, we have evaluated the
+School District’s exposure to risks arising from concentrations or externally imposed constraints.
+Management has determined that no concentration or constraint exists that makes the School
+District vulnerable to a substantial impact, nor has any related event occurred, begun to occur, or is
+more-likely-than-not to begin within 12 months of the date the financial statements are issued.
+Accordingly, no disclosure under GASB Statement No. 102 is required.
+
+54) In accordance with GASB Statement No. 103, Financial Reporting Model Improvements, we have
+evaluated the School District's financial reporting and note disclosures for compliance with the
+requirements of the Statement. Management has determined that the financial statements have
+been prepared in accordance with the applicable provisions of GASB Statement No. 103, and that
+all required presentations and disclosures have been appropriately included.
+
+[OCR]
+55)in accordance with GASB Statement No. 104, Disclosure of Certain Capital Assets, we have
+evaluated the School District's capital asset reporting and note disclosures for compliance with the
+requirements of the Statement. Management has determined that the financial statements have
+been prepared in accordance with the applicable provisions of GASB Statement No. 104, and that
+all required disclosures related to capital assets held for sale, capital assets associated with
+disposal activities, and other applicable capital asset disclosures have been appropriately included.
+
+56) Expenditures of federal awards were below the $1,000,000 threshold for the year ended June 30,
+2026, and we were not required to have an audit in accordance with Title 2 U.S. Code of Federal
+Regulations Part 200, Uniform Administrative Requirements, Cost Principles and Audit
+Requirements for Federal Awards (“Uniform Guidance”).
+
+Signature: ees Ye ide a
+Signature:
+
+Title: Aesithe! Fey tnrdobot fe Basins Tite: District ents
+
+
+(This page intentionally left blank)
+
+Appendix 3
+
+About PKF O’Connor Davies, LLP
+
+
+
+
+                                 15
+[OCR]
+DPKF
+OCONNOR
+DAVIES
+
+ACCOUNTANTS AND ADVISORS
+ESTABLISHED IN 1891
+
+Appendix 3
+
+About PKF O’Connor Davies, LLP
+
+15
+
+(This page intentionally left blank)
+
+16
+[OCR]
+PKF
+
+OCONNOR
+DAVIES
+
+ACCOUNTANTS AND ADVISORS
+
+Founded in 1891, PKF O’Connor Davies has evolved from a regional accounting firm
+to an emerging national leader with more than 1,800 professionals and 23 offices
+across the U.S. Together, our teams provide comprehensive audit, tax and
+advisory services to a diverse and growing client base.
+
+GLOBAL EXPERTISE, REGIONAL CONNECTIONS,
+GREATER VALUE
+
+With solutions rooted in collaboration, integrity and excellence, our INDUSTRY RECOGNITION
+professionals deliver the strength of a transnational firm along with #25 of “Top 100 Firms”
+
+the responsiveness and personal attention of a trusted local advisor. “Fastest Growing Firms”
+
+We invest in advanced technology and digital tools that enhance “Top Tax Firm”
+
+the way we work and communicate while enabling us to be “Leader in Audit & Attest and Tax”
+more agile, data-informed and connected to our dlients’ goals. #8 of “Top Firs in the Nid-Atanti
+Our unwavering focus on value and innovation has driven S Ca exey
+
+‘our growth and produced strong outcomes for our clients, “Best of Accounting Client Satisfaction”
+propelling PKF O'Connor Davies into the top 25 — ClearlyRated, 21
+
+on Accounting Toclay's 2026 "Top 100 Firms” list and Topaccountancy Advisory’
+
+eaming recognition as one of the nation's fastest- —Famiy Wealth Report 2025
+
+growing accounting and advisory firms.
+
+As clients’ needs extend beyond borders, we deliver
+unmatched access to expertise in over 400 cities
+
+in 150 countries as the lead North American firm in
+the PKF Global network of independent accounting
+and advisory firms.
+
+ENGAGED PARTNER BASE,
+PROACTIVE SERVICE MODEL
+
+‘Our Partners are actively involved in the day-to-day
+management of engagements, ensuring a high
+degree of personal attention and cost effectiveness.
+Employing a team approach to all engagements,
+our seasoned professionals provide exceptional
+service nimbly to help clients succeed.
+
+This proven, proactive approach has equipped us to
+build enduring client relationships. Our industry-leading
+
+“America’s Most Recommended Tax &
+
+#1 in 11 Internship Categories, including
+“Best in Accounting,” “Overall Internships”
+
+81.3 Net Promoter Score, more than double the industry “Best ee ‘to Work in NYC”
+
+average of 38, reflects the ongoing satisfaction and loyalty New York Busi
+
+Sroureietis, “Best Places to Work in Westchester”
+914INC
+
+A FIRM BUILT FOR THE FUTURE
+
+(Our mission is to ensure our clients “Know Greater Value" by ee ee ee ace
+
+advancing their goals, empowering our people and leveraging a Ce
+
+sophisticated technology. By combining global reach with local “Best Places to Work in NewJersey”
+
+insight and innovation with accountability, PF O'Connor Davies. —NJBIZ,
+
+moves beyond passive value protection to active value creation, helping
+shape a future in which those we serve can genuinely Know Greater Value.
+
+16
+
+17
+[OCR]
+KNOW
+
+GREATER
+VALUE
+
+ACCOUNTING & ASSURANCE
+
++ Agreed-Upon Procedures
+
+* Audits, Reviews and Compilations
+
++ Employee Benefit Plan Audits, including ESOPs
+
++ Endowment Fund Accounting
+
+> Peer Review Services
+
++ Public Company Services
+
+* Public Sector Audits and Compliance
+
++ SOC - System and Organizational Control
+Reporting
+
+fa”
+
+Lies SERVICES
+Business Tax
+* Employee Benefit Planning and Tax Compliance
++ International Tax (Asia, EU and Latin
+America Desks)
+Private Client Services
+R&D Tax Credit
+State and Local Tax (SALT)
+Trust and Estate Planning
+
+BUSINESS CONSULTING
+ESG
++ Litigation Support and Forensics (Fraud, Integrity
+Monitoring and Litigation Support)
+Operational and Cost Effectiveness
+* Risk Advisory Services
+— Internal Audit
+— Regulatory Solutions (AML and SOX)
++ Strategy and Transaction Advisory
+— Bankruptcy
+~Employee Stock Ownership Plans (ESOPs)
+—PKF Investment Banking
+» Acquisition Advisory
+» Exit Readiness and Transaction Planning
++ M&A Cybersecurity and Data Privacy
+Advisory
++ Sell-Side Advisory
+— Turnaround and Restructuring
+Strategy and Transformation
+
+OB TEC
+
+HNOLOGY & CYBERSECURITY
+Cybersecurity and Privacy
+— Cybersecurity Maturity Model
+Certification (CMMC)
+Dark Web Monitoring
+— Digital Forensic Services
+— General Data Protection Regulation (GDPR)
+— M&A Cybersecurity and Data Privacy Advisory
+— Penetration Testing
+— Virtual Chief Information Security
+Officer Services (vCISO)
+IT and Cybersecurity Audit
+Technology Advisory
+
+PRIVATE CLIENT SERVICES
+
+Family Office
+Private Business Owners
+
+Trust and Estate Planning
+
+OUTSOURCED SERVICES
+
+CFO Solutions
+
+Outsourced Accounting
+
+— Portfolio Company Accounting
+Recruitment Services
+
+Virtual Chief Information Security
+Officer Services (vCISO)
+
+“PKF O'Connor Davies" is the brand name under which PKF O'Connor Davies LLP and PKF O'Connor Davies Advisory LLC, independently owned
+entities, provide professional services in an alternative practice structure in accordance with applicable professional standards. PKF O'Connor Davies
+LLP is a licensed CPA firm that provides attest services and PKF O'Connor Davies Advisary LLC andits subsidiary entities provide tax and advisory
+services. PKF O'Connor Davies is a member of the PKF Intemational Limited network of legally independent firms and does not accept any responsibility
+or liability for the actions or inactions on the part of any other individual member firm or firms,
+
+PKF
+OCONNOR
+DAVIES
+
+ACCOUNTANTS AND ADVISORS,
+
+pkfod.com
+
+17
+

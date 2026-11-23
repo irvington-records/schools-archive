@@ -1,0 +1,24 @@
+SOURCE https://www.irvingtonschools.org/domain/4269 | DATE 2025-11-14 | TITLE District Wide Calendars / District Wide Calendars
+
+Calendar Information
+- Welcome to the District-wide Calendars page. This page will serve as your main resource for obtaining calendar information from the Irvington UFSD. Quick Link Resources
+2025-26 District Calendar Adopted 3-11-25
+2024-25 District Calendar Adopted 3-19-24
+School Hours and Closing Information
+Accessing our Calendars
+You can find our general District calendar on the District homepage. Calendars for each building can be found on the corresponding homepage for each school. For your convenience, we have also added the direct link to each buildings' monthly calendar below.
+District Calendar
+Dows Lane Calendar
+Main Street Calendar
+Irvington Middle School Calendar
+Irvington High School Calendar
+Irvington Athletics Calendar
+Importing our Calendars
+In addition, the calendars for each building as well as the District are now available to our community members as ICS files. ICS calendar files can be used in email clients like Microsoft Outlook, Windows Live Mail, and IBM Notes (formerly known as IBM Lotus Notes), as well as most popular calendar programs, like Google Calendar for web browsers, Apple Calendar (previously called Apple iCal) for iOS mobile devices and Macs, Yahoo! Calendar, Mozilla Lightning Calendar, and VueMinder. Once set up through your calendar program, these calendars will update automatically as changes are made to them.
+Here are links to the ICS calendar files for each location:
+District Calendar (ICS file)
+Dows Lane Calendar (ICS file)
+Main Street School Calendar (ICS file)
+Irvington Middle School Calendar (ICS file)
+Irvington High School Calendar (ICS file)
+Most programs will allow you to import ICS files through an Import function. Below are instructions for importing our ICS calendar files through several popular platforms.

@@ -1,0 +1,25 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/goto?open&id=97S2BT67A20E | DATE: 2013-06-04 | TITLE: Regular Meeting - 7:30 p.m. | 11.3 Budget Transfers
+
+Meeting: Jun 04, 2013 - Regular Meeting - 7:30 p.m.
+Date: 2013-06-04
+Category: 11. Business Office Matters
+Subject: 11.3 Budget Transfers
+Type: Action (Consent)
+
+Budget transfer 12/13-13
+
+	Credit  A9060-800-00-0000 (Hospital & Medical Insurance)               $93,931
+
+	Debit   A9760-700-00-0000 (T.A.N. Interest)                                      $16,500
+
+	Debit   A5510-490-00-2250 (Transportation/Boces/Spec.Ed)             $77,431
+
+	This transfer is to cover Medicare reimbursements.
+
+	Budget transfer 12/13-14
+
+	Credit    A1989-400-00-0000 (Unclassified)                                       $5,093
+
+	Debit     A5510-400-40-0000 (Transportation Coordinator)                $5,093
+
+	This transfer is write off over accrual of state supported schools aid.

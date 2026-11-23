@@ -1,0 +1,10 @@
+SOURCE http://www.irvingtonschools.org:80/election2002.html | DATE 2003-04-19 | TITLE Election Results
+
+Election Results May 21, 2002
+The Results of the Irvington School District Election are as follows:
+Budget:
+Yes - 658
+No - 344
+Trustees:
+Penny Delany - 776
+Penny Delany will begin her fifth three year term on July 1, 2002.

@@ -1,0 +1,21 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/goto?open&id=93YRPR6EFEE3 | DATE: 2013-02-05 | TITLE: Regular Meeting - 7:30 p.m.* | 10.8 Re-Appropriation of 2012-13 Budget
+
+Meeting: Feb 05, 2013 - Regular Meeting - 7:30 p.m.*
+Date: 2013-02-05
+Category: 10. Business Office Matters
+Subject: 10.8 Re-Appropriation of 2012-13 Budget
+Type: Action (Consent)
+
+Re-Appropriation
+
+	Debit A510  Estimated Revenue                               $16,409
+
+	     Revenue Code A3060
+
+	Credit A960 Appropriations                                     $16,409
+
+	     Expense code A1460-450    $183
+
+	     Expense code A1460-490    $16,226
+
+	The District received a NYS Local Government Records Management grant to address purging and preparing old student and payroll records for future microfilming.  This action will result in an adjusted budget of $51,172,409.

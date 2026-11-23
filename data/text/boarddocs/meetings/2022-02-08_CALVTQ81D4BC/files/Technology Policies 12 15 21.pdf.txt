@@ -1,0 +1,412 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/pfiles/CAZRRB6F38DE/$file/Technology%20Policies%2012%2015%2021.pdf | DATE: 2022-02-08 | TITLE: Regular Meeting | 10.1 Policy-2nd Read/Adoption | Technology Policies 12 15 21.pdf
+
+4526 COMPUTER USE IN INSTRUCTION (or ACCEPTABLE USE POLICY)
+
+Computer Use Philosophy:
+
+The Board of Education is committed to the use of technology to support innovative
+approaches to learning and collaboration, eliminate equity and accessibility gaps, and
+adapt learning experiences to meet the needs of all learners. This commitment is
+evidenced by access to a computing device, the District’s Technology (“Technology”),
+including the internal network and learning applications, and access to the Internet.
+The Board encourages the thoughtful use of computers and computer-related
+technology in District classrooms for the purpose of advancing and promoting learning
+and teaching.
+
+The District’s Technology can provide a forum for learning through various software
+applications, digital databases, educational resources, and e-mail, all of which can
+significantly enhance educational experiences and provide statewide, national, and
+global communication opportunities for staff and students.
+
+Regulations and handbooks, to be developed by the Superintendent or his/her
+designees, will provide specific guidance, as well as rules governing the use and
+security of the district's computer network. All users of the district’s computer network
+and equipment shall comply with this policy and regulation. If a student does not comply
+with the provisions of this policy and regulation it may result in revocation of the device,
+access, and/or possible disciplinary action in accordance with the Code of Conduct.
+
+The Superintendent shall be responsible for designating a Director of Technology to
+oversee the use of district computer resources. The Director of Technology will
+coordinate in-service programs for the training and development of district staff in
+computer skills and for the incorporation of computer use in appropriate subject areas.
+
+With increased concern about malware, ransomware, identity theft, unwarranted
+invasion of privacy, and the need to protect personally identifiable information, students
+must not provide any personally identifiable information when accessing any
+cloud-based educational software/application. All sites and cloud-based applications
+must be compliant with the Common Core Implementation Reform Act, Education Law
+§2-D that requires that each educational agency in the State of New York must develop
+a Parents’ Bill of Rights for Data Privacy and Security (Parents’ Bill of Rights)". The
+Parents’ Bill of Rights must be published on the district website and must be included
+with every contract IUFSD enters into with a “third party contractor” (where the third
+party contractor receives student data or certain protected teacher/principal data related
+to Annual Professional Performance Reviews that is designated as confidential
+
+pursuant to Education Law §3012-c(“APPR data”). The Director of Technology will
+develop guidelines to support faculty and staff.
+
+Cross-ref:
+
+     5300, Code of Conduct
+
+     5695.1, Student Use of Personal Electronic Devices
+
+
+
+     0100, Equal Opportunity and Nondiscrimination
+
+     0100-R, Equal Opportunity and Nondiscrimination Regulation
+
+     REGULATION
+
+     Adoption date: August 25, 2020
+
+     Revised:
+
+
+
+                       Irvington Union Free School District
+
+5695.1 STUDENT USE OF PERSONAL ELECTRONIC DEVICES
+
+Subject: Student Use of Personal Electronic Devices
+
+Purpose:
+
+     The Board of Education recognizes the benefits of access to personal electronic
+     devices (PEDs). Such PEDs may include but are not limited to smart phones,
+     smart watches, tablets, laptop computers, voice recorders, digital cameras, and
+     music listening devices. Electronic readers are permissible and exempt from this
+     policy. Electronic readers, simply called “e-Readers,” are digital devices whose
+     primary function is to store books, periodicals, magazines, and other print media.
+     A device whose primary function is to communicate or play music or games, but
+     allows electronic books, would not be classified as an e- Reader under this policy.
+
+     The purpose of this policy is to ensure the proper use of students' own electronic
+     devices (PEDs) while on District grounds.
+
+Scope:
+
+     This policy is designed to define appropriate use of students' own personal
+     electronic devices (PEDs) while on District grounds during the school day.
+
+Policy Statements:
+
+     Student possession and use of PEDs on school campuses and school buses, at
+     school-sponsored activities, and while under the supervision and control of school
+     district employees is permitted under circumstances described herein:
+
+           a) All students (K-12) may use these devices on campus before school
+           begins and after school ends.
+
+           b) Students in high school, grades 9-12, may also use these devices during
+           the lunch period and independent/non-class time.
+
+           c) These devices must be kept out of sight and turned off during the
+           instructional program and in the classroom. Unauthorized use of these
+           devices disrupts the instructional program and distracts from the learning
+           environment.
+
+           d) Students may only use such devices consistent with policy 4526
+           Computer Use in Instruction (Acceptable Use Policy).
+
+             e) PEDs may be used in the campus library by high school students as long
+             as the student is sitting or working quietly and the device cannot be heard.
+             Making and answering phone calls is strictly prohibited. If the electronic
+             device creates a distraction, the student will be asked to put the device
+             away.
+
+             f) The school is not responsible for lost or stolen PEDs and e-readers.
+
+             g) Students are to make arrangements with their parent(s) or guardian(s) to
+             contact the school office when attempting to reach them during the school
+             day.
+
+             h) Inappropriate uses of PEDs include but are not limited to: harassment,
+             threats, intimidation, electronic forgery, cyberbullying/cyberthreats, invasion
+             of personal rights, cheating on tests/exams, or other forms of illegal behavior
+             during the instructional and non-instructional day. Students are not to use
+             material or text messages to invade personal privacy or harass another
+             person, or to disrupt the instructional day, or to engage in dishonest acts.
+
+             i) Students are not permitted to establish a Virtual Private Network (VPN) to
+             circumvent the District's filtered access to the web.
+
+
+
+Enforcement:
+
+     Any student found to have violated this policy may be subject to disciplinary action
+     as per the Code of Conduct.
+
+Cross-ref:
+
+5300, Code of Conduct
+
+4526, Computer Use in Instruction (or Acceptable Use Policy)
+
+0100, Equal Opportunity and Nondiscrimination
+
+0100-R, Equal Opportunity and Nondiscrimination Regulation
+
+Adoption Date: August 27, 2019
+
+Revised:
+
+5695.1-R BRING YOUR OWN DEVICE (BYOD) - STUDENT USE OF
+PERSONAL TECHNOLOGY DURING THE INSTRUCTIONAL DAY
+REGULATION
+
+The Irvington Union Free School District is committed to providing a 21st century
+learning environment that includes the integration of technology in the classroom in
+support of education and/or research and consistent with the goals and purposes of the
+School District.
+
+As identified in Board Policies 5695.1 and 4526, the District is committed to enabling
+students the use of their personally-owned technology (PED) during the school day via
+wireless access to the District network. Said access and use shall be in accordance with
+school guidelines, the Student Acceptable Use Policy (AUP), the District Code of
+Conduct, and the Dignity for All Students Act.
+
+Students are permitted to utilize their own devices, where permitted by policy and
+regulation, to enhance learning and augment the educational program both inside and
+outside of the formal classroom setting. Teacher permission will be required/expected
+for use of technology, consistent with policy 4526 Computer Use in Instruction
+(Acceptable Use Policy), within the formal classroom setting. This may include the use
+of devices to:
+
+● Take notes and complete written tasks;
+● Access the Internet or permissible applications and software to assist in classroom
+  instruction/student learning;
+● Read course-related content or materials that may be available in an electronic or
+  digital format unless the particular learning task requires otherwise;
+● Employ electronic/digital organizational tools to support learning; and
+● Apply other technological tools as deemed appropriate with the approval of the
+  teacher and/or administration.
+
+Note: While the Irvington Union Free School District recognizes the use of personal
+devices as a tool that can support student learning, particular learning objectives as
+outlined by the teacher may require a student to utilize a different or traditional method
+of completion, including but not limited to writing answers on paper and reading a hard
+copy of a book or article.
+
+Where use of technology is required in the classroom and a student does not have
+personally-owned technology, the District will provide access to District-owned
+technology.
+
+The District's guest wireless network shall be used to access the Internet. The District's
+guest wireless network provides filtered access to the web and is operated in
+compliance with the Children's Internet Protection Act, Children’s Online Privacy &
+Protection Act, and Family Educational Rights and Privacy Act.
+
+The District shall not be liable for the loss, damage, misuse, or theft of any personal
+technology brought to School. The Administration reserves the right to restrict student
+use of personal technology on school property or at school-sponsored events, and to
+monitor, inspect, and/or confiscate personal technology when there is reasonable
+suspicion to believe that a violation of school policy or criminal law has occurred.
+
+Personal Device Usage and District Sponsored 1:1 Devices:
+
+Bring Your Own Device (BYOD):
+
+At this time, BYOD will only be permitted for limited grades as part of a phased-in
+expansion of the district’s 1:1 device use.
+
+BYOD will only be permitted in the following circumstances or as needed with teacher
+consent:
+
+   ● In the high school, students in grades 11 and 12 will have the option to utilize a
+     personal device rather than a District-issued device.
+   ● Students in grades 9 and 10 will be permitted to use a personal device during
+     independent time (lunch, study hall, before or after school, free periods, or
+     similar), as District-issued devices must be used in class.
+   ● High school students who choose to bring a personal device to school do so at
+     their own risk. The District will not assume responsibility for lost, damaged or
+     stolen devices. Additionally, the District will not provide tech support for personal
+     devices.
+
+District-Sponsored 1:1 Device Use:
+
+In all cases, students must comply with the district’s login process, as well as the
+provisions of this policy and regulation. The Board further authorizes student use of
+school devices to access the district’s computer network for purposes of the 1:1 device
+program. All users of the District’s internal network and the Internet must understand
+that use is a privilege, not a right, and that use entails responsibility. The district
+reserves the right to control access to the Internet for all users of its computers and
+network. The district will block sites that it considers to be inappropriate for school use
+and privacy compliance under Education Law §2-D.
+
+Acceptable Types of Technology
+
+Personal technology includes all existing and emerging technology devices that can
+take photographs; record audio or video; input text; upload and download media; and
+transmit or receive messages or images. Examples of personal technology includes, but
+are not limited to, smartwatches, and MP3 players; iPad, and other tablet PCs; laptop,
+and Chromebook; cell phones and smartphones, as well as any device with similar
+capabilities. Unacceptable devices shall include, but are not limited to, gaming devices
+or consoles, laser pointers, modems or routers, and televisions.
+
+Permissible Uses
+
+Personally-owned technology may be allowed to be used by students during the school
+day for educational purposes and/or in approved locations only. Teachers will indicate to
+students when such use is acceptable. Students are expected to act responsibly and
+thoughtfully when using technology resources. Students bear the burden of
+responsibility to inquire with school administrators and/or teachers when they are
+unsure of the permissibility of a particular use of technology prior to engaging in such
+use. Some primary uses of personally-owned technology in the classroom, include, but
+are not limited to:
+
+   1. As defined in policy 4526 Computer Use in Instruction (Acceptable Use Policy).
+   2. Gather, evaluate and report on information and ideas,
+   3. Conduct research
+   4. Solve problems and/or answer questions in a collaborative format, and
+   5. Analyze and create print and non-print materials.
+   6. Accessing video conferences moderated by staff members
+
+Additional uses such as tracking classroom assignments, monitoring the District's
+student information system student portal, and other approved instructional activities
+may also be permitted in accordance with policy and this regulation.
+
+Prohibited Uses for Personally-Owned Technology
+
+All other uses of personally-owned technology must be consistent with school
+guidelines, the Student Acceptable Use Policy (AUP), the District Code of Conduct, and
+the Dignity for All Students Act.
+
+Personally-owned technology shall not be used for the purposes of academic
+dishonesty, to bully, cyberbully, discriminate, harass, plagiarize, or any other violation of
+the Code of Conduct.
+
+Use of any personally-owned technology is strictly prohibited in locker rooms,
+restrooms, Health Offices and any other areas where a person would reasonably expect
+some degree of personal privacy.
+
+With the exception of school-sponsored events and programs, students are not
+permitted to use any electronic device to record audio or video media or take pictures of
+any student or staff member without their permission. Taking photographs, recording or
+videotaping without an individual's consent can be considered an invasion of privacy.
+
+The distribution of any unauthorized photos, media or recordings may result in discipline
+including, but not limited to, suspension, criminal charges, and expulsion.
+
+Safeguarding and Care of Personally-Owned Technology
+
+The District assumes no responsibility for the loss, destruction, misuse or theft of any
+personal technology device that is brought to school at any time, or to a school
+sponsored activity.
+
+Students using personally-owned technology take full responsibility for their
+technological device and must keep it with them at all times or safely store the device in
+their lockers (Hallway or PE). To ensure the safety of devices, students and their
+families are strongly encouraged to:
+
+   1. Record the serial number and model numbers of any device brought to school,
+   2. Install virus protection on their device,
+   3. Install and activate tracking software, and
+   4. Set a PIN lock code or password, where possible.
+
+Students and their parents/legal guardians are responsible for the proper care of their
+device, including any costs of repair, replacement, upgrades, or modifications needed to
+use the device at school. Students should not expect access to charging stations during
+the day.
+
+The District will perform due diligence in investigating loss, theft and/or damage.
+
+Finalized: August 27, 2019 (as 5695-R)
+
+Revised: August 25, 2020 (as 5695.1-R)
+
+Further Revised:
+
+
+
+                         Irvington Union Free School District
+
+For Policy Committee reference (not revised):
+
+
+
+Board Policy 3160
+Community Relations
+Adopted: 7/11/06
+
+SUBJECT: ACCEPTABLE AND SAFE USE OF TECHNOLOGY AND THE INTERNET
+
+The Board of the Irvington UFSD recognizes that the use of computer
+technology and the Internet ("technology") has become an increasingly
+important aspect of our educational environment. The Board wishes to promote
+the appropriate use of technology so as to maximize the positive educational
+benefits for our students and our staff. These uses include the access and
+exchange of information; communications; and the organization, analysis and
+presentation of information. Therefore, the Board establishes the following
+principles and rules for the safe and appropriate use of the District's
+technological resources:
+
+
+Acceptable Use
+
+   a) While the Board respects the principles of academic freedom and
+   freedom of speech, the access or transmission of materials using district
+   technology resources which are inappropriate in the school environment is
+   strictly prohibited. These materials include but are not limited to the
+   following: those which are obscene or pornographic, prejudicial or
+   discriminatory, lewd of profane.
+   b) The use of district technology to knowingly violate United States or New
+   York State regulations is prohibited. Users of district technology must respect
+   copyrights and trademarks and are prohibited from plagiarizing information
+   found on the internet.
+   c) The use of district technology for commercial purposes is prohibited.
+
+
+Personal Safety
+
+   a) The posting of an individual student's photograph WITH YOUR NAME, OR
+   ANY STUDENT'S telephone number OR address on the Internet is strictly
+   prohibited.
+
+   b) District technology may not be used for chat rooms or personal E-mail,
+   other than for school-sponsored educational purposes. Students will not post
+   personal information about themselves or others such as address or
+   telephone number. Students will not meet with anyone contacted online
+   without their parent's prior approval and supervision.
+   c) Users of District technology are responsible for safekeeping of their user
+   ID and password. Accessing another person's files is strictly prohibited.
+
+System Safety
+
+
+  a) Purposely misusing the District's technology resources which results in
+  damage to the system or data will result in suspension of privileges and
+  financial liability equal to the cost of repairing the system. Misuse of the
+  system includes, but is not limited to knowingly importing viruses into the
+  system or "spamming" (the replication and mass dissemination of large
+  messages).
+Board Policy 3160
+Community Relations
+
+SUBJECT: ACCEPTABLE AND SAFE USE OF TECHNOLOGY AND THE INTERNET
+(Cont’d.)
+
+   b) Irvington UFSD technology resources are school district property. The
+   District reserves the right to review any files and communications on its
+   systems at any time to insure compliance with this policy. Any violations
+   discovered by the system operator will be reported immediately to the
+   Superintendent.
+
+   c) The primary use of the District's technology is the promotion of
+   educational objectives.
+
+   d) Users will promptly notify a system operator or district administrator of any
+   violation of this policy.
+
+
+
+Each user of the technology resources of the Irvington UFSD, including students,
+faculty, staff or community member will be required to complete and return the
+attached form before access to the system will be granted.
+
+Failure to abide by the above rules and regulations will result in a suspension of
+technology access privileges, financial liability for damages or other disciplinary
+action.
+

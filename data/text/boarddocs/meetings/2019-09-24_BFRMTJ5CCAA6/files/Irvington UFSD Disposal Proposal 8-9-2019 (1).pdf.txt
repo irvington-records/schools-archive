@@ -1,0 +1,172 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/pfiles/BG5L6P54DAC3/$file/Irvington%20UFSD%20Disposal%20Proposal%208-9-2019%20(1).pdf | DATE: 2019-09-24 | TITLE: Special Meeting/Work Session | 8.7 Declaration of Obsolete/Surplus Equipment | Irvington UFSD Disposal Proposal 8-9-2019 (1).pdf
+
+                                                                                                                     Page 1
+
+                                      QUOTE              Issue Date:                                            08/09/19
+                                                         Account Manager:                                      Frank Milia
+                                  ITAS080919DFM
+                                                         Phone Number:                                   516-284-8577
+   www.itamg.com                                         E-Mail:                                       frank @itamg.com
+
+
+Prepared For:                                               Irvington UFSD
+               CLIENT DETAILS                                      COLLECTION SITE DETAILS
+Address:                      40 N. Broadway             Address:                            40 N. Broadway
+
+
+        Irvington                  NY          10533                Irvington                       NY           10533
+Primary Contact                      Steven Amy          Site Contact:                              TBD
+Office Phone:                       914.686.7777         Office Phone:
+Mobile Phone:                                            Mobile Phone:
+E-Mail:                                                  E-Mail:
+                                               QUOTE DESCRIPTION
+                   IT Equipment                                                  Data Services
+                 Only check marked items apply to this quote. No other services are implied.
+  Asset Recovery Evaluation                               Trial Service or Other (See Appendix A for More Details)
+
+  Dismantling and Destruction of Assets (No Reuse)        Mechanical Off-Site Media Destruction (Shredding)
+
+  Responsible Recycling                                   Mechanical On-Site Media Destruction (Shredding)
+
+  NIST 800-88 Data Wiping (Purge) 2014 Standard           Detailed Wiping/Erasure Certificate (Serialized)
+
+  DoD 3 Pass Erasure 2006 Standard                        Asset/Inventory Reporting (Serialized)
+
+                                             BASIC SITE CONDITIONS
+  After/Before Hours          On-Site Packaging Needed    Photo ID Required               COI Proof Required
+
+     Dismantling Services Needed         Loading Dock     Public Elevator Only            Special Conditions
+
+                                SPECIAL COLLECTION SITE INSTRUCTIONS
+Confirmed no stairs at this site required
+
+
+
+
+                                        STATEMENT OF WORK SUMMARY
+
+  ITAMG to provide removal, Responsible Recycling (R2), asset recovery,
+ certified data destruction and certificate of destruction services for surplus
+                             computer equipment.
+
+     IT Asset Management Group | 110 Bi County Blvd Suite 106 Farmingdale, NY 11735 | www.itamg.com
+
+QUOTE:                        ITAS080919DFM                                                                                          Page 2
+
+         Standard Terms and Conditions                                               Site Service Dependencies
+All equipment for disposal is processed including DOD 5220.22- 1) Full site address details and storage location within building.
+M or NIST 800-88 data eradication where applicable (service      2) Quantity of equipment must be equal to inventory list or
+level defined on page 1).                                        summary provided by client. Advance notice must be provided to
+Any equipment that cannot be sold, donated, or otherwise
+                                                                 ITAMG regarding changes. Changes are subject to charges or
+reused will be recycled with 0% to landfill and 0% illegal
+                                                                 additional fees.
+exportation of focus materials. A certificate will be issued to
+client.                                                          3) Communication details for primary and alternate contact who will
+Liquidation pricing is based on all equipment in complete, and be present during agreed upon service time window.
+good working condition. Complete condition is defined as
+                                                                 4) Notification of any specific security, health or safety requirements.
+including any power cords, adapters or other proprietary
+components in order to then be considered in working
+condition. Good working condition is defined as powering on 5) Freight elevator access and availability where required
+and with no cosmetic or functional defects. Unless Appendix
+                                                                 Failure to meet any of these dependencies will be subject to client
+A specifically states other conditions, ITAMG reserves the right
+                                                                 being invoiced according to the specifications of minimum site
+to make deductions on the value of equipment that can not be
+                                                                 services or stop fee rates (whichever is higher).
+considered as complete and in good working condition.
+
+                                                                     Reserved for Client Purchase Order (PO ) or REF #
+Where applicable computer equipment is to be complete with
+Windows COA stickers and license unless otherwise agreed                           PO # or REF#                   Terms (Standard net30)
+upon. This will be outlined in Appendix A.
+                                                                     Electronics Recycling & Data Services Charges
+Equipment must be free of BIOS/admin password lock or
+similar or client must provide in order to assist in the
+                                                                     ITAMG to charge CLIENT in the amount of:
+decommissioning process. See Appendix A for additional
+conditions specific to this quote regarding functionality and                         USD                                $0.00
+disposal conditions.
+This proposal includes all packing, pickup, transportation of        for services rendered which are explained in further detail in
+equipment from a consolidated environment unless otherwise           statement of work and Appendix A. Payment may be made in the
+specified.                                                           form of check or bank transfer.
+
+
+All equipment must be pre-disconnected from all network or           Payment of entire invoice amount is required within 30 days from
+power sources 48 hours ahead of agreed upon service date.            invoice date or receipt of services, whichever is later unless alternate
+Failure to do so will result in service charges or cancellation of   terms have been agreed to. Should your organization have
+service.                                                             alternative vendor payment plans ITAMG must be notified prior to
+Collection of equipment must be performed within normal              signing of this quote.
+working hours unless otherwise agreed upon.
+                                                                     Asset Recovery (Value Back to Client)
+Pricing is based on a single collection of equipment                 ITAMG is able and willing to make an offer of:
+This quote is valid through the quote expiration date and may                     USD                            $985.00
+not be able to be extended. Allowing ITAMG onsite without
+executing this agreement signifies acceptance or all terms and
+                                                                The assets described to ITAMG for purchase are described in
+conditions should any future issues arise relating to the scope
+                                                                Appendix A. Seller is under no obligation to accept this offer. Should
+of this order quote.
+                                                                Seller accept this offer, equipment collection must take place on or
+                                                                before the quote expiration date. Payment is made by ITAMG upon
+                                                                collection & testing of equipment unless otherwise agreed upon in
+   There are            3       pages in this proposal.
+                                                                Appendix A. Any service charges provided in this quote will be
+      ITAMG requires this order quote to be signed.             deducted from the final asset recovery value.
+
+                                                            AGREEMENT
+Quote Issue Date:                          8/9/2019                  Signature:
+Account Manager:                          Frank Milia
+Phone Number:                           516-284-8577                 Name:
+E-Mail:                                  frank @itamg.com Title:
+Quote Expires On:                         08/21/19                   Date Executed:
+      IT Asset Management Group | 110 Bi County Blvd Suite 106 Farmingdale, NY 11735 | www.itamg.com
+
+QUOTE:             ITAS080919DFM                                                            Appendix A
+              Appendix A - Additional Project Specifications and Conditions
+
+
+
+
+           General Asset/Inventory Description (If applicable, otherwise will be blank)
+         Type              Description      Unit Price       Quantity           Extended Price
+Asset Recovery      Client Inventory     $         985.00          1       $              985.00
+                                                                           $                    -
+                                                                           $                    -
+                                                                           $                    -
+                                                                           $                    -
+                                                                           $                    -
+                                                                           $                    -
+                                                                           $                    -
+                                                                           $                    -
+                                                                           $                    -
+                                                                           $                    -
+                                                                           $                    -
+                                                                           $                    -
+                                                                           $                    -
+                                                                           $                    -
+         Type              Description       Unit Fee          Quantity         Extended Price
+                                                                           $                    -
+                                                                           $                    -
+                                                                           $                    -
+                                                                           $                    -
+                                                                           $                    -
+                                                                           $                    -
+                                                                           $                    -
+                                                                           $                    -
+                                                                           $                    -
+                                                                           $                    -
+                                                                           $                    -
+                                                                           $                    -
+                                                                           $                    -
+                                                                           $                    -
+                                                                           $                    -
+                                                                           $                    -
+                                                 Fees (Excluding Tax): $                      -
+
+                                                                        Credit: $             985.00
+
+                                                                         Total: $             985.00
+    IT Asset Management Group | 110 Bi County Blvd Suite 106 Farmingdale, NY 11735 | www.itamg.com
+

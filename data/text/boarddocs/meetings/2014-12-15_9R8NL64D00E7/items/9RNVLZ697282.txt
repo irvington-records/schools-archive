@@ -1,0 +1,23 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/goto?open&id=9RNVLZ697282 | DATE: 2014-12-15 | TITLE: Work Session/Special Meeting | 10.7 Budget Transfers 14/15-06
+
+Meeting: Dec 15, 2014 - Work Session/Special Meeting
+Date: 2014-12-15
+Category: 10. Business Office Matters
+Subject: 10.7 Budget Transfers 14/15-06
+Type: Action (Consent)
+
+Budget Transfer 14/15-06
+
+					Debit A9780.700-00
+
+					State Retirement Loan - Interest
+
+				$1,769.00
+
+					Credit A9780.600-00
+
+					State Retirement Loan - Principal
+
+				$1,769.00
+
+	This reason for this transfer is to reclass the amount for Principal and Interest.

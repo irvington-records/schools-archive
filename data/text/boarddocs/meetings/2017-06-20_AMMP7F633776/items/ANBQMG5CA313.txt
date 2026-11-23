@@ -1,0 +1,27 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/goto?open&id=ANBQMG5CA313 | DATE: 2017-06-20 | TITLE: Work Session/Special Meeting | 11.14 Budget Transfer 16/17-10
+
+Meeting: Jun 20, 2017 - Work Session/Special Meeting
+Date: 2017-06-20
+Category: 11. Business Office Matters
+Subject: 11.14 Budget Transfer 16/17-10
+Type: Action
+
+Transfer Out Account Code A9010.800.00.0000 for $46,000.00
+
+Transfer In Account Code A9040.80.00.0000 for $46,000.00
+
+Transfer Out Account Code A9020.800.00.0000 for $42,000.00
+
+Transfer In Account Code A9040.80.00.0000 for $42,000.00
+
+Transfer Out Account Code A9060.800.00.0000 for $20,000.00
+
+Transfer In Account Code A9040.80.00.0000 for $20,000.00
+
+Transfer Out Account Code A1950.400.00.0000 for $26,000.00
+
+Transfer In Account Code A9040.80.00.0000 for $26,000.00
+
+Transfer Out Account Code A1620.425.40.0000 for $32,000.00
+
+Transfer In Account Code A9040.80.00.0000 for $32,000.00

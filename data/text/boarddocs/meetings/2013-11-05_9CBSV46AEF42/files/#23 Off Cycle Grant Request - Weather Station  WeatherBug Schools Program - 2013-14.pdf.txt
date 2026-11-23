@@ -1,0 +1,741 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/pfiles/9CTQEU68FFD9/$file/%2323%20Off%20Cycle%20Grant%20Request%20-%20Weather%20Station%20%20WeatherBug%20Schools%20Program%20-%202013-14.pdf | DATE: 2013-11-05 | TITLE: Regular Meeting - *6:30 p.m. | 10.11 Donations - IEF Grant | #23 Off Cycle Grant Request - Weather Station  WeatherBug Schools Program - 2013-14.pdf
+
+          Irvington
+          Education
+          Foundation            OFF-CYCLE GRANT APPLICATION
+REACH FOR EXCELLENCE                     PROPOSALS for the 2013·2014 School Year
+
+
+     Typewritten proposals must be sent to Dr. Raina Kor after getting necessary signatures and
+     approval.
+
+
+     Your Name: Philip Levine                                                Phone: 914-523-2087 (cel/)
+
+     Email: I2hilil2./evine(iD.irvingtonschools.org                          School: IMS
+
+     Name of project: Weather Station and WeatherBug                         # of students affected: All K-12
+     Schools Program from Earth Networks                                     students in the Irvington UFSD
+
+     Content area of project: Science - primary                              Grade level of students: kindergarten
+                             Technology - primary                            through 12th grade
+                             Math - secondary
+                             Geography - secondary
+
+     Is this a NEW or REPEAT grant request? NEW                              Implementation Date: as soon as the
+                                                                             weather station is installed and
+                                                                             up and running on our network
+     If repeat, date of submission of evaluation form from previous grant:
+
+
+                           Budget - include TOTAL amount requested:          $ 8,690.00
+
+     1) State the specific classroom/school needs your project addresses. How does the proposed
+        project build on eXisting programs? Please include how this project incorporates the
+        curriculum and is linked to State and/or national standards.
+         At the current time, we do not have a local weather station that students in the
+         school district can use to access local weather data. The Weather Station and
+         WeatherBug Schools Program from Earth Networks will support STEM
+         initiatives in a variety of ways, ultimately putting authentic, real-time data at
+         everyone's fingertips.
+
+        There are three major components to this grant, the Weather Station, the
+        WeatherBug Achieve web-based program and an Online Weather Center.
+        The implementation of WeatherBug will begin with the WeatherBug Standard
+        Package but in the future will have the ability to add two very important
+        components to this system, the High-Definition Camera and the Lightning
+        safety solution.
+
+        Currently grade six science, grade eight Earth Science and high school Earth
+        Science teach components of weather and climate. In planning for the future,
+        the WeatherBug Program has teaching implications to the fol/owing Next
+        Generation Science Standards topics in Weather and Climate:
+        Kindergarten . .. K-ESS2-1 and K-ESS3-2
+        :fd Grade . .. 3-ESS2-1 and 3-ESS2-2
+        Middle School . .. MS-ESS2-5 and MS- ESS3-5
+
+   High School . .. HS-ESS3-5
+
+   The program has teaching implications to the following Next Generation
+   Science Standards topics in a number of different Engineering and Design
+   topics.
+
+   The program can also be utilized by teachers in areas of mathematics and
+   geography.
+
+2) Describe your project in detail. Please be specific, including how students will engage in the
+   activity and how you will measure whether or not this project has been successful. Indicate
+   methods you will use to accomplish and publicize your project.
+   The cost of the WeatherBug Schools Program includes three major
+   components:
+   a) a weather station - that will be installed on our IMSIIHS campus rooftop
+   b) a Web-based program that displays real-time weather data collected from
+      the weather station along with interactive tools and lessons
+   c) the costs of installing and setting up the WeatherBug Schools Program
+      (installing the weather station on the roof and connecting it to WeatherBug
+      Network Appliance.)
+   The WeatherBug Standard Package includes:
+   a) a state-of-the-art weather station that tracks 27 different parameters from
+      our campus rooftop in real-time
+   b) the WeatherBug Network Appliance - an IP enabled device that connects
+      easily to the Internet, provides fast transmission of the data from our
+      weather station, has a 72-hour battery life and automatically reboots as
+      needed
+   c) all necessary cabling and connections
+   d) LIFETIME site-license to WeatherBug Achieve, an award-winning,
+      Web-based program that incorporates live weather data into dynamic and
+      interactive tools and lessons
+   e) Interactive tools and activities - These include the LCD Display Unit, the
+      Online Weather Center and the Safety Alerting Tool.
+
+   Once the system is installed and up and running, every teacher and student in
+   our school district will have immediate access to WeatherBug Achieve and the
+   Online Weather Center. I have spoken to Gary Knowles and Steve Amy and
+   have been assured that our facilities and technology network can
+   accommodate the weather station and WeatherBug Achieve (web-based
+   instructional program). Part of the grant request covers the costs for the
+   installation and set-up of the system by WeatherBug to assure that we can
+   take advantage of the program benefits immediately.
+
+   As soon as the grant is approved, we can begin to share the program benefits
+   with administrators, stUdents and families in the community by sharing some
+   of the applications and websites.
+
+3) Describe how your project will benefit students.
+   There are a number of benefits that the WeatherBug Schools Program will
+   provide:
+
+   a) it will enable students to keep track of local weather and compare and
+   contrast the data to other WeatherBug Schools. There are about 8,000 other
+   weather stations that data can be accessed from locally and nationally.
+   b) it provides students with access to weather alerts, weather forecasts, radar,
+      camera images and historical observations via a WeatherBug hosted page,
+      which is customized for our school district
+   c) it provides examples of how technology and engineering are used in the
+      study of weather and climate
+   d) it stimulates and engages students with a Web-based program that
+     incorporates live weather data into dynamic and interactive tools and
+     lessons
+
+Will the project be continued at the end of this grant? If so how will it be funded?
+   We will have a lifetime site-license to the WeatherBug Achieve software
+   curriculum and access to 8,000 Weather Stations and 1,200 cameras located at
+   schools nationwide.
+
+    Although there are no additional costs once the system is installed and up and
+    running, there are two additional components that we might want to consider
+    adding/purchasing in the future. One is the WeatherBug Total Lightning
+    Solution which includes a sensor that connects to the existing weather station
+    and provides advanced notification of lightning as a result of the detection of
+    in-cloud and cloud to ground lightning. The other is a high-definition camera
+    that can IIbring our weather station data to life". The costs of adding both of
+    these components is between $6,500 and $8,000 depending upon the type of
+    camera package.
+
+4) If your project will result in a product, what will become of it?
+   Once the weather station is installed and connected to our technology
+   network, a customized WeatherBug hosted Web-based Online Weather Center
+   that is set-up by WeatherBug will be created. We will have a lifetime site-
+   license to this software and weather system data providing an exciting,
+   real world learning opportunities for the students.
+
+5) Will volunteers be required to implement this program? What plan do you have to recruit
+   these volunteers? Will you require help?
+   No volunteers are needed to implement the program because we are paying to
+   have the equipment installed and set-up.
+   The technology department will be able to help trouble-shoot any problems wit
+   the support of the WeatherBug.
+
+7) What type of technology support and/or maintenance (software and/or hardware) will your
+   grant require? Please describe the initial technological requirement(s) in addition to any and
+   all ongoing maintenance. (Please include all costs associated with technology in the budget
+   section of this application.)
+   The WeatherBug Network Appliance easily connects to the Internet.
+  Anyone with internet access can access the weather data coming from
+  Irvington's weather station.
+  The WeatherBug weather station requires very little maintenance and is fully
+  automated, and all components interface with a host of WeatherBug
+  applications. Should there be a maintenance problem, issues can be evaluated
+
+    and diagnosed remotely by calling the unlimited-usage toll-free technical
+    support service. The weather station includes a comprehensive one-year
+    warranty.
+
+    I have been on the campus roof with Gary Knowles to confirm that our facilities
+    can support the weather station and have been in communication with Steven
+    Amy from Eduteck to make sure that our network can accommodate the
+    technological requirements.
+
+
+
+
+                                                 Please Note:
+   If your grant is awarded, you will be required to complete an evaluation form within 30 days of project
+                        completion. These forms will be attached to the award letter.
+
+
+
+
+BUDGET
+ Please complete this section thoroughly and completely. Adjustments to budget items will need
+                            to be evaluated once a grant is awarded.
+
+
+A. Contractual Pay for Professional Staff:
+
+A1. Please calculate the number of hours you will need to develop your grant, and to prepare the
+    materials for the meetings with students. The rate of pay for teachers for curriculum work is $44.33
+   per hour or a daily rate of $321.51 (based on the 2013-2014 teacher contract hourly rate).
+
+A2. If this grant is for an extra class club, please add the appropriate stipend from the IFA contract.
+
+
+ A1.
+ A1.
+            Name Of Person
+                                          I   Amount Of Time Requested
+                                           $44.33 x
+                                              .33 x
+                                                           hours
+                                                           hours
+                                                                                            Project Salarv
+
+
+ A1.                                       $44.33 x        hours
+
+ A2.                                       Stipend@
+ A2.                                       Stipend @
+                                 Total Cost for Pay for Professional Staff           $
+
+
+B. Consultant Services
+Please attach a curriculum vitae or resume to this application if an outside consultant is being requested.
+
+           Name Of Person                      Amount Of Time Requested                  Total Project Salary
+
+                                        Total Cost for Consultant Services I $
+
+
+C. Supplies, Materials and Equipment: Please include any and all costs related to software and/or
+hardware upgrades, maintenance, etc. Please itemize.
+
+            Description Of Item                    Quantity          Unit Cost              Total Cost Per Item
+ WeatherBug Standard Package                   1                 $6,490                  $6,490
+ Instal/ation of Weather Station               1                 $2,000                  $2,000
+ Shipping and Handling                         1                 $200                    $200
+
+
+
+
+                      Total Cost for Supplies, Materials and Equipment                   $ 8,690
+
+D. Travel Expenses:
+Include conference costs and approved mileage rate for travel at the rate of $0.565 per mile. Make sure
+to include tolls and parking expenses, if appropriate.
+
+           Name                     Destination &             Mileage &            Other Travel        Total Cost
+                                      Purpose                   Cost                Expenses           Per Person
+                                                                                 (Please Itemize)
+
+
+                                                                Total Cost for Travel Expenses        $
+
+
+
+                                    RANT REQUEST:                    $----I.e:....r--..::..-----
+
+
+
+                                                                                     I
+                                                                           9/,
+                                                                            ,
+                                                                            •
+                                                                                 /1
+                                                                                 I
+                                                                                 i
+Before submitting, if~he
+                      proposed grant requires any technology, it must be approved by the Chief
+Informati Off7~y Coordinator.
+
+
+Jess Lubindky,'CIOlTechnology Coo(Binato(
+                               /"     //
+
+
+ efore submitting, if the proposed ~ant will alter the facilities in any manner, it must be approved by the
+Dir tor of Facilities.
+
+Before submitting, please have the Director of Pupil Personnel Services sign off if he will be involved in
+the implementation of this proposal.
+
+
+             0, Director of Pupil Per.                                              Date
+
+
+
+
+                                         For Office Purposes Only
+
+Application Received:           ?j11,IIJ                  Grant #:   ~;{.=-«..;;::;..3_ _ __
+Grant Reviewed:         ON: _ _ _ _ _ __                  BY:
+                                                                -----------------
+Next Step:
+o     Sent to IEF:
+                       ----------------                    Amount:< ___________
+o  Returned to Teacher:
+                           ------ Notification sent: _________
+
+       ~                                                                                                                                                            "
+..,.       ~                                                                                                                                          'f   r"   •
+
+
+       ~-~
+        -"
+           WeatherBug' Schools                                                                                                                Ear.1h
+                                                                                                                                         Net worKS-                     :.
+
+                                            WeatherBug supports your STEM initiatives, helps keep students and staff safe from
+           Program Overview
+                                            lightning and severe weather and shares your weather data with the community.
+
+
+
+
+ Safety
+ Help Keep Students Safe                                                                                                           Improve STEM Skills
+                                                 • Prot.c:t studtm, s10ff en:!                • Aword-Wuming K-12 Program
+                                                   Yisiton from rlghtning and                 • STEM content and s1dlls
+                                                   other ~ weattw.                               development
+                                                 • Make ocxurate en:! safe                    • OnUne interoctive tools
+                                                   outdoor, athletic,                         • Standords-cilgned lessons
+                                                   trallSpOItatIon and                        • GIS-bosed octMtIes
+                                                   schook::IoIIng dacIsIons.                  • T eocher trtinlng
+                                                                                              • Springboold for \eomIng
+                                                                                                concepts and sla11s In:
+                                                                                                                                            Vide~casting
+       • R.eceiYe Immediate weatIw oI.u to
+         mobile dM:es, c:omputers, Indoor
+                                                                                                                             Science
+           alerting devices en:! outdoor homs.
+
+                                                                                                                              MATH
+
+                                                                                                                        \
+                                                                                                                        \.         GI~            Geography
+
+                                                   \
+See Your School on TV                              \
+
+
+
+
+                                                                         ---   --' '''-~.
+
+                                                                                        !
+                                                                                        I
+
+                                                                                        I
+       Over 100 local meteorologists oaoss the country feature                               Be b weather
+       WeotherBug schools during their on-olr weather reports. *
+       This Is great ~blIity for your school.
+                                                                                        ! •• PrcMde                 In
+                                                                                                                 resoun:e
+                                                                                                    COI1'1tI'UVty 1Ofe.
+                                                                                                   keep your
+                                                                                                                                             en:!
+                                                                                                                              yoUr neighborhood     help
+
+
+
+       "Schools ore the center of our communities and ore where we
+                                                                                        I               atdcoIlnfomIotIon
+                                                                                                                        to flrst respOnderS.
+                                                                                               • Partidpoteln a PTAIPTO-supported progiOtiL
+       go to get local condItions."- Doug HIl, 0lJeF~                                          • Contrfbute ~ doto to 1he Notonal Wer:stt. SeMc:e. Your
+                                     ABC 7 - Washington, DC                                      data con be used to issue 10001 sew!Ie weather alerts.
+
+                                                                                        !
+                                        ~rIDJ~mt                                        i
+                                                                                    . .. J\ L -_    _ _ _ _ __    _ _ _ _ _ __ __                    _ _ _- - J
+
+                    WcotherBug                                                                                             /.,          •       ,"         ..       ~.
+                                                                                                                                                                                      _                            "           ...                  .',,'      ;               " ' "                      ! •.
+                 Standard Package                                                                                                      ..                                                                         .,                                           . ..                   '.             .
+
+
+It 011 storts wtth a sclentiflc-grcde Weathef8ug Weather Station, built to withstand 011 kinds of weather and easily installed on your
+school's roof, where It records 27 different weather meaSUrements In real time - not once each hour like other weather stations.
+                                                                         Interactive Tools and Activities
+
+                                                                                                 LCD Display Unit                                                                                          Sofety Alerting Tool                                        Online Weather Center
+                                                                                                                                                                I
+                                                                                                                                                                I
+                                                                                                      60 ·~i . ..
+                                                                                                                                                         .
+                                                                                                                         \~       ./
+
+
+                                                                                                                                                     -
+
+
+
+                                                                                            Prominently display                                                                                           Receive weather alerts                                       Turn your website Into
+                                                                                            your school's real-time                                                                                       the moment they are                                          a source of valuable
+                                                                                            weather conditions,                                                                                           issued by the NWS.                                           information for visitors
+                                                                                            camero, radar, forecast                                                                                                                                                    and staff.
+                                                                                            and more.
+
+
+   Online Education Software
+
+
+
+                                                                     The Standord Package cames with a lifetime slte-license to WeotherSug Achieve, the award-winning
+                                                                     software curriculum that brings your weather station data into the dassroom. WeatherBug Achieve's
+                                                                     web-based lessons are automatically populated with real-time weather data from your station (and
+  ,
+  ~
+                                                                     camera) or from anyone of 8,000 Weather Stations and 1,200 cameras located at schools nationwide.
+  1L:.:.~='=';~
+  . . . ..   _   '   " , ' . ,.",...,. _",~ " •• ~, _   _ ~ _ • • '· ~r _ _ ~. ' •   ••   V_· ..••..'-._. __   .'" ~ '_ "'~_,'   ', '-" ,_.   _ ,, ~ 'H " _ ' ~".   "   " ~~_ ~ _' ... .. . '_~ ~ '•• ' . ' _ ' _ ' '''' •• ' _ ' ' ' _ , , _   _
+
+
+
+
+                 HD PTZ and .HD                                                                                           : .... ' ' I                          .'               ,'; i                                 ,                "           1,'   l'       .
+
+                 Camero Solutions
+
+Cameros add great Content·for your Web site and provide an excellent leamlng opportunity
+that enables students to mrrelate weather measurements with lmoges. There are two camera
+packages that really bring weather to life for your school:
+
+HD PTZ Padtag : Standard Package + HD PTZ Com - High deAnition pai'Vb1t/zoom motion
+camera with a 3..a" panoramo ond eight programmable views - 011 controllable from your desktop.
+
+HD Package: Standard Package + HD Com - Stationary, high definition camero provides the                                                                                                                                                                                .Create time-lapse onlmotlons
+lharpat 1280 x 720 Images that are perfect for creating time-lapse weather animations.                                                                                                                                                                                  and view 111111 1" ' 1280 x nol
+
+
+             WeothcrBug Total                                                                                             ,.                                                                                                                                 ,
+             Lightning Solution                                                                                           .. , ,"                     . '.                                  .             .            , .'"                        .     "',,' .      "
+
+
+                                                                                                                                                                                Add Ughtning Safety to Any Package Above
+                                                                                                                                                                                The Standard in Ughtning Detection and Early Waming Systems
+                                                                                                                                                                                • Ughtnlng Sensor • Ughtnlng Visualization ond Alerting Platform
+                                                                                                                                                                                 • WeotherBug Email Alerts • Indoor Alerting Device (optionaO
+                                                                                                                                                                                 • Outdoor Alerting System and Cauntdown Oock (optional)
+
+
+             AJI equipment packages come with a comprehensive one-year worronty. Professional installation ;s available upon request.
+  To become port of the WeatherBug Schools Program, call an Education Representative at 1-800-544-4429, Ext. 2
+                       or visit www.weotherbugschools.com and complete the contact form.
+
+.
+, .:   ..,                                                                                                           ..   ~,   L"
+
+
+
+
+\Qi'
+ ~
+    WeatherBug' Schools                                                                                  Net worKS
+                                                                                                              Earlth
+
+
+
+
+                                                I. Wind Sensor -     Wind speed and dlracflon.
+
+                                                2. Sensor Shelter - Temperature, relative humJdIty, heat Index. wind
+                                                  . g,IlI, barometrk: pressure, dew point, wet bulb and mote.
+
+                                                3. Rain Gouge -    Dolly, monthly and yearty rainfall totals and overoges.
+
+                                                4. Ughtnlng Sensor (optfonol) - Integrated IrKloud (10 and doud-
+                                                   t~round (CG) lightning detection sensor (see WeatherBug T0101
+                                                   Ughtnlng overview for more Info).
+
+                                                5. HD Camero (optlonol) - Stationary orpon, tilt and zoom HD coms
+                                                   Incorporate state-of-the-art lmoge-enhoncement technologies In a
+                                                   Compact body; that allow users to copture cIeor and bright Images
+                                                   and video In challenging environments. (More Information on I'8Yerle.)
+
+                                                6. WeotherSug Network Appliance
+                                                   An IP-enabled device that connecb easily to the Internet, prcMdes
+                                                   fast transmission of your weather station dota, has a 72-hour battery
+                                                   life and autornoticolly reboots os needed.
+
+                                                7. WeotherBug LCD Display
+                                                   Thls bright, eosy-to-reod plug-ond-ploy LCD display con be Installed
+                                                   In school offloes, dossrooms, science lobs, hallways or high-traffic
+                                                   areas. It will scroll and report the following from your school's
+                                                  weather station:          .
+
+                                                  • Current Conditions                • Live & TIme-lapse   Camera
+                                                  • Forecast (3-doy)                    (from your site or the closest
+                                • • • '1.   "     • Doppler Radar                       camera to your location)
+                         6                        • Local Weatt..r Alerts
+
+
+
+Built to withstand and measure all kinds
+of weather, a WeotherBug weather station
+requires very IIt1fe maintenance and Is fully
+automated, and all components Interface
+with a host of WeotherBug appllcatlons.
+Should there be a maintenance problem,
+Issues can be evaluated and diagnosed
+remotely by colling our unlimited-usage
+toll-free technlcolsupport service. The
+Weothet£ug weather station includes a
+comprehensive one-yeor worromy.
+
+.
+,~~~ WeatherBug' Schools                                                                                                                   Earlth
+                                                                                                                                      Net worKS
+                                                                                                                                                               '
+
+
+
+
+~
+
+
+   High-Definition                    T,.'(:, f ,tl:'j"'il) hn.-,;, "              I   Ii'. '.' "',., , " I I , '        ".    q',' (:r',j
+           Conleros                    ~   ,,) r   ""1'   'l(j ',"   I' I' ) , -       ,,;d       I I , : ' .1,'   , I , f'"   " r·   I,,'·   ,"   ',rlri, "
+
+
+
+   HD Cameras Bring Your Weather Station to ute
+  WeatherBug HD Cameras open a window to
+  the world and take the power of observation to
+  new heights by bringing flexibility, clarity and
+  functionality that will quickly break down the
+  walls of your leamlng environment. They allow
+  students to create time-lapse animations, track
+  weather systems os they blow in and observe
+  the relationship between two parameters-what
+  happens when temperature and dew point rise
+  and fall, light Intensity increases and decreases,
+  season changes and more, Even the most complex
+  mathematical and scientific cancepts become
+  easier to comprehend through advanced graphing
+  in unison with animated time-lapse images,
+
+
+                                                                                         .. -
+                                                                                          •
+                                                                                        ~~~~-M-'----~--=~-=------.---~~
+                                                                                         .... -
+                                                                                                                     ~
+                                                                                                             f7 ~...... ",-,...
+                                                                                                                               ..........
+                         Weather Bug HD Cam - The HD Weather Camero delivers exceedingly clear,
+                        .hlgh-deflnltlon Images to your classroom of storms and systems as they move through
+                         your o~n full 16:9 aspect ratio. Teachers and students correlate measurements
+                         they are observing With Images captured fNf!ry five minutes.
+
+
+
+    ...   --..   t
+                 ~~
+                        WeotherBug PTZ HD - The Pon TIlt Zoom (PTZ) HD Camero Is a rapid d ome camera
+                        that delivers excellent picture quality at HD resolution In 16:9 aspect rotto. Advanced
+                        programming and control opflons give you the abllhy to zoom In on leamlng events
+                        for detailed enhancement; tilt up to 210 degrees; and pon up to 360 degrees with
+                        endless hlgh-speed.'ponnlng capobllhy,ollowlng you to cover a wide monitoring area.
+
+
+
+  Weather6ug HO                                                      The PTZ's advanced
+  Cameros integrate                                                  programming allOws
+  seamlessly into                                                    users to "drive"
+  the LCD Display,                                                   the camero using
+  pictured right. and                                                simple cantrol$.
+  WeotherBug AchieYe,                                                The lOx optical HO
+  top-rlghtondahost                                                  zoom lens allows for
+  of other WeatherSug                                                extreme dose-ups.
+  applications.
+
+
+
+To become purl of the W(>olhcrBlIg Sch()ol~ Proqram, cull un EJlIC(lll()f1 R('pre~cntotiv(' 01 1-800·544 -4429, Exl. 2, or
+                        ... isit \~,\'VI.\·.cothcrbllyschools.com and complete the contact form
+
+       t:         . .          .
+I~''''"'II                                                                                                                            ' ......... \.""       :
+ '- ~               ,                                                                                                                                    ,
+   ~J WeatherBug' Schools                                                                                               N t Earlth                       "1
+                                                                                                                            e worKS                      'f
+
+
+                             Integrate real-world instruction and STEM content into the classroom
+
+
+
+                               ~ WeatherBug @chieve                              ll
+
+
+
+
+ Stimulate and engage young minds with an award-winning, Web-based program that
+ Incorporates live weather data Into dynamic and Interactive tools and lessons. WeatherBug
+ Achieve Integrates science, math, geography, technology, programming and more to Improve
+ student achievement using the live weather data from your school's very own WeatherBug
+ Tracking Station or from any of the ather 8,000 schools In the WeatherBug Schools Network
+
+
+                                                          Dynamic Data Integration
+
+                                                                         learning Centered Lessons
+         J~ \ ' . 1     '.                                         .._
+                                                                         Lassons eire standords-based and can be usedlnsetf-tought or
+                                                                         teacher facilitated settfngs. These'~ lessons en supported
+      What Is EI Nino? What Is La Nina?                                  by excltInggraphics and the thrill Of usJng IiYe weather ewnts from
+                                                                         the WeatherBug Schoo!s Network of over 8,000 schools nationwide.
+
+                                                                           • The content Is 01Ways fresh because the data ftw lessons
+                                                                             a nd tools are constantly changlngwtththat dais
+                                                                             weathercandlflons.          '
+                                                                           • Students can study different locations and weather extremes,
+                                                                             and  campen  and contrast thosewittl the .weather of their
+                                                                             location;            .
+                                                                           • Conc.epts are reinforced through repetition of lessons
+                                                                             usJng ntNI data points,
+                                                                           • Students learn at their own pace.
+Students Mom at their own pace with engciglng, Interactive content
+that Is olNays chon".•. tN WNtherJ                                         • Interodfve lessons portMde Instant feedback.
+                                                                         Activity Explorer Includes tools for 1eachersto "search and select"
+                                                                         lessons based on state standards a nd content area. I...essOn plans
+                                                                         and projects are easily genenrted and are In allgnmentwltn
+                                                                         stote standards.
+                                                                         WeotherBugAchIeYe's standards database Is continually updated,
+                                                                         so teachers stay ahead of changing cun1a.llum requirements. In
+                                                                         addition, WeatherBug AchieYe ls regularly reviewed to ensure that
+                                                                         It cOntinues to compfy with the latest adYancerneritsln technology
+                                                                         a nd Web-based Instruction.
+
+                                                                         Visual Leomlng Environment
+                                                                         Powerful OfOphlcs tools enable students to literally see what they're
+                                                                         learning. E¥en the most complex mathematics and science concepts
+                                                                         become easier to oomprehend through acNoncecl mapping and
+                                                                         graphIng features, Including IlYeAim&-lopsed photography.
+
+             ..                                                          Graphing tools help your studentl to understand, analyze and
+
+
+
+                              P'--- ,-,-
+             M~----------------~-----------J
+                                                                         manipulate 011 types of data using WeatherBug data. Multiple
+                                                                         weather parameters con be plotted using hlstorlcol weather
+                                             lip , n .R
+                                                                         information from any of the 8,000 We0ther8ug schools, Your
+                                                                         students can also chart changes to weather conditions;
+The DataCom tool caup/e$time-Iopse images with a graphing                this will help them understand how to detect patterns and
+capability that allows students to correlate visual and plotted data.    trends over time.
+
+...   .
+                                                                                        Uveond Time-Lapsedlmoges oreavailoble
+                                                                                        from over 1,500 WeatherBug Cameras within the
+                                                                                        Weather8ug Schools Network. live and time-lapse
+                                                                                        Jmages from WeatherBug Cameras con be
+                                                                                        Incorporated Into lessons. Your students watch and
+                                                                                        com pore weather changes In different regions of
+                                                                                        the country.
+
+                                                                                        Map Gallery 100Is let students view, create and print
+                                                                                        mops. Map Gallery enables them to compore live
+                                                                                        weather date and develop skills In spatial relations.
+                                                                                        Students con gather Infonnatbn, categorize the date
+                                                                                        and choose the right symbols or colors to represent
+                                                                                        the date on a map. Radar and satellite mops
+                                                                                        are included.
+
+                                                                                        StormCent(al keeps students updated with all the
+                                                                                        latest Information during hurricane season. You will
+                                                                                        find satellite a nd radar maps of the Eastern and
+                                                                                        Central Atlantic, the Cor1bbean, .the Windward
+                                                                                        Islands, the Gulf Coast a nd the Atlantic coastal U.s.
+ Mop Gallery aIaws students to a.cstomlm weather mops and be the meUOrologist,          Strike Probability and Storm Track maps allow you to
+Just. '~ On lY. The ~o' the Day odMty provicks 0 fMlp#om for                            follow the storms as they deYeIop. The Interocflve
+Intwpff!tIng arid aeothg the day's weather for&cost.                                    Storm Tracker tool plots current and hIstorical storms.
+                                                                                        You con also print trocJdng mops for your students to
+                                                                                        pIothurrlcones on their own. Your students con
+                                                                                        baoome AchJeve..basecl hurricane hunters.
+
+                                                                                        Training and Special Programs
+                                                                                        At Your Convenience Training can be accessed
+                                                                                        whenever and wherever It Is most convenient for
+                                                                                        teachers -at home, at school. before class storts or
+                                                                                        In the evening. Th. Web-based training modules are
+                                                                                        dlvkled Into eosy-to-Ieom topics that last no more
+                                                                                        than 15 minutes each and con be YIewed os many
+                                                                                        times as needed on ony computer with on
+                                                                                        Internet connec:tlon.
+
+                                                                                        The Lead Teacher Program provides recognition,
+                                                                                        visibility and credibUtty to the designated teachers
+                                                                                        who become resident eKper1Jof the program.
+                                                                                        Weather8ugAchIeYe Lead Teochen get Immediate
+                                                                                        support Including a Web-based user's manuoland
+                                                                                        Supplemental tnilnlilg materials. Lead Teachers
+                                                                                        also howl access to spedal feo1ures In WeatherBug
+                                                                                        Achieve to keep them abreast of the latest updates.
+                                                                                        announcements and product enhancements
+                                                                                        throughout the year.
+Be a hurricane hunter right r, the c:Iossroom! Troc:k current and hlstoricol troplcaJ
+storms and hurrk:ones. Up-to-the-minute Information from StormCentrol puts your
+dossroom right In the middle of tropical octJvlty.
+
+
+
+
+      To become part of the WeatherBug Schools Program, call an Education Representative at 1-800-544-4429, Ext. 2
+                           or visit www.weatherbugschools.com and complete the contact fonn.
+
+           ...
+                                                                                                                                  -
+   .., /!:.- :                                                                                                                .
+     I\Q~) WeatherBug' Schools                                                                                     Net worKS
+                                                                                                                        Ear.th
+       ,--
+                                                         Online Weather Ccntcr
+
+                 The Online Weather Center is a Web-based tool that showcases the live weather information from your
+                 school's WeatherBug e Weather Station. Parents, faculty and students have access to weather alerts,
+                 forecasts, radar, camera images and historical observations via a Weather Bug hosted web page, which
+                 is customized for your school.
+
+                 Bring your web site to life with real-time weather data. Turn your Website into a source of valuable
+                 information for visitors and the local community. Empower your operational decisions with a centralized
+                 view of all weather data collected from your school's WeatherBug Weather Station and Camera.
+
+
+
+                 UVE CONomONS                        HISTORICAL OBSERVATIONS                    CAMERA IMAGERY
+                 • Temperature                       • Daily / Monthly Data Tables              • Time-lapse Capabilities
+                 • Wind Direction, Speed, Gusts      • Interactive Graphing Tool                • Varied Playback Intervals
+                 • Pressure                          • 27 Weather Parameters
+                 • Relative Humidity                                                            FORECASTS
+                 • Daily Rainfa"                     RADAR AND SATELLITE MAPS                   • Day & Night
+                 • Heat Index, Wind Chill            • Enlargement & Animation Capabilities     • Seven Day
+                                                     • Doppler; Infrared, & Visible Satellite   • Hourly
+                 WEATHER ALERTS                        Imagery
+                 • Location Based
+                 • Visually Depicted
+
+
+
+
+                                                             _c.._~
+
+
+
+
+         To become part of the WeatherBug Schools Program, call an Education Representative at 1-800-544-4429, Ext. 2
+                              or visit www.weatherbugschools.com and complete the contact form.
+EN.MklQ.Ent.ECB .MM2120i 220522
+

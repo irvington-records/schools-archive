@@ -1,0 +1,6 @@
+SOURCE https://www.irvingtonschools.org/departments/technologyandinnovation/data-privacy-and-security | DATE 2026-10-05 | TITLE Data Privacy and Security
+
+Data Privacy and Security
+New York State Education Law § 2-d
+New York State Education Law § 2-d and the Family Educational Rights and Privacy Act provide clear protections for student data, and NYSED is committed to complying with all applicable laws. The New York State Department of Education has committed to promoting the least intrusive data collection policies practicable that advance the goals of improving academic achievement, empowering parents with information and advancing efficient and effective school operations while minimizing the collection and transmission of personally identifiable information, and will work to ensure that this is reflected in the practices of every educational agency in New York State by developing policies and standards that will provide clear guidance to the field.
+Regulatory changes to increase information security measures to safeguard the Personally Identifiable Information (PII) of students and certain school personnel. Part 121 regulations outline requirements for educational agencies and their third-party contractors to ensure the security and privacy of such protected information and were developed in consultation with stakeholders and the public.

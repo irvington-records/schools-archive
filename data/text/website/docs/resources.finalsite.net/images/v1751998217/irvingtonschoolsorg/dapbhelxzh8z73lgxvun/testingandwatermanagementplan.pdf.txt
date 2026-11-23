@@ -1,0 +1,837 @@
+SOURCE https://www.irvingtonschools.org/fs/resource-manager/view/192b3604-9e01-4927-80e4-418e0dcc0c69 | DATE 2025-07-08 | TITLE testingandwatermanagementplan.pdf
+
+Regulatory   RegCom Compliance
+
+    ______________________________________________________________________
+
+                                Regulatory Compliance
+                                  245 Albany Avenue
+                              Thornwood, New York 10594
+                                    (914) 439-6513
+
+
+                                 10 NYCRR Subpart 67-4
+                           Testing and Water Management Plan
+                                          For
+                                 Lead In Drinking Water
+
+                                                For
+
+                                     Irvington UFSD
+                                       6 Dows Lane
+                                   Irvington, NY 10533
+
+                                                at
+
+                                      High School
+                                     Middle School
+                                  Main Street School
+                              Dows lane Elementary School
+
+
+                            Project Number: IRV.1015.23.IH
+
+
+
+
+Dates of Survey:
+March 10, 2023
+March 16, 2023
+
+Field Work performed by:
+Nicholas Coon, BS
+
+Report Written by:
+Ernest Coon, MS, RPIH, HEM
+
+
+
+
+                                                 1
+                        Regulatory   RegCom Compliance
+
+
+
+
+                        TABLE OF CONTENTS
+
+
+
+1. SCOPE OF WORK                                           3
+
+2. INTRODUCTION                                            3
+
+3. RECOMMENDED/REQUIRED SAMPLING LOCATIONS                 3
+
+4. SAMPLING METHODOLOGY                                    5
+
+5. SAMPLING LOCATIONS, OBSERVATIONS AND DISCUSSION         6
+
+6. RESPONSE AND CORRECTIVE ACTIONS                         7
+
+7. POST-REMEDIATION TESTING                                8
+
+8. PUBLIC NOTIFICATION REQUIREMENTS                        8
+
+9. ELECTRONIC REPORTING IN HCS/HERDS                       9
+
+10. RECORDKEEPING REQUIREMENTS                             9
+
+11. BEST MANAGEMENT PRACTICES TO REDUCE LEAD IN DRINKING
+    WATER                                                  10
+
+12. LEAD IN DRINKING WATER SURVEY FACT SHEET               11
+
+
+
+
+                                     Appendix
+
+Appendix A          Tabulated Results
+Appendix B          Laboratory Data Sheets
+
+
+
+
+                                         2
+                                    Regulatory   RegCom Compliance
+
+
+
+
+1.0     SCOPE OF WORK
+Irvington UFSD retained Regulatory Compliance to test water fixtures in select areas identified
+by the district for lead content. The overall objective is to determine the lead content in drinking
+water in the district’s buildings.
+
+
+2.0     INTRODUCTION
+Lead is a toxic metal that can be harmful when ingested (or inhaled), and young children are
+particularly sensitive to the effects of lead. Lead can get into drinking water by being present in
+the source water, or by interaction of the water with plumbing materials containing lead (through
+corrosion). Common sources of lead in drinking water include: solder, fluxes, pipes and
+pipefittings, fixtures, and sediments. Thus, it is possible that different water outlets in a given
+building could have dissimilar concentrations of lead. Lead in drinking water is regulated under
+the Safe Drinking Water Act (1974) as amended. The Lead Contamination Control Act (LCCA)
+amended the Safe Drinking Water Act and is aimed at identifying and reducing lead in drinking
+water in schools (and day care facilities). In April 1994, EPA prepared two guidance documents
+to assist municipalities in meeting the requirements of the LCCA. On September 6, 2016, the
+Department of Health DOH issued emergency regulations for the implementation of the new
+law, Lead Testing in School Drinking Water, the regulations became Subpart 67-4 of Title 10
+(Health) of the Official Compilation of Codes, Rule and Regulations of the State of New York. A
+revised 67-4 went into effect on December 22, 2022.
+
+The following information provided in sections 3-11 are taken from 10 NYCRR Subpart 67-4
+and the NYSDOH slide presentation “Lead Testing in School Drinking Water - Program Review
+and Updates Environmental Health Conference ,” from October 25, 2022.
+
+
+3.0     RECOMMENDED/REQUIRED SAMPLING LOCATIONS
+Outlets that should be sampled may be located anywhere on school property including external
+outlets (hose bibs) if the outlet may be used for drinking or cooking (including food preparation).
+
+Samples must be collected at all outlets used or potentially used for drinking or cooking,
+including but not limited to:
+    • bubblers/drinking fountains
+    • classroom sinks
+    • classroom combination sinks and drinking fountains
+    • kitchen sinks
+    • kitchen kettle filler outlets
+    • bathroom sinks
+    • family and consumer sciences room sinks
+    • teachers’ lounge sinks
+    • nurse’s office sinks
+
+
+
+                                                     3
+                                    Regulatory   RegCom Compliance
+
+   •   athletic field outlets and any other sink known to be or potentially used for consumption
+       (e.g., coffeemaker or cups are nearby)
+
+
+
+Applicable VS. Non-Applicable Outlets
+Superintendents or their designees have the responsibility to identify which outlets on a school
+property meet the regulation requirements for sampling (“applicable outlets”).
+If a Superintendent or their designee determines that they have outlets that fall outside of the
+scope of the regulation (outlets not used or potentially used for drinking or cooking), the school
+must have a remedial action plan that includes details on how those outlets will not be accessed
+and/or utilized for drinking or cooking purposes (“non- applicable outlets”).
+
+   •   Food washing sinks: Food washing faucets must be sampled as they are used for cooking
+       (including food preparation) and potentially for drinking.
+
+   •   Ice machines: The ice made in an ice machine should be sampled for lead.
+
+   •   Combination bottle fill station and drinking fountain: A sample should be collected from
+       both outlets. The Department recommends sampling the outlet that is most frequently
+       used first.
+
+   •   Hand washing outlets: In general, all hand washing outlets in a bathroom should be
+       sampled as bathroom outlets may be used to obtain water for drinking and/or food
+       preparation.
+
+   •   Foot level operated multi-outlet gang sink: In general, samples should be collected from
+       each outlet of a gang sink, however, if the gang sink design does not allow sample
+       collection from each outlet, the schools should contact the local health department or the
+       Department to discuss.
+
+   •   Traditional outlet with hot and cold-water handle: Samples must be collected from each
+       outlet but only the cold water should be turned on for sampling
+
+Non-Applicable Outlets
+In general, any outlet in a room or office within a school that is not used by students (pre-
+kindergarten through grade 12) and does not provide water for drinking or cooking does not
+require sampling.
+
+   •   Dishwashing sinks: If an outlet is designated for dish washing only and involves no
+       opportunity for drinking or cooking (including food preparation), the outlet does not
+       require sampling
+
+   •   Point of entry: Samples from the point of entry are not required under Subpart 67-4. Point
+       of entry is the location where water enters the building from the distribution system of a
+       public water system.
+
+
+                                                     4
+                                    Regulatory   RegCom Compliance
+
+
+   •   Science/Art room outlets: Typically, classrooms in these settings prohibit eating and/or
+       drinking. The school Superintendent has the authority to determine whether these outlets
+       may be used for drinking or cooking and whether they require sampling.
+
+   •   Tempered outlets: The Department and the US EPA recommend that hot or tempered
+       water not be used for drinking or cooking as warm or hot water increase the leaching of
+       lead into the water.
+
+   •   Bus garage: Outlets in bus garage buildings do not require sampling unless the building is
+       occupied by students (e.g., BOCES classes).
+
+   •   Custodial closet outlets: If the outlet is only used for custodial purposes and not for
+       drinking, then the outlet does not need to be sampled.
+
+   •   Any outlet excluded from sampling should be documented in the Remedial Action Plan
+       (and consider additional controls such locks, signs, and education).
+
+
+4.0     SAMPLING METHODOLOGY
+Samples were collected in accordance with the Lead Testing in School Drinking Water – 10
+NYCRR Subpart 67-4.3. A first-draw sample was collected in a wide mouth 250 mL bottle and
+collected from a cold water outlet before the water is used. The water was motionless in the pipes
+for a minimum of 8 hours, but not more than 18 hours prior to collection.
+
+Sampling Collection Guidance:
+   • Pre-stagnation flushing: The Department does not allow for pre-stagnation flushing prior
+      to sampling unless a school is directed to do so by the Department or local health
+      department.
+   • Aerators: Aerators should not be removed prior to sampling
+
+
+
+
+                                                     5
+5.0    SAMPLING LOCATIONS, OBSERVATIONS AND DISCUSSION
+
+Sampling Dates: March 10, 2023 / March 16, 2023
+The following water fixtures were tested: water fountains (bubblers/bottle fillers) and sinks from
+the Main Street and Dows Lane Schoo1.
+
+A total of Seventy-four (74) samples (including 2 blanks) were collected and analyzed for lead
+contaminates. All of the samples collected were within NYSDOH action level and compliant,
+with the exception of the water fixtures noted below. The sample results for all water fixtures
+tested are located in Appendix A.
+
+                                       Results       Action Limit   Compliant
+ Building      Location     Fixture                                           Remediation
+                                       (mg/L)          (mg/L)         (Y/N)
+ Main St.
+ School      Room 304       Sink         0.041          0.005           N          Required
+ Dows
+ Lane         Room 112      Bubbler      0.007          0.005           N          Required
+ Dows
+ Lane         Room 115      Sink         0.024          0.005           N          Required
+ Dows
+ Lane         Room 204      Bubbler      0.006          0.005           N          Required
+ Dows
+ Lane         Room 202      Sink         0.012          0.005           N          Required
+
+In accordance with Lead Testing in School Drinking Water – 10 NYCRR Subpart 67-4,
+outlets that exceed the NYS Action Level are obligated to take corrective action. The
+required actions, notifications, reporting and recordkeeping requirements are listed in the
+appropriate sections of this report.
+
+For all outlets not used or potentially used for drinking or cooking, the school must have a
+remedial action plan that includes details on how those outlets will not be accessed and/or
+utilized for drinking or cooking purposes (“non- applicable outlets”).
+
+If any inoperable water fixtures during the time of the survey are made operable in the future or
+new water fixtures are installed, they must be tested prior to use and incorporated into the Water
+Management Plan.
+
+
+
+
+                                                 6
+6.0    RESPONSE AND CORRECTIVE ACTIONS
+
+Steps following an Action Level Exceedance Immediate Response
+   • Prohibit the use of the outlet immediately (take outlet out of service or turn off) until:
+        (1) A lead remedial action plan is implemented to mitigate the lead level at the outlet, and
+        (2) Post-remediation test results indicate that the lead levels are at or below the action
+        level;
+   • Provide building occupants with an adequate supply of water for drinking and cooking
+        until remediation is performed;
+   • Report the test results to the local health department as soon as practicable, but no more
+        than 1 business day after the school received the laboratory report;
+   • Notify all staff and all persons in parental relation to students of the test results, in
+        writing, as soon as practicable but no more than 10 business days after the School
+        received the laboratory report.
+
+Corrective Actions / Remediation Options
+   • Permanent removal of an outlet
+   • Outlet replacement with “lead-free” plumbing materials
+   • Pipe replacement with “lead-free” plumbing materials
+   • Remove other sources of lead (lead pipe, lead solder joints, and brass plumbing
+       components with “lead-free” materials)
+   • Flushing (systematic flushing program)
+   • Point of Use (POU) Filters
+   • Supervision
+   • Engineering controls
+   • Education
+   • Signage
+
+
+
+
+                                                 7
+Signage Options:
+
+
+
+
+7.0       Post-Remediation Testing
+      •   Follow-up samples collected after an outlet has been remediated must also be “first-
+          draw” samples. Schools may choose to perform additional sampling (i.e., 30-second
+          flush, etc.) to determine the contribution of lead from plumbing to guide remediation
+          decisions.
+      •   Only those outlets that exceed the action level need to be resampled (following
+          remediation).
+      •   All remediated outlets will likely require flushing prior to being placed back into service.
+      •   Post-remediation tests results need to be reported:
+          o in the Department’s HERDS application on HCS, and
+          o on the school’s website within the same reporting timeframes/requirements as
+              specified for the initial sampling (addressed in next section).
+
+
+8.0       Public Notification Requirements
+      •   Within 1 business day of receipt of laboratory reports:
+          o Report any and all exceedances (lead result greater than 5 ppb) to the local health
+             department
+      •   Within 10 business days of receipt of laboratory reports:
+
+
+
+                                                   8
+          o Report all exceedances to all staff, parents, and guardians in writing school. A
+             physical written notification is required.
+          o Report test results (including post-remediation results) in the Department’s electronic
+             reporting system, HERDS accessed through HCS. This information is posted on the
+             Department’s website for the public
+      •   Within 6 weeks of receipt of laboratory reports:
+          o Post numeric test results of all lead testing and information about remediation actions
+             taken to address outlets where lead exceeded the action level on the school’s website.
+             This should remain posted on the school’s website for the duration of the compliance
+             period (i.e. 2020-2024)
+      •   Report any lead-free buildings on the school’s website
+      •   Within 6 weeks of receipt of laboratory reports:
+          o Post numeric test results of all lead testing and information about remediation actions
+             taken to address outlets where lead exceeded the action level on the school’s website.
+             Laboratory reports must be included. This should remain posted on the school’s
+             website for the duration of the compliance period (i.e. 2023-2025)
+
+
+9.0       Electronic Reporting in HCS/HERDS
+      •   Within 10 business days of receipt of laboratory reports: Summary data must be reported
+          in the Department’s electronic reporting system, HERDS accessed through HCS.
+          Summary data includes:
+          – General information (lead-free status, website address)
+          – Sampling information
+          – Lead analysis results
+          – Response and remediation
+      •   Do not submit laboratory reports directly to the Department or local health department
+          unless otherwise directed.
+
+
+10.0      Recordkeeping Requirements
+   •      Schools must retain all records of:
+          – Test results
+          – Remedial action plans
+          – Determinations that a building is lead-free; and
+          – Waiver requests (only applicable to compliance year 2016)
+      •   Per Subpart 67-4, schools must retain records for 10 years following document creation
+          (Note: other agencies may have additional records retention requirements, i.e., NYS
+          Department of Labor)
+      •   Copies of documents must be provided to the Department, the NY State Education
+          Department, or the local health department upon request
+      •   Department recommends that all records be kept in a centrally located and accessible
+          repository for each school building
+
+
+
+
+                                                  9
+11.0   Best Management Practices to Reduce Lead in Drinking Water
+   •   Aerator cleaning
+   •   Routine flushing practices (after vacations and long weekends)
+   •   Use only certified lead-free materials when performing plumbing work
+   •   Follow the manufacturer’s recommendations for water softener settings to ensure an
+       appropriate level of hardness
+   •   Temperature control
+   •   Educating staff and students of the benefits of running water at a tap briefly prior to using
+       it for drinking or food preparation. Letting the water run for 30- 60 seconds or until the
+       water feels cold can reduce the potential levels of lead in the drinking water
+
+
+
+
+                                                10
+12.0   Lead in Drinking Water Survey Fact Sheet
+
+Name and Address of Building/Structure Owner:
+Irvington UFSD
+6 Dows Lane
+Irvington, NY 10533
+
+Name and Address of Buildings/Structures Surveyed:
+Dows Lane Elementary
+6 Dows Lane
+Irvington, NY 10533
+
+Main Street School
+101 Main Street
+Irvington, NY 10533
+
+High/Middle School (In Progress)
+40 North Broadway
+Irvington, NY 10533
+
+
+Name of the Firm & Person Conducting the Survey:
+Regulatory Compliance
+Nicholas Coon
+PO Box 132
+Thornwood, New York 10594
+
+Dates Survey Was Conducted:
+March 10, 2023
+March 16, 2023
+
+
+
+
+                                         11
+Tabulated Results
+
+
+
+
+       12
+Laboratory Data Sheets
+
+
+
+
+         13
+EAS Batch No.      2301506                                                                                                                                 Page 1 of 7
+                                                                 Eastern Analytical Services, Inc.
+                                                                                 Water Sample Report
+                                                                 RE: CPN IRV.1015.23.IH - Dows Lane School
+
+
+Date Collected:    03/16/2023                                                                                          Client: RegCom
+Collected By:      Nicholas Coon                                                                                               245 Albany Avenue
+Date Received:     03/16/2023                                                                                                  Thornwood, NY 10594
+Date Analyzed:     03/23/2023
+Analyzed By:       Ernest Sanchez
+Signature:
+Analyte:           Pb Water
+Analytical Method: EPA 200.9
+NYS Lab Number: 10851
+
+
+Sample ID# /                        Sample Location                                             Sample Notes                                          Concentration
+Lab ID#
+
+1                                   Gym                                                         Bottle Filler                                      BDL < 0.001 mg/L
+2902244
+
+
+2                                   Gym                                                         Bubbler                                            BDL < 0.001 mg/L
+2902245
+
+3                                   Room 101                                                    Sink                                                     0.001 mg/L
+2902246
+
+
+4                                   Room 101                                                    Bubbler                                                  0.001 mg/L
+2902247
+
+5                                   Room 103                                                    Sink                                               BDL < 0.001 mg/L
+2902248
+
+
+6                                   Room 103                                                    Bubbler                                            BDL < 0.001 mg/L
+2902249
+
+7                                   Room 102                                                    Sink                                               BDL < 0.001 mg/L
+2902250
+
+
+8                                   Room 102                                                    Bubbler                                                  0.004 mg/L
+2902251
+
+9                                   Room 105                                                    Sink                                               BDL < 0.001 mg/L
+2902252
+
+
+
+BDL = Below Detectable Limits
+Liability Limited to Cost of Analysis
+Results Applicable to Those Items Tested
+Rhode Island DOH No. LAO00107 Massachusetts DOL No. A A 000072    Connecticut DOH No. PH-0622   Maine DEP No. LA-024   Vermont DOH No. AL-709936
+EAS Batch No.      2301506                                                                                                                                 Page 2 of 7
+                                                                 Eastern Analytical Services, Inc.
+                                                                                 Water Sample Report
+                                                                 RE: CPN IRV.1015.23.IH - Dows Lane School
+
+
+Date Collected:    03/16/2023                                                                                          Client: RegCom
+Collected By:      Nicholas Coon                                                                                               245 Albany Avenue
+Date Received:     03/16/2023                                                                                                  Thornwood, NY 10594
+Date Analyzed:     03/23/2023
+Analyzed By:       Ernest Sanchez
+Signature:
+Analyte:           Pb Water
+Analytical Method: EPA 200.9
+NYS Lab Number: 10851
+
+
+Sample ID# /                        Sample Location                                             Sample Notes                                          Concentration
+Lab ID#
+
+10                                  Room 105                                                    Bubbler                                                  0.005 mg/L
+2902253
+
+
+11                                  Room 104                                                    Sink                                               BDL < 0.001 mg/L
+2902254
+
+12                                  Room 104                                                    Bubbler                                                  0.001 mg/L
+2902255
+
+
+13                                  Room 107                                                    Sink                                               BDL < 0.001 mg/L
+2902256
+
+14                                  Room 107                                                    Bubbler                                                  0.001 mg/L
+2902257
+
+
+15                                  Room 106                                                    Sink                                               BDL < 0.001 mg/L
+2902258
+
+16                                  Room 106                                                    Bubbler                                                  0.004 mg/L
+2902259
+
+
+17                                  Room 109                                                    Sink                                               BDL < 0.001 mg/L
+2902260
+
+18                                  Room 109                                                    Bubbler                                                  0.001 mg/L
+2902261
+
+
+
+BDL = Below Detectable Limits
+Liability Limited to Cost of Analysis
+Results Applicable to Those Items Tested
+Rhode Island DOH No. LAO00107 Massachusetts DOL No. A A 000072    Connecticut DOH No. PH-0622   Maine DEP No. LA-024   Vermont DOH No. AL-709936
+EAS Batch No.      2301506                                                                                                                                 Page 3 of 7
+                                                                 Eastern Analytical Services, Inc.
+                                                                                 Water Sample Report
+                                                                 RE: CPN IRV.1015.23.IH - Dows Lane School
+
+
+Date Collected:    03/16/2023                                                                                          Client: RegCom
+Collected By:      Nicholas Coon                                                                                               245 Albany Avenue
+Date Received:     03/16/2023                                                                                                  Thornwood, NY 10594
+Date Analyzed:     03/23/2023
+Analyzed By:       Ernest Sanchez
+Signature:
+Analyte:           Pb Water
+Analytical Method: EPA 200.9
+NYS Lab Number: 10851
+
+
+Sample ID# /                        Sample Location                                             Sample Notes                                          Concentration
+Lab ID#
+
+19                                  Room 111                                                    Sink                                               BDL < 0.001 mg/L
+2902262
+
+
+20                                  Room 111                                                    Bubbler                                                  0.003 mg/L
+2902263
+
+21                                  Nurses                                                      Sink                                                     0.001 mg/L
+2902264
+
+
+22                                  Room 110 Staff Lounge                                       Sink                                                     0.001 mg/L
+2902265
+
+23                                  Room 112                                                    Sink                                               BDL < 0.001 mg/L
+2902266
+
+
+24                                  Room 112                                                    Bubbler                                                  0.007 mg/L
+2902267
+
+25                                  Room 115                                                    Sink                                                     0.024 mg/L
+2902268
+
+
+26                                  Room 115                                                    Bubbler                                                  0.001 mg/L
+2902269
+
+27                                  Library                                                     Sink #1                                                  0.002 mg/L
+2902270
+
+
+
+BDL = Below Detectable Limits
+Liability Limited to Cost of Analysis
+Results Applicable to Those Items Tested
+Rhode Island DOH No. LAO00107 Massachusetts DOL No. A A 000072    Connecticut DOH No. PH-0622   Maine DEP No. LA-024   Vermont DOH No. AL-709936
+EAS Batch No.      2301506                                                                                                                                 Page 4 of 7
+                                                                 Eastern Analytical Services, Inc.
+                                                                                 Water Sample Report
+                                                                 RE: CPN IRV.1015.23.IH - Dows Lane School
+
+
+Date Collected:    03/16/2023                                                                                          Client: RegCom
+Collected By:      Nicholas Coon                                                                                               245 Albany Avenue
+Date Received:     03/16/2023                                                                                                  Thornwood, NY 10594
+Date Analyzed:     03/23/2023
+Analyzed By:       Ernest Sanchez
+Signature:
+Analyte:           Pb Water
+Analytical Method: EPA 200.9
+NYS Lab Number: 10851
+
+
+Sample ID# /                        Sample Location                                             Sample Notes                                          Concentration
+Lab ID#
+
+28                                  Library                                                     Sink #2                                            BDL < 0.001 mg/L
+2902271
+
+
+29                                  Room 126                                                    Sink                                               BDL < 0.001 mg/L
+2902272
+
+30                                  Room 127                                                    Sink #1                                            BDL < 0.001 mg/L
+2902273
+
+
+31                                  Room 127                                                    Sink #2                                            BDL < 0.001 mg/L
+2902274
+
+32                                  Room 128                                                    Sink #1                                            BDL < 0.001 mg/L
+2902275
+
+
+33                                  Room 128                                                    Sink #2                                            BDL < 0.001 mg/L
+2902276
+
+34                                  Room 129                                                    Sink #1                                            BDL < 0.001 mg/L
+2902277
+
+
+35                                  Room 129                                                    Sink #2                                            BDL < 0.001 mg/L
+2902278
+
+36                                  Room 129                                                    Bubbler                                            BDL < 0.001 mg/L
+2902279
+
+
+
+BDL = Below Detectable Limits
+Liability Limited to Cost of Analysis
+Results Applicable to Those Items Tested
+Rhode Island DOH No. LAO00107 Massachusetts DOL No. A A 000072    Connecticut DOH No. PH-0622   Maine DEP No. LA-024   Vermont DOH No. AL-709936
+EAS Batch No.      2301506                                                                                                                                 Page 5 of 7
+                                                                 Eastern Analytical Services, Inc.
+                                                                                 Water Sample Report
+                                                                 RE: CPN IRV.1015.23.IH - Dows Lane School
+
+
+Date Collected:    03/16/2023                                                                                          Client: RegCom
+Collected By:      Nicholas Coon                                                                                               245 Albany Avenue
+Date Received:     03/16/2023                                                                                                  Thornwood, NY 10594
+Date Analyzed:     03/23/2023
+Analyzed By:       Ernest Sanchez
+Signature:
+Analyte:           Pb Water
+Analytical Method: EPA 200.9
+NYS Lab Number: 10851
+
+
+Sample ID# /                        Sample Location                                             Sample Notes                                          Concentration
+Lab ID#
+
+37                                  Room 130                                                    Sink #1                                            BDL < 0.001 mg/L
+2902280
+
+
+38                                  Room 130                                                    Sink #2                                            BDL < 0.001 mg/L
+2902281
+
+39                                  MPR                                                         Bubbler                                            BDL < 0.001 mg/L
+2902282
+
+
+40                                  2nd Floor Lobby                                             Bottle Filler                                      BDL < 0.001 mg/L
+2902283
+
+41                                  2nd Floor Lobby                                             Bubbler                                            BDL < 0.001 mg/L
+2902284
+
+
+42                                  Room 210                                                    Sink                                               BDL < 0.001 mg/L
+2902285
+
+43                                  Room 211                                                    Sink #1                                            BDL < 0.001 mg/L
+2902286
+
+
+44                                  Room 211                                                    Sink #2                                                  0.001 mg/L
+2902287
+
+45                                  Room 208                                                    Sink                                                     0.001 mg/L
+2902288
+
+
+
+BDL = Below Detectable Limits
+Liability Limited to Cost of Analysis
+Results Applicable to Those Items Tested
+Rhode Island DOH No. LAO00107 Massachusetts DOL No. A A 000072    Connecticut DOH No. PH-0622   Maine DEP No. LA-024   Vermont DOH No. AL-709936
+EAS Batch No.      2301506                                                                                                                                 Page 6 of 7
+                                                                 Eastern Analytical Services, Inc.
+                                                                                 Water Sample Report
+                                                                 RE: CPN IRV.1015.23.IH - Dows Lane School
+
+
+Date Collected:    03/16/2023                                                                                          Client: RegCom
+Collected By:      Nicholas Coon                                                                                               245 Albany Avenue
+Date Received:     03/16/2023                                                                                                  Thornwood, NY 10594
+Date Analyzed:     03/23/2023
+Analyzed By:       Ernest Sanchez
+Signature:
+Analyte:           Pb Water
+Analytical Method: EPA 200.9
+NYS Lab Number: 10851
+
+
+Sample ID# /                        Sample Location                                             Sample Notes                                          Concentration
+Lab ID#
+
+46                                  Room 209                                                    Sink                                               BDL < 0.001 mg/L
+2902289
+
+
+47                                  Room 206                                                    Sink                                                     0.001 mg/L
+2902290
+
+48                                  Room 207                                                    Sink                                               BDL < 0.001 mg/L
+2902291
+
+
+49                                  Room 207                                                    Bubbler                                                  0.001 mg/L
+2902292
+
+50                                  Room 204                                                    Sink                                                     0.002 mg/L
+2902293
+
+
+51                                  Room 204                                                    Bubbler                                                  0.006 mg/L
+2902294
+
+52                                  Room 205                                                    Sink                                               BDL < 0.001 mg/L
+2902295
+
+
+53                                  Room 205                                                    Bubbler                                                  0.001 mg/L
+2902296
+
+54                                  Room 202                                                    Sink                                                     0.012 mg/L
+2902297
+
+
+
+BDL = Below Detectable Limits
+Liability Limited to Cost of Analysis
+Results Applicable to Those Items Tested
+Rhode Island DOH No. LAO00107 Massachusetts DOL No. A A 000072    Connecticut DOH No. PH-0622   Maine DEP No. LA-024   Vermont DOH No. AL-709936
+EAS Batch No.      2301506                                                                                                                                 Page 7 of 7
+                                                                 Eastern Analytical Services, Inc.
+                                                                                 Water Sample Report
+                                                                 RE: CPN IRV.1015.23.IH - Dows Lane School
+
+
+Date Collected:    03/16/2023                                                                                          Client: RegCom
+Collected By:      Nicholas Coon                                                                                               245 Albany Avenue
+Date Received:     03/16/2023                                                                                                  Thornwood, NY 10594
+Date Analyzed:     03/23/2023
+Analyzed By:       Ernest Sanchez
+Signature:
+Analyte:           Pb Water
+Analytical Method: EPA 200.9
+NYS Lab Number: 10851
+
+
+Sample ID# /                        Sample Location                                             Sample Notes                                          Concentration
+Lab ID#
+
+55                                  Room 202                                                    Bubbler                                                  0.001 mg/L
+2902298
+
+
+56                                  Room 203                                                    Sink                                                     0.003 mg/L
+2902299
+
+57                                  Hallway by 203                                              Water Fountain Bubbler                             BDL < 0.001 mg/L
+2902300
+
+
+58                                  Room 201                                                    Sink                                               BDL < 0.001 mg/L
+2902301
+
+59                                  Kitchen                                                     Pedal Sink                                         BDL < 0.001 mg/L
+2902302
+
+
+60                                  Not Applicable                                              Blank                                              BDL < 0.001 mg/L
+2902303
+
+
+
+
+BDL = Below Detectable Limits
+Liability Limited to Cost of Analysis
+Results Applicable to Those Items Tested
+Rhode Island DOH No. LAO00107 Massachusetts DOL No. A A 000072    Connecticut DOH No. PH-0622   Maine DEP No. LA-024   Vermont DOH No. AL-709936

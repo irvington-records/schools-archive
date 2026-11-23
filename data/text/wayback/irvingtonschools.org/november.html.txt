@@ -1,0 +1,139 @@
+SOURCE http://www.irvingtonschools.org:80/november.html | DATE 2005-01-05 | TITLE november.html
+
+<TABLE BORDER CELLSPACING=2 BORDERCOLOR="#000000" CELLPADDING=2 WIDTH=959>
+<TR><TD WIDTH="29%" VALIGN="MIDDLE" COLSPAN=2 HEIGHT=76>
+<P ALIGN="CENTER"><B><FONT SIZE=5>1998</B></FONT></TD>
+<TD WIDTH="43%" VALIGN="MIDDLE" COLSPAN=3 HEIGHT=76>
+<I><FONT SIZE=7><P ALIGN="CENTER">November</I></FONT></TD>
+<TD WIDTH="29%" VALIGN="MIDDLE" COLSPAN=2 HEIGHT=76>
+<B><FONT SIZE=5><P ALIGN="CENTER">1998</B></FONT></TD>
+</TR>
+<TR><TD WIDTH="14%" VALIGN="MIDDLE" HEIGHT=35>
+<B><P ALIGN="CENTER">Sunday</B></TD>
+<TD WIDTH="14%" VALIGN="MIDDLE" HEIGHT=35>
+<B><P ALIGN="CENTER">Monday</B></TD>
+<TD WIDTH="14%" VALIGN="MIDDLE" HEIGHT=35>
+<B><P ALIGN="CENTER">Tuesday</B></TD>
+<TD WIDTH="14%" VALIGN="MIDDLE" HEIGHT=35>
+<B><P ALIGN="CENTER">Wednesday</B></TD>
+<TD WIDTH="14%" VALIGN="MIDDLE" HEIGHT=35>
+<B><P ALIGN="CENTER">Thursday</B></TD>
+<TD WIDTH="14%" VALIGN="MIDDLE" HEIGHT=35>
+<B><P ALIGN="CENTER">Friday</B></TD>
+<TD WIDTH="14%" VALIGN="MIDDLE" HEIGHT=35>
+<B><P ALIGN="CENTER">Saturday</B></TD>
+</TR>
+<TR><TD WIDTH="14%" VALIGN="TOP" BGCOLOR="#ffffff" HEIGHT=115>
+<FONT SIZE=1><P>1 </FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=115>
+<FONT SIZE=1><P>2 IMS Comprehensive Testing Grade 7 (through Thursday)</P>
+<P>Senior Portrait Make-up Day</P>
+<P>Faculty Photos</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=115>
+<FONT SIZE=1><P>3 Election Day </P>
+<P>Board Public Meeting</P>
+<P>7:30 pm IMS Auditorium</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=115>
+<FONT SIZE=1><P>4 </FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=115>
+<FONT SIZE=1><P>5 PTSA Book Fair DL/IMS/IHS Ends</P>
+<P>DL Parent - Teacher Conferences Grades 1 - 5</P>
+<P>Dismissal</P>
+<P>Grades 3 - 5 11:30 am</P>
+<P>Grades 1 &amp; 2 Noon</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=115>
+<FONT SIZE=1><P>6 </FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" BGCOLOR="#ffffff" HEIGHT=115>
+<FONT SIZE=1><P>7 S.A.T. I &amp; S.A.T. II</FONT></TD>
+</TR>
+<TR><TD WIDTH="14%" VALIGN="TOP" BGCOLOR="#ffffff" HEIGHT=115>
+<FONT SIZE=1><P>8 </FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=115>
+<FONT SIZE=1><P>9 Jr. High All-County Band &amp; Orchestra 2:30 pm in Ossining</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=115>
+<FONT SIZE=1><P>10 IMS Site Committee Meeting 3:45 - 5:15 pm</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" BGCOLOR="#ffffff" HEIGHT=115>
+<FONT SIZE=1><P>11 VETERANS' DAY</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=115>
+<FONT SIZE=1><P>12 DL Parent - Teacher Conferences </P>
+<P>Grades 1 - 5</P>
+<P>Dismissal</P>
+<P>Grades 3 - 5 11:30 am</P>
+<P>Grades 1 &amp; 2 Noon</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=115>
+<FONT SIZE=1><P>13 O'Hara Memorial Basketball Tournament IMS &amp; IHS Gyms</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" BGCOLOR="#ffffff" HEIGHT=115>
+<FONT SIZE=1><P>14 Band Day at West Point IHS/IMS Marching Band 6 am - 6 pm</P>
+<P>"The Music Man" </P>
+<P>8 pm Town Hall</P>
+<P>O'Hara Memorial Basketball Tournament IMS &amp; IHS Gyms</FONT></TD>
+</TR>
+<TR><TD WIDTH="14%" VALIGN="TOP" BGCOLOR="#ffffff" HEIGHT=115>
+<FONT SIZE=1><P>15 "The Music Man"</P>
+<P>3 pm Town Hall</P>
+<P>O'Hara Memorial Basketball Tournament IMS &amp; IHS Gyms</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=115>
+<FONT SIZE=1><P>16 IHS Winter Sports Begin</P>
+<P>DL Standardized Testing Grades 2 &amp; 5 through Friday</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=115>
+<FONT SIZE=1><P>17 Board Public Meeting</P>
+<P>7:30 pm </P>
+<P>IMS Auditorium</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=115>
+<FONT SIZE=1><P>18 IHS Report Cards</P>
+<P>I.E.F. Meeting </P>
+<P>7:45 pm IMS Library</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=115>
+<FONT SIZE=1><P>19 P.A.C. 9:15 am DL</P>
+<P>IHS Site Committee Meeting 3:30 - 5 pm</P>
+<P>Area All-State Music Rehearsal 4 - 9 pm Hastings HS</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=115>
+<FONT SIZE=1><P>20 Area All-State Music Festival 9 am - 3 pm SUNY Purchase</P>
+<P>O'Hara Memorial Basketball Tournament Make-Up Date</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" BGCOLOR="#ffffff" HEIGHT=115>
+<FONT SIZE=1><P>21 Area All-State Concert 8 pm SUNY Purchase</P>
+<P>"The Music Man" </P>
+<P>8 pm Town Hall</P>
+<P>O'Hara Memorial Basketball Tournament IHS Gym</FONT></TD>
+</TR>
+<TR><TD WIDTH="14%" VALIGN="TOP" BGCOLOR="#ffffff" HEIGHT=115>
+<FONT SIZE=1><P>22 "The Music Man"</P>
+<P>3 pm Town Hall</P>
+<P>O'Hara Memorial Basketball Tournament IHS Gym</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=115>
+<FONT SIZE=1><P>23 IMS Report Cards</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=115>
+<FONT SIZE=1><P>24Y.A.C. SIDS Bake Sale &amp; Raffle DL</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=115>
+<FONT SIZE=1><P>25 Half Day Classes THANKSGIVING RECESS</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" BGCOLOR="#ffffff" HEIGHT=115>
+<FONT SIZE=1><P>26 </FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" BGCOLOR="#ffffff" HEIGHT=115>
+<FONT SIZE=1><P>27 </FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" BGCOLOR="#ffffff" HEIGHT=115>
+<FONT SIZE=1><P>28 </FONT></TD>
+</TR>
+<TR><TD WIDTH="14%" VALIGN="TOP" BGCOLOR="#ffffff" HEIGHT=115>
+<FONT SIZE=1><P>29 All-State Music Festival Rochester, NY</P>
+<P>through Wednesday</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=115>
+<FONT SIZE=1><P>30 Modified Sports Begin</P>
+<P>PTSA DL After School Program Ends</P>
+<P>All-State Music Festival</P>
+<P>Rochester, NY</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=115>
+<FONT SIZE=1><P>&nbsp;</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=115>
+<FONT SIZE=1><P>&nbsp;</P>
+<P>&nbsp;</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=115>
+<FONT SIZE=1><P>&nbsp;</P>
+<P>&nbsp;</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=115>
+<FONT SIZE=1><P>&nbsp;</P>
+<P>&nbsp;</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=115>
+<FONT SIZE=1><P>&nbsp;</P>
+<P>&nbsp;</FONT></TD>
+</TR>
+</TABLE>

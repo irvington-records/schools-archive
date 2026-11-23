@@ -1,0 +1,5 @@
+SOURCE https://app.helperhelper.com/login | DATE unknown | TITLE Helper Helper
+
+You must enable JavaScript to use the Helper Helper web app.
+You may also download Helper Helper from one of the app stores below.
+Helper Helper is a community service app that connects volunteers to meaningful experiences in the community. Helper Helper simplifies the organizational efforts for volunteer coordinators and helps volunteers easily find and schedule events.

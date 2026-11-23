@@ -1,0 +1,195 @@
+SOURCE https://www.irvingtonschools.org/fs/resource-manager/view/09e91922-792f-420c-917f-39e3b8ba7ea0 | DATE 2025-07-08 | TITLE leadtestinglabratorysamplingreporths-ms-1-23.pdf
+
+Ã RegCom
+Regulatory Compliance
+_______________________________________________________________________
+
+Rich Pittore                                                              April 1, 2023
+Irvington UFSD
+6 Dows Lane
+Irvington, NY 10533
+
+
+Dear Rich,
+
+Please allow this letter to identify the water fixtures that require immediate attention, the
+lead in drinking water report/Water Management Plan for Main Street (report issued
+3.10.23), Dows Lane School (report issued 3.26.23) were already issued. The water
+sampling has been completed for the district and the HS/MS sampling results will be
+added to the report and a full report will be issued within the next 2 weeks. Attached are
+the laboratory sampling report for the HS/MS.
+
+All of the samples collected were within NYSDOH action level and compliant, with the
+exception of the water fixtures noted below – immediate action is required.
+
+                                        Results     Action Limit     Compliant
+ Building      Location      Fixture                                               Remediation
+                                        (mg/L)        (mg/L)           (Y/N)
+Main St.
+School       Room 304       Sink         0.041          0.005            N           Required
+
+Dows Lane    Room 112       Bubbler      0.007          0.005            N           Required
+
+Dows Lane    Room 115       Sink         0.024          0.005            N           Required
+
+Dows Lane    Room 204       Bubbler      0.006          0.005            N           Required
+
+Dows Lane    Room 202       Sink         0.012          0.005            N           Required
+High                        Island
+School       S-306          Sink #1      0.220          0.005            N           Required
+High
+School       S-306          Sink #2      0.010          0.005            N           Required
+High
+School       S-306          Sink #4      0.027          0.005            N           Required
+High
+School       S-306          Sink #7      0.015          0.005            N           Required
+High                        Island
+School       S-304          Sink #1      0.010          0.005            N           Required
+High
+School       S-304          Sink #8      0.006          0.005            N           Required
+High
+School       S-304           Sink #10    0.008        0.005            N       Required
+                      245 Albany Avenue • Thornwood • New York • 10594
+        Tel (914) 439-6513 • REGCOMP2@HOTMAIL.COM • WWW.REGCOMP.ORG
+_____________________________________________________________________________________
+Occupational                                Safety                        Environmental
+
+                                   COMPLIANCE IS SAFETY
+                                         Results     Action Limit     Compliant
+ Building      Location      Fixture                                                 Remediation
+                                         (mg/L)        (mg/L)           (Y/N)
+
+High
+School      S-303           Sink #5       0.006          0.005            N            Required
+High
+School      S-303           Sink #5       0.006          0.005            N            Required
+High
+School      S-301           Sink #2       0.021          0.005            N            Required
+High
+School      S-301           Sink #4       0.034          0.005            N            Required
+High
+School      S-301           Sink #7       0.019          0.005            N            Required
+High
+School      S-206           Sink #2       0.015          0.005            N            Required
+High
+School      S-206           Sink #5       0.011          0.005            N            Required
+High                        Island
+School      S-204           Sink #1       0.705          0.005            N            Required
+High
+School      S-204           Sink #2       0.010          0.005            N            Required
+High
+School      S-204           Sink #10      0.006          0.005            N            Required
+High
+School      S-203           Sink #9       0.007          0.005            N            Required
+High
+School      S-201           Sink #6       0.039          0.005            N            Required
+High
+School      S-106           Sink #1       0.585          0.005            N            Required
+High
+School      S-106           Sink #4       0.008          0.005            N            Required
+High
+School      S-106           Sink #5       0.006          0.005            N            Required
+High
+School      S-105           Sink          0.009          0.005            N            Required
+High
+School      S-104           Sink #3       0.007          0.005            N            Required
+High
+School      S-104           Sink #5       0.006          0.005            N            Required
+High
+School      S-104           Sink #6       0.010          0.005            N            Required
+High
+School      S-104           Sink #9       0.007          0.005            N            Required
+High
+School      S-103           Sink #1       0.013          0.005            N            Required
+High
+School      S-103           Sink #2       0.012          0.005            N            Required
+High
+School      S-103           Sink #3       0.008          0.005            N            Required
+High
+School      S-103           Sink #7       0.007          0.005            N            Required
+High
+School      S-101           Sink #2       0.025          0.005            N            Required
+
+             245 Albany Avenue • Thornwood • New York • 10594 •(914) 439-6513 •
+                              REGCOMP2@HOTMAIL.COM
+______________________________________________________________________________________________
+Occupational                                 Safety                                Environmental
+                                         Results     Action Limit     Compliant
+ Building      Location      Fixture                                                 Remediation
+                                         (mg/L)        (mg/L)           (Y/N)
+High
+School      S-101           Sink #7       0.295          0.005            N            Required
+High        Nurses Office
+School      H-108           Sink          0.008          0.005            N            Required
+            Water
+            Fountain Near
+High        Gym by          Bottle
+School      Entrance        Filler        0.013          0.005            N            Required
+
+Note: Sinks are counted from left to right as you enter room.
+
+Below is a summary of actions required for action level exceedance which requires an
+immediate response. Please review sections 6-10, which describe remediation actions and
+notification requirements in detail.
+
+   Steps following an Action Level Exceedance Immediate Response
+      • Prohibit the use of the outlet immediately (take outlet out of service or turn
+           off) until:
+           (1) A lead remedial action plan is implemented to mitigate the lead level at the
+           outlet, and
+           (2) Post-remediation test results indicate that the lead levels are at or below
+           the action level;
+      • Provide building occupants with an adequate supply of water for drinking and
+           cooking until remediation is performed;
+      • Report the test results to the local health department as soon as practicable,
+           but no more than 1 business day after the school received the laboratory
+           report;
+      • Notify all staff and all persons in parental relation to students of the test
+           results, in writing, as soon as practicable but no more than 10 business days
+           after the school received the laboratory report.
+
+
+   Corrective Actions / Remediation Options
+      • Permanent removal of an outlet
+      • Outlet replacement with “lead-free” plumbing materials
+      • Pipe replacement with “lead-free” plumbing materials
+      • Remove other sources of lead (lead pipe, lead solder joints, and brass
+          plumbing components with “lead-free” materials)
+      • Flushing (systematic flushing program)
+      • Point of Use (POU) Filters
+      • Supervision
+      • Engineering controls
+      • Education
+      • Signage
+
+             245 Albany Avenue • Thornwood • New York • 10594 •(914) 439-6513 •
+                              REGCOMP2@HOTMAIL.COM
+______________________________________________________________________________________________
+Occupational                                 Safety                                Environmental
+Attached is slide from, NYSDOH Program Review and Updates Environmental Health
+Conference October 25, 2022, summarizing steps following an action level exceedance.
+For all outlets not used or potentially used for drinking or cooking, the school must have
+a remedial action plan that includes details on how those outlets will not be accessed
+and/or utilized for drinking or cooking purposes (“non- applicable outlets”). If you can
+generate a list, I will incorporate them into the report. If you need assistance, please
+contact me.
+
+If you need more information or have any questions, please do not hesitate to contact me
+at (914) 439-6513. Thank you for considering RegCom for your safety and compliance
+needs.
+
+                                               Sincerely,
+
+                                               Ernest Coon
+                                               Ernest C. Coon, MS, RPIH, HEM
+
+
+IRV.1015.23.IH Cov Ltr HS/MS
+
+
+
+
+             245 Albany Avenue • Thornwood • New York • 10594 •(914) 439-6513 •
+                              REGCOMP2@HOTMAIL.COM
+______________________________________________________________________________________________
+Occupational                                 Safety                                Environmental

@@ -1,0 +1,64 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/pfiles/9X5HCY462B5F/$file/Dows%20inventory.xlsx | DATE: 2015-06-09 | TITLE: Regular Meeting | 13.5 Declaration of Obsolete Technology Equipment | Dows inventory.xlsx
+
+--- sheet Sheet1 ---
+Type 	Manufactuer	Model	Serial Number	ETL Tag
+Computer	Lenovo	m58e	MJ19277	116434
+Computer	Lenovo	m58e	MJ19283	116327
+Computer	Lenovo	m58e	MJ19282	116437
+Computer	Lenovo	m58e	MJ19229	116673
+Computer	Lenovo	m58e	MJ16000	116426
+Computer	Lenovo	m58e	MJ19243	116435
+Computer	Lenovo	m58e	MJ19215	116292
+Computer	Lenovo	m58e	MJ19212	116433
+Computer	Lenovo	m58e	MJ17253	116423
+Computer	Lenovo	m58e	MJ15990	116285
+Computer	Lenovo	m58e	MJ19264	116682
+Computer	Lenovo	m58e	MJ19250	116685
+Computer	Lenovo	m58e	MJ12810	116289
+Computer	Lenovo	m58e	MJ15969	116439
+Computer	Lenovo	m58e	MJ19198	116729
+Computer	Lenovo	m58e	MJ19287	116419
+Computer	Lenovo	m58e	MJ19195	116428
+Computer	Lenovo	m58e	MJ19242	116429
+Computer	Lenovo	m58e	MJ16006	116424
+Computer	Lenovo	m58e	MJ19266	116417
+Computer	Lenovo	m58e	MJXMY03	116962
+Computer	Lenovo	m58e	MJ19228	116418
+Computer	Lenovo	m58e	MJ19223	116648
+Computer	Lenovo	m58e	MJ19235	116431
+Computer	Lenovo	m58e	MJ19240	116350
+Computer	Lenovo	m58e	MJZBDR7	117493
+Computer	Lenovo	m58e	MJ19220	116687
+Printer	HP	DJ4160	TH72DD106H	115968
+Printer	HP	DJ3845	TH55E1719F	105905
+Printer	Dell	LPS2500	3QXR621	106072
+Printer	Dell	LPS2500	3QCS621	115949
+Printer	HP	DJ4160	TH726D2993	115748
+Printer	HP	DJ4160	TH72AD12GK	116675
+Printer	HP	DJ4160	TH72CD16TP	115734
+Printer	HP	DJ4160	TH72AD12RX	115787
+Printer	Dell	LPS2500		117905
+Printer	HP	DJ3845	TH55E171BT	108875
+Printer	HP	DJ3845	TH53V18064	106124
+Printer	HP	LJP1505N	CNBK629669	106706
+Printer	HP	LJP1505N	VND3C52574	117432
+Scanner	HP	SJG3110	CN96VA51WK	117433
+Scanner	HP	SJ4370	CN63XA205V	115768
+Scanner	HP	SJ4370	CN661A27DB	116733
+Scanner	HP	SJ4370	CN661A27C9	115740
+Scanner	HP	SJ5200C	SG02G170GP	105864
+Pod	Ncomputing			116486
+Pod	Ncomputing			116521
+Pod	Ncomputing			116488
+Pod	Ncomputing			116498
+Pod	Ncomputing			116522
+Pod	Ncomputing			116485
+Pod	Ncomputing			116482
+Pod	Ncomputing			116516
+Monitor	Dell	Ultrasharp		105007
+Monitor	Dell	Ultrasharp		105571
+Monitor	HP	1740		106337
+Monitor	HP	1740		106288
+--- sheet Sheet2 ---
+--- sheet Sheet3 ---
+

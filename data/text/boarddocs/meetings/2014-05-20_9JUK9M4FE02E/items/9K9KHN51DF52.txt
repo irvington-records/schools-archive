@@ -1,0 +1,27 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/goto?open&id=9K9KHN51DF52 | DATE: 2014-05-20 | TITLE: Special Meeting | 6.1 Budget Transfer 13/14-11
+
+Meeting: May 20, 2014 - Special Meeting
+Date: 2014-05-20
+Category: 6. Business Office Matters
+Subject: 6.1 Budget Transfer 13/14-11
+Type: Action (Consent)
+
+Budget Transfer 13/14-11
+
+				Credit A9734-600-00-0001(B.A.N. Cert.- Principal)
+
+				$95,000
+
+				Debit  A9711-700-00-0002 (2004 Refunded 2013 Serial Bonds)
+
+				$95,000
+
+				Credit A9734-700-00-0001(B.A.N. Cert.- Interest)
+
+					$15,750
+
+				Debit  A9711-700-00-0002 (2004 Refunded 2013 Serial Bonds)
+
+				$15,750
+
+	 This transfer is needed for the Bond payment due May 27, 2014.

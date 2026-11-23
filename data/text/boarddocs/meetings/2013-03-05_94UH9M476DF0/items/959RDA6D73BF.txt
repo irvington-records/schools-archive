@@ -1,0 +1,19 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/goto?open&id=959RDA6D73BF | DATE: 2013-03-05 | TITLE: Regular Meeting - 7:30 p.m.* | 10.11 Re-Appropriation of 2012-13 Budget
+
+Meeting: Mar 05, 2013 - Regular Meeting - 7:30 p.m.*
+Date: 2013-03-05
+Category: 10. Business Office Matters
+Subject: 10.11 Re-Appropriation of 2012-13 Budget
+Type: Action (Consent)
+
+Re-Appropriation
+
+	Debit  A599 Appropriated Fund Balance                         $661,061
+
+	          Revenue Code A5730
+
+	Credit A960 Appropriations                                             $661,061
+
+	          Expense code A1964.400
+
+	These funds are needed to cover the March Tax Cert. settlement payments due to Reckson 555, Reckson 660 and Irvington Estates.

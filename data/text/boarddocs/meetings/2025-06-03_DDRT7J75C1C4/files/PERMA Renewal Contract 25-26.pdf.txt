@@ -1,0 +1,181 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/pfiles/DH4LTD58154D/$file/PERMA%20Renewal%20Contract%2025-26.pdf | DATE: 2025-06-03 | TITLE: Regular Meeting | 11.12 Contract for Tail Claims Third Party Administrator: PERMA | PERMA Renewal Contract 25-26.pdf
+
+[OCR]
+Public Employer Risk Management Association, Inc. (PERMA)
+
+Program Agreement for Third Party Administration Services
+
+THIS AGREEMENT dated as of entered into by and between the Public
+Employer Risk Management Association, Inc. (“PERMA”), a New York not-for-profit corporation
+having its principal place of business at 9 Cornell Road, Latham, New York 12110 and Irvington
+Union Free School District, a school district, having its principal place of business at 6 Dows
+Lane, , Irvington, NY, 10533 (the “Member”), for administrative services to be provided by
+PERMA in connection with the Member’s obligation to provide workers’ compensation benefits
+for and to its employees.
+
+1. Purpose. The Member desires to engage PERMA to provide Worker’s Compensation Law
+claims administration services for certain “tail claims” that have arisen and PERMA is willing to
+provide those claims administration services upon the terms set forth in this agreement.
+
+2. Definitions. For purposes of this agreement, the following terms will have the meanings
+indicated:
+
+a. “Allocated Loss Adjustment Expenses” means all costs and expenses PERMA incurs
+that are attributed to the processing of Tail Claims, including, but not limited to, fees,
+costs, assessments and other charges imposed by the Workers’ Compensation Board,
+medical cost containment and management services, in the amounts set forth in
+Schedule B, attorneys’ fees and disbursements, court reporter services and transcripts,
+deposition charges and transcripts, fees for the service of process, court costs,
+courier/express mail, appeal bonds, printing costs related to trials and appeals, witness
+and expert fees, medical examinations and review, laboratory costs, engineering fees,
+independent adjustor fees, surveillance, photography and similar costs and expenses
+reasonably incurred and related to the investigation and defense of claims or the
+protection and collection of subrogation rights of the Member,
+
+b. “Benefit Payments” means payments that are required by the Workers’ Compensation
+Law and the rules, regulations and decisions of the Workers’ Compensation Board to
+be made to claimants, providers and other vendors with respect to a Tail Claim.
+
+c. “Electronic Data Interchange or EDI” means the Worker’s Compensation Board has
+adopted Claims Electronic Data Interchange Release 3.0, as adopted by the Workers”
+Compensation Board, or such other electronic data interchange as may be adopted by
+the Workers’ Compensation Board.
+
+d. “Tail Claim” means existing indemnity and medical worker’s compensation claims
+and all Worker’s Compensation Board awards against the Member that arose prior to
+7/1/2019 that the Member has assigned to PERMA to administer.
+
+[OCR]
+1, Settle claims within the authority given PERMA by the Member or as otherwise agreed
+in writing by the Member and PERMA; and
+
+m. Pay all claims by check identifying the Member as the insurer.
+
+5. The Member’s obligations. The Member will:
+
+a. Pay all Benefits Payments by either wire/automated clearing house (ACH) transfer or
+cash advance.
+
+ii.
+
+If paying by wire/automated clearing house (ACH) transfer, the Member must
+deposit and maintain, in a bank account identified to PERMA, the amount of the
+Benefit Payments and Allocated Loss Adjustment Expenses PERMA estimates will
+be required to be paid or incurred during a 30-day period. PERMA may increase or
+decrease the estimate as PERMA reasonably determines. If PERMA increases the
+estimate, the Member will promptly replenish the account to the estimated amount
+by wire/ACH transfer. If PERMA decreases the estimate, PERMA will return the
+excess amount to the Member. Within 48 hours of receiving from PERMA the
+check register for each check run the previous week and drawn on the bank account
+established by the member, the Member will review the check register and transfer
+to PERMA sufficient funds to cover all payments reflected in the register. If the
+Member is unable to pay that amount within the time required, PERMA will draw
+on the deposited amount to pay the Benefits Payments. If the amount of the Benefits
+payments exceeds the amount of the deposit that is available, PERMA will not
+make the Benefits Payment until the Member deposits the necessary funds. If
+PERMA is required by the Workers’ Compensation Board to pay a penalty for
+paying Benefits Payments late because the Member failed to make the deposit
+required by this paragraph, the Member will be liable to PERMA for the penalty
+and PERMA will deduct the amount of the penalty from the Member’s account.
+
+If paying by cash advance, the Member must deposit and maintain, in a segregated
+bank account established by PERMA, the amount of the Benefit Payments and
+Allocated Loss Adjustment Expenses PERMA estimates will be required to be paid
+or incurred during a 90-day period. PERMA may increase or decrease the estimate
+as PERMA reasonably determines. If PERMA increases the estimate, the Member
+will promptly pay the additional amount to PERMA. If PERMA decreases the
+estimate, PERMA will hold the excess amount to be applied to future Benefit
+Payments and Allocated Loss Adjustment Expenses, and the Member’s future
+required contributions will be reduced accordingly. Within 48 hours of receiving
+from PERMA the check register for cach check run the previous month and drawn
+on the bank account established by the member, the Member will review the
+invoice and check register and pay to PERMA, by the 10th day of the month,
+sufficient funds to cover all payments reflected in the register. If the Member is
+unable to pay that amount within the time required, PERMA will draw on the
+
+3
+
+[OCR]
+7. Indemnification. PERMA assumes no liability for any obligation of the Member under
+the Workers’ Compensation Law or any decision of the Workers’ Compensation Board. The
+Member will indemnify, defend and hold PERMA, its subcontractors and their respective
+affiliates, owners, partners, members, officers, directors, shareholders, agents and employees
+harmless from and against any and all of any kind, including reasonable attorneys’ fees and
+disbursements, except to the extent that the claims, liabilities, damages or expenses are solely
+caused by PERMA’s gross negligence or willful misconduct.
+
+8. Termination. Either party may terminate this agreement on 30 days’ notice to the other
+party. PERMA may terminate this agreement immediately upon notice to the Member if the
+member fails to pay any amount required to be paid by the member under this agreement. Upon
+termination, all amounts due PERMA from the Member will become immediately due and
+payable. The Member’s obligations set forth in paragraphs 5 and 7 will survive the expiration or
+earlier termination of this agreement.
+
+9. Notices. Notices under this agreement must be sent by electronic mail or facsimile to the
+designated contact at the email or facsimile number shown below. Notice sent to the contact person.
+designated by the Member is notice to the Member.
+
+If to the Member:
+Attn: Carol Stein
+Fax:
+Email: carol.stein@irvingtonschools.org
+Phone: 914-591-9780
+If to PERMA:
+
+Attn: Mary Beth Woods
+Fax: 1-877-737-6232
+Email: underwritingacctmgmt@perma.org
+
+Phone: 518-220-1111
+
+10. Not a contract of insurance. This is not a contract of insurance. PERMA is not and is
+not, in any way, to be deemed by reason of this agreement to be an insurer, underwriter or guarantor
+with respect to any benefits payable for which the Member may be liable with respect to the
+workers’ compensation claims that are the subject of this agreement. PERMA is acting under this
+agreement solely as a claims’ administrator with respect to the Tail Claims, and not as an insurer
+with respect to those or to any other claims. PERMA will not, under any circumstances, advance
+its own funds on behalf of the Member.
+
+[OCR]
+Schedule A
+
+Fees
+Indemnity Tail Claims ......0....0.00.00. $750 per year per claim
+Medical Tail Claims .. .. $500 per year per claim
+
+Schedule B
+
+Managed Care Fees
+Medical Bill Review and PPO Network Charges $5.60 per bill
+
+Treasury Services-Per Transaction! |
+. Online Review in CareMC/Edge i
++ Explanation of Review $5.75 per Bill
+
++ Annual 1099 Reparting
+
++ EDI Compliance & Transmission
+
+Includes check fee, postage, duplicate bill fec, electronic submission and State reporting (NY HCRA
+Surcharge).
+
+Enhanced Medical Bill Review 23% of Savings
+
+Includes technical and professional review of bills for correct coding, up coding, unbundling, national
+condit edits, facility and surgical bill line item audit, review for non-compensable charges, review of implant
+charges, validation of diagnostic related group (DRG) coding, and review of non-fee scheduled services for
+fair and reasonable payment. Fees are calculated based on incremental savings achieved below the State
+mandated fee schedule.
+
+PPO Network 23% of Savings
+
+includes access to proprietary national PPO network solution. Fees are calculated based on incremental
+savings achieved below the State fee schedule and enhanced savings.
+
+Out of Network Negotiations 23% Savings
+
+CorVel may negotiate out of network charges with a medical provider to pay an agreed upon rate. Fees
+are calculated based on an incremental saving achieved below the State fee schedule and enhanced savings.
+
+Mandatory CMS MMSEA Reporting $8.75 per transaction
+

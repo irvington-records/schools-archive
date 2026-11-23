@@ -1,0 +1,86 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/goto?open&id=D2FRSU6CE9EC | DATE: 2024-02-27 | TITLE: Work Session | 12.8 Appointment of Coaches
+
+Meeting: Feb 27, 2024 - Work Session
+Date: 2024-02-27
+Category: 12. Personnel Matters
+Subject: 12.8 Appointment of Coaches
+Type: Action (Consent)
+
+NAME
+
+			SPORT
+
+			TYPE
+
+			GROUP
+
+			STEP
+
+			SALARY
+
+			Zach Richardson
+
+			Baseball
+
+			Junior Varsity Head
+
+			5
+
+			2
+
+			$5,648
+
+			James Madison
+
+			Softball
+
+			Varsity Head
+
+			1
+
+			3
+
+			$8,125
+
+			Suzanne Carroll
+
+			Lacrosse (Girls)
+
+			Modified Head
+
+			1
+
+			4
+
+			$4,909
+
+			Wallace Maher, Jr.
+
+			Lacrosse (Boys)
+
+			Varsity Assistant
+
+			1
+
+			1
+
+			$5,208
+
+			Paul Guimaraes
+
+			Lacrosse (Boys)
+
+			Modified Head
+
+			1
+
+			1
+
+			$4,807
+
+			Justin Myers
+			Flag Football
+			Varsity Head
+			1
+			1
+			$8,012

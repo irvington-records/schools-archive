@@ -1,0 +1,358 @@
+2026-09-08 | September 8, 2026   Regular Board Meeting | https://www.youtube.com/watch?v=TTkGVqAbgv4
+(slides auto-extracted from 1280x720 video; scene>0.08, OCR words>=12, phash<=8; 17 slides from 72 candidate views; Apple Vision OCR)
+
+[00:15:40] 00-15-40.png
+Bringing The Irvington Way to Life
+Be
+Be
+BE COURAGEOUS ®
+Collaborative
+Courageous
+*
+Students embrace
+* Students build
+SE COLLABORATIVE
+understanding
+productive struggle,
+BE SELF-AWARE
+take risks, and learn
+together and
+from mistakes.
+communicate
+effectively.
+Be
+Be
+Engaged
+Self-Aware
+Students see
+Students reflect,
+purpose and
+revise, and take
+BE ENGAGED
+relevance in their
+ownership of their
+work
+grewth.
+2026-09-08 19:45:49
+Irvington Board of Education
+
+[00:19:11] 00-19-11.png
+A CONTINUUM OF ARTIFICIAL INTELLIGENCE EDUCATION
+Building knowiedge. Inspiring responsible use. Preparing for the future.
+9-12
+K-5
+6-8
+Continued Education &
+Awareness & Understanding
+Continued Education &
+Age-Appropriate Access
+Expanded Access
+Students develop awareness of
+Students deepen Weir understanding of Al
+Snudents build advanced Al literacy and
+artificial Intelligence and build en
+concepts and begin using age-appropriate
+responsibly leverage a broader range of
+understanding of how Al works
+Al tools to create, analyze, and solve
+Al platforms to support learning and
+and how it impacts our wond.
+creativity.
+real world probleme
+What is AD
+ACCeSS 10:
+Access to:
+Q. Home Al is used in everyday life
+MAGIC
+SCHOOL
+@ Snork
+CHION
+63 Snorki D Brisk
++ Gemini
+10 Pesponsible una & digital chinscahip
+* Quiet can with a Five cn ethica,
+25, Empowering prostion, responsible son,
+Critical thinking & asking questiona
+collaboration, and skill development
+and real world application
+Gamini is not integrated into any Google tools
+IMPORTANT TO KHOW
+G
+for students at any grade level (6-12).
+• Our commoment. Educating today's learners to be thoughtfal, ethical, and empowered in an Al-driven world.
+2026-09-08 19:49:20
+Irvington Board of Education
+
+[00:19:29] 00-19-29.png
+Artificial Intelligence Summer Program
+Program
+Inspirit Al, Inc. - Teachers from Stanford, MIT, etc.
+In-person, project-based artificial intelligence exploration program - MS & HS
+2 weeks from 9:00-12:00
+Purpose
+• Learn the fundamental concepts of Al
+Gain a deeper understanding of how Al is being used positively to solve problems
+Goals
+Program Al using Python
+Discuss ethics and bias within Al
+Complete a group project applying Al to real-world/social-good topics
+2026-09-08 19:49:38
+Irvington Board of Education
+
+[00:21:58] 00-21-58.png
+Al Recipe Generator
+What your assistant is for: generate recipes using user preference
+Considerations that went into creating your assistant: Reliable
+source
+• https://replitprojectzip-99.replisapp/
+2026-09-08 19:52:07
+Irvington Board of Education
+
+[00:23:03] 00-23-03.png
+*
+in) Recipe Helper
+Recipe
+Helper
+car the Chicke
+dium-high heat. Add the thi
+(ps) and cou
+ed Add minced garlic and sliced
+the chicken to the sk
+ch and
+onus. I desired
+Vien the fin
+cat through
+5 -Plate Nice Dish
+meal. or enjoy it or
+The recipe is
+P53 PM
+2026-09-08 19:53:12
+Irvington Board of Education
+
+[00:23:05] 00-23-05.png
+board log F
+Al Recipe Generator
+What your assistant is for: generate recipes using user preference
+Considerations that went into creating your assistant: Reliable
+source
+https://replitprojectzip-99.replit.app/
+7:53 P
+2026-09-08 19:53:14
+Irvington Board of Education
+
+[00:23:38] 00-23-38.png
+• Cheeries - e
+Welcome to CleanUpAll
+I'm Dusty, your cisaring buddy! Let me show you around
+- t only takes a minuts. a
+Skla
+Share your feedback
+Help ringree this app by shaning your feedback
+with the creation
+• Seach
+751 PM
+2026-09-08 19:53:47
+Irvington Board of Education
+
+[00:24:37] 00-24-37.png
+* +
+25-8-8 DolP *
+B Sconboard I
+School
+C3 Heal *
+@ jebroshaad replicapp
+CleanUpAl
+Dusty
+Bendy In
+Sign in to save your conversations and
+fit back on them anyme
+Checkle to ca
+Let's crea
+kist for cleaning your beds
+re we dive in, could
+you shara a bit:
+room?
+nt to focus on? (e g., clesal, desk, under the bed)
+• What ap
+• Da y
+or in smaller chunka?
+ith tens or chater you struggle with?
+• Are there any
+This wilt ner
+ive tador the checkst perfectly for yout
+Ave Diasty atyrting aboul cleaning
+9 Stach
+2026-09-08 19:54:46
+Irvington Board of Education
+
+[00:24:40] 00-24-40.png
+8 Bol P *
+CleanUpUl
+• What your assistant is for: My assistant is for helping people clean up
+their house, or whatever space they want.
+• Considerations that went into creating your assistant: When I
+created my assistant, I thought about what files to give it so that it
+knew what to put into a response and how to organize the
+responses. I made a couple checklists to train it about common
+questions that will be asked a lot.
+httos://replitprojectzip-janebrodhead.replit.app
+Q Sean
+7.54 PM
+2026-09-08 19:54:49
+Irvington Board of Education
+
+[00:25:03] 00-25-03.png
+×
+2 Chan x 0 And * 1B Scontes Ki Boarder
+* +
+APEX AI
+What is my assistant for?
+My assistant is for helping you organize things like backpacks, schedules.
+computer files, and much more.
+What did I think about when I created my assistant?
+• When / created my assistant I thought about what references/files to give it so
+that it would give users a good response. I gave it checklists of common things
+that need organizing to give the Al some ideas of what to include in its responses.
+SCHEDULE
+----
+a Seare
+2026-09-08 19:55:12
+Irvington Board of Education
+
+[00:25:16] 00-25-16.png
+American Athlete Index
+• What is my assistant for?
+o My Al is called American Athlete Index. My assistant is for people who are
+curious about American athletes. They can just look them up in the
+chatbot and it will tell you all about them. Stats, College years, and where
+they are now.
+• What did I think about when I created my assistant?
+What the background would look like. How it was presented on the website, How
+and what it was supposed to be, I wanted to make an Al that helped figure out
+what to invest in but it was beyond what Al could do. So the thing I do most in life is
+lay sports and I wonder about stats sometimes. So now I can just go and look up
+e player and their stats, how dominant on the field they are, etc.
+2026-09-08 19:55:25
+Irvington Board of Education
+
+[00:25:20] 00-25-20.png
+This app isn't live yet
+App at I
+1. If you're the owner, publish your a
+a Lear mare abea
+2026-09-08 19:55:29
+Irvington Board of Education
+
+[00:25:25] 00-25-25.png
+• No
+= sper e
+Acob reglit app
+Apex
+APEX AI
+HI, 1 m
+I/m here lo he
+Ask me ar
+izing your here, workspace, projects, or rou
+sugges
+3 ease dila i carrga
+attor's the bost wy to organize a
+Help me crasse a dally reline Bue
+seeps me focused and organized
+Ask me abo
+• Seei
+51 P
+2026-09-08 19:55:34
+Irvington Board of Education
+
+[00:25:57] 00-25-57.png
+So Now What?
+Student summer projects provide a small-scale proof point for district-wide
+planning.
+Potential System Implications
+Curriculum Alignment: Map Al literacy, ethics, bias,
+From
+and computational thinking into existing units and
+Summer
+the Authentic Learning Framework.
+Participation
+Instructional Practice: Move beyond tool use:
+to System Learning
+students build, test, reflect, and communicate
+Al-supported solutions
+Use student work and staff
+Professional Learning: Create shared language,
+learning as evidence to
+model lessons, and routines for approved,
+guide pilots, supports, and
+age-appropriate tools.
+thoughtful scaling
+overnance & Access: Sustain guardrails for privacy,
+approved tools, grade-band access, and family
+communication.
+Next step: identity high-leverage entry points before scaling.
+2026-09-08 19:56:06
+Irvington Board of Education
+
+[00:38:40] 00-38-40.png
+Secondary
+Middle School
+High School
+154 days supported
+• 193 days supported
+Collaborative Planning (ENL, ICT)
+All Subjects - Preparing for the Block
+• AP - New Course Development
+MTSS
+Character Education
+Rolling Gradebook
+ELA - Unit Design (SoR)
+Collaborative Planning (ENL, ICT)
+Math - Building Retention Strategies
+Wellness Center Planning
+Health - Vertical Alignment
+VIP - Vocational Opportunities
+SS - Authentic Assessments
+Science - New Standards Alignment
+SDRI • Development & Alignment
+Secondary Initiatives
+World Language - Word Walls,
+•
+TeachTown - 101 & 102
+© Writing Revolution
+Rubrics, Unit Revision,
+OG Resource Develapment
+Common Grading Policy
+2026-09-08 20:08:49
+Irvington Board of Education
+
+[00:38:48] 00-38-48.png
+26-9-8 BoE Pre
+ion - Al and S
+er PO
+• -
+Skdeshow
+2. Share
+File Edit View
+Help
+\ Background Layet There Transition
+Secondary
+• :
+Click to add speaker notes
+• Search
+2008 PU
+2026-09-08 20:08:57
+Irvington Board of Education
+
+[00:38:56] 00-38-56.png
+Vib7b22d_0_3Palide=id g af9.
+26-9-8 BoE Presentation - Al and Summer PD * 6 feet *e Dive
+Fie Edit View raem Format
+Slide Arrange Tools Exteriora Help
+Tr Q) \ • (E) Backgraund Layout There Transtion
+Secondary
+Click to add speaker notes
+Q Search
+REA PM
+2026-09-08 20:09:05
+Irvington Board of Education
+

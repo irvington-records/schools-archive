@@ -1,0 +1,36 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/goto?open&id=CHJPQX65CBFB | DATE: 2022-08-23 | TITLE: Regular Meeting | 11.30 Appointment of Coaches
+
+Meeting: Aug 23, 2022 - Regular Meeting
+Date: 2022-08-23
+Category: 11. Personnel Matters
+Subject: 11.30 Appointment of Coaches
+Type: Action (Consent)
+
+First Name
+			Last Name
+			Sport
+			Level
+			Season
+			Group
+			Step
+			Salary
+
+			Cristian
+			Ishoo
+			Soccer (Boys)
+			Junior Varsity Head
+			Fall
+			III
+			1
+			$5,128
+
+			Randi
+			Meyers
+			Soccer (Girls)
+			Varsity Assistant
+			Fall
+			III
+			1
+			$4,762
+
+*All coaching appointments are conditional upon the New York State Public High School Athletic Association (NYSPHSAA)

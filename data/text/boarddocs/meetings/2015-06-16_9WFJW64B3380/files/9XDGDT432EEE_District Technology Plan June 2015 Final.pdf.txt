@@ -1,0 +1,1597 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/pfiles/9XDGDT432EEE/$file/District%20Technology%20Plan%20June%202015%20Final.pdf | DATE: 2015-06-16 | TITLE: Work Session/Special Meeting | 8.1 Approval of Technology Plan | 9XDGDT432EEE_District Technology Plan June 2015 Final.pdf
+
+Irvington Union Free School District
+District Technology Plan 2014 - 2018
+
+Superintendent                Assistant Superintendent       Director of Technology
+Dr. Kristopher Harrison       Dr. Raina Kor                  Jesse Lubinsky
+
+
+                                 Technology Planning
+
+This document represents a plan designed to launch both short and long- range planning for
+technology for the Irvington School District. The plan is based on a framework that was
+developed to guide the decisions and next steps for the Irvington School District. The plan
+includes the following:
+     Theories of Action and Goals, which reflect the current work of the district and the
+       vision for future work and expectations for teaching and learning
+     The structure for group representation and creation of future technology planning and
+       documentation
+     Technology goals that include:
+
+                           Irvington UFSD Technology Goals
+
+
+              Technology Goal #1: Mobile Student Centered Computing
+              Technology Goal #2: Interactive Multimedia Capable
+              Technology Goal #3: Professional Development
+              Technology Goal #4: Electronic Resources
+              Technology Goal #5: Curriculum Integration
+              Technology Goal #6: Innovation
+              Technology Goal #7: Global Education and Citizenship
+
+
+
+The design of this document assumes:
+    The structure of the goals will provide a consistent approach including defined
+      expectations.
+    The plan will be reviewed and refined as needed, while maintaining district-wide goals.
+    Each building will use the goals and expectations to create developmentally
+      appropriate curriculum and instruction.
+
+
+
+
+                                             1
+
+                               Theories of Action & Goals
+
+
+Theory of Action
+If we provide students with rigorous, authentic learning experiences rooted in a
+comprehensive curriculum, then they will acquire the knowledge, skills and dispositions of
+successful 21st Century learners that will prepare them to thrive in a rapidly evolving global
+society.
+
+Goal
+In order to develop successful 21st Century learners that will be prepared to thrive in a rapidly
+evolving global society, the Irvington School District will:
+
+    Provide students with rigorous authentic, learning experiences.
+    Develop a comprehensive curriculum that includes:
+
+             aligned and articulated content
+             defined learning outcomes
+             a balanced and systematic approach to assessment
+             21st Century skills and dispositions - problem solver, flexible thinker,
+              collaborative learner, effective communicator, empathetic citizen, and self-
+              reliant, reflective, creative risk-taker.
+
+
+Theory of Action
+If we value and foster the professional learning and growth of all members of our school
+community, then we will (increase ownership and) build our collective capacity to support
+student success.
+
+Goal:
+In order to (increase ownership of our school community and) build our collective capacity to
+support student success, the Irvington School District will:
+
+    Engage all members of our school community in the process of continuous
+     improvement through the articulation of District goals.
+
+    Involve all members of the school community in learning and developing the
+     knowledge and skills to support student success.
+
+    Provide educators with professional learning designed to support student growth.
+
+    Provide all staff with professional learning to develop the skills necessary to meet
+     District needs.
+
+
+
+
+                                                2
+
+Theory of Action
+If we engage in a systematic approach of classroom observation, collecting data and offering
+feedback to one another, then evidence-based decisions will promote reflective practice,
+inform instructional design and guide professional learning in order to continuously
+improve/advance student achievement.
+
+Goal
+In order to continuously improve student achievement through professional learning,
+reflective practice, and instructional design, the District will:
+
+    Engage all K-12 instructional leaders in various approaches to classroom visitation to
+     collect evidence of teaching and learning.
+
+    Utilize the Instructional Rounds protocol as a tool to assess our progress toward our
+     relevant theories of action and in addressing instructional goals.
+
+    Use the Framework for Teaching as the benchmark for instructional best practices.
+
+    Use the Annual Professional Performance Review as one indicator of student
+     performance and teacher effectiveness.
+
+
+
+
+                                              3
+
+                               Representation & Planning
+
+
+District Technology Teams
+Two teams will exist to support the development and ongoing implementation and revision of
+the District Technology Plan:
+
+Educational Technology Development Team (ETDT) – The mission of the ETDT is to
+develop a comprehensive technology plan to represent the current needs and expectations of
+the District K-12. This team of District staff will provide oversight of the plan through regular
+review and revision. This team will include administrators, teachers, and students and will be
+representative of grades K-12.
+
+2014-2015 Plan Development
+The team will develop this framework in detail including defining the application of standards
+and expectations for all students and teachers K-12 based on technology standards such as
+ISTE and New York State. Responsibilities of the team include (but are not limited to):
+
+    Expansion of goals and specific expectations.
+    Examining and change technology-related policies and procedures on a continual basis to
+     address the needs of instruction.
+    Meet monthly to collaborate on determining the technology needs of the District.
+    Review recommendations made by ETAG concerning the implementation and use of existing
+     and emerging technologies.
+    Communicate policies and procedures to staff via grade level and department representative.
+    Encourage and support innovative technology use and practices.
+    Define professional development needs of the District.
+    Assess the technology needs and concerns of staff.
+    Encourage and support professional development and training for all employees.
+    Explore and recommend the implementation of emerging technologies.
+    Utilize researched-based information in all work related to instructional technology.
+    Explore and apply to grant opportunities related to technology needs.
+    Revise the District Technology Plan as needed.
+    Design the mission, focus, and funding mechanisms for the creation of an innovation fund that
+     will encourage students and faculty to demonstrate entrepreneurial thinking to expand the
+     district’s instruction and use of technology and expansion of STEM opportunities K-12.
+
+Educational Technology Advisory Group (ETAG)
+The mission of ETAG is to support the development and ongoing thinking and innovation for
+the IUFSD integration of technology. This team will meet as part of the Technology Think-
+Tank on a yearly basis at minimum. Participation will include some members of the ETDT and
+will also allow for fluidity in community participation.
+
+
+
+
+                                                4
+
+                           ISTE Standards for Teachers
+1. Facilitate and inspire student learning and creativity: Teachers use their knowledge of subject
+   matter, teaching and learning, and technology to facilitate experiences that advance student
+   learning, creativity, and innovation in both face-to-face and virtual environments.
+   a. Promote, support, and model creative and innovative thinking and inventiveness.
+   b. Engage students in exploring real-world issues and solving authentic problems using digital
+      tools and resources
+   c. promote student reflection using collaborative tools to reveal and clarify student
+      conceptual understanding and thinking , planning, and creative process
+      Model collaborative knowledge construction by engaging in learning with students,
+      colleagues, and others in face to face and virtual environments
+
+2. Design and develop digital age learning experiences and assessments: Teachers design,
+   develop and evaluate authentic learning and assessments incorporating contemporary tools
+   and resources to maximize content learning in context and to develop the knowledge, skills, and
+   attitudes identified in the Standards
+   a. Design or adapt relevant learning experiences that incorporate digital tools and
+      resources to promote student learning and creativity.
+   b. Develop technology enriched learning environments that enable all students to pursue
+      their individuality curiosity and become active participants in setting their own
+      educational goals, managing their own learning and assessing their own progress.
+   c. Customize and personalize learning activities to address students’ diverse learning styles,
+      working strategies, and abilities using digital tools and resources
+   Provide students with multiple and varied formative and summative assessments aligned with
+   content and technology standards, and use resulting data to inform learning and teaching
+
+3. Model digital age work and learning: Teachers exhibit knowledge, skills, and work
+   processes representative of an innovative professional in a global and digital society
+   a. Demonstrate fluency in technology systems and the transfer of current knowledge to
+      new technologies and situations.
+   b. Collaborate with students, peers, parents, and community members using digital tools
+      and resources to support student success and innovation.
+   c. Communicate relevant information and ideas effectively to students, parents, and peers
+      using a variety of digital age media and formats
+   Model and facilitate effective use of current and emerging digital tools to locate, analyze,
+   evaluate, and use information resources to support research and learning
+
+4. Promote and model digital citizenship and responsibility: Teachers understand local and
+   global societal issues and responsibilities in an evolving digital culture and exhibit legal and
+   ethical behavior in their professional practices
+   a. Advocate, model and teach, safe, legal, and ethical use of digital information and
+      technology including respect for copyright, intellectual property, and the appropriate
+      documentation of sources.
+                                                 5
+
+   b. Promote and model digital etiquette and responsible social interactions related to the
+      use of technology and information
+   c. Promote and model digital etiquette and responsible social interactions related to the
+      use of technology and information
+   d. Develop and model cultural understanding and global awareness by engaging with
+      colleagues and students of other cultures using digital age communication and
+      collaboration tools
+
+5. Engage in professional growth and leadership: Teachers continuously improve their
+   professional practice, model lifelong learning, and exhibit leadership in their school and
+   professional community by promoting and demonstrating the effective use of digital tools
+   and resources
+   a. Participate in local and global learning communities to explore creative applications of
+      technology to improve student learning
+   b. Exhibit leadership by demonstrating a vision of technology infusion, participating in
+      shared decision making and community building, and developing the leadership and
+      technology skills of others.
+   c. Evaluate and reflect on current research and professional practice on a regular basis to
+      make effective use of existing and emerging digital tools and resources in support of
+      student learning
+   d. Contribute to the effectiveness, vitality, and self-renewal of the teaching profession and
+      of their school and community.
+
+
+
+
+                                               6
+
+                                    ISTE Standards for Students
+1. Creativity and Innovation
+     Students demonstrate creative thinking, construct knowledge, and develop innovative products and
+     processes using technology
+     a. Apply existing knowledge to generate new ideas, products, or processes
+     b. Create original works as a means of personal or group expression
+     c. Use models and simulations to explore complex systems and issues
+     d. Identify trends and forecast possibilities
+
+ 2. Communication and Collaboration
+     Students use digital media and environments to communicate and work collaboratively, including at a
+     distance, to support individual learning and contribute to the learning of others
+     a. Interact, collaborate, and publish with peers, experts, or others employing a variety of digital
+          environments and media
+     b. Communicate information and ideas effectively to multiple audiences using a variety of media and
+          formats
+     c. Develop cultural understanding and global awareness by engaging with learners of other cultures
+     d. Contribute to project teams to produce original works or solve problems
+3. Research and Information Fluency
+      Students apply digital tools to gather, evaluate, and use information.
+      a. Plan strategies to guide inquiry
+      b. Locate, organize, analyze, evaluate, synthesize, and ethically use information from a variety of
+         sources and media
+      c. Evaluate and select information sources and digital tools based on the appropriateness to specific
+         tasks
+      d. Process data and report results
+
+ 4. Critical thinking, Problem Solving, and Decision Making
+     Students use critical thinking skills to plan and conduct research, manage projects, solve problems, and
+     make informed decisions using appropriate digital tools and resources.
+     a. Identify and define authentic problems and significant questions for investigation
+     b. Plan and manage activities to develop a solution or complete a project
+     c. Collect and analyze data to identify solutions and/or make informed decisions
+     d. Use multiple processes and diverse perspectives to explore alternative solutions
+5. Digital Citizenship
+    Students understand human, cultural, and societal issues related to technology and practice legal and
+    ethical behavior.
+     a. Advocate and practice safe, legal, and responsible use of information and technology
+     b. Exhibit a positive attitude toward using technology that supports collaboration, learning, and
+         productivity
+     c. Demonstrate personal responsibility for lifelong learning d. Exhibit leadership for digital citizenship
+
+ 6. Technology operations and concepts
+      Students demonstrate a sound understanding of technology concepts, systems, and operations.
+      a. Understand and use technology systems
+      b. Select and use applications effectively and productively
+      c. Troubleshoot systems and applications
+      d. Transfer current knowledge to learning of new technologies
+
+                                                       7
+
+          Technology Goal #1: Flexible Student Centered Computing
+
+All learners will have access to technology in an anytime, anywhere, one-to-one computing
+environment as appropriate and relevant to instructional goals.
+
+Purpose:
+A computing environment that, encourages creativity and innovation, facilitates
+communication and collaboration, supports research and access to digital content, increases
+critical thinking and problem solving opportunities, and promotes the proper use of
+information and technology. Learners will be encouraged and supported, to apply their
+personally owned technology in teaching and learning when appropriate.
+
+Observable Teacher Behaviors:
+   Teachers provide and encourage access to digital resources and technology tools.
+   Teachers develop opportunities that encourage creative thinking and innovation through
+     the use of a flexible student-centered one-one computing environment when constructing
+     knowledge.
+   Teachers facilitate communication and collaboration in virtual environments.
+   Teachers regularly facilitate student access to digital content and multimedia.
+   Teachers capitalize on digital resources to promote critical thinking and problem
+     solving.
+   Teachers model the proper use of information and technology.
+   Teachers model, support, and encourage the appropriate use of personally owned
+     devices in teaching and learning.
+
+Observable Student Behaviors:
+   Students access digital resources and technology tools when needed.
+   Students are motivated to think and work creatively and to be innovative in
+     constructing knowledge and solutions to problems.
+   Students communicate and collaborate with peers in virtual environments.
+   Students access digital content for the informational and research purposes.
+   Students utilize technology to think critically and solve problems.
+   Students demonstrate the proper use of information and technology to construct and
+     demonstrate knowledge.
+   Students use technology to deepen and extend their learning, including increased
+     interaction amongst peers and teachers.
+
+Action Steps and Timeline:
+   Increase computing power to a one-to-one ratio.
+   Implement laptops, tablet/touch devices, and/or handheld computing devices.
+   Develop District policy with grade-level criteria to support and encourage BYOD.
+   Educate staff, students and parents on the intent, concept, and policy of BYOD.
+   Make devices available for students that do not have their own device.
+   Maintain a network infrastructure, policies, and culture that support BYOD (ongoing).
+
+
+
+
+                                              8
+
+Considerations: Teachers
+ How do teachers evaluate virtual environments to use in the classroom?
+
+   Teachers need access to sufficient tools for use in classroom
+   Ensure that teachers understand that there is an expectation that students are able to
+    name their own tools.
+   Need for flexibility in choice of tools.
+   Need for a set of expectations for student knowledge and responsibilities in using
+    electronic devices.
+   How do teachers reflect on their own thinking when their own knowledge of digital
+    technology is still emerging (or limited)?
+   How do we define proper? Do we mean ethical usage or do we mean physical handling of
+    technology?
+   What routines need to be set to ensure that students are clear about the expectations?
+   How comfortable/fluent are teachers in supporting the use of and modeling the use of
+    available technologies?
+
+Considerations: Students
+ Availability of resources in each classroom, as well as outside of classroom
+ Students and teachers need to stay current with the types of digital resources and tech
+   tools are available
+ Access, opportunity and time - how are students provided these in both independent and
+   collaborative settings?
+ Students need to see examples of collaboration
+ What constitutes ethical / appropriate behavior for collaboration on digital formats?
+ How do we empower the students to navigate the concerns and questions that are a part of
+   digital communication?
+ Do the students have the critical thinking skills they need to use technology and solve
+   problems?
+ Are we using and do we have the proper technology?
+ It is necessary to define “proper”...Do we mean proper in a legal/ethical sense?
+ Need for student opportunity to inform peers/teachers of newly available technologies
+ How do we engage students in developing evolving standards of appropriate and ethical
+   use?
+ Need to provide explicit models of ethical and acceptable use.
+
+                                School Year - 2014-15
+
+ Introduce Bring Your Own Device policy to guide student use of personal devices.
+ Build out wireless infrastructure at the MS/HS Campus.
+ Provide professional development for faculty and staff on the use of technology
+  integration and use of wireless devices.
+ Technology purchases to support rollout of one-to-one use.
+
+                               School Year -2015-2016
+
+ Build out wireless infrastructure at Dows Lane and Main Street School.
+ Provide professional development for faculty and staff on the use of technology
+  integration and use of wireless devices.
+ PARCC preparation: increase use of wireless devices and increase use of technology in
+  daily instruction.
+                                           9
+
+Resources:
+   Desktops (some situations are best suited with a fixed desktop, such as a teacher work
+     station to manage classroom sets of devices).
+   Laptops. Tablet/touch devices.
+   Online (e.g. cloud or network) collaboration and storage of files.
+   District supported student email addresses.
+   BYOD Policy
+   Communication modes to educate staff, students, and parents about BYOD
+   District provided devices readily available in classrooms.
+   Adequate informational technology support for increased technology.
+   Professional development associated with changes in practice (e.g. the implementation
+     of tablet devices).
+
+Exemplars/Evidence of Positive Impact on Student Achievement:
+    Learning activities are enhanced by the availability of access to devices and
+     information.
+    Increased student and teacher motivation and engagement in learning process.
+    Evidence of student empowerment (increased ownership of learning).
+    Students and teachers engaged in teaching and learning.
+    Technology used anytime, anywhere.
+
+Evaluation:
+    Survey type of feedback from stakeholders (2015-2016 - parents, students, and staff).
+    Statistics of device usage and network access.
+    Feedback from students, parents, and teachers on frequency and effectiveness of BYOD
+    Measurement of disciplinary referrals and actions related to BYOD
+
+
+
+
+                                            10
+
+Observable Teacher Behavior                   ISTE Standard
+Teachers provide and encourage access         3a. Demonstrate fluency in technology systems and the
+to digital resources and technology           transfer of current knowledge to new technologies and
+tools.                                        situations
+                                              3b. Collaborate with students, peers, parents, and
+                                              community members using digital tools and resources to
+                                              support student success and innovation
+                                              4b. Address the diverse needs of all learners by using
+                                              learner-centered strategies providing equitable access to
+                                              appropriate digital tools and resources.
+Teachers develop opportunities that           1a. Promote, support, and model creative and innovative
+encourage creative thinking and               thinking and inventiveness.
+innovation through the use of a flexible      2b. Develop technology-enriched learning environments
+student-centered one-one computing            that enable all students to pursue their individual
+environment when constructing                 curiosities and become active participants in setting their
+knowledge.                                    own educational goals, managing their own learning, and
+                                              assessing their own progress.
+Teachers facilitate communication and         1d. Model collaborative knowledge construction by
+collaboration in virtual environments.        engaging in learning with students, colleagues, and others
+                                              in face-to-face and virtual environments.
+                                              3b. Collaborate with students, peers, parents, and
+                                              community members using digital tools and resources to
+                                              support student success and innovation
+Teachers regularly facilitate student         2a. Design or adapt relevant learning experiences that
+access to digital content and multimedia      incorporate digital tools and resources to promote
+                                              student learning and creativity.
+Teachers capitalize on digital resources to   1b. Engage students in exploring real-world issues and
+promote critical thinking and problem         solving authentic problems using digital tools and
+solving                                       resources.
+                                              1c. Promote student reflection using collaborative tools to
+                                              reveal and clarify students’ conceptual understanding and
+                                              thinking planning and creative processes.
+                                              2a. Design or adapt relevant learning experiences that
+                                              incorporate digital tools and resources to promote
+                                              student learning and creativity
+                                              2b. Develop technology-enriched learning environments
+                                              that enable all students to pursue their individual
+                                              curiosities and become active participants in setting their
+                                              own educational goals, managing their own learning, and
+                                              assessing their own progress
+Teachers model the proper use of              3d. Model and facilitate effective use of current and
+information and technology.                   emerging digital tools to locate, analyze, evaluate, and use
+                                              information resources to support research and learning.
+                                              4a. Advocate, model, and teach safe, legal, and ethical use
+                                              of digital information and technology, including respect
+                                              for copyright, intellectual property, and the appropriate
+                                              documentation of sources.
+
+
+                                                   11
+
+                                          4c. Promote and model digital etiquette and responsible
+                                          social interactions related to the use of technology and
+                                          information.
+Teachers model, support, and              3d. Model and facilitate effective use of current and
+encourage the appropriate use of          emerging digital tools to locate, analyze, evaluate and use
+personally owned devices in teaching      information resources to support learning.
+and learning.                             4c. Promote and model digital etiquette and responsible
+                                          social interactions related to use of technology and
+                                          information.
+Observable Student Behaviors              ISTE Standard
+Students access digital resources and     3b. Locate, organize, analyze, evaluate, synthesize, and
+technology tools when needed.             ethically use information from a variety of sources and
+                                          media.
+                                          6a.Understand and use technology systems
+                                          6b.Select and use applications effectively and productively
+Students are motivated to think and       1a. Apply existing knowledge to generate new ideas,
+work creatively and to be innovative in   products or processes.
+constructing knowledge and solutions      4a. Identify and define authentic problems and significant
+to problems.                              questions for investigation.
+                                          4d. Use multiple processes and diverse perspectives to
+                                          explore alternative solutions
+Students communicate and collaborate      2a. Communicate information and publish with peers,
+with peers in virtual environments.       experts, or others employing a variety of digital
+                                          environments and media
+                                          5b. Exhibit a positive attitude toward using technology
+                                          that supports collaboration, learning, and productivity
+Students access digital content for the   3b. Locate, organize, analyze, evaluate, synthesize, and
+informational and research purposes.      ethically use information from a variety of sources and
+                                          media.
+                                          3c. Evaluate and select information sources and digital
+                                          tools based on the appropriateness to specific tasks.
+Students utilize technology to think      4c. Collect and analyze data to identify solutions and/or
+critically and solve problems.            make informed decisions
+                                          4d. Use multiple processes and diverse perspectives to
+                                          explore alternative solutions
+Students demonstrate the proper use of    5a. Advocate and practice safe, legal, and responsible use
+information and technology to             of information and technology.
+construct and demonstrate knowledge.
+Students use technology to deepen and     2a. Interact, collaborate, and publish with peers, experts,
+extend their learning, including          or others employing a variety of digital environments and
+increased interaction amongst peers       media.
+and teachers.                             2b. Communicate information and ideas effectively to
+                                          multiple audiences using a variety of media and formats.
+                                          2d. Contribute to project teams to produce original works
+                                          or solve problems.
+                                          4b. Plan and manage activities to develop a solution or
+                                          complete a project.
+
+                                               12
+
+4d. Use multiple processes and diverse perspectives to
+explore alternative solutions.
+6b. Select and use applications effectively and
+productively.
+1a. Apply existing knowledge to generate new ideas,
+products or processes.
+5a. Advocate and practice safe, legal and responsible use
+of information and technology
+
+
+
+
+     13
+
+      Technology Goal #2: Interactive Multimedia Capable Peripherals
+
+
+All learners will have access to technology that allows for consumption and interaction with a
+variety of information and multimedia.
+
+Purpose:
+Interactive peripherals enhance teaching and learning, facilitate a dynamic engagement with
+curriculum, and support learning for all students within the 21st century classroom.
+
+Observable Teacher Behaviors:
+   Teachers regularly deliver a variety of engaging information and multimedia content.
+   Teachers enhance instruction and deepen learning through the integration of various
+     forms of information and multimedia content.
+   Teachers are empowered to facilitate student-centered and differentiated instruction
+     related to best practices in teaching and learning.
+
+Observable Student Behaviors:
+   Students interact with digital information and multimedia regularly.
+   Students engage in the dynamic presentation of content.
+   Students enhance their communication skills through the use of digital information
+     and multimedia content.
+   Students are empowered to demonstrate their knowledge and process of
+     understanding using digital information multimedia content.
+   Students apply skills in using interactive multimedia to extend their knowledge.
+   Students are inspired to construct knowledge and collaborate with their peers.
+
+Action Steps and Timeline:
+    Every classroom and media center will have speakers, a document camera and a means
+      to project and interact with a computing device by September 2016.
+
+                                  School Year 2014-2015
+
+    Install and update technologies in learning spaces to reflect 21st Century learning
+     environments.
+    Create plan to increase video broadcast and production capabilities on the Campus in a
+     partnership with the Village of Irvington utilizing cable franchise funds.
+    Identify opportunities to integrate video production into student experiences.
+      Upgrade the CPR with state of the art production capabilities to enhance the ability to
+      participate in video conferencing and distance learning.
+   
+
+                                  School Year 2015-2016
+
+     Each classroom will be equipped to serve as interactive learning centers: audio
+      equipment, document cameras, webcams, and projection equipment.
+     Broadcast and production studios readied for student and staff use.
+                                              14
+
+     Launch of multi-media clubs or coursework for students.
+
+Resources:
+    Document Cameras
+    Data Projectors
+    Speakers
+    Tablets
+    SMART Interactive Whiteboards
+    Mobile video production studio
+    Adequate informational technology support for increased technology
+    On-going professional development for various levels of proficiency
+
+Exemplars/Evidence of Positive Impact on Student Achievement:
+    Instruction is enhanced with the integration of various forms of digital multimedia
+     content.
+    The amount of observable student engagement is increased.
+
+Evaluation:
+    Survey of teacher usage of multimedia related to the enhancement of instruction.
+    Survey of student level of engagement related to consumption and/or creation of
+      multimedia.
+    Anecdotal evidence (classroom observations, interviews, artifacts of learning) of
+      student use related to empowerment.
+
+
+
+
+                                             15
+
+                  Technology Goal #3: Professional Development
+
+
+Professional Development (PD) will be a top priority for the success of all learners. PD must
+be integrated within all content areas and grade levels. Also, PD must be ongoing due to the
+simultaneous learning of how to use technology, the integration of technology in instruction,
+and the continual emergence of new and improved technologies and practices. PD must be
+differentiated to address the needs, aptitudes, and styles of adult learners. It is expected that
+all staff members will seek out professional development within a technology structure that
+engages, encourages, and empowers all learners.
+
+Purpose:
+The purpose of professional development is to ensure the success of the integration of
+technology in teaching and learning. Technology's value is not merely in its inherent
+capabilities but in its impact, when applied appropriately, on teaching and learning. Also, the
+integration of technology helps to close the digital, generational, and cultural divides often
+evident between teachers and students. Closing this divide will enhance delivery and
+affirmation of the curriculum. Also, collaboration amongst colleagues in an ongoing PD
+structure inspires innovation, collaboration and collegiality.
+
+Observable Teacher Behaviors:
+   Teachers participate in professional learning that is based on grade level/content area
+     standards AND technology standards (i.e. "integration").
+   Teachers attend ongoing professional development, and apply and sustain
+     skills/practices learned
+   Teachers define a purpose and apply action research methodologies when exploring
+     technologies.
+   Teachers problem solve and troubleshoot technical issues.
+   Teachers collaborate to construct knowledge and share ideas.
+   Teachers use technology for inquiry-based learning to foster critical thinking.
+   Teachers facilitate and encourage student learning and creativity.
+   Teachers design and develop digital age learning experiences and assessments.
+   Teachers model digital age work and learning.
+   Teachers promote and model digital citizenship and responsibility.
+   Teachers engage in professional growth and leadership
+
+Observable Student Behaviors:
+   Students demonstrate creativity and innovation using technology.
+   Students collaborate and communicate using technology.
+   Students conduct research and gather information using technology.
+   Students engage in inquiry, project, and problem-based learning.
+   Students model digital citizenship and the proper use of technology.
+
+Action Steps and Timeline:
+    PD is provided in a variety of ongoing ways that are relevant, hands-on, and convenient
+      for all adult learners.
+    PD support meets the ever-changing demands and needs of our adult learners.
+    PD is supported by adequate technologies in order to allow staff to put new skills into
+      practice.
+                                                16
+
+ Standards and curriculum determine the focus for PD with sensitivity to individual
+  growth.
+ Continued development of the Rivertowns PD collaboration
+ PD will be a primary focus of the Technology Coordinator, who will provide tiered
+  support in an flexible manner to meet district and staff needs
+
+Considerations: Teachers
+ Teachers need to comprehend the ISTE Standards
+ Create an environment that inspires teachers to take risks in applying their learning and
+   supports ongoing development.
+ Teachers need to take time to reflect and evaluate technology they have explored
+ Define opportunities when teachers can share different technology sources they have
+   explored internally and externally.
+ Clarify what/which issues teachers need to be responsible for when it comes to problem
+   solving and troubleshooting technical issues.
+ Establish PLC’s (District and Teacher driven).
+ Develop action plans to accomplish goals.
+ Seek out experts within and beyond our community.
+ What do families and community members have in terms of digital tools and
+   resources? How do we find out that information?
+ How do we streamline systems to ensure consistency with shared information?
+ Create opportunities for teachers to collaborate in content areas and across
+   curricula/grade level.
+ How do teachers and administrators empower students’ to pursue individual their goals,
+   self-evaluate?
+ Define creative thinking and innovation.
+ Provide examples and real life models- What does it look and sound like in the classroom?
+ Make connections to instructional design and our essential questions-professional
+   development around designing essential questions
+ How do we make it dynamic for teachers as a resource? For example if you needed know
+   can second graders do such and such- you could enter the question into web-based
+   dynamic document to get answer
+ How do we develop a culture that acknowledges and embraces digital
+   citizenship? Connect to Habits of Mind
+ Could there be a consideration for technology coaching?
+ Teachers will need to know where they are in their own learning as well as the goal and
+   expectations for integrating technology.
+
+Considerations: Students
+ How do we make a distinction for our starting points?
+ How do we define creativity?
+ How do you assess creative thinking?
+ Need to consider opportunities both inside and outside of a classroom.
+ What is the definition of research?
+ Are we just asking for students to accumulate information or evaluate it to the task?
+ How help students to determine the validity of a source?
+                                             17
+
+     How do we work with students to determine the appropriateness of the material for their
+      cognitive levels?
+     Teachers and students need to understand the inquiry learning process
+     Teachers and students need to know of available resources that can assist/guide the inquiry
+      process
+     Teacher need to help student foster the dispositions (e.g., flexible thinker, problem solver)
+      Code of conduct and acceptable use of technology need a student driven component and an
+      understanding that this will constantly evolving.
+     Common definition of what is meant by safe and legal
+
+Resources:
+   Adequate instructional PD and technology support.
+   Site-based instructional technology integration specialists.
+   Full-time media specialists in each building.
+   Lab classrooms for collegial observations.
+   Building and district technology representation for ETAG and ETDT
+   Contractual time dedicated to professional growth.
+
+Exemplars/Evidence of Positive Impact on Student Achievement:
+    Teaching and learning is enhanced through the use of technology.
+    All learners are engaged in the teaching and learning process.
+    All learners are empowered to take pride of ownership in the learning process.
+    Student performance on standardized assessments and classroom assessments
+     improves.
+
+Evaluation:
+    Needs assessments will be used to gauge PD needs of the District, schools,
+      administrators, and grade levels/content area teachers.
+    Rubrics will be used to assess the technology knowledge and level of integration in
+      teaching and learning.
+
+Observable Teacher Behavior              ISTE Standard
+Teachers participate in professional     5a. Participate in local and global learning communities to
+learning that is based on grade              explore creative applications of technology to improve
+level/content area standards AND             student learning.
+technology standards (i.e.
+"integration"). (Practice)
+
+Teachers attend ongoing professional     3a. Demonstrate fluency in technology systems and the
+development, and apply and sustain           transfer of current knowledge to new technologies and
+skills/practices learned. (Practice)         situations
+                                         5c. Evaluate and reflect on current research and
+                                             professional practice on a regular basis to make
+                                             effective use of existing and emerging digital tools and
+                                             resources in support of student learning
+Teachers define a purpose and apply      2a. Design or adapt relevant learning experiences that
+action research methodologies when           incorporate digital tools and resources to promote
+exploring technologies. (Practice)           student learning and creativity.
+                                               18
+
+                                             5c. Evaluate and reflect on current research and
+                                                 professional practice on a regular basis to make
+                                                 effective use of existing and emerging digital tools and
+                                                 resources in support of student learning
+Teachers problem solve and                   3a. Demonstrate fluency in technology systems and the
+troubleshoot technical issues.                   transfer of current knowledge to new technologies and
+(Knowledge and Skill)                            situations.
+                                             3d. Model and facilitate effective use of current and
+                                                  emerging digital tools to locate, analyze, evaluate, and
+                                                  use information resources to support research and
+                                                  learning.
+Teachers collaborate to construct            5a. Participate in local and global learning communities to
+knowledge and share ideas. (Practice)            explore creative applications of technology to improve
+                                                 student learning.
+                                             1d. Model collaborative knowledge construction by
+                                                 engaging in learning with students, colleagues, and
+                                                 others in face-to-face and virtual environments.
+                                             3b. Collaborate with students, peers, parents, and
+                                                 community members using digital tools and resources
+                                                 to support student success and innovation.
+Teachers use technology for inquiry-         1c. Promote student reflection using collaborative tools to
+based learning to foster critical                reveal and clarify student conceptual understanding
+thinking. (Knowledge and Skill)                  and thinking, planning, and creative process
+                                             2b. Develop technology-enriched learning environments that
+                                                 enable all students to pursue their individual curiosities
+                                                 and become active participants in setting their own
+                                                 educational goals, managing their own learning, and
+                                                 assessing their own progress
+Teachers encourage creative thinking         1a. Promote, support, and model creative and innovative
+and d when constructing knowledge                thinking and inventiveness
+(Knowledge and Skill)
+Teachers promote and model digital           4a. Advocate, model and teach, safe, legal, and ethical use
+citizenship and responsibility. (Practice)       of digital information and technology including respect
+                                                 for copyright, intellectual property, and the
+                                                 appropriate documentation of sources.
+                                             4c. Promote and model digital etiquette and responsible
+                                                 social interactions related to the use of technology and
+                                                 information
+Teachers engage in professional              5a. Participate in local and global learning communities to
+growth and leadership. (Practice)                explore creative applications of technology to improve
+                                                 student learning.
+                                             5b. Exhibit leadership by demonstrating a vision of
+                                                 technology infusion, participating in shared decision
+                                                 making and community building, and developing the
+                                                 leadership and technology skills of others.
+
+                                             5c. Evaluate and reflect on current research and
+                                                 professional practice on a regular basis to make
+                                                 effective use of existing and emerging digital tools and
+
+                                                   19
+
+                                             resources in support of student learning.
+                                         5d. Contribute to the effectiveness, vitality, and self-
+                                             renewal of the teaching profession and of their school
+                                             and community.
+Observable Student Behaviors             ISTE Standard
+Students demonstrate creativity and      1a. Apply existing knowledge to generate new ideas,
+innovation using technology.                 products, or processes
+                                         1b. Create original works as a means of personal or group
+                                             expression
+                                         1c. Use models and simulations to explore complex
+                                             systems and issues
+                                         1d. Identify trends and forecast possibilities
+Students conduct research and gather     3b. Locate, organize, analyze, evaluate, synthesize, and
+information using technology.                ethically use information from a variety of sources and
+                                             media
+Students engage in inquiry, project,     4a. Identify and define authentic problems and significant
+and problem-based learning.                  questions for investigation
+                                         4b.Plan and manage activities to develop a solution or
+                                             complete a project
+Students model digital citizenship and   5a. Advocate and practice safe, legal, and responsible use
+the proper use of technology.                of information and technology
+
+
+
+
+                                               20
+
+                     Technology Goal #4: Electronic Resources
+
+Electronic resources and tools must be readily available to support contemporary teaching
+and learning environment.
+
+Purpose:
+As the widespread use of the Internet has informed and connected people, the availability of
+electronic resources will support the collaborative component of teaching and learning.
+Electronic resources must be readily available for all learners to access the increasing wealth
+of on-demand information. Also, technology tools for the creation of electronic resources must
+be readily available for all learners. Creating and sharing resources fosters a collaborative
+learning environment.
+
+Observable Teacher Behaviors:
+   Teachers regularly access, create, and manage digital resources for teaching and
+     learning.
+   Teachers participate in a collaborative environment with colleagues across the District,
+     county, state, nation, etc.
+   Teachers increasingly rely on digital resources to support planning, instruction,
+     professional development, and curriculum design.
+
+Observable Student Behaviors:
+   Students access electronic resources for information and research at anytime, from
+     anywhere.
+   Students store and retrieve the information they have gathered while researching (e.g.
+     cloud, network, or digital locker storage).
+   Students access and interact with digital books, textbooks, and class resources
+     (provided by the District and/or created by learners).
+   Students use digital tools to build electronic knowledge bases that are accessible at any
+     time, from anywhere.
+
+Action Steps and Timeline:
+    Provide and support published and/or intra-District created electronic resources
+      (ongoing).
+    Provide and support digital books, textbooks, and resources (ongoing).
+    Provide and support electronic tools for the creation of electronic resources (ongoing).
+
+   Considerations: Teachers
+    Provide defined learning in the areas of creation and management of digital resources.
+    How does the district define, facilitate, and encourage collaboration to develop shared
+      resources?
+    Teachers will need a variety of 21st century resources (hardware/software/digital)
+      and training supported by the district.
+
+
+
+
+                                              21
+
+   Considerations: Students
+    Provide an organized way of accessing information and resources for all students.
+    How can we bridge the gap between student-used programs and methods to submit to
+      the teacher or access in school to minimize loss of information and time?
+          o Do we have to “force” students to comply to the Google platform (vs. apple)
+             because that is what technology/teachers can access (does this take away the
+             opportunity to select and be innovative)
+          o Students will need to troubleshoot - whose responsibility is it?
+    How do we assure that the materials (textbooks) being accessed are available at
+      differentiated levels while still allowing for students to interact in the same
+      course/program?
+    Students need to be educated on the ethical aspect of using electronic resources.
+
+Resources:
+    Subscription-based databases.
+    Electronic books, textbooks, and resources specific to grade-levels and content areas.
+    Video sharing site (e.g. You Tube).
+    Atlas Rubicon (i.e. an online collaborative curriculum database).
+    Tools allowing for the creation and publication of resources (e.g. Moodle, Wikis).
+
+Exemplars/Evidence of Positive Impact on Student Achievement:
+    Student performance on assessments, student reflection on using digital resources, and
+     anytime, anywhere access.
+    Student produced work.
+
+Evaluation:
+   Gathering feedback on availability, ease of use, and impact on student achievement.
+   Monitoring level of tools used in the creating of resources.
+
+
+Observable Teacher Behavior                 ISTE Standard
+Teachers regularly access, create, and      2a. Design or adapt relevant learning experiences that
+manage digital resources for teaching           incorporate digital tools and resources to promote
+and learning.                                   student learning and creativity.
+                                            2b. Develop technology-enriched learning environments
+                                                that enable all students to pursue their individual
+                                                curiosities and become active participants in setting
+                                                their own educational goals, managing their own
+                                                learning, and assessing their own progress.
+                                            2c. Customize and personalize learning activities to
+                                                address students’ diverse learning style, working
+                                                strategies, and abilities using digital tools and
+                                                resources.
+Teachers participate in a collaborative     1d. Model collaborative knowledge construction by
+environment with colleagues across              engaging in learning with students, colleagues, and
+the District, county, state, nation, etc.       others in face-to-face and virtual environments
+                                            5a. Participate in local and global learning communities
+                                                to explore creative application of technology to
+                                                improve student learning.
+                                                  22
+
+                                         5b. Contribute to the effectiveness, vitality, and self-
+                                              renewal of the teaching profession and of their
+                                              school and community
+Teachers increasingly rely on digital    2a. Design or adapt relevant learning experiences that
+resources to support planning,               incorporate digital tools and resources to promote
+instruction, professional development,       student learning and creativity
+and curriculum design                    3b. Collaborate with students, peers, parents, and
+                                             community members using digital tools and
+                                             resources to support student success and innovation
+Observable Student Behaviors             ISTE Standard
+Students access electronic resources     3c. Evaluate and select information sources and digital
+for information and research at any           tools based on the appropriateness to specific tasks
+time, from anywhere.                     6b. Select and use applications effectively and
+                                             productively
+Students store and retrieve the          6a. Understand and use technology systems
+information they have gathered while     6b. Select and use applications effectively and
+researching (e.g. cloud, network, or          productively
+digital locker storage).                 6c. Troubleshoot systems and applications
+Students access and interact with        2a. Interact, collaborate, and publish with peers,
+digital books, textbooks, and class           experts, or others employing a variety of digital
+resources (provided by the District           environments and media.
+and/or created by learners).             3b. Locate, organize, analyze, evaluate, synthesize, and
+                                              ethically use information from a variety of sources
+                                              and media.
+                                         6a. Understand and use technology systems
+Students use digital tools to build      3b. Locate, organize, analyze, evaluate, synthesize and
+electronic knowledge bases that               ethically use information from a variety of sources
+are accessible at anytime, from               and media
+anywhere.                                3c. Evaluate and select information sources and digital
+                                              tools based on the appropriateness to specific tasks
+                                         6b. Select and use applications effectively and
+                                             productively
+
+
+
+
+                                               23
+
+                   Technology Goal #5: Curriculum Integration
+
+The International Society for Technology in Education National Educational Technology
+Standards (ISTE NETS) and the New York State Educational Technology Standards will be
+integrated into all K-12 curricula. Instructional stakeholders will contribute to developing and
+updating technology-integrated curriculum maps and resources. Teachers will regularly
+integrate technology as defined within their respective curriculum.
+
+Purpose:
+    To provide students, parents, and teachers with clearly defined learning goals in grade
+     level and content area curricula.
+    To promote and support contributions to curriculum due to the ongoing growth and
+     emergence of viable technologies.
+    To efficiently and effectively support teachers in integrating technology by focusing on
+     common learning goals.
+
+Observable Teacher Behaviors:
+   Teachers contribute to their respective curriculum maps to maintain technology
+     integration relevancy.
+   Teachers use technological resources and tools to provide effective instruction.
+   Teachers’ instruction demonstrates best pedagogical practices related to technology
+     integration.
+   Teachers integrate content, pedagogy, and technology into their instructional design
+   Teachers model the use of appropriate technology for a specified task or problem.
+   Teachers share and collaborate with colleagues to improve technology integration and
+     teaching and learning.
+
+Observable Student Behaviors:
+   Students articulate the instructional purpose of using technology in learning (i.e. as
+     opposed to the common idea of technology being a novelty or means for
+     entertainment).
+   Students use technology in productive ways to improve learning.
+
+Action Steps and Timeline:
+   District
+    Support professional development so all technology goals can be met.
+    Ensure the availability and accessibility of technological tools.
+    Acquire instructional resources that encompass instructional technology needs of
+      students and teachers.
+    Provide training for teachers to access and contribute to digital curriculum resources.
+    Develop and/or revise curriculum maps for all grade level and content areas to ensure
+      common “road maps” for teaching and professional development purposes.
+
+   Building
+    Incorporate a technology component in their yearly goals.
+    Reflect on lesson plans and instruction to ensure that instructional technology is
+      integrated.
+    Increase opportunities for STEM based curriculum and instruction.
+    Develop technology based courses to enrich student programs
+                                              24
+
+   Considerations: Teachers
+    Help for teachers with curriculum mapping incorporating a technology lens
+    What do we mean by relevancy? Relevant to the students’ lives? Relevant as it pertains to
+      enhancing a lesson or area of curriculum? Relevant to larger world?
+    What constitutes a technological resource? Can there be a list?
+    As new technologies are developed and released, how are they shared? Who is responsible
+      for imparting new technology knowledge? Department chairs? Team leaders?
+      Administrators?
+    Clarity of desired student outcomes for technology integration is important
+    What is the value added by utilizing technology in any particular lesson?
+    Not teach the tech skills, teach the content and use the technology
+    What are appropriate content-specific technologies?
+    How do teachers stay up-to-date and what is up-to-date?
+    Teachers will need to know about emerging digital tools and how to use them
+    Identify teachers who can model technology
+    How, when, and where would the collaboration take place? Does it need to be specified?
+    There can be a benefit in teachers learning how to collaborate in ways that are
+      asynchronous and not always face-to-face
+    How do we encourage new collaborations? Inter, intra grade level & departments?
+    What are the expectations for sharing?
+    Teachers need access to a variety of technological tools i.e. websites, headphones,
+      recording devices, etc.
+    Teachers need to be given the time to develop experiences for students and the
+      understanding about technology that will give students the opportunity to develop the
+      thinking skills that promote learning. How can we do that?
+    Teachers need to be flexible in their curriculum in the way the content is taught
+
+   Considerations: Students
+    Students should understand why they are using an app--not random way to spend time.
+    The instructional technologies in different subject areas can look very different
+      (pedometers, probes, art & music technologies)
+    Students need the freedom to explore technological opportunities and not be limited by
+      the districts approved/prescribed technology in an artificial way.
+    To improve learning, teachers need clearly articulated critical thinking goals; and students
+      need to understand what they are in order to reproduce/model them.
+    Students need to define the purpose of the technology they are using to pursue their
+      learning;
+    Inquiry based learning is essential to achieve the above.
+    Students need to be flexible in the way the content is being taught and they need to be
+      flexible thinkers overall
+
+Resources:
+    Online repository for curriculum.
+    Teacher access to digital resources, including training on how to access resources.
+    Mandated time for teachers to review and collaborate on curriculum.
+    Training and support for teacher-leaders in curriculum development.
+
+
+
+
+                                               25
+
+Exemplars/Evidence of Positive Impact on Student Achievement:
+    The integration of relevant instructional technology is explicitly stated in curriculum
+     maps.
+    Students and teachers are using instructional technology within their teaching and
+     learning.
+    Curriculum will be updated on a frequent (ideally annual) basis and available
+     electronically.
+    Students will express their understanding of content through digital media.
+
+Evaluation:
+    Review of curriculum maps.
+    Teacher reflection on performance/goals (embedded within evaluation process).
+    Meeting records from curriculum development/review sessions.
+    Student reporting on integration of curriculum within classroom.
+
+Observable Teacher Behavior                   ISTE Standard
+                                              2a. Design or adapt relevant experiences that
+                                                  incorporate digital tools and resources to promote
+Teachers contribute to their respective           student learning and creativity
+curriculum maps to maintain technology        5c. Evaluate and reflect on current research and
+integration relevancy.                            professional practice on a regular basis to make
+                                                  effective use of existing and emerging digital tools
+                                                  and resources in support of student learning
+Teachers use technological resources and      2a. Design or adapt relevant learning experiences that
+tools to provide effective instruction.           incorporate digital tools and resources to promote
+                                                  student learning and creativity.
+                                              3a. Demonstrate fluency in technology systems and
+                                                  the transfer of current knowledge to new
+                                                  technologies and situations.
+Teachers’ instruction demonstrates best       1b. Students in exploring real-world issues and solving
+pedagogical practices related to                  authentic problems using digital tools and
+technology integration.                           resources
+                                              5c. Evaluate and reflect on current research and
+                                                  professional practice on a regular basis to make
+                                                  effective use of existing and emerging digital
+                                                  tools and resources in support of student
+                                                  learning
+Teachers integrate content, pedagogy, and     2a. Design or adapt relevant learning experiences that
+technology into their instructional design.       incorporate digital tools and resources to promote
+                                                  student learning and creativity
+                                              2b. Develop technology-enriched learning
+                                                  environments that enable all students to pursue
+                                                  their individual curiosities and become active
+                                                  participants in setting their own educational goals,
+                                                  managing their own learning, and assessing their
+                                                  own progress
+Teachers model the use of appropriate         3d. Model and facilitate effective use of current and
+technology for a specified task or problem.       emerging digital tools to locate, analyze, evaluate,
+
+                                                26
+
+                                              and use information resources to support research
+                                              and learning
+                                          5c. Evaluate and reflect on current research and
+                                              professional practice on a regular basis to make
+                                              effective use of existing and emerging digital tools
+                                              and resources in support of student learning
+Teachers share and collaborate with       5a. Participate in local and global learning communities
+colleagues to improve technology              to explore creative applications of technology to
+integration and teaching and learning.        improve student learning.
+                                          5c. Evaluate and reflect on current research and
+                                              professional practice on a regular basis to make
+                                              effective use of existing and emerging digital tools
+                                              in support of student learning
+Observable Student Behaviors              ISTE Standard
+Students articulate the instructional     1a. Apply existing knowledge to generate new ideas,
+purpose of using technology in learning      products, or process
+(i.e. as opposed to the common idea of    4b. Plan and manage activities to develop a solution or
+technology being a novelty or means for      complete a project
+entertainment).
+Students use technology in productive     1a. Apply existing knowledge to generate new ideas,
+ways to improve learning                      products, or processes
+                                          1d.Identify trends and forecast possibilities
+                                          4a. Identify and define authentic problems and
+                                              significant questions for investigation
+                                          4c. Collect and analyze data to identify solutions
+                                              and/or make informed decisions
+
+
+
+
+                                            27
+
+                           Technology Goal #6: Innovation
+
+
+Innovation in the best practices of technology integration will be supported and encouraged.
+
+Purpose:
+Support and encourage innovative practices of technology integration and exploration:
+    Improving instructional practices.
+    Continually expanding opportunities for students.
+    Collegial learning across the District.
+    Creating opportunities for action research.
+    Providing student-driven learning experiences.
+
+Observable Teacher Behaviors:
+   Teachers explore and pioneer approaches, tools and methods to improve teaching and
+     learning.
+   Teachers’ instructional design includes technology and reflects expectations of the
+     dispositions and habits of mind necessary to support innovation.
+   Teachers provide students with choice and opportunities to construct their own
+     knowledge.
+   Teachers engage in learning and action research around new technologies and share
+     and reflect on “successes and failures” with colleagues.
+
+Observable Student Behavior:
+   Students seek out new methods of critical thinking and expression of learning.
+   Students contribute to the exploration, pioneering, and sharing of new approaches,
+     tools, and methods for learning.
+   Students participate in the collective inquiry and sharing of knowledge
+   Students engage in action research using a variety of technologies.
+
+Action Steps and Timeline:
+    Develop an approach for the ongoing support of innovative practices through
+      identified budget resources.
+    Develop and support a network for innovative practices to be cataloged and shared.
+    Provide a formal learning and sharing opportunity.
+    Launched the Irvington Innovation Fund Fall 2014 in a partnership with the Irvington
+      Education Foundation.
+
+   Considerations: Teachers
+    How do we educate ourselves about what resources are available to educators?
+    How do we prepare to build capacity with new and emerging tools?
+    How do we measure exploration?
+    If we believe that there is important growth and learning in “failure”/struggle then, If
+      we fail is it still an effective use of digital tools and resources?
+          o What are we failing at?
+          o What do we define as effective use?
+    Develop the structure to provide the time and opportunity for educators to be
+      reflective on process
+    Where in our curriculum designs/units do we already incorporate innovations?
+                                                   28
+
+      How do we connect our current curriculum and the CCLS to allow students to explore
+       their own individual curiosities?
+      What value do we place on common learning experiences?
+      Action Research needs to be defined
+
+   Considerations: Students
+    Students demonstrate understanding of multiple perspectives so that they can
+      investigate appropriate sources and resources to help them expand/deepen their
+      thinking.
+    How do we ensure student access to a wider range of hardware, digital
+      sources/resources?
+    Students need a way to access others’ knowledge and share their own, and synthesize
+      this knowledge and apply it in new ways.
+    Students need a venue in which they can share their approaches, tools, and methods
+      for learning.
+    How do students gain confidence in exploring, pioneering, and sharing? How do
+      students learn to feel comfortable with failure?
+    Teachers will need to foster students’ independence and interdependence to choose
+      and follow a path of inquiry and share their journey with others.
+
+Resources:
+    Per pupil or per staff member allocation of funds (may be allocated to grade levels,
+     departments, or buildings) for piloting emerging technologies and/or attending
+     conferences.
+    District level support for developing innovative practices.
+
+Exemplars/Evidence of Positive Impact on Student Achievement:
+    Teaching is enhanced through the integration of innovative practices.
+    Student engagement correlates to an increase in academic achievement.
+    Teachers and students are empowered to apply technology in innovative ways to solve
+     problems.
+    Growth will be seen across the year in new, unpredictable ways.
+    Learning and growth will happen in ways that they had not previously.
+    This growth could be, and not limited to, students learning, teaching techniques,
+     devices, culture, collaboration, PLC/T productivity, sharing, and wider integration of
+     resources and methods that support student success.
+
+Evaluation:
+Innovative practices will be evaluated for the impact on enhancing instruction, engaging
+students, and empowering students to take pride of ownership in learning.
+
+Observable Teacher Behavior                           ISTE Standard
+Teachers explore and pioneer approaches, tools        1a. Promote, support, and model creative and
+and methods to improve teaching and learning.             innovative thinking and inventiveness
+                                                      5a. Participate in local and global learning
+                                                          communities to explore creative applications
+                                                          of technology to improve student learning
+                                                      5c. Evaluate and reflect on current research and
+
+                                                 29
+
+                                                             professional practice on a regular basis to
+                                                             make effective use of existing and emerging
+                                                             digital tools and resources in support of
+                                                             student learning
+Teachers’ instructional design includes                  2a. Design or adapt relevant learning experiences
+technology and reflects expectations of the                  that incorporate digital tools and resources to
+dispositions and habits of mind necessary to                 promote students learning and creativity
+support innovation                                       2b. Develop technology-enriched learning
+                                                             environments that enable all students to
+                                                             pursue their individual curiosities and become
+                                                             active participants in setting their own
+                                                             learning, and assessing their own progress.
+                                                         5c. Evaluate and reflect on current research and
+                                                             professional practice on a regular basis to
+                                                             make effective use of existing and emerging
+                                                             digital tools and resources in support of
+                                                             student learning.
+Teachers provide students with choice and                2c. Customize and personalize learning activities
+opportunities to construct their own knowledge               to address students’ diverse learning styles,
+(may not be part of observable teacher                       working strategies, and abilities using digital
+behavior)                                                    tools and resources.
+Teachers engage in learning and action research          5a. Participate in local and global learning
+around new technologies and share and reflect                communities to explore creative applications
+on “successes and failures” with colleagues.                 of technology to improve student learning
+                                                         5b. Contribute to the effectiveness, vitality, and
+                                                             self-renewal of the teaching profession and of
+                                                             their school and community
+                                                         5c. Evaluate and reflect on current research and
+                                                             professional practice on a regular basis to
+                                                             make effective use of existing and emerging
+                                                             digital tools and resources in support of
+                                                             student learning
+                                                         5d. Contribute to the effectiveness, vitality, and
+                                                             self-renewal of the teaching
+Observable Student Behaviors                             ISTE Standard
+Students seek out new methods of critical                4b. Use multiple processes and diverse
+thinking and expression of learning.                         perspectives to explore alternative solutions.
+                                                         6d. Transfer current knowledge to learning of
+                                                              new technologies.
+Students contribute to the exploration,                  1a. Apply existing knowledge to generate new
+pioneering, and sharing of new approaches,                    ideas, products, or processes
+tools, and methods for learning.                         2a. Interact, collaborate, and publish with peers,
+                                                              experts, or others employing a variety of
+                                                              digital environments and media
+Students participate in the collective                    4d. Use multiple processes and diverse
+inquiry/action research and sharing of knowledge.            perspectives to explore alternative solutions.
+
+
+
+                                                    30
+
+             Technology Goal #7: Global Education and Citizenship
+
+
+Teachers and students will use technology to promote engagement in the global society.
+Global citizenship will be an underlying focus throughout all curriculum areas in an effort to
+prepare students for engaged living in a culturally diverse and rapidly changing world.
+
+Purpose:
+Enabling young people to participate in shaping a better-shared future for the world is at the
+heart of global education. An emphasis on the unity and interdependence of human society
+can support the development of a sense of self and appreciation of cultural diversity.
+Technology can facilitate the opportunities for teachers and students to engage across
+continents and with people of all cultures and backgrounds.
+
+Observable Teacher Behaviors:
+   Teachers engage students in a wider view of the world, extending student learning
+     about how the world works and facilitate a change in learning, thinking and teaching to
+     broaden perspectives.
+   Teachers design instruction that requires students to evaluate how the media allows the
+     reader, the viewer or the listener to make up their own mind. In order to build knowledge
+     instruction and questions
+   Teachers provide opportunities for students to identify and explore the ways that
+     individuals and communities increasingly depend on each other through the use of
+     technology.
+
+Observable Student Behaviors:
+   Students engage with differing media perspectives, to learn and develop
+     understandings of underlying issues, assumptions and contexts presented through
+     media.
+   Students engage in a wider view of the world, extending student learning about how
+     the world works and facilitate a change in learning, thinking and teaching through
+     engagement with people within and beyond their own community.
+   Students recognize and demonstrate ways to participate as a global citizen.
+   Students are actively engaged in digital learning with individuals and members within
+     and across communities, both global and local.
+   Students are invested in their own learning, and in developing and presenting their
+     own world view.
+
+Action Steps and Timeline:
+   Create systems and structures that support engagement within and across
+      communities and support an online engagement (e.g. web-cameras in all classrooms).
+   Develop professional learning opportunities for teachers to develop collegial
+      relationships with teachers beyond our local community.
+   Provide student and community programs to create responsible digital citizens and to
+      increase awareness of digitally risky behaviors.
+
+
+
+                                               31
+
+Considerations: Teachers
+ Time to develop the lesson/unit w/ other educators (here and abroad)
+ Time zones when trying to communicate directly
+ Teachers need to be prepared for the emergence of bias/push back
+ Teachers need to be aware of their own bias
+ Teachers providing a structure/establish norms when engaging students in collective
+   problem solving
+ Teachers need to know what contemporary tools and resources are available
+ Teachers need to provide a balanced view of topics in an unbiased fashion
+ Teachers will have the freedom to incorporate media that is appropriate and
+   meaningful for their level
+ Teachers need to have access to virtual environments and knowledge about how to
+   locate virtual communities
+ Teachers need to be familiar with current events
+ Teachers engage students in exploring real-world issues
+ There are websites such as Common Sense Media and Twiducate to build students’
+   knowledge of Global Education and Citizenship
+ Teachers explore organizations and resources that support real world issues- ex.
+   Unicef
+ Are there district protocols that need to be followed?
+ Defining what it means to depend on one another- interdependency using technology
+ What does this look like? How do we provide a model for teachers to support
+   implementation? Identify classrooms or subject areas that are implementing this so we
+   can create a model cohort and build out from there.
+
+Considerations: Students
+ Need to explicitly teach students to critically engage with and analyze information.
+      o This happens in various forms across grade levels -- concentric circles of
+         broadening perspective.
+      o Where do you (students & teachers) get information?
+      o Modeled - you need to live it
+      o Need to name the dispositions
+ Students and teachers actively seek out the “missing voice”.
+ How do these apply to content areas that don’t traditionally deal in “world issues”?
+ Students will be engaging in:
+      o Virtual classroom
+      o Skyping
+      o Remote collaboration
+      o Working within a cloud
+      o Communicating with experts
+      o Collaborating with classrooms or individuals in other places
+      o Flexible learning
+ Dovetail with character education learning in the district.
+ Students need to identify other points of view in the virtual environment.
+ How do we ensure that topics and information are developmentally appropriate when
+   we open up our classrooms to the world?
+
+                                         32
+
+      What does it mean to be a global citizen? Need to engage in conversation about this;
+       common understanding
+      Teachers utilize students’ personal experiences - (inventory of students global
+       experiences)- to help develop classroom experiences
+
+Resources:
+    Technology to support web-based communications (i.e. Skype, webcams).
+    Subscriptions to online classroom opportunities.
+
+Exemplars/Evidence of Positive Impact on Student Achievement:
+   Increased knowledge demonstrated through student work reflecting global
+    understanding and citizenship.
+   Increased occurrences of students demonstrating open-mindedness leading to new
+    thinking about the world and a predisposition to take action for change.
+
+Evaluation:
+    Teacher and student feedback.
+
+Observable Teacher Behavior                       ISTE Standard
+Teachers engage students in a wider view of       4d. Develop and model cultural understanding
+the world, extending student learning about       and global awareness by engaging with colleagues
+how the world works and facilitate a change in    and students of other cultures using digital age
+learning, thinking and teaching to broaden        communication with collaboration tools
+perspectives.
+
+                                                  1b. Engage students in exploring real-world issues
+Teachers design instruction that requires
+                                                      and solving authentic problems using digital
+students to evaluate how the media allows the
+                                                      tools and resources
+reader, the viewer or the listener to make up
+                                                  2a. Design or adapt relevant learning experiences
+their own mind. In order to build knowledge
+                                                      that incorporate digital tools and resources to
+instruction and questions                             promote student learning and creativity.
+Teachers provide opportunities for students to    1b. Engage students in exploring real world issues
+identify and explore the ways that individuals        and solving authentic problems using digital
+and communities increasingly depend on each           tools and resources
+other through the use of technology               4d. Develop and model cultural understanding
+                                                      and global awareness by engaging with
+                                                      colleagues and students of other cultures
+                                                      using digital age communication and
+                                                      collaboration tools
+Observable Student Behaviors                      ISTE Standard
+Students engage with differing media              3b. Locate, organize, analyze, evaluate,
+perspectives, to learn and develop                    synthesize, and ethically use information from
+understandings of underlying issues,                  a variety of sources and media.
+assumptions and contexts presented through        3c: Evaluate and select information sources and
+media.                                                digital tools based on the appropriateness to
+                                                      specific tasks.
+
+
+                                                 33
+
+Students engage in a wider view of the world,        2b. Communicate information and ideas
+extending student learning about how the                 effectively to multiple audiences using a
+world works and facilitate a change in learning,         variety of media and formats
+thinking and teaching through engagement             2C. Develop cultural understanding and global
+with people within and beyond their own                  awareness by engaging with learners of other
+community.                                               cultures
+Students recognize and demonstrate ways to           2c.Develop cultural understanding and global
+participate as a global citizen.                         awareness by engaging with learners of other
+                                                         cultures
+                                                     5d. Exhibit leadership for digital citizenship.
+Students are actively engaged in digital learning    2c. Develop cultural understanding and global
+with individuals and members within and                  awareness by engaging with learners of other
+across communities, both global and local.               cultures
+                                                     2d. Contribute to project teams to produce
+                                                         original works or solve problems
+                                                     4d. Use multiple processes and diverse
+                                                         perspectives to explore alternative solutions
+Students are invested in their own learning, and     1b. Create original works as a means of personal
+in developing and presenting their own                   or group expression
+worldview.                                           5b. Exhibit a positive attitude toward using
+                                                         technology that supports collaboration,
+                                                         learning, and productivity
+                                                     5c. Demonstrate personal responsibility for
+                                                         lifelong learning
+
+
+
+
+                                                    34
+
+    Thank you to all the teachers and administrators who participated in our week long
+    Technology Summit. It is through your good thinking and collective work that we have been
+    able to develop our framework into a plan that defines how teaching and learning needs to be
+    reflected in our classrooms if we are to reach our technology goals.
+
+    Worth Noting: Goal # 5 was combined with Goal #1 as a result of the thinking of the group
+    that it is not its own goal, but rather a subset of Goal #1. Goal #2 has a strong focus on
+    hardware and will be further developed through the work of the ETDT. Goal # 5 became
+    Curriculum Integration and Goal # 6 Innovation
+
+  Technology Goal #1:       Technology Goal #2:          Technology Goal #3:        Technology Goal #4:
+
+Mobile Student Centered           Interactive               Professional            Electronic Resources
+      Computing              Multimedia Capable             Development
+                                  Peripherals
+Meg Benedetto               Eli Byers               Kate Becker                  Karen Acrish
+Karen Bodnar                Diana T. Cassidy        Joyce Chapnick               Danielle Almeida
+Gwenn Carney                Gwenn E. Carney         Dave Cohen                   Susan Buck
+Mike Cerniglia              Patsy Costabile         Allyson Daley                Betty Carle
+Jen DeLisi-Hall             Stephen Digiovanni      Stephen DiGiovanni           Gwenn Carney
+Alyssa Fisher               Joann Molloy            Anita Ferreri                Dave Cohen
+Lisa Gervasi                Marcus Oates            Helene Imber                 Lauren Cutignola
+Amy Jones                   Jacqueline Richardson   Merle Jackson                Jessica Doherty
+Carleen Julian              Christina Rosenblatt    Deanna Kahl                  Kate Falcon
+Bernie Keating              Christine Rosner        Carol LaBella                Alyssa Fisher
+Marianne Kennedy            Susan Wallace           Randy Lichtenwlaner          Janet Gillespie
+Deb Mariniello              David Whitehead         Crystal Miraglia             James Groven
+Christina Mitchell          Nancy Woeckener         Artie McCormack              Carleen Julian
+Joann Molloy                                        Elizabeth Morgan             Danielle Lee
+Scott Palermo                                       Luann Ricciardi              Liza Leite
+Christine Rosner                                    Christine Rosner             Randy Lichtenwalner
+David Sottile                                       Nina Rossi                   Ilija Markic
+Georgia Tasigiannis-James                           Rebeca Sampelayo             Artie McCormack
+                                                    Susan Wallace                Crystal Miraglia
+                                                    Diane Watkinson              Joann Molloy
+                                                    David Whitehead              Joanna Morabito
+                                                    Geri Winteroth               Cathy Patricola
+                                                                                 Linda Palumbo
+                                                                                 Gregg Pernick
+                                                                                 Jackie Richardson
+                                                                                 Christina Rosenblatt
+                                                                                 David Sottile
+
+
+
+
+                                                                           Continued on Next Page . . .
+
+                                                    35
+
+  Technology Goal #5:   Technology Goal #6:         Technology Goal #7:     Technology Goal #8:
+    Bring Your Own                                  Global Education &          Innovation
+  Technology (BYOD)           Curriculum                Citizenship
+                              Integration
+Chris Barry             Danielle Almeida       Patrizia Barbagallo        Karen Acrish
+Tina Buzzetto           Meg Benedetto          Meg Benedetto              Scott Andrasko
+Julie Cangelosi         Kari Carlson           Amy Blackwell              Eli Byers
+Joyce Chapnick          Joyce Chapnick         Susan Buck                 Gwenn Carney
+Dave Cohen              Diana Cassidy          Eli Byers                  Danielle Castellano
+Pat Costabile           Allyson Daley          Joan Burns                 Joyce Chapnick
+Francine DiNapoli       Corinne Daniels        Joyce Chapnick             Dave Cohen
+Anita Ferreri           Jen DeLisi-Hall        Jen DeLisi-Hall            Nicole Cristofaro
+Cristina Fiol           Jessica Doherty        Allyson Daley              Pat Costabile
+Gail Krieger            Jess Knoblich          Pat DiBenedetto            Stephen DiGiovanni
+Liza Leite              Amy Ma                 Tiffany Flynn              Kathy Deuel
+Tricia Lyson            Deb Mariniello         MaryEllen Fortini          Michelle Griffin
+Elizabeth Morgan        Jen McArdle            Courtney Geelan            Andrea Grundstein
+Marcus Oates            Christina Mitchell     Samantha Gold              Jessica Hughes
+Jeff Rieck              Nadia Parikka          Carol LaBella              Gail Krieger
+Nina Rossi              Jackie Richardson      Laura Lane                 Caroline Lehoczky
+Rey Serrano             Christina Rosenblatt   Dina Lenhardt              Randy Lichtenwalner
+David Sottile           Christine Rosner       Marianne Kennedy           Amy Ma
+Allyson Tempest         Nicole Sharaofsky      Deb Mariniello             Jen McArdle
+Katherine Tripeau       Laura Shaw             Alison Meiseles            Joanna Morabito
+Jason Williams          Susan Wallace          Scott Palermo              Linda Palumbo
+                        Keri Vaquero           Amy Panitz                 Julie Rostkowski
+                        Michelle Sensi         Rebeca Sampelayo           Rebeca Sampelayo
+                                               Deborah Scofield           Izabela Swiecka
+                                               Allyson Tempest            Diana Tomaselli
+                                               Melaynne Vestal            Nancy Woeckener
+                                               Susan Wallace
+                                               Nancy Woeckener
+
+
+
+
+                                               36
+

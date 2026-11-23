@@ -1,0 +1,3 @@
+SOURCE https://data.nysed.gov/parents/ | DATE unknown | TITLE Parent Dashboard | NYSED Data Site
+
+The New York State Education Department (NYSED) is committed to making data available and easy to use. This site provides a first step so families can be better informed as they work to advance student achievement. The Parent Dashboard offers information on all public schools including charter schools.

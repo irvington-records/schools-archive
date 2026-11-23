@@ -1,0 +1,347 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/pfiles/C63LYH589EA5/$file/Asset%20Recovery%20For%20Board%20Approval-Summer%202021.pdf | DATE: 2021-08-24 | TITLE: Regular Meeting | 12.2 Declaration of Obsolete/Surplus Equipment | Asset Recovery For Board Approval-Summer 2021.pdf
+
+Item Type     Brand       Model             Serial #          Asset Tag    Note
+  Printer       HP        p2035n          CNB9D33486            117384     HS NOC
+  Printer       HP        p2035n    CNB9D3349                 ET117352     HS NOC
+  Printer       HP         3630            CN85H6H1B          ET171957IR   HS NOC
+ Projector   Mitsubishi   xd250u            8020756             117346     HS NOC
+ Projector     NEC        m322x       NP-M322X 5500122RF      ET171052IR   HS NOC
+ Projector   Mitsubishi   ex32iu            1003409           ET172030IR   HS NOC
+  Printer       HP        d4260         TH7CM530WS04XT          116826     HS NOC
+  Printer       HP        p1606dn         VND3B77295            117884     HS NOC
+ Projector   Mitsubishi   xd56lp            0017411             117989     HS NOC
+  Printer       HP        p1505n          CNBK640229            116794     HS NOC
+  Printer       HP        1022n           VNB3M32815            116122     HS NOC
+ Monitor        HP         1740           CNC62410SC          ET101063IR   HS NOC
+ Monitor        Dell      1504fp     MX05R1084760535SCHND       105055     HS NOC
+ Scanner        HP         4670          SCN3BNB372694          116047     HS NOC
+   PC           Dell       p780      MX06271R4774113U80ED        N/A       HS NOC
+ Monitor       Acer       v193w           099802788209        ET101166IR   HS NOC
+ Monitor        HP         1740           CNC6241DX7            106193     HS NOC
+ Monitor       Acer        1740           CNP517XCTG            104603     HS NOC
+ Monitor        Dell      1504fp     MX05R1084760535SCHQA       105012     HS NOC
+ Monitor        HP         1740           CNC6241DW4            106289     HS NOC
+ Monitor       Acer        v173      ETLE10D033921019148521     116668     HS NOC
+   PC         Lemovo       m73       1S10B6S00500MJ010LXA       118412     HS NOC
+ Projector   Mitsubishi   xd340u            1821284             115682     HS NOC
+   PC          Apple       iMac          D25GD11ZDHJR           177525     HS NOC
+   PC          Apple       iMac          D25GD0TDDHJR           117527     HS NOC
+   PC          Apple       iMac          D25GD19RDHJR           117528     HS NOC
+   PC          Apple       iMac          D25GD19LDHJR           117530     HS NOC
+ Monitor       Acer       v193w      ETLC108148021033CA4202     117039     HS NOC
+ Projector   Mitsubishi   xd550u            00155569            118052     HS NOC
+   PC         Lenovo       m73       1S10B6S00500MJ013ZLB       118405     HS NOC
+
+Item Type     Brand       Model            Serial #            Asset Tag      Note
+  Laptop      Lenovo        R61       1S7650DHUL3DL659           115851       HS NOC
+  Laptop      Lenovo        t410      1S25184HUR86LL67           117119       HS NOC
+ Projector   Mitsubishi   xd560u           0004065               117870       HS NOC
+ Monitor        Dell       1504fp   MX05R1084760535SCHN2         106106       HS NOC
+ Monitor       Acer        v173     ETLE10D03392101E8A8521       116705       HS NOC
+ Monitor        HP         1740          CNP517XCVG              104585       HS NOC
+ Monitor        HP         1740          CNC6241DWG            ET100224IR     HS NOC
+ Monitor       Acer        v173     ETLE10D033921019508521       116443       HS NOC
+ MOnitor       Acer        v173     ETLE10D0339210191F8521       116809       HS NOC
+   PC         Lenovo        M73     1S10B6001SUSMJ032P6E       ET100408IR     HS NOC
+   PC         Lenovo        M81       1S7518D4UMJPXEFP            N/A         HS NOC
+  Printer       HP         3845        TH53V1805S040R            105737       HS NOC
+  Printer       HP         3845        TH55E171BZ040R            105605       HS NOC
+  Printer       HP         3845        TH55E1712P040R            105538       HS NOC
+  Printer       HP         3845        TH53V18058040R            105723       HS NOC
+  Printer       HP         3845        CN6491J29W04DF            106513       HS NOC
+  Printer       HP         3845             103584           TH53V1805Z040R   HS NOC
+  Printer       HP         3845        TH55E1719B040R            105615       HS NOC
+  Printer       HP         3845        CN6491J2D204DF            106503       HS NOC
+  Printer       HP         3845        TH53V1805K040R            105752       HS NOC
+  Printer       HP         3845        TH55E171B2040R            106084       HS NOC
+  Printer       HP         3845        TH55E171C4040R            105625       HS NOC
+  Printer       HP         3845        TH55E1713H040R            105590       HS NOC
+  Printer       HP         3845        CN6491J1XB04DF             N/A         HS NOC
+  Printer       HP        p1606dm        VND3F64788               N/A         HS NOC
+  Printer       HP        p1606dm        VND3H13429               N/A         HS NOC
+ Monitor       Acer        v173     ETLE10D03392101E578521       116548       HS NOC
+  Printer       HP         1505n         VND3C51825              116749       HS NOC
+  Printer       HP         3845        TH55E171BN040R            105742       HS NOC
+  Printer       HP         3930        TH53V18045040R            105765       HS NOC
+
+Item Type   Brand    Model         Serial #       Asset Tag     Note
+ scanner     hp       4370      CN63XA209204CM     116200      HS NOC
+   PC       Lenovo   MTM7269   1S7269D7UMJXMY29    116953     Main Street
+   PC       Lenovo   MTM7269   1S7269D7UMJYDD05    116979     Main Street
+   PC       Lenovo   MTM7269   1S7269D7UMJWHA44    116919     Main Street
+   PC       Lenovo   MTM7269   1S7269D7UMJWHA41    116987     Main Street
+   PC       Lenovo   MTM7269   1S7269D7UMJWKW61    116999     Main Street
+   PC       Lenovo   MTM7269   1S7269D7UMJWKW90    116936     Main Street
+   PC       Lenovo   MTM7269   1S7269D7UMJWKW31    116924     Main Street
+   PC       Lenovo   MTM7269   1S7269D7UMJYDD08    116997     Main Street
+   PC       Lenovo   MTM7269   1S7269D7UMJYDC20    116998     Main Street
+   PC       Lenovo   MTM7269   1S7269D7UMJWHA59    116964     Main Street
+   PC       Lenovo   MTM7269   1S7269D7UMJYDB60    116959     Main Street
+   PC       Lenovo   MTM7269   1S7269D7UMJXMY27    116917     Main Street
+   PC       Lenovo   MTM7269   1S7269D7UMJWHA10    116951     Main Street
+   PC       Lenovo   MTM7269   1S7269D7UMJYDC16    117002     Main Street
+   PC       Lenovo   MTM7269   1S7269D7UMJWKW39    116958     Main Street
+   PC       Lenovo   MTM7269   1S7269D7UMJWHA46    116995     Main Street
+   PC       Lenovo   MTM7269   1S7269D7UMJWKW37    116930     Main Street
+   PC       Lenovo   MTM7269   1S7269D7UMJYDD04    117005     Main Street
+   PC       Lenovo   MTM7269   1S7269D7UMJWKW58    116990     Main Street
+   PC       Lenovo   MTM7269   1S7269D7UMJWHA08    116989     Main Street
+   PC       Lenovo   MTM7269   1S7269D7UMJWKW71    116981     Main Street
+   PC       Lenovo   MTM7269   1S7269D7UMJWKX26    116971     Main Street
+   PC       Lenovo   MTM7269   1S7269D7UMJWHA32    116983     Main Street
+   PC       Lenovo   MTM7269   1S7269D7UMJTHK29    116961     Main Street
+   PC       Lenovo   MTM7269   1S7269D7UMJYDB64    116972     Main Street
+   PC       Lenovo   MTM7269   1S7269D7UMJWHA48    117004     Main Street
+   PC       Lenovo   MTM7269   1S7269D7UMJYDD09    116994     Main Street
+   PC       Lenovo   MTM7269   1S7269D7UMJWHA39    116988     Main Street
+   PC       Lenovo   MTM7269   1S7269D7UMJWHA49    116949     Main Street
+
+Item Type       Brand          Model           Serial #       Asset Tag     Note
+    PC          Lenovo        MTM7269      1S7269D7UMJYDB04    116967     Main Street
+    PC          Lenovo        MTM7269      1S7269D7UMJWKV0     116918     Main Street
+    PC          Lenovo        MTM7269      1S7269D7UMJWHA36    116920     Main Street
+    PC          Lenovo        MTM7269      1S7269D7UMJWKV93    116928     Main Street
+    PC          Lenovo        MTM7269      1S7269D7UMJYDB24    116952     Main Street
+    PC          Lenovo        MTM7269      1S7269D7UMJXMY23    116969     Main Street
+    PC          Lenovo        MTM7269      1S7269D7UMJYDB62    116973     Main Street
+    PC          Lenovo        MTM7269      1S7269D7UMJXMY39    116966     Main Street
+    PC          Lenovo        MTM7269      1S7269D7UMJWKV95    116939     Main Street
+    PC          Lenovo        MTM7269      1S7269D7UMJWHA03    116926     Main Street
+    PC          Lenovo        MTM7269      1S7269D7UMJWKX10    116929     Main Street
+    PC          Lenovo        MTM7269      1S7269D7UMJYDD10    116985     Main Street
+    PC          Lenovo        MTM7269      1S7269D7UMJWHA16    117000     Main Street
+    PC          Lenovo        MTM7269      1S7269D7UMJYDC19    116915     Main Street
+    PC          Lenovo        MTM7269      1S7269D7UMJWHA12    116921     Main Street
+    PC          Lenovo        MTM7269      1S7269D7UMJWKW50    116923     Main Street
+    PC          Lenovo        MTM7269      1S7269D7UMJYDC74    116954     Main Street
+    PC          Lenovo        MTM7269      1S7269D7UMJXMY24    116927     Main Street
+                                Smart
+   UPS           APC        1400DL1400R2     AS0317211058      100718     Main Street
+SmartBoard    Smartboard       SB680        SB680-R1-221013    106805     Main Street
+SmartBoard    Smartboard       SB680        SB680-R1-012102    106543     Main Street
+Smartboard    Smartboard       M600         C022FW36B0271        N/A      Main Street
+Smart Board   Smart Board      M600         SB680-R1-013396    106540     Main Street
+Smartboard    Smartboard       SB580          SB58079777       103618     Main Street
+Smart Board   Smart Board      sb680         sb680r1012122     106539     Main Street
+Smartboard    Smartboard       sb580          sb58087947       106538     Main Street
+Smart Board   Smart Board      sb680         sb680r1013314     116218     Main Street
+Smartboard    Smartboard       sb680         sb680r1012076     106537     Main Street
+Smart Board   Smart Board      sb580          SB580-79736      103563     Main Street
+Smartboard    Smartboard       sb680         sb680r1012101     106533     Main Street
+
+Item Type       Brand          Model               Serial #         Asset Tag         Note
+Smartboard    Smartboard        sb580            sb580139656         105592         Main Street
+Smartboard    Smartboard        sb580             sb58092611         105545         Main Street
+Smartboard    Smartboard        M600            C022IW51B0257          N/A          Main Street
+    PC          Lenovo        MTM7269         1S7269D7UMJWKV75       116941         Main Street
+    PC          Lenovo        MTM7269         1S7269D7UMJYDC17       116993         Main Street
+    PC          Lenovo        MTM7269         1S7259B2UMJRKB16       117280         Main Street
+    PC          Lenovo        MTM7269         1S7269D7UMJWHA09       116996         Main Street
+    PC          Lenovo        MTM7269         1S7269D7UMJYDC14       117001         Main Street
+    PC          Lenovo        MTM7269         1S7269D7UMJWHA60       116960         Main Street
+    PC          Lenovo        MTM7269         1S7269D7UMJYDC18       116974         Main Street
+    PC          Lenovo        MTM7269         1S7269D7UMJWHA11       116931         Main Street
+    PC          Lenovo        MTM7269         1S7269D7UMJYDB23       116992         Main Street
+    PC          Lenovo        MTM7269         1S7269D7UMJWHA07       116946         Main Street
+    PC          Lenovo        MTM7269          1S7269B7UMJ17275      116375         Main Street
+    PC          Lenovo        MTM7269         1S7269D7UMJWHA42       116937         Main Street
+    PC          Lenovo           M73         1S10B6S00500MJ010MXJ    118384          HS NOC
+                                                                                 Removed from 205
+Smart board   Smart board       M600            C022fw36b0317       Et101113IR        MST
+                             Pavilion 10-
+  Tablet          HP           n113dx            5CG6041NQ3            N/A           HS NOC
+                             A1432 (Mini
+  Tablet         iPad          Gen 1)           F4KKVHEMF193           N/A        From PPS, EOL
+                             A1432 (Mini
+  Tablet         iPad          Gen 1)           F4KKVG8FF193           N/A        From PPS, EOL
+                             A1432 (Mini
+  Tablet         iPad          Gen 1)           F4KKVDRFF193           N/A        From PPS, EOL
+                             A1432 (Mini
+  Tablet         iPad          Gen 1)           F4KKVSPUF193           N/A        From PPS, EOL
+                             A1432 (Mini
+  Tablet         iPad          Gen 1)           F4KKVH65F193           N/A        From PPS, EOL
+  Tablet         iPad       A1395 (iPad 2)     DMRHGYFGDFHW          117631       From PPS, EOL
+  Printer         HP           P1505n            VND3H04132          116815      Removed from S102
+
+Item Type     Brand        Model              Serial #          Asset Tag         Note
+                                                                            Removed from Dows
+Smartboard   Smartboard    SB680           SB680-R1-013494       1155741        Lane 128
+ Monitor        Acer        V173       ETLE10D03391709E3A8521    116383          HS NOC
+ Monitor     Optiquest     Q19WB           QCW071121880          117540          HS NOC
+ Monitor        Acer        V173       ETLE10D033921019278521    116463          HS NOC
+ Monitor        Acer        V173       ETLE10D03392101E518521    116389          HS NOC
+ Monitor        Acer        V173       ETLE10D033921019248521    116719          HS NOC
+ Monitor        Acer        V173       ETLE10D03391709E3D8521    116388          HS NOC
+ Monitor        Acer        V173       ETLJE0W16811807F1E4307    117929          HS NOC
+ Monitor        Acer        V173       ETLC108148021033D74202    117022          HS NOC
+ Monitor        Acer        V173       ETLC108148021033CE4202    117061          HS NOC
+ Monitor        Acer        V173       ETLJE0W16811807F6B4307    117947          HS NOC
+ Monitor     Optiquest     Q19WB           QCW071121859          106580          HS NOC
+ Monitor        Dell      UltraSharp   MX05R1084760535SCHQH      105308          HS NOC
+ Monitor        Acer        V173       ETLE10D03392101E8F8521    116403          HS NOC
+ Monitor        Acer        V173       ETLHV0D160128077BA8507    117627          HS NOC
+ Monitor        Acer        V173       ETLC108148021034224202    117029          HS NOC
+ Monitor        Acer        V173       ETLJE0W168122088714305    117569          HS NOC
+Smartboard   Smartboard    SB680          SB680-M2-C11753          N/A           HS NOC
+Smartboard   Smartboard    SB680           C022KW09B0282           N/A           HS NOC
+Smartboard   Smartboard    SB680           G012GW42P0224           N/A           HS NOC
+Smartboard   Smartboard    SB680           C022FW36B0275           N/A           HS NOC
+Smartboard   Smartboard    SB680           G012GW41P0479           N/A           HS NOC
+Smartboard   Smartboard    SB680           SB680-R1-013494       115741          HS NOC
+Smartboard   Smartboard    SB680           G012GW42P0231           N/A           HS NOC
+Smartboard   Smartboard    SB680           G012IW12P3486           N/A           HS NOC
+ Projector   Mitsubishi    EX321U             1005022              N/A           HS NOC
+   iPad        Apple        iPad 2        DYTJWMA3DFHW           117697          HS NOC
+   iPad        Apple        iPad 2        DYTJWMAEDFHW           117695          HS NOC
+   iPad        Apple        iPad 2        DYTJWM8HDFHW           117696          HS NOC
+   iPad        Apple        iPad 2        DYTJWNCYDFHW           117694          HS NOC
+
+Item Type    Brand      Model           Serial #        Asset Tag    Note
+   iPad      Apple       iPad 2      DYTJWM4NDFHW         117702     HS NOC
+   iPad      Apple       iPad 2     DYTJWM4WDFHW          117700     HS NOC
+   iPad      Apple       iPad 2      DYTJWNCFDFHW         117699     HS NOC
+   iPad      Apple       iPad 2      DYTJWM3SDFHW         117698     HS NOC
+   iPad      Apple       iPad 2      DYVJVCMQDFHW         117691     HS NOC
+   iPad      Apple       iPad 2      DYTJWB3XDFHW         117710     HS NOC
+   iPad      Apple       iPad 2      DYTJWA84DFHW         117708     HS NOC
+   iPad      Apple       iPad 2      DYTJWAJRDFHW         117707     HS NOC
+   iPad      Apple       iPad 2      DYTJWA5RDFHW         117706     HS NOC
+   iPad      Apple       iPad 2      DYTJWM52DFHW         117704     HS NOC
+   iPad      Apple       iPad 2      DYVJR31QDFHW         117703     HS NOC
+   iPad      Apple      iPad Air     DMQPGH6JFK10          N/A       HS NOC
+   iPad      Apple       iPad        DMPTL382HLF9       ET101247IR   HS NOC
+   iPad      Apple       iPad        DMRTV2LVHFL9       ET101206IR   HS NOC
+ Projector    NEC       NP-M323    NP-M323/ 6X00646RE   ET170815IR   HS NOC
+ Projector    NEC       NP-M322    NP-M322X 4700046EC   ET170993IR   HS NOC
+ Projector    NEC       NP-M322    NP-M322X 4700053EC   ET171043IR   HS NOC
+    AP        Meru      AP832i       2215A832iB0C39        N/A       HS NOC
+    AP        Meru      AP832i       4014A832i194AF1       N/A       HS NOC
+    AP       Fortinet   AP832i      PM83IV172932BECC       N/A       HS NOC
+    AP       Fortinet   AP832i      PM83IV17303BCCDE       N/A       HS NOC
+    AP        Meru      AP832i      PM83IV17293BCB5A       N/A       HS NOC
+    AP       Fortinet   AP832i      PM83IV172932BF88    ET170996IR   HS NOC
+    AP       Fortinet   AP832i      PM83IV174340A45A    ET171217IR   HS NOC
+    AP       Fortinet   AP832i       4014A832i194933       N/A       HS NOC
+    AP       Fortinet   AP832i       2415A832i1B1D65       N/A       HS NOC
+    AP       Fortinet   AP832i      PM83IV174340A488    ET171316IR   HS NOC
+    AP       Fortinet   AP832i       4014A832i194B13       N/A       HS NOC
+    AP       Fortinet   AP832i       4014A832i1948DB       N/A       HS NOC
+    AP       Fortinet   AP832i       4014A832i1948A3       N/A       HS NOC
+
+Item Type   Brand      Model        Serial #       Asset Tag    Note
+   AP       Fortinet   AP832i   PM83IV174340A3D2   ET171319IR   HS NOC
+   AP       Fortinet   AP832i    4014A832i194941      N/A       HS NOC
+   AP       Fortinet   AP832i   PM83IV17383ED2B2   ET171034IR   HS NOC
+   AP       Fortinet   AP832i    4014A832i1947E9      N/A       HS NOC
+   AP       Fortinet   AP832i    4014A832i19493B      N/A       HS NOC
+   AP       Fortinet   AP832i    3814A832i15E442      N/A       HS NOC
+   AP       Fortinet   AP832i    4014A832i194A3F      N/A       HS NOC
+   AP       Fortinet   AP832i    4014A832i19490D      N/A       HS NOC
+   AP       Fortinet   AP832i   PM83IV17303BCC84   ET170987IR   HS NOC
+   AP       Fortinet   AP832i   PM83IV172932BFD2   ET170989IR   HS NOC
+   AP       Fortinet   AP832i   PM83IV17293BCBA0   ET171016IR   HS NOC
+   AP       Fortinet   AP832i   PM83IV172932BFF8   ET170986IR   HS NOC
+   AP       Fortinet   AP832i   PM83IV172932C04C   ET170988IR   HS NOC
+   AP       Fortinet   AP832i   PM83IV172932C024   ET171018IR   HS NOC
+   AP       Fortinet   AP832i   PM83IV172932BE2E   ET171017IR   HS NOC
+   AP       Fortinet   AP832i   PM83IV172932C032   ET171019IR   HS NOC
+   AP       Fortinet   AP832i   PM83IV172932C00C   ET171003IR   HS NOC
+   AP       Fortinet   AP832i   PM83IV172932BEB8      N/A       HS NOC
+   AP       Fortinet   AP832i   PM83IV172932BFA4   ET171010IR   HS NOC
+   AP       Fortinet   AP832i   PM83IV17293BCB90   ET171009IR   HS NOC
+   AP       Fortinet   AP832i   PM83IV17293BCBBE   ET171007IR   HS NOC
+   AP       Fortinet   AP832i   PM83IV172932C090   ET171008IR   HS NOC
+   AP       Fortinet   AP832i   PM83IV172932C0A2   ET171006IR   HS NOC
+   AP       Fortinet   AP832i   PM83IV17303BCCE2   ET170981IR   HS NOC
+   AP       Fortinet   AP832i   PM83IV172932BFB6   ET170984IR   HS NOC
+   AP       Fortinet   AP832i   PM83IV17303BCCA8   ET170980IR   HS NOC
+   AP       Fortinet   AP832i   PM83IV17293BCA2C   ET170982IR   HS NOC
+   AP       Fortinet   AP832i   PM83IV172932C044   ET171014IR   HS NOC
+   AP       Fortinet   AP832i    4014A832i194B03      N/A       HS NOC
+   AP       Fortinet   AP832i    4014A832i194B05      N/A       HS NOC
+
+Item Type   Brand      Model        Serial #       Asset Tag    Note
+   AP       Fortinet   AP832i   PM83IV174340A508   ET171299IR   HS NOC
+   AP       Fortinet   AP832i    4014A832i19482F      N/A       HS NOC
+   AP       Fortinet   AP832i   PM83IV174340A4A8   ET171279IR   HS NOC
+   AP       Fortinet   AP832i   PM83IV174340A550   ET171219IR   HS NOC
+   AP       Fortinet   AP832i    4014A832i194845      N/A       HS NOC
+   AP       Fortinet   AP832i   PM83IV174340A3E8   ET171320IR   HS NOC
+   AP       Fortinet   AP832i   PM83IV174340A4CA   ET171318IR   HS NOC
+   AP       Fortinet   AP832i   PM83IV174340A4F4   ET171298IR   HS NOC
+   AP       Fortinet   AP832i    4014A832i1948C1      N/A       HS NOC
+   AP       Fortinet   AP832i   PM83IV17363E9C82   ET171032IR   HS NOC
+   AP       Fortinet   AP832i   PM83IV17363E9BFE   ET171031IR   HS NOC
+   AP       Fortinet   AP832i   PM83IV17383ED2D0   ET171037IR   HS NOC
+   AP       Fortinet   AP832i   PM83IV17383ED2C4   ET171038IR   HS NOC
+   AP       Fortinet   AP832i    4014A832i194925      N/A       HS NOC
+   AP       Fortinet   AP832i    4014A832i1948A5      N/A       HS NOC
+   AP       Fortinet   AP832i   PM83IV1742409696   ET171278IR   HS NOC
+   AP       Fortinet   AP832i    4014A832i194B11      N/A       HS NOC
+   AP       Fortinet   AP832i    4014A832i194B09      N/A       HS NOC
+   AP       Fortinet   AP832i    4014A832i1948E5      N/A       HS NOC
+   AP       Fortinet   AP832i    4014A832i194B1F      N/A       HS NOC
+   AP       Fortinet   AP832i    4014A832i1948F1      N/A       HS NOC
+   AP       Fortinet   AP832i    4014A832i194903      N/A       HS NOC
+   AP       Fortinet   AP832i    4014A832i194943      N/A       HS NOC
+   AP       Fortinet   AP832i    4014A832i1948CD      N/A       HS NOC
+   AP       Fortinet   AP832i    4014A832i194771      N/A       HS NOC
+   AP       Fortinet   AP832i    4014A832i19490B      N/A       HS NOC
+   AP       Fortinet   AP832i    4014A832i1948F9      N/A       HS NOC
+   AP       Fortinet   AP832i    4014A832i1948D9      N/A       HS NOC
+   AP       Fortinet   AP832i    4014A832i194935      N/A       HS NOC
+   AP       Fortinet   AP832i    4014A832i194907      N/A       HS NOC
+
+Item Type   Brand      Model        Serial #       Asset Tag    Note
+   AP       Fortinet   AP832i   PM83IV15351B5935   ET171745IR   HS NOC
+   AP       Fortinet   AP832i    4014A832i1947FB      N/A       HS NOC
+   AP       Fortinet   AP832i    4014A832i1948FB      N/A       HS NOC
+   AP       Fortinet   AP832i   PM83IV17383ED2A4   ET171033IR   HS NOC
+   AP       Fortinet   AP832i    4014A832i194919      N/A       HS NOC
+   AP       Fortinet   AP832i   PM83IV174340A43E   ET171300IR   HS NOC
+   AP       Fortinet   AP832i   PM83IV174340A396   ET171240IR   HS NOC
+   AP       Fortinet   AP832i   PM83IV174340A472   ET171241IR   HS NOC
+   AP       Fortinet   AP832i   PM83IV174240965C   ET171238IR   HS NOC
+   AP       Fortinet   AP832i   PM83IV17403F2598   ET171280IR   HS NOC
+   AP       Fortinet   AP832i   PM83IV17423F3322   ET171257IR   HS NOC
+   AP       Fortinet   AP832i   PM83IV17363E9094   ET171260IR   HS NOC
+   AP       Fortinet   AP832i   PM83IV1742409690   ET171218IR   HS NOC
+   AP       Fortinet   AP832i   PM83IV174340A468   ET171297IR   HS NOC
+   AP       Fortinet   AP832i   PM83IV17403F24FA   ET171258IR   HS NOC
+   AP       Fortinet   AP832i   PM83IV174340A386   ET171276IR   HS NOC
+   AP       Fortinet   AP832i   PM83IV174240969C   ET171237IR   HS NOC
+   AP       Fortinet   AP832i   PM83IV174440AF90   ET171220IR   HS NOC
+   AP       Fortinet   AP832i   PM83IV174340A46A   ET171296IR   HS NOC
+   AP       Fortinet   AP832i   PM83IV174340A490   ET171261IR   HS NOC
+   AP       Fortinet   AP832i   PM83IV174340A4E2   ET171259IR   HS NOC
+   AP       Fortinet   AP832i   PM83IV174340A4D8   ET171239IR   HS NOC
+   AP       Fortinet   AP832i   PM83IV17383ED2BC   ET171036IR   HS NOC
+   AP       Fortinet   AP832i   PM83IV1723322652   ET171035IR   HS NOC
+   AP       Fortinet   AP832i   PM83IV17383ED294   ET171039IR   HS NOC
+   AP       Fortinet   AP832i   PM83IV172932BE4C   ET171012IR   HS NOC
+   AP       Fortinet   AP832i   PM83IV17293BCBA8   ET171005IR   HS NOC
+   AP       Fortinet   AP832i   PM83IV172932C08A   ET171013IR   HS NOC
+   AP       Fortinet   AP832i   PM83IV17293BCB72   ET171020IR   HS NOC
+   AP       Fortinet   AP832i   PM83IV17293BCBA6   ET170952IR   HS NOC
+
+Item Type   Brand       Model          Serial #       Asset Tag    Note
+   AP       Fortinet    AP832i     PM83IV17303BCBD2   ET170973IR   HS NOC
+   AP       Fortinet    AP832i     PM83IV17293BCB40   ET170972IR   HS NOC
+   AP       Fortinet    AP832i     PM83IV1641315E64      N/A       HS NOC
+   AP       Fortinet    AP832i     PM83IV17293BCB68   ET170974IR   HS NOC
+   AP       Fortinet   FAP-U431F   PU431FTH20047224   ET201451IR   HS NOC
+   AP       Fortinet    AP832i     PM83IV172932C01A   ET170954IR   HS NOC
+   AP       Fortinet    AP832i     PM83IV17293BCBB4   ET170967IR   HS NOC
+   AP       Fortinet    AP832i     PM83IV174340A3E4   ET171221IR   HS NOC
+   AP       Fortinet    AP832i     PM83IV17293BCB60   ET170956IR   HS NOC
+   AP       Fortinet    AP832i     PM83IV172932C0A4   ET170960IR   HS NOC
+   AP       Fortinet    AP832i     PM83IV172932C120   ET170958IR   HS NOC
+   AP       Fortinet    AP832i     PM83IV172932BF0E      N/A       HS NOC
+   AP       Fortinet    AP832i     PM83IV172932C08C   ET170959IR   HS NOC
+   AP       Fortinet    AP832i     PM83IV17293BCB4E   ET170953IR   HS NOC
+   AP       Fortinet    AP832i     PM83IV172932BF66   ET170957IR   HS NOC
+   AP       Fortinet    AP832i     PM83IV17293BCB74   ET170949IR   HS NOC
+   AP       Fortinet    AP832i     PM83IV17293BCBB0   ET170950IR   HS NOC
+   AP       Fortinet    AP832i     PM83IV172932C020   ET170951IR   HS NOC
+   AP       Fortinet    AP832i     PM83IV172932BFAA   ET170991IR   HS NOC
+

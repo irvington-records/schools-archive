@@ -1,0 +1,25 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/goto?open&id=93YN4M5D8CBE | DATE: 2013-02-05 | TITLE: Regular Meeting - 7:30 p.m.* | 10.7 Budget Transfers
+
+Meeting: Feb 05, 2013 - Regular Meeting - 7:30 p.m.*
+Date: 2013-02-05
+Category: 10. Business Office Matters
+Subject: 10.7 Budget Transfers
+Type: Action (Consent)
+
+Budget Transfer 12/13-08
+
+	Credit  A2610-461-30-0000 (Library Books & Materials - Dows Lane)        $2,500
+
+	Debit   A2610-450-30-0000 (Library Supplies - Dows Lane)                        $2,500
+
+	This transfer is to buy books for the Dows Lane Library.
+
+	Budget Transfer 12/13-09
+
+	Credit  A2610-461-30-0000 (Library Books & Materials - Dows Lane)        $600
+
+	Debit   A2610-450-30-0000 (Library Supplies - Dows Lane)                       $600
+
+	This transfer is to buy books for the Dows Lane Library.
+
+	                    .

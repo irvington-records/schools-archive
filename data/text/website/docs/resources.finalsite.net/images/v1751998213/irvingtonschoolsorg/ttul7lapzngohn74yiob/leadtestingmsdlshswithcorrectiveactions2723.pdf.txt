@@ -1,0 +1,2414 @@
+SOURCE https://www.irvingtonschools.org/fs/resource-manager/view/dc2b604a-3a7a-4c2d-b12d-059adcad4f95 | DATE 2025-07-08 | TITLE leadtestingmsdlshswithcorrectiveactions2723.pdf
+
+Regulatory   RegCom Compliance
+
+    ______________________________________________________________________
+
+                                Regulatory Compliance
+                                  245 Albany Avenue
+                              Thornwood, New York 10594
+                                    (914) 439-6513
+
+
+                                 10 NYCRR Subpart 67-4
+                           Testing and Water Management Plan
+                                          For
+                                 Lead In Drinking Water
+
+                                                For
+
+                                     Irvington UFSD
+                                       6 Dows Lane
+                                   Irvington, NY 10533
+
+                                                at
+
+                                     High School
+                                    Middle School
+                                   Main Street School
+                              Dows Lane Elementary School
+
+
+                            Project Number: IRV.1015.23.IH
+
+
+
+
+Dates of Survey:
+March 10, 2023
+March 16, 2023
+March 25, 2023
+
+
+Field Work performed by:
+Nicholas Coon, BS
+
+Report Written by:
+Ernest Coon, MS, RPIH, HEM
+
+
+
+                                                 1
+                        Regulatory   RegCom Compliance
+
+
+
+
+                        TABLE OF CONTENTS
+
+
+
+1. SCOPE OF WORK                                           3
+
+2. INTRODUCTION                                            3
+
+3. RECOMMENDED/REQUIRED SAMPLING LOCATIONS                 3
+
+4. SAMPLING METHODOLOGY                                    5
+
+5. SAMPLING LOCATIONS, OBSERVATIONS AND DISCUSSION         6
+
+6. RESPONSE AND CORRECTIVE ACTIONS                         7
+
+7. POST-REMEDIATION TESTING                                8
+
+8. PUBLIC NOTIFICATION REQUIREMENTS                        8
+
+9. ELECTRONIC REPORTING IN HCS/HERDS                       9
+
+10. RECORDKEEPING REQUIREMENTS                             9
+
+11. BEST MANAGEMENT PRACTICES TO REDUCE LEAD IN DRINKING
+    WATER                                                  9
+
+12. LEAD IN DRINKING WATER SURVEY FACT SHEET               10
+
+
+
+
+                                     Appendix
+
+Appendix A          Tabulated Results
+Appendix B          Laboratory Data Sheets
+Appendix C          Remediation Corrective Actions
+
+
+
+
+                                         2
+                                    Regulatory   RegCom Compliance
+
+
+
+
+1.0     SCOPE OF WORK
+Irvington UFSD retained Regulatory Compliance to test water fixtures in select areas identified
+by the district for lead content. The overall objective is to determine the lead content in drinking
+water in the district’s buildings.
+
+
+2.0     INTRODUCTION
+Lead is a toxic metal that can be harmful when ingested (or inhaled), and young children are
+particularly sensitive to the effects of lead. Lead can get into drinking water by being present in
+the source water, or by interaction of the water with plumbing materials containing lead (through
+corrosion). Common sources of lead in drinking water include: solder, fluxes, pipes and
+pipefittings, fixtures, and sediments. Thus, it is possible that different water outlets in a given
+building could have dissimilar concentrations of lead. Lead in drinking water is regulated under
+the Safe Drinking Water Act (1974) as amended. The Lead Contamination Control Act (LCCA)
+amended the Safe Drinking Water Act and is aimed at identifying and reducing lead in drinking
+water in schools (and day care facilities). In April 1994, EPA prepared two guidance documents
+to assist municipalities in meeting the requirements of the LCCA. On September 6, 2016, the
+Department of Health DOH issued emergency regulations for the implementation of the new
+law, Lead Testing in School Drinking Water, the regulations became Subpart 67-4 of Title 10
+(Health) of the Official Compilation of Codes, Rule and Regulations of the State of New York. A
+revised 67-4 went into effect on December 22, 2022.
+
+The following information provided in sections 3-11 are taken from 10 NYCRR Subpart 67-4
+and the NYSDOH slide presentation “Lead Testing in School Drinking Water - Program Review
+and Updates Environmental Health Conference ,” from October 25, 2022.
+
+
+3.0     RECOMMENDED/REQUIRED SAMPLING LOCATIONS
+Outlets that should be sampled may be located anywhere on school property including external
+outlets (hose bibs) if the outlet may be used for drinking or cooking (including food preparation).
+
+Samples must be collected at all outlets used or potentially used for drinking or cooking,
+including but not limited to:
+    • bubblers/drinking fountains
+    • classroom sinks
+    • classroom combination sinks and drinking fountains
+    • kitchen sinks
+    • kitchen kettle filler outlets
+    • bathroom sinks
+    • family and consumer sciences room sinks
+    • teachers’ lounge sinks
+    • nurse’s office sinks
+
+
+
+                                                     3
+                                    Regulatory   RegCom Compliance
+
+   •   athletic field outlets and any other sink known to be or potentially used for consumption
+       (e.g., coffeemaker or cups are nearby)
+
+
+Applicable VS. Non-Applicable Outlets
+Superintendents or their designees have the responsibility to identify which outlets on a school
+property meet the regulation requirements for sampling (“applicable outlets”).
+If a Superintendent or their designee determines that they have outlets that fall outside of the
+scope of the regulation (outlets not used or potentially used for drinking or cooking), the school
+must have a remedial action plan that includes details on how those outlets will not be accessed
+and/or utilized for drinking or cooking purposes (“non- applicable outlets”).
+
+   •   Food washing sinks: Food washing faucets must be sampled as they are used for cooking
+       (including food preparation) and potentially for drinking.
+
+   •   Ice machines: The ice made in an ice machine should be sampled for lead.
+
+   •   Combination bottle fill station and drinking fountain: A sample should be collected from
+       both outlets. The Department recommends sampling the outlet that is most frequently
+       used first.
+
+   •   Hand washing outlets: In general, all hand washing outlets in a bathroom should be
+       sampled as bathroom outlets may be used to obtain water for drinking and/or food
+       preparation.
+
+   •   Foot level operated multi-outlet gang sink: In general, samples should be collected from
+       each outlet of a gang sink, however, if the gang sink design does not allow sample
+       collection from each outlet, the schools should contact the local health department or the
+       Department to discuss.
+
+   •   Traditional outlet with hot and cold-water handle: Samples must be collected from each
+       outlet but only the cold water should be turned on for sampling
+
+Non-Applicable Outlets
+In general, any outlet in a room or office within a school that is not used by students (pre-
+kindergarten through grade 12) and does not provide water for drinking or cooking does not
+require sampling.
+
+   •   Dishwashing sinks: If an outlet is designated for dish washing only and involves no
+       opportunity for drinking or cooking (including food preparation), the outlet does not
+       require sampling
+
+   •   Point of entry: Samples from the point of entry are not required under Subpart 67-4. Point
+       of entry is the location where water enters the building from the distribution system of a
+       public water system.
+
+
+
+                                                     4
+                                    Regulatory   RegCom Compliance
+
+   •   Science/Art room outlets: Typically, classrooms in these settings prohibit eating and/or
+       drinking. The school Superintendent has the authority to determine whether these outlets
+       may be used for drinking or cooking and whether they require sampling.
+
+   •   Tempered outlets: The Department and the US EPA recommend that hot or tempered
+       water not be used for drinking or cooking as warm or hot water increase the leaching of
+       lead into the water.
+
+   •   Bus garage: Outlets in bus garage buildings do not require sampling unless the building is
+       occupied by students (e.g., BOCES classes).
+
+   •   Custodial closet outlets: If the outlet is only used for custodial purposes and not for
+       drinking, then the outlet does not need to be sampled.
+
+   •   Any outlet excluded from sampling should be documented in the Remedial Action Plan
+       (and consider additional controls such locks, signs, and education).
+
+
+4.0     SAMPLING METHODOLOGY
+Samples were collected in accordance with the Lead Testing in School Drinking Water – 10
+NYCRR Subpart 67-4.3. A first-draw sample was collected in a wide mouth 250 mL bottle and
+collected from a cold water outlet before the water is used. The water was motionless in the pipes
+for a minimum of 8 hours, but not more than 18 hours prior to collection.
+
+Sampling Collection Guidance:
+   • Pre-stagnation flushing: The Department does not allow for pre-stagnation flushing prior
+      to sampling unless a school is directed to do so by the Department or local health
+      department.
+   • Aerators: Aerators should not be removed prior to sampling
+
+
+
+
+                                                     5
+5.0    SAMPLING LOCATIONS, OBSERVATIONS AND DISCUSSION
+
+Sampling Dates: March 10, 2023 / March 16, 2023 /March 25, 2023
+The following water fixtures were tested: water fountains (bubblers/bottle fillers) and sinks from
+the Main Street, Dows Lane Schoo1 and the High School/Middle School
+
+A total of one-hundred thirty-eight (138) samples (including 3 blanks) were collected and
+analyzed for lead contaminates. All of the samples collected were within NYSDOH action level
+and compliant, with the exception of the water fixtures noted below. The sample results for all
+water fixtures tested are located in Appendix A.
+
+                                       Results      Action Limit   Compliant
+ Building      Location     Fixture                                          Remediation
+                                       (mg/L)         (mg/L)         (Y/N)
+ Main St.
+ School      Room 304       Sink        0.041          0.005            N          Required
+ Dows
+ Lane         Room 112      Bubbler     0.007          0.005            N          Required
+ Dows
+ Lane         Room 115      Sink        0.024          0.005            N          Required
+ Dows
+ Lane         Room 204      Bubbler     0.006          0.005            N          Required
+ Dows
+ Lane         Room 202      Sink        0.012          0.005            N          Required
+ High                       Island
+ School      S-306          Sink #1     0.220          0.005            N          Required
+ High
+ School      S-306          Sink #2     0.010          0.005            N          Required
+ High
+ School      S-306          Sink #4     0.027          0.005            N          Required
+ High
+ School      S-306          Sink #7     0.015          0.005            N          Required
+ High                       Island
+ School      S-304          Sink #1     0.010          0.005            N          Required
+ High
+ School      S-304          Sink #8     0.006          0.005            N          Required
+ High                       Sink
+ School      S-304          #10         0.008          0.005            N          Required
+ High
+ School      S-303          Sink #5     0.006          0.005            N          Required
+ High
+ School      S-303          Sink #5     0.006          0.005            N          Required
+ High
+ School      S-301          Sink #2     0.021          0.005            N          Required
+ High
+ School      S-301          Sink #4     0.034          0.005            N          Required
+
+
+
+                                                6
+High
+School   S-301   Sink #7   0.019       0.005   N   Required
+High
+School   S-206   Sink #2   0.015       0.005   N   Required
+High
+School   S-206   Sink #5   0.011       0.005   N   Required
+High             Island
+School   S-204   Sink #1   0.705       0.005   N   Required
+High
+School   S-204   Sink #2   0.010       0.005   N   Required
+High             Sink
+School   S-204   #10       0.006       0.005   N   Required
+High
+School   S-203   Sink #9   0.007       0.005   N   Required
+High
+School   S-201   Sink #6   0.039       0.005   N   Required
+High
+School   S-106   Sink #1   0.585       0.005   N   Required
+High
+School   S-106   Sink #4   0.008       0.005   N   Required
+High
+School   S-106   Sink #5   0.006       0.005   N   Required
+High
+School   S-105   Sink      0.009       0.005   N   Required
+High
+School   S-104   Sink #3   0.007       0.005   N   Required
+High
+School   S-104   Sink #5   0.006       0.005   N   Required
+High
+School   S-104   Sink #6   0.010       0.005   N   Required
+High
+School   S-104   Sink #9   0.007       0.005   N   Required
+High
+School   S-103   Sink #1   0.013       0.005   N   Required
+High
+School   S-103   Sink #2   0.012       0.005   N   Required
+High
+School   S-103   Sink #3   0.008       0.005   N   Required
+High
+School   S-103   Sink #7   0.007       0.005   N   Required
+High
+School   S-101   Sink #2   0.025       0.005   N   Required
+High
+School   S-101   Sink #7   0.295       0.005   N   Required
+
+
+
+
+                                   6
+              Nurses
+ High        Office H-
+ School      108            Sink         0.008         0.005            N          Required
+             Water
+             Fountain
+ High        Near Gym       Bottle
+ School      by Entrance    Filler       0.013         0.005            N          Required
+             B-Wing
+             Middle
+             School
+ High        Water          Bottle
+ School      Fountain       Filler       0.008         0.005            N          Required
+
+
+In accordance with Lead Testing in School Drinking Water – 10 NYCRR Subpart 67-4,
+outlets that exceed the NYS Action Level are obligated to take corrective action. The
+required actions, notifications, reporting and recordkeeping requirements are listed in the
+appropriate sections of this report.
+
+The district implemented corrective actions as indicated in appendix C.
+
+For all outlets not used or potentially used for drinking or cooking, the school must have a
+remedial action plan that includes details on how those outlets will not be accessed and/or
+utilized for drinking or cooking purposes (“non- applicable outlets”).
+
+If any inoperable water fixtures during the time of the survey are made operable in the future or
+new water fixtures are installed, they must be tested prior to use and incorporated into the Water
+Management Plan.
+
+
+
+
+                                                 6
+6.0    RESPONSE AND CORRECTIVE ACTIONS
+
+Steps following an Action Level Exceedance Immediate Response
+   • Prohibit the use of the outlet immediately (take outlet out of service or turn off) until:
+        (1) A lead remedial action plan is implemented to mitigate the lead level at the outlet, and
+        (2) Post-remediation test results indicate that the lead levels are at or below the action
+        level;
+   • Provide building occupants with an adequate supply of water for drinking and cooking
+        until remediation is performed;
+   • Report the test results to the local health department as soon as practicable, but no more
+        than 1 business day after the school received the laboratory report;
+   • Notify all staff and all persons in parental relation to students of the test results, in
+        writing, as soon as practicable but no more than 10 business days after the School
+        received the laboratory report.
+
+Corrective Actions / Remediation Options
+   • Permanent removal of an outlet
+   • Outlet replacement with “lead-free” plumbing materials
+   • Pipe replacement with “lead-free” plumbing materials
+   • Remove other sources of lead (lead pipe, lead solder joints, and brass plumbing
+       components with “lead-free” materials)
+   • Flushing (systematic flushing program)
+   • Point of Use (POU) Filters
+   • Supervision
+   • Engineering controls
+   • Education
+   • Signage
+
+
+
+
+                                                 7
+Signage Options:
+
+
+
+
+7.0       Post-Remediation Testing
+      •   Follow-up samples collected after an outlet has been remediated must also be “first-
+          draw” samples. Schools may choose to perform additional sampling (i.e., 30-second
+          flush, etc.) to determine the contribution of lead from plumbing to guide remediation
+          decisions.
+      •   Only those outlets that exceed the action level need to be resampled (following
+          remediation).
+      •   All remediated outlets will likely require flushing prior to being placed back into service.
+      •   Post-remediation tests results need to be reported:
+          o in the Department’s HERDS application on HCS, and
+          o on the school’s website within the same reporting timeframes/requirements as
+              specified for the initial sampling (addressed in next section).
+
+
+8.0       Public Notification Requirements
+      •   Within 1 business day of receipt of laboratory reports:
+          o Report any and all exceedances (lead result greater than 5 ppb) to the local health
+             department
+      •   Within 10 business days of receipt of laboratory reports:
+
+
+
+                                                   8
+          o Report all exceedances to all staff, parents, and guardians in writing school. A
+             physical written notification is required.
+          o Report test results (including post-remediation results) in the Department’s electronic
+             reporting system, HERDS accessed through HCS. This information is posted on the
+             Department’s website for the public
+      •   Within 6 weeks of receipt of laboratory reports:
+          o Post numeric test results of all lead testing and information about remediation actions
+             taken to address outlets where lead exceeded the action level on the school’s website.
+             This should remain posted on the school’s website for the duration of the compliance
+             period (i.e. 2020-2024)
+      •   Report any lead-free buildings on the school’s website
+      •   Within 6 weeks of receipt of laboratory reports:
+          o Post numeric test results of all lead testing and information about remediation actions
+             taken to address outlets where lead exceeded the action level on the school’s website.
+             Laboratory reports must be included. This should remain posted on the school’s
+             website for the duration of the compliance period (i.e. 2023-2025)
+
+
+9.0       Electronic Reporting in HCS/HERDS
+      •   Within 10 business days of receipt of laboratory reports: Summary data must be reported
+          in the Department’s electronic reporting system, HERDS accessed through HCS.
+          Summary data includes:
+          – General information (lead-free status, website address)
+          – Sampling information
+          – Lead analysis results
+          – Response and remediation
+      •   Do not submit laboratory reports directly to the Department or local health department
+          unless otherwise directed.
+
+
+10.0      Recordkeeping Requirements
+   •      Schools must retain all records of:
+          – Test results
+          – Remedial action plans
+          – Determinations that a building is lead-free; and
+          – Waiver requests (only applicable to compliance year 2016)
+      •   Per Subpart 67-4, schools must retain records for 10 years following document creation
+          (Note: other agencies may have additional records retention requirements, i.e., NYS
+          Department of Labor)
+      •   Copies of documents must be provided to the Department, the NY State Education
+          Department, or the local health department upon request
+      •   Department recommends that all records be kept in a centrally located and accessible
+          repository for each school building
+
+
+
+
+                                                  9
+11.0   Best Management Practices to Reduce Lead in Drinking Water
+   •   Aerator cleaning
+   •   Routine flushing practices (after vacations and long weekends)
+   •   Use only certified lead-free materials when performing plumbing work
+   •   Follow the manufacturer’s recommendations for water softener settings to ensure an
+       appropriate level of hardness
+   •   Temperature control
+   •   Educating staff and students of the benefits of running water at a tap briefly prior to using
+       it for drinking or food preparation. Letting the water run for 30- 60 seconds or until the
+       water feels cold can reduce the potential levels of lead in the drinking water
+
+
+
+
+                                                10
+12.0   Lead in Drinking Water Survey Fact Sheet
+
+Name and Address of Building/Structure Owner:
+Irvington UFSD
+6 Dows Lane
+Irvington, NY 10533
+
+Name and Address of Buildings/Structures Surveyed:
+Dows Lane Elementary
+6 Dows Lane
+Irvington, NY 10533
+
+Main Street School
+101 Main Street
+Irvington, NY 10533
+
+High/Middle School
+40 North Broadway
+Irvington, NY 10533
+
+Name of the Firm & Person Conducting the Survey:
+Regulatory Compliance
+Nicholas Coon
+PO Box 132
+Thornwood, New York 10594
+
+Dates Survey:
+March 10, 2023
+March 16, 2023
+March 25, 2023
+
+Date(s) of Follow-up Testing:
+April 19, 2023
+
+
+
+
+                                         11
+Tabulated Results
+
+
+
+
+       12
+Irvington UFSD - Main Street School
+                                                                            Action
+ Sample                                 Type of        Date      Results             Compliant
+               Sample Location                                               Level               Remediation
+   ID #                                 Fixture      Sampled     (mg/L)                (Y/N)
+                                                                            (mg/L)
+   1       Nurses Office Bathroom    Sink #1         3.10.23   BDL <0.001   0.005       Y            NA
+   2       Nurses Office Bathroom    Sink #2         3.10.23   BDL <0.001   0.005       Y            NA
+   3       Teachers’ Lounge          Sink            3.10.23   BDL <0.001   0.005       Y            NA
+   4       Teachers’ Lounge          Ice Maker       3.10.23   BDL <0.001   0.005       Y            NA
+                                     Water
+                                     Fountain        3.10.23   BDL <0.001   0.005       Y            NA
+   5       Hallway Near Room 205     Bubbler
+                                     Water
+                                     Fountain        3.10.23   BDL <0.001   0.005       Y            NA
+   6       Hallway Near Room 205     Bottle Filler
+   7       Room 304                  Sink            3.10.23     0.041      0.005       N         Required
+   8       Room 406                  Sink            3.10.23     0.003      0.005       Y           NA
+                                     Water
+                                     Fountain        3.10.23   BDL <0.001   0.005       Y            NA
+   9       Hallway By Room 105       Bottle Filler
+                                     Water
+                                     Fountain        3.10.23   BDL <0.001   0.005       Y            NA
+   10      Hallway By Room 105       Bubbler
+   11      Kitchen                   Prep Sink       3.10.23     0.003      0.005       Y            NA
+                                     Water
+                                     Fountain        3.10.23   BDL <0.001   0.005       Y            NA
+   12      Gymnasium                 Bottle Filler
+                                     Water           3.10.23   BDL <0.001   0.005       Y            NA
+                                     Fountain
+   13      Gymnasium                 Bubbler
+   14      BLANK                     BLANK           3.10.23   BDL <0.001   0.005       Y            NA
+
+*Sinks are counted from Left to Right; NA = Not Applicable
+Irvington UFSD - Dows Elementary School
+                                                                               Action
+                                                      Date                              Compliant
+Sample ID #     Sample Location   Type of Fixture             Results (mg/L)    Level             Remediation
+                                                    Sampled                               (Y/N)
+                                                                               (mg/L)
+1              Gymnasium          Bottle Filler     3.16.27   BDL <0.001       0.005       Y          NA
+2              Gymnasium          Bubbler           3.16.27   BDL <0.001       0.005
+3              Room 101           Sink              3.16.27     0.001          0.005       Y          NA
+4              Room 101           Bubbler           3.16.27     0.001          0.005       Y          NA
+5              Room 103           Sink              3.16.27   BDL <0.001       0.005       Y          NA
+6              Room 103           Bubbler           3.16.27   BDL <0.001       0.005       Y          NA
+7              Room 102           Sink              3.16.27   BDL <0.001       0.005       Y          NA
+8              Room 102           Bubbler           3.16.27     0.004          0.005       Y          NA
+9              Room 105           Sink              3.16.27   BDL <0.001       0.005       Y          NA
+10             Room 105           Bubbler           3.16.27     0.005          0.005       Y          NA
+11             Room 104           Sink              3.16.27   BDL <0.001       0.005       Y          NA
+12             Room 104           Bubbler           3.16.27     0.001          0.005       Y          NA
+13             Room 107           Sink              3.16.27   BDL <0.001       0.005       Y          NA
+14             Room 107           Bubbler           3.16.27     0.001          0.005       Y          NA
+15             Room 106           Sink              3.16.27   BDL <0.001       0.005       Y          NA
+16             Room 106           Bubbler           3.16.27     0.004          0.005       Y          NA
+17             Room 109           Sink              3.16.27   BDL <0.001       0.005       Y          NA
+18             Room 109           Bubbler           3.16.27     0.001          0.005       Y          NA
+19             Room 111           Sink              3.16.27   BDL <0.001       0.005       Y          NA
+20             Room 111           Bubbler           3.16.27     0.003          0.005       Y          NA
+21             Nurses Office      Sink              3.16.27     0.001          0.005       Y          NA
+               Room 110 -Staff                      3.16.27                                Y          NA
+22             Lounge             Sink                          0.001          0.005
+23             Room 112           Sink              3.16.27   BDL <0.001       0.005       Y          NA
+24             Room 112           Bubbler           3.16.27     0.007          0.005       N        Required
+                                                                              Action
+                                                     Date                              Compliant
+Sample ID #    Sample Location   Type of Fixture             Results (mg/L)    Level             Remediation
+                                                   Sampled                               (Y/N)
+                                                                              (mg/L)
+25            Room 115           Sink              3.16.27     0.024          0.005       N        Required
+26            Room 115           Bubbler           3.16.27     0.001          0.005       Y          NA
+27            Library            Sink #1           3.16.27     0.002          0.005       Y          NA
+28            Library            Sink #2           3.16.27   BDL <0.001       0.005       Y          NA
+29            Room 126           Sink              3.16.27   BDL <0.001       0.005       Y          NA
+30            Room 127           Sink #1           3.16.27   BDL <0.001       0.005       Y          NA
+31            Room 127           Sink #2           3.16.27   BDL <0.001       0.005       Y          NA
+32            Room 128           Sink #1           3.16.27   BDL <0.001       0.005       Y          NA
+33            Room 128           Sink #2           3.16.27   BDL <0.001       0.005       Y          NA
+34            Room 129           Sink #1           3.16.27   BDL <0.001       0.005       Y          NA
+35            Room 129           Sink #2           3.16.27   BDL <0.001       0.005       Y          NA
+36            Room 129           Bubbler           3.16.27   BDL <0.001       0.005       Y          NA
+37            Room 130           Sink #1           3.16.27   BDL <0.001       0.005       Y          NA
+38            Room 130           Sink #2           3.16.27   BDL <0.001       0.005       Y          NA
+39            MPR                Bubbler           3.16.27   BDL <0.001       0.005       Y          NA
+40            2nd Floor Lobby    Bottler Filler    3.16.27   BDL <0.001       0.005       Y          NA
+41            2nd Floor Lobby    Bubbler           3.16.27   BDL <0.001       0.005       Y          NA
+42            Room 210           Sink              3.16.27   BDL <0.001       0.005       Y          NA
+43            Room 211           Sink #1           3.16.27   BDL <0.001       0.005       Y          NA
+44            Room 211           Sink #2           3.16.27     0.001          0.005       Y          NA
+45            Room 208           Sink              3.16.27     0.001          0.005       Y          NA
+46            Room 209           Sink              3.16.27   BDL <0.001       0.005       Y          NA
+47            Room 206           Sink              3.16.27     0.001          0.005       Y          NA
+48            Room 207           Sink              3.16.27   BDL <0.001       0.005       Y          NA
+49            Room 207           Bubbler           3.16.27     0.001          0.005       Y          NA
+                                                                                     Action
+                                                            Date                              Compliant
+Sample ID #      Sample Location        Type of Fixture             Results (mg/L)    Level             Remediation
+                                                          Sampled                               (Y/N)
+                                                                                     (mg/L)
+50              Room 204            Sink                  3.16.27     0.002          0.005       Y          NA
+51              Room 204            Bubbler               3.16.27     0.006          0.005       N        Required
+52              Room 205            Sink                  3.16.27   BDL <0.001       0.005       Y          NA
+53              Room 205            Bubbler               3.16.27     0.001          0.005       Y          NA
+54              Room 202            Sink                  3.16.27     0.012          0.005       N        Required
+55              Room 202            Bubbler               3.16.27     0.001          0.005       Y          NA
+56              Room 203            Sink                  3.16.27     0.003          0.005       Y          NA
+                Water Fountain                            3.16.27                                Y          NA
+57              Near Room 203       Bubbler                         BDL <0.001       0.005
+58              Room 201            Sink                  3.16.27   BDL <0.001       0.005       Y          NA
+59              Kitchen             Pedal Sink            3.16.27   BDL <0.001       0.005       Y          NA
+60              Blank               Blank                 3.16.27   BDL <0.001       0.005       Y          NA
+65
+
+NA = Not Applicable
+NYS Lead Action Level 0.005 mg/L
+*Sinks are counted from Left to Right
+Irvington UFSD - High School/ Middle School
+                                                                                     Action
+                                                                   Date    Results            Compliant
+Sample ID #              Sample Location       Type of Fixture                        Level               Remediation
+                                                                 Sampled   (mg/L)               (Y/N)
+                                                                                     (mg/L)
+                                                                            BDL                  Y
+    1         Kitchen Island                  Pedal Sink         3.25.23   <0.001    0.005                    NA
+                                                                            BDL                  Y
+    2         Kitchen Island                  Sink               3.25.23   <0.001    0.005                    NA
+                                                                            BDL                  Y
+    3         Kitchen                         Sink               3.25.23   <0.001    0.005                    NA
+                                                                            BDL                  Y
+    4         Kitchen/Serving Line Side       Ice machine        3.25.23   <0.001    0.005                    NA
+                                                                            BDL                  Y
+    5         Cafeteria Water Fountain        Bottle Filler      3.25.23   <0.001    0.005                    NA
+                                                                            BDL                  Y
+     6        Cafeteria Water Fountain        Bubbler            3.25.23   <0.001    0.005                   NA
+     7        Room S-306                      Island Sink #1     3.25.23    0.22     0.005       N        REQUIRED
+     8        Room S-306                      Sink #2            3.25.23    0.01     0.005       N        REQUIRED
+     9        Room S-306                      Sink #3            3.25.23   0.001     0.005       Y           NA
+    10        Room S-306                      Sink #4            3.25.23   0.027     0.005       N        REQUIRED
+    11        Room S-306                      Sink #5            3.25.23   0.001     0.005       Y           NA
+    12        Room S-306                      Sink #6            3.25.23   0.004     0.005       Y           NA
+    13        Room S-306                      Sink #7            3.25.23   0.015     0.005       N        REQUIRED
+    14        Room S-306                      Sink               3.25.23   0.003     0.005       Y           NA
+    15        Room S-304                      Island Sink #1     3.25.23    0.01     0.005       N        REQUIRED
+    16        Room S-304                      Sink #2            3.25.23   0.001     0.005       Y           NA
+    17        Room S-304                      Sink #3            3.25.23   0.001     0.005       Y           NA
+    18        Room S-304                      Sink #4            3.25.23   0.003     0.005       Y           NA
+    19        Room S-304                      Sink #5            3.25.23   0.002     0.005       Y           NA
+    20        Room S-304                      Sink #6            3.25.23   0.001     0.005       Y           NA
+    21        Room S-304                      Sink #7            3.25.23   0.001     0.005       Y            NA
+                                                                                Action
+                                                              Date    Results            Compliant
+Sample ID #            Sample Location    Type of Fixture                        Level               Remediation
+                                                            Sampled   (mg/L)               (Y/N)
+                                                                                (mg/L)
+    22        Room S-304                 Sink #8            3.25.23   0.006     0.005       N        REQUIRED
+    23        Room S-304                 Sink #9            3.25.23   0.005     0.005       Y           NA
+    24        Room S-304                 Sink #10           3.25.23   0.008     0.005       N        REQUIRED
+    25        Room S-303                 Island Sink #1     3.25.23   0.003     0.005       Y           NA
+    26        Room S-303                 Sink #2            3.25.23   0.003     0.005       Y           NA
+    27        Room S-303                 Sink #3            3.25.23   0.004     0.005       Y           NA
+    28        Room S-303                 Sink #4            3.25.23   0.001     0.005       Y           NA
+    29        Room S-303                 Sink #5            3.25.23   0.006     0.005       N        REQUIRED
+    30        Room S-303                 Sink #6            3.25.23   0.001     0.005       Y           NA
+    31        Room S-303                 Sink #7            3.25.23   0.001     0.005       Y           NA
+    32        Room S-303                 Sink #8            3.25.23   0.001     0.005       Y           NA
+    33        Room S-303                 Sink #9            3.25.23   0.003     0.005       Y           NA
+                                                                       BDL                  Y
+    34        Room S-303                 Sink #10           3.25.23   <0.001    0.005                    NA
+    35        Room S-304                 Sink #1            3.25.23   0.002     0.005       Y            NA
+    36        NOT USED
+    37        Room S-301                 Sink #2            3.25.23   0.021     0.005       N        REQUIRED
+    38        Room S-301                 Sink #3            3.25.23   0.003     0.005       Y           NA
+    39        Room S-301                 Sink #4            3.25.23   0.034     0.005       N        REQUIRED
+    40        Room S-301                 Sink #5            3.25.23   0.001     0.005       Y           NA
+    41        Room S-301                 Sink #6            3.25.23   0.004     0.005       Y           NA
+    42        Room S-301                 Sink #7            3.25.23   0.019     0.005       N        REQUIRED
+    43        NOT USED
+    44        Room S-206                 Sink #2            3.25.23   0.015     0.005       N        REQUIRED
+    45        Room S-206                 Sink #3            3.25.23   0.004     0.005       Y           NA
+    46        Room S-206                 Sink #4            3.25.23   0.001     0.005       Y           NA
+                                                                                Action
+                                                              Date    Results            Compliant
+Sample ID #            Sample Location    Type of Fixture                        Level               Remediation
+                                                            Sampled   (mg/L)               (Y/N)
+                                                                                (mg/L)
+    47        Room S-206                 Sink #5            3.25.23   0.011     0.005       N        REQUIRED
+    48        Room S-206                 Sink #6            3.25.23   0.003     0.005       Y           NA
+    49        Room S-206                 Sink #7            3.25.23   0.005     0.005       Y           NA
+    50        Room S-205                 Sink               3.25.23   0.004     0.005       Y           NA
+    51        Room S-204                 Island Sink #1     3.25.23   0.705     0.005       N        REQUIRED
+    52        Room S-204                 Sink #2            3.25.23    0.01     0.005       N        REQUIRED
+    53        Room S-204                 Sink #3            3.25.23   0.001     0.005       Y           NA
+    54        Room S-204                 Sink #4            3.25.23   0.002     0.005       Y           NA
+    55        Room S-204                 Sink #5            3.25.23   0.001     0.005       Y           NA
+    56        Room S-204                 Sink #6            3.25.23   0.002     0.005       Y           NA
+    57        Room S-204                 Sink #7            3.25.23   0.002     0.005       Y           NA
+    58        Room S-204                 Sink #8            3.25.23   0.002     0.005       Y           NA
+    59        Room S-204                 Sink #9            3.25.23   0.001     0.005       Y           NA
+    60        Room S-204                 Sink #10           3.25.23   0.006     0.005       N        REQUIRED
+    61        NOT USED
+    62        NOT USED
+    63        Room S-203                 Sink #3            3.25.23   0.003     0.005       Y            NA
+    64        Room S-203                 Sink #4            3.25.23   0.004     0.005       Y           NA
+    65        Room S-203                 Sink #5            3.25.23   0.003     0.005       Y           NA
+    66        Room S-203                 Sink #6            3.25.23   0.001     0.005       Y           NA
+    67        Room S-203                 Sink #7            3.25.23   0.004     0.005       Y           NA
+    68        Room S-203                 Sink #8            3.25.23   0.002     0.005       Y           NA
+    69        Room S-203                 Sink #9            3.25.23   0.007     0.005       N        REQUIRED
+    70        Room S-203                 Sink #10           3.25.23   0.004     0.005       Y           NA
+    71        Room S-202                 Sink               3.25.23   0.003     0.005       Y           NA
+                                                                                         Action
+                                                                       Date    Results            Compliant
+Sample ID #             Sample Location            Type of Fixture                        Level               Remediation
+                                                                     Sampled   (mg/L)               (Y/N)
+                                                                                         (mg/L)
+    72        Room S-201                          Sink #1            3.25.23   0.001     0.005       Y           NA
+    73        Room S-201                          Sink #2            3.25.23   0.001     0.005       Y           NA
+    74        Room S-201                          Sink #3            3.25.23   0.001     0.005       Y           NA
+    75        Room S-201                          Sink #4            3.25.23   0.001     0.005       Y           NA
+    76        Room S-201                          Sink #5            3.25.23   0.001     0.005       Y           NA
+    77        Room S-201                          Sink #6            3.25.23   0.039     0.005       N        REQUIRED
+                                                                                BDL                  Y
+    78        Hallway Water Fountain Near S-201   Bubbler            3.25.23   <0.001    0.005                    NA
+                                                                                BDL                  Y
+    79        Hallway Water Fountain Near S-201   Bubbler            3.25.23   <0.001    0.005                   NA
+    80        Room S-106                          Sink #1            3.25.23   0.585     0.005       N        REQUIRED
+    81        NOT USED
+    82        NOT USED
+    83        Room S-106                          Sink #4            3.25.23   0.008     0.005       N        REQUIRED
+    84        Room S-106                          Sink #5            3.25.23   0.006     0.005       N        REQUIRED
+    85        Room S-106                          Sink #6            3.25.23   0.004     0.005       Y           NA
+    86        Room S-105                          Sink               3.25.23   0.009     0.005       N        REQUIRED
+    87        Room S-104                          Sink #1            3.25.23   0.004     0.005       Y           NA
+    88        Room S-104                          Sink #2            3.25.23   0.005     0.005       Y           NA
+    89        Room S-104                          Sink #3            3.25.23   0.007     0.005       N        REQUIRED
+    90        Room S-104                          Sink #4            3.25.23   0.003     0.005       Y           NA
+    91        Room S-104                          Sink #5            3.25.23   0.006     0.005       N        REQUIRED
+    92        Room S-104                          Sink #6            3.25.23    0.01     0.005       N        REQUIRED
+    93        Room S-104                          Sink #7            3.25.23   0.004     0.005       Y           NA
+    94        Room S-104                          Sink #8            3.25.23   0.001     0.005       Y           NA
+    95        Room S-104                          Sink #9            3.25.23   0.007     0.005       N        REQUIRED
+                                                                                         Action
+                                                                       Date    Results            Compliant
+Sample ID #             Sample Location            Type of Fixture                        Level               Remediation
+                                                                     Sampled   (mg/L)               (Y/N)
+                                                                                         (mg/L)
+    96        Room S-103                          Sink #1            3.25.23   0.013     0.005       N        REQUIRED
+    97        Room S-103                          Sink #2            3.25.23   0.012     0.005       N        REQUIRED
+    98        Room S-103                          Sink #3            3.25.23   0.008     0.005       N        REQUIRED
+    99        Room S-103                          Sink #4            3.25.23   0.001     0.005       Y           NA
+   100        Room S-103                          Sink #5            3.25.23   0.001     0.005       Y           NA
+   101        Room S-103                          Sink #6            3.25.23   0.001     0.005       Y           NA
+   102        Room S-103                          Sink #7            3.25.23   0.007     0.005       N        REQUIRED
+   103        Room S-103                          Sink #8            3.25.23   0.001     0.005       Y           NA
+   104        Room S-103                          Sink #9            3.25.23   0.003     0.005       Y           NA
+   105        Room S-102                          Sink               3.25.23   0.004     0.005       Y           NA
+   106        NOT USED
+   107        Room S-101                          Sink #2            3.25.23   0.025     0.005       N        REQUIRED
+   108        Room S-101                          Sink #3            3.25.23   0.002     0.005       Y           NA
+   109        Room S-101                          Sink #4            3.25.23   0.004     0.005       Y           NA
+   110        Room S-101                          Sink #5            3.25.23   0.001     0.005       Y           NA
+                                                                                BDL                  Y
+   111        Room S-101                          Sink #6            3.25.23   <0.001    0.005                   NA
+   112        Room S-101                          Sink #7            3.25.23   0.295     0.005       N        REQUIRED
+   113        Hallway Water Fountain Near S-101   Bottle Filler      3.25.23   0.001     0.005       Y           NA
+                                                                                BDL                  Y
+   114        Hallway Water Fountain Near S-101   Bubbler            3.25.23   <0.001    0.005                    NA
+                                                                                BDL                  Y
+   115        Middle Schools Teachers’ Lounge     Sink               3.25.23   <0.001    0.005                    NA
+   116        High School Teachers Lounge         Sink               3.25.23   0.001     0.005       Y            NA
+                                                                                BDL                  Y
+   117        Hallway Water Fountain Near H-107   Bubbler            3.25.23   <0.001    0.005                    NA
+   118        Room H-018                          Sink               3.25.23   0.002     0.005       Y            NA
+                                                                                           Action
+                                                                         Date    Results            Compliant
+Sample ID #             Sample Location              Type of Fixture                        Level               Remediation
+                                                                       Sampled   (mg/L)               (Y/N)
+                                                                                           (mg/L)
+   119        Nurses Office H-020                   Sink               3.25.23   0.004     0.005       Y            NA
+   120        Hallway Water Fountain Near H-024     Bubbler            3.25.23   0.005     0.005       Y            NA
+              1st Floor Hallway Water Fountain                                                         Y
+   121        Near High School Office               Bottle Filler      3.25.23   0.002     0.005                    NA
+              1st Floor Hallway Water Fountain                                                         Y
+   122        Near High School Office               Bubbler            3.25.23   0.001     0.005                   NA
+   123        Nurses Office H-108                   Sink               3.25.23   0.008     0.005       N        REQUIRED
+   124        NOT USED
+              Hallway Water Fountain Near Gym                                                          N
+   125        Entrance                              Bottle Filler      3.25.23   0.013     0.005                REQUIRED
+              Hallway Water Fountain Near Gym                                                          Y
+   126        Entrance                              Bubbler            3.25.23   0.001     0.005                    NA
+              Hallway Water Fountain 2nd Floor                                                         Y
+   127        Near Elevator                         Bottle Filler      3.25.23   0.001     0.005                    NA
+              Hallway Water Fountain 2nd Floor                                                         Y
+   128        Near Elevator                         Bubbler            3.25.23   0.001     0.005                    NA
+              Farside Hallway Water Fountain Near                                                      Y
+   129        Room H-24                             Bubbler            3.25.23   0.003     0.005                   NA
+   130        Nurses Middle School Office           Sink               3.25.23   0.002     0.005       Y           NA
+   131        B-Wing Middle School Water Fountain   Bottle Filler      3.25.23   0.008     0.005       N        REQUIRED
+   132        B-Wing Middle School Water Fountain   Bubbler            3.25.23   0.004     0.005       Y           NA
+   133        A-Wing Middle School Water Fountain   Bottle Filler      3.25.23   0.001     0.005       Y           NA
+   134        A-Wing Middle School Water Fountain   Bubbler            3.25.23   0.002     0.005       Y           NA
+                                                                                  BDL                  Y
+   135        D-Wing Middle School Water Fountain Bottle Filler        3.25.23   <0.001    0.005                    NA
+                                                                                  BDL                  Y
+   136        D-Wing Middle School Water Fountain Bubbler              3.25.23   <0.001    0.005                    NA
+                                                                                             Action
+                                                                           Date    Results            Compliant
+Sample ID #              Sample Location               Type of Fixture                        Level               Remediation
+                                                                         Sampled   (mg/L)               (Y/N)
+                                                                                             (mg/L)
+                                                                                    BDL                  Y
+   137        C-Wing Middle School Water Fountain Bottle Filler          3.25.23   <0.001    0.005                    NA
+                                                                                    BDL                  Y
+   138        C-Wing Middle School Water Fountain Bubbler                3.25.23   <0.001    0.005                    NA
+              Water Fountain Theater/Gym Near                                       BDL                  Y
+   139        Girls Room Locker                       Bubbler            3.25.23   <0.001    0.005                    NA
+   140        Weight Room Water Fountain              Bubbler            3.25.23   0.002     0.005       Y            NA
+              Water Fountain Theater/Gym Near                                                            Y
+   141        Girls Room Locker                       Bottler Filler     3.25.23   0.004     0.005                    NA
+              Water Fountain Theater/Gym Near                                                            Y
+   142        Girls Room Locker                       Bubbler            3.25.23   0.003     0.005                    NA
+              Water Fountain Theater/Gym 2nd                                        BDL                  Y
+   143        Floor                                   Bubbler            3.25.23   <0.001    0.005                    NA
+   144        Concession                              Sink #1            3.25.23   0.001     0.005       Y            NA
+   145        Concession                              Sink #2            3.25.23   0.001     0.005       Y            NA
+                                                                                    BDL                  Y
+   146        Blank                                   NA                 3.25.23   <0.001    0.005                    NA
+
+
+              NA = Not Applicable
+              NYS Lead Action Level 0.005 mg/L
+              *Sinks are counted from Left to Right
+Laboratory Data Sheets
+
+
+
+
+         13
+EAS Batch No.      2301739                                                                                                                                 Page 1 of 16
+                                                                 Eastern Analytical Services, Inc.
+                                                                                 Water Sample Report
+                                                                   RE: Irvington High School/Middle School
+
+
+Date Collected:    03/25/2023                                                                                          Client: RegCom
+Collected By:      Nicholas Coon                                                                                               245 Albany Avenue
+Date Received:     03/26/2023                                                                                                  Thornwood, NY 10594
+Date Analyzed:     03/28/2023
+Analyzed By:       Ernest Sanchez
+Signature:
+Analyte:           Pb Water
+Analytical Method: EPA 200.9
+NYS Lab Number: 10851
+
+
+Sample ID# /                        Sample Location                                             Sample Notes                                          Concentration
+Lab ID#
+
+1                                   Kitchen Island                                              Petal Sink                                         BDL < 0.001 mg/L
+2903997
+
+
+2                                   Kitchen Island                                              Sink                                               BDL < 0.001 mg/L
+2903998
+
+3                                   Kitchen                                                     Produce Wash Sink                                  BDL < 0.001 mg/L
+2903999
+
+
+4(A+B)                              Kitchen/Serving Line Side                                   Ice Machine                                        BDL < 0.001 mg/L
+2904000
+
+5                                   Cafeteria                                                   Bottle Filler                                      BDL < 0.001 mg/L
+2904001
+
+
+6                                   Cafeteria                                                   Bubbler                                            BDL < 0.001 mg/L
+2904002
+
+7                                   S-306                                                       Island Sink #1 - Left to Right                           0.220 mg/L
+2904003
+
+
+8                                   S-306                                                       Sink #2                                                  0.010 mg/L
+2904004
+
+9                                   S-306                                                       Sink #3                                                  0.001 mg/L
+2904005
+
+
+
+BDL = Below Detectable Limits
+Liability Limited to Cost of Analysis
+Results Applicable to Those Items Tested
+Rhode Island DOH No. LAO00107 Massachusetts DOL No. A A 000072    Connecticut DOH No. PH-0622   Maine DEP No. LA-024   Vermont DOH No. AL-709936
+EAS Batch No.      2301739                                                                                                                              Page 2 of 16
+                                                                 Eastern Analytical Services, Inc.
+                                                                                 Water Sample Report
+                                                                   RE: Irvington High School/Middle School
+
+
+Date Collected:    03/25/2023                                                                                          Client: RegCom
+Collected By:      Nicholas Coon                                                                                               245 Albany Avenue
+Date Received:     03/26/2023                                                                                                  Thornwood, NY 10594
+Date Analyzed:     03/28/2023
+Analyzed By:       Ernest Sanchez
+Signature:
+Analyte:           Pb Water
+Analytical Method: EPA 200.9
+NYS Lab Number: 10851
+
+
+Sample ID# /                        Sample Location                                             Sample Notes                                       Concentration
+Lab ID#
+
+10                                  S-306                                                       Sink #4                                               0.027 mg/L
+2904006
+
+
+11                                  S-306                                                       Sink #5                                               0.001 mg/L
+2904007
+
+12                                  S-306                                                       Sink #6                                               0.004 mg/L
+2904008
+
+
+13                                  S-306                                                       Sink #7                                               0.015 mg/L
+2904009
+
+14                                  S-305                                                       Sink                                                  0.003 mg/L
+2904010
+
+
+15                                  S-304                                                       Island Sink #1 - Left to Right                        0.010 mg/L
+2904011
+
+16                                  S-304                                                       Sink # 2                                              0.001 mg/L
+2904012
+
+
+17                                  S-304                                                       Sink # 3                                              0.001 mg/L
+2904013
+
+18                                  S-304                                                       Sink # 4                                              0.003 mg/L
+2904014
+
+
+
+BDL = Below Detectable Limits
+Liability Limited to Cost of Analysis
+Results Applicable to Those Items Tested
+Rhode Island DOH No. LAO00107 Massachusetts DOL No. A A 000072    Connecticut DOH No. PH-0622   Maine DEP No. LA-024   Vermont DOH No. AL-709936
+EAS Batch No.      2301739                                                                                                                              Page 3 of 16
+                                                                 Eastern Analytical Services, Inc.
+                                                                                 Water Sample Report
+                                                                   RE: Irvington High School/Middle School
+
+
+Date Collected:    03/25/2023                                                                                          Client: RegCom
+Collected By:      Nicholas Coon                                                                                               245 Albany Avenue
+Date Received:     03/26/2023                                                                                                  Thornwood, NY 10594
+Date Analyzed:     03/28/2023
+Analyzed By:       Ernest Sanchez
+Signature:
+Analyte:           Pb Water
+Analytical Method: EPA 200.9
+NYS Lab Number: 10851
+
+
+Sample ID# /                        Sample Location                                             Sample Notes                                       Concentration
+Lab ID#
+
+19                                  S-304                                                       Sink # 5                                              0.002 mg/L
+2904015
+
+
+20                                  S-304                                                       Sink #6                                               0.001 mg/L
+2904016
+
+21                                  S-304                                                       Sink #7                                               0.001 mg/L
+2904017
+
+
+22                                  S-304                                                       Sink #8                                               0.006 mg/L
+2904018
+
+23                                  S-304                                                       Sink #9                                               0.005 mg/L
+2904019
+
+
+24                                  S-304                                                       Sink #10                                              0.008 mg/L
+2904020
+
+25                                  S-303                                                       Island Sink #1 - Left to Right                        0.003 mg/L
+2904021
+
+
+26                                  S-303                                                       Sink #2                                               0.003 mg/L
+2904022
+
+27                                  S-303                                                       Sink #3                                               0.004 mg/L
+2904023
+
+
+
+BDL = Below Detectable Limits
+Liability Limited to Cost of Analysis
+Results Applicable to Those Items Tested
+Rhode Island DOH No. LAO00107 Massachusetts DOL No. A A 000072    Connecticut DOH No. PH-0622   Maine DEP No. LA-024   Vermont DOH No. AL-709936
+EAS Batch No.      2301739                                                                                                                                 Page 4 of 16
+                                                                 Eastern Analytical Services, Inc.
+                                                                                 Water Sample Report
+                                                                   RE: Irvington High School/Middle School
+
+
+Date Collected:    03/25/2023                                                                                          Client: RegCom
+Collected By:      Nicholas Coon                                                                                               245 Albany Avenue
+Date Received:     03/26/2023                                                                                                  Thornwood, NY 10594
+Date Analyzed:     03/28/2023
+Analyzed By:       Ernest Sanchez
+Signature:
+Analyte:           Pb Water
+Analytical Method: EPA 200.9
+NYS Lab Number: 10851
+
+
+Sample ID# /                        Sample Location                                             Sample Notes                                          Concentration
+Lab ID#
+
+28                                  S-303                                                       Sink #4                                                  0.001 mg/L
+2904024
+
+
+29                                  S-303                                                       Sink #5                                                  0.006 mg/L
+2904025
+
+30                                  S-303                                                       Sink #6 L - Left to Right                                0.001 mg/L
+2904026
+
+
+31                                  S-303                                                       Sink #7                                                  0.001 mg/L
+2904027
+
+32                                  S-303                                                       Sink #8                                                  0.001 mg/L
+2904028
+
+
+33                                  S-303                                                       Sink #9                                                  0.003 mg/L
+2904029
+
+34                                  S-303                                                       Sink #10                                           BDL < 0.001 mg/L
+2904030
+
+
+35                                  S-304                                                       Sink                                                     0.002 mg/L
+2904031
+
+37                                  S-301                                                       Sink #2                                                  0.021 mg/L
+2904032
+
+
+
+BDL = Below Detectable Limits
+Liability Limited to Cost of Analysis
+Results Applicable to Those Items Tested
+Rhode Island DOH No. LAO00107 Massachusetts DOL No. A A 000072    Connecticut DOH No. PH-0622   Maine DEP No. LA-024   Vermont DOH No. AL-709936
+EAS Batch No.      2301739                                                                                                                              Page 5 of 16
+                                                                 Eastern Analytical Services, Inc.
+                                                                                 Water Sample Report
+                                                                   RE: Irvington High School/Middle School
+
+
+Date Collected:    03/25/2023                                                                                          Client: RegCom
+Collected By:      Nicholas Coon                                                                                               245 Albany Avenue
+Date Received:     03/26/2023                                                                                                  Thornwood, NY 10594
+Date Analyzed:     03/28/2023
+Analyzed By:       Ernest Sanchez
+Signature:
+Analyte:           Pb Water
+Analytical Method: EPA 200.9
+NYS Lab Number: 10851
+
+
+Sample ID# /                        Sample Location                                             Sample Notes                                       Concentration
+Lab ID#
+
+38                                  S-301                                                       Sink #3                                               0.003 mg/L
+2904033
+
+
+39                                  S-301                                                       Sink #4                                               0.034 mg/L
+2904034
+
+40                                  S-301                                                       Sink #5                                               0.001 mg/L
+2904035
+
+
+41                                  S-301                                                       Sink #6                                               0.004 mg/L
+2904036
+
+42                                  S-301                                                       Sink #7                                               0.019 mg/L
+2904037
+
+
+44                                  S-206                                                       Sink #2                                               0.015 mg/L
+2904038
+
+45                                  S-206                                                       Sink #3                                               0.004 mg/L
+2904039
+
+
+46                                  S-206                                                       Sink #4                                               0.001 mg/L
+2904040
+
+47                                  S-206                                                       Sink #5                                               0.011 mg/L
+2904041
+
+
+
+BDL = Below Detectable Limits
+Liability Limited to Cost of Analysis
+Results Applicable to Those Items Tested
+Rhode Island DOH No. LAO00107 Massachusetts DOL No. A A 000072    Connecticut DOH No. PH-0622   Maine DEP No. LA-024   Vermont DOH No. AL-709936
+EAS Batch No.      2301739                                                                                                                              Page 6 of 16
+                                                                 Eastern Analytical Services, Inc.
+                                                                                 Water Sample Report
+                                                                   RE: Irvington High School/Middle School
+
+
+Date Collected:    03/25/2023                                                                                          Client: RegCom
+Collected By:      Nicholas Coon                                                                                               245 Albany Avenue
+Date Received:     03/26/2023                                                                                                  Thornwood, NY 10594
+Date Analyzed:     03/28/2023
+Analyzed By:       Ernest Sanchez
+Signature:
+Analyte:           Pb Water
+Analytical Method: EPA 200.9
+NYS Lab Number: 10851
+
+
+Sample ID# /                        Sample Location                                             Sample Notes                                       Concentration
+Lab ID#
+
+48                                  S-206                                                       Sink #6                                               0.003 mg/L
+2904042
+
+
+49                                  S-206                                                       Sink #7                                               0.005 mg/L
+2904043
+
+50                                  S-205                                                       Sink                                                  0.004 mg/L
+2904044
+
+
+51                                  S-204                                                       Island Sink #1 - Left to Right                        0.705 mg/L
+2904045
+
+52                                  S-204                                                       Sink #2                                               0.010 mg/L
+2904046
+
+
+53                                  S-204                                                       Sink #3                                               0.001 mg/L
+2904047
+
+54                                  S-204                                                       Sink #4                                               0.002 mg/L
+2904048
+
+
+55                                  S-204                                                       Sink #5                                               0.001 mg/L
+2904049
+
+56                                  S-204                                                       Sink #6                                               0.002 mg/L
+2904050
+
+
+
+BDL = Below Detectable Limits
+Liability Limited to Cost of Analysis
+Results Applicable to Those Items Tested
+Rhode Island DOH No. LAO00107 Massachusetts DOL No. A A 000072    Connecticut DOH No. PH-0622   Maine DEP No. LA-024   Vermont DOH No. AL-709936
+EAS Batch No.      2301739                                                                                                                              Page 7 of 16
+                                                                 Eastern Analytical Services, Inc.
+                                                                                 Water Sample Report
+                                                                   RE: Irvington High School/Middle School
+
+
+Date Collected:    03/25/2023                                                                                          Client: RegCom
+Collected By:      Nicholas Coon                                                                                               245 Albany Avenue
+Date Received:     03/26/2023                                                                                                  Thornwood, NY 10594
+Date Analyzed:     03/28/2023
+Analyzed By:       Ernest Sanchez
+Signature:
+Analyte:           Pb Water
+Analytical Method: EPA 200.9
+NYS Lab Number: 10851
+
+
+Sample ID# /                        Sample Location                                             Sample Notes                                       Concentration
+Lab ID#
+
+57                                  S-204                                                       Sink #7                                               0.002 mg/L
+2904051
+
+
+58                                  S-204                                                       Sink #8                                               0.002 mg/L
+2904052
+
+59                                  S-204                                                       Sink #9                                               0.001 mg/L
+2904053
+
+
+60                                  S-204                                                       Sink #10                                              0.006 mg/L
+2904054
+
+63                                  S-203                                                       Sink #3                                               0.003 mg/L
+2904055
+
+
+64                                  S-203                                                       Sink #4                                               0.004 mg/L
+2904056
+
+65                                  S-203                                                       Sink #5                                               0.003 mg/L
+2904057
+
+
+66                                  S-203                                                       Sink #6                                               0.001 mg/L
+2904058
+
+67                                  S-203                                                       Sink #7                                               0.004 mg/L
+2904059
+
+
+
+BDL = Below Detectable Limits
+Liability Limited to Cost of Analysis
+Results Applicable to Those Items Tested
+Rhode Island DOH No. LAO00107 Massachusetts DOL No. A A 000072    Connecticut DOH No. PH-0622   Maine DEP No. LA-024   Vermont DOH No. AL-709936
+EAS Batch No.      2301739                                                                                                                              Page 8 of 16
+                                                                 Eastern Analytical Services, Inc.
+                                                                                 Water Sample Report
+                                                                   RE: Irvington High School/Middle School
+
+
+Date Collected:    03/25/2023                                                                                          Client: RegCom
+Collected By:      Nicholas Coon                                                                                               245 Albany Avenue
+Date Received:     03/26/2023                                                                                                  Thornwood, NY 10594
+Date Analyzed:     03/28/2023
+Analyzed By:       Ernest Sanchez
+Signature:
+Analyte:           Pb Water
+Analytical Method: EPA 200.9
+NYS Lab Number: 10851
+
+
+Sample ID# /                        Sample Location                                             Sample Notes                                       Concentration
+Lab ID#
+
+68                                  S-203                                                       Sink #8                                               0.002 mg/L
+2904060
+
+
+69                                  S-203                                                       Sink #9                                               0.007 mg/L
+2904061
+
+70                                  S-203                                                       Sink #10 - Left to Right                              0.004 mg/L
+2904062
+
+
+71                                  S-202                                                       Sink                                                  0.003 mg/L
+2904063
+
+72                                  S-201                                                       Sink #1 - Left to Right                               0.001 mg/L
+2904064
+
+
+73                                  S-201                                                       Sink #2                                               0.001 mg/L
+2904065
+
+74                                  S-201                                                       Sink #3                                               0.001 mg/L
+2904066
+
+
+75                                  S-201                                                       Sink #4                                               0.001 mg/L
+2904067
+
+76                                  S-201                                                       Sink #5                                               0.001 mg/L
+2904068
+
+
+
+BDL = Below Detectable Limits
+Liability Limited to Cost of Analysis
+Results Applicable to Those Items Tested
+Rhode Island DOH No. LAO00107 Massachusetts DOL No. A A 000072    Connecticut DOH No. PH-0622   Maine DEP No. LA-024   Vermont DOH No. AL-709936
+EAS Batch No.      2301739                                                                                                                                 Page 9 of 16
+                                                                 Eastern Analytical Services, Inc.
+                                                                                 Water Sample Report
+                                                                   RE: Irvington High School/Middle School
+
+
+Date Collected:    03/25/2023                                                                                          Client: RegCom
+Collected By:      Nicholas Coon                                                                                               245 Albany Avenue
+Date Received:     03/26/2023                                                                                                  Thornwood, NY 10594
+Date Analyzed:     03/28/2023
+Analyzed By:       Ernest Sanchez
+Signature:
+Analyte:           Pb Water
+Analytical Method: EPA 200.9
+NYS Lab Number: 10851
+
+
+Sample ID# /                        Sample Location                                             Sample Notes                                          Concentration
+Lab ID#
+
+77                                  S-201                                                       Sink #6                                                  0.039 mg/L
+2904069
+
+
+78                                  Hallway by S-201                                            Bubbler Water Fountain                             BDL < 0.001 mg/L
+2904070
+
+79                                  Hallway by S-206                                            Bubbler Water Fountain                             BDL < 0.001 mg/L
+2904071
+
+
+80                                  S-106                                                       Sink #1 - Left to Right                                  0.585 mg/L
+2904072
+
+83                                  S-106                                                       Sink #4                                                  0.008 mg/L
+2904073
+
+
+84                                  S-106                                                       Sink #5                                                  0.006 mg/L
+2904074
+
+85                                  S-106                                                       Sink #6                                                  0.004 mg/L
+2904075
+
+
+86                                  S-105                                                       Sink                                                     0.009 mg/L
+2904076
+
+87                                  S-104                                                       Sink #1 - Left to Right                                  0.004 mg/L
+2904077
+
+
+
+BDL = Below Detectable Limits
+Liability Limited to Cost of Analysis
+Results Applicable to Those Items Tested
+Rhode Island DOH No. LAO00107 Massachusetts DOL No. A A 000072    Connecticut DOH No. PH-0622   Maine DEP No. LA-024   Vermont DOH No. AL-709936
+EAS Batch No.      2301739                                                                                                                              Page 10 of 16
+                                                                 Eastern Analytical Services, Inc.
+                                                                                 Water Sample Report
+                                                                   RE: Irvington High School/Middle School
+
+
+Date Collected:    03/25/2023                                                                                          Client: RegCom
+Collected By:      Nicholas Coon                                                                                               245 Albany Avenue
+Date Received:     03/26/2023                                                                                                  Thornwood, NY 10594
+Date Analyzed:     03/28/2023
+Analyzed By:       Ernest Sanchez
+Signature:
+Analyte:           Pb Water
+Analytical Method: EPA 200.9
+NYS Lab Number: 10851
+
+
+Sample ID# /                        Sample Location                                             Sample Notes                                       Concentration
+Lab ID#
+
+88                                  S-104                                                       Sink #2                                               0.005 mg/L
+2904078
+
+
+89                                  S-104                                                       Sink #3                                               0.007 mg/L
+2904079
+
+90                                  S-104                                                       Sink #4                                               0.003 mg/L
+2904080
+
+
+91                                  S-104                                                       Sink #5                                               0.006 mg/L
+2904081
+
+92                                  S-104                                                       Sink #6                                               0.010 mg/L
+2904082
+
+
+93                                  S-104                                                       Sink #7                                               0.004 mg/L
+2904083
+
+94                                  S-104                                                       Sink #8                                               0.001 mg/L
+2904084
+
+
+95                                  S-104                                                       Sink #9                                               0.007 mg/L
+2904085
+
+96                                  S-103                                                       Sink #1 - Left to Right                               0.013 mg/L
+2904086
+
+
+
+BDL = Below Detectable Limits
+Liability Limited to Cost of Analysis
+Results Applicable to Those Items Tested
+Rhode Island DOH No. LAO00107 Massachusetts DOL No. A A 000072    Connecticut DOH No. PH-0622   Maine DEP No. LA-024   Vermont DOH No. AL-709936
+EAS Batch No.      2301739                                                                                                                              Page 11 of 16
+                                                                 Eastern Analytical Services, Inc.
+                                                                                 Water Sample Report
+                                                                   RE: Irvington High School/Middle School
+
+
+Date Collected:    03/25/2023                                                                                          Client: RegCom
+Collected By:      Nicholas Coon                                                                                               245 Albany Avenue
+Date Received:     03/26/2023                                                                                                  Thornwood, NY 10594
+Date Analyzed:     03/28/2023
+Analyzed By:       Ernest Sanchez
+Signature:
+Analyte:           Pb Water
+Analytical Method: EPA 200.9
+NYS Lab Number: 10851
+
+
+Sample ID# /                        Sample Location                                             Sample Notes                                       Concentration
+Lab ID#
+
+97                                  S-103                                                       Sink #2                                               0.012 mg/L
+2904087
+
+
+98                                  S-103                                                       Sink #3                                               0.008 mg/L
+2904088
+
+99                                  S-103                                                       Sink #4                                               0.001 mg/L
+2904089
+
+
+100                                 S-103                                                       Sink #5 - Left to Right                               0.001 mg/L
+2904090
+
+101                                 S-103                                                       Sink #6                                               0.001 mg/L
+2904091
+
+
+102                                 S-103                                                       Sink #7                                               0.007 mg/L
+2904092
+
+103                                 S-103                                                       Sink #8                                               0.001 mg/L
+2904093
+
+
+104                                 S-103                                                       Sink #9                                               0.003 mg/L
+2904094
+
+105                                 S-102                                                       Sink                                                  0.004 mg/L
+2904095
+
+
+
+BDL = Below Detectable Limits
+Liability Limited to Cost of Analysis
+Results Applicable to Those Items Tested
+Rhode Island DOH No. LAO00107 Massachusetts DOL No. A A 000072    Connecticut DOH No. PH-0622   Maine DEP No. LA-024   Vermont DOH No. AL-709936
+EAS Batch No.      2301739                                                                                                                                 Page 12 of 16
+                                                                 Eastern Analytical Services, Inc.
+                                                                                 Water Sample Report
+                                                                   RE: Irvington High School/Middle School
+
+
+Date Collected:    03/25/2023                                                                                          Client: RegCom
+Collected By:      Nicholas Coon                                                                                               245 Albany Avenue
+Date Received:     03/26/2023                                                                                                  Thornwood, NY 10594
+Date Analyzed:     03/28/2023
+Analyzed By:       Ernest Sanchez
+Signature:
+Analyte:           Pb Water
+Analytical Method: EPA 200.9
+NYS Lab Number: 10851
+
+
+Sample ID# /                        Sample Location                                             Sample Notes                                          Concentration
+Lab ID#
+
+107                                 S-101                                                       Sink #2                                                  0.025 mg/L
+2904096
+
+
+108                                 S-101                                                       Sink #3                                                  0.002 mg/L
+2904097
+
+109                                 S-101                                                       Sink #4                                                  0.004 mg/L
+2904098
+
+
+110                                 S-101                                                       Sink #5 - Left to Right                                  0.001 mg/L
+2904099
+
+111                                 S-101                                                       Sink #6                                            BDL < 0.001 mg/L
+2904100
+
+
+112                                 S-101                                                       Sink #7                                                  0.295 mg/L
+2904101
+
+113                                 Hallway by S-101                                            Bottle Filler Water Fountain                             0.001 mg/L
+2904102
+
+
+114                                 Hallway by S-101                                            Bubbler Water Fountain                             BDL < 0.001 mg/L
+2904103
+
+115                                 Middle School Teacher's Lounge                              Sink                                               BDL < 0.001 mg/L
+2904104
+
+
+
+BDL = Below Detectable Limits
+Liability Limited to Cost of Analysis
+Results Applicable to Those Items Tested
+Rhode Island DOH No. LAO00107 Massachusetts DOL No. A A 000072    Connecticut DOH No. PH-0622   Maine DEP No. LA-024   Vermont DOH No. AL-709936
+EAS Batch No.      2301739                                                                                                                                 Page 13 of 16
+                                                                 Eastern Analytical Services, Inc.
+                                                                                 Water Sample Report
+                                                                   RE: Irvington High School/Middle School
+
+
+Date Collected:    03/25/2023                                                                                          Client: RegCom
+Collected By:      Nicholas Coon                                                                                               245 Albany Avenue
+Date Received:     03/26/2023                                                                                                  Thornwood, NY 10594
+Date Analyzed:     03/28/2023
+Analyzed By:       Ernest Sanchez
+Signature:
+Analyte:           Pb Water
+Analytical Method: EPA 200.9
+NYS Lab Number: 10851
+
+
+Sample ID# /                        Sample Location                                             Sample Notes                                          Concentration
+Lab ID#
+
+116                                 High School Teacher's Lounge                                Sink                                                     0.001 mg/L
+2904105
+
+
+117                                 Hallway by Room H-017                                       Water Fountain Bubbler                             BDL < 0.001 mg/L
+2904106
+
+118                                 Room H-018                                                  Sink                                                     0.002 mg/L
+2904107
+
+
+119                                 Nurse's Office H-020                                        Sink                                                     0.004 mg/L
+2904108
+
+120                                 Hallway by H-024                                            Bubbler Water Fountain                                   0.005 mg/L
+2904109
+
+
+121                                 1st Floor by High School Office                             Bottle Filler Water Fountain                             0.002 mg/L
+2904110
+
+122                                 1st Floor by High School Office                             Bubbler Water Fountain                                   0.001 mg/L
+2904111
+
+
+123                                 Nurse's Office H-108                                        Sink                                                     0.008 mg/L
+2904112
+
+125                                 Hallway by Gym by Entrance                                  Bottle Filler Water Fountain                             0.013 mg/L
+2904113
+
+
+
+BDL = Below Detectable Limits
+Liability Limited to Cost of Analysis
+Results Applicable to Those Items Tested
+Rhode Island DOH No. LAO00107 Massachusetts DOL No. A A 000072    Connecticut DOH No. PH-0622   Maine DEP No. LA-024   Vermont DOH No. AL-709936
+EAS Batch No.      2301739                                                                                                                              Page 14 of 16
+                                                                 Eastern Analytical Services, Inc.
+                                                                                 Water Sample Report
+                                                                   RE: Irvington High School/Middle School
+
+
+Date Collected:    03/25/2023                                                                                          Client: RegCom
+Collected By:      Nicholas Coon                                                                                               245 Albany Avenue
+Date Received:     03/26/2023                                                                                                  Thornwood, NY 10594
+Date Analyzed:     03/28/2023
+Analyzed By:       Ernest Sanchez
+Signature:
+Analyte:           Pb Water
+Analytical Method: EPA 200.9
+NYS Lab Number: 10851
+
+
+Sample ID# /                        Sample Location                                             Sample Notes                                       Concentration
+Lab ID#
+
+126                                 Hallway by Gym by Entrance                                  Bubbler Water Fountain                                0.001 mg/L
+2904114
+
+
+127                                 Hallway by Elevator 2nd Floor                               Bottle Filler Water Fountain                          0.001 mg/L
+2904115
+
+128                                 Hallway by Elevator 2nd Floor                               Bubbler Water Fountain                                0.001 mg/L
+2904116
+
+
+129                                 Farside Hallway by Room H-224                               Bubbler Water Fountain                                0.003 mg/L
+2904117
+
+130                                 Nurse's Middle School Office                                Sink                                                  0.002 mg/L
+2904118
+
+
+131                                 B-Wing Middle School                                        Bottle Filler Water Fountain                          0.008 mg/L
+2904119
+
+132                                 B-Wing Middle School                                        Bubbler Water Fountain                                0.004 mg/L
+2904120
+
+
+133                                 A-Wing Middle School                                        Bottle Filler Water Fountain                          0.001 mg/L
+2904121
+
+134                                 A-Wing Middle School                                        Bubbler Water Fountain                                0.002 mg/L
+2904122
+
+
+
+BDL = Below Detectable Limits
+Liability Limited to Cost of Analysis
+Results Applicable to Those Items Tested
+Rhode Island DOH No. LAO00107 Massachusetts DOL No. A A 000072    Connecticut DOH No. PH-0622   Maine DEP No. LA-024   Vermont DOH No. AL-709936
+EAS Batch No.      2301739                                                                                                                                 Page 15 of 16
+                                                                 Eastern Analytical Services, Inc.
+                                                                                 Water Sample Report
+                                                                   RE: Irvington High School/Middle School
+
+
+Date Collected:    03/25/2023                                                                                          Client: RegCom
+Collected By:      Nicholas Coon                                                                                               245 Albany Avenue
+Date Received:     03/26/2023                                                                                                  Thornwood, NY 10594
+Date Analyzed:     03/28/2023
+Analyzed By:       Ernest Sanchez
+Signature:
+Analyte:           Pb Water
+Analytical Method: EPA 200.9
+NYS Lab Number: 10851
+
+
+Sample ID# /                        Sample Location                                             Sample Notes                                          Concentration
+Lab ID#
+
+135                                 D-Wing Middle School                                        Bottle Filler Water Fountain                       BDL < 0.001 mg/L
+2904123
+
+
+136                                 D-Wing Middle School                                        Bubbler Water Fountain                             BDL < 0.001 mg/L
+2904124
+
+137                                 C-Wing Middle School                                        Bottle Filler Water Fountain                       BDL < 0.001 mg/L
+2904125
+
+
+138                                 C-Wing Middle School                                        Bubbler Water Fountain                             BDL < 0.001 mg/L
+2904126
+
+139                                 Theater/Gym by Girl's Locker                                Bubbler Water Fountain                             BDL < 0.001 mg/L
+2904127                             Room
+
+
+140                                 Weight Room                                                 Bubbler Water Fountain                                   0.002 mg/L
+2904128
+
+141                                 Theater/Gym Lobby                                           Bottle Filler Water Fountain                             0.004 mg/L
+2904129
+
+
+142                                 Theater/Gym Lobby                                           Bubbler Water Fountain                                   0.003 mg/L
+2904130
+
+143                                 Theater/Gym Lobby 2nd Floor                                 Bubbler Water Fountain                             BDL < 0.001 mg/L
+2904131
+
+
+
+BDL = Below Detectable Limits
+Liability Limited to Cost of Analysis
+Results Applicable to Those Items Tested
+Rhode Island DOH No. LAO00107 Massachusetts DOL No. A A 000072    Connecticut DOH No. PH-0622   Maine DEP No. LA-024   Vermont DOH No. AL-709936
+EAS Batch No.      2301739                                                                                                                                 Page 16 of 16
+                                                                 Eastern Analytical Services, Inc.
+                                                                                 Water Sample Report
+                                                                   RE: Irvington High School/Middle School
+
+
+Date Collected:    03/25/2023                                                                                          Client: RegCom
+Collected By:      Nicholas Coon                                                                                               245 Albany Avenue
+Date Received:     03/26/2023                                                                                                  Thornwood, NY 10594
+Date Analyzed:     03/28/2023
+Analyzed By:       Ernest Sanchez
+Signature:
+Analyte:           Pb Water
+Analytical Method: EPA 200.9
+NYS Lab Number: 10851
+
+
+Sample ID# /                        Sample Location                                             Sample Notes                                          Concentration
+Lab ID#
+
+144                                 Concession                                                  Sink #1 - Left to Right                                  0.001 mg/L
+2904132
+
+
+145                                 Concession                                                  Sink #2                                                  0.001 mg/L
+2904133
+
+Blank                               Not Applicable                                              Field Blank                                        BDL < 0.001 mg/L
+2904134
+
+
+
+
+BDL = Below Detectable Limits
+Liability Limited to Cost of Analysis
+Results Applicable to Those Items Tested
+Rhode Island DOH No. LAO00107 Massachusetts DOL No. A A 000072    Connecticut DOH No. PH-0622   Maine DEP No. LA-024   Vermont DOH No. AL-709936
+EAS Batch No.      2301506                                                                                                                                 Page 1 of 7
+                                                                 Eastern Analytical Services, Inc.
+                                                                                 Water Sample Report
+                                                                 RE: CPN IRV.1015.23.IH - Dows Lane School
+
+
+Date Collected:    03/16/2023                                                                                          Client: RegCom
+Collected By:      Nicholas Coon                                                                                               245 Albany Avenue
+Date Received:     03/16/2023                                                                                                  Thornwood, NY 10594
+Date Analyzed:     03/23/2023
+Analyzed By:       Ernest Sanchez
+Signature:
+Analyte:           Pb Water
+Analytical Method: EPA 200.9
+NYS Lab Number: 10851
+
+
+Sample ID# /                        Sample Location                                             Sample Notes                                          Concentration
+Lab ID#
+
+1                                   Gym                                                         Bottle Filler                                      BDL < 0.001 mg/L
+2902244
+
+
+2                                   Gym                                                         Bubbler                                            BDL < 0.001 mg/L
+2902245
+
+3                                   Room 101                                                    Sink                                                     0.001 mg/L
+2902246
+
+
+4                                   Room 101                                                    Bubbler                                                  0.001 mg/L
+2902247
+
+5                                   Room 103                                                    Sink                                               BDL < 0.001 mg/L
+2902248
+
+
+6                                   Room 103                                                    Bubbler                                            BDL < 0.001 mg/L
+2902249
+
+7                                   Room 102                                                    Sink                                               BDL < 0.001 mg/L
+2902250
+
+
+8                                   Room 102                                                    Bubbler                                                  0.004 mg/L
+2902251
+
+9                                   Room 105                                                    Sink                                               BDL < 0.001 mg/L
+2902252
+
+
+
+BDL = Below Detectable Limits
+Liability Limited to Cost of Analysis
+Results Applicable to Those Items Tested
+Rhode Island DOH No. LAO00107 Massachusetts DOL No. A A 000072    Connecticut DOH No. PH-0622   Maine DEP No. LA-024   Vermont DOH No. AL-709936
+EAS Batch No.      2301506                                                                                                                                 Page 2 of 7
+                                                                 Eastern Analytical Services, Inc.
+                                                                                 Water Sample Report
+                                                                 RE: CPN IRV.1015.23.IH - Dows Lane School
+
+
+Date Collected:    03/16/2023                                                                                          Client: RegCom
+Collected By:      Nicholas Coon                                                                                               245 Albany Avenue
+Date Received:     03/16/2023                                                                                                  Thornwood, NY 10594
+Date Analyzed:     03/23/2023
+Analyzed By:       Ernest Sanchez
+Signature:
+Analyte:           Pb Water
+Analytical Method: EPA 200.9
+NYS Lab Number: 10851
+
+
+Sample ID# /                        Sample Location                                             Sample Notes                                          Concentration
+Lab ID#
+
+10                                  Room 105                                                    Bubbler                                                  0.005 mg/L
+2902253
+
+
+11                                  Room 104                                                    Sink                                               BDL < 0.001 mg/L
+2902254
+
+12                                  Room 104                                                    Bubbler                                                  0.001 mg/L
+2902255
+
+
+13                                  Room 107                                                    Sink                                               BDL < 0.001 mg/L
+2902256
+
+14                                  Room 107                                                    Bubbler                                                  0.001 mg/L
+2902257
+
+
+15                                  Room 106                                                    Sink                                               BDL < 0.001 mg/L
+2902258
+
+16                                  Room 106                                                    Bubbler                                                  0.004 mg/L
+2902259
+
+
+17                                  Room 109                                                    Sink                                               BDL < 0.001 mg/L
+2902260
+
+18                                  Room 109                                                    Bubbler                                                  0.001 mg/L
+2902261
+
+
+
+BDL = Below Detectable Limits
+Liability Limited to Cost of Analysis
+Results Applicable to Those Items Tested
+Rhode Island DOH No. LAO00107 Massachusetts DOL No. A A 000072    Connecticut DOH No. PH-0622   Maine DEP No. LA-024   Vermont DOH No. AL-709936
+EAS Batch No.      2301506                                                                                                                                 Page 3 of 7
+                                                                 Eastern Analytical Services, Inc.
+                                                                                 Water Sample Report
+                                                                 RE: CPN IRV.1015.23.IH - Dows Lane School
+
+
+Date Collected:    03/16/2023                                                                                          Client: RegCom
+Collected By:      Nicholas Coon                                                                                               245 Albany Avenue
+Date Received:     03/16/2023                                                                                                  Thornwood, NY 10594
+Date Analyzed:     03/23/2023
+Analyzed By:       Ernest Sanchez
+Signature:
+Analyte:           Pb Water
+Analytical Method: EPA 200.9
+NYS Lab Number: 10851
+
+
+Sample ID# /                        Sample Location                                             Sample Notes                                          Concentration
+Lab ID#
+
+19                                  Room 111                                                    Sink                                               BDL < 0.001 mg/L
+2902262
+
+
+20                                  Room 111                                                    Bubbler                                                  0.003 mg/L
+2902263
+
+21                                  Nurses                                                      Sink                                                     0.001 mg/L
+2902264
+
+
+22                                  Room 110 Staff Lounge                                       Sink                                                     0.001 mg/L
+2902265
+
+23                                  Room 112                                                    Sink                                               BDL < 0.001 mg/L
+2902266
+
+
+24                                  Room 112                                                    Bubbler                                                  0.007 mg/L
+2902267
+
+25                                  Room 115                                                    Sink                                                     0.024 mg/L
+2902268
+
+
+26                                  Room 115                                                    Bubbler                                                  0.001 mg/L
+2902269
+
+27                                  Library                                                     Sink #1                                                  0.002 mg/L
+2902270
+
+
+
+BDL = Below Detectable Limits
+Liability Limited to Cost of Analysis
+Results Applicable to Those Items Tested
+Rhode Island DOH No. LAO00107 Massachusetts DOL No. A A 000072    Connecticut DOH No. PH-0622   Maine DEP No. LA-024   Vermont DOH No. AL-709936
+EAS Batch No.      2301506                                                                                                                                 Page 4 of 7
+                                                                 Eastern Analytical Services, Inc.
+                                                                                 Water Sample Report
+                                                                 RE: CPN IRV.1015.23.IH - Dows Lane School
+
+
+Date Collected:    03/16/2023                                                                                          Client: RegCom
+Collected By:      Nicholas Coon                                                                                               245 Albany Avenue
+Date Received:     03/16/2023                                                                                                  Thornwood, NY 10594
+Date Analyzed:     03/23/2023
+Analyzed By:       Ernest Sanchez
+Signature:
+Analyte:           Pb Water
+Analytical Method: EPA 200.9
+NYS Lab Number: 10851
+
+
+Sample ID# /                        Sample Location                                             Sample Notes                                          Concentration
+Lab ID#
+
+28                                  Library                                                     Sink #2                                            BDL < 0.001 mg/L
+2902271
+
+
+29                                  Room 126                                                    Sink                                               BDL < 0.001 mg/L
+2902272
+
+30                                  Room 127                                                    Sink #1                                            BDL < 0.001 mg/L
+2902273
+
+
+31                                  Room 127                                                    Sink #2                                            BDL < 0.001 mg/L
+2902274
+
+32                                  Room 128                                                    Sink #1                                            BDL < 0.001 mg/L
+2902275
+
+
+33                                  Room 128                                                    Sink #2                                            BDL < 0.001 mg/L
+2902276
+
+34                                  Room 129                                                    Sink #1                                            BDL < 0.001 mg/L
+2902277
+
+
+35                                  Room 129                                                    Sink #2                                            BDL < 0.001 mg/L
+2902278
+
+36                                  Room 129                                                    Bubbler                                            BDL < 0.001 mg/L
+2902279
+
+
+
+BDL = Below Detectable Limits
+Liability Limited to Cost of Analysis
+Results Applicable to Those Items Tested
+Rhode Island DOH No. LAO00107 Massachusetts DOL No. A A 000072    Connecticut DOH No. PH-0622   Maine DEP No. LA-024   Vermont DOH No. AL-709936
+EAS Batch No.      2301506                                                                                                                                 Page 5 of 7
+                                                                 Eastern Analytical Services, Inc.
+                                                                                 Water Sample Report
+                                                                 RE: CPN IRV.1015.23.IH - Dows Lane School
+
+
+Date Collected:    03/16/2023                                                                                          Client: RegCom
+Collected By:      Nicholas Coon                                                                                               245 Albany Avenue
+Date Received:     03/16/2023                                                                                                  Thornwood, NY 10594
+Date Analyzed:     03/23/2023
+Analyzed By:       Ernest Sanchez
+Signature:
+Analyte:           Pb Water
+Analytical Method: EPA 200.9
+NYS Lab Number: 10851
+
+
+Sample ID# /                        Sample Location                                             Sample Notes                                          Concentration
+Lab ID#
+
+37                                  Room 130                                                    Sink #1                                            BDL < 0.001 mg/L
+2902280
+
+
+38                                  Room 130                                                    Sink #2                                            BDL < 0.001 mg/L
+2902281
+
+39                                  MPR                                                         Bubbler                                            BDL < 0.001 mg/L
+2902282
+
+
+40                                  2nd Floor Lobby                                             Bottle Filler                                      BDL < 0.001 mg/L
+2902283
+
+41                                  2nd Floor Lobby                                             Bubbler                                            BDL < 0.001 mg/L
+2902284
+
+
+42                                  Room 210                                                    Sink                                               BDL < 0.001 mg/L
+2902285
+
+43                                  Room 211                                                    Sink #1                                            BDL < 0.001 mg/L
+2902286
+
+
+44                                  Room 211                                                    Sink #2                                                  0.001 mg/L
+2902287
+
+45                                  Room 208                                                    Sink                                                     0.001 mg/L
+2902288
+
+
+
+BDL = Below Detectable Limits
+Liability Limited to Cost of Analysis
+Results Applicable to Those Items Tested
+Rhode Island DOH No. LAO00107 Massachusetts DOL No. A A 000072    Connecticut DOH No. PH-0622   Maine DEP No. LA-024   Vermont DOH No. AL-709936
+EAS Batch No.      2301506                                                                                                                                 Page 6 of 7
+                                                                 Eastern Analytical Services, Inc.
+                                                                                 Water Sample Report
+                                                                 RE: CPN IRV.1015.23.IH - Dows Lane School
+
+
+Date Collected:    03/16/2023                                                                                          Client: RegCom
+Collected By:      Nicholas Coon                                                                                               245 Albany Avenue
+Date Received:     03/16/2023                                                                                                  Thornwood, NY 10594
+Date Analyzed:     03/23/2023
+Analyzed By:       Ernest Sanchez
+Signature:
+Analyte:           Pb Water
+Analytical Method: EPA 200.9
+NYS Lab Number: 10851
+
+
+Sample ID# /                        Sample Location                                             Sample Notes                                          Concentration
+Lab ID#
+
+46                                  Room 209                                                    Sink                                               BDL < 0.001 mg/L
+2902289
+
+
+47                                  Room 206                                                    Sink                                                     0.001 mg/L
+2902290
+
+48                                  Room 207                                                    Sink                                               BDL < 0.001 mg/L
+2902291
+
+
+49                                  Room 207                                                    Bubbler                                                  0.001 mg/L
+2902292
+
+50                                  Room 204                                                    Sink                                                     0.002 mg/L
+2902293
+
+
+51                                  Room 204                                                    Bubbler                                                  0.006 mg/L
+2902294
+
+52                                  Room 205                                                    Sink                                               BDL < 0.001 mg/L
+2902295
+
+
+53                                  Room 205                                                    Bubbler                                                  0.001 mg/L
+2902296
+
+54                                  Room 202                                                    Sink                                                     0.012 mg/L
+2902297
+
+
+
+BDL = Below Detectable Limits
+Liability Limited to Cost of Analysis
+Results Applicable to Those Items Tested
+Rhode Island DOH No. LAO00107 Massachusetts DOL No. A A 000072    Connecticut DOH No. PH-0622   Maine DEP No. LA-024   Vermont DOH No. AL-709936
+EAS Batch No.      2301506                                                                                                                                 Page 7 of 7
+                                                                 Eastern Analytical Services, Inc.
+                                                                                 Water Sample Report
+                                                                 RE: CPN IRV.1015.23.IH - Dows Lane School
+
+
+Date Collected:    03/16/2023                                                                                          Client: RegCom
+Collected By:      Nicholas Coon                                                                                               245 Albany Avenue
+Date Received:     03/16/2023                                                                                                  Thornwood, NY 10594
+Date Analyzed:     03/23/2023
+Analyzed By:       Ernest Sanchez
+Signature:
+Analyte:           Pb Water
+Analytical Method: EPA 200.9
+NYS Lab Number: 10851
+
+
+Sample ID# /                        Sample Location                                             Sample Notes                                          Concentration
+Lab ID#
+
+55                                  Room 202                                                    Bubbler                                                  0.001 mg/L
+2902298
+
+
+56                                  Room 203                                                    Sink                                                     0.003 mg/L
+2902299
+
+57                                  Hallway by 203                                              Water Fountain Bubbler                             BDL < 0.001 mg/L
+2902300
+
+
+58                                  Room 201                                                    Sink                                               BDL < 0.001 mg/L
+2902301
+
+59                                  Kitchen                                                     Pedal Sink                                         BDL < 0.001 mg/L
+2902302
+
+
+60                                  Not Applicable                                              Blank                                              BDL < 0.001 mg/L
+2902303
+
+
+
+
+BDL = Below Detectable Limits
+Liability Limited to Cost of Analysis
+Results Applicable to Those Items Tested
+Rhode Island DOH No. LAO00107 Massachusetts DOL No. A A 000072    Connecticut DOH No. PH-0622   Maine DEP No. LA-024   Vermont DOH No. AL-709936
+EAS Batch No.      2301400                                                                                                                                 Page 1 of 2
+                                                                 Eastern Analytical Services, Inc.
+                                                                                 Water Sample Report
+                                                                              RE: CPN IRV.1015.23.IH
+
+
+Date Collected:    03/10/2023                                                                                          Client: RegCom
+Collected By:      Nicholas Coon                                                                                               245 Albany Avenue
+Date Received:     03/10/2023                                                                                                  Thornwood, NY 10594
+Date Analyzed:     03/15/2023
+Analyzed By:       Ernest Sanchez/Michael K. Trojan
+Signature:
+Analyte:           Pb Water
+Analytical Method: EPA 200.9
+NYS Lab Number: 10851
+
+
+Sample ID# /                        Sample Location                                             Sample Notes                                          Concentration
+Lab ID#
+
+1                                   Nurses Office Bathroom                                      Sink #1 (Left to Right)                            BDL < 0.001 mg/L
+2900945
+
+
+2                                   Nurses Office Bathroom                                      Sink #2                                            BDL < 0.001 mg/L
+2900946
+
+3                                   Teachers Lounge                                             Sink                                               BDL < 0.001 mg/L
+2900947
+
+
+4A/4B                               Teachers Lounge                                             Ice Maker                                          BDL < 0.001 mg/L
+2900948
+
+5                                   Hallway by Room 205                                         Water Fountain Bottle Filler                       BDL < 0.001 mg/L
+2900949
+
+
+6                                   Hallway by Room 205                                         Water Fountain Bubbler                             BDL < 0.001 mg/L
+2900950
+
+7                                   Room 304                                                    Sink                                                     0.041 mg/L
+2900951
+
+
+8                                   Room 406                                                    Sink                                                     0.003 mg/L
+2900952
+
+9                                   Hallway by Room 105                                         Water Fountain Bottle Filler                       BDL < 0.001 mg/L
+2900953
+
+
+
+BDL = Below Detectable Limits
+Liability Limited to Cost of Analysis
+Results Applicable to Those Items Tested
+Rhode Island DOH No. LAO00107 Massachusetts DOL No. A A 000072    Connecticut DOH No. PH-0622   Maine DEP No. LA-024   Vermont DOH No. AL-709936
+EAS Batch No.      2301400                                                                                                                                 Page 2 of 2
+                                                                 Eastern Analytical Services, Inc.
+                                                                                 Water Sample Report
+                                                                              RE: CPN IRV.1015.23.IH
+
+
+Date Collected:    03/10/2023                                                                                          Client: RegCom
+Collected By:      Nicholas Coon                                                                                               245 Albany Avenue
+Date Received:     03/10/2023                                                                                                  Thornwood, NY 10594
+Date Analyzed:     03/15/2023
+Analyzed By:       Ernest Sanchez/Michael K. Trojan
+Signature:
+Analyte:           Pb Water
+Analytical Method: EPA 200.9
+NYS Lab Number: 10851
+
+
+Sample ID# /                        Sample Location                                             Sample Notes                                          Concentration
+Lab ID#
+
+10                                  Hallway by Room 105                                         Water Fountain Bubbler                             BDL < 0.001 mg/L
+2900954
+
+
+11                                  Kitchen                                                     Prep Sink                                                0.003 mg/L
+2900955
+
+12                                  Gym                                                         Water Fountain Bottle Filler                       BDL < 0.001 mg/L
+2900956
+
+
+13                                  Gym                                                         Water Fountain Bubbler                             BDL < 0.001 mg/L
+2900957
+
+14                                  Not Applicable                                              Blank                                              BDL < 0.001 mg/L
+2900958
+
+
+
+
+BDL = Below Detectable Limits
+Liability Limited to Cost of Analysis
+Results Applicable to Those Items Tested
+Rhode Island DOH No. LAO00107 Massachusetts DOL No. A A 000072    Connecticut DOH No. PH-0622   Maine DEP No. LA-024   Vermont DOH No. AL-709936
+EAS Batch No.      2302350                                                                                                                                 Page 1 of 1
+                                                                 Eastern Analytical Services, Inc.
+                                                                                 Water Sample Report
+                                                                        RE: Irvington Middle/High School
+
+
+Date Collected:    04/19/2023                                                                                          Client: RegCom
+Collected By:      Nicholas Coon                                                                                               245 Albany Avenue
+Date Received:     04/19/2023                                                                                                  Thornwood, NY 10594
+Date Analyzed:     04/20/2023
+Analyzed By:       Ernest Sanchez
+Signature:
+Analyte:           Pb Water
+Analytical Method: EPA 200.9
+NYS Lab Number: 10851
+
+
+Sample ID# /                        Sample Location                                             Sample Notes                                          Concentration
+Lab ID#
+
+1                                   Gym Entrance Side                                           Bottle Filler                                      BDL < 0.001 mg/L
+2909393
+
+
+2                                   B-Wing                                                      Bottle Filler                                      BDL < 0.001 mg/L
+2909394
+
+3                                   Nurses Waiting Room                                         Sink                                               BDL < 0.001 mg/L
+2909395
+
+
+4                                   Not Applicable                                              Blank                                              BDL < 0.001 mg/L
+2909396
+
+
+
+
+BDL = Below Detectable Limits
+Liability Limited to Cost of Analysis
+Results Applicable to Those Items Tested
+Rhode Island DOH No. LAO00107 Massachusetts DOL No. A A 000072    Connecticut DOH No. PH-0622   Maine DEP No. LA-024   Vermont DOH No. AL-709936
+Remediation Corrective Actions
+
+
+
+
+             14
+                             Remediation Corrective Actions
+
+
+                       Type           Action
+                              Results
+Building   Location      of            Limit                     Remediation
+                              (mg/L)
+                      Fixture         (mg/L)
+Main St.   Room
+School     304        Sink       0.041   0.005   Disconnected/Non-Operable
+                                                 Sign posted in accordance with 10 NYCRR
+Dows        Room                                 Subpart 67-4.
+Lane       112        Bubbler    0.007   0.005
+Dows        Room                                 Sign posted in accordance with 10 NYCRR
+Lane       115        Sink       0.024   0.005   Subpart 67-4.
+Dows        Room                                 Disconnected/Non-Operable
+Lane       204        Bubbler    0.006   0.005
+Dows        Room                                 Disconnected/Non-Operable
+Lane       202        Sink       0.012   0.005
+High                  Island                     Sign posted in accordance with 10 NYCRR
+School     S-306      Sink #1    0.220   0.005   Subpart 67-4.
+High                                             Sign posted in accordance with 10 NYCRR
+School     S-306      Sink #2    0.010   0.005   Subpart 67-4.
+High                                             Sign posted in accordance with 10 NYCRR
+School     S-306      Sink #4    0.027   0.005   Subpart 67-4.
+High                                             Sign posted in accordance with 10 NYCRR
+School     S-306      Sink #7    0.015   0.005   Subpart 67-4.
+High                  Island                     Sign posted in accordance with 10 NYCRR
+School     S-304      Sink #1    0.010   0.005   Subpart 67-4.
+High                                             Sign posted in accordance with 10 NYCRR
+School     S-304      Sink #8    0.006   0.005   Subpart 67-4.
+High                  Sink                       Sign posted in accordance with 10 NYCRR
+School     S-304      #10        0.008   0.005   Subpart 67-4.
+High                                             Sign posted in accordance with 10 NYCRR
+School     S-303      Sink #5    0.006   0.005   Subpart 67-4.
+High                                             Sign posted in accordance with 10 NYCRR
+School     S-303      Sink #5    0.006   0.005   Subpart 67-4.
+High                                             Sign posted in accordance with 10 NYCRR
+School     S-301      Sink #2    0.021   0.005   Subpart 67-4.
+High                                             Sign posted in accordance with 10 NYCRR
+School     S-301      Sink #4    0.034   0.005   Subpart 67-4.
+High                                             Sign posted in accordance with 10 NYCRR
+School     S-301      Sink #7    0.019   0.005   Subpart 67-4.
+High                                             Sign posted in accordance with 10 NYCRR
+School     S-206      Sink #2    0.015   0.005   Subpart 67-4.
+High                                             Sign posted in accordance with 10 NYCRR
+School     S-206      Sink #5    0.011   0.005   Subpart 67-4.
+
+
+
+                                          15
+High                Island                     Sign posted in accordance with 10 NYCRR
+School   S-204      Sink #1   0.705    0.005   Subpart 67-4.
+High                                           Sign posted in accordance with 10 NYCRR
+School   S-204      Sink #2   0.010    0.005   Subpart 67-4.
+High                Sink                       Sign posted in accordance with 10 NYCRR
+School   S-204      #10       0.006    0.005   Subpart 67-4.
+High                                           Sign posted in accordance with 10 NYCRR
+School   S-203      Sink #9   0.007    0.005   Subpart 67-4.
+High                                           Sign posted in accordance with 10 NYCRR
+School   S-201      Sink #6   0.039    0.005   Subpart 67-4.
+High                                           Sign posted in accordance with 10 NYCRR
+School   S-106      Sink #1   0.585    0.005   Subpart 67-4.
+High                                           Sign posted in accordance with 10 NYCRR
+School   S-106      Sink #4   0.008    0.005   Subpart 67-4.
+High                                           Sign posted in accordance with 10 NYCRR
+School   S-106      Sink #5   0.006    0.005   Subpart 67-4.
+High                                           Sign posted in accordance with 10 NYCRR
+School   S-105      Sink      0.009    0.005   Subpart 67-4.
+High                                           Sign posted in accordance with 10 NYCRR
+School   S-104      Sink #3   0.007    0.005   Subpart 67-4.
+High                                           Sign posted in accordance with 10 NYCRR
+School   S-104      Sink #5   0.006    0.005   Subpart 67-4.
+High                                           Sign posted in accordance with 10 NYCRR
+School   S-104      Sink #6   0.010    0.005   Subpart 67-4.
+High                                           Sign posted in accordance with 10 NYCRR
+School   S-104      Sink #9   0.007    0.005   Subpart 67-4.
+High                                           Sign posted in accordance with 10 NYCRR
+School   S-103      Sink #1   0.013    0.005   Subpart 67-4.
+High                                           Sign posted in accordance with 10 NYCRR
+School   S-103      Sink #2   0.012    0.005   Subpart 67-4.
+High                                           Sign posted in accordance with 10 NYCRR
+School   S-103      Sink #3   0.008    0.005   Subpart 67-4.
+High                                           Sign posted in accordance with 10 NYCRR
+School   S-103      Sink #7   0.007    0.005   Subpart 67-4.
+High                                           Sign posted in accordance with 10 NYCRR
+School   S-101      Sink #2   0.025    0.005   Subpart 67-4.
+High                                           Sign posted in accordance with 10 NYCRR
+School   S-101      Sink #7   0.295    0.005   Subpart 67-4.
+         Nurses
+High     Office                BDL             Replaced fixture and retested (4.19.23)
+School   H-108      Sink      <0.001   0.005   Compliant with 10 NYCRR Subpart 67-4.
+         Water
+         Fountain
+         Near
+High     Gym by     Bottle     BDL             Retested (4.19.23) Compliant with 10 NYCRR
+School   Entrance   Filler    <0.001   0.005   Subpart 67-4.
+
+
+                                        16
+         B-Wing
+         Middle
+         School
+High     Water      Bottle    BDL             Retested (4.19.23) Compliant with 10 NYCRR
+School   Fountain   Filler   <0.001   0.005   Subpart 67-4.
+
+
+
+
+                                       17

@@ -1,0 +1,69 @@
+SOURCE https://docs.google.com/presentation/d/1w2xBgsWtmSwWQz2fs3vx6vFxEFJm24UwscTJYw-eKyU/present | DATE unknown | TITLE STEAM Resources.pdf
+
+STEAM Product Resources
+Check here for information about,
+how to’s, links, and other resources
+for STEAM products in our Lending
+Library such as:
+● MakeyMakey
+● Micro:bit
+MakeyMakey                    How To             Plug&Play Apps Legacy Apps
+Each kit comes with the box, manual,                 Makey Makey is an invention kit for the 21st
+MakeyMakey board in a protective bag, USB            century. Turn everyday objects into touchpads and
+cable, 7 alligator clips, 6 white connector wires.   combine them with the internet. It’s a simple
+                                                     invention kit for beginners and experts doing art,
+                                                     engineering, and everything in between.
+                                                     With the Makey Makey, students can make any
+                                                     conductive material act as the input device for a
+                                                     computer. Because it comes preprogrammed,
+                                                     students with no coding experience can use it and
+                                                     learn to experiment with it as they start to learn
+                                                     coding.
+                                                     Makey Makey believes that the Maker Movement is
+                                                     more than just robots, 3D printing, or STEM, or
+                                                     even building things. It allows students to become
+                                                     hardware engineers and solve real-world design
+                                                     challenges by providing a landscape that fosters
+                                                     curiosity and creates vibrant learners.
+Micro:bit         First Steps              User Guide           Get Coding!
+Each kit contains a Micro:bit                The BBC micro:bit is a pocket-sized
+microcontroller in a protective bag, USB     computer/microcontroller that
+cable, battery pack with 2 AAA batteries     introduces you to how software and
+                                             hardware work together. It has an LED
+                                             light display, buttons, sensors and
+                                             many input/output features that you
+                                             can program and physically interact
+                                             with!
+Bee Bots
+https://sites.google.com/sfusd.edu/k-2cs/yellow/unit-2-bee-bots
+
+https://www.generationrobots.com/media/50_ways_to_make_the_most_of_your_beebot.pdf
+
+https://www.barefootcomputing.org/resources/bee-bots-basics-activity
+
+https://www.digitaltechnologieshub.edu.au/teach-and-assess/classroom-resources/lesson-ideas/buzzing-wi
+th-bee-bots/
+
+https://www.gocivilairpatrol.com/media/cms/stem_project_escape_code_D1BED9DA70A36.pdf
+
+Code & Go mice are also very similar, so any activities for these could be adapted to the Bee Bots:
+https://www.learningresources.com/catalog/product/view/id/4673/s/item-stem-robot-mouse/category/2/
+(scroll down for some images/Instagram posts on how people are using them)
+
+As well as these (my kids have this set at home):
+https://www.learningresources.com/catalog/product/view/id/6134/s/item-coding-critters-cat/category/2/
+Ozobots
+Here's the direct link to Ozoblockly: https://ozoblockly.com/editor?lang=en&robot=evo&mode=2
+Students cannot make accounts and shouldn't try signing in with their Google Accounts.
+
+You can make an account using your school email. There is a way to share some lessons with
+students:
+How do students use Classroom? Do I have to create accounts for students?
+Educators do not need to (and cannot) create student accounts for Ozobot Classroom. Classroom is
+compliant with FERPA and COPPA student and child privacy laws and does not collect student data.
+Instead of creating accounts, it’s easy to share Ozobot lessons with students. All Ozobot video lessons
+have a ‘Share with Students’ option. Find it on the right side of the Lesson Details page.
+
+When you make an account, you'll get access to library of resources and lessons!
+https://classroom.ozobot.com/lessons?query=&sort=Newest&page=1
+There's a lot of great stuff on there!

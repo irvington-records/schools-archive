@@ -1,0 +1,1982 @@
+SOURCE https://www.irvingtonschools.org/cms/lib/NY02208289/Centricity/Domain/4/PPS%20documents/Parent%20Guide%20to%20Special%20Education.pdf | DATE 2024-09-25 | TITLE Parent Guide to Special Education.pdf
+
+Special Education
+   in New York State
+for Children Ages 3–21
+        A Parent’s Guide
+
+
+
+
+               The University of the State of New York
+                   The State Education Department
+  Vocational and Educational Services for Individuals with Disabilities
+                      Albany, New York 12234
+
+                               May 2002
+                    THE STATE EDUCATION DEPARTMENT/THE UNIVERSITY OF THE STATE OF NEW YORK/ALBANY, NY 12234
+                    DEPUTY COMMISSIONER FOR VOCATIONAL AND EDUCATIONAL SERVICES FOR INDIVIDUALS WITH DISABILITIES
+                    Tel. (518) 474-2714
+                    Fax (5180 474-8802
+
+
+
+
+Dear Parents and Families:
+         Parents and family members are critical partners, along with school district personnel, in the education of
+their children. Parents provide essential information to teachers and administrators, play an important role in deci-
+sions made about their children and can be a key to supporting high expectations for their children during their school
+years.
+         The New York State Board of Regents and the State Education Department have set high goals for educa-
+tional programs and services for students with disabilities in New York. Among them are:
+             • All students will meet high standards for academic performance and personal behavior and demon-
+                  strate the knowledge and skills required by a dynamic world.
+             • All educational institutions will meet Regents high performance standards.
+             • The public will be served by qualified, ethical professionals who remain current with best practice in
+                  their fields and reflect the diversity of New York State.
+             • Education, information and cultural resources will be available and accessible to all people.
+         The Office of Vocational and Educational Services for Individuals with Disabilities (VESID) strategic plan is
+driven by a vision that is based on the belief that individuals with disabilities, given high expectations, opportunities
+and support when necessary, will live successful adult lives. Children learn to become independent adults, con-
+tributing to society and participating in the community through quality educational and social experiences with their
+peers. The Rehabilitation Act of 1992 states clearly that disability is a natural part of the human experience and that
+individuals with disabilities have the right to:
+             • live independently.
+             • contribute to society.
+             • pursue meaningful careers.
+             • enjoy self-determination.
+             • make choices.
+             • enjoy integration in the economic, political, social, cultural and educational mainstream of American
+                  society.
+         This document provides information for parents, guardians and other family members about laws, regulations
+and policies affecting special education programs and services. However, these protections, rights and opportunities
+will best help students reach their full potential when parents, families and schools work collaboratively. Setting high
+expectations for students and high standards for programs will provide the greatest opportunities for a successful adult
+life.
+
+                                                                                     Sincerely,
+
+
+
+
+                                                                                     Lawrence C. Gloeckler
+                                THE UNIVERSITY OF THE STATE OF NEW YORK
+
+                                                       Regents of The University
+
+ROBERT M. BENNETT, Chancellor, B.A., M.S. ...................................................................                           Tonawanda
+ADELAIDE L. SANFORD, Vice Chancellor, B.A., M.A., P.D. ...............................................                                  Hollis
+DIANE O’NEILL MCGIVERN, B.S.N., M.A., Ph.D. . ............................................................                              Staten Island
+SAUL B. COHEN, B.A., M.A., Ph.D. ....................................................................................                   New Rochelle
+JAMES C. DAWSON, A.A., B.A., M.S., Ph.D. ......................................................................                         Peru
+ROBERT M. JOHNSON, B.S., J.D. .........................................................................................                 Huntington
+ANTHONY S. BOTTAR, B.A., J.D. ........................................................................................                  North Syracuse
+MERRYL H. TISCH, B.A., M.A. ...........................................................................................                 New York
+GERALDINE D. CHAPEY, B.A., M.A., Ed.D. ........................................................................                         Belle Harbor
+ARNOLD B. GARDNER, B.A., LL.B......................................................................................                     Buffalo
+HARRY PHILLIPS, 3rd, B.A., M.S.F.S. .................................................................................                   Hartsdale
+JOSEPH E. BOWMAN, JR., B.A., M.L.S., M.A., M.Ed., Ed.D ..............................................                                   Albany
+LORRAINE A. CORTÉS-VÁZQUEZ, B.A., M.P.A. ...................................................................                            Bronx
+JUDITH O. RUBIN, A.B. .......................................................................................................           New York
+JAMES R. TALLON, JR., B.A., M.A. ...................................................................................                    Binghamton
+MILTON L. COFIELD, B.S., M.B.A., Ph.D. ..........................................................................                       Rochester
+
+President of The University and Commissioner of Education
+RICHARD P. MILLS
+
+Chief Operating Officer
+RICHARD H. CATE
+
+Deputy Commissioner for Vocational and Educational Services
+for Individuals with Disabilities
+LAWRENCE C. GLOECKLER
+
+Manager, Special Education Policy
+RITA D. LEVAY
+
+Coordinator, Special Education Policy
+ERLINDA REJINO
+
+
+
+
+   The State Education Department does not discriminate on the basis of age, color, religion, creed, disability, marital status, veteran status, nation-
+al origin, race, gender, genetic predisposition or carrier status, or sexual orientation in its educational programs, services and activities. Portions of
+this publication can be made available in a variety of formats, including braille, large print or audio tape, upon request. Inquiries concerning this
+policy of nondiscrimination should be directed to the Department’s Office for Diversity, Ethics, and Access, Room 152, Education Building,
+Albany, NY 12234. Requests for additional copies of this publication may be made by contacting VESID – Special Education Policy Unit,
+Room 1624 OCP, Albany, NY 12234 or your local SETRC.
+Table of Contents
+
+         The Special Education Process ..................................................................................................... 1
+
+         Initial Referral for Special Education Services............................................................................... 2
+
+         Individual Evaluation Process........................................................................................................ 4
+
+         Eligibility for Special Education ..................................................................................................... 6
+
+         Individualized Education Program (IEP)........................................................................................ 8
+
+         Annual Review/Reevaluation ......................................................................................................... 12
+
+         Your General Rights as a Parent ................................................................................................... 13
+
+         Your Child’s Educational Records.................................................................................................. 15
+
+         Evaluations .................................................................................................................................... 17
+
+         Notice and Parent Consent............................................................................................................ 18
+
+         Reimbursement for Placement Made by Parents in
+         a Private School ............................................................................................................................ 22
+
+         Timelines ....................................................................................................................................... 23
+
+         Due Process Rights....................................................................................................................... 24
+
+         Disciplinary Procedures ................................................................................................................ 32
+
+         References..................................................................................................................................... 33
+
+         Request for Due Process Proceedings .......................................................................................... 35
+
+         Members of Committees ............................................................................................................... 37
+
+         Resources ..................................................................................................................................... 39
+                 VESID Special Education Quality Assurance Regional Offices.............................................. 40
+                 Parent Centers ...................................................................................................................... 41
+                 Other Resources ................................................................................................................... 42
+                 Agency Resources ................................................................................................................ 43
+
+         Index ............................................................................................................................................. 45
+
+
+
+                                                                    v
+The Special Education Process
+
+What is Special Education?
+              Special education means specially designed individualized or group instruction or special services
+              or programs to meet the unique needs of students with disabilities. Special education services and
+              programs are provided at no cost to the parent.
+
+
+What are the steps in the Special Education Process?
+              Step 1: Initial Referral for Special Education Services
+              Students suspected of having a disability are referred to a multidisciplinary team called the
+              Committee on Special Education or the Committee on Preschool Special Education.
+
+              Step 2: Individual Evaluation Process
+              The Committee arranges for an evaluation of the student’s abilities and needs.
+
+              Step 3: Determining Eligibility for Special Education Services
+              Based on evaluation results, the Committee decides if the student is eligible to receive special edu-
+              cation services and programs.
+
+              Step 4: Individualized Education Program (IEP)
+              If the child is eligible to receive special education services, the Committee develops and implements
+              an appropriate IEP, based on evaluation results, to meet the needs of the student. Based on the IEP,
+              the Committee must determine the student’s placement, ensuring that services are provided in the
+              least restrictive environment (LRE). Placement must be as close as possible to the student’s home,
+              and unless the student’s IEP requires some other arrangement, the student must be educated in the
+              school he or she would have attended in not disabled. For more information on least restrictive envi-
+              ronment, see page 11.
+
+              Step 5: Annual Review/Reevaluation
+              The IEP is reviewed and, if needed, modified or revised by the Committee at least once a year (annu-
+              al review). The student has a reevaluation at least once every three years, to review the student’s
+              need for special education programs and services and to revise the IEP, as appropriate. A reevalua-
+              tion may also occur when conditions warrant or when requested by a parent or teacher.
+              The process occurs sequentially with each step building on the previous one. In this way, compre-
+              hensive information about the student is obtained and considered. Timelines are in place so that
+              delays are avoided. Parents are an integral part of this process, and your involvement is encouraged.
+
+
+
+
+                                                      1
+Initial Referral for Special Education Services
+
+What should you do if you feel your child needs special education?
+              If you have a preschool child and you have noticed that your child is not developing skills such as
+              walking, talking or playing like other young children, you may want to talk to your family doctor. He
+              or she may be able to reassure you that children develop at different rates and your child is within
+                                                                 the normal developmental scales. If, however, the
+                                                                 doctor is concerned, or you are still not comfort-
+                                                                 able with your child’s progress, you may make a
+                                                                 referral to your school district’s Committee on
+                                                                 Preschool Special Education (CPSE).
+
+                                                               If your three-year-old child received services from
+                                                               the Early Intervention Program and is in need of
+                                                               special education services, he or she will need to
+                                                               transition (move) from the Early Intervention
+                                                               Program into the preschool special education pro-
+                                                               gram. The Early Intervention official from your
+                                                               county must give written notice to the CPSE in
+                                                               your local school district that your child may be
+                                                               transitioning from the Early Intervention Program.
+                                                               With your consent, a transition plan must be devel-
+              oped no later than three months before your child’s third birthday.
+
+              If your school-age child is having difficulties in school, first talk to his or her teacher. Many schools
+              offer supports for students within regular education such as psychological services, speech and lan-
+              guage improvement services, curriculum and instructional modifications and Academic Intervention
+              Services. If you, the teacher and principal have not been able to help your child, your child may have
+              a disability which affects his or her learning. To find out, you can make a referral to the Committee
+              on Special Education (CSE).
+
+
+What is a referral for special education?
+              A referral is a written statement asking that the school district evaluate your child to determine if he
+              or she needs special education services. This written statement should be addressed to the chair-
+              person of your school district’s Committee or your school principal. The referral may result in a
+              request to have your child tested to see if he or she needs special education services. In some cases,
+              you may want to meet with the principal before agreeing to test your child to discuss other ways to
+              assist your child. As a result, the referral may be withdrawn.
+
+
+
+
+                                                       2
+Who else can make a referral for special education?
+              You, the parent, can always make a referral for your child. Your child’s teacher or a professional in
+              your child’s school may also make a referral to the Committee. Additional people who may make a
+              referral include doctors, judicial officers (such as a family court judge or a probation officer) or a
+              designated person in a public agency. For a preschool child, any of the people mentioned above may
+              make a referral to the CPSE. In addition, a referral may also be made by someone from an Early
+              Childhood Direction Center, an approved preschool program or an Early Intervention Program that
+              serves children with disabilities from birth to age three. A student over eighteen and younger than
+              21 who is an emancipated minor may refer him or herself.
+
+
+What are the Committee on Preschool Special Education (CPSE) and the Committee
+on Special Education (CSE)?
+              Every school district has a CPSE and a CSE that decides a child’s special education needs and serv-
+              ices. The CPSE is responsible for children with disabilities ages 3-5. The CSE is responsible for chil-
+              dren with disabilities ages 5-21. Some school districts also have Subcommittees on Special
+              Education (sometimes called the Sub CSE). In New York City the Subcommittee is sometimes called
+              the School Based Support Team. You are a member of the Committee that will recommend special
+              education services for your child.
+
+              You know your child better than anyone else and you have valuable knowledge to bring to
+              Committee discussions. Other members of the Committees are people who have a broad range of
+              experiences planning for and/or working with students with disabilities. Together you will work to
+              make sure that special education programs and services are provided to meet your child’s needs.
+
+              Throughout this Guide, these Committees will be referred to as the Committee, or in some cases, more
+              specifically as the CSE or CPSE. Members of each of these Committees are listed on page 37.
+
+
+
+
+                                                      3
+Individual Evaluation Process
+
+What is an individual evaluation?
+             After your child is referred for an evaluation for special education, you will be asked to give your
+             written consent to have your son or daughter evaluated. The results of an evaluation help determine
+             if special education services or programs are needed. An evaluation includes various assessment
+             tools and strategies. These tests determine what your child’s learning difficulties may be and how
+                                those difficulties affect his or her participation and progress in the general educa-
+                                tion curriculum. This evaluation is at no cost to you. As a parent, it will be helpful
+                                to share with the Committee the important information you have about your child’s
+                                skills, abilities and needs, including copies of any evaluations you have on your
+                                child. The Committee must consider information from parents when making deci-
+                                sions.
+
+
+                               What is your role in the individual evaluation process?
+                               Parents of preschool children will be asked to select an approved evaluator from
+                               a list of evaluation sites. If you have concerns about providing consent, you can
+                               talk to the Committee chairperson. If you do not provide consent for your pre-
+                               school child (ages 3-5) to be evaluated, the Committee on Preschool Special
+                               Education will take steps to make sure that you have received and understand the
+                               request for consent for evaluation of your child but the district may not go forward
+                               without your consent. If you have a school-age child, the school district is respon-
+                               sible for providing the evaluation.
+
+             As a parent, you have input as to the tests and assessments to be conducted on your child. Before
+             an evaluation is conducted, you will be asked for your suggestions about evaluating your child and
+             be given information about the kinds of tests that will be used. If you have questions about the pur-
+             pose or type of evaluation proposed, you should discuss them with the chairperson of the
+             Committee.
+
+
+
+
+                                                      4
+What is included in an individual evaluation?
+              Evaluations must be comprehensive and provide information about your child’s unique abilities and
+              needs. Evaluations include information from parents and a group of evaluators, including at least
+              one special education teacher or other person with knowledge of your child’s (suspected) disability.
+              An evaluation will provide information that relates to your child in his or her classroom. It will tell
+              what your child needs to be involved in to participate and progress in general education curriculum.
+
+              Tests and assessments, given as part of an evaluation, must be given in your child’s language by
+              people who are trained, knowledgeable and/or certified to give the tests. The tests must be fair and
+              not discriminate racially or culturally.
+
+              An initial evaluation to determine your child’s needs must include:
+                  • a physical examination
+                  • a psychological evaluation (if determined appropriate for school-age students, but manda-
+                       tory for preschool children)
+                  • a social history
+                  • observation of your child in his or her current education setting
+                  • other tests or assessments that are appropriate for your child (such as a speech and lan-
+                       guage assessment or a functional behavioral assessment)
+                  • vocational assessments (required at age 12)
+
+                                                                 The results of the evaluation must be provided to
+                                                                 you. This may involve a meeting with the
+                                                                 Committee in which the technical language and
+                                                                 scoring of individual tests and assessments are
+                                                                 explained to you, usually by the professionals
+                                                                 who administered the tests or assessments. In
+                                                                 addition, you must be given a copy of the evalua-
+                                                                 tion report. You may also bring in evaluation
+                                                                 information which the Committee must consider.
+                                                                 If you feel that an evaluation conducted by the
+                                                                 Committee is not appropriate or if you disagree
+                                                                 with the results, you can obtain, and request that
+                                                                 the school district pay for, an independent educa-
+                                                                 tional evaluation (IEE). For more information
+                                                                 about evaluations and independent educational
+                                                                 evaluations, see page 17.
+
+
+
+
+                                                      5
+Eligibility for Special Education
+
+What happens after the individual evaluation?
+              After the evaluation is completed, you will be invited to a meeting, as a member of the Committee,
+              to talk about the results. You should attend this meeting because you have important information to
+              share about your child. If you can not attend, you have the right to ask the district to change the time
+              or place of the meeting. At the meeting, the Committee will review the evaluation results. Based on
+              that information, and information that you provide, the Committee decides if your child is eligible or
+              ineligible to receive special education programs and/or services.
+
+              In order to be eligible, a child must have a disability that affects his or her ability to learn. In New
+              York State, a child ages 3-5, may be identified as a “preschool student with a disability” if the CPSE
+              identifies the child as having a disability because of mental, physical or emotional reasons. Some
+              preschool children may be identified as having autism, deafness, deaf-blindness, hearing impair-
+              ment, orthopedic impairment, other health impairment, traumatic brain injury or visual impairment.
+              Preschool students must meet one of the eligibility criteria to be determined eligible as a child with
+              a disability who requires special education. The criteria are described in section 200.1(mm) of the
+              Regulations of the Commissioner of Education.
+
+              A student with a disability means a child with a disability, as defined in Education Law; who does not
+              turn 21 before September first; who is entitled to attend public school; who because of mental, phys-
+              ical or emotional reasons, has been identified as having a disability; and who requires special serv-
+              ices or programs. Students, ages 5-21, who are identified as having a disability, may have autism,
+              deafness, deaf-blindness, emotional disturbance, hearing impairment, learning disability, mental
+              retardation, multiple disabilities, orthopedic impairment, other health impairment, speech or lan-
+              guage impairment, traumatic brain injury or visual impairment (including blindness). These terms
+              are defined in section 200.1 (zz) of the Regulations of the Commissioner of Education.
+
+
+What happens if your child is ineligible for special education services?
+              If you, with the Committee, decide that your child does not require special education services or pro-
+              grams, the Committee will provide you with information indicating why the child is ineligible. If your
+              child is of school-age, the Committee:
+                   • will also send information to the principal of your child’s school. The principal will be able
+                       to work with professionals in the school or with your child’s current teacher, the reading
+                       teacher, the guidance counselor, or another specialist to help your son or daughter; and
+                   • may make a referral under Section 504 of the Rehabilitation Act of 1973 (a Federal civil
+                       rights law) to another multidisciplinary team within the school.
+
+              You will receive a written notice that explains the Committee’s decision, and the information on
+              which that decision was based. If you disagree with the decision of the Committee, you may request
+              mediation and/or an impartial hearing to resolve the disagreement. Mediation and impartial hear-
+              ings are discussed on pages 24-31.
+
+                                                       6
+What happens if your child is eligible for special education services?
+              If the Committee decides your child is eligible for special education services, the Committee must
+              identify the one disability category that most appropriately describes your child. The determination
+              of a disability category is used solely for eligibility purposes and does not prescribe the program or
+              services your child will receive. The Committee will develop and implement an individualized edu-
+              cation program (IEP) to meet your child’s needs. (See next page.)
+
+              You will receive a written notice that explains the Committee’s decision, and the information on
+              which that decision was based. If you disagree with the decision of the Committee, you may request
+              mediation and/or an impartial hearing to resolve the disagreement. Mediation and impartial hearings
+              are discussed on pages 24-31.
+
+
+What special education services may my child receive?
+              For school-age students, special education services and programs may include specially designed
+              instruction and supplementary services provided in the regular class, consultant teacher services,
+                                related services, resource room programs, special classes, home and hospital
+                                instruction, placement in an in-State or out-of-State approved private school,
+                                and/or 12 month special service and/or program.
+
+                                For preschool students, special education services and programs may include
+                                related services; special education itinerant services; a half-day preschool pro-
+                                gram; a full-day preschool program; 12 month special service and/or program; or
+                                an in-state residential special education program. Before recommending that spe-
+                                cial education services are provided in a setting which includes only preschool
+                                children with disabilities, the CPSE shall first consider providing special education
+                                services in a setting where age-appropriate peers without disabilities are typically
+                                found.
+
+
+
+
+                                                      7
+Individualized Education Program (IEP)
+
+              If your child is eligible for special education services and/or programs, the Committee must meet to
+              develop a plan to meet your child’s unique needs. This plan is called an Individualized Education
+              Program (IEP).
+
+
+How is an IEP developed?
+              The IEP development process must consider:
+                  • your child’s strengths;
+                  • your concerns for your child’s education;
+                  • the results of your child’s individual evaluation;
+                  • the results of any State or districtwide tests or assessments; and
+                  • any unique needs related to your child’s disability (such as communication needs, behavior,
+                      etc.).
+
+                                                                  The IEP evolves from a discussion that begins
+                                                                  with how your child is doing in school (current
+                                                                  level of functioning). From that base, the
+                                                                  Committee agrees on the goals your child
+                                                                  should be working toward. The Committee then
+                                                                  discusses the supports and services and modi-
+                                                                  fications that the child needs to reach those
+                                                                  goals. Finally, the Committee determines where
+                                                                  those special education services will be provid-
+                                                                  ed (location and placement). The location
+                                                                  where services will be provided and the stu-
+                                                                  dent’s placement must be in the least restric-
+                                                                  tive environment. For preschool children with
+                                                                  disabilities, special education services can be
+                                                                  delivered in day care, a regular preschool pro-
+                                                                  gram or other early childhood program in which
+                                                                  you have enrolled your child.
+
+
+What planning should occur for preschool children as they transition to school-age pro-
+grams and services?
+              If your child has been receiving preschool special education programs or services, you and the
+              Committee will need to discuss your child’s school program before he or she enters Kindergarten.
+              Sometime during the year before your child is eligible to enter school, the Committee will decide if
+
+
+
+
+                                                     8
+             your child continues to have a disability and/or if he or she continues to require special education
+             programs or services. If so, the CPSE will make a referral to the CSE.
+
+             If eligible, at age five, your child may be recommended to receive special education services or pro-
+             grams in the district’s Kindergarten program or other educational setting. However, you are not
+             required to enroll your child in the district’s Kindergarten program. Your child may be recommend-
+             ed to receive special education services at home, or while attending a nursery school, day care cen-
+             ter or other early childhood program in which you have enrolled your child at your expense.
+
+
+
+
+What planning should occur for young adults?
+                                               It is also important to plan ahead when your son or daughter
+                                               becomes a teen-ager so that he or she can prepare for a high
+                                               school diploma and/or learn skills necessary for employment,
+                                               postsecondary education and/or community living as an adult.
+                                               Beginning when your child is age 12, he or she will receive an
+                                               assessment to determine vocational skills, aptitudes, and inter-
+                                               ests. By age 14, the Committee will begin discussing your child’s
+                                               goals as an adult, and how he or she can learn the important skills
+                                               to meet these goals. From this point forward, the IEP will include
+                                               programs and services to prepare for adult life (transition servic-
+                                               es) to address your child’s hopes and dreams for the future.
+                                               Transition planning will involve you, your child and the school dis-
+                                               cussing questions such as:
+
+                 •   What can your child do now to prepare for being an adult? What can you do to help him or
+                     her prepare?
+                 •   What will your child do after he or she graduates from school? (Or when he or she turns 21
+                     and is no longer eligible to attend school?)
+                 •   Will your child go to college? If so, what high school courses should he or she take? What
+                     tests will your child take?
+                 •   Will your child look for a job right after high school? Will your child need job training while
+                     still in school?
+                 •   Where will your child live? Does he or she need to learn new skills to live independently?
+
+
+
+
+                                                     9
+                     Individualized Education Program (IEP)
+
+    If your child is eligible for special education services and/or programs, the Committee
+(of which you are a member) must meet to develop a plan to meet your child’s unique
+needs. This plan is called an Individualized Education Program (IEP). Some of the
+requirements of the IEP are listed below.
+■ Your child’s name and his or her disability.
+■ Your child’s current abilities, needs, and evaluation results.
+■ Goals and objectives for your child to meet this school year (annual goals).
+■ Special equipment your child may need in school.
+■ Information about the special education programs or services your child will receive
+  (what services, how often and how long they will be provided) to help your child meet
+  his or her goals; and support
+   •   your preschool child’s participation in appropriate activities; or
+   •   your school-age child’s involvement and progress in the general education cur-
+       riculum.
+■ Special ways, if any, your child will take tests (such as a longer time to take tests).
+■ Program modifications for your child.
+■ Supports for your child’s teachers to help implement your child’s IEP.
+■ How and when you will receive reports on your child’s progress.
+■ For teenagers, transition planning and services.
+■ Where services will be provided to ensure that programs reflect the least restrictive
+  environment. After the consideration of all other IEP components, the Committee
+  determines the recommended placement. Placement may be in a public school,
+  Board of Cooperative Educational Services (BOCES), approved private school, State-
+  operated school, State-supported school or a Special Act School District. Placement
+  decisions must be based on the child’s strengths and needs and reflect consideration
+  of whether the child can achieve his or her IEP goals in a regular class with the use
+  of supplementary aids and services and/or modifications to the curriculum. (The IEP
+  must explain the extent, if any, to which your child will not be in regular education
+  programs.)
+
+
+
+
+                                   10
+                                            Least Restrictive Environment
+
+                   Your child’s education must be in the least restrictive environment or “LRE”. LRE
+               means that placement of students with disabilities in special classes, separate schools or
+               other removal from the regular educational environment occurs only when the nature or
+               severity of the disability is such that, even with the use of supplementary aids and serv-
+               ices, education cannot be satisfactorily achieved.
+
+                   In all cases, special education services should be provided in the least restrictive
+               environment.
+
+                 Each year your child’s IEP should be developed to ensure that:
+               ■ your child’s placement is based on his or her IEP.
+               ■ your child’s placement is as close as possible to his or her home. Unless your child’s
+                 IEP requires another arrangement, your child should be educated in the school he or
+                 she would have attended if he or she did not have a disability.
+               ■ when making a decision about LRE, the Committee considers any possible harmful
+                 effect on your child or the quality of the services that he or she needs.
+               ■ your child is not removed from education in a regular classroom with other children
+                 of the same age only because the general curriculum needs to be modified.
+
+
+
+
+What happens after the IEP is developed?
+              The Board of Education is responsible for arranging for appropriate special education programs and
+              services to be provided to your child. Timelines for implementing (starting) your child’s IEP are
+              described on page 23. There may be no delay in implementing the IEP while deciding who pays for
+              the special education services. You will receive a copy of the IEP at no cost to you, and your child’s
+              teachers and service providers (who are involved in implementing the IEP) will have access to a
+              copy of the IEP. Each teacher and service provider will be informed about his or her specific respon-
+              sibilities to implement the IEP and specific accommodations, modifications and supports that must
+              be provided to your child.
+
+
+
+
+                                                     11
+Annual Review/Reevaluation
+
+How can we be sure my child’s program is meeting his or her needs?
+              At least once a year, you and other members of the Committee will review your child’s IEP. You may
+              request a meeting sooner than that. Together, you will make decisions about any necessary changes
+              to your child’s program. This is called an annual review.
+
+                                                At least once every three years, your school district will reevalu-
+                                                ate your child. This is called a reevaluation (formerly called the
+                                                triennial evaluation). A reevaluation may also occur if conditions
+                                                warrant one (for example, when a functional behavioral assess-
+                                                ment is needed as a result of disciplinary action) or if either you
+                                                or your child’s teacher requests a reevaluation. If additional data
+                                                are needed as part of this reevaluation, your school district will
+                                                ask your written consent prior to conducting these tests. A
+                                                reevaluation must be sufficient to determine your child’s individ-
+                                                ual needs, educational progress and achievement, your child’s
+                                                ability to participate in regular education classes as well as your
+                                                child’s continuing eligibility for special education services.
+
+
+
+
+                                                    12
+Your General Rights as a Parent
+
+Steps to Resolving Concerns:
+              No one knows more about your child than you do. By working together, you and the staff of the
+              school can help your child have a successful school year. If you become concerned about your
+              child’s educational programs or special education services, contact your child’s teacher immediate-
+              ly and share information about what you see. Informal meetings and phone conferences help you
+              build a partnership with the teacher and school. You may also ask for a meeting with school admin-
+                                                istrators or the CPSE or CSE to discuss your concerns about your
+                                                child's education.
+                                                 • To prepare for the meeting or phone conference, make a list
+                                                      of your questions, concerns, ideas and information about
+                                                      your child. Ask your child if there is anything that you should
+                                                      share.
+                                                 • During the meeting, discuss your list, take notes and ask to
+                                                      see examples of your child's work, for specific examples of
+                                                      classroom behavior and ways to help your child at home. If
+                                                      you do not understand something, ask for an explanation.
+                                                      Try to arrive at a mutually agreed-upon solution to any prob-
+                                                      lems or concerns.
+                                                 • After the meeting, talk with your child about the good things
+                                                      that were discussed, the problems that need to be worked on
+                                                      and the steps that will be taken to help your child. Keep work-
+                                                      ing with your child’s teacher and if necessary, ask for a fol-
+                                                      low-up meeting or phone conference.
+
+                                                We encourage you to be an active member of your child’s educa-
+                                                tional planning. We know that children benefit more from their
+                                                education if their parents are involved and well informed. As a
+                                                team member, you need to understand the special education
+                                                process, your rights, and how to become involved in your child’s
+                                                program. Now that you are familiar with the special education
+                                                process, you will want to know more about your rights and pro-
+                                                tections under law and regulations.
+
+              You must be given opportunities to participate in the discussion and decision making process about
+              your child’s need for special education. You will receive notice at least five school days before meet-
+              ings of the CSE or CPSE inviting you to participate in the development of the recommendations for
+              your child’s educational program.
+
+
+
+
+                                                      13
+You have legal due process rights under Federal and State laws to be involved and make sure that
+your child receives an appropriate education:
+    • You must receive written notice several times during the process of identifying, evaluating,
+        placing your child and providing your child with special education services and/or pro-
+        grams. If your district refuses to do any of these things, you must be notified. See pages
+        19-21 of this document for more information.
+    • Certain actions may not be carried out without your written consent. See page 18 of this
+        document for more information.
+    • If you disagree with decisions made by the Committee, you may ask for meetings, media-
+        tion and/or impartial hearings to resolve (settle) disagreements between you and your school
+        district about your child’s evaluations, identification (classification), placement or education-
+        al program (the provision of a free appropriate public education). See pages 24-31 of this
+        document for more information.
+
+
+
+
+                                         14
+Your Child’s Educational Records
+
+         You have the right to ask for and read records about your child unless the district has been legally
+         notified in writing that your rights as a parent have been terminated or otherwise limited by a court
+         order. Upon your request, the school district must make your child’s records available to you:
+             1. within a reasonable time.
+             2. in no case more than 45 calendar days after you ask.
+             3. before any meeting about your child’s individualized education program (IEP).
+             4. before any due process hearing about your child’s special education needs.
+
+         You have the right to ask for and receive explanations and interpretations of the records from your
+         school district. You may also ask to receive copies of your child’s educational records if that is the
+         only way that you can inspect and review the records. The school district may charge a reasonable
+         cost for copies of the records. However, if you cannot afford the fee, you still have the right to review
+         and receive the records. You may also have your representative inspect and review the records.
+         When you have questions about your child’s records, you have the right to:
+             1. ask for and read records about your child.
+             2. ask for and receive explanations and interpretations of the records from your school dis-
+                  trict.
+             3. have a person you choose read your child’s records.
+             4. ask for and receive copies of education records. The school district may charge a reason-
+                  able cost for copies of records, unless the cost would effectively prevent you from inspect-
+                  ing or reviewing those records. Costs for searching or getting information are not allowed.
+             5. read only the information about your child. You may not read any information about other
+                  children.
+             6. ask for and receive a list of the educational records held and used by the school district, and
+                  to know where the records are kept.
+             7. be told by the school district when information about your child is no longer needed to pro-
+                  vide educational services to your child. Information that is no longer needed must be
+                  destroyed at your request.
+             8. know that a permanent record of your child’s name, address, telephone number, grades,
+                  attendance, classes attended, grade level completed and year completed may be kept for-
+                  ever. Records may be needed for other purposes such as obtaining social security benefits.
+
+         The rights of parents concerning education records are given to the student at age 18 unless you
+         have obtained guardianship.
+
+         Your rights to change educational records include the right to:
+            1. ask the school district to amend (change) information if you believe it is wrong, misleading
+                 or violates (harms) the privacy or other rights of your child.
+            2. receive a decision about your request to change your child’s records within a reasonable
+                 period of time from the date the school district receives your request.
+
+                                                  15
+    3. be told if the district will not change the information as you requested and be advised of
+       your right to a hearing. In this case, you must ask for a hearing from your school district to
+       change information in your child’s education records if the school district refuses to do so.
+       This request must be in writing. (This should not be confused with an impartial hearing as
+       explained starting on page 25).
+    4. request a hearing conducted (run) by any person who does not have a direct interest in the
+       hearing. This could be a school official.
+    5. be notified (told) in writing if the hearing officer decides to change your child’s educational
+       record. If the hearing officer decides that the records do not need to be changed, you must
+       be notified in writing.
+           • This notice must tell you of your right to put a written statement (note) in your
+                child’s records to explain the information or give reasons why you disagree with the
+                decision.
+           • Any written note of explanation you place in the records of your child must be kept
+                by the school district as part of your child’s records.
+           • If the school district gives a copy of your child’s records or the disagreed part to
+                any person, your written note must also be given to that person.
+
+Personal information about your child may not be released without your consent unless it is:
+    1. given to school officials or teachers with a legitimate educational interest, State and local
+       educational authorities, or certain individuals designated under Federal Law.
+    2. used to meet a requirement under Federal Law.
+
+Personal information includes the following information:
+    1. the name of your child, your name, or the names of other family members.
+    2. the home address of your child.
+    3. personal information, such as your child’s social security number.
+    4. a description that would make it possible to identify your child.
+
+
+
+
+                                       16
+Evaluations
+
+Individual evaluation
+             An individual evaluation means any procedures, tests, or assessments, including observations,
+             given individually to your child to find out whether he or she has a disability and/or to identify his or
+             her special education needs. The term does not include basic tests given to groups of children in a
+             school, grade or class.
+
+             The results of the evaluation must be shared with you. When the CSE or CPSE has conducted an
+             evaluation for determining your child’s eligibility for special education, you must be provided a copy
+             of the evaluation report and documentation of determination of eligibility. In addition, if you are the
+             parent of a preschool child, the CPSE must also give you a copy of the summary report of the find-
+             ings of the evaluation. For more information about evaluations, see pages 4-5.
+
+Independent educational evaluation
+             An independent educational evaluation (IEE) of your child means a procedure, test or assessment
+             done by a qualified examiner who does not work for the school district or other public agency
+             responsible for the child’s education. You may get an IEE at district expense if you disagree with the
+             evaluation arranged for by the school district. "At district expense" means that the school district
+             pays for the full cost of the test.
+
+             If you ask the school district to pay for the IEE, the school district may ask, but not require, you to
+             explain the reason why you object to the district’s evaluation. The school district may not unrea-
+             sonably delay either providing the IEE or initiating an impartial hearing to defend the district’s own
+             evaluation.
+
+             You have the right to:
+                1. get an IEE of your child.
+                2 have the IEE be at district expense if you disagree with the district’s evaluation. If you ask
+                    for the IEE to be at district expense, the school district may ask for an impartial hearing to
+                    show that its evaluation is appropriate. If the impartial hearing officer finds that the district
+                    evaluation is appropriate, you have the right to obtain and submit an IEE to the CSE or
+                    CPSE, but the district does not have to pay for it.
+                3 receive information about where an IEE may be obtained, the school district’s criteria under
+                    which the evaluation is obtained (including the location of the evaluation and the qualifica-
+                    tions of the evaluator), and any district criteria regarding the reimbursement of IEE, when
+                    you ask your school district to pay for an independent educational evaluation.
+                4 have an IEE at public expense if the impartial hearing officer asks for this evaluation as part
+                    of an impartial hearing.
+                5 have the results of an IEE considered by the Committee as part of its review and in the devel-
+                    opment of your child’s IEP. The results of the IEE can be used as evidence at an impartial
+                    hearing regarding your child.
+
+                                                      17
+Notice and Parent Consent
+
+             There are many times when the school district must notify (tell) you in writing of its proposed
+             (planned) action and ask for your written consent (permission) to carry out this action.
+
+Consent means that:
+
+             1. you have been informed in the language you speak, or other kind of communication that you
+                understand, of all the information about the activity for which your permission is asked.
+             2. you understand and agree in writing to the activity for which your permission is needed.
+             3. your permission is given freely and may be withdrawn at any time. However, if you withdraw
+                your consent, it is not retroactive (it will not apply to actions already taken by the district).
+
+Your consent will be requested when:
+
+             1. your child will be evaluated for the first time by the Committee to decide if he or she has a dis-
+                ability and needs special education.
+             2. your child is recommended to receive special education services and programs for the first time.
+             3. your child is recommended to receive twelve-month special education services (programs dur-
+                ing July and August) for the first time.
+             4. your child will be reevaluated.
+             5. the school district proposes to use your private insurance. In this case, you must be notified
+                that if you refuse to allow the school district to access (use) your private insurance, the district
+                is still responsible to provide all required services at no cost to you.
+             6. another agency other than a school requests to review records about your child. The request for
+                consent will include information about the records that will be released and to whom they will
+                be given.
+
+Your consent is not required:
+
+             1. before reviewing existing data (information) as part of an initial evaluation or a reevaluation.
+             2. administering (giving) a test or other evaluation that is given to all students (unless parents of
+                all students must give consent before the test is given).
+             3. to conduct a reevaluation if the school district can show that it has taken reasonable measures
+                to get your consent, and you did not respond.
+
+             If you, as a parent of a school-age child, do not provide consent for an initial evaluation, the district
+             will inform you that you may ask for an informal meeting with the school district to discuss the eval-
+             uation. You may ask questions about the evaluation and may bring someone to advise you to the
+             meeting. At that meeting, you will meet with the person who made the initial referral for special edu-
+             cation and someone who is most familiar with the evaluation. If at the meeting, you and the person
+
+
+
+                                                      18
+               who made the referral agree in writing that there is no need for a referral, the referral will be with-
+               drawn. If, within 30 calendar days after the referral is received, you and the school district do not
+               agree to withdraw the referral and you continue to refuse consent, the district must initiate (start)
+               an impartial hearing to decide whether to conduct the evaluation.
+
+               For preschool children, the district will take steps to make sure that you have received and under-
+               stand the request for consent. If you, as a parent of a preschool child, do not provide consent for
+               the evaluation, the district will not take any further action on the referral.
+
+Notice
+               As a parent of a child with a disability or suspected disability, you will receive notices to tell you
+               about proposed special education services, meetings and your rights. There are three kinds of
+               notices that you will receive at various times throughout the special education process.
+                   • prior notice.
+                   • notice of meetings.
+                   • procedural safeguards notice.
+
+               Notice is a written statement provided to you in the language you speak or other kind of communi-
+               cation that you understand unless it is clearly not possible to do so. If the language you speak at
+               home (your native language) or other kind of communication you understand is not a written lan-
+               guage, the district must take steps to make sure that the notice is translated orally or by other means
+               (such as sign language) so that you understand the notice. You have the right to ask for an inter-
+               preter, translator or reader for the meetings. The school district must keep written records that these
+               steps have been taken.
+
+Prior Notice
+               Prior notice is written notice that is given to you a reasonable time before the school district propos-
+               es to or refuses to start or change the identification, evaluation or educational placement or the provi-
+               sion of a free appropriate education to your child. It must be provided to you in the language you speak
+               or other kind of communication that you understand unless it is clearly not possible to do so.
+
+               Prior notice must include:
+                   1. a description of the action offered or refused by the CSE or CPSE.
+                   2. an explanation of why the school district will or will not take action.
+                   3. a description of any other options (choices) the school district considered and the reasons
+                       why those choices were refused.
+                   4. a description of each evaluation, procedure, test, record or report the school district used
+                       as a reason to offer or refuse an action.
+                   5. a description of any other factors that are relevant to the district’s decision.
+                   6. a statement that you have protection under the law. This legal protection is called proce-
+                       dural safeguards and they are listed in procedural safeguards notice. If the procedural safe-
+                       guards notice is not included with the prior notice, the prior notice will describe the ways
+                       you can obtain (get) a copy of a description of the procedural safeguards.
+                   7. sources for you to contact to get assistance in understanding the special education process
+                       and your rights.
+
+
+
+
+                                                        19
+             If the prior notice relates to an action by the school district that requires your consent (see pages
+             18-19), the district will give you notice at the same time they request your consent. You should also
+             receive prior notice before your child graduates from high school with a local or Regents diploma
+             or before he or she receives an Individualized Education Program (IEP) diploma.
+
+Notice of Meetings
+             Whenever the Committee proposes to conduct a meeting to develop or review your child’s IEP or to
+             discuss the provision of a free appropriate public education to your child, you must receive a meet-
+             ing notice. It must be provided to you in the language you speak or other kind of communication
+             that you understand, unless it is clearly not possible to do so. You must receive a written meeting
+             notice at least five days before the meeting unless you and the school district agree to meet within
+             five days or in certain meetings relating to discipline procedures. If the proposed meeting time or
+             place is not good for you, you may call the school district to ask for a change that is good for both
+             of you.
+
+             If you are unable to attend the meeting, the district can use other ways to encourage your partici-
+             pation. They may call you before a meeting occurs to talk about evaluation results and ask you for
+             information, or they may ask you to participate in the meeting by telephone.
+
+             Meeting notice must include:
+                1. the purpose of the meeting and the date, time, location and names and titles of the persons
+                    expected to attend the meeting.
+                2. a statement that you have the right to participate as a member of the Committee.
+                3. a statement telling you that you may bring anyone to the meeting who has knowledge or
+                    special expertise about your child.
+                4. a statement of your right to ask the school physician to be at the meeting of the CSE (This
+                    does not apply to parents of preschool children.) You must do this in writing at least 72
+                    hours before the meeting.
+                5. a statement that you may request in writing that the additional parent member of the
+                    Committee not participate in the meeting of the Committee.
+                6. if the meeting is a Subcommittee meeting, a statement that you may make a written request
+                    to the full Committee if you disagree with the recommendation of a Subcommittee.
+                7. for students for whom a meeting will be held to consider transition services, a statement
+                    that indicates the purpose of the meeting and that the student will be invited and lists any
+                    other agencies that will be invited to send a representative.
+                8. for preschool students, a statement that you have the opportunity to address the Preschool
+                    Committee in writing or in person.
+
+             School district staff may have informal or unscheduled conversations about issues such as teach-
+             ing methodology, lesson planning or coordinating your child’s services if those issues are not
+             addressed on the IEP. They may also work together to prepare for the meeting. These activities are
+             not considered “meetings” for which the school is required to send you a “meeting notice.”
+
+Procedural Safeguards Notice
+             Procedural safeguards notice provides a full explanation of all your legal rights under law. The
+             school district must make sure that the procedural safeguards notice is provided to you in the lan-
+             guage you speak or other kind of communication that you understand, unless clearly not feasible to
+
+
+                                                    20
+do so. If necessary, the district must take steps to make sure that the notice is translated orally or
+by other means so that you understand the notice. The school district must keep written records
+that these steps have been taken.
+
+Procedural safeguards notice is provided:
+    • upon initial referral for evaluation of your child.
+    • with each notice of a CSE or CPSE meeting.
+    • upon reevaluation of your child.
+    • when the district receives a letter from you requesting an impartial hearing.
+    • when a decision is made to suspend or remove your child for discipline reasons that would
+       result in a disciplinary change in placement.
+
+Procedural safeguards notice includes information about:
+    1. independent educational evaluations (page 17).
+    2. prior written notice (page 19).
+    3. notice of meetings (page 20).
+    4. parental consent (page 18).
+    5. access to educational records (page 15).
+    6. opportunities to present complaints to initiate due process hearings (page 30).
+    7. the student’s’ pendency (where he or she will receive services) during due process pro-
+        ceedings (page 29).
+    8. procedures for students who are subject to placement in interim alternative educational set-
+        tings (page 30).
+    9. requirements for unilateral placement by parents of students in private schools at public
+        expense (page 22).
+    10. mediation (page 24).
+    11. due process hearings, including requirements for sharing evaluation results and recom-
+        mendations (page 25).
+    12. State-level appeals (page 28).
+    13. civil actions (page 29).
+    14. attorney’s fees (page 30).
+    15. State complaint procedures, including information about how to file a complaint and time-
+        lines (page 30).
+    16. the parents’ right to receive information upon request about getting free or low-cost legal
+        and other services (page 26).
+    17. for preschool students, procedural safeguards notice will indicate that, if parents do not
+        provide consent for initial evaluation or initial provision of special education services, no
+        further action will be taken by the district until the parent does provide consent.
+
+
+
+
+                                       21
+Reimbursement for Placement Made by Parents
+in a Private School if the District Fails to Make a Free and
+Appropriate Public Education Available to the Child
+
+         A school district is not required to pay for the cost of education of your child at a private school or
+         facility if the school district has made a free and appropriate public education (FAPE) available to
+         your child. However, if you place your child in a private school because you and the school district
+         disagree that an appropriate program has been made available for your child, you have the right to
+         request an impartial hearing to seek reimbursement for the private school placement.
+              1. If you are the parent of a child who previously received a special education program and/or
+                    services through the school district and you place your child in a private school without the
+                    consent or referral of the school district, you may be entitled to reimbursement for the cost
+                    of the private placement if you can prove at an impartial hearing or State-level or court
+                    appeal that:
+                      • the school district did not provide your child with a free appropriate public education
+                          in a timely manner prior to that enrollment in private school and
+                      • the private placement is appropriate to meet your child’s educational needs. A hear-
+                          ing officer or court may find that a parental placement is appropriate even if it does
+                          not meet the State standards that apply to education programs provided by the school
+                          district or the State.
+              2. Your reimbursement may be denied or reduced if you do not:
+                      • inform the school district at the most recent CSE or CPSE meeting you attend that
+                          you are rejecting the placement proposed by the school district and state your con-
+                          cerns and that you will be placing your child at a private school at public expense, or
+                      • provide the school district with written notice at least ten business days (including any
+                          holidays that occur on a business day) prior to removing your child from the public
+                          school. However, the cost of reimbursement may not be reduced or denied because
+                          you did not give this notice if you are unable to read and cannot write in English; or if
+                          providing notice would likely result in physical or serious emotional harm to your
+                          child; or if the school prevented you from providing the notice; or if you did not receive
+                          the procedural safeguards notice that tells you about this requirement, then the cost
+                          of reimbursement may not be reduced or denied because you did not give this notice.
+              3. If the school district gave you written notice prior to your removing your child from public
+                    school that it wants to evaluate your child, you must make your child available for the eval-
+                    uation. If you refuse to make your child available, any request for tuition reimbursement
+                    may be reduced or denied.
+              4. If you do not inform the school district or make your child available for the evaluation, or if
+                    there are other unreasonable actions on your part, an impartial hearing officer or court may
+                    reduce or deny the reimbursement of costs of the private school for your child.
+
+
+
+
+                                                  22
+Timelines
+
+School-Age Timelines
+             A. Initial Evaluation
+                              If your child is being evaluated for the first time to decide whether he or she has
+                              a disability, the Board of Education must arrange for appropriate special education
+                              programs and services within 60 school days of receiving your consent to evalu-
+                              ate your child. If the recommendation is for placement in an approved in-State or
+                              out-of-State private school, then the Board of Education will arrange for such pro-
+                              grams and services within 30 school days of the Board receipt of the recommen-
+                              dation from the Committee.
+
+                              B. Review
+                              If your child is a child with a disability whose special education programs and
+                              services are being reviewed, the Board of Education must arrange for appropriate
+                              special education programs and services within 60 school days of the referral for
+                              review. The referral for review means the projected date of review as noted on your
+                              child’s IEP or the date of the request for such review by you, your child’s teacher
+                              or another appropriate individual. If the recommendation is for placement in an
+                              approved in-State or out-of-State private school, then the Board of Education will
+                              arrange for such programs and services within 30 school days of the Board receipt
+                              of the recommendation from the Committee.
+
+
+Preschool Timelines
+             A. Initial Evaluation
+             If your preschool child is being evaluated for the first time to decide whether he or she has a dis-
+             ability, the CPSE must provide a recommendation to the Board of Education within 30 school days
+             of the date the district received your consent for evaluation.
+
+             B. Receiving Special Education Services
+             The Board of Education must arrange for the preschool student with a disability to receive the rec-
+             ommended special education services or programs starting with the July, September or January
+             starting date of those approved programs or no later than 30 school days from the date the CPSE
+             made its recommendation.
+
+
+             ______
+             Note: There may be no delay in implementing a preschool or school-age student’s IEP, including any
+             case in which the payment source for providing or paying for special education is being determined.
+
+
+
+
+                                                    23
+Due Process Rights
+
+A. Informal discussions
+             If you have concerns about your child’s educational program, discuss these concerns with appro-
+             priate staff at the school district. If you disagree with evaluation results or other proposed actions
+             of the Committee, such as the recommendation, placement or implementation of the program, you
+             should express your disagreement and dissatisfaction. By clearly sharing your concerns and the rea-
+             sons for your concerns, you are making sure that the other members of the Committee understand
+             your point of view. Try to work out differences informally with your school district as soon as they
+             happen.
+
+             Ask for a meeting to talk in person or schedule a phone conference to discuss your concerns with
+             (a) your child’s teacher(s) and/or related service provider(s), (b) principal or assistant principal, (c)
+             Chairperson of the CSE or CPSE or (d) Instructional Support Team. Write down what was discussed
+             at the meeting, staff present and steps identified to resolve your concerns. If necessary, request a
+             follow-up meeting within a reasonable amount of time to revisit your concerns and to ensure that
+             the steps identified above were implemented as planned. If it is not possible to resolve disagree-
+             ments informally, mediation is a good method to work differences out in a timely way. You also have
+             the right to request an impartial hearing.
+
+
+B. Special education mediation
+             Special education mediation is a voluntary process for you and the school district to work out dis-
+             agreements about the recommendations of the CSE or CPSE. All school districts must offer media-
+             tion to parents. You and a person chosen by the Board of Education meet with a qualified and impar-
+             tial mediator from the Community Dispute Resolution Center (CDRC) in your county who helps in
+             reaching an agreement about the recommendation for your child.
+
+             If you decide to use mediation, you must ask for it by writing to the Board of Education (see form
+             on page 35). If you decide not to use mediation, someone may call you from the CDRC to talk about
+             the benefits of mediation, but this cannot deny or delay your rights to an impartial hearing. Any
+             agreement reached by the parties is set forth in a written mediation agreement. The CSE or CPSE
+             must immediately meet to amend your child’s IEP to be consistent with the mediation agreement.
+             Mediation is at no cost to you or the school district.
+
+             You have the right to:
+                1. mediation run by a qualified and impartial mediator from a Community Dispute Resolution
+                    Center.
+                2. mediation held in a timely manner and at a place that is good for you and the school dis-
+                    trict.
+                3. have any agreements made during mediation written down. Written agreements may be
+                    presented as part of the record at an impartial hearing.
+
+
+
+                                                      24
+                 4. have discussions that occur during the mediation process be confidential and not used as
+                    evidence in any impartial hearing or civil proceedings. Parties to the mediation process may
+                    be required to sign a confidentiality pledge before starting the mediation.
+                 5. request an impartial hearing at any time.
+
+
+
+                                                      Benefits of Mediation
+                   Unlike an impartial hearing where the hearing officer makes the final determination as to what is appro-
+              priate for your child, a mediator assists you and the district to reach a mutually agreeable determination.
+              By asking questions and discussing information with you and the school district representative, the medi-
+              ator helps both parties to have a more complete understanding of each others concerns and reach an
+              agreement about your child’s special education program in a cooperative and timely manner. Of the 375
+              special education mediation sessions that took place in New York State during 2000-2001, 91% resulted
+              in agreement.
+
+                  The following comments were made by school district representatives and parents after participating
+              in mediation.
+
+                  Parent/Parent Representative Comments
+                  • At one point I felt pressured by the school district and expressed my concern. I was told I would
+                      have as much time as needed to talk and this came true.
+                  • I was pleased and surprised by the results. I also felt that how the mediation was explained and
+                      handled made me, as parent, feel more comfortable.
+                  • I didn’t expect everything to go as well as it did from past experiences. But, I think everyone that
+                      has differences should try mediation.
+                  • This is a peaceful way to resolve issues of any kind.
+                  • The mediation process was very helpful in resolving the difficulties between the school district and
+                      the child’s services team. The district was far more sensitive to our concerns once the mediation
+                      was involved. Thank you.
+                  School District Representative Comments
+                  • It was handled calmly and professionally. It allowed all parties to “air” their concerns on neutral
+                      grounds. Results were positive and achieved in one session. Both parties were willing participants
+                      and interested in finding a solution.
+                  • The experience was pleasant, efficient and all parties were satisfied.
+                  • It helped resolve an issue that could not be resolved at a CSE meeting. It avoided the need for a
+                      costly impartial hearing.
+
+
+
+
+C. Impartial due process hearings
+
+             An impartial hearing is a formal proceeding in which disagreements between you and the school dis-
+             trict are decided by an impartial hearing officer (see Section G) appointed by the Board of Education.
+             A parent or a school district may initiate a hearing on matters relating to the identification, evalua-
+             tion or educational placement of a student with a disability, or the provision of a free appropriate
+             public education to the child.
+                  1. Your request for an impartial hearing must be made in writing to the Board of Education.*
+
+             ______
+             * See page 35 for a copy of a form that may be used to request an impartial hearing or mediation.
+
+                                                        25
+    2. Your written request needs to:
+       • describe the facts relating to your concerns
+       • describe a proposed solution.
+       • state your child’s name and address.
+       • name the school your child attends.
+    3 If you do not give the information stated above, it may result in a reduction of an award of
+       attorneys’ fees by a court. However, the school district may not deny or delay your right to
+       an impartial hearing if you do not provide that information.
+    4. For three- and four-year-old children, the school district may not begin a hearing if you
+       refuse to give consent to initial evaluation or the initial provision of special education to your
+       child. If you do not give consent for an individual evaluation, the CPSE will implement the
+       district’s practices and procedures to make sure that you have received and understand the
+       request for consent for evaluation of your child but the district may not go to a hearing to
+       obtain consent. In addition, if you do not consent to an initial evaluation, you must be noti-
+       fied that you can ask for an informal conference where you can ask questions about the pro-
+       posed evaluation. If you do not provide consent for the initial evaluation or the initial provi-
+       sion of special education services, no further action will be taken by the CPSE until such
+       consent is obtained.
+    5. The impartial hearing is at no cost to you. You may have to pay your own attorneys’ fees. If
+       requested by you, the school district must provide you with information on free or low-cost
+       legal and other relevant services. If a hearing officer requests an independent educational
+       evaluation as part of the hearing, the cost of the evaluation must be at public expense. Also,
+       see page 30 for information about attorneys’ fees.
+    6. The decision of the hearing officer will be based only on recorded information presented at
+       the hearing and will provide the reasons and facts for the decision. The decision will be
+       binding (final) unless you or the school district appeal to the State Review Officer.
+
+At an impartial due process hearing, you have the right to:
+    1. have and be advised by an attorney and/or by individuals with special knowledge or train-
+        ing about the education of students with disabilities.
+    2. present evidence and testimony, and question, cross-examine and require the attendance of
+        witnesses.
+    3. receive evidence, including evaluations and recommendations, at least five business days
+        before the hearing (or three business days in the case of an expedited due process hearing)
+        and to stop such information from being presented that was not exchanged between both
+        parties on time.
+    4. receive, at your option, a written or electronic word-for-word record of the hearing and
+        word-for-word findings of fact and the decision of the IHO.
+    5. have the hearing open to the public.
+    6. have your child present during the hearing.
+    7. have an interpreter for the deaf or an interpreter fluent in your native language (the language
+        normally used by you), if necessary, at no cost to you.
+    8. have an impartial hearing conducted at a time and place that is reasonably convenient for
+        you and your child.
+    9. receive an expedited due process hearing for certain disciplinary decisions.
+
+
+
+
+                                        26
+Timelines and location of impartial hearings
+   1. The rotational process to select the IHO must begin immediately, but not later than two busi-
+        ness days, when the school receives your written request for an impartial hearing.
+   2. The IHO must be available to initiate the hearing within 14 days.
+   3. The findings of fact and decision of an IHO in an impartial hearing must be issued no later
+        than 45 calendar days after the receipt of a request for a hearing for a school-age child, or
+        30 calendar days for a preschool child. However, the IHO may extend the time for a specif-
+        ic period at the request of you or the school district. If an extension has been granted, the
+        findings of fact and decision must be issued no later than 14 days from the date the record
+        is closed including any post hearing submissions and the transcript is received.
+   4. The decision of an IHO in an expedited due process hearing for discipline purposes must be
+        completed within 15 business days after the receipt of the request for the hearing, provid-
+        ed that the IHO may grant specific extensions at your or the school district’s request. The
+        IHO must mail a copy of the written or, at your option, electronic findings of fact and the
+        decision to the parties within five business days after the last hearing date, but in no event
+        later than 45 calendar days after receipt of the request, without exceptions or extensions.
+   5. You have the right to have an impartial hearing conducted at a time and place that is rea-
+        sonably convenient for you and your child.
+
+                            Impartial hearing officer
+                            An impartial hearing officer must be an individual certified by the
+                            Commissioner of Education to conduct impartial hearings. An impar-
+                            tial hearing officer must be selected on a rotational basis from a list
+                            maintained by the school district that includes their names and state-
+                            ment of qualifications. The impartial hearing officer makes sure that
+                            procedures at the hearing meet due process requirements. Impartial
+                            hearing officers cannot:
+                               1. be employees, agents or officers of the school district or of the
+                                   Board of Cooperative Educational Services (BOCES) of which
+                                   your school district is a member.
+                               2. be an employee of the State Education Department or be an
+                                   employee of a public agency that has ties to the education or
+                                   care of your child.
+                               3. be employed by a school district, school or program serving
+                                   students with disabilities placed by a school district Committee.
+                                   An individual employed by such schools or programs may not
+                                   serve as an impartial hearing officer for two years following the
+                                   end of his or her employment.
+                               4. have an interest that would make it difficult for him or her to be
+                                   fair in the impartial hearing.
+                               5. have been involved in the development of the recommendation
+                                   to be reviewed.
+If you have a complaint about the conduct or competence of an IHO, you may send a signed writ-
+ten statement and supporting documentation to the State Education Department.
+
+
+
+
+                                       27
+D. Guardian ad litem
+             A guardian ad litem is someone who must be appointed by an impartial hearing officer if the hear-
+             ing officer decides:
+                 • your interests are not the same as or are in conflict with those of your child.
+                 • the interests of your child would be best protected by someone else.
+
+             An impartial hearing officer may assign a guardian ad litem to participate fully in the impartial hear-
+             ing for your child unless a surrogate parent has already been appointed. A guardian ad litem is
+             appointed from the list of surrogate parents or is a pro bono attorney (an attorney who takes cases
+             at no cost). In the event a guardian ad litem is assigned, the impartial hearing officer must make
+             sure that your due process rights are protected throughout the hearing.
+
+
+E. Surrogate parents
+             Each school district must try every reasonable way to notify the parents of the child who has been
+             referred or is in need of special education and related services. The Board of Education must appoint
+             a surrogate parent to speak for the child from the list of surrogate parents kept by the Board if:
+                 • the school district, after reasonable efforts, cannot find the parent.
+                 • the child’s parents or guardian are not known.
+                 • the child is a ward of the State.
+
+             The person selected as a surrogate parent:
+                 • can represent (speak for) the child in all matters about the identification, evaluation, educa-
+                     tional placement and the provision of a free appropriate public education to the child.
+                 • must have the knowledge and skills to represent (speak for) the child.
+                 • cannot have any interests which conflict with the interests of the child he or she represents.
+                 • cannot be an officer, agent or employee of the school district, the State Education
+                     Department or the agency which is involved in the education or care of the child.
+                 • may be an employee of a nonpublic agency that only provides non-educational care for the
+                     child.
+                 • may be the foster parent of the child who meets the above qualifications. A foster parent
+                     does not have to be on a list approved by the Board of Education.
+
+             The person is not an employee of the agency just because he or she is paid by the agency to serve
+             as a surrogate parent.
+
+
+F. State-Level Appeal of Impartial Hearing Officer Decisions
+             The decision made by the impartial hearing officer is final (must be followed by you and the school
+             district) unless you or the school district ask for a review of the decision of the impartial hearing
+             officer (called an appeal) by the State Review Officer. An appeal must be in writing and be received
+             by the State Review Officer within 30 calendar days after you and the school district receive the deci-
+             sion of the impartial hearing officer. Procedures and timelines for submitting an appeal are specific
+             and must be followed exactly to avoid delay or dismissal. Parents may seek the help of an attorney
+             or advocate to file an appeal.
+
+
+
+
+                                                     28
+             The State Review Officer must:
+                 1. make sure that steps taken at the hearing agree with due process requirements.
+                 2. obtain additional spoken testimony or written evidence, if necessary.
+                 3. direct that spoken argument be heard if the State Review Officer decides that such argu-
+                     ment is necessary. If a hearing is held, all the parent rights listed under impartial hearings
+                     continue. A review involving spoken testimony and/or written evidence (at the discretion of
+                     the State Review Officer) must be held at a time and place that is reasonably convenient to
+                     the involved parties.
+                 4. make an independent decision after a complete review of the hearing record.
+                 5. make a final decision within 30 calendar days after receiving the request for a review. The
+                     State Review Officer may extend the time beyond the 30 days at the request of you or the
+                     school district. The extension must be for a specific time. The reason for the extension must
+                     be included in the record.
+                 6. mail copies of the written or, at your option, electronic findings of fact and decision to you
+                     or your attorney and the Board of Education within the 30-day period.
+
+
+G. Court Appeal of State Review Officer Decision
+             The decision of the State Review Officer is final unless either you or the school district seek review
+             of the State Review Officer’s decision in either State Supreme Court or Federal District Courts with-
+             in four months from the date of the State Review officer’s decision.
+
+
+H. Pendency: The student’s placement during due process hearings.
+             During any hearing or appeal, your child will remain in his or her current educational placement. This
+             is sometimes referred to as “pendency”, “stay-put” or “status quo.”
+                  1. Preschool child
+                     Your preschool child will stay in his or her current placement during any hearing or appeal,
+                     unless you and the school district agree in writing to other arrangements.
+                     A child who has received early intervention services and is now of preschool age may, dur-
+                     ing hearings and appeals, receive special education in the same program as the early inter-
+                     vention program if that program is also an approved preschool program.
+                     If your preschool child is currently not receiving special education services and programs,
+                     he or she may, during any hearings or appeals, receive special education services and pro-
+                     grams if you and the school district agree.
+
+                 2. School-age child
+                    During any hearing or appeal, your school-age child will stay in the school placement he or
+                    she is in now, unless you and the school district agree in writing to other arrangements.
+                    If the disagreement involves initial admission to public school, you have the right to have
+                    your school-age child placed in a public school program with your consent until all pro-
+                    ceedings are over.
+                    If the due process proceeding concerns consent for an initial evaluation, your child will not
+                    be evaluated while the proceeding is pending.
+                    A child who received preschool special education services and is now school-age may, dur-
+                    ing hearings and appeals, remain in the same program as the preschool program if that
+                    program also has an approved school-age special education program.
+
+                                                    29
+                  3. Court Appeal of State Review Officer Decision
+                     If you or the school district is appealing a decision of a State Review Officer to a court, pen-
+                     dency is as follows:
+                     If a State Review Officer issues a placement decision that agrees with the parents, penden-
+                     cy during any subsequent appeal to a court is the placement decided by the State Review
+                     Officer.
+                     If the State Review Officer issues a placement decision that agrees with the school district,
+                     pendency during any subsequent appeal to a court is your child’s current educational place-
+                     ment.
+
+                  4. Interim alternative educational setting (IAES) for discipline purposes
+                     If your child is receiving services in an IAES for discipline purposes, he or she must remain
+                     in that IAES until an impartial hearing officer makes a determination about placement or
+                     until the end of the time period of the removal (but not more than 45 calendar days),
+                     whichever occurs first, unless you and the school district otherwise agree.
+                     • However, if the Committee proposes to change the placement at the end of the IAES and
+                          you challenge the proposed change in placement, after the term of the IAES expires,
+                          pendency for your child will be the current educational placement (placement prior to
+                          removal to the IAES).
+                     • A hearing officer may place your child in an IAES again because the school district
+                          believes that it is dangerous for the student to stay in his or her current educational
+                          placement.
+
+I. Attorneys’ fees
+              A court may award reasonable attorneys’ fees to the parents or guardian of a child with a disability
+              if they are the party who wins the hearing.
+              Attorneys’ fees may be lowered if you unreasonably delay an agreement or a decision in the case; if
+              the fees, time spent or services of your attorney exceed reasonable rates; or if you failed to provide
+              the information required (on the sample form on page 35) in your request for a hearing. However,
+              attorneys’ fees will not be reduced if a court finds that the State or school district unreasonably
+              delayed the final resolution of the action or proceeding or there was a violation of your child’s due
+              process rights. Attorneys’ fees may not be awarded:
+                   • relating to any meeting of the CSE or CPSE unless the meeting is held as a result of an
+                       administrative proceeding or court action.
+                   • for mediation that is conducted prior to the filing of a request for an impartial hearing.
+                   • if a written offer of settlement is made by the school district within ten calendar days prior
+                       to the proceeding, you do not accept the offer within ten calendar days and the court or
+                       hearing officer finds that the decision is not more favorable to the parents than the offer of
+                       settlement.
+
+J. Opportunity to present complaints
+              You have the right to submit a written complaint to the New York State Education Department if you
+              believe that your school district has violated procedures under State or Federal special education
+              laws and regulations. Your complaint must include a statement that the school district has violated
+              special education laws or regulations and include the facts on which you base your statement. The
+              alleged violation must have occurred not more than one year prior to the date of the complaint:
+
+
+
+
+                                                      30
+    •   unless a longer period is necessary because the alleged violation is continuing; or
+    •   the complaint is requesting compensation services. This only applies to alleged violations
+        that occurred not more than three years prior to the date of the written complaint.
+
+You must send the original signed written complaint to:
+      Coordinator, Statewide Special Education Quality Assurance
+      Office of Vocational and Educational Services for Individuals with Disabilities
+      One Commerce Plaza, Room 1624
+      Albany, New York, 12234
+
+You will receive a letter stating that your complaint has been received and telling you about your
+right to submit additional information about the complaint either orally or in writing.
+
+Your complaint will be investigated. A determination must be made within 60 calendar days of when
+your complaint was received unless exceptional circumstances exist with respect to a specific com-
+plaint. You will receive a written, final decision that addresses each claim you raise and contains the
+findings of fact, and the reasons for the final decision. Any part of the complaint that is currently
+being addressed in an impartial hearing cannot be investigated.
+
+
+
+
+                                        31
+Disciplinary Procedures
+
+         The procedures for the discipline of students with disabilities must be in accordance with section
+         3214 of the Education Law and Part 201 of the Regulations of the Commissioner of Education. While
+         the school has the authority to suspend or remove your child for violating the school’s code of con-
+         duct, you and your child have certain rights throughout the process.
+
+         You have the right:
+            1. to be notified immediately by telephone, if possible, and to receive written notice within 24
+                hours of a proposed suspension of five school days or less. The notice should describe the
+                incident, proposed suspension and your child’s rights. You also have the right to request an
+                informal conference with the school principal prior to the suspension unless your child’s
+                presence in school poses a danger.
+            2. to receive written notice of your opportunity for a superintendent’s hearing, if the suspen-
+                sion is for more than five consecutive school days, which describes your child’s rights to
+                counsel and to question and present witnesses.
+            3. for your child to receive alternative instruction during the first ten days of any suspension
+                or removal to the same extent as nondisabled students, if your child is of compulsory
+                school age.
+            4. for your child to receive education services necessary to enable your child to progress in
+                the general education curriculum and appropriately advance toward achieving his or her IEP
+                goals if your child is suspended or removed for more than ten school days in a school year.
+            5. for your child also to have services to address the behavior that resulted in the disciplinary
+                action if your child is removed to an interim alternative educational setting.
+            6. to have the CSE develop or review and implement a behavioral intervention plan for your
+                child that is based on the results of a functional behavioral assessment, if your child is sus-
+                pended or removed for more than ten school days in a school year.
+            7. to a CSE meeting to determine whether your child’s behavior which led to the disciplinary
+                action is related to his or her disability (manifestation determination) when the suspension
+                or removals results in your child being suspended or removed for more than ten school
+                days in a school year (disciplinary change in placement).
+            8. for your child not to be suspended or removed for behaviors that are determined to be relat-
+                ed to your child’s disability, except for suspensions or removals ten school days or less in
+                a school year and for removals to interim alternative educational settings.
+            9. to challenge, in an expedited due process hearing before an impartial hearing officer, the
+                decision of the CSE regarding the relationship between your child’s behavior that resulted
+                in a disciplinary action and his or her disability (manifestation determination).
+            10. to challenge, in an expedited due process hearing before an impartial hearing officer, any
+                placement decision related to discipline.
+
+         If you have additional questions about disciplinary procedures, you can contact your Regional
+         Associate at VESID’s Special Education Quality Assurance Regional Office. Those offices are listed
+         on page 40.
+
+                                                32
+References
+
+         The information in this Guide was taken from the following Federal and State laws and regulations:
+             • Individuals with Disabilities Education Act (IDEA)
+             • Family Educational Rights and Privacy Act of 1974 (FERPA/ Buckley Amendment)
+             • Part 300 of the Code of Federal Regulations
+             • Article 89 and Section 3214 of the New York State Education Law
+             • Parts 200 and 201 Regulations of the Commissioner of Education
+
+         You should refer to these laws and regulations for specific rules and requirements. In addition to the
+         teachers and administrators in your school district, many other people can assist you in under-
+         standing the information in this Guide. These include individuals at your local Special Education
+         Training and Resource Center, Parent Centers and Networks and the Quality Assurance Regional
+         Office of Vocational and Educational Services for Individuals with Disabilities of the New York State
+         Education Department. Information on how to contact these individuals, including website address-
+         es, is listed on pages 40-44.
+
+
+
+
+                                                33
+Request for Due Process Proceedings
+
+         Federal law requires that a parent or attorney representing a child provide notice to the school dis-
+         trict if the parents have a disagreement regarding the referral, evaluation, or placement of their child
+         or regarding the provision of special education services. (This notice will remain confidential.) This
+         form has been developed to assist you in describing your disagreement and accessing the due
+         process procedures to which you are entitled. Please complete the entire form and return it to your
+         school district. Failure to do so may result in it being returned for additional information. According
+         to Federal law, failure to provide information may result in a reduction in the award of any attorneys’
+         fees.
+
+
+         Student’s Name _________________________________ Date of Birth: __________________________
+
+         Parent or Legal Guardian: ________________________________________________________________
+
+         Legal Residence:
+
+                 Street _________________________________________________________________________
+
+                 City or Town ______________________ Zip Code ___________________________________
+
+                 Telephone: (______) _____________________________________________________________
+
+         Current School: ________________________________________________________________________
+
+         Address: Street ________________________________________________________________________
+
+         City or Town __________________________________________________________________________
+
+         Zip Code______________________________________________________________________________
+
+         School District of attendance, if different from district
+         of residence: __________________________________________________________________________
+
+         Fully describe the nature of the problem including all specific facts relating to the disagreement (Attach
+         additional pages or documents as necessary):
+
+         _____________________________________________________________________________________
+
+         _____________________________________________________________________________________
+
+
+
+
+                                                  35
+State your proposed solution to the problem or the reason why you are unable to suggest a solution at this
+time. (Attach additional pages or documents as necessary):
+
+_____________________________________________________________________________________
+
+_____________________________________________________________________________________
+
+_____________________________________________________________________________________
+
+_____________________________________________________________________________________
+
+_____________________________________________________________________________________
+
+
+Upon receipt of this form, you will be contacted to establish a mutually agreeable time to participate in
+mediation with an outside mediator and representative(s) of the district to attempt to resolve this disagree-
+ment. If mediation is unsuccessful, an impartial hearing will be conducted unless you inform the district in
+writing that you do not wish to proceed with a hearing. Participation in mediation will not delay or preclude
+your right to a due process hearing.
+
+If you do not wish to attempt to resolve this problem through mediation prior to a hearing, please check the
+box below:
+
+■ I do not wish to participate in mediation and request that the district schedule an impartial hearing at
+    this time. (Please note: You may be requested to participate in a meeting to discuss the benefits of medi-
+    ation.)
+
+
+Name of Person Completing this Form:
+
+
+Signature:__________________________________ Date: _____________________________________
+
+
+Relationship to Student:         ■ Parent                    ■ Legal Guardian
+                                 ■ Surrogate Parent          ■ Attorney
+
+Date of Receipt of Form:
+
+
+Return this form to:              (To be completed by school district)
+                     ____________________________________________________________________
+
+_____________________________________________________________________________________
+
+_____________________________________________________________________________________
+
+_____________________________________________________________________________________
+
+
+
+
+                                          36
+Members of Committees
+
+A Committee on Special Education includes:
+                •   Parent(s) of the student
+                •   Regular education teacher of the student whenever the student is or may be participating in the
+                    regular education environment
+                •   Special education teacher of the student, or if appropriate, special education provider of the stu-
+                    dent
+                •   School district representative who is qualified to provide or supervise special education and is
+                    knowledgeable about the general curriculum and the availability of resources of the school dis-
+                    trict (This person may also be the special education teacher/provider or school psychologist.)
+                •   An individual who understands and can talk about the evaluation results and how these results
+                    affect instruction (This person may also be the special education teacher/provider, regular edu-
+                    cation teacher, school psychologist, school district representative or someone that the school
+                    district determines has knowledge or special expertise regarding the student.)
+                •   School psychologist
+                •   School physician (upon request)
+                •   Parent member (unless the parent requests that the parent member not participate)
+                •   Other people that have knowledge or special expertise regarding the student, including related
+                    services personnel as appropriate (as requested by the parent or school district)
+                •   The student, if appropriate
+
+A Subcommittee on Special Education includes:
+                •   Parent(s) of the student
+                •   Regular education teacher of the student whenever the student is or may be participating in the
+                    regular education environment
+                •   Special education teacher of the student or, if appropriate, special education provider of the stu-
+                    dent
+                •   School district representative who is qualified to provide, administer or supervise special edu-
+                    cation and is knowledgeable about the general curriculum and the availability of resources of the
+                    school district (This person may also be the special education teacher/provider or school psy-
+                    chologist.)
+                •   An individual who understands and can talk about the evaluation results and how these results
+                    effect instruction (This person may also be the special education teacher/provider, regular edu-
+                    cation teacher, school psychologist or school district representative.)
+                •   School psychologist (under certain circumstances)
+                •   Other people that have knowledge or special expertise regarding the student, including related
+                    services personnel as appropriate (as requested by the parent or school district)
+                •   The student, if appropriate
+
+
+
+                                                        37
+A Committee on Preschool Special Education includes:
+                •   Parent(s) of the student
+                •   Regular education teacher of the child whenever the child is or may be participating in the reg-
+                    ular education environment
+                •   Special education teacher of the child or, if appropriate, special education provider of the child
+                •   School district representative who is qualified to provide or supervise special education and is
+                    knowledgeable about the general curriculum and the availability of preschool special education
+                    programs and services and other resources of the school district and the municipality (This per-
+                    son is the Chairperson of the Committee.)
+                •   An individual who understands and can talk about the evaluation results and how these results
+                    effect instruction (This person may also be the special education teacher/provider, regular edu-
+                    cation teacher, school psychologist, school district representative or someone that the school
+                    district determines has knowledge or special expertise regarding the student.)
+                •   Parent member (unless the parent requests that the parent member not participate.)
+                •   A licensed or certified professional from the Department of Health’s Early Intervention Program
+                    (for a child in transition from the Early Intervention Program.)
+                •   Other people that have knowledge or special expertise regarding the child, including related
+                    services personnel as appropriate (as requested by the parent or school district.)
+                •   A county representative (A certified or licensed preschool representative from the municipality
+                    must be notified of scheduled meetings; however the CPSE meeting can be held whether or not
+                    the municipal representative attends.)
+
+
+
+
+                                                       38
+Resources
+
+        This Guide, other publications of interest, answers to frequently asked questions and other resources
+        are available on the Internet at the Office of Vocational and Educational Services for Individuals with
+        Disabilities (VESID) Special Education website, at http://www.vesid.nysed.gov/specialed. This site also
+        links parents to a variety of State and federal resources. You can access the Internet from a com-
+        puter at home or at your local library.
+
+        You may contact your VESID Special Education Regional Associate if you would like additional infor-
+        mation or if you have questions about:
+            • the information in this Guide;
+            • the special education process;
+            • your child’s education program; or
+            • your legal rights as a parent.
+
+        The phone numbers and locations of the five Special Education Quality Assurance Offices are listed
+        on the next page. You should ask to speak to the Regional Associate responsible for your school
+        district.
+
+
+
+
+                                                39
+                 Vocational and Educational Services for Individuals with Disabilities
+                            (VESID) Special Education Quality Assurance
+                                            Regional Offices
+
+                               Rebecca H. Cort, Statewide Special Education
+                                       Quality Assurance Coordinator
+                                               (718) 722-4544
+                     Daniel H. Johnson, Upstate Regional Coordinator (518) 473-1185
+                   Patricia Shubert, New York City Regional Coordinator (718) 722-4544
+
+        The VESID Special Education Regional Offices are responsible for monitoring special education serv-
+ices through a collaborative Quality Assurance system and providing technical assistance to schools and res-
+idents of their regions. To locate the Special Education Quality Assurance Office nearest you, refer to VESID’s
+website, http://www.vesid.nysed.gov/specialed/quality/qaoffices.htm for a map of New York State by BOCES
+and New York City Supervisory Region.
+
+
+Eastern Regional Office                                    Long Island Regional Office
+NYS Education Department                                   NYS Education Department
+Special Education Quality Assurance                        Special Education Quality Assurance
+One Commerce Plaza, Room 1623                              The Kellum Educational Center
+Albany, NY 12234                                           887 Kellum Street
+(518) 486-6366                                             Lindenhurst, NY 11757
+(518) 486-7693 (fax)                                       (631) 884-8530
+                                                           (631) 884-8540 (fax)
+Hudson Valley Regional Office
+NYS Education Department                                   New York City Office
+Special Education Quality Assurance                        NYS Education Department
+1950 Edgewater Street                                      Special Education Quality Assurance
+Yorktown Heights, NY 10598                                 55 Hanson Place, Room 545
+(914) 245-0010                                             Brooklyn, NY 11217-1580
+(914) 245-2952 (fax)                                       (718) 722-4544
+                                                           (718) 722-2032 (fax)
+
+Central Regional Office                                    Western Regional Office
+NYS Education Department                                   NYS Education Department
+Special Education Quality Assurance                        Special Education Quality Assurance
+State Tower Building                                       2A Richmond Avenue
+109 Warren Street, Suite 304                               Batavia, NY 14020
+Syracuse, NY 13202                                         (585) 344-2112 Ext. 420
+(315) 471-4796                                             (585) 343-2660 (fax)
+(315) 471-4795 (fax)
+
+
+
+
+                                                      40
+                                            Parent Centers
+
+    Parent Training and Information Centers (PTIC), Community Parent Resource Centers (CPRC), and Parent
+Centers are funded by State and Federal grants. These centers provide workshops on parent rights, necessary
+services, advocacy and other relevant presentations for parents of children with disabilities. Call them for
+information and/or assistance.
+
+
+
+PARENT TO PARENT NYS                                      SINERGIA, INC.
+500 Balltown Road                                         Metropolitan Parent Center
+Schenectady, NY 12304                                     15 West 65th Street, 6th Floor
+(518) 381-4350                                            New York, NY 10023
+1-800-305-8817                                            (212) 496-1300
+FAX: (518) 382-1959                                       FAX: (212) 496-5608
+e-mail: info@parenttoparentnys.org                        (Serving New York City)
+website: www.parentoparent.org
+(A statewide organization, based in Schenectady,          UNITED WE STAND OF NEW YORK
+but serving all of New York State)                        728 Driggs Avenue
+                                                          Brooklyn, NY 11211
+ADVOCATES FOR CHILDREN OF NEW YORK, INC.                  (718) 302-4313
+151 West 30th Street, 5th Floor                           FAX: (718) 302-4315
+New York, NY 10001                                        e-mail: uwsofny@aol.com
+(212) 947-9779
+FAX: (212) 947-9790                                       PARENT TO PARENT NEW YORK, INC.
+(Serving the five boroughs of New York City)              1050 Forest Hill Road
+                                                          Staten Island, NY 10314
+THE ADVOCACY CENTER                                       (718) 494-5122
+277 Alexander Street, Suite 500                           FAX: (718) 494-0837
+Rochester, New York 14607                                 (Serving New York City)
+(585) 546-1700
+1-800-650-4967 (NY only)                                  LONG ISLAND PARENT CENTER
+Spanish: (585)797-0032                                    Kellum Street Learning Center
+FAX (585) 546-7069                                        887 Kellum St.
+e-mail: advocacy@frontiernet.net                          Lindenhurst, NY 11757
+e-mail: www.advocacycenter.com                            (631) 884-1848
+(Serving New York State, except for New York City)        FAX: (631) 884-1830
+
+RESOURCES FOR CHILDREN WITH                               PARENT CENTER OF WESTERN NEW YORK
+SPECIAL NEEDS, INC.                                       Parent Network of WNY at the Wilson Parent Center
+200 Park Avenue South, Suite 816                          1000 Main St.
+New York, NY 10003                                        Buffalo, NY 14202
+(212) 677-4650                                            (716) 332-4173
+FAX: (212) 254-4070                                       FAX: (716) 886-0221
+(Serving New York City)                                   website: www.expage.com/parentnetworkwny
+
+
+
+
+                                                     41
+                                                  Other Resources
+
+Early Childhood Direction Centers                                   Transition Coordination Sites
+
+    The network of Early Childhood Direction Centers                     Regional Transition Coordination Sites (TCS) assist
+(ECDCs), administered by the New York State Education               local communities in implementing transition planning
+Department, is a resource for professionals and parents             and services. They coordinate existing resources within a
+of children with disabilities, birth through five years of          geographic area to provide information, training and tech-
+age. ECDCs provide information about programs and                   nical assistance to local school districts, families, stu-
+services available in the community and referral assis-             dents and community agencies. They also assist at the
+tance in accessing these services. For information about            local and community levels to expand services to enhance
+the ECDC in your region, refer to VESID’s website                   the transition of students with disabilities from school to
+http:/www.vesid.nysed.gov/lsn/home.html or call (518)               postsecondary educational opportunities, adult vocation-
+486-7462.                                                           al rehabilitation services and employment. For informa-
+                                                                    tion about the TCS in your region, refer to VESID’s web-
+                                                                    site http:/www.vesid.nysed.gov/lsn/home.html or call
+Independent Living Centers                                          (518) 474-7566.
+
+     Independent Living Centers are private, community-
+based programs which provide a variety of services to               VESID Vocational Rehabilitation Regional Offices
+people with disabilities. These nonresidential, nonmedical
+service centers provide education and awareness activi-                  The VESID Vocational Rehabilitation Regional Offices
+ties within their communities to break down barriers,               provide services to individuals with disabilities to prepare
+allowing people with disabilities to participate fully in           them for employment. Services include: physical and/or
+community life. Services provided by centers include:               psychological examinations; vocational evaluation; guid-
+peer counseling; information and referral; advocacy;                ance and counseling; medical services (to improve ability
+housing assistance; transportation; services referral               to work); job and work adjustment training; meal
+(interpreters, readers, attendants); independent living             allowances, books, tools and transportation for on-the-
+skill counseling and training; architectural barrier consul-        job support; other goods and services needed to obtain a
+tation; equipment maintenance; repair and loan; and TTY             job; job coaching; supported employment services; train-
+relay. For information about the Independent Living                 ing in job seeking; job placement services and follow-up
+Center in your region, refer to VESID’s website                     services. For information about the Vocational
+http:/www.vesid.nysed.gov/lsn/home.html or call (518)               Rehabilitation Office in your region, refer to VESID’s web-
+474-2925.                                                           site http://www.vesid.nysed.gov or call 1-800-222-JOBS
+                                                                    (1-800-222-5627).
+
+Special Education Training and Resource Centers
+(SETRC)
+
+    The SETRC network, administered by VESID, pro-
+vides local information, training and resources related to
+the education of students with disabilities. SETRC training
+specialists provide parents, school district staff and
+administrators, agency representatives and other inter-
+ested individuals with resources, consultation and train-
+ing programs based on local needs and statewide goals.
+For information about the SETRC office in your region,
+refer to VESID’s website http:/www.vesid.nysed.gov/lsn/
+home.html or call (518) 486-7462.
+
+
+
+                                                               42
+                                             Other Agency Resources
+
+Commission for the Blind and Visually Handicapped                     Office of Advocate for Persons with Disabilities
+
+     Located within the Office of Children and Family                      The The Office of Advocate for Persons with
+Services, CBVH is responsible for the administration of               Disabilities (OAPwD) is a systems advocacy agency for
+programs and services to legally blind individuals to                 people with disabilities. Its primary mission is to ensure
+enhance independence and facilitate opportunities to par-             that people with disabilities have every opportunity to be
+ticipate in the community. CBVH provides a range of serv-             productive and participating citizens through: full access to
+ices for individuals who are legally blind through the inde-          emerging technology; access to up-to-date, comprehen-
+pendent living and vocational rehabilitation provisions of            sive information on and referral to programs and services
+the Federal Rehabilitation Act, as well as through pro-               available to people with disabilities and their families; and
+grams serving children and older individuals who are                  implementation of progressive legislation protecting the
+blind. For information about CBVH, call 1-866-871-3000                equal rights of people with disabilities. For information
+(TTY: 1-866-871-6000).                                                about OAPwD, call (800) 522-4369 or (518) 473-6005,
+                                                                      (voice, TTY and Spanish call (518) 473-4129 (within
+                                                                      NYS), (518) 474-5567 (outside NYS)), electronic BBS call
+Commissioner for Quality Care                                         (800) 943-2323 or refer to the OAPwD website at
+                                                                      www.advoc4disabled.state.ny.us.
+    The Commission on Quality of Care’s Advocacy
+Services Bureau coordinates a statewide protection and
+advocacy program for people with disabilities and their               Office of Mental Health
+families. The Bureau offers training programs to help par-
+ents understand special education laws and regulations.                    The Office of Mental Health (OMH) is responsible for
+These programs are co-sponsored by local groups. For                  developing plans, programs and services for the care,
+information about the Advocacy Services Bureau, call                  treatment, rehabilitation, education and training of indi-
+(518) 381-7098 (collect) or contact the website at                    viduals with mental illness. The Office provides direct
+cathm@cqc.state.ny.us.                                                services at nineteen adult, six children’s and three foren-
+                                                                      sic psychiatric centers and provides fund allocation and
+                                                                      certification of non-State-operated mental health pro-
+Coordinated Children Services Initiative                              grams. For more information contact the Bureau of
+                                                                      Children and Family Services at (518) 474-8394 or visit
+    The Coordinated Children Services Initiative (CCSI) is            the OMH web site at http://www.omh.state.ny.us/.
+a multi-agency initiative that assists localities in providing
+children with emotional and behavioral disabilities at risk
+of residential placement with services in their homes,                Office of Mental Retardation and Developmental
+schools and communities. The goal of CCSI is to reduce                Disabilities
+residential placements by developing a local infrastruc-
+ture that brings together child serving systems to provide                 The Office of Mental Retardation and Developmental
+a comprehensive and integrated system of care that sup-               Disabilities (OMRDD) operates 13 Developmental
+ports families in staying together. For more information              Disabilities Services Offices (DDSOs) responsible for pro-
+contact VESID at (518) 473-9307.                                      viding care, treatment, habilitation and rehabilitation serv-
+                                                                      ices to individuals with mental retardation and develop-
+                                                                      mental disabilities. In partnership with consumers, fami-
+                                                                      lies, staff, private providers and local governments, the
+                                                                      DDSO’s provide person-centered assistance to improve
+                                                                      the quality of life of individuals and their families through
+                                                                      the provision of housing, employment and family support
+                                                                      services. For more information contact (518) 474-9689
+                                                                      or visit the OMRDD web site at http://www.omr.
+                                                                      state.ny.us/.
+
+                                                                 43
+Office of Children and Family Services                            Office of Alcoholism and Substance Abuse Services
+
+    The Office of Children and Family Services (OCFS)                 The Office of Alcoholism and Substance Abuse
+provides operational support and policy direction to local        Services (OASAS) administers a comprehensive program
+social services districts and youth bureaus across the            of prevention, intervention and treatment services for per-
+State and is responsible for the operation of 48 statewide        sons addicted to alcohol and other drugs. OASAS plans,
+residential and day placement facilities for youth.               develops and regulates the State’s system of alcoholism
+Programs and services provided through OCFS include               and substance abuse treatment agencies; operates 13
+child and adult protective, child welfare, domestic vio-          Alcoholism Treatment Centers; licenses and regulates
+lence, pregnancy prevention; family services, youth               local, community-based providers of inpatient, outpatient
+development and delinquency prevention; juvenile justice;         and residential services; and monitors programs to
+and after care programs. For more information contact             ensure quality of care and compliance with State and
+(518) 473-7793 or visit the OCFS website at                       national standards. For more information contact (518)
+http://www.dfa.state.ny.us/.                                      473-3460 or visit the OASAS web site at
+                                                                  http://www.oasas.state.ny.us/.
+
+
+
+
+                                                             44
+Index
+
+        Annual Review ...............................................................................................................................12
+        Attorneys’ Fees ..............................................................................................................................30
+        Court Appeals ................................................................................................................................29
+        Committee on Preschool Special Education ..............................................................................3, 38
+        Committee on Special Education ...............................................................................................3, 37
+        Complaints.....................................................................................................................................30
+        Consent..........................................................................................................................................18
+        Disabilities .......................................................................................................................................6
+        Disciplinary Procedures.................................................................................................................32
+        Due Process Rights .......................................................................................................................24
+        Educational Records ......................................................................................................................15
+        Eligibility ..........................................................................................................................................6
+        Evaluation ..................................................................................................................................4, 17
+        Guardian ad litem .........................................................................................................................28
+        Impartial Hearings .........................................................................................................................25
+        Impartial Hearing Officer................................................................................................................27
+        Interim Alternative Educational Setting....................................................................................30, 32
+        Independent Educational Evaluation ..............................................................................................17
+        Individualized Education Program (IEP) ..........................................................................................8
+        Individuals with Disabilities Education Act ....................................................................................33
+        Least Restrictive Environment ......................................................................................................11
+        Manifestation Determination .........................................................................................................32
+        Mediation.......................................................................................................................................24
+        Notice ............................................................................................................................................19
+        Parent Centers ...............................................................................................................................41
+        Pendency .......................................................................................................................................29
+        Planning Ahead ...........................................................................................................................8, 9
+        Reevaluation ..................................................................................................................................12
+
+
+                                                                   45
+References.....................................................................................................................................33
+Referral ............................................................................................................................................2
+Reimbursement for Private School Placement ..............................................................................22
+Resources................................................................................................................................39, 42
+School Based Support Team............................................................................................................3
+Special Education Training Resource Centers (SETRC) .................................................................42
+State Review Officer ......................................................................................................................28
+Subcommittee on Special Education .........................................................................................3, 37
+Surrogate Parents..........................................................................................................................28
+Timelines .......................................................................................................................................23
+Transition Services ..........................................................................................................................9
+VESID Special Education Regional Offices ....................................................................................40
+
+
+
+
+                                                                                                                                           92-89220
+                                                                                                                                           90-123 PM
+                                                                                                                                           92-011 PM (rev)
+
+
+
+
+                                                           46

@@ -1,0 +1,479 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/pfiles/DZYNCJ5F4938/$file/Asset%20Recovery%20November%2024%202026.pdf | DATE: 2026-11-24 | TITLE: November 24, 2026 Regular Meeting | 14.3 Declaration of Obsolete/Surplus Equipment | Asset Recovery November 24 2026.pdf
+
+Asset ID     Serial Number            Asset Type   Purchase Date       Note
+ET205470IR   NXATNAA0021241F02B7611   Chromebook   5/10/22             Cycled Out
+ET204739IR   NXATNAA0021241EF447611   Chromebook   5/10/22             Cycled Out
+ET205158IR   NXATNAA0021241F05B7611   Chromebook   5/10/22             Cycled Out
+ET205451IR   NXATNAA0021241EE827611   Chromebook   5/10/22             Cycled Out
+ET205393IR   NXATNAA0021241824D7611   Chromebook   5/10/22             Cycled Out
+ET205415IR   NXATNAA0021240FF1C7611   Chromebook   5/10/22             Cycled Out
+ET203850IR   NXATNAA00212417ECA761    Chromebook   9/2/22              Cycled Out
+ET205513IR   NXAYSAA0012410BD157600   Chromebook   2/24/23             Damaged
+ET206714IR   6S7Z0Z3                  Chromebook   1/15/24             Damaged
+ET206599IR   43SM244                  Chromebook   7/1/24              Damaged
+ET246768IR   PF69H87B                 Chromebook   8/1/26              Damaged
+ET248942IR   PF69JZCM                 Chromebook   8/1/26              Damaged
+ET171883IR   P204NVMY                 Chromebook   10/9/21, 12:29 PM
+ET201087IR   GKLCKY3                  Chromebook   11/28/23, 5:00 AM   Damaged
+ET205466IR   NXATNAA0021241EFBC7611   Chromebook   5/10/22,            Cycled Out
+ET203632IR   NXATNAA0021240F8E67611   Chromebook   5/10/22, 12:00 AM   Cycled Out
+ET204171IR   NXATNAA0021240F5447611   Chromebook   5/10/22, 12:00 AM   Cycled Out
+ET204184IR   NXATNAA0021240F8CB7611   Chromebook   5/10/22, 12:00 AM   Cycled Out
+ET205270IR   NXATNAA0021241ED667611   Chromebook   5/10/22, 12:00 AM   Cycled Out
+ET205276IR   NXATNAA00212417E697611   Chromebook   5/10/22, 12:00 AM   Cycled Out
+ET205311IR   NXATNAA0021241EFBA7611   Chromebook   5/10/22, 12:00 AM   Cycled Out
+ET204281IR   NXATNAA0021241EFE27611   Chromebook   5/10/22, 12:00 AM   Cycled Out
+ET204295IR   NXATNAA0021241EF677611   Chromebook   5/10/22, 12:00 AM   Cycled Out
+ET204318IR   NXATNAA0021241EFA87611   Chromebook   5/10/22, 12:00 AM   Cycled Out
+ET204370IR   NXATNAA0021241F0497611   Chromebook   5/10/22, 12:00 AM   Cycled Out
+ET204390IR   NXATNAA0021240F8E37611   Chromebook   5/10/22, 12:00 AM   Cycled Out
+ET204405IR   NXATNAA0021241EEE57611   Chromebook   5/10/22, 12:00 AM   Cycled Out
+ET204406IR   NXATNAA0021240F6AF7611   Chromebook   5/10/22, 12:00 AM   Cycled Out
+ET204259IR   NXATNAA0021241EEE97611   Chromebook   5/10/22, 12:00 AM   Cycled Out
+ET204267IR   NXATNAA0021240F8FE7611   Chromebook   5/10/22, 12:00 AM   Cycled Out
+ET204296IR   NXATNAA0021241EC797611   Chromebook   5/10/22, 12:00 AM   Cycled Out
+ET204362IR   NXATNAA0021241EB7C7611   Chromebook   5/10/22, 12:00 AM   Cycled Out
+ET204289IR   NXATNAA0021241EB987611   Chromebook   5/10/22, 12:00 AM   Cycled Out
+ET204320IR   NXATNAA0021241ED517611   Chromebook   5/10/22, 12:00 AM   Cycled Out
+ET204376IR   NXATNAA0021240F8C27611   Chromebook   5/10/22, 12:00 AM   Cycled Out
+ET204552IR   NXATNAA0021240F62F7611   Chromebook   5/10/22, 12:00 AM   Cycled Out
+ET204568IR   NXATNAA0021240F62A7611   Chromebook   5/10/22, 12:00 AM   Cycled Out
+ET205225IR   NXATNAA0021241EFF27611   Chromebook   5/10/22, 12:00 AM   Cycled Out
+ET203596IR   NXATNAA0021241F0147611   Chromebook   5/10/22, 12:00 AM   Cycled Out
+ET203616IR   NXATNAA0021240F70C7611   Chromebook   5/10/22, 12:00 AM   Cycled Out
+ET203629IR   NXATNAA0021240FF7F7611   Chromebook   5/10/22, 12:00 AM   Cycled Out
+ET203649IR   NXATNAA0021240FF387611   Chromebook   5/10/22, 12:00 AM   Cycled Out
+ET203682IR   NXATNAA0021241EFD37611   Chromebook   5/10/22, 12:00 AM   Cycled Out
+ET203683IR   NXATNAA0021241821C7611   Chromebook   5/10/22, 12:00 AM   Cycled Out
+ET203750IR   NXATNAA002124182BD7611   Chromebook   5/10/22, 12:00 AM   Cycled Out
+ET203821IR   NXATNAA0021240FF317611   Chromebook   5/10/22, 12:00 AM   Cycled Out
+ET203861IR   NXATNAA0021240FEDD7611   Chromebook   5/10/22, 12:00 AM   Cycled Out
+ET203882IR   NXATNAA0021241EFA77611   Chromebook   5/10/22, 12:00 AM   Cycled Out
+ET203887IR   NXATNAA0021240FF8F7611   Chromebook   5/10/22, 12:00 AM   Cycled Out
+ET203911IR   NXATNAA002124184EC7611   Chromebook   5/10/22, 12:00 AM   Cycled Out
+ET203912IR   NXATNAA00212417E557611   Chromebook   5/10/22, 12:00 AM   Cycled Out
+ET203932IR   NXATNAA002124182B37611   Chromebook   5/10/22, 12:00 AM   Cycled Out
+ET203944IR   NXATNAA002124183B67611   Chromebook   5/10/22, 12:00 AM   Cycled Out
+ET203948IR   NXATNAA00212417EA67611   Chromebook   5/10/22, 12:00 AM   Cycled Out
+ET203949IR   NXATNAA00212417EC57611   Chromebook   5/10/22, 12:00 AM   Cycled Out
+ET203965IR   NXATNAA0021241EF907611   Chromebook   5/10/22, 12:00 AM   Cycled Out
+ET203973IR   NXATNAA002124182067611   Chromebook   5/10/22, 12:00 AM   Cycled Out
+ET203976IR   NXATNAA0021241EF867611   Chromebook   5/10/22, 12:00 AM   Cycled Out
+ET203978IR   NXATNAA002124182E37611   Chromebook   5/10/22, 12:00 AM   Cycled Out
+ET203991IR   NXATNAA002124182F07611   Chromebook   5/10/22, 12:00 AM   Cycled Out
+ET203996IR   NXATNAA00212418A3F7611   Chromebook   5/10/22, 12:00 AM   Cycled Out
+ET203998IR   NXATNAA0021241EEEA7611   Chromebook   5/10/22, 12:00 AM   Cycled Out
+ET204000IR   NXATNAA0021241EEC77611   Chromebook   5/10/22, 12:00 AM   Cycled Out
+ET204028IR   NXATNAA002124182D07611   Chromebook   5/10/22, 12:00 AM   Cycled Out
+ET204058IR   NXATNAA0021240F51F7611   Chromebook   5/10/22, 12:00 AM   Cycled Out
+ET204059IR   NXATNAA00212418A2B7611   Chromebook   5/10/22, 12:00 AM   Cycled Out
+ET204083IR   NXATNAA0021241EB6D7611   Chromebook   5/10/22, 12:00 AM   Cycled Out
+ET204090IR   NXATNAA00212417EDC7611   Chromebook   5/10/22, 12:00 AM   Cycled Out
+
+Asset ID     Serial Number            Asset Type   Purchase Date       Note
+ET204094IR   NXATNAA0021241EFC17611   Chromebook   5/10/22, 12:00 AM   Cycled Out
+ET204123IR   NXATNAA0021240F3377611   Chromebook   5/10/22, 12:00 AM   Cycled Out
+ET204124IR   NXATNAA0021240F86F7611   Chromebook   5/10/22, 12:00 AM   Cycled Out
+ET204143IR   NXATNAA002124182607611   Chromebook   5/10/22, 12:00 AM   Cycled Out
+ET204157IR   NXATNAA0021240F6707611   Chromebook   5/10/22, 12:00 AM   Cycled Out
+ET204159IR   NXATNAA002124182D97611   Chromebook   5/10/22, 12:00 AM   Cycled Out
+ET204161IR   NXATNAA0021240F8D27611   Chromebook   5/10/22, 12:00 AM   Cycled Out
+ET204177IR   NXATNAA0021240F8A07611   Chromebook   5/10/22, 12:00 AM   Cycled Out
+ET204193IR   NXATNAA0021241825A7611   Chromebook   5/10/22, 12:00 AM   Cycled Out
+ET204194IR   NXATNAA0021240F8BC7611   Chromebook   5/10/22, 12:00 AM   Cycled Out
+ET204206IR   NXATNAA002124182927611   Chromebook   5/10/22, 12:00 AM   Cycled Out
+ET204209IR   NXATNAA0021240F60F7611   Chromebook   5/10/22, 12:00 AM   Cycled Out
+ET204217IR   NXATNAA0021240F6187611   Chromebook   5/10/22, 12:00 AM   Cycled Out
+ET205265IR   NXATNAA00212417EBE7611   Chromebook   5/10/22, 12:00 AM   Cycled Out
+ET205267IR   NXATNAA00212417E407611   Chromebook   5/10/22, 12:00 AM   Cycled Out
+ET205277IR   NXATNAA002124182F17611   Chromebook   5/10/22, 12:00 AM   Cycled Out
+ET205279IR   NXATNAA00212417EE37611   Chromebook   5/10/22, 12:00 AM   Cycled Out
+ET205289IR   NXATNAA0021240F87B7611   Chromebook   5/10/22, 12:00 AM   Cycled Out
+ET205299IR   NXATNAA00212417EA87611   Chromebook   5/10/22, 12:00 AM   Cycled Out
+ET205317IR   NXATNAA00212417E927611   Chromebook   5/10/22, 12:00 AM   Cycled Out
+ET205319IR   NXATNAA00212417D957611   Chromebook   5/10/22, 12:00 AM   Cycled Out
+ET205345IR   NXATNAA0021240FFAE7611   Chromebook   5/10/22, 12:00 AM   Cycled Out
+ET205347IR   NXATNAA0021240FF9B7611   Chromebook   5/10/22, 12:00 AM   Cycled Out
+ET205489IR   NXATNAA0021241838D7611   Chromebook   5/10/22, 12:00 AM   Cycled Out
+ET203952IR   NXATNAA002124182987611   Chromebook   5/10/22, 12:00 AM   Cycled Out
+ET203984IR   NXATNAA0021241EEF47611   Chromebook   5/10/22, 12:00 AM   Cycled Out
+ET204010IR   NXATNAA0021241EFEF7611   Chromebook   5/10/22, 12:00 AM   Cycled Out
+ET204013IR   NXATNAA0021240F5E67611   Chromebook   5/10/22, 12:00 AM   Cycled Out
+ET204051IR   NXATNAA0021241821D7611   Chromebook   5/10/22, 12:00 AM   Cycled Out
+ET204056IR   NXATNAA0021241EF667611   Chromebook   5/10/22, 12:00 AM   Cycled Out
+ET204213IR   NXATNAA002124182037611   Chromebook   5/10/22, 12:00 AM   Cycled Out
+ET205282IR   NXATNAA0021240F53A7611   Chromebook   5/10/22, 12:00 AM   Cycled Out
+ET204250IR   NXATNAA0021240F8A57611   Chromebook   5/10/22, 12:00 PM   Cycled Out
+ET204314IR   NXATNAA0021240F8867611   Chromebook   5/10/22, 12:00 PM   Cycled Out
+ET203509IR   NXATNAA002124182A67611   Chromebook   5/10/22, 12:00 PM   Cycled Out
+ET203640IR   NXATNAA0021241EE247611   Chromebook   5/10/22, 12:00 PM   Cycled Out
+ET203658IR   NXATNAA00212417ED27611   Chromebook   5/10/22, 12:00 PM   Cycled Out
+ET203710IR   NXATNAA0021241EEF57611   Chromebook   5/10/22, 12:00 PM   Cycled Out
+ET204211IR   NXATNAA002124182487611   Chromebook   5/10/22, 12:00 PM   Cycled Out
+ET205389IR   NXATNAA0021240FF217611   Chromebook   5/10/22, 12:00 PM   Cycled Out
+ET204130IR   NXATNAA0021240F6687611   Chromebook   5/10/22, 4:00 AM    Cycled Out
+ET204225IR   NXATNAA0021241EF517611   Chromebook   5/10/22, 4:00 AM    Cycled Out
+ET204327IR   NXATNAA0021241F0357611   Chromebook   5/10/22, 4:00 AM    Cycled Out
+ET205204IR   NXATNAA0021241ED467611   Chromebook   5/10/22, 4:00 AM    Cycled Out
+ET205207IR   NXATNAA0021241EF587611   Chromebook   5/10/22, 4:00 AM    Cycled Out
+ET203577IR   NXATNAA0021241EE237611   Chromebook   5/10/22, 4:00 AM    Cycled Out
+ET203644IR   NXATNAA0021240FF007611   Chromebook   5/10/22, 4:00 AM    Cycled Out
+ET203677IR   NXATNAA0021240FF977611   Chromebook   5/10/22, 4:00 AM    Cycled Out
+ET203842IR   NXATNAA0021240FF9A7611   Chromebook   5/10/22, 4:00 AM    Cycled Out
+ET203972IR   NXATNAA002124182F57611   Chromebook   5/10/22, 4:00 AM    Cycled Out
+ET205314IR   NXATNAA002124182977611   Chromebook   5/10/22, 4:00 AM    Cycled Out
+ET205358IR   NXATNAA002124182C27611   Chromebook   5/10/22, 4:00 AM    Cycled Out
+ET205364IR   NXATNAA0021240FF3C7611   Chromebook   5/10/22, 4:00 AM    Cycled Out
+ET205374IR   NXATNAA002124182C07611   Chromebook   5/10/22, 4:00 AM    Cycled Out
+ET204187IR   NXATNAA0021240F8977611   Chromebook   5/10/22, 4:00 PM    Cycled Out
+ET205305IR   NXATNAA0021240F8FA7611   Chromebook   5/10/22, 4:00 PM    Cycled Out
+ET204283IR   NXATNAA0021241EFE57611   Chromebook   5/10/22, 4:00 PM    Cycled Out
+ET204330IR   NXATNAA0021241ED5F7611   Chromebook   5/10/22, 4:00 PM    Cycled Out
+ET203848IR   NXATNAA0021241EED47611   Chromebook   5/10/22, 4:00 PM    Cycled Out
+ET204084IR   NXATNAA002124189FE7611   Chromebook   5/10/22, 4:00 PM    Cycled Out
+ET203921IR   NXATNAA0021241EC3E7611   Chromebook   5/10/22, 8:00 AM    Cycled Out
+ET205326IR   NXATNAA0021241EE677611   Chromebook   5/10/22, 8:00 AM    Cycled Out
+ET204226IR   NXATNAA0021241EFA97611   Chromebook   5/10/22, 8:00 AM    Cycled Out
+ET204292IR   NXATNAA0021241EC0F7611   Chromebook   5/10/22, 8:00 AM    Cycled Out
+ET204223IR   NXATNAA0021241EF967611   Chromebook   5/10/22, 8:00 AM    Cycled Out
+ET204329IR   NXATNAA0021240F8F37611   Chromebook   5/10/22, 8:00 AM    Cycled Out
+ET204584IR   NXATNAA0021241EEFD7611   Chromebook   5/10/22, 8:00 AM    Cycled Out
+ET205181IR   NXATNAA0021241F01A7611   Chromebook   5/10/22, 8:00 AM    Cycled Out
+
+Asset ID     Serial Number            Asset Type   Purchase Date       Note
+ET205206IR   NXATNAA0021241EFC27611   Chromebook   5/10/22, 8:00 AM    Cycled Out
+ET203525IR   NXATNAA0021241EF0E7611   Chromebook   5/10/22, 8:00 AM    Cycled Out
+ET203635IR   NXATNAA002124183167611   Chromebook   5/10/22, 8:00 AM    Cycled Out
+ET203646IR   NXATNAA0021241ED367611   Chromebook   5/10/22, 8:00 AM    Cycled Out
+ET203859IR   NXATNAA0021240FFB87611   Chromebook   5/10/22, 8:00 AM    Cycled Out
+ET203981IR   NXATNAA0021241EFA17611   Chromebook   5/10/22, 8:00 AM    Cycled Out
+ET205245IR   NXATNAA0021240F6FE7611   Chromebook   5/10/22, 8:00 AM    Cycled Out
+ET205273IR   NXATNAA0021241821A7611   Chromebook   5/10/22, 8:00 AM    Cycled Out
+ET203985IR   NXATNAA0021240F8A37611   Chromebook   5/10/22, 8:00 AM    Cycled Out
+ET204033IR   NXATNAA0021240F8D07611   Chromebook   5/10/22, 8:00 AM    Cycled Out
+ET204120IR   NXATNAA0021240F8E97611   Chromebook   5/10/22, 8:00 PM    Cycled Out
+ET204222IR   NXATNAA0021241EC847611   Chromebook   5/10/22, 8:00 PM    Cycled Out
+ET205175IR   NXATNAA0021241EE687611   Chromebook   5/10/22, 8:00 PM    Cycled Out
+ET204215IR   NXATNAA0021240F8587611   Chromebook   5/11/22, 12:00 AM   Cycled Out
+ET204402IR   NXATNAA00212417E997611   Chromebook   5/11/22, 12:00 AM   Cycled Out
+ET247294IR   NXATNAA002124182A07611   Chromebook   5/11/22, 4:00 AM    Cycled Out
+ET247470IR   NXATNAA0021240F8937611   Chromebook   5/11/22, 4:00 AM    Cycled Out
+ET204413IR   NXATNAA0021240F8B77611   Chromebook   5/11/22, 8:00 AM    Cycled Out
+ET204326IR   NXATNAA0021241826F7611   Chromebook   6/15/22, 12:37 PM   Cycled Out
+ET205482IR   NXATNAA0021241826E7611   Chromebook   6/20/22, 12:37 PM   Cycled Out
+ET247492IR   JM7V044                  Chromebook   7/18/24, 4:00 AM    Damaged
+ET247507IR   8BFS044                  Chromebook   7/18/24, 4:00 AM    Damaged
+ET247500IR   DM4N244                  Chromebook   7/18/24, 4:00 AM    Damaged
+ET247497IR   2JXS044                  Chromebook   7/18/24, 4:00 AM    Damaged
+ET247487IR   6JDV044                  Chromebook   7/18/24, 4:00 AM    Damaged
+F20N244      F20N244                  Chromebook   7/18/24, 4:00 AM    Cycled Out
+9B3Q244      9B3Q244                  Chromebook   7/18/24, 4:00 AM    Cycled Out
+77RN244      77RN244                  Chromebook   7/18/24, 4:00 AM    Cycled Out
+5RQM244      5RQM244                  Chromebook   7/18/24, 4:00 AM    Damaged
+ET206557IR   2KVM244                  Chromebook   7/18/24, 4:00 AM    Damaged
+ET206559IR   1VWM244                  Chromebook   7/18/24, 4:00 AM    Damaged
+9MYP244      9MYP244                  Chromebook   7/18/24, 4:00 AM    Damaged
+B4QN244      B4QN244                  Chromebook   7/18/24, 4:00 AM    Damaged
+ET206513IR   6QMN244                  Chromebook   7/18/24, 4:00 AM    Damaged
+G9ZP244      G9ZP244                  Chromebook   7/18/24, 4:00 AM    Damaged
+H5PN244      H5PN244                  Chromebook   7/18/24, 4:00 AM    Damaged
+C16N244      C16N244                  Chromebook   7/18/24, 4:00 AM    Damaged
+ET206626IR   9T4N244                  Chromebook   7/18/24, 4:00 AM    Damaged
+ET206661IR   2YNN244                  Chromebook   7/18/24, 4:00 AM    Damaged
+ET247554IR   971N244                  Chromebook   7/18/24, 4:00 AM    Damaged
+H9ZP244      H9ZP244                  Chromebook   7/18/24, 4:00 AM    Damaged
+ET206642IR   5HYP244                  Chromebook   7/18/24, 4:00 AM    Damaged
+ET206649IR   DD6N244                  Chromebook   7/18/24, 4:00 AM    Damaged
+ET206655IR   B6PN244                  Chromebook   7/18/24, 4:00 AM    Damaged
+ET206740IR   D2DZ6Z3                  Chromebook   7/18/24, 4:00 AM    Damaged
+ET248387IR   5VJNSB4                  Chromebook   7/18/25, 4:00 AM    Damaged
+ET248423IR   4GCNSB4                  Chromebook   7/18/25, 4:00 AM    Damaged
+ET248424IR   H71PSB4                  Chromebook   7/18/25, 4:00 AM    Damaged
+ET248458IR   3R0NSB4                  Chromebook   7/18/25, 4:00 AM    Damaged
+ET248658IR   1N7LSB4                  Chromebook   7/18/25, 4:00 AM    Damaged
+ET248467IR   GHCNSB4                  Chromebook   7/18/25, 4:00 AM    Damaged
+ET248463IR   FKPNSB4                  Chromebook   7/18/25, 4:00 AM    Damaged
+ET248468IR   74PMSB4                  Chromebook   7/18/25, 4:00 AM    Damaged
+ET248473IR   BN0NSB4                  Chromebook   7/18/25, 4:00 AM    Damaged
+ET248476IR   DP0NSB4                  Chromebook   7/18/25, 4:00 AM    Damaged
+ET248488IR   B56NSB4                  Chromebook   7/18/25, 4:00 AM    Damaged
+ET248492IR   6FBLSB4                  Chromebook   7/18/25, 4:00 AM    Damaged
+ET248471IR   496NSB4                  Chromebook   7/18/25, 4:00 AM    Damaged
+ET248477IR   941PSB4                  Chromebook   7/18/25, 4:00 AM    Damaged
+ET248508IR   F7SYSB4                  Chromebook   7/18/25, 4:00 AM    Damaged
+ET248530IR   DNTNSB4                  Chromebook   7/18/25, 4:00 AM    Damaged
+ET248532IR   HVCWSB4                  Chromebook   7/18/25, 4:00 AM    Damaged
+ET248545IR   JLCYSB4                  Chromebook   7/18/25, 4:00 AM    Damaged
+ET248548IR   HTCWSB4                  Chromebook   7/18/25, 4:00 AM    Damaged
+ET248559IR   DSCWSB4                  Chromebook   7/18/25, 4:00 AM    Damaged
+ET248563IR   4Y8WSB4                  Chromebook   7/18/25, 4:00 AM    Damaged
+ET248512IR   3VCWSB4                  Chromebook   7/18/25, 4:00 AM    Damaged
+ET248520IR   4HCNSB4                  Chromebook   7/18/25, 4:00 AM    Damaged
+
+Asset ID     Serial Number   Asset Type   Purchase Date       Note
+ET248672IR   74DMSB4         Chromebook   7/18/25, 4:00 AM    Damaged
+ET248685IR   B82PSB4         Chromebook   7/18/25, 4:00 AM    Damaged
+ET248702IR   492PSB4         Chromebook   7/18/25, 4:00 AM    Damaged
+ET248693IR   712MSB4         Chromebook   7/18/25, 4:00 AM    Damaged
+ET248699IR   9LKLSB4         Chromebook   7/18/25, 4:00 AM    Damaged
+ET248264IR   9QTNSB4         Chromebook   7/18/25, 4:00 AM    Damaged
+ET205959IR   3MQ64Y3         Chromebook   7/28/23, 12:00 PM   Cycled Out
+ET206737IR   4FQ64Y3         Chromebook   7/28/23, 12:00 PM   Cycled Out
+ET205631IR   163H3Y3         Chromebook   7/28/23, 12:00 PM   Cycled Out
+ET205562IR   CZW64Y3         Chromebook   7/28/23, 4:00 AM    Cycled Out
+eT205995IR   B5RG3Y3         Chromebook   7/28/23, 4:00 AM    Cycled Out
+ET205560IR   6W8H3Y3         Chromebook   7/28/23, 4:00 AM    Cycled Out
+ET205563IR   54RG3Y3         Chromebook   7/28/23, 4:00 AM    Cycled Out
+ET205593IR   8QQ64Y3         Chromebook   7/28/23, 4:00 AM    Cycled Out
+ET205601IR   73P44Y3         Chromebook   7/28/23, 4:00 AM    Cycled Out
+ET205993IR   80X64Y3         Chromebook   7/28/23, 4:00 AM    Cycled Out
+ET205994IR   6BJF3Y3         Chromebook   7/28/23, 4:00 AM    Cycled Out
+ET205910IR   4YMH3Y3         Chromebook   7/28/23, 4:00 AM    Cycled Out
+ET205914IR   4CGH3Y3         Chromebook   7/28/23, 4:00 AM    Cycled Out
+ET205915IR   BKGH3Y3         Chromebook   7/28/23, 4:00 AM    Cycled Out
+ET205943IR   9QXG3Y3         Chromebook   7/28/23, 4:00 AM    Cycled Out
+ET205945IR   GX8H3Y3         Chromebook   7/28/23, 4:00 AM    Cycled Out
+ET205961IR   DXMH3Y3         Chromebook   7/28/23, 4:00 AM    Cycled Out
+ET205962IR   F0664Y3         Chromebook   7/28/23, 4:00 AM    Cycled Out
+ET205964IR   BCC64Y3         Chromebook   7/28/23, 4:00 AM    Cycled Out
+ET205976IR   7LC64Y3         Chromebook   7/28/23, 4:00 AM    Cycled Out
+ET205977IR   CFN54Y3         Chromebook   7/28/23, 4:00 AM    Cycled Out
+ET205981IR   6FGH3Y3         Chromebook   7/28/23, 4:00 AM    Cycled Out
+ET205982IR   JY8H3Y3         Chromebook   7/28/23, 4:00 AM    Cycled Out
+ET205983IR   FXG54Y3         Chromebook   7/28/23, 4:00 AM    Cycled Out
+ET205987IR   FZMH3Y3         Chromebook   7/28/23, 4:00 AM    Cycled Out
+ET206032IR   HMV44Y3         Chromebook   7/28/23, 4:00 AM    Cycled Out
+ET205616IR   FFWF3Y3         Chromebook   7/28/23, 4:00 AM    Cycled Out
+ET205618IR   3J644Y3         Chromebook   7/28/23, 4:00 AM    Cycled Out
+ET205644IR   B5H34Y3         Chromebook   7/28/23, 4:00 AM    Cycled Out
+ET205645IR   41434Y3         Chromebook   7/28/23, 4:00 AM    Cycled Out
+ET205648IR   89954Y3         Chromebook   7/28/23, 4:00 AM    Cycled Out
+ET205650IR   9VG54Y3         Chromebook   7/28/23, 4:00 AM    Cycled Out
+ET205652IR   J2CJ3Y3         Chromebook   7/28/23, 4:00 AM    Cycled Out
+ET205661IR   JC5F3Y3         Chromebook   7/28/23, 4:00 AM    Cycled Out
+ET205925IR   7ML24Y3         Chromebook   7/28/23, 4:00 AM    Cycled Out
+ET205926IR   FSP14Y3         Chromebook   7/28/23, 4:00 AM    Cycled Out
+ET205934IR   52224Y3         Chromebook   7/28/23, 4:00 AM    Cycled Out
+ET205935IR   B1224Y3         Chromebook   7/28/23, 4:00 AM    Cycled Out
+ET205936IR   GPN34Y3         Chromebook   7/28/23, 4:00 AM    Cycled Out
+ET205953IR   H1064Y3         Chromebook   7/28/23, 4:00 AM    Cycled Out
+42P44Y3      42P44Y3         Chromebook   7/28/23, 4:00 AM    Cycled Out
+9R5J3Y3      9R5J3Y3         Chromebook   7/28/23, 4:00 AM    Cycled Out
+ET206706IR   25874Y3         Chromebook   7/28/23, 4:00 PM    Cycled Out
+ET205693IR   26X64Y3         Chromebook   7/28/23, 8:00 AM    Cycled Out
+ET205991IR   J9GH3Y3         Chromebook   7/28/23, 8:00 AM    Cycled Out
+ET205992IR   FRXG3Y3         Chromebook   7/28/23, 8:00 AM    Cycled Out
+ET205919IR   JHT54Y3         Chromebook   7/28/23, 8:00 AM    Cycled Out
+ET205663IR   JH644Y3         Chromebook   7/28/23, 8:00 AM    Cycled Out
+ET248583IR   1XWNSB4         Chromebook   Prior 2021
+ET248587IR   9MRLSB4         Chromebook   Prior 2021
+ET248591IR   512MSB4         Chromebook   Prior 2021
+ET248619IR   5C2PSB4         Chromebook   Prior 2021
+ET248651IR   GC2MSB4         Chromebook   Prior 2021
+ET248625IR   JB2PSB4         Chromebook   Prior 2021
+ET248647IR   2KRLSB4         Chromebook   Prior 2021
+ET248623IR   C5DLSB4         Chromebook   Prior 2021
+ET248719IR   G7XNSB4         Chromebook   Prior 2021
+ET248715IR   23FLSB4         Chromebook   Prior 2021
+ET248569IR   F6SYSB4         Chromebook   Prior 2021
+ET248577IR   BW1WSB4         Chromebook   Prior 2021
+ET171851IR   P204FTXV        Chromebook   Prior 2021
+ET171867IR   P204FTGD        Chromebook   Prior 2021
+
+Asset ID     Serial Number            Asset Type   Purchase Date   Note
+ET171870IR   P204NVL6                 Chromebook   Prior 2021
+ET171872IR   P204NUW6                 Chromebook   Prior 2021
+ET171873IR   P204NVL2                 Chromebook   Prior 2021
+ET171876IR   P204FTGJ                 Chromebook   Prior 2021
+ET171877IR   P204FTWH                 Chromebook   Prior 2021
+ET171885IR   P204F3NC                 Chromebook   Prior 2021
+ET171886IR   P204FTF9                 Chromebook   Prior 2021
+ET171888IR   P204NUF8                 Chromebook   Prior 2021
+ET171890IR   P204NVUJ                 Chromebook   Prior 2021
+ET171904IR   P204FTJE                 Chromebook   Prior 2021
+ET171905IR   P204FUAH                 Chromebook   Prior 2021
+ET171907IR   P204FTMQ                 Chromebook   Prior 2021
+ET171913IR   P204FU1W                 Chromebook   Prior 2021
+ET171914IR   P204FTFH                 Chromebook   Prior 2021
+ET171920IR   P204FU20                 Chromebook   Prior 2021
+ET171969IR   P203F5B7                 Chromebook   Prior 2021
+ET171975IR   P203F5BN                 Chromebook   Prior 2021
+ET171977IR   P203F5CC                 Chromebook   Prior 2021
+ET172311IR   5CD047N24Z               Chromebook   Prior 2021
+ET201103IR   NXGP6AA001911194587600   Chromebook   Prior 2021
+ET201104IR   NXGP6AA001911194887600   Chromebook   Prior 2021
+ET201105IR   NXGP6AA001911194437600   Chromebook   Prior 2021
+ET201106IR   NXGP6AA001911193F77600   Chromebook   Prior 2021
+ET201107IR   NXGP6AA0019111942E7600   Chromebook   Prior 2021
+ET201108IR   NXGP6AA0019111946B7600   Chromebook   Prior 2021
+ET201110IR   NXGP6AA001912082667600   Chromebook   Prior 2021
+ET201111IR   NXGP6AA001911194347600   Chromebook   Prior 2021
+ET201113IR   NXGP6AA001911194807600   Chromebook   Prior 2021
+ET201114IR   NXGP6AA0019111940F7600   Chromebook   Prior 2021
+ET201115IR   NXGP6AA001911193167600   Chromebook   Prior 2021
+ET201118IR   NXGP6AA0019111942D7600   Chromebook   Prior 2021
+ET201120IR   NXGP6AA001911193BF7600   Chromebook   Prior 2021
+ET201122IR   NXGP6AA0019111931B7600   Chromebook   Prior 2021
+ET201123IR   NXGP6AA001911193117600   Chromebook   Prior 2021
+ET201124IR   NXGP6AA001911194257600   Chromebook   Prior 2021
+ET201126IR   NXGP6AA001911194187600   Chromebook   Prior 2021
+ET201128IR   NXGP6AA001911194137600   Chromebook   Prior 2021
+ET201129IR   NXGP6AA001911195177600   Chromebook   Prior 2021
+ET201132IR   NXGP6AA0019111947F7600   Chromebook   Prior 2021
+ET201133IR   NXGP6AA001911194777600   Chromebook   Prior 2021
+ET201134IR   NXGP6AA0019111935E7600   Chromebook   Prior 2021
+ET201137IR   NXGP6AA001911193F67600   Chromebook   Prior 2021
+ET201138IR   NXGP6AA001911194287600   Chromebook   Prior 2021
+ET201139IR   NXGP6AA001911194417600   Chromebook   Prior 2021
+ET201140IR   NXGP6AA001911194547600   Chromebook   Prior 2021
+ET201141IR   NXGP6AA0019111942C7600   Chromebook   Prior 2021
+ET201142IR   NXGP6AA0019111A9217600   Chromebook   Prior 2021
+ET201143IR   NXGP6AA0019111930F7600   Chromebook   Prior 2021
+ET201144IR   NXGP6AA001911193097600   Chromebook   Prior 2021
+ET201146IR   NXGP6AA001912083DF7600   Chromebook   Prior 2021
+ET201149IR   NXGP6AA001911193917600   Chromebook   Prior 2021
+ET201150IR   NXGP6AA001911194237600   Chromebook   Prior 2021
+ET201152IR   NXGP6AA0019111940A7600   Chromebook   Prior 2021
+ET201155IR   NXGP6AA0019111941F7600   Chromebook   Prior 2021
+ET201156IR   NXGP6AA00191206FEE7600   Chromebook   Prior 2021
+ET201157IR   NXGP6AA001912083E27600   Chromebook   Prior 2021
+ET201158IR   NXGP6AA0019111947A7600   Chromebook   Prior 2021
+ET201159IR   NXGP6AA001911194277600   Chromebook   Prior 2021
+ET201160IR   NXGP6AA001911193157600   Chromebook   Prior 2021
+ET201161IR   NXGP6AA0019111944A7600   Chromebook   Prior 2021
+ET201162IR   NXGP6AA001911194117600   Chromebook   Prior 2021
+ET201164IR   NXGP6AA0019111940E7600   Chromebook   Prior 2021
+ET201165IR   NXGP6AA0019111941E7600   Chromebook   Prior 2021
+ET201166IR   NXGP6AA001911194167600   Chromebook   Prior 2021
+ET201168IR   NXGP6AA001911193197600   Chromebook   Prior 2021
+ET201169IR   NXGP6AA0019111946C7600   Chromebook   Prior 2021
+ET201171IR   NXGP6AA001912083B27600   Chromebook   Prior 2021
+ET201172IR   NXGP6AA001911194677600   Chromebook   Prior 2021
+
+Asset ID     Serial Number            Asset Type   Purchase Date   Note
+ET201173IR   NXGP6AA001911193CF7600   Chromebook   Prior 2021
+ET201175IR   NXGP6AA0019111945D7600   Chromebook   Prior 2021
+ET201177IR   NXGP6AA001911193EA7600   Chromebook   Prior 2021
+ET201178IR   NXGP6AA001912083E87600   Chromebook   Prior 2021
+ET201179IR   NXGP6AA001911194687600   Chromebook   Prior 2021
+ET201180IR   NXGP6AA0019111942A7600   Chromebook   Prior 2021
+ET201182IR   NXGP6AA001911194607600   Chromebook   Prior 2021
+ET201184IR   NXGP6AA001911194837600   Chromebook   Prior 2021
+ET201186IR   NXGP6AA001911194497600   Chromebook   Prior 2021
+ET201187IR   NXGP6AA0019111943E7600   Chromebook   Prior 2021
+ET201190IR   NXGP6AA001911194797600   Chromebook   Prior 2021
+ET201191IR   NXGP6AA001911193EB7600   Chromebook   Prior 2021
+ET201192IR   NXGP6AA001911194657600   Chromebook   Prior 2021
+ET201193IR   NXGP6AA0019111942B7600   Chromebook   Prior 2021
+ET201194IR   NXGP6AA0019111943F7600   Chromebook   Prior 2021
+ET201196IR   NXGP6AA001911191F67600   Chromebook   Prior 2021
+ET201197IR   NXGP6AA001911194697600   Chromebook   Prior 2021
+ET201199IR   NXGP6AA001911194327600   Chromebook   Prior 2021
+ET201200IR   NXGP6AA0019111947D7600   Chromebook   Prior 2021
+ET201201IR   NXGP6AA0019111A7017600   Chromebook   Prior 2021
+ET201202IR   NXGP6AA001911194737600   Chromebook   Prior 2021
+ET201203IR   NXGP6AA0019111946D7600   Chromebook   Prior 2021
+ET201204IR   NXGP6AA001912082787600   Chromebook   Prior 2021
+ET201205IR   NXGP6AA001911194537600   Chromebook   Prior 2021
+ET201206IR   NXGP6AA0019111941C7600   Chromebook   Prior 2021
+ET201207IR   NXGP6AA001911194577600   Chromebook   Prior 2021
+ET201208IR   NXGP6AA001911194367600   Chromebook   Prior 2021
+ET201210IR   NXGP6AA001911194597600   Chromebook   Prior 2021
+ET201211IR   NXGP6AA001911194767600   Chromebook   Prior 2021
+ET201221IR   NXGP6AA0019111940C7600   Chromebook   Prior 2021
+ET201222IR   NXGP6AA001912083D77600   Chromebook   Prior 2021
+ET201225IR   NXGP6AA0019111941D7600   Chromebook   Prior 2021
+ET201228IR   NXGP6AA0019111942F7600   Chromebook   Prior 2021
+ET201238IR   NXGP6AA001911193177600   Chromebook   Prior 2021
+ET201239IR   NXGP6AA001911194407600   Chromebook   Prior 2021
+ET201242IR   NXGP6AA001911194227600   Chromebook   Prior 2021
+ET201244IR   NXGP6AA001912082757600   Chromebook   Prior 2021
+ET201245IR   NXGP6AA001911194857600   Chromebook   Prior 2021
+ET201246IR   NXGP6AA0019111948A7600   Chromebook   Prior 2021
+ET201255IR   NXGP6AA001912083E37600   Chromebook   Prior 2021
+ET201257IR   NXGP6AA001911194787600   Chromebook   Prior 2021
+ET201258IR   NXGP6AA001911194107600   Chromebook   Prior 2021
+ET201260IR   NXGP6AA0019111945B7600   Chromebook   Prior 2021
+ET201262IR   NXGP6AA001911193B27600   Chromebook   Prior 2021
+ET201263IR   NXGP6AA001911194727600   Chromebook   Prior 2021
+ET201272IR   NXGP6AA001912083DA7600   Chromebook   Prior 2021
+ET201273IR   NXGP6AA0019111946E7600   Chromebook   Prior 2021
+ET201274IR   NXGP6AA001911194157600   Chromebook   Prior 2021
+ET201276IR   NXGP6AA0019111947E7600   Chromebook   Prior 2021
+ET201277IR   NXGP6AA0019111944D7600   Chromebook   Prior 2021
+ET201278IR   NXGP6AA001911194127600   Chromebook   Prior 2021
+ET201279IR   NXGP6AA0019111923F7600   Chromebook   Prior 2021
+ET201280IR   NXGP6AA001911194487600   Chromebook   Prior 2021
+ET201287IR   5CD040C48N               Chromebook   Prior 2021
+ET201289IR   NXGP6AA0019111946A7600   Chromebook   Prior 2021
+ET201291IR   NXGP6AA001911194527600   Chromebook   Prior 2021
+ET201292IR   NXGP6AA001911194897600   Chromebook   Prior 2021
+ET201295IR   NXGP6AA001911194847600   Chromebook   Prior 2021
+ET201296IR   NXGP6AA001911193E67600   Chromebook   Prior 2021
+ET201297IR   NXGP6AA001911194427600   Chromebook   Prior 2021
+ET201361IR   5CD040C490               Chromebook   Prior 2021
+ET201394IR   5CD040C002               Chromebook   Prior 2021
+ET201396IR   5CD040C39P               Chromebook   Prior 2021
+ET201397IR   5CD0347D4Y               Chromebook   Prior 2021
+ET201601IR   5CD040C29Y               Chromebook   Prior 2021
+ET201626IR   5CD04082HV               Chromebook   Prior 2021
+ET201651IR   5CD040BZQR               Chromebook   Prior 2021
+ET201680IR   5CD04082J1               Chromebook   Prior 2021
+
+Asset ID     Serial Number            Asset Type          Purchase Date        Note
+ET201789IR   5CD040BZQV               Chromebook          Prior 2021
+ET201852IR   5CD040BZWG               Chromebook          Prior 2021
+ET201889IR   5CD0408225               Chromebook          Prior 2021
+ET202158IR   P203NTN0                 Chromebook          Prior 2021
+ET202953IR   P203F5C0                 Chromebook          Prior 2021
+ET204508IR   P204FTFF                 Chromebook          Prior 2021
+N/A          0Q9T91HJ401243           Chromebook          Prior 2021
+ET204722IR   1S10M7000QUSMJ073JP9     Desktop             1/23/23              Damaged
+ET203144IR   MJ094GCQ                 Desktop             11/28/21, 4:53 PM
+ET202764IR   MJ0937WT                 Desktop             11/8/21, 9:47 PM
+ET171864IR   1S10M7000QUSMJ073JRH     Desktop             Prior 2021
+ET202198IR   1S10ST002FUSMJ093CBC     Desktop             Prior 2021
+ET204922IR   8726504966               Laptop              6/23/22              Cycled Out
+ET202136IR   1S20RA004WUSPF1X3Q4S     Laptop              Prior 2021
+ET204672IR   MMTCYAA003147194BE8555   Monitor             9/2/22               Cycled Out
+ET204654IR   MMLY7AA0069160F7508559   Monitor             1/23/23              Damaged
+ET203354IR   ETLJE0W16811807F204307   Monitor             10/29/21, 7:01 PM
+117770       ETLJE0W16811807F6E4307   Monitor             11/27/21, 5:16 PM
+ET203086IR   MMLY7AA0088060DFD6851D   Monitor             12/6/18, 12:00 AM
+ET202305IR   MMLY7AA0131481811385WK   Monitor             2/11/22, 5:00 AM     Damaged
+116697       ETLE10D0339210191C8521   Monitor             Prior 2021
+et204709ir   MCTCYAA003147195668555   Monitor             Prior 2021
+ET206419IR   DFQAXEHLEC3830           Newline             10/15/25, 12:00 PM   Cycled Out
+ET248831IR   HFQD1EINEB0146           Newline             10/15/25, 12:00 PM   Cycled Out
+ET170938IR   PHB5C19073               Printer             1/23/23              Damaged
+116130       VND3H04205               Printer             Prior 2021
+116135       CNBK640215               Printer             Prior 2021
+116753       VND3C52581               Printer             Prior 2021
+117543       CNB9995689               Printer             Prior 2021
+ET101159IR   VND3H13434               Printer             Prior 2021
+ET171154IR   6X00665RE                Projector           10/27/21, 4:23 PM
+20180010     MJ-02-R-61U              Server              Prior 2021
+ET204420IR   PU431FH20044119          WiFi Access Point   7/1/21, 12:00 AM     Cycled Out
+ET201438IR   PU431FTH20044427         WiFi Access Point   7/1/21, 12:00 AM
+ET201436IR   PU431FTH20048444         WiFi Access Point   7/1/21, 12:00 AM
+ET205670IR   PU421ETF19007344         WiFi Access Point   7/23/20, 4:00 AM     Cycled Out
+ET205604IR   PU421ETF18001272         WiFi Access Point   7/23/20, 4:00 AM     Cycled Out
+ET205620IR   PU421ETF19007331         WiFi Access Point   7/23/20, 4:00 AM     Cycled Out
+ET205621IR   PU421ETF19014335         WiFi Access Point   7/23/20, 4:00 AM     Cycled Out
+ET205637IR   PU421ETF19007281         WiFi Access Point   7/23/20, 4:00 AM     Cycled Out
+ET205654IR   PU421ETF18000989         WiFi Access Point   7/23/20, 4:00 AM     Cycled Out
+ET205671IR   PU421ETF18000988         WiFi Access Point   7/23/20, 4:00 AM     Cycled Out
+ET205573IR   PU421ETF19007278         WiFi Access Point   7/23/20, 4:00 AM     Cycled Out
+ET205688IR   PU421ETF19009848         WiFi Access Point   7/23/20, 4:00 AM     Cycled Out
+ET205638IR   PU421ETF19012801         WiFi Access Point   7/23/20, 4:00 AM     Cycled Out
+ET205655IR   PU421ETF18000958         WiFi Access Point   7/23/20, 4:00 AM     Cycled Out
+ET205672IR   PU421ETF18000980         WiFi Access Point   7/23/20, 4:00 AM     Cycled Out
+ET205622IR   PU421ETF19007288         WiFi Access Point   7/23/20, 4:00 AM     Cycled Out
+ET205689IR   PU421ETF19009525         WiFi Access Point   7/23/20, 4:00 AM     Cycled Out
+ET205639IR   PU421ETF19007284         WiFi Access Point   7/23/20, 4:00 AM     Cycled Out
+ET205673IR   PU421ETF19009991         WiFi Access Point   7/23/20, 4:00 AM     Cycled Out
+ET205624IR   PU421ETF19009938         WiFi Access Point   7/23/20, 4:00 AM     Cycled Out
+ET205641IR   PU421ETF19010547         WiFi Access Point   7/23/20, 4:00 AM     Cycled Out
+ET201085IR   PU421ETF19014701         WiFi Access Point   7/23/20, 4:00 AM     Cycled Out
+ET206711IR   PU421ETF18001288         WiFi Access Point   7/23/20, 8:00 AM     Damaged
+

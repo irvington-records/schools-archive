@@ -1,0 +1,111 @@
+SOURCE https://services.google.com/fh/files/misc/gfe_classroom_userguide_teachers.pdf | DATE unknown | TITLE gfe_classroom_userguide_teachers.pdf
+
+Getting started with
+Google Classroom
+A quick start guide for educators to
+launch their digital classroom in 7 steps.
+
+
+   Your checklist for setting up your class and engaging students:
+
+           Sign in to Google Classroom
+           To get started, sign in to classroom.google.com with your official school email.                Learn how
+           If you can’t get in, contact your administrator to enable your access.
+
+
+
+           Create your class
+           Set up your digital home base. This is your central hub for announcements,                       Learn how
+           assignments, and resources.
+
+
+           Customize your class settings
+           Go to your class settings to change the class theme, manage invite codes,                       Learn how
+           and control who can post and comment on the Stream page.
+
+
+           Set up your gradebook
+           Go to your class settings to decide how grades are calculated, create                            Learn how
+           grading categories and periods, and manage visibility for students.
+
+
+
+           Invite your students
+           Connect with your students by sharing a unique class code or by                                  Learn how
+           sending email invitations directly.
+
+
+           Post an announcement
+           Share welcome messages, reminders, or discussion prompts with your entire                        Learn how
+           class using the Stream page.
+
+
+           Create an assignment
+           Go to the Classwork page to create, schedule, and post assignments.                              Learn how
+
+
+
+
+                                                             © 2025 Google LLC 1600 Amphitheatre Parkway, Mountain View, CA 94043.
+                                                                                                                              All editions
+
+
+
+
+Explore more essential features
+     Getting started with                              in Classroom
+
+            Gemini in Classroom                                 100+ ways to use Gemini               Explore the training
+            Gemini in Classroom helps                           in education                          Learn how to use the
+            educators go from idea to                           Explore how educators and             Geminin in Classroom tools.
+            instruction faster, giving                          students can use Gemini for
+                                                                                                      AI Literacy Hub
+            them time back for the art of                       Education, Gemini
+                                                                                                      Build AI knowledge and
+            teaching, with access to                            Notebook, Gemini in
+                                                                                                      literacy with trainings and
+            over 30 Google AI tools at                          Classroom, and teacher-led
+                                                                                                      guides consolidated into a
+            no charge.                                          AI learning experiences for
+                                                                                                      central hub.
+                                                                students.
+
+               Start using Gemini in Classroom at classroom.google.com/ai
+
+
+         Streamlining your                                                        Communicating with
+         instruction and feedback                                                 your class community
+         Set up grading and rubrics: Organize                                     Enable guardian summaries: Invite parents
+         classwork with grade categories and learn how                            and guardians to receive automatic email digests
+         to grade with a rubric.                                                  of their student’s missing work, upcoming
+                                                                                  assignments, and class announcements.
+         Schedule posts in advance: Prepare and
+         schedule announcements, materials, or                                    Email students and guardians directly:
+         assignments to post automatically.                                       Use the People page to send emails to specific
+                                                                                  students, groups of students, or their guardians
+         Reuse assignments: Save time by copying and                              without leaving Classroom.
+         modifying posts from any of your current or
+         archived classes.                                                        Use the Question tool for discussions:
+                                                                                  Post a question on the Classwork page to create a
+         Use the comment bank: Store your most                                    quick, focused discussion forum or poll.
+         frequent feedback and insert it with a single
+         click while grading.                                                     Manage class comments: Foster a positive
+                                                                                  environment by setting permissions for who can
+         Use originality reports: Help students cite                              comment on the Stream page.
+         their work and check for potential plagiarism.
+                                                                                  Set up and join a Google Meet video call: Launch
+         View assignment progress: Track which                                    a secure video meeting for your class directly from
+         students have submitted work, who is still                               Classroom.
+         working, and who has been graded in real time.
+
+
+    Want more from Classroom?
+    The path to premium features like creating student groups and tagging learning
+    standards and skills, and to tools like Read Along in Classroom, Classroom add-ons,
+    practice sets, and more, starts with reaching out to your IT admin and asking for them.
+
+
+
+© 2025 Google LLC 1600 Amphitheatre Parkway, Mountain View, CA 94043.                  v the Google Classroom Help Center
+                                                                                      Visit
+                                                                                      for more support

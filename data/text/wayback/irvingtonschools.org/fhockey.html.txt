@@ -1,0 +1,18 @@
+SOURCE http://www.irvingtonschools.org:80/fhockey.html | DATE 2002-12-24 | TITLE Field Hockey
+
+Varsity/Junior Varsity Sports Fall 2002
+Varsity Coach: Barbara Falasca
+| DATE | OPPONENT | TIME | 
+| Sept. 10 | at Briarcliff | 4:15 PM | 
+| Sept. 13 | Pleasantville | 4:30 PM | 
+| Sept. 17 | at Rye Neck | 4:15 PM | 
+| Sept. 18 | at North Salem | 4:15 PM | 
+| Sept. 20 | Pawling | 4:15 PM | 
+| Sept. 24 | at Croton-Harmon | 4:15 PM | 
+| Sept. 26 | at Valhalla | 4:15 PM | 
+| Sept. 30 | Hastings | 4:15 PM | 
+| Oct. 2 | at Bronxville | 4:15 PM | 
+| Oct. 8 | Valhalla | 4:15 PM | 
+| Oct. 10 | at Hastings | 4:15 PM | 
+| Oct. 16 | Bronxville | 4:15 PM | 
+| Oct. 18 | Rye Neck | 4:15 PM |

@@ -1,0 +1,628 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/goto?open&id=C4GL97556D61 | DATE: 2021-07-06 | TITLE: 2021-22 Reorganization Meeting/Regular Meeting | 16.6 Appointment of 2021/22 Coaches
+
+Meeting: Jul 06, 2021 - 2021-22 Reorganization Meeting/Regular Meeting
+Date: 2021-07-06
+Category: 16. Personnel Matters
+Subject: 16.6 Appointment of 2021/22 Coaches
+Type: Action (Consent)
+
+First Name
+			Last Name
+			Sport
+			Level
+			Season
+			Group
+			Step
+			Salary
+
+			Chris
+			Barry
+			Cross Country
+			Varsity Head
+			Fall
+			IV
+			8
+			$5,957.00
+
+			Michael
+			McQuillan
+			Cross Country
+			Varsity Assistant
+			Fall
+			IV
+			2
+			$3,657.00
+
+			Skyler
+			Mosenthal
+			Cross Country
+			Modified Head
+			Fall
+			IV
+			1
+			$3,342.00
+
+			Beth
+			Staropoli
+			Field Hockey
+			Varsity Head
+			Fall
+			III
+			5
+			$7,446.00
+
+			Jordan
+			LaRaus
+			Field Hockey
+			Varsity Assistant
+			Fall
+			III
+			2
+			$4,732.00
+
+			Rebecca
+			Nani
+			Field Hockey
+			Junior Varisty Head
+			Fall
+			III
+			3
+			$5,135.00
+
+			Olivia
+			Evanko
+			Field Hockey
+			Modified Head
+			Fall
+			III
+			2
+			$4,368.00
+
+			Jeff
+			Michael
+			Football
+			Varsity Head
+			Fall
+			I
+			1
+			$8,880.00
+
+			Mike
+			Esteves
+			Football
+			Modified Assistant
+			Fall
+			I
+			3
+			$4,945.00
+
+			Bernard
+			Keating
+			Soccer (Boys)
+			Varsity Head
+			Fall
+			III
+			8
+			$7,611.00
+
+			Ben
+			Ovetsky
+			Soccer (Boys)
+			Varsity Assistant
+			Fall
+			III
+			3
+			$4,768.00
+
+			Marc-Anthony
+			William
+			Soccer (Boys)
+			Junior Varisty Head
+			Fall
+			III
+			3
+			$5,135.00
+
+			David
+			Kendall
+			Soccer (Boys)
+			Modified Head
+			Fall
+			III
+			3
+			$4,401.00
+
+			Patrick
+			DiBenedetto
+			Soccer (Girls)
+			Varsity Head
+			Fall
+			III
+			8
+			$7,611.00
+
+			Chelsea
+			Malota
+			Soccer (Girls)
+			Varsity Assistant
+			Fall
+			III
+			1
+			$4,696.00
+
+			Jessica
+			Geller
+			Soccer (Girls)
+			Junior Varsity Head
+			Fall
+			III
+			2
+			$5,096.00
+
+			Suzanne
+			Carroll
+			Soccer (Girls)
+			Modified Head
+			Fall
+			III
+			2
+			$4,368.00
+
+			Stephanie
+			Schilling
+			Swimming (Girls)
+			Varsity Head
+			Fall
+			III
+			6
+			$7,501.00
+
+			Gina
+			Maher
+			Tennis (Girls)
+			Varsity Head
+			Fall
+			IV
+			8
+			$5,957.00
+
+			Keria
+			Smith
+			Tennis (Girls)
+			Junior Varisty Head
+			Fall
+			IV
+			3
+			$3,977.00
+
+			Carol
+			Labella
+			Tennis (Girls)
+			Modified Head
+			Fall
+			IV
+			8
+			$3,574.00
+
+			Taneisha
+			Cantave
+			Volleyball (Girls)
+			Varsity Head
+			Fall
+			IV
+			5
+			$5,791.00
+
+			Fitzroy
+			Lawson
+			Volleyball (Girls)
+			Junior Varisty Head
+			Fall
+			IV
+			5
+			$4,054.00
+
+			Luann
+			Riccardi
+			Volleyball (Girls)
+			Modified Head
+			Fall
+			IV
+			3
+			$3,409.00
+
+			Laura
+			Shaw
+			Intramurals
+			Main Street School
+			Fall
+			V
+			7
+			$4,798.00
+
+			Kate
+			Becker
+			Intramurals
+			Middle School (split)
+			Fall
+			V
+			8
+			$2,427.00
+
+			Brian
+			Agosti
+			Intramurals
+			Middle School (split)
+			Fall
+			V
+			8
+			$2,427.00
+
+			Martin
+			Resendiz
+			Intramurals
+			High School
+			Fall
+			V
+			8
+			$4,854.00
+
+			David
+			Boykin
+			Basketball (Boys)
+			Varsity Head
+			Winter
+			II
+			4
+			$8,494.00
+
+			Matthew
+			Morgan
+			Basketball (Boys)
+			Varsity Assistant
+			Winter
+			II
+			2
+			$5,449.00
+
+			Rocco
+			Cipriano
+			Basketball (Boys)
+			Junior Varsity Head
+			Winter
+			II
+			3
+			$5,907.00
+
+			Brian
+			Agosti
+			Basketball (Boys)
+			Modified Head
+			Winter
+			II
+			8
+			$5,229.00
+
+			Gina
+			Maher
+			Basketball (Girls)
+			Varsity Head
+			Winter
+			II
+			8
+			$8,714.00
+
+			Barbara
+			Constantine
+			Basketball (Girls)
+			Varsity Assistant
+			Winter
+			II
+			8
+			$5,664.00
+
+			Kaitlin
+			Degnan
+			Basketball (Girls)
+			Junior Varsity Head
+			Winter
+			II
+			2
+			$5,868.00
+
+			Martin
+			Resendiz
+			Basketball (Girls)
+			Modified Head
+			Winter
+			II
+			8
+			$5,229.00
+
+			Rey
+			Serrano
+			Bowling
+			Varsity Head
+			Winter
+			V
+			8
+			$4,854.00
+
+			Michael
+			McQuillan
+			Fencing
+			Varsity Head
+			Winter
+			IV
+			3
+			$5,681.00
+
+			Kevin
+			Hagen
+			Ice Hockey
+			Varsity Head
+			Winter
+			III
+			6
+			$7,501.00
+
+			Scott
+			Mosenthal
+			Winter Track
+			Varsity Head
+			Winter
+			IV
+			8
+			$5,957.00
+
+			Chris
+			Barry
+			Winter Track
+			Varsity Assistant
+			Winter
+			IV
+			8
+			$3,872.00
+
+			Jennifer
+			Lentini
+			Winter Track
+			Modified Head
+			Winter
+			IV
+			8
+			$3,574.00
+
+			Benjamin
+			Karol
+			Wrestling
+			Varsity Head
+			Winter
+			III
+			6
+			$7,501.00
+
+			Edgar
+			Solis
+			Wrestling
+			Varsity Assistant
+			Winter
+			III
+			3
+			$4,768.00
+
+			Edison
+			Gramajo
+			Wrestling
+			Modified Head
+			Winter
+			III
+			2
+			$4,368.00
+
+			Michael
+			DiNardo
+			Baseball
+			Varsity Head
+			Spring
+			III
+			8
+			$7,611.00
+
+			Rocco
+			Cipriano
+			Baseball
+			Varsity Assistant
+			Spring
+			III
+			3
+			$4,768.00
+
+			David
+			Erosa
+			Baseball
+			Junior Varsity Head
+			Spring
+			III
+			3
+			$5,135.00
+
+			Matthew
+			Arone
+			Baseball
+			Modified Head
+			Spring
+			III
+			2
+			$4,368.00
+
+			Kate
+			Becker
+			Golf (Boys)
+			Varsity Head
+			Spring
+			V
+			8
+			$4,854.00
+
+			Michael
+			Schaefer
+			Lacrosse (Boys)
+			Varsity Head
+			Spring
+			III
+			5
+			$7,446.00
+
+			Chris
+			Suplina
+			Lacrosse (Boys)
+			Varsity Assistant
+			Spring
+			III
+			4
+			$4,804.00
+
+			Brian
+			Agosti
+			Lacrosse (Boys)
+			Modified Head
+			Spring
+			III
+			8
+			$4,567.00
+
+			Patrick
+			DiBenedetto
+			Lacrosse (Girls)
+			Varsity Head
+			Spring
+			III
+			8
+			$7,611.00
+
+			Chelsea
+			Malota
+			Lacrosse (Girls)
+			Varsity Assistant
+			Spring
+			III
+			2
+			$4,732.00
+
+			Beth
+			Staropoli
+			Lacrosse (Girls)
+			Junior Varsity Head
+			Spring
+			III
+			6
+			$5,251.00
+
+			Suzanne
+			Carroll
+			Lacrosse (Girls)
+			Modified Head
+			Spring
+			III
+			2
+			$4,368.00
+
+			Martin
+			Resendiz
+			Softball
+			Varsity Head
+			Spring
+			III
+			8
+			$7,611.00
+
+			Olivia
+			Evanko
+			Softball
+			Varsity Assistant
+			Spring
+			III
+			2
+			$4,732.00
+
+			Rebecca
+			Nani
+			Softball
+			Junior Varsity Head
+			Spring
+			III
+			3
+			$5,135.00
+
+			Michael
+			Esteves
+			Softball
+			Modified Head
+			Spring
+			III
+			4
+			$4,434.00
+
+			Keria
+			Smith
+			Tennis (Boys)
+			Junior Varsity Head
+			Spring
+			IV
+			3
+			$3,977.00
+
+			Carol
+			Labella
+			Tennis (Boys)
+			Modified Head
+			Spring
+			IV
+			8
+			$3,574.00
+
+			Chris
+			Barry
+			Track & Field (Boys)
+			Varsity Head
+			Spring
+			III
+			8
+			$7,611.00
+
+			Jason
+			McFall
+			Track & Field (Girls)
+			Varsity Head
+			Spring
+			III
+			2
+			$7,280.00
+
+			Michael
+			McQuillan
+			Track & Field
+			Varsity Assistant
+			Spring
+			III
+			3
+			$4,768.00
+
+			Skyler
+			Mosenthal
+			Track & Field
+			Modified Head
+			Spring
+			III
+			4
+			$4,434.00
+
+			Luann
+			Ricciardi
+			Track & Field
+			Modified Assistant
+			Spring
+			III
+			8
+			$4,186.00

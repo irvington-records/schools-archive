@@ -1,0 +1,51 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/pfiles/9VRPGH53B660/$file/InfoBreach%20-%202nd%20read.pdf | DATE: 2015-05-05 | TITLE: Public Hearing/Regular Meeting - 7:30 p.m. | 9.6 2nd Read/Adoption - #8635 - Information Security Breach and Notification | InfoBreach - 2nd read.pdf
+
+2nd Read – 5/5/15
+                                                           2015    8635 (NYSSBA)
+
+                                                                   Non-Instructional/
+                                                                   Business Operations
+
+
+SUBJECT: INFORMATION SECURITY BREACH AND NOTIFICATION
+
+
+        The Board of Education acknowledges the heightened concern regarding the rise in
+identity theft, the need for secure networks, and the necessity prompt notification when security
+breaches occur. To this end, the Board directs the Superintendent of Schools, in accordance with
+appropriate business and technology personnel, to establish regulations which:
+
+       Identify and/or define the types of private information that is to be kept secure. For
+        purposes of this policy, “private information” does not include information that can
+        lawfully be made available to the general public pursuant to federal or state law or
+        regulation;
+       Include procedures to identify any breaches of security that result in the release of
+        private information; and
+       Include procedures to notify persons affected by the security breach as required by law.
+
+        Additionally, pursuant to Labor Law §203-d, the District will not communicate employee
+“personal identifying information” to the general public. This includes social security number,
+home address or telephone number, personal electronic email address, user name or password,
+parent’s surname prior to marriage, or driver’s license number. In addition, the District will
+protect employee social security numbers in that such numbers shall not: be publicly posted or
+displayed, be printed on any ID badge, card or time card, be placed in files with unrestricted
+access, or be used for occupational licensing purposes. Employees with access to such
+information shall be notified of these prohibitions and their obligations.
+
+        Any breach of the District’s information storage or computerized data which
+compromises the security, confidentiality, or integrity of personal information maintained by the
+District shall be promptly reported to the Superintendent and the Board of Education.
+
+Ref:   State Technology Law §§201-208
+       Labor Law §203-d
+Cross Ref:
+
+Information and Security Breach Regulation
+
+Adoption date:
+
+
+
+
+1
+

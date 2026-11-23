@@ -1,0 +1,55 @@
+SOURCE https://services.google.com/fh/files/misc/techtoolkit__familiesandguardians.pdf | DATE unknown | TITLE techtoolkit__familiesandguardians.pdf
+
+FAMILIES AND GUARDIANS
+
+
+
+
+Tech toolkit for families and guardians
+Empower your school community with easy-to-use resources that guide families
+on using common classroom learning tools.
+
+What’s included?                                             How do I use this toolkit?
+Ready to share resources that explain Google for             Share these simple, easy-to-use resources
+Education products and features, tips for                    with families and guardians. Or save time by
+students’ digital well-being and online safety,              using our pre-written email template,
+common EdTech FAQs, and more. With Google for                complete with links and quick explanations.
+Education resources for families and guardians,
+you can empower, inform, and engage your entire
+school community – and help students thrive in
+and out of the classroom.
+
+
+
+
+Google for Education:           Google Terms                       Best Practices for                     Tech FAQ
+Tech Toolkit Video Series       Glossary                           Family Engagement                      Get quick answers to
+Share this YouTube playlist     Distribute this printable,         Use this one-pager to                  families’ most frequently
+of videos led by Google         one-page glossary that             provide best practices for             asked questions about
+innovators, trainers, and       lists a range of Google            families and guardians                 EdTech tools – and learn
+educators explaining            tools that educators may           seeking to stay engaged                how to fix common issues
+the tools and capabilities      use in their classrooms. It        with their child’s education.          students encounter.
+of Google Workspace for         includes names,                    Learn how to build healthy             Easy to print or send
+Education, Google Classroom,    descriptions, as well as           digital habits, take learning          directly to families and
+Meet, Chromebooks,              how students use                   beyond the classroom, and              guardians, educators can
+accessibility, and security.    products like Google               better communicate with                also use the FAQ for
+                                Classroom, Meet, and               families, guardians, and               in-person discussions.
+                                more.                              students.
+
+
+
+
+Getting started with                                            Additional resources
+Google for Education?                                           for families and guardians
+Use this Help Center guide for more on how                      Extend learning at home: Guardian’s Guides to Google
+to communicate effectively with guardians                       Tools, Google Families, and Applied Digital Skills.
+about their students’ use of Google
+                                                                Tools for digital well-being and online safety: Be
+Workspace for Education Core and Additional
+                                                                Internet Awesome, Google Online Safety Center, Family
+services, share the Google for Education
+                                                                Link, Common Sense Media, and Family Online Safety
+Privacy Notice, and help secure guardian
+                                                                Institute.
+consent where appropriate.
+                                                                © 2023 Google LLC 1600 Amphitheatre Parkway, Mountain View, CA 94043.

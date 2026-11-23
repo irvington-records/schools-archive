@@ -1,0 +1,17 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/goto?open&id=9F6HKJ48D983 | DATE: 2014-01-14 | TITLE: Regular Meeting - 6:30 p.m.* | 11.5 Budget Transfers
+
+Meeting: Jan 14, 2014 - Regular Meeting - 6:30 p.m.*
+Date: 2014-01-14
+Category: 11. Business Office Matters
+Subject: 11.5 Budget Transfers
+Type: Action (Consent)
+
+Budget Transfer 13/14-05
+
+	Debit  A2250-400-40-2500 (Physical/OT Services)              $6,500
+
+	Credit A2250-462-40-0000 (Spec. Ed -computer software) $4,000
+
+	Credit A2250-450-40-0000 (Spec. Ed -supplies)                   $2,500
+
+	This budget transfer was for a Software license renewal and furniture/supplies needed for PPS/Registrar clerical position.

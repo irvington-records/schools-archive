@@ -1,0 +1,29 @@
+SOURCE http://www.irvingtonschools.org:80/baseball.html | DATE 2002-08-25 | TITLE Baseball
+
+Varsity Sports
+Coach: Matt Arone
+| DATE | OPPONENT | TIME | 
+| Apr. 3 | Briarcliff | 4:15 PM | 
+| Apr. 4 | Harrison | 4:15 PM | 
+| Apr. 6 | at Byram Hills | TBA | 
+| Apr. 8 | Blind Brook | 4:15 PM | 
+| Apr. 10 | at Tuckahoe | 4:30 PM | 
+| Apr. 15 | Scarsdale | 4:15 PM | 
+| Apr. 16 | at Dobbs Ferry | 4:15 PM | 
+| Apr. 18 | at Alexander Hamilton | 4:30 PM | 
+| Apr. 19 | at Pleasantville | 4:30 PM | 
+| Apr. 22 | Woodlands | 4:15 PM | 
+| Apr. 24 | Westlake | 4:15 PM | 
+| Apr. 25 | at White Plains | 4:15 PM | 
+| Apr. 27 | Sleepy Hollow at Scenic Hudson #1 | 6:00 PM | 
+| Apr. 29 | at Rye Neck | 4:15 PM | 
+| May 2 | Valhalla | 4:15 PM | 
+| May 6 | at Valhalla | 4:30 PM | 
+| May 8 | at Hastings | 4:30 PM | 
+| May 9 | Hastings | 4:15 PM | 
+| May 11 | at Edgemont | 1:30 PM | 
+| May 13 | Quad Village Tournament at Scenic Hudson Park #1 | TBA | 
+| May 14 | Bronxville | 4:15 PM | 
+| May 16 | at Bronxville | 4:30 PM | 
+| May 20 | Rye Neck | 4:15 PM | 
+| May 21 | Keio Academy | 4:15 PM |

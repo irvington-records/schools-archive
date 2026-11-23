@@ -1,0 +1,276 @@
+SOURCE https://services.google.com/fh/files/misc/google_classroom_onepager.pdf | DATE unknown | TITLE google_classroom_onepager.pdf
+
+Where teaching and
+learning come together
+Google Classroom brings together Google
+Workspace for Education productivity tools,
+creating a seamless flow between all the apps
+you love, built with enterprise-grade security
+and AI-powered innovation.
+
+                                                                                                       Forms
+                                                                                              Sheets               Vids
+                                                                                     Docs                                 Slides
+
+THE CLASSROOM DIFFERENCE                                                                          Collaboration and
+                                                                             Sites                  productivity
+
+Google Classroom is more than an LMS solution; it’s a                Calendar
+complete learning ecosystem, seamlessly integrated
+with Google Workspace and top EdTech tools while              Storage                                                                       Plagiarism
+                                                                                                                                            detection
+offering AI-powered capabilities and data-driven insights
+                                                                                                                                      Originality reports
+to support leaders, teachers, and students.                     Drive
+
+
+
+As part of Workspace, Classroom is cost-effective, easy     Visibility, analytics,
+                                                                                                                                    Email and
+                                                                                                                                    messaging
+                                                                and access
+to implement, and packed with innovative features –
+                                                                                                                                         Gmail
+                                                                  Data Studio
+such as Gemini in Classroom, your collaborative partner                                                                                 Groups
+                                                                        BigQuery
+that helps you go from idea to instruction faster –
+                                                                                                                                     Chat
+                                                                         AppSheet
+making it the ideal choice for schools looking to
+                                                                                                  Privacy and security
+streamline their technology and power student potential.
+                                                                                      Admin                            My Account
+                                                                                                 Security      Vault
+                                                                                                  Center
+
+
+
+
+Classroom opens up a world of teaching
+and learning possibilities, in one solution
+
+
+
+
+Supercharge leaders                      Empower teachers                                        Enable students
+Create learning environments that        Make the most of instructional                          Foster tailored learning experiences
+are easier to manage, and support        time with tools purpose-built for                       and drive student agency with tools
+educators and students with              teaching, productivity, and                             that meet students where they are and
+connected, safer tools.                  collaboration.                                          help them build skills for their future.
+
+
+
+
+                                                                                   Bring teaching and learning together
+                                                                                   edu.google.com/classroom
+                                                                     © 2026 Google LLC 1600 Amphitheatre Parkway, Mountain View, CA 94043.
+INSPIRE AND ENABLE INSTITUTIONS
+
+Google Classroom empowers your entire school community
+Access all the LMS features you’ve come to expect, and make them accessible to everyone
+in your school community, without the added cost. Administrators get data-driven insights and
+streamlined management. Teachers save time with enhanced communication and personalized
+learning tools. Everyone benefits from engaging collaboration and extended learning opportunities.
+
+
+                                                     Instructional
+
+         Support                                   Make learning                                          Content and course
+         your teachers                             more personal                                          management
+
+ ●   Access over 30 Gemini in            ● Scale personalized learning with                     ●    Streamline grading with
+     Classroom tools at no cost            teacher-led AI tools, such as Gemini                      AI-suggested writing feedback
+ ●   View analytics at class and           Notebook and, coming soon, Guided                    ●    Convert a file instantly into a
+     district level                        Learning in Classroom                                     Classroom-ready rubric
+ ●   Visit a class to support teachers   ● Scaffolded, interactive assignments                  ●    Create and attach
+     and collaboration                   ● Student groups and                                        video content
+ ●   Share district curriculum             differentiated lessons                               ●    Insights for teachers
+     with teachers                       ● Native audio, video, and screen                           to inform instruction
+                                           recording                                            ●    Resource-sharing with
+                                         ● Independent reading activities                            other teachers
+                                         ● Plagiarism detection                                 ●    Flexible grading and
+                                         ● Active learning with video lessons                        feedback tools
+                                         ● Engage the Google Classroom app in                   ●    Parent and guardian communication
+                                           Gemini for contextual support                             tools
+                                          ●   Tag assignments with learning goals
+                                              and track progress against learning
+                                              standards
+
+
+                                                        Technical
+
+
+
+Data privacy and security                Extend and scale                                      Consolidate and implement
+ ●   Advanced security and                ●   Student Information System (SIS)                  ●    Consolidate your tech stack
+     management capabilities                  integration options                                    with Google Workspace
+ ●   Roles and permissions                ●   EdTech tool integrations                               for Education
+                                          ●   Open APIs for customization                       ●    Elevate adoption with training
+
+
+
+
+         When we were looking at an LMS
+         solution, Google Classroom had this
+         balance of being really intuitive, but
+         also incredibly powerful. It didn’t require                             Graham Macaulay
+         a lot of training for our staff, and we                                 Director of Strategic Partnerships
+         could get children set up in seconds.”                                  LEO Academy Trust, London, United Kingdom
+
+
+                                                                       © 2026 Google LLC 1600 Amphitheatre Parkway, Mountain View, CA 94043.
+                                                                                                                       All editions
+
+
+GEMINI IN CLASSROOM
+
+Amplify learning impact with Gemini in Classroom,
+a suite of contextual AI tools for teaching and learning
+Gemini in Classroom acts as a collaborative partner, supporting educators throughout their workflows so they can
+focus on the art of teaching, rather than administrative tasks. With access to over 30 Google AI tools, educators can
+quickly go from idea to instruction and and seamlessly scale more tailored learning.
+
+
+
+AI tools for educators
+Plan lessons, personalize learning, and tackle
+everyday tasks faster with a Gemini tab designed
+for educator workflows.
+ ●   Scaffolded tools and starter prompts:
+     Get immediate help brainstorming real-world
+     examples, developing unit plans, or creating
+     vocabulary lists.
+ ●   Tailored course material support: Easily
+     select relevant classwork and course
+     materials to make Gemini’s outputs highly
+     contextual and accurate to your syllabus.
+ ●   Simplified workflows: Instantly generate
+     custom rubrics directly within your
+     assignment creation workflow, and use class
+     insights to create tailored check-in
+     suggestions.
+
+
+
+                                                               Teacher-led AI experiences for students
+                                                               Extend learning beyond class time with safer
+                                                               student-facing AI experiences that are controlled by the
+                                                               teacher and rooted directly in your class materials.
+                                                                 ● Keep educators in the lead: Teachers can create
+                                                                   interactive study guides, provide adaptive quiz
+                                                                   prep, or give students personalized support as
+                                                                   they work on their homework.
+
+                                                                 ● Stay rooted in curriculum: Educators can select
+                                                                   which class materials should inform the activities,
+                                                                   keeping the content relevant to teaching goals.
+
+                                                                 ● Give actionable insights: Teachers will get
+                                                                   visibility and insights into how students are
+                                                                   interacting with the material at an individual and
+                                                                   class level to inform their instruction.
+
+                                                               Teacher-led activities in Google Classroom are available
+                                                               for Guided Learning in Gemini, Gemini Notebook, and
+                                                               soon, study notebooks in Gemini.
+
+                                                                   © 2026 Google LLC 1600 Amphitheatre Parkway, Mountain View, CA 94043.
+                                                                                                                        Paid editions
+
+AI INNOVATION WITH PURPOSE
+
+AI-powered interactive tools in Classroom for teaching and learning
+Classroom benefits from the innovation of Google for Education, with unique AI-powered tools purposefully designed
+with teachers in the loop. We use educator feedback and insights to rethink and rework our features for the classroom.
+
+
+                                                Make learning more personal
+                                                Transform your new or existing content into interactive assignments
+                                                with the practice sets feature in Classroom. Teachers gain insights at
+                                                both the student and class levels, and students get real-time feedback
+                                                and in-the-moment hints when they get stuck, made possible with AI
+                                                technology.
+              Piloting now
+
+
+                                                Build independent reading skills
+                                                Assign differentiated reading activities, based on phonics skills, Lexile®
+                                                measure, or grade level, with Read Along in Classroom. A digital
+                                                reading buddy, Diya, gives students real-time assistance and
+                                                pronunciation support with the help of AI while giving teachers detailed
+                                                insights on student progress. Now available to all education customers,
+                                                including Google Workspace for Education Fundamentals.
+
+
+                                                Support active learning
+                                                Create interactive questions for YouTube videos that offer
+                                                AI-suggested questions for teachers and real-time feedback to
+                                                students that motivates, engages, and empowers.
+
+
+
+
+                                                                       Create                                   Engage
+                                                                      & assign                                  students
+Supercharging the learning loop
+with Gemini
+
+Google Classroom helps educators close the
+learning loop more effectively with tools and insights
+to make learning more personal at scale. With the
+addition of Gemini, this process is supercharged.
+                                                               Plan                                                       Evaluate
+Gemini powers features in Classroom that help                                                                             & give
+teachers do everything from brainstorming ideas to                                                                        feedback
+checking understanding. With the Classroom app in
+Gemini, teachers can use context from classes to
+quickly draft assignments or summarize student                                        Get insights on
+progress. By streamlining all kinds of tasks, Gemini                                    progress
+helps teachers spend more time engaging students.
+
+                                                                   © 2026 Google LLC 1600 Amphitheatre Parkway, Mountain View, CA 94043.
+SCALE YOUR SUPPORT
+
+Inform instruction with data-driven insights
+Give educators and education leaders a centralized view of classroom data with insights into class performance.
+Education leaders can identify which students, classes, and schools need support, while educators can see if a
+student has completed an assignment and how grades are trending.
+
+
+
+
+                                                              Google Classroom gives us the
+                                                              opportunity to customize, to plug
+                                                              and play different resources.”
+
+                                                              Giovanni Benincasa
+                                                              Manager, Department of Curriculum, Instruction and
+                                                              Digital Learning, Chicago Public Schools, Chicago, Illinois
+
+
+
+
+FACILITATE DEEPER INTEROPERABILITY
+
+Enable greater connectivity across platforms and products
+Go beyond the basics. Google Classroom works within your existing Google Workspace edition and gives
+you the power to customize it with add-ons, Student Information System (SIS) integrations, and APIs.
+
+
+
+       Save time and streamline class                                Expand your teaching toolkit with
+      management with SIS integrations                               more than 30 Classroom add-ons
+
+    With OneRoster-supported partners Aspen,                        Seamlessly integrate your favorite tools into
+  Infinite Campus, Skyward, and PowerSchool, it’s                 assignments with Classroom add-ons. Using a
+   easier than ever to integrate Classroom with your            single sign-in, you can easily find popular EdTech
+     SIS. These integrations help you save time and             tools to add, use, review, and grade content right
+  reduce errors by auto-syncing rosters, grades, and                          from within Classroom.
+      co-teacher assignments for a more efficient
+  classroom setup – with no more manual data entry.
+
+
+
+
+                                                                 © 2026 Google LLC 1600 Amphitheatre Parkway, Mountain View, CA 94043.

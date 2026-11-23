@@ -1,0 +1,280 @@
+SOURCE https://www.irvingtonschools.org/fs/resource-manager/view/a5b86bb0-b0bc-4ff7-8d50-41d8f36b5eed | DATE 2026-10-15 | TITLE IrvingtonUFSDCopierScopeDocument.pdf
+
+Vendor Discovery and Proposal Request
+                                                       October, 2026
+
+
+
+1. Purpose and Desired Outcome
+Irvington Union Free School District is seeking vendor proposals for a refreshed copier environment that supports
+reliable building-level printing, copying, scanning, and secure release printing. The District also wants vendors to
+propose innovations that may allow a meaningful reduction in classroom printers by shifting staff printing to secure
+copier-based workflows.
+
+●   Replace or refresh current copier assets using the District’s current models as the baseline model framework.
+    Start date is January 2027. Ideally installations would occur over the December holiday break.
+●   Evaluate whether additional strategically placed machines or enhanced models can reduce reliance on
+    classroom printers and/or increase efficiency in offices.
+●   Maintain the District’s PaperCut software environment and expand secure release capabilities through badge
+    readers at each copier/multifunction device.
+●   Improve color access, high-volume capacity, uptime, service responsiveness, and user experience across all
+    schools and district offices.
+●   Provide toner supplies and maintenance for office printers maintained
+
+
+
+2. Current Copier Environment and Baseline Replacement Need
+The table below reflects the current environment provided by the District.
+
+
+                               Dows Lane             Main Office            Xerox B9100
+                               Elementary
+                               Dows Lane             District Office        Xerox C8145
+                               Elementary
+                               Dows Lane             Portable - PLC         Xerox B405
+                               Elementary
+                               Dows Lane             Business Office        Xerox B8155
+                               Elementary
+                               Dows Lane             Server Room -          Xerox C8145
+                               Elementary            Teachers
+                               Irvington High        Main Office            Xerox B9110
+                               School
+                               Irvington High        Room 202 (PPS)         Xerox C8145
+                               School
+                               Irvington High        Science Department     Xerox B9100
+                               School
+                               Irvington High        Library                Xerox B405
+                               School
+                               Irvington High        Guidance Office        Xerox B405
+                               School
+                               Irvington High        Main Office            Xerox B8155
+                               School
+                               Irvington Middle      Guidance Office        Xerox B9100
+                               School
+                               Irvington Middle      2nd Floor              Xerox B9100
+                               School
+                               Main Street School    Main Office            Xerox B9100
+                               Main Street School    Main Office            Xerox C8145
+                               Irvington UFSD Copier Scope Document - Draft for Vendor Discussion
+Current Copier Volumes:
+
+     School              Location            Model          B&W        Color AMV
+                                                            AMV
+                         Guidance         VersaLink          152
+  High School           Department         B405DN
+                                          PrimeLink         64,756
+  High School           Main Office         B9110
+  Main Street                             PrimeLink         36,389
+    School              Main Office         B9100
+                         Science          PrimeLink         48,356
+  High School           Department          B9100
+                                          PrimeLink         26,623
+ Middle School           2nd Floor          B9100
+  Dows Lane                               PrimeLink         40,174
+  Elementary            Main Office         B9100
+                         Guidance         PrimeLink         39,620
+ Middle School          Department          B9100
+  Main Street                              AltaLink         2,177           2,068
+    School              Main Office         C8145
+                                           AltaLink         3,898           2,663
+  High School      Room 202 (PPS)           C8145
+  Dows Lane         Server Room -          AltaLink         8,551          11,811
+  Elementary           Teachers             C8145
+                                           AltaLink         5,072
+  High School           Main Office         B8155
+
+   Dows Lane                               AltaLink
+   Elementary      District Office *        C8145
+   Dows Lane                               VersaLink
+   Elementary      Portable - PLC *        B405DN
+   Dows Lane                               AltaLink
+   Elementary     Business Office *         B8155
+ Irvington High                            VersaLink
+     School              Library *         B405DN
+*Unknown at this time
+
+
+
+
+                               Irvington UFSD Copier Scope Document - Draft for Vendor Discussion
+3. Current Printers in Use in Classrooms
+
+See Appendix A for a list of current printers in use in classrooms. The proposal should either a phase out of these
+printers to more centralized copiers/printers and for any remaining printers, details on print management services.
+
+
+
+4. Potential Additional Machine Locations / Capacity Enhancements
+The District is also exploring additional copier placements and capacity upgrades that could support secure release
+printing and reduce classroom printer dependency. Vendors should validate these locations during discovery and
+propose the appropriate equipment class, capacity, and finishing capabilities. Click here for a current list of classroom
+and office printers that we intend to keep and remove (one tab for each).
+
+Dows Lane Elementary School
+●   Could replace the Main Office copier with a high-capacity color printer.
+●   Add a copier to the 2nd floor flex space.
+●   Use vendor discovery to confirm the number of current classroom printers and identify printers that can be
+    retired.
+
+Main Street School
+●   Increase Main Office capacity and add color capability.
+●   Increase Main Office black-and-white capacity.
+●   Consider an additional small unit on the 3rd or 4th floors.
+
+Irvington Middle School
+●   Update the 2nd Floor Science machine to include color.
+●   Increase black-and-white capacity in both the Guidance Office and Teacher Room.
+●   Add one small machine to the 1st floor and one small machine to the 2nd floor.
+
+Irvington High School
+●   Add a copier to the 1st floor near the boys’ restroom.
+●   Add color capability to the Main Office copier.
+●   Provide higher capacity for the large Main Office copier.
+
+
+
+5. PaperCut, Badge Readers, and Secure Print Requirements
+The proposed solution must maintain and support the District’s PaperCut software environment. The District expects
+each copier or multifunction device to support secure print release and authenticated access through badge readers.
+
+●   Include badge readers for each copier/multifunction device included in the proposal.
+●   Describe compatibility with the District’s current PaperCut environment, including licensing, embedded
+    application support, configuration, and ongoing support responsibilities.
+●   Support secure print release, user authentication, job accounting, reporting, and print policy enforcement.
+●   Identify any required network, directory, card/badge, firmware, licensing, or server requirements.
+●   Provide an implementation plan that limits disruption to staff and school operations.
+                               Irvington UFSD Copier Scope Document - Draft for Vendor Discussion
+●   Note that machine capabilities allow machines to default to black and white and color printing must be actively
+    chosen by user.
+
+
+
+6. Vendor Proposal Expectations
+Vendor responses should include a clear, building-by-building recommendation that addresses both baseline
+replacement and possible additional placements. The District welcomes alternate recommendations when they
+improve cost, reliability, workflow, or capacity, provided the vendor explains the rationale.
+
+●   Recommended replacement model for each current copier machine.
+●   Recommended device type, volume capacity, color capability, finishing options, and duty cycle for each proposed
+    additional location.
+●   Service and maintenance model, including response times, preventive maintenance, supplies, escalation
+    procedures, and uptime commitments.
+●   PaperCut and badge-reader implementation plan, including roles and responsibilities.
+●   Training plan for office staff, teachers, support staff, and technology staff.
+●   Lease, purchase, or managed print pricing options, with costs separated for equipment, copier or print volume
+    both B&W and color, service, supplies, PaperCut-related items, badge readers, and implementation.
+●   Identify purchasing source: State Contract, Piggyback contract (identify who owns contract), or Purchasing
+    Cooperative. The District is currently participating in Omnia, Sourcewell, Ed Data, TIPS and BuyBoard but will
+    consider others.
+●   Transition plan from the current environment to the proposed environment, including migration timeline and
+    decommissioning strategy for classroom printers where appropriate.
+
+
+
+7. Vendor Questions to Address
+1. What stands out about your product line or service model that is especially well suited to Irvington UFSD’s
+    needs?
+2. What innovations can you propose for the District’s current environment and potential shift away from classroom
+    printers?
+3. How would your solution support secure printing, badge release, and PaperCut integration at every copier?
+4. Which machines, if any, can support poster printing or larger-format output? Please describe maximum paper
+    size, media handling, speed, finishing, and cost implications.
+5. Which machines can support booklet/program printing?
+6. Where would you recommend adding, removing, relocating, or consolidating machines, and why?
+7. How do you determine whether a location needs color, black-and-white, high capacity, finishing, scanning, or a
+    smaller workgroup device?
+8. What reporting can you provide to help the District monitor usage, control costs, and identify classroom printers
+    that can be retired?
+9. What is your service response standard during school days, and how do you handle repeated service issues or
+    chronic downtime?
+10. What cybersecurity, data privacy, hard-drive, firmware, authentication, and network security practices are
+    included?
+11. What training and change-management support do you provide to help staff adopt secure release printing?
+
+
+
+8. Evaluation Considerations
+●   Fit of the proposed fleet to building needs and anticipated print volumes.
+●   Ability to reduce classroom printers while maintaining convenient and secure staff access.
+●   Quality of PaperCut integration and badge-reader implementation.
+●   Reliability, service responsiveness, supplies management, and lifecycle support.
+                              Irvington UFSD Copier Scope Document - Draft for Vendor Discussion
+●   Total cost of ownership, including equipment, copies or prints, service, supplies, software, accessories,
+    implementation, and training.
+●   Strength of vendor recommendations, innovation, and ability to support future changes in printing practices.
+●   Past relationships and/or school district references
+
+
+
+9. RFP Process
+●   After reviewing this scope document and prior to submitting a proposal, interested vendors should schedule a
+    meeting with the Director of Technology and Assistant Superintendent of Business to review the scope document
+    and ask clarifying questions. Any questions that result in new scope will be disseminated as an addendum to
+    other interested vendors
+●   After these meetings, the District will relay a firm date for proposals to be received, likely mid November. Once
+    proposals are received, the District will evaluate all proposals received and look to enter into a contract with a
+    vendor for implementation for January 2027.
+
+
+
+10. Requested Response Format
+●   Executive summary of the proposed solution.
+●   Building-by-building equipment matrix for current replacements and proposed additions.
+●   PaperCut and badge-reader integration summary.
+●   Implementation timeline and transition plan.
+●   Service, maintenance, and support plan.
+●   Pricing schedule with clear assumptions and optional alternatives.
+●   Responses to all vendor questions in Section 6.
+
+
+
+
+                              Irvington UFSD Copier Scope Document - Draft for Vendor Discussion
+Appendix A to Copier Environment Scope Document
+
+Current Printers in Use
+Row Labels                                        Count of Printer Type/Model
+Canon TM-240                                                                      1
+EPSON SC-P700 Series                                                              1
+HP Color LaserJet 5700                                                            1
+HP Color LaserJet 6700                                                            2
+HP Color LaserJet CP4025/4525 PCL6 Class Driver                                   1
+HP Color LaserJet CP4520 Series                                                   2
+HP Color LaserJet CP4520 Series PCL6                                              1
+HP Color LaserJet M254dw                                                          2
+HP Color LaserJet M452dn                                                          3
+HP Color LaserJet M553                                                            1
+HP Color LaserJet M651                                                            1
+HP Color LaserJet Pro 3201                                                        4
+HP Color LaserJet Pro 4201                                                        1
+HP Color LaserJet Pro M454dn                                                      4
+HP Color LaserJet Pro MFP 4301                                                    1
+HP Color LaserJet Pro MFP M177fw                                                  1
+HP Color LaserJet Pro MFP M479fdw                                                 1
+HP LaserJet 200 color M251nw                                                      3
+HP LaserJet 400 color M451nw                                                     16
+hp LaserJet 4200                                                                  1
+HP LaserJet 600 M601                                                              1
+HP LaserJet 600 M602                                                              4
+HP LaserJet M402dn                                                               39
+HP LaserJet M402dw                                                                1
+HP LaserJet M402n                                                                21
+HP LaserJet M406                                                                 11
+HP LaserJet P1505n                                                                6
+HP LaserJet P1505n Class Driver                                                   1
+HP LaserJet P2035n                                                                3
+HP LaserJet P2055dn                                                               1
+HP LaserJet P4015                                                                 7
+HP LaserJet Pro 4001dw                                                           26
+HP LaserJet Pro M201dw                                                           25
+HP LaserJet Pro M201-M202 PCL 6                                                   7
+HP LaserJet Pro M402-M403 n-dne PCL 6                                             1
+HP LaserJet Pro M404dn                                                           12
+HP LaserJet Professional P1606dn                                                 13
+HP LJ300-400 color M351-M451 PCL 6                                                2
+HP Smart Universal Printing                                                       2
+HP SNMP Agent                                                                     1
+HP Universal Printing PCL 6                                                       9
+Xerox AltaLink C8145 V4 PCL6                                                      1
+Xerox Global Print Driver PCL6                                                    3
+Grand Total                                                                     245

@@ -1,0 +1,15 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/goto?open&id=A34BJD64BE4C | DATE: 2015-10-13 | TITLE: Regular Meeting - 7:30 p.m.* | 12.4 Budget Transfers
+
+Meeting: Oct 13, 2015 - Regular Meeting - 7:30 p.m.*
+Date: 2015-10-13
+Category: 12. Business Office Matters
+Subject: 12.4 Budget Transfers
+Type: Action
+
+Budget Transfer 15/16-02
+
+	Credit A1010.4 (BOE Other Expense) $24,000.00
+
+	Debit A9734.7 (BAN Interest) $24,000.00
+
+	This Budget Transfer is needed to cover the expense to pay LCI.

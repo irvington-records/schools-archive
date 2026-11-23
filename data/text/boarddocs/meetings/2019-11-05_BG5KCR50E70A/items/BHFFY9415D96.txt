@@ -1,0 +1,137 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/goto?open&id=BHFFY9415D96 | DATE: 2019-11-05 | TITLE: Regular Meeting | 10.2 Appointment of Winter Coaching Positions
+
+Meeting: Nov 05, 2019 - Regular Meeting
+Date: 2019-11-05
+Category: 10. Personnel Matters
+Subject: 10.2 Appointment of Winter Coaching Positions
+Type: Action (Consent)
+
+First Name
+			Last Name
+			Level
+			Sport
+			Group
+			Step
+			Salary
+
+			Gina
+			Maher
+			Varsity
+			Girls Basketball
+			II
+			8
+			$8,585.00
+
+			Barbara
+			Constantine
+			Asst. Varsity
+			Girls Basketball
+			II
+			8
+			$5,580.00
+
+			Lisa
+			Bucci
+			JV Head
+			Girls Basketball
+			II
+			2
+			$5,781.00
+
+			Martin
+			Resendiz
+			Modified
+			Girls Basketball
+			II
+			8
+			$5,151.00
+
+			Keith
+			Gelardi
+			Varsity
+			Boys Basketball
+			II
+			2
+			$8,259.00
+
+			Michael
+			Macchia
+			Asst. Varsity
+			Boys Basketball
+			II
+			1
+			$5,333.00
+
+			Rocco
+			Cipriano
+			Modified
+			Boys Basketball
+			II
+			1
+			$4,923.00
+
+			Scott
+			Mosenthal
+			Varsity
+			Winter Track
+			IV
+			8
+			$5,868.00
+
+			Chris
+			Barry
+			Asst. Varsity
+			Winter Track
+			IV
+			8
+			$3,814.00
+
+			Jennifer
+			Lentini
+			Modified
+			Winter Track
+			IV
+			7
+			$3,488.00
+
+			Kevin
+			Hagen
+			Varsity
+			Ice Hockey
+			III
+			4
+			$7,227.00
+
+			Ben
+			Karol
+			Varsity
+			Wrestling
+			III
+			4
+			$7,281.00
+
+			Edger
+			Solis
+			Asst. Varsity
+			Wrestling
+			III
+			1
+			$4,627.00
+
+			Edison
+			Gramajo
+			Modified
+			Wrestling
+			III
+			1
+			$4,271.00
+
+			Rey
+			Serrano
+			Varsity
+			Bowling Boys and Girls
+			V
+			8
+			$4,782.00
+
+*These are conditional appointments, subject to and contingent upon, the satisfactory completion of the NYS coaching requirements.

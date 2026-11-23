@@ -1,0 +1,63 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/goto?open&id=B3PP5K62BA0C | DATE: 2018-08-21 | TITLE: Work Session/Special Meeting | 8.15 Appointment of Fall Coaching Positions
+
+Meeting: Aug 21, 2018 - Work Session/Special Meeting
+Date: 2018-08-21
+Category: 8. Personnel
+Subject: 8.15 Appointment of Fall Coaching Positions
+Type: Action (Consent)
+
+Coach First
+			Coach Last
+			Level
+			Sport
+			Group
+			Step
+			Salary
+
+			Juan
+			Lares*
+			JV Head Boys
+			Soccer
+			Group III
+			Step 1
+			$4,937.00
+
+			Marc- Anthony
+			William*
+			Modified Head Boys
+			Soccer
+			Group III
+			Step 1
+			$4,232.00
+
+			Juan
+			Gatti*
+			JV Girls
+			Soccer
+			Group III
+			Step 1
+			$4,937.00
+
+			Danielle
+			Rodriquez
+			Modified Girls
+			Soccer
+			Group III
+			Step 2
+			$4,264.00
+
+			Jessica
+			Forman
+			Modified Head
+			Volleyball
+			Group IV
+			Step 2
+			$3,295.00
+
+			Kate
+			Becker
+			Modified Head
+			Volleyball
+			Group IV
+			Step 8
+			$3,489.00

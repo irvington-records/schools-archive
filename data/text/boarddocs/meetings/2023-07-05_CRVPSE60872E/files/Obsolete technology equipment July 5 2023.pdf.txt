@@ -1,0 +1,255 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/pfiles/CTFM3B57EF11/$file/Obsolete%20technology%20equipment%20July%205%202023.pdf | DATE: 2023-07-05 | TITLE: 2023-24 Reorganization Meeting/Regular Meeting | 17.13 Declaration of Obsolete/Surplus Equipment | Obsolete technology equipment July 5 2023.pdf
+
+   Asset ID            Serial Number       Asset Type     Assigned to Location       Manufacturer                        Model                                   Notes
+  ET171145IR         0Q9T91GJ619829       Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+  ET171169IR         0Q9T91HJ616112       Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+  ET102071IR         0JDB91BH907713       Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+  ET172129IR     NXGM8AA00690104E887600   Chromebook    Main Street-Asset Recovery      Acer               Acer Chromebook 11 N7 (C731, C731T)          Nonfunctional/End of Life
+  ET170733IR         0Q9T91GJ619722       Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+  ET170154IR         0Q9T91HJ401158       Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+  ET170770IR         0Q9T91GJ618546       Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+  ET172074IR     NXGNZAA002921201537600   Chromebook    Main Street-Asset Recovery      Acer                Acer Chromebook 11 (C771, C771T)            Nonfunctional/End of Life
+  ET170927IR         0Q9T91GJ700482       Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+  ET171461IR         0Q9T91KKB06421       Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+  ET201109IR     NXGP6AA0019111A6C07600   Chromebook    Main Street-Asset Recovery      Acer                Acer Chromebook 11 (C771, C771T)            Nonfunctional/End of Life
+  ET171371IR         0JDB91AH908947       Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+  ET202895IR            5CD8260NL0        Chromebook    Main Street-Asset Recovery       HP                      HP Chromebook 11 G5 EE                 Nonfunctional/End of Life
+  ET170916IR         0Q9T91GJ700592       Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+  ET170841IR         0Q9T91GJ619785       Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+  ET101269IR         0JDA91BJ205162       Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+  ET171515IR     NXGM8AA0068470C8037600   Chromebook    Main Street-Asset Recovery      Acer               Acer Chromebook 11 N7 (C731, C731T)          Nonfunctional/End of Life
+  ET170792IR         0Q9T91HJ618295       Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+  ET170760IR         0Q9T91GJ617798       Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+  ET170204IR         0Q9T91HJ400093       Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+  ET170752IR         0Q9T91HJ618029       Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+  ET170215IR         0Q9T91HJ401191       Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+  ET172266IR         0Q9T91HK315731       Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+  ET170773IR         0Q9T91GJ619515       Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+  ET171561IR     NXGM8AA0068490BD677600   Chromebook    Main Street-Asset Recovery      Acer               Acer Chromebook 11 N7 (C731, C731T)          Nonfunctional/End of Life
+  ET171423IR         0Q9T91HJ619442       Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+  ET202990IR         0JDB91AHC19317       Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+  ET172256IR         0Q9T91HK315785       Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+  ET170735IR         0Q9T91GJ619893       Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+  ET172208IR         0Q9T91HK315623       Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+  ET171438IR     NXGM8AA0068490BDD87600   Chromebook    Main Street-Asset Recovery      Acer               Acer Chromebook 11 N7 (C731, C731T)          Nonfunctional/End of Life
+  ET170789IR         0Q9T91GJ618729       Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+  ET102069IR         0JDB91BH907385       Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+  ET170928IR         0Q9T91GJ700572       Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+  ET201557IR           5CD040BZWF         Chromebook    Main Street-Asset Recovery       HP         HP Chromebook 11A G6 EE / HP Chromebook 11A G8 EE   Nonfunctional/End of Life
+  ET202735IR         0Q9T91GJ618565       Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+  ET172263IR         0Q9T91HK408370       Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+  ET102052IR         0JDB91AHC19109       Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+  ET170165IR         0Q9T91HJ400375       Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+  ET101244IR          0Q9T91IJ405767      Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+  ET102059IR         0JDB91AHC19060       Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+  ET170922IR         0Q9T91GJ700532       Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+  ET201807IR           5CD0347FWS         Chromebook    Main Street-Asset Recovery       HP         HP Chromebook 11A G6 EE / HP Chromebook 11A G8 EE   Nonfunctional/End of Life
+0Q9T91GJ618641       0Q9T91GJ618641       Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+  ET203346IR         0Q9T91LKB05194       Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+  ET170774IR         0Q9T91GJ619838       Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+  ET170330IR         0Q9T91HJ402233       Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+
+
+
+
+6/26/2023                                                                                                                                                                           1
+
+    Asset ID         Serial Number        Asset Type     Assigned to Location       Manufacturer                        Model                                   Notes
+   ET170737IR       0Q9T91GJ619394       Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+   ET102056IR       0JDB91AHC19074       Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+   et172255ir       0Q9T91HK315665       Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+   ET172238IR       0Q9T91HK315613       Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+   ET172214IR       0Q9T91HK408351       Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+   ET172274IR       0Q9T91HK408172       Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+   ET170175IR       0Q9T91HJ401279       Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+   ET170934IR       0Q9T91GJ700337       Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+   ET172261IR       0Q9T91HK315631       Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+   ET102078IR       0JDB91BH907696       Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+   ET102050IR       0JDB91AHC19101       Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+   ET170190IR       0Q9T91HJ401146       Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+   ET172028IR   NXGNZAA002921201837600   Chromebook    Main Street-Asset Recovery      Acer                Acer Chromebook 11 (C771, C771T)            Nonfunctional/End of Life
+   ET170778IR       0Q9T91GJ619555       Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+   ET170334IR       0Q9T91HJ402035       Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+   ET101431IR       0Q9T91GJ619948       Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+   ET201293IR   NXGP6AA001911193D17600   Chromebook    Main Street-Asset Recovery      Acer                Acer Chromebook 11 (C771, C771T)            Nonfunctional/End of Life
+   ET171430IR       0Q9T91HJ616103       Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+   ET101265IR       0JDA91BJ205050       Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+   ET171141IR       0Q9T91GJ619968       Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+   ET171464IR       0Q9T91KKB06486       Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+   ET171179IR       0Q9T91GJ619929       Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+   ET172264IR       0Q9T91HK408114       Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+   ET201148IR   NXGP6AA0019111943A7600   Chromebook    Main Street-Asset Recovery      Acer                Acer Chromebook 11 (C771, C771T)            Nonfunctional/End of Life
+   ET171190IR       0Q9T91GJ620391       Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+   ET170918IR       0Q9T91GJ700552       Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+   ET171191IR       0Q9T91HJ619451       Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+   ET172267IR       0Q9T91HK408365       Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+   ET171101IR       0Q9T91GJ617708       Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+   ET170807IR       0Q9T91GJ618640       Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+   ET171721IR   NXGM8AA006847084017600   Chromebook    Main Street-Asset Recovery      Acer               Acer Chromebook 11 N7 (C731, C731T)          Nonfunctional/End of Life
+   ET171391IR       0JDB91AH909138       Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+      N/A           0Q9T91HK315654       Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+   ET170812IR       0Q9T91HJ618099       Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+   ET171126IR       0Q9T91GJ619778       Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+   ET102079IR       0JDB91BH907474       Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+   ET172025IR   NXGNZAA002921201627600   Chromebook    Main Street-Asset Recovery      Acer                Acer Chromebook 11 (C771, C771T)            Nonfunctional/End of Life
+   ET171127IR       0Q9T91GJ619803       Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+   ET172012IR   NXGNZAA0029212016E7600   Chromebook    Main Street-Asset Recovery      Acer                Acer Chromebook 11 (C771, C771T)            Nonfunctional/End of Life
+      N/A           0Q9T91GJ619783       Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+   ET201968IR         5CD040822P         Chromebook    Main Street-Asset Recovery       HP         HP Chromebook 11A G6 EE / HP Chromebook 11A G8 EE   Nonfunctional/End of Life
+   ET172282IR       0Q9T91HK408259       Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+   ET171413IR       0Q9T91BJ608934       Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+   ET172003IR   NXGNZAA002921200D97600   Chromebook    Main Street-Asset Recovery      Acer                Acer Chromebook 11 (C771, C771T)            Nonfunctional/End of Life
+   ET171186IR       0Q9T91GJ619841       Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+   ET171182IR       0Q9T91HJ617984       Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+   ET171384IR       0Q9T91HJ619281       Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+
+
+
+
+6/26/2023                                                                                                                                                                          2
+
+    Asset ID          Serial Number       Asset Type     Assigned to Location       Manufacturer                         Model                                  Notes
+   ET102021IR       0JDB91AHC19090       Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+   ET172016IR   NXGNZAA002921201897600   Chromebook    Main Street-Asset Recovery      Acer                 Acer Chromebook 11 (C771, C771T)           Nonfunctional/End of Life
+   ET202989IR          5CD8260NFL        Chromebook    Main Street-Asset Recovery       HP                       HP Chromebook 11 G5 EE                Nonfunctional/End of Life
+      36-5          0JDB91AHC19298       Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+   ET171164IR       0Q9T91GJ619962       Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+   et170208ir       0Q9T91HJ400307       Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+   ET170740IR       0Q9T91GJ620281       Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+   ET171972IR           P203F5B9         Chromebook    Main Street-Asset Recovery     Lenovo            Lenovo 300e/N23 Yoga/Flex 11 Chromebook        Nonfunctional/End of Life
+   ET170820IR       0Q9T91GJ619990       Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+   ET202915IR        0Q9T91IJ405965      Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+   ET101262IR       0JDA91BJ205333       Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+   ET171206IR       0Q9T91HJ617996       Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+   ET171111IR       0Q9T91HJ619341       Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+   ET170781IR       0Q9T91GJ619959       Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+   ET171187IR       0Q9T91HJ618037       Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+   et170176ir       0Q9T91HJ401186       Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+   ET201181IR   NXGP6AA001911194387600   Chromebook    Main Street-Asset Recovery      Acer                 Acer Chromebook 11 (C771, C771T)           Nonfunctional/End of Life
+   ET170849IR       0Q9T91BJ618108       Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+   ET203491IR   NXGM8AA006847084267600   Chromebook    Main Street-Asset Recovery      Acer               Acer Chromebook 11 N7 (C731, C731T)          Nonfunctional/End of Life
+   ET171367IR       0Q9T91HJ619326       Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+   ET201377IR          5CD04082J3        Chromebook    Main Street-Asset Recovery       HP         HP Chromebook 11A G6 EE / HP Chromebook 11A G8 EE   Nonfunctional/End of Life
+   ET170919IR       0Q9T91GJ700178       Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+      N/A           0Q9T91HJ401220       Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+   ET172233IR       0Q9T91HK316039       Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+   ET170762IR       0Q9T91GJ619780       Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+   ET171210IR       0Q9T91GJ620438       Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+   ET170756IR       0Q9T91GJ620604       Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+   ET171185IR       0Q9T91GJ619994       Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+   ET202748IR       0Q9T91HJ619474       Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+   ET172222IR       0Q9T91HK315585       Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+      N/A           0Q9T91BJ608965       Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+   ET171189IR       0Q9T91HJ616243       Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+   ET101263IR       0JDA91BJ205337       Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+   ET172241IR       0Q9T91HK315651       Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+   ET172270IR       0Q9T91HK316036       Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+   ET171142IR       0Q9T91GJ619876       Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+   ET170742IR       0Q9T91GJ620008       Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+   ET171171IR       0Q9T91HJ619501       Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+   ET171344IR       0Q9T91HJ616206       Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+   ET202973IR       0Q9T91HJ400081       Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+   ET172281IR       0Q9T91HK408410       Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+   ET170797IR       0Q9T91GJ619997       Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+   ET172185IR       0Q9T91HK319485       Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+   ET201198IR   NXGP6AA0019111948B7600   Chromebook    Main Street-Asset Recovery      Acer                 Acer Chromebook 11 (C771, C771T)           Nonfunctional/End of Life
+   ET172104IR   NXGM8AA00690104EC37600   Chromebook    Main Street-Asset Recovery      Acer               Acer Chromebook 11 N7 (C731, C731T)          Nonfunctional/End of Life
+   ET172260IR       0Q9T91HK315595       Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+   ET170150IR       0Q9T91HJ400020       Chromebook    Main Street-Asset Recovery    Samsung                     Samsung Chromebook 3                  Nonfunctional/End of Life
+
+
+
+
+6/26/2023                                                                                                                                                                          3
+
+    Asset ID           Serial Number         Asset Type       Assigned to Location       Manufacturer                    Model                         Notes
+   ET201445IR   NXGM8AA006847083A37600      Chromebook      Main Street-Asset Recovery      Acer        Acer Chromebook 11 N7 (C731, C731T)   Nonfunctional/End of Life
+   ET170948IR       FGT5HD3917801213           Firewall     Main Street-Asset Recovery     Fortinet                 FortiGate 500D            Nonfunctional/End of Life
+     116701      ETLE10D033921019178521       Monitor       Main Street-Asset Recovery      Acer                       Acer V173              Nonfunctional/End of Life
+   ET172131IR    ETLE10D033921019138521       Monitor       Main Street-Asset Recovery      Acer                       Acer V173              Nonfunctional/End of Life
+   ET202173IR         DMPQCA9ZFK10              Tablet      Main Street-Asset Recovery      Apple                Apple iPad Air A1474         Nonfunctional/End of Life
+     106291             CNC62410R8            Monitor       Main Street-Asset Recovery       Dell                   Dell UltraSharp           Nonfunctional/End of Life
+     105393       MX05R1084760535SCJU7        Monitor       Main Street-Asset Recovery       Dell                   Dell UltraSharp           Nonfunctional/End of Life
+     116659             VND3H51582             Printer      Main Street-Asset Recovery       HP                        HP 1505n               Nonfunctional/End of Life
+     117153             CNC6240YH2            Monitor       Main Street-Asset Recovery       HP                         HP 1740               Nonfunctional/End of Life
+     106338            CNC6241DW8             Monitor       Main Street-Asset Recovery       HP                         HP 1740               Nonfunctional/End of Life
+     106346            CNC6241DWJ             Monitor       Main Street-Asset Recovery       HP                         HP 1940               Nonfunctional/End of Life
+     117312             CNC6233407            Monitor       Main Street-Asset Recovery       HP                         HP 1940               Nonfunctional/End of Life
+     117503              JPBCC3J0BY            Printer      Main Street-Asset Recovery       HP                       HP CP4525               Nonfunctional/End of Life
+   ET101150IR        CN64I7M07Q05SF            Printer      Main Street-Asset Recovery       HP                       HP CQ891A               Nonfunctional/End of Life
+   ET100410IR     1S10B6001SUSMJ032P9P        Desktop       Main Street-Asset Recovery     Lenovo                    Lenovo M73               Nonfunctional/End of Life
+   ET101176IR     1S10B6001SUSMJ03E33D        Desktop       Main Street-Asset Recovery     Lenovo                    Lenovo M73               Nonfunctional/End of Life
+   ET100411IR     1S10B6001SUSMJ032P66        Desktop       Main Street-Asset Recovery     Lenovo                    Lenovo M73               Nonfunctional/End of Life
+   ET100405IR     1S10B6001SUSMJ032P7J        Desktop       Main Street-Asset Recovery     Lenovo                    Lenovo M73               Nonfunctional/End of Life
+   ET100133IR     1S10B6S00500MJ01735Z        Desktop       Main Street-Asset Recovery     Lenovo                    Lenovo M73               Nonfunctional/End of Life
+   ET100148IR    11S0C64957ZVJ8AH45732R       Desktop       Main Street-Asset Recovery     Lenovo                    Lenovo M73               Nonfunctional/End of Life
+   ET100173IR     1S10B6S00500MJ01733V        Desktop       Main Street-Asset Recovery     Lenovo                    Lenovo M73               Nonfunctional/End of Life
+   ET101167IR     1S10B6S00500MJ017249        Desktop       Main Street-Asset Recovery     Lenovo                    Lenovo M73               Nonfunctional/End of Life
+   ET100159IR     1S10B6S00500MJ01AZRE        Desktop       Main Street-Asset Recovery     Lenovo                    Lenovo M73               Nonfunctional/End of Life
+   ET100149IR     1S10B6S00500MJ01738T        Desktop       Main Street-Asset Recovery     Lenovo                    Lenovo M73               Nonfunctional/End of Life
+   ET100135IR     1S10B6S00500MJ01AZMJ        Desktop       Main Street-Asset Recovery     Lenovo                    Lenovo M73               Nonfunctional/End of Life
+   ET172142IR             5500386RJ           Projector     Main Street-Asset Recovery       NEC                      NEC M322X               Nonfunctional/End of Life
+     104838            CNP517XCW7             Monitor       Main Street-Asset Recovery       HP                         HP 1740               Nonfunctional/End of Life
+     106638           QCW071121883            Monitor       Main Street-Asset Recovery    Optiquest                Optiquest Q19wb            Nonfunctional/End of Life
+     106604           QCW071122663            Monitor       Main Street-Asset Recovery    Optiquest                Optiquest Q19wb            Nonfunctional/End of Life
+     106643           QCW071120416            Monitor       Main Street-Asset Recovery    Optiquest                Optiquest Q19wb            Nonfunctional/End of Life
+   ET170961IR         F6QVD014FK10              Tablet      Main Street-Asset Recovery      Apple                Apple iPad Air A1474         Nonfunctional/End of Life
+   ET171758IR         0Q9T9GJ619996         Chromebook      Main Street-Asset Recovery    Samsung              Samsung Chromebook 3           Nonfunctional/End of Life
+     116156      ETLJE0W16811807EC94307       Monitor       Main Street-Asset Recovery      Acer                      Acer v193w              Nonfunctional/End of Life
+   ET203170IR           S616220028               POS        Main Street-Asset Recovery    UTC Retail                UTC Retail 3190           Nonfunctional/End of Life
+   ET203172IR           N404840477               POS        Main Street-Asset Recovery    UTC Retail                UTC Retail 3170           Nonfunctional/End of Life
+   ET100208IR             MJ01724C            Desktop       Main Street-Asset Recovery     Lenovo                    Lenovo M73               Nonfunctional/End of Life
+     116696      ETLE10D03392101E7F8521       Monitor       Main Street-Asset Recovery      Acer                       Acer V173              Nonfunctional/End of Life
+   ET101473IR            8400097RE            Projector     Main Street-Asset Recovery       NEC                     NEC ME331X               Nonfunctional/End of Life
+   ET203478IR            5200257RF            Projector     Main Street-Asset Recovery       NEC                    NEC NP-M322X              Nonfunctional/End of Life
+   ET102085IR             MJ03EJ66            Desktop       Main Street-Asset Recovery     Lenovo                    Lenovo M73               Nonfunctional/End of Life
+   ET100182IR             MJ01AZN5            Desktop       Main Street-Asset Recovery     Lenovo                    Lenovo M73               Nonfunctional/End of Life
+   ET171138IR          FCW2121F0U0        Switch Hardware   Main Street-Asset Recovery      Cisco             Cisco Catalyst 3850 48POE       Nonfunctional/End of Life
+   ET171118IR          FOC2121X0RA        Switch Hardware   Main Street-Asset Recovery      Cisco             Cisco Catalyst 3850 48POE       Nonfunctional/End of Life
+   ET203308IR      424334420524120000           Server      Main Street-Asset Recovery      Acer          1400Series IP Video Storage Array   Nonfunctional/End of Life
+     116231           QD0721251464             Battery      Main Street-Asset Recovery       APC                     Symmetra LX              Nonfunctional/End of Life
+   ET202867IR          3S2028X41740            Battery      Main Street-Asset Recovery       APC                 APC SMT1500RM2UC             Nonfunctional/End of Life
+   ET101197IR          FOC2007U0U6              Switch      Main Street-Asset Recovery      Cisco             Cisco Catalyst 3850 48POE       Nonfunctional/End of Life
+
+
+
+
+6/26/2023                                                                                                                                                                 4
+
+    Asset ID          Serial Number       Asset Type     Assigned to Location       Manufacturer                   Model                          Notes
+   ET101198IR        FCW2007F0NW            Switch     Main Street-Asset Recovery      Cisco            Cisco Catalyst 3850 48POE        Nonfunctional/End of Life
+   ET101199IR         FCW2007C0VH           Switch     Main Street-Asset Recovery      Cisco            Cisco Catalyst 3850 48POE        Nonfunctional/End of Life
+   ET101200IR         FCW2007F0NZ           Switch     Main Street-Asset Recovery      Cisco            Cisco Catalyst 3850 48POE        Nonfunctional/End of Life
+   ET101201IR         FOC1943X1K8           Switch     Main Street-Asset Recovery      Cisco            Cisco Catalyst 3850 48POE        Nonfunctional/End of Life
+   ET101202IR         FCW2007C0V3           Switch     Main Street-Asset Recovery      Cisco            Cisco Catalyst 3850 48POE        Nonfunctional/End of Life
+     115901           AS0317110997          Switch     Main Street-Asset Recovery       APC                      DL1400R2                Nonfunctional/End of Life
+   ET171177IR          FOC2121L0B5          Switch     Main Street-Asset Recovery      Cisco            Cisco Catalyst 3850 48POE        Nonfunctional/End of Life
+   ET171197IR         FCW1828C0U0           Switch     Main Street-Asset Recovery      Cisco            Cisco Catalyst 3850 48POE        Nonfunctional/End of Life
+     105259     MX05R1084760535SCGTD       Monitor     Main Street-Asset Recovery       Dell                  Dell UltraSharp            Nonfunctional/End of Life
+   ET100457IR        DMPNC0ANG5VJ           Tablet     Main Street-Asset Recovery      Apple              Apple iPad Air 2 A1566         Nonfunctional/End of Life
+   ET100459IR        DMPNF2LJG5VJ           Tablet     Main Street-Asset Recovery      Apple              Apple iPad Air 2 A1566         Nonfunctional/End of Life
+   ET170886IR         GCTV3YC8HLF9          Tablet     Main Street-Asset Recovery      Apple                 Apple Ipad A1822            Nonfunctional/End of Life
+   ET170887IR        GCTV3YD7HLF9           Tablet     Main Street-Asset Recovery      Apple                 Apple Ipad A1822            Nonfunctional/End of Life
+     118374          F7NLWV1BFP84           Tablet     Main Street-Asset Recovery      Apple              Apple iPad Mini A1432          Nonfunctional/End of Life
+   ET101072IR        F9FSNC99FCM6           Tablet     Main Street-Asset Recovery      Apple             Apple iPad Mini 2 A1489         Nonfunctional/End of Life
+     118377           F7PLXT55FP84          Tablet     Main Street-Asset Recovery      Apple              Apple iPad Mini A1432          Nonfunctional/End of Life
+     118375          F7NLWUQ4FP84           Tablet     Main Street-Asset Recovery      Apple              Apple iPad Mini A1432          Nonfunctional/End of Life
+   ET202221IR        F4KKWCSQF193           Tablet     Main Street-Asset Recovery      Apple              Apple iPad Mini A1432          Nonfunctional/End of Life
+   ET202288IR        DMQPGN8JFK10           Tablet     Main Street-Asset Recovery      Apple               Apple iPad Air A1474          Nonfunctional/End of Life
+     117634         DMQHG4GCDFHW            Tablet     Main Street-Asset Recovery      Apple                 Apple iPad A1395            Nonfunctional/End of Life
+   ET203192IR       0Q9T91HJ400083F      Chromebook    Main Street-Asset Recovery    Samsung          Samsung Chromebook XE500C13        Nonfunctional/End of Life
+   ET171365IR       OQ9T91HJ619477       Chromebook    Main Street-Asset Recovery    Samsung       Samsung Chromebook 2 11" - XE500C12   Nonfunctional/End of Life
+     117016     ETLC108148021034064202     Monitor     Main Street-Asset Recovery      Acer                     Acer v193w               Nonfunctional/End of Life
+     106300             CNC62410S0         Monitor     Main Street-Asset Recovery       HP                        HP 1740                Nonfunctional/End of Life
+   ET100456IR        DMPND67RG5VJ           Tablet     Main Street-Asset Recovery      Apple              Apple iPad Air 2 A1566         Nonfunctional/End of Life
+   ET202546IR           O622440010           POS       Main Street-Asset Recovery    UTC Retail               UTC Retail 3170            Nonfunctional/End of Life
+   ET205552IR           R803540396           POS       Main Street-Asset Recovery    UTC Retail               UTC Retail 3170            Nonfunctional/End of Life
+     116230          QD0652252635          Battery     Main Street-Asset Recovery       APC                    Symmetra LX               Nonfunctional/End of Life
+     115711            VNB3D33825           Printer    Main Street-Asset Recovery       HP                       HP 1505n                Nonfunctional/End of Life
+   ET101070IR          f9fsnb22fcm6         Tablet     Main Street-Asset Recovery      Apple             Apple iPad Mini 2 A1489         Nonfunctional/End of Life
+
+
+
+
+6/26/2023                                                                                                                                                            5
+

@@ -1,0 +1,137 @@
+SOURCE http://www.irvingtonschools.org:80/october.html | DATE 1999-02-24 | TITLE october.html
+
+<TABLE BORDER CELLSPACING=2 BORDERCOLOR="#000000" CELLPADDING=2 WIDTH=959>
+<TR><TD WIDTH="29%" VALIGN="MIDDLE" COLSPAN=2 HEIGHT=76>
+<P ALIGN="CENTER"><B><FONT SIZE=5>1998</B></FONT></TD>
+<TD WIDTH="43%" VALIGN="MIDDLE" COLSPAN=3 HEIGHT=76>
+<I><FONT SIZE=7><P ALIGN="CENTER">October</I></FONT></TD>
+<TD WIDTH="29%" VALIGN="MIDDLE" COLSPAN=2 HEIGHT=76>
+<B><FONT SIZE=5><P ALIGN="CENTER">1998</B></FONT></TD>
+</TR>
+<TR><TD WIDTH="14%" VALIGN="MIDDLE" HEIGHT=35>
+<B><P ALIGN="CENTER">Sunday</B></TD>
+<TD WIDTH="14%" VALIGN="MIDDLE" HEIGHT=35>
+<B><P ALIGN="CENTER">Monday</B></TD>
+<TD WIDTH="14%" VALIGN="MIDDLE" HEIGHT=35>
+<B><P ALIGN="CENTER">Tuesday</B></TD>
+<TD WIDTH="14%" VALIGN="MIDDLE" HEIGHT=35>
+<B><P ALIGN="CENTER">Wednesday</B></TD>
+<TD WIDTH="14%" VALIGN="MIDDLE" HEIGHT=35>
+<B><P ALIGN="CENTER">Thursday</B></TD>
+<TD WIDTH="14%" VALIGN="MIDDLE" HEIGHT=35>
+<B><P ALIGN="CENTER">Friday</B></TD>
+<TD WIDTH="14%" VALIGN="MIDDLE" HEIGHT=35>
+<B><P ALIGN="CENTER">Saturday</B></TD>
+</TR>
+<TR><TD WIDTH="14%" VALIGN="TOP" HEIGHT=115>
+<FONT SIZE=1><P>&nbsp;</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=115>
+<FONT SIZE=1><P>&nbsp;</P>
+<P>&nbsp;</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=115>
+<FONT SIZE=1><P>&nbsp;</P>
+<P>&nbsp;</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=115>
+<FONT SIZE=1><P>&nbsp;</P>
+<P>&nbsp;</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=115>
+<FONT SIZE=1><P>&nbsp;</P>
+<P>1 IMS Photos</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=115>
+<FONT SIZE=1><P>2 Registration Deadline for November 7 S.A.T. I &amp; S.A.T. II</P>
+<P>Y.A.C. Muscular Dystrophy Jump -a-Thon DL</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" BGCOLOR="#ffffff" HEIGHT=115>
+<FONT SIZE=1><P>3 </FONT></TD>
+</TR>
+<TR><TD WIDTH="14%" VALIGN="TOP" BGCOLOR="#ffffff" HEIGHT=115>
+<FONT SIZE=1><P>4 </FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=115>
+<FONT SIZE=1><P>5 IHS Homecoming Week</P>
+<P>PTSA General Membership Meeting 8:30 am IMS Auditorium</P>
+<P>PTSA DL After School Program Begins</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=115>
+<FONT SIZE=1><P>6 IMS Grade 7</P>
+<P>Camp Herrlich Trip </P>
+<P>Board Public Meeting</P>
+<P>7:30 pm IMS Auditorium</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=115>
+<FONT SIZE=1><P>7 PTSA Gift Wrap Sale Ends</P>
+<P>Peer Leadership &amp; 9th Grade Parent Dessert/Coffee 7:30 pm IHS Auditorium</P>
+<P>College Conference, Jr. &amp; Sr. Parents 6:30 - 9:30 pm County Center, White Plains</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=115>
+<FONT SIZE=1><P>8 PTSA DL Thursday After School Program Begins</P>
+<P>IMS Open House 8 pm</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=115>
+<FONT SIZE=1><P>9 </FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" BGCOLOR="#ffffff" HEIGHT=115>
+<FONT SIZE=1><P>10 S.A.T. I &amp; S.A.T. II</P>
+<P>IHS Homecoming 1998</FONT></TD>
+</TR>
+<TR><TD WIDTH="14%" VALIGN="TOP" BGCOLOR="#ffffff" HEIGHT=115>
+<FONT SIZE=1><P>11 </FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" BGCOLOR="#ffffff" HEIGHT=115>
+<FONT SIZE=1><P>12 COLUMBUS DAY</P>
+<P>Harrison Parade IHS/IMS Marching Band 9 am</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=115>
+<FONT SIZE=1><P>13 IMS Site Committee Meeting 3:45 - 5:15 pm</P>
+<P>IHS Interim Reports</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=115>
+<FONT SIZE=1><P>14 PTSA New Members Coffee 7:30 pm </P>
+<P>DL 2nd floor lobby</P>
+<P>I.E.F. Meeting </P>
+<P>7:45 pm IMS Library</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=115>
+<FONT SIZE=1><P>15 DL Photo Day</P>
+<P>Y.A.C. Dress-Up Day</P>
+<P>P.A.C. 9:15 am DL</P>
+<P>IMS Grade 7 Parent/Student Workshop 7:30 pm</P>
+<P>IHS Open House - 7:45 pm Audit.</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=115>
+<FONT SIZE=1><P>16 PTSA/DL Pizza Begins</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" BGCOLOR="#ffffff" HEIGHT=115>
+<FONT SIZE=1><P>17 P.S.A.T. </P>
+<P>Grades 10 &amp; 11</P>
+<P>8 am IHS</P>
+<P>Irvington Education Foundation Gala</FONT></TD>
+</TR>
+<TR><TD WIDTH="14%" VALIGN="TOP" BGCOLOR="#ffffff" HEIGHT=115>
+<FONT SIZE=1><P>18 </FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=115>
+<FONT SIZE=1><P>19 IMS Interim Reports</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=115>
+<FONT SIZE=1><P>20 Board Public Meeting</P>
+<P>7:30 pm </P>
+<P>IMS Auditorium</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=115>
+<FONT SIZE=1><P>21 Y.A.C. DL Student Store Opens</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=115>
+<FONT SIZE=1><P>22 IHS Site Committee Meeting 3:30 - 5 pm</P>
+<P>Area All-State Music Rehearsal 4 - 9 pm Hastings HS</P>
+<P>IMS Grade 7 Parent/Student Workshop 7:30 pm</P>
+<P>&nbsp;</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=115>
+<FONT SIZE=1><P>&nbsp;</P>
+<P>23 IHS Underclass Photos</P>
+<P>PTSA/DL Bingo </P>
+<P>7:30 pm</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" BGCOLOR="#ffffff" HEIGHT=115>
+<FONT SIZE=1><P>24 </FONT></TD>
+</TR>
+<TR><TD WIDTH="14%" VALIGN="TOP" BGCOLOR="#ffffff" HEIGHT=115>
+<FONT SIZE=1><P>25 </FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=115>
+<FONT SIZE=1><P>26 </FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=115>
+<FONT SIZE=1><P>27 </FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=115>
+<FONT SIZE=1><P>28 </FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=115>
+<FONT SIZE=1><P>29 PTSA Book Fair DL/IMS/IHS Begins</P>
+<P>IMS Grade 7 Parent/Student Workshop 7:30 pm</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=115>
+<FONT SIZE=1><P>30 Registration Deadline December 5 S.A.T. I &amp; S.A.T. II</P>
+<P>DL Halloween Carnival &amp; Raffle</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" BGCOLOR="#ffffff" HEIGHT=115>
+<FONT SIZE=1><P>31 </FONT></TD>
+</TR>
+</TABLE>

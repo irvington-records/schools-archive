@@ -1,0 +1,379 @@
+SOURCE https://mss.irvingtonschools.org/fs/resource-manager/view/4c77b1e5-8770-4efa-9917-99d0fc31057c | DATE 2025-07-08 | TITLE dmmp.pdf
+
+This plan should be completed by the student’s personal diabetes health care team, including the parents/guardians.
+It should be reviewed with relevant school staff and copies should be kept in a place that can be accessed easily by
+the school nurse, trained diabetes personnel and other authorized personnel.
+
+Date of plan: ___________________               This plan is valid for the current school year: __________-__________
+
+
+Student information
+
+Student’s name: _____________________________________________ Date of birth: ________________________
+Date of diabetes diagnosis: _______________________  Type 1  Type 2  Other: ______________________
+School: ____________________________________________ School phone number: ________________________
+Grade: _________________________ Homeroom teacher: _____________________________________________
+School nurse _________________________________________________ Phone: ___________________________
+
+
+Contact information
+
+Parent/guardian 1: _____________________________________________________________________________
+Address: ______________________________________________________________________________________
+Telephone: Home: __________________________ Work: _______________________ Cell: ___________________
+Email address: _________________________________________________________________________________
+
+Parent/guardian 2: _____________________________________________________________________________
+Address: ______________________________________________________________________________________
+Telephone: Home: __________________________ Work: _______________________ Cell: ___________________
+Email address: _________________________________________________________________________________
+
+Student’s physician/health care provider: __________________________________________________________
+Address: _____________________________________________________________________________________
+Telephone: ____________________________________ Emergency number: _______________________________
+Email address: _________________________________________________________________________________
+
+Other emergency contacts:
+Name: _________________________________________ Relationship: ___________________________________
+Telephone: Home: __________________________ Work: _______________________ Cell: ___________________
+
+
+
+
+                                                                                                            Page 1 of 8
+Checking blood glucose
+
+Brand/model of blood glucose meter: _____________________________________________________________
+Target range of blood glucose:
+Before meals:  90–130 mg/dL  Other: ___________________
+
+Check blood glucose level:
+ Before breakfast        After breakfast      _____ Hours after breakfast      2 hours after a correction dose
+ Before lunch            After lunch          _____ Hours after lunch          Before dismissal
+ Mid-morning             Before PE            After PE                         Other: _________________
+ As needed for signs/symptoms of low or high blood glucose               As needed for signs/symptoms of illness
+
+Preferred site of testing:  Side of fingertip  Other: ______________________
+Note: The side of the fingertip should always be used to check blood glucose level if hypoglycemia is suspected.
+
+Student’s self-care blood glucose checking skills:
+ Independently checks own blood glucose
+ May check blood glucose with supervision
+ Requires a school nurse or trained diabetes personnel to check blood glucose
+ Uses a smartphone or other monitoring technology to track blood glucose value
+
+Continuous glucose monitor (CGM):  Yes  No Brand/model: _____________________________________
+Alarms set for:      Severe Low: ____________ Low: _______________ High: ______________
+Predictive alarm:    Low: ___________ High: __________ Rate of change: Low: ___________ High: ____________
+Threshold suspend setting: _______________________________________________________________________
+CGM may be used for insulin calculation if glucose is between ___-___ mg/dL ___Yes ___No
+CGM may be used for hypoglycemia management ___ Yes ___ No
+CGM may be used for hyperglycemia management ___ Yes ___ No
+
+Additional information for student with CGM
+       Insulin injections should be given at least three inches away from the CGM insertion site.
+       Do not disconnect from the CGM for sports activities.
+       If the adhesive is peeling, reinforce it with approved medical tape.
+       If the CGM becomes dislodged, return everything to the parents/guardians. Do not throw any part away.
+       Refer to the manufacturer’s instructions on how to use the student’s device.
+
+                         Student’s self-care CGM skills                                     Independent?
+  The student troubleshoots alarms and malfunctions.                                 Yes              No
+  The student knows what to do and is able to deal with a HIGH alarm.                Yes              No
+  The student knows what to do and is able to deal with a LOW alarm.                 Yes              No
+  The student can calibrate the CGM.                                                 Yes              No
+  The student knows what to do when the CGM indicates a rapid trending rise
+                                                                                     Yes              No
+  or fall in the blood glucose level.
+
+The student should be escorted to the nurse if the CGM alarm goes off:  Yes  No
+Other instructions for the school health team:
+_________________________________________________________________________________________
+_________________________________________________________________________________________
+
+                                                                                                        Page 2 of 8
+Hypoglycemia treatment
+Student’s usual symptoms of hypoglycemia (list below):
+_____________________________________________________________________________________________
+_____________________________________________________________________________________________
+_____________________________________________________________________________________________
+If exhibiting symptoms of hypoglycemia, OR if blood glucose level is less than ______ mg/dL, give a quick-acting
+glucose product equal to ______ grams of carbohydrate.
+Recheck blood glucose in 15 minutes and repeat treatment if blood glucose level is less than _______ mg/dL.
+Additional treatment:
+_____________________________________________________________________________________________
+_____________________________________________________________________________________________
+If the student is unable to eat or drink, is unconscious or unresponsive, or is having seizure activity or
+convulsions (jerking movement):
+           Position the student on his or her side to prevent choking.
+           Administer glucagon                 Name of glucagon used: ___________________________
+Injection:
+       1 mg                                   ½ mg               Other (dose) __________________________
+           Route:                             Subcutaneous (SC)              Intramuscular (IM)
+           Site for glucagon injection:       Buttocks    Arm               Thigh        Other: _____________
+Nasal route:
+       3 mg
+           Route:                             Intranasal (IN)
+           Site:                              Nose
+
+           Call 911 (Emergency Medical Services) and the student’s parents/guardians.
+           Contact the student’s health care provider.
+           If on insulin pump, stop by placing mode in suspend or disconnect. Always send pump with EMS to hospital.
+
+
+Hyperglycemia treatment
+
+Student’s usual symptoms of hyperglycemia (list below):
+_____________________________________________________________________________________________
+_____________________________________________________________________________________________
+_____________________________________________________________________________________________
+
+         Check  Urine  Blood for ketones every _____ hours when blood glucose levels are above _____ mg/dL.
+         For blood glucose greater than _______ mg/dL AND at least _____ hours since last insulin dose, give
+          correction dose of insulin (see correction dose orders).
+         Notify parents/guardians if blood glucose is over _________ mg/dL.
+         For insulin pump users: see Additional Information for Student with Insulin Pump.
+         Allow unrestricted access to the bathroom.
+         Give extra water and/or non-sugar-containing drinks (not fruit juices): _____ ounces per hour.
+
+Additional treatment for ketones: ________________________________________________________________
+         Follow physical activity and sports orders. (See Physical Activity and Sports)
+
+If the student has symptoms of a hyperglycemia emergency, call 911 (Emergency Medical Services) and contact the
+student’s parents/guardians and health care provider. Symptoms of a hyperglycemia emergency include: dry mouth,
+extreme thirst, nausea and vomiting, severe abdominal pain, heavy breathing or shortness of breath, chest pain,
+increasing sleepiness or lethargy or depressed level of consciousness.
+
+                                                                                                         Page 3 of 8
+Insulin therapy
+
+Insulin delivery device:
+ Syringe                              Insulin pen                       Insulin pump
+
+Type of insulin therapy at school:
+ Adjustable (basal-bolus) insulin     Fixed insulin therapy             No insulin
+
+Adjustable (Basal-bolus) Insulin Therapy
+
+         Carbohydrate Coverage/Correction Dose: Name of insulin: ___________________________________
+
+         Carbohydrate Coverage:
+                  Insulin-to-carbohydrate ratio:
+                  Breakfast: 1 unit of insulin per _____ grams of carbohydrate
+                  Lunch: 1 unit of insulin per _____ grams of carbohydrate
+                  Snack: 1 unit of insulin per _____ grams of carbohydrate
+
+                                      Carbohydrate Dose Calculation Example
+             Total Grams of Carbohydrate to Be Eaten
+                                                                             =           ______ Units of Insulin
+                   Insulin-to-Carbohydrate Ratio
+
+Correction Dose: Blood glucose correction factor (insulin sensitivity factor) = ______
+Target blood glucose = ______mg/dL
+
+                                        Correction Dose Calculation Example
+          Current Blood Glucose – Target Blood Glucose
+                                                                             =           ______ Units of Insulin
+                           Correction Factor
+
+
+Correction dose scale (use instead of calculation above to determine insulin correction dose):
+Blood glucose ______ to _____ mg/dL, give ______ units      Blood glucose ______ to _____ mg/dL, give ______ units
+Blood glucose ______ to _____ mg/dL, give ______ units      Blood glucose ______ to _____ mg/dL, give ______ units
+
+See the worksheet examples in Advanced Insulin Management: Using Insulin-to-Carb Ratios and Correction
+Factors for instructions on how to compute the insulin dose using a student’s insulin-to-carb ratio and insulin
+correction factor.
+
+
+
+
+                                                                                                       Page 4 of 8
+Insulin therapy (continued)
+
+When to give insulin:
+Breakfast
+ Carbohydrate coverage only
+ Carbohydrate coverage plus correction dose when blood glucose is greater than _____ mg/dL and ______ hours
+  since last insulin dose.
+ Other: _____________
+
+Lunch
+ Carbohydrate coverage only
+ Carbohydrate coverage plus correction dose when blood glucose is greater than _______ mg/dL and _____ hours
+  since last insulin dose.
+ Other: _____________
+
+Snack
+ No coverage for snack
+ Carbohydrate coverage only
+ Carbohydrate coverage plus correction dose when blood glucose is greater than _______ mg/dL and _____ hours
+  since last insulin dose.
+ Correction dose only: For blood glucose greater than _______ mg/dL AND at least ______ hours since last
+  insulin dose.
+ Other: _____________
+
+Fixed Insulin Therapy Name of insulin: ____________________________________________________________
+ _____ Units of insulin given pre-breakfast daily
+ _____ Units of insulin given pre-lunch daily
+ _____ Units of insulin given pre-snack daily
+ Other: _____________
+
+Basal Insulin Therapy Name of insulin: ____________________________________________________________
+   To be given during school hours:              ___ Pre-breakfast dose:   ____ units
+                                                 ___ Pre-lunch dose:       ____ units
+                                                 ___ Pre-dinner dose:      ____ units
+Other diabetes medications:
+Name: _____________________ Dose: __________ Route: ______________ Times given: __________________
+Name: _____________________ Dose: __________ Route: ______________ Times given: __________________
+
+
+
+
+                                                                                                   Page 5 of 8
+Parents/Guardians authorization to adjust insulin dose:
+
+ Yes           No    Parents/guardians authorization should be obtained before administering a correction dose.
+ Yes           No    Parents/guardians are authorized to increase or decrease correction dose scale within the
+                       following range: +/- ______ units of insulin.
+ Yes           No    Parents/guardians are authorized to increase or decrease insulin-to-carbohydrate ratio within
+                       the following range: _____ units per prescribed grams of carbohydrate, +/- ______ grams
+                       of carbohydrate.
+ Yes           No    Parents/guardians are authorized to increase or decrease fixed insulin dose within the following
+                       range: +/- ______ units of insulin.
+
+
+Student’s self-care insulin administration skills:
+
+ Independently calculates and gives own injections.
+ May calculate/give own injections with supervision.
+ Requires school nurse or trained diabetes personnel to calculate dose and student can give own injection
+  with supervision.
+ Requires school nurse or trained diabetes personnel to calculate dose and give the injection.
+
+
+Additional information for student with insulin pump
+
+Brand/model of pump: ______________________________ Type of insulin in pump: ________________________
+Basal rates during school: Time: _________ Basal rate: __________ Time: _________ Basal rate: __________
+                               Time: _________ Basal rate: __________ Time: _________ Basal rate: __________
+                               Time: _________ Basal rate: __________
+Other pump instructions:
+_____________________________________________________________________________________________
+_____________________________________________________________________________________________
+Type of infusion set: ___________________________________________________________________________
+Appropriate infusion site(s): _____________________________________________________________________
+
+ For blood glucose greater than ______ mg/dL that has not decreased within _____ hours after correction,
+  consider pump failure or infusion site failure. Notify parents/guardians.
+ For infusion site failure: Insert new infusion set and/or replace reservoir, or give insulin by syringe or pen.
+ For suspected pump failure: Suspend or remove pump and give insulin by syringe or pen.
+
+Physical Activity
+May disconnect from pump for sports activities:         Yes, for ______ hours                                   No
+Set a temporary basal rate:                             Yes, ______% temporary basal for _____ hours            No
+Suspend pump use:                                       Yes, for _____ hours                                    No
+
+
+
+
+                                                                                                             Page 6 of 8
+Additional information for student with insulin pump (continued)
+
+                        Student’s self-care pump skills                                        Independent?
+ Counts carbohydrates                                                                     Yes              No
+ Calculates correct amount of insulin for carbohydrates consumed                          Yes              No
+ Administers correction bolus                                                             Yes              No
+ Calculates and sets basal profiles                                                       Yes              No
+ Calculates and sets temporary basal rate                                                 Yes              No
+ Changes batteries                                                                        Yes              No
+ Disconnects pump                                                                         Yes              No
+ Reconnects pump to infusion set                                                          Yes              No
+ Prepares reservoir, pod and/or tubing                                                    Yes              No
+ Inserts infusion set                                                                     Yes              No
+ Troubleshoots alarms and malfunctions                                                    Yes              No
+
+
+                Meal/Snack                                  Time                     Carbohydrate Content (grams)
+ Breakfast                                                                                 ______ to ______
+ Mid-morning snack                                                                         ______ to ______
+ Lunch                                                                                     ______ to ______
+ Mid-afternoon snack                                                                       ______ to ______
+
+Other times to give snacks and content/amount: ____________________________________________________
+_____________________________________________________________________________________________
+
+Instructions for when food is provided to the class (e.g., as part of a class party or food sampling event):
+_____________________________________________________________________________________________
+Parent/guardian substitution of food for meals, snacks and special events/parties permitted.
+Special event/party food permitted:  Parents’/Guardians’ discretion  Student discretion
+
+Student’s self-care nutrition skills:
+ Independently counts carbohydrates
+ May count carbohydrates with supervision
+ Requires school nurse/trained diabetes personnel to count carbohydrates
+
+
+Physical activity and sports
+A quick-acting source of glucose such as  glucose tabs and/or  sugar-containing juice must be available
+                                                                 at the site of physical education activities
+                                                                 and sports.
+Student should eat  15 grams                30 grams of carbohydrate          other: _________
+ before  every 30 minutes during.  every 60 minutes during  after vigorous physical activity
+ other: _______
+If most recent blood glucose is less than ________ mg/dL, student can participate in physical activity when
+blood glucose is corrected and above _________ mg/dL.
+Avoid physical activity when blood glucose is greater than ________ mg/dL or if urine/blood ketones are
+moderate to large.
+(See Administer Insulin for additional information for students on insulin pumps.)
+
+                                                                                                          Page 7 of 8
+Disaster/Emergency and Drill Plan
+To prepare for an unplanned disaster, emergency (72 hours) or drill, obtain emergency supply kit from
+parents/guardians. School nurse or other designated personnel should take student’s diabetes supplies and
+medications to student's destination to make available to student for the duration of the unplanned disaster,
+emergency or drill.
+ Continue to follow orders contained in this DMMP.
+ Additional insulin orders as follows (e.g., dinner and nighttime):
+_____________________________________________________________________________________________
+_____________________________________________________________________________________________
+_____________________________________________________________________________________________
+
+ Other: ______________________________________________________________________________________
+
+
+
+Signatures
+This Diabetes Medical Management Plan has been approved by:
+
+________________________________________________________________________________________________
+Student’s Physician/Health Care Provider                                       Date
+
+
+I, (parent/guardian) ___________________________________________ give permission to the school nurse or
+another qualified health care professional or trained diabetes personnel of (school) ______________________________
+to perform and carry out the diabetes care tasks as outlined in (student _______________________________________
+Diabetes Medical Management Plan. I also consent to the release of the information contained in this Diabetes Medical
+Management Plan to all school staff members and other adults who have responsibility for my child and who may need to
+know this information to maintain my child’s health and safety. I also give permission to the school nurse or another
+qualified health care professional to contact my child’s physician/health care provider.
+
+Acknowledged and received by:
+
+________________________________________________________________________________________________
+Student’s Parent/Guardian                                                            Date
+
+________________________________________________________________________________________________
+Student’s Parent/Guardian                                                            Date
+
+________________________________________________________________________________________________
+School Nurse/Other Qualified Health Care Personnel                                   Date
+
+
+
+
+This form was developed by the American Diabetes Association.
+
+October 2019
+
+                                                                                                              Page 8 of 8

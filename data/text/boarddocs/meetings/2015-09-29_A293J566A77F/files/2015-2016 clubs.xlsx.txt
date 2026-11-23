@@ -1,0 +1,80 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/pfiles/A2PR6C60B78B/$file/2015-2016%20clubs.xlsx | DATE: 2015-09-29 | TITLE: Public Hearing/Work Session/Special Meeting | 8.1 Payment for Extracurricular Clubs | 2015-2016 clubs.xlsx
+
+--- sheet Sheet1 ---
+School	First Name	Last Name	Club	Group	Step	Stipend
+Dows	Christopher	Cullen	Recycling Rangers	6	1	1669
+IHS	Carleen	Julian	Senior Class Advisor	4	8	3661
+IHS	Holly	Sewalk	Environmental/Recycling Club (split)	8	8	619
+IHS	Amy	Ma	Environmental/Recycling Club (split)	8	0	404
+IHS	Lisa	Bednarz	Flag	8	8	1238
+IHS	Erik	Weiselberg	Mock Trial	8	8	1238
+IHS	Patrick	DiBenedetto	Yearbook	1	6	4900
+IHS	MIchele	Cella	Latin Club (split)	8	8	619
+IHS	Jonathan	Silverman	Latin Club (split)	8	8	619
+IHS	Trish	Many	Community Service Coordinator	5	1	2746
+IHS	Trish	Many	Key Club (split)	8	8	619
+IHS	Holly	Koester	Key Club (split)	8	6	565.5
+IHS	Diana	Cassidy	National Honor Society	5	0	2692
+IHS	Debra	Tuzman	High School Band	7	4	1561
+IHS	Diana	Selenow	Drama Production/Director (Fall)	1	8	5007
+IHS	Diana	Selenow	Drama Production/Director (Spring)	1	8	5007
+IHS	Thom	Johnson	Theatrical Prod. (Tech. Asst./Fall)	2	4	4253
+IHS	Thom	Johnson	Theatrical Prod. (Tech. Asst./Spring)	2	4	4253
+IHS	Jane	Abbott	Drama Production Choreographer (Spring)	4	3	3392
+IHS	Stephen	DiGiovanni	Drama Production (Instrumental) (Spring)	2	3	4200
+IHS	Courtney	Geelan	Model UN	5	8	3123
+IHS	Claudia	Rodriguez	Student Government (split)	5	5	1480.5
+IHS	Sara	Lake-Garcia	Student Government (split)	5	6	1507.5
+IHS	Lauren	Cutignola	Freshman/Sophomore Class Advisor	7	0	1346
+IHS	Jennifer	McArdle	Literary Magazine	7	1	1400
+IHS	Alison	Zerbo	Academic Challenge	5	1	2746
+IHS	Marcus 	Oates	JSA	7	0	1346
+IHS	Donna	Devaney	TV Club	7	4	1561
+IHS	Jessica	Hughes	Yearbook Assistant	4	1	3284
+IMS	Nicole	Arvanites	Science Olympiad (Split)	5	5	1480.5
+IMS	Karen	Bodnar	Science Olympiad (Split)	5	8	1561.5
+IMS	Luann	Ricciardi	Environmental (Garden Club) (formerly Green Team)	7	5	1615
+IMS	Luann	Ricciardi	Midnight Run	7	8	1777
+IMS	Luann	Ricciardi	Theater (Musical)	2	1	4092
+IMS	Eve	Zeese	Debate Club	6	0	1615
+IMS	Diana	Tomaselli	Yearbook	4	6	3554
+IMS	Judy	Nadler	Homework Center 6	3	5	3769
+IMS	Mary	Bachrach	School Store	7	8	1777
+IMS	Caroline	Lehoczky	Homework Center 7/8	3	3	3661
+IMS	Allyson	Tempest	Spanish Club	8	3	969
+IMS	Teresa	Hunt	Talent Show	8	1	861
+IMS	Carol	Labella	SAIL/Student Council (full)	7	4	1561
+IMS	Samantha	Gold	SAIL/Student Coucil (full)	7	0	1346
+IMS	Linda	Palumbo	National Junior Honor Society	7	3	1508
+IMS	Deborah	Scofield	Geography Club	8	1	861
+IMS	Deanna	Tessler	French Club	8	8	1238
+IMS	Eli	Byers	Chess Club (split)	8	0	404
+IMS 	Philip 	Levine	Chess Club (split)	8	0	404
+IMS 	Philip 	Levine	IMS Honor Society (formerly Tri-M)	7	6	1669
+IMS	Karen 	Acrish	Literary Magazine (split)	4	0	1615
+IMS	Amy	Panitz	Literary Magazine (split)	4	0	1615
+IMS/IHS	Stephen	DiGiovanni	AV Club MS/HS (split)	1	7	2476.5
+IMS/IHS	Gina	Maher	AV Club MS/HS (split)	1	7	2476.5
+MSS	Christine	Rosner	Mathletes-4	8	8	1238
+MSS	Lisa	Gervasi	Destination Imagination - 4 (full)	5	1	2746
+MSS	Georgia	Tasigiannis	Destination Imagination - 4 (full)	5	1	2746
+MSS	Georgia	Tasigiannis	Stage Manager	7	3	1508
+MSS	Amy 	Jones	Homework Club 4th Grade (2 Days) (50%)	3	6	1911.5
+MSS	Diane	Watkinson	Homework Club 4th Grade (2 Days) (50%)	3	0	1750
+MSS	Diane	Watkinson	School Store 4-5	7	6	1669
+MSS	Nancy	Woeckener	Mathletes - 5	8	5	1077
+MSS	Alison	Meiseles	Television Club - 5	8	8	1238
+MSS	Julie	Rostkowski	Homework Club 5th Grade (1 Day) (25%)	3	0	875
+MSS	Nancy	Woeckener	Homework Club 5th Grade (1 Day) (25%)	3	3	915.25
+MSS	Alison	Meiseles	Homework Club 5th Grade (1 Day) (25%)	3	7	969.25
+MSS	Julie	Cangelosi	Homework Club 5th Grade (1 Day) (25%)	3	4	928.75
+MSS	Julie	Cangelosi	Destination Imagination -5 (full)	5	0	2692
+MSS	Cristina	Fiol	Destination Imagination -5 (full)	5	0	2692
+MSS	Nina	Rossi	Set Design	7	7	1723
+MSS	Gail	Flynn	Gardening Club (anticipated) Pending PTSA Grant	8	0	808
+MSS	MaryEllen	Fortini	Gardening Club (anticipated) Pending PTSA Grant	8	0	808
+MSS	MaryEllen	Fortini	Board Games	8	0	808
+MSS	Deborah	Ottaviano	Theater Club 4-5	6	8	2046
+--- sheet Sheet2 ---
+--- sheet Sheet3 ---
+

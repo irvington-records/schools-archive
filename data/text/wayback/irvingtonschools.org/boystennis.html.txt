@@ -1,0 +1,18 @@
+SOURCE http://www.irvingtonschools.org:80/boystennis.html | DATE 2002-08-25 | TITLE Boys Tennis
+
+Varsity/Junior Varsity Sports
+Coach: Cathy Patricola
+| DATE | OPPONENT | TIME | 
+| Apr. 8 | at Edgemont | 4:30 PM | 
+| Apr. 10 | at Briarcliff | 4:30 PM | 
+| Apr. 12 | at Blind Brook | 4:30 PM | 
+| Apr. 15 | at Hastings | 4:15 PM | 
+| Apr. 19 | Bronxville | 4:15 PM | 
+| Apr. 22 | at Valhalla | 4:30 PM | 
+| Apr. 24 | Rye Neck | 4:15 PM | 
+| Apr. 25 | Hastings | 4:15 PM | 
+| May 1 | at Bronxville | 4:30 PM | 
+| May 2 | Edgemont | 4:15 PM | 
+| May 3 | Valhalla | 4:15 PM | 
+| May 6 | at Rye Neck | 4:30 PM | 
+| May 9 | at Fordham Prep | 4:30 PM |

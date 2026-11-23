@@ -1,0 +1,110 @@
+SOURCE https://services.google.com/fh/files/misc/gemininotebook_gfe_one_pager.pdf | DATE unknown | TITLE gemininotebook_gfe_one_pager.pdf
+
+Understand anything
+with Gemini Notebook
+Meet your personal AI-powered research
+and thinking partner, grounded only in the
+information you provide.
+
+
+
+
+      Google Workspace for Education users of all ages have access
+to Gemini Notebook with enterprise-grade data protection – free of charge
+
+
+
+
+Turn your sources into       Learn on the go               Get helpful               Tailor study sessions      See connections
+helpful study aids like      with Audio and                responses with            with interactive           across sources
+flashcards and quizzes       Video Overviews               in-line citations         learning overviews         with Mind Maps
+
+Upload sources like          Convert documents,            Notebook cites its        Weave together             Visually summarize
+class materials,             slides, and charts into       sources by providing      summaries and studio       your sources, showing
+textbook chapters, or        interactive media. Turn       links to the resources    outputs like               main topics and their
+lecture notes to             your sources into audio       you uploaded – all with   infographics and           related ideas as a
+instantly generate           discussions led by two        in-line citations to      quizzes into interactive   branching diagram. You
+interactive flashcards,      AI hosts, where you can       ensure accuracy.          learning overviews or      can tailor Mind Maps to
+practice quizzes, and        ask them to explain a                                   turn your sources into     focus on specific
+study guides, with the       concept differently, or                                 helpful formats like PDF   topics, sources, or
+ability to tailor them to    short explainer videos                                  slides to help you         concepts using a
+each student’s needs.        with narration.                                         visualize information.     simple prompt.
+
+
+
+
+© 2026 Google LLC 1600 Amphitheatre Parkway, Mountain View, CA 94043.                                  Try Gemini Notebook
+                   Private and secure
+                    Data you enter into Gemini Notebook, including your source uploads, queries, and
+                    responses, are not human reviewed or used to train AI models.
+
+
+Explore ways education communities are using Gemini Notebook
+
+           Education leader                                                      Educator
+
+  ✓    Reinvent onboarding by uploading standards, codes of             ✓     Help prepare students for an exam by asking
+       conduct, and more to a notebook where new faculty                      Gemini Notebook to create a study guide or
+       and staff can ask questions and get immediate answers                  interactive learning overview based on your sources
+       with in-line citations for your sources                          ✓     Share your notebook with students and view how
+  ✓    Provide students with new ways of learning using Audio                 they’re engaging with it
+       Overviews and Video Overviews to interact with
+       learning material
+
+
+
+
+           Student                                                               Researcher
+
+  ✓    Turn your sources into interactive learning overviews            ✓     Organize and interact with robust data and resources in
+       complete with infographics, quizzes, and flashcards                    new ways. Upload your research and Gemini Notebook
+                                                                              can quickly summarize videos, slides, charts, PDFs and
+  ✓    Study on the go by creating an Audio Overview or Video
+                                                                              more – and share insights grounded in your sources.
+       Overview of your lecture notes in one click
+                                                                        ✓     Record research interviews with the audio recorder,
+  ✓    Prepare for an exam by asking for sample discussion
+                                                                              then converse with your notebook to synthesize
+       questions or creating an editable practice quiz that
+                                                                              findings using voice chat.
+       provides feedback based on your performance
+
+
+
+
+Get the most out of Gemini Notebook with additional capabilities
+Upgrading to Google AI Pro for Education provides expanded access to premium models and features in
+Gemini Notebook.
+
+                                                                                                                 Google AI Pro
+                                         Education Fundamentals                Education Plus
+                                                                                     (Paid)
+                                                                                                                 for Education
+                                                 (Free of charge)
+                                                                                                                       (Paid)
+
+  Chat with AI grounded only in               50 chat queries/day           200 chat queries/day              500 chat queries/day
+  your sources, with citations             50 sources per Notebook      100 sources per Notebook           300 sources per Notebook
+
+  Create more engaging content               3 Audio Overviews/day          6 Audio Overviews/day            20 Audio Overviews/day
+  with more Audio and Video
+  Overviews                                  3 Video Overviews/day          6 Video Overviews/day            20 Video Overviews/day
+
+  Transform sources into clear
+  infographics,* PDF slide decks,*                  Limited                    Expanded limits                    Higher limits
+  and data tables
+
+  Create practice quizzes and                  10 flashcards/day              20 flashcards/day                100 flashcards/day
+  flashcards for studying using
+  your sources                                  10 quizzes/day                 20 quizzes/day                    100 quizzes/day
+
+  Save time on research and dig
+                                                10 uses/month                    3 uses/day                        20 uses/day
+  deeper with Deep Research*
+
+
+* Features available for users who are 18+
+
+
+                                                                                                       Learn more about
+© 2026 Google LLC 1600 Amphitheatre Parkway, Mountain View, CA 94043.                                  Google AI Pro for Education

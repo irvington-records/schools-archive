@@ -1,0 +1,15 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/goto?open&id=95YPND65455C | DATE: 2013-04-09 | TITLE: Regular Meeting - 7:30 p.m.* | 9.6 Budget Transfers
+
+Meeting: Apr 09, 2013 - Regular Meeting - 7:30 p.m.*
+Date: 2013-04-09
+Category: 9. Business Office Matters
+Subject: 9.6 Budget Transfers
+Type: Action (Consent)
+
+Budget transfer 12/13-12
+
+	Credit A2250-400-40 (Spec.Ed-Other Expenses)       $25,000
+
+	Debit  A2250-470 (Spec. Ed Tuition-Special schools) $25,000
+
+	This budget transfer is needed for additional funds to pay Therapy Source, Inc.

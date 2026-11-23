@@ -1,0 +1,129 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/goto?open&id=B9V2MK611996 | DATE: 2019-03-05 | TITLE: Regular Meeting | 11.5 Appointment of Spring Coaching Positions
+
+Meeting: Mar 05, 2019 - Regular Meeting
+Date: 2019-03-05
+Category: 11. Personnel Matters
+Subject: 11.5 Appointment of Spring Coaching Positions
+Type: Action (Consent)
+
+SPORT
+			TYPE
+			NAME
+			GROUP
+			STEP
+			STIPEND
+
+			Baseball
+			Varsity Head
+			Michael DiNardo
+			III
+			7
+			$7,376.00
+
+			Baseball
+			Varsity Assistant
+			Mike Toolan
+			III
+			8
+			$4,830.00
+
+			Baseball
+			JV head
+			Anthony DiNardo
+			III
+			6
+			$5,126.00
+
+			Boys LaCrosse
+			Varsity Head
+			Michael Schaeffer
+			III
+			2
+			$7,107.00
+
+			Boys LaCrosse
+			Varsity Assistant
+			James Sears
+			III
+			2
+			$4,620.00
+
+			Boys Tennis
+			JV Head
+			Richard Urban
+			IV
+			8
+			$4,070.00
+
+			Girls Lacrosse
+			Varsity Head
+			Patrick DiBenedetto
+
+			III
+
+			8
+			$7,430.00
+
+			Girls Lacrosse
+			Varsity Assistant
+			Kristen Palese*
+			III
+			1
+			$4,585.00
+
+			Girls Lacrosse
+			JV Head
+			Beth Staropoli
+			III
+			3
+			$5,013.00
+
+			Golf
+			Varsity Head
+			Kate Becker
+			V
+			6
+			$4,630.00
+
+			Softball
+			Varsity Head
+			Martine Resendiz
+			III
+			8
+			$7,430.00
+
+			Softball
+			Varsity Assistant
+			Christina Galgano*
+			III
+			1
+			$4,585.00
+
+			Softball
+			JV Head
+			Tiffany Flynn
+			III
+			4
+			$5,050.00
+
+			Track (Boys)
+
+			Varsity Head
+			Chirs Barry
+			III
+			8
+			$7,430.00
+
+			Track (Girls
+			Varsity Head
+			Skylar Mosenthal
+			III
+			2
+			$7,107.00
+
+			Track (Boys/Girls)
+			Varsity Assistant
+			Brett Patore
+			III
+			1
+			$4,585.00

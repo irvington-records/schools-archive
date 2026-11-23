@@ -1,0 +1,27 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/goto?open&id=98EMXH516D01 | DATE: 2013-06-18 | TITLE: Special Meeting - *7:30 p.m. | 10.9 Budget Transfers
+
+Meeting: Jun 18, 2013 - Special Meeting - *7:30 p.m.
+Date: 2013-06-18
+Category: 10. Business Office Matters
+Subject: 10.9 Budget Transfers
+Type: Action (Consent)
+
+Budget Transfer 12/13-15
+
+	     Credit  A1010-490 ( BOE-BOCES)                           $5,464
+
+	     Debit   A1060-400 (BOE -Other Expense)               $3,500
+
+	     Debit   A1060-450 (BOE - Supplies)                        $   600
+
+	     Debit   A1040-450 (District Clerk-Supplies)             $1,364
+
+	This transfer is to cover the Board Doc's program.
+
+	Budget Transfer 12/13-16
+
+	     Credit   A2855-160 (Non-Instructional Coaching salaries)        $53,901
+
+	     Debit    A2855-150 (Instructional Coaching salaries)                $53,901
+
+	This transfer is to cover the coaching salaries on the June 7 payroll.

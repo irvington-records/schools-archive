@@ -1,0 +1,247 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/pfiles/CEHN8H5EB1E8/$file/Obsolete%20technology%20equipment%20for%20AR%20May%202022.pdf | DATE: 2022-05-17 | TITLE: Regular Meeting | 8.2 Declaration of Obsolete/Surplus Equipment | Obsolete technology equipment for AR May 2022.pdf
+
+ Asset ID          Serial Number         Asset Type       Manufacturer                   Model                   Assigned to Location           Notes
+ET170942IR      H4NLCX02D55016C         Chromebook           ASUS             ASUS Chromebook Flip C100PA         IHS-Asset Recovery          End of Life
+ET170945IR       H4NLCX02L301162        Chromebook           ASUS             ASUS Chromebook Flip C100PA         IHS-Asset Recovery          End of Life
+ET172303IR       HY3A91HF800860         Chromebook         Samsung            Samsung Chromebook - XE303          IHS-Asset Recovery          End Of Life
+ET171174IR       H4NLCX00S239145        Chromebook           ASUS             ASUS Chromebook Flip C100PA         IHS-Asset Recovery          End of Life
+ET102060IR      GBNLCX09M08848F         Chromebook           ASUS             ASUS Chromebook Flip C100PA         IHS-Asset Recovery          End of Life
+ET171115IR       H4NLCX00S417145        Chromebook           ASUS             ASUS Chromebook Flip C100PA         IHS-Asset Recovery          End of Life
+ET202906IR       HY3A91HDB04050         Chromebook         Samsung            Samsung Chromebook - XE303          IHS-Asset Recovery          End of Life
+ET100427IR       1BEF9FCG511598         Chromebook         Samsung       Samsung Chromebook 2 11" - XE500C12      IHS-Asset Recovery          End of Life
+ET102042IR      GBNLCX09M027488         Chromebook           ASUS             ASUS Chromebook Flip C100PA         IHS-Asset Recovery          End of Life
+ET203496IR       H4NLCX00S31814E        Chromebook           ASUS             ASUS Chromebook Flip C100PA         IHS-Asset Recovery          End of Life
+ET102037IR       GBNLCX09L713480        Chromebook           ASUS             ASUS Chromebook Flip C100PA         IHS-Asset Recovery          End of Life
+ET170944IR      H4NLCX02D561166         Chromebook           ASUS             ASUS Chromebook Flip C100PA         IHS-Asset Recovery          End of Life
+  118277        0UG99FBDC10264W         Chromebook         Samsung            Samsung Chromebook - XE303          IHS-Asset Recovery          End of Life
+ET170946IR       H4NLCX02L403165        Chromebook           ASUS             ASUS Chromebook Flip C100PA         IHS-Asset Recovery          End of Life
+ET101277IR      GCNLCX02B237494         Chromebook           ASUS             ASUS Chromebook Flip C100PA         IHS-Asset Recovery          End of Life
+ET170943IR       H4NLCX02L60916E        Chromebook           ASUS             ASUS Chromebook Flip C100PA         IHS-Asset Recovery          End of Life
+ET171930IR           P204FTHH           Chromebook          Lenovo       Lenovo 300e Chromebook 2nd Gen MTK       IHS-Asset Recovery    Damaged Beyond Repair
+ET202954IR       1BJ691KM903608         Chromebook         Samsung               Samsung Chromebook 3             IHS-Asset Recovery          End of Life
+ET100250IR       HY3A91HF801001         Chromebook         Samsung            Samsung Chromebook - XE303          IHS-Asset Recovery          End of Life
+ET102043IR      GBNLCX09M08548H         Chromebook           ASUS             ASUS Chromebook Flip C100PA         IHS-Asset Recovery          End of Life
+ET102036IR      GBNLCX09M03448E         Chromebook           ASUS             ASUS Chromebook Flip C100PA         IHS-Asset Recovery          End of Life
+ET171860IR           P204FTGX           Chromebook          Lenovo       Lenovo 300e Chromebook 2nd Gen MTK       IHS-Asset Recovery          End of Life
+  118240         0UG99FBDC05610         Chromebook         Samsung            Samsung Chromebook - XE303          IHS-Asset Recovery          End of Life
+ET101290IR      GBNLCX09M01948H         Chromebook           ASUS             ASUS Chromebook Flip C100PA         IHS-Asset Recovery          End of Life
+ET100508IR       1K2Y9FAG500575         Chromebook         Samsung       Samsung Chromebook 2 11" - XE500C12      IHS-Asset Recovery          End Of Life
+ET202872IR       0UG99FDF300997         Chromebook         Samsung            Samsung Chromebook - XE303          IHS-Asset Recovery          End of Life
+ET201428IR       1BEF9FAG515631         Chromebook         Samsung       Samsung Chromebook 2 11" - XE500C12      IHS-Asset Recovery          End Of Life
+  118216         0UG99FBDC07317         Chromebook         Samsung            Samsung Chromebook - XE303          IHS-Asset Recovery          End of Life
+ET171253IR   NXGE8AA0046481DA2B7600     Chromebook           Acer        Acer Chromebook 14 for Work (CP5-471)    IHS-Asset Recovery    Damaged Beyond Repair
+ET202889IR       HY3A91JDB10323         Chromebook         Samsung            Samsung Chromebook - XE303          IHS-Asset Recovery          End of Life
+ET100238IR       HY3A91HF800979         Chromebook         Samsung            Samsung Chromebook - XE303          IHS-Asset Recovery          End of Life
+  118282        0UG99FBDC07393R         Chromebook         Samsung            Samsung Chromebook - XE303          IHS-Asset Recovery          End of Life
+ET100412IR    1S10B6001SUSMJ032P8F           PC             Lenovo                   Lenovo M720s                 IHS-Asset Recovery          End of Life
+ET202122IR            41LM702              Laptop             Dell                     Dell P28F                  IHS-Asset Recovery          End of Life
+ET202105IR           MP183PJR              Laptop           Lenovo                    Lenovo L560                 IHS-Asset Recovery     Broken Beyond Repair
+ET101060IR           PC0FCTSZ              Laptop           Lenovo                   Lenovo T460S                 IHS-Asset Recovery     Broken Beyond Repair
+ET170947IR       C022JW30B00156       Interactive Board     SMART                    SMART M600                   IHS-Asset Recovery          End of Life
+  117347             R2-A20509        Interactive Board     SMART                    SMART SB680                  IHS-Asset Recovery    Damaged Beyond Repair
+  116839             R2-998799        Interactive Board     SMART                    SMART SB680                  IHS-Asset Recovery    Damaged Beyond Repair
+  116827             R2-A00548        Interactive Board     SMART                    SMART SB680                  IHS-Asset Recovery    Damaged Beyond Repair
+ET172140IR        C022JW52B0016       Interactive Board     SMART                    SMART SB680                  IHS-Asset Recovery          End of Life
+  115970             R2-604489        Interactive Board     SMART                    SMART SB680                  IHS-Asset Recovery    Damaged Beyond Repair
+  116454     ETLE10D0339170A0478521        Monitor           Acer                      Acer V173                  IHS-Asset Recovery          End of Life
+  105136      MX05R1084760535SCGTM         Monitor           Acer                      Acer V173                  IHS-Asset Recovery    Damaged Beyond Repair
+  105000      MX05R1084760535SCHLZ         Monitor           Acer                      Acer V173                  IHS-Asset Recovery    Damaged Beyond Repair
+  116495      MX05R1084760535SCJUB         Monitor           Acer                      Acer V173                  IHS-Asset Recovery    Damaged Beyond Repair
+
+
+5/17/2022                                                                                                                                                 1
+
+ Asset ID            Serial Number        Asset Type   Manufacturer         Model        Assigned to Location           Notes
+  117570       ETLJE0W168124050534305      Monitor        Acer          Acer v193w        IHS-Asset Recovery          End of Life
+  117555       ETLJE0W16811807F4B4307      Monitor        Acer          Acer v193w        IHS-Asset Recovery    Damaged Beyond Repair
+  116574             00264A01FE44           Tablet        Apple       Apple iMac A1225    IHS-Asset Recovery          End of Life
+  116568              QP9310U90TJ           Tablet        Apple       Apple iMac A1225    IHS-Asset Recovery          End of Life
+  116561             00264A04C34C           Tablet        Apple       Apple iMac A1225    IHS-Asset Recovery          End of Life
+  116557             00264A04C1E2           Tablet        Apple       Apple iMac A1225    IHS-Asset Recovery          End of Life
+  116581             00264A04DD84           Tablet        Apple       Apple iMac A1225    IHS-Asset Recovery          End of Life
+  116571             00264A01F9CE           Tablet        Apple       Apple iMac A1225    IHS-Asset Recovery          End of Life
+  116565             QP9310W90TJ              PC          Apple       Apple iMac A1225    IHS-Asset Recovery          End of Life
+  116560             QP9310WU0TJ            Tablet        Apple       Apple iMac A1225    IHS-Asset Recovery          End of Life
+  116562             00264A04E88E           Tablet        Apple       Apple iMac A1225    IHS-Asset Recovery          End of Life
+  116576              QP9320150TJ           Tablet        Apple       Apple iMac A1225    IHS-Asset Recovery          End of Life
+  116579             00264A01D80E           Tablet        Apple       Apple iMac A1225    IHS-Asset Recovery          End of Life
+  116578             00264A01CA4E           Tablet        Apple       Apple iMac A1225    IHS-Asset Recovery          End of Life
+  116520     116520MX05R1084760535SCGT4    Monitor         Dell        Dell UltraSharp    IHS-Asset Recovery    Damaged Beyond Repair
+  106066        MX05R1084760535SCHRD       Monitor         Dell        Dell UltraSharp    IHS-Asset Recovery    Damaged Beyond Repair
+  116507        MX05R1084760535SCHRF       Monitor         Dell        Dell UltraSharp    IHS-Asset Recovery    Damaged Beyond Repair
+  116902        MX05R1084760535SCGT1       Monitor         Dell        Dell UltraSharp    IHS-Asset Recovery    Damaged Beyond Repair
+  105321        MX05R1084760535SCHMZ       Monitor         Dell        Dell UltraSharp    IHS-Asset Recovery    Damaged Beyond Repair
+  116686       ETLE10D03391709E3B8521      Monitor         Dell        Dell UltraSharp    IHS-Asset Recovery    Damaged Beyond Repair
+  105006        MX05R1084760535SCGTQ       Monitor         Dell        Dell UltraSharp    IHS-Asset Recovery    Damaged Beyond Repair
+  106694              VNB3M32798            Printer        HP             HP 1022         IHS-Asset Recovery    Damaged Beyond Repair
+  116132              VND3H04204            Printer        HP             HP 1505         IHS-Asset Recovery          End of Life
+  106433              CNC62410RG           Monitor         HP             HP 1740         IHS-Asset Recovery          End of Life
+  104587              CNP517XCV7           Monitor         HP             HP 1740         IHS-Asset Recovery    Damaged Beyond Repair
+  104602              CNP517XCV2           Monitor         HP             HP 1740         IHS-Asset Recovery    Damaged Beyond Repair
+  116870              CNC624101L           Monitor         HP             HP 1740         IHS-Asset Recovery    Damaged Beyond Repair
+  106292              CNC6241DXR           Monitor         HP             HP 1740         IHS-Asset Recovery    Damaged Beyond Repair
+  104853              CNP517XCVS           Monitor         HP             HP 1740         IHS-Asset Recovery    Damaged Beyond Repair
+  117387              CNB9D33493            Printer        HP            HP 2035n         IHS-Asset Recovery    Damaged Beyond Repair
+  117291              CNB9D33484            Printer        HP            HP 2035n         IHS-Asset Recovery          End of Life
+  117363              CNB9D33480            Printer        HP            HP 2035n         IHS-Asset Recovery     Broken Beyond Repair
+  117383              CNB9D33475            Printer        HP            HP 2035n         IHS-Asset Recovery     Broken Beyond Repair
+ET101485IR         CN6C54H3XT067P           Printer        HP             HP 3630         IHS-Asset Recovery    Damaged Beyond Repair
+  116775            CN742A61JZ052S         Scanner         HP            HP G4050         IHS-Asset Recovery    Damaged Beyond Repair
+  115925              VND3C52588            Printer        HP            HP P1505n        IHS-Asset Recovery          End of Life
+  116131              CNBK640224            Printer        HP            HP P1505n        IHS-Asset Recovery     Broken Beyond Repair
+ET100220IR      1S10B6S00500MJ01736L          PC         Lenovo         Lenovo M73        IHS-Asset Recovery          End of Life
+  118442        1S10B6S00500MJ010LSX          PC         Lenovo         Lenovo M73        IHS-Asset Recovery          End of Life
+  118448        1S10B6S00500MJ01734F          PC         Lenovo         Lenovo M73        IHS-Asset Recovery          End of Life
+ET100116IR      1S10B6S00500MJ01AZPE          PC         Lenovo         Lenovo M73        IHS-Asset Recovery    Damaged Beyond Repair
+ET100117IR      1S10B6S00500MJ01AZR3          PC         Lenovo         Lenovo M73        IHS-Asset Recovery    Damaged Beyond Repair
+ET100113IR      1S10B6S00500MJ01AZM0          PC         Lenovo         Lenovo M73        IHS-Asset Recovery          End of Life
+ET100126IR      1S10B6S00500MJ01AZN8          PC         Lenovo         Lenovo M73        IHS-Asset Recovery          End of Life
+ET100123IR      1S10B6S00500MJ01734V          PC         Lenovo         Lenovo M73        IHS-Asset Recovery    Damaged Beyond Repair
+ET100402IR      1S10B6001SUSMJ032P5K          PC         Lenovo         Lenovo M73        IHS-Asset Recovery          End of Life
+
+
+5/17/2022                                                                                                                         2
+
+ Asset ID          Serial Number     Asset Type   Manufacturer        Model        Assigned to Location           Notes
+  118398     1S10B6S00500MJ010MWR        PC         Lenovo          Lenovo M73      IHS-Asset Recovery    Damaged Beyond Repair
+ET100118IR   1S10B6S00500MJ01AZMP        PC         Lenovo          Lenovo M73      IHS-Asset Recovery     broken beyond repair
+ET100130IR    1S10B6S00500MJ01738K       PC         Lenovo          Lenovo M73      IHS-Asset Recovery     broken beyond repair
+ET100111IR   1S10B6S00500MJ01AZRW        PC         Lenovo          Lenovo M73      IHS-Asset Recovery          End of Life
+ET100203IR    1S10B6S00500MJ01736Y       PC         Lenovo          Lenovo M73      IHS-Asset Recovery          End of Life
+ET101205IR    1S10B6001SUSMJ03E35J       PC         Lenovo          Lenovo M73      IHS-Asset Recovery          End of Life
+ET100213IR    1S10B6S00500MJ017344       PC         Lenovo          Lenovo M73      IHS-Asset Recovery          End of Life
+ET100163IR   1S10B6S00500MJ01AZMD        PC         Lenovo          Lenovo M73      IHS-Asset Recovery     broken beyond repair
+ET100137IR    1S10B6S00500MJ01739E       PC         Lenovo          Lenovo M73      IHS-Asset Recovery          End of Life
+ET100178IR    1S10B6S00500MJ01AZMZ       PC         Lenovo          Lenovo M73      IHS-Asset Recovery          End of Life
+ET100155IR   1S10B6S00500MJ01AZM8        PC         Lenovo          Lenovo M73      IHS-Asset Recovery     broken beyond repair
+ET100535IR    1S10B6001SUSMJ032P64       PC         Lenovo          Lenovo M73      IHS-Asset Recovery     broken beyond repair
+ET100169IR   1S10B6S00500MJ01AZM7        PC         Lenovo          Lenovo M73      IHS-Asset Recovery     broken beyond repair
+ET100236IR    1S10B6001SUSMJ03E2YV       PC         Lenovo          Lenovo M73      IHS-Asset Recovery     Broken Beyond Repair
+ET100249IR    1S10B6001SUSMJ03E34P       PC         Lenovo          Lenovo M73      IHS-Asset Recovery     broken beyond repair
+ET100540IR    1S10B6001SUSMJ032P88       PC         Lenovo          Lenovo M73      IHS-Asset Recovery     broken beyond repair
+ET100248IR   1S10B6001SUSMJ03WHFM        PC         Lenovo          Lenovo M73      IHS-Asset Recovery     broken beyond repair
+ET100539IR    1S10B6001SUSMJ032PAD       PC         Lenovo          Lenovo M73      IHS-Asset Recovery     broken beyond repair
+ET100151IR    1S10B6S00500MJ01737G       PC         Lenovo          Lenovo M73      IHS-Asset Recovery     Broken Beyond Repair
+ET100237IR    1S10B6001SUSMJ03E2ZU       PC         Lenovo          Lenovo M73      IHS-Asset Recovery     Broken Beyond Repair
+  118437      1S10B6S00500MJ01734M       PC         Lenovo          Lenovo M73      IHS-Asset Recovery          End of Life
+ET101130IR    1S10B6001SUSMJ03E347       PC         Lenovo          Lenovo M73      IHS-Asset Recovery          End of Life
+  118381     1S10B6S00500MJ010MVV        PC         Lenovo          Lenovo M73      IHS-Asset Recovery          End of Life
+  118419      1S10B6S00500MJ010LTQ       PC         Lenovo          Lenovo M73      IHS-Asset Recovery          End of Life
+  118040         1S7518D4UMJRTLRZ        PC         Lenovo          Lenovo M73      IHS-Asset Recovery          End of Life
+  118406      1S10B6S00500MJ013ZL3       PC         Lenovo          Lenovo M73      IHS-Asset Recovery          End of Life
+ET100160IR    1S10B6S00500MJ01AZRU       PC         Lenovo          Lenovo M73      IHS-Asset Recovery          End of Life
+  118425      1S10B6S00500MJ010LTE       PC         Lenovo          Lenovo M73      IHS-Asset Recovery          End of Life
+ET100165IR   1S10B6S00500MJ01AZMM        PC         Lenovo          Lenovo M73      IHS-Asset Recovery     Broken Beyond Repair
+  118416      1S10B6S00500MJ013ZLD       PC         Lenovo          Lenovo M73      IHS-Asset Recovery          End of Life
+ET100431IR    1S10B6001SUSMJ032P97       PC         Lenovo          Lenovo M73      IHS-Asset Recovery          End of Life
+ET101285IR    1S10B6001SUSMJ03E2YR       PC         Lenovo          Lenovo M73      IHS-Asset Recovery          End of Life
+ET203372IR    1S10B6S00500MJ017370       PC         Lenovo          Lenovo M73      IHS-Asset Recovery          End of Life
+  118402     1S10B6S00500MJ010MWQ        PC         Lenovo          Lenovo M73      IHS-Asset Recovery          End of Life
+ET102098IR    1S10B6001SUSMJ03E349       PC         Lenovo          Lenovo M73      IHS-Asset Recovery          End of Life
+  118385      1S10B6S00500MJ010MY9       PC         Lenovo          Lenovo M73      IHS-Asset Recovery          End of Life
+ET102084IR     1S10B6001SUSMJ03E31       PC         Lenovo          Lenovo M73      IHS-Asset Recovery          End of Life
+ET202125IR   1S10M7000QUSMJ073JUU        PC         Lenovo        Lenovo M710s      IHS-Asset Recovery          End of Life
+  118015        1S7518D7UMJTBAGX         PC         Lenovo          Lenovo M80      IHS-Asset Recovery          End of Life
+ET101512IR    1S10B6S00500MJ01733E       PC         Lenovo          Lenovo M81      IHS-Asset Recovery          End of Life
+  118126        1S7518D4UMJRTWNX         PC         Lenovo          Lenovo M81      IHS-Asset Recovery          End of Life
+ET100199IR    1S10A90014USMJ0181ZX       PC         Lenovo         Lenovo M93p      IHS-Asset Recovery          End of Life
+ET171079IR           6X00656RE        Projector      NEC            NEC M322X       IHS-Asset Recovery     Broken Beyond Repair
+ET100368IR           4600586EC        Projector      NEC          NEC NP-M322X      IHS-Asset Recovery     Broken Beyond Repair
+ET171042IR           6901015RD        Projector      NEC          NEC NP-M323X      IHS-Asset Recovery     Broken Beyond Repair
+  106554           QCW071121837       Monitor      Optiquest     Optiquest Q19wb    IHS-Asset Recovery          End of Life
+
+
+5/17/2022                                                                                                                   3
+
+   Asset ID          Serial Number         Asset Type     Manufacturer                Model              Assigned to Location          Notes
+   106661            QCW071220923           Monitor        Optiquest             Optiquest Q19wb          IHS-Asset Recovery         End of Life
+ ET101460IR         CN77R4N32B067P           Printer          HP                   Printer 3630           IHS-Asset Recovery    Broken Beyond Repair
+  20180004             FDO1715Z1JJ           Switch          Cisco            Cisco Catalyst 3750-X       IHS-Asset Recovery         End of Life
+  20180007          SMX2200RMLV2U            Battery          APC             Smart-UPS 2200RML           IHS-Asset Recovery         End of Life
+ ET202390IR            2UX8280EG7            Server           HP                ProLiant DL160 G5         IHS-Asset Recovery         End of Life
+ ET203239IR             MJ032P8N               PC           Lenovo                 Lenovo M73             IHS-Asset Recovery         End of Life
+ ET202914IR             8800016RR           Projector         NEC                NEC NP-UM361X            IHS-Asset Recovery         End of Life
+ ET202907IR              1005020            Projector      Mitsubishi           Mitsubishi EX32IU         IHS-Asset Recovery    Broken Byond Repair
+ ET202202IR              1005029            Projector      Mitsubishi           Mitsubishi EX32IU         IHS-Asset Recovery    Broken Byond Repair
+   116394      ETLE10D033921019198521       Monitor          Acer                   Acer V173             IHS-Asset Recovery    Broken Byond Repair
+ ET203345IR    ETLJE0W16811807F1F4307       Monitor          Acer                   Acer V173             IHS-Asset Recovery    Broken Byond Repair
+  1161410          CN661A27D204CM           Scanner           HP                      L1970A              IHS-Asset Recovery         End of Life
+ ET100585IR            VNB3C46320            Printer          HP              LaserJet Pro M201dw         IHS-Asset Recovery    Broken Byond Repair
+   117386             CNB9D33476             Printer          HP               LaserJet Pro P2035n        IHS-Asset Recovery         End of Life
+XD2C89256618         XD2C89256618        Access Device    NComputing            XD2 Access Device         IHS-Asset Recovery         End of Life
+ ET203076IR           CN576696VD             Printer          HP                 HP Deskjet 2540          IHS-Asset Recovery         End of Life
+   118257           0UG99FBDC13315        Chromebook       Samsung       Samsung Chromebook - XE303       IHS-Asset Recovery         End of Life
+   118285           0UG99FBDC13337        Chromebook       Samsung       Samsung Chromebook - XE303       IHS-Asset Recovery         End of Life
+   118210           0UG99FCDC07270        Chromebook       Samsung       Samsung Chromebook - XE303       IHS-Asset Recovery         End of Life
+ ET202873IR        HY3A91HDB04070         Chromebook       Samsung       Samsung Chromebook - XE303       IHS-Asset Recovery         End of Life
+   118230           HY3A911DB13109        Chromebook       Samsung       Samsung Chromebook - XE303       IHS-Asset Recovery         End of Life
+   118196           0UG99FCDC06379        Chromebook       Samsung       Samsung Chromebook - XE303       IHS-Asset Recovery         End of Life
+   118263           HY3A91JDB07327        Chromebook       Samsung       Samsung Chromebook - XE303       IHS-Asset Recovery         End of Life
+   118243           0UG99FCDC07256        Chromebook       Samsung       Samsung Chromebook - XE303       IHS-Asset Recovery         End of Life
+ ET170153IR         0UG99FCF305383        Chromebook       Samsung       Samsung Chromebook - XE303       IHS-Asset Recovery         End of Life
+   118289           0UG99FCDC12925        Chromebook       Samsung       Samsung Chromebook - XE303       IHS-Asset Recovery         End of Life
+   118266          HY3A91HDB04051         Chromebook       Samsung       Samsung Chromebook - XE303       IHS-Asset Recovery         End of Life
+   118223           HY3A91JDB10024        Chromebook       Samsung       Samsung Chromebook - XE303       IHS-Asset Recovery         End of Life
+   118239           0UG99FBDC05801        Chromebook       Samsung       Samsung Chromebook - XE303       IHS-Asset Recovery         End of Life
+   118242           0UG99FCDC07145        Chromebook       Samsung       Samsung Chromebook - XE303       IHS-Asset Recovery         End of Life
+ ET203278IR              1004951            Projector      Mitsubishi           Mitsubishi EX32IU         IHS-Asset Recovery         End of Life
+ ET202139IR        E9N0CJ05684838F           Laptop          Acer                  Asus TP300L            IHS-Asset Recovery         End of Life
+ ET203060IR             PC-09S43G            Laptop         Lenovo           Lenovo ThinkPad T450s        IHS-Asset Recovery         End of Life
+ ET203320IR              1005019            Projector      Mitsubishi           Mitsubishi EX32IU         IHS-Asset Recovery    Broken Byond Repair
+   116681      ETLE10D033921019378521       Monitor          Acer                   Acer V173             IHS-Asset Recovery    Broken Byond Repair
+   116683      ETLE10D03392101E5A8521       Monitor          Acer                   Acer V173             IHS-Asset Recovery    Broken Byond Repair
+   116688      ETLE10D03392101E4D8521       Monitor          Acer                   Acer V173             IHS-Asset Recovery    Broken Byond Repair
+ ET101075IR     ETLJE0W1681187F634307       Monitor          Acer                    Acer 193             IHS-Asset Recovery    Broken Byond Repair
+ ET100221IR     1S10B6S00500MJ017284           PC           Lenovo                 Lenovo M73             IHS-Asset Recovery    Broken Byond Repair
+ ET171087IR            CN67E3N207           Scanner           HP                 HP Deskjet 3630          IHS-Asset Recovery    Broken Byond Repair
+   116260             VND3H03083             Printer          HP               HP Laserjet P1505n         IHS-Asset Recovery    Broken Byond Repair
+   117863             FDO1629P09P       Switch Hardware      Cisco         Cisco Catalyst 3560X Series    IHS-Asset Recovery         End of Life
+   117378              2UX93102FR            Server           HP                  HP HSTNS-5117           IHS-Asset Recovery         End of Life
+   115985               9WKPGG1              Server           Dell                  Dell EMS01            IHS-Asset Recovery         End of Life
+   115988           L19004A6030075           Server        LeftHand             LeftHand NSM-160          IHS-Asset Recovery         End of Life
+   115986          L019005C7190503           Server        LeftHand             LeftHand NSM-160          IHS-Asset Recovery         End of Life
+
+
+ 5/17/2022                                                                                                                                        4
+
+    Asset ID           Serial Number         Asset Type       Manufacturer                    Model                     Assigned to Location          Notes
+     115987          L019005C7140810            Server         LeftHand                 LeftHand NSM-160                 IHS-Asset Recovery         End of Life
+   ET202222IR         DMQPDVVYFK10              Tablet           Apple                 Apple iPad Air A1474              IHS-Asset Recovery    Broken Byond Repair
+     117642           DMPJ72VUDNQR              Tablet           Apple                   Apple iPad A1403                IHS-Asset Recovery         End of Life
+   ET202239IR         DMPL1DA8F18P              Tablet           Apple                   Apple iPad A1460                IHS-Asset Recovery         End of Life
+   ET203483IR            5CD4529FKJ            Laptop              HP                HP Chromebook 14 SMB                IHS-Asset Recovery         End ofLife
+   ET203484IR        K9NXCV03C88136B           Laptop             Acer                      Asus C214M                   IHS-Asset Recovery        End Of Life
+   ET203342IR          ps0328141259            Battery            APC                     APC SUA24XLBP                  IHS-Asset Recovery        End Of Life
+   ET203343IR          as0325331957            Battery            APC                     APC SUA100XL                   IHS-Asset Recovery         End of Life
+   ET203344IR          AS1425161213            Battery            APC                   APC 0M-9989A-001                 IHS-Asset Recovery         End of Life
+   ET202789IR          CAT0720R0KA             Switch            Cisco                  Cisco Catalyst 3550              IHS-Asset Recovery    Broken Byond Repair
+   ET170991IR       PM83IV172932BFAA        Access Device       Fortinet                      AP832i                     IHS-Asset Recovery    Broken Byond Repair
+   ET170957IR       PM83IV172932BF66        Access Device       Fortinet                      AP832i                     IHS-Asset Recovery    Broken Byond Repair
+   ET170951IR       PM83IV172932C020        Access Device       Fortinet                      AP832i                     IHS-Asset Recovery    Broken Byond Repair
+   ET170950IR       PM83IV17293BCBB0        Access Device       Fortinet                      AP832i                     IHS-Asset Recovery    Broken Byond Repair
+   ET170983IR       PM83IV172932BE58        Access Device       Fortinet                      AP832i                     IHS-Asset Recovery    Broken Byond Repair
+   ET202775IR     3713A320i000CE60CC3A9     Access Device       Fortinet                      AP832i                     IHS-Asset Recovery    Broken Byond Repair
+   ET202773IR        4014A832i1948B3        Access Device       Fortinet                      AP832i                     IHS-Asset Recovery    Broken Byond Repair
+     115777             VNB3D33836             Printer             HP                        HP 1022n                    IHS-Asset Recovery    Broken Byond Repair
+     118373             f7nlwvbxfp84            Tablet           Apple                Apple iPad Mini A1432              IHS-Asset Recovery    Broken Byond Repair
+     118371              f7plxs81fr84           Tablet           Apple                Apple iPad Mini A1432              IHS-Asset Recovery    Broken Byond Repair
+     118372            f7nlwvuqfp84             Tablet           Apple                Apple iPad Mini A1432              IHS-Asset Recovery    Broken Byond Repair
+     118378             f7cxwdf2p84             Tablet           Apple                Apple iPad Mini A1432              IHS-Asset Recovery    Broken Byond Repair
+     116570             qp9310w50tj             Tablet           Apple                   Apple iMac A1225                IHS-Asset Recovery         End of Life
+   ET202792IR             5500161RF           Projector           NEC                       NEC M322X                    IHS-Asset Recovery    Broken Byond Repair
+   ET202809IR           X6M4020039             Printer           Epson                       WF-7820                     IHS-Asset Recovery    Broken Byond Repair
+   ET202791IR              3000538         Security Camera        Sony                       BRC-Z330                    IHS-Asset Recovery    Broken Byond Repair
+   ET202790IR              3000522         Security Camera        Sony                       BRC-Z330                    IHS-Asset Recovery    Broken Byond Repair
+   ET100514IR        1K2Y9FAG500548K        Chromebook         Samsung           Samsung Chromebook XE303C12             IHS-Asset Recovery    Broken Byond Repair
+     117860             CNDG213874             Printer             HP        HP LaserJet Pro 400 color Printer M451dn    IHS-Asset Recovery    Broken Byond Repair
+     116837                A00159         Interactive Board     SMART                      SMART SB680                   IHS-Asset Recovery    Broken Byond Repair
+     115965                603076         Interactive Board     SMART                      SMART SB680                   IHS-Asset Recovery    Broken Byond Repair
+     104685            AS0319112542            Battery            APC                     SUA1500RM2U                    IHS-Asset Recovery    Broken Byond Repair
+   ET202259IR         DLXGD295DJHG              Tablet           Apple                      iPad A1397                   IHS-Asset Recovery         End of Life
+U61327H1N954071      U61327H1N954071             Fax            Brother                 Brother MFC-7220                 IHS-Asset Recovery         End of Life
+
+
+
+
+   5/17/2022                                                                                                                                                    5
+

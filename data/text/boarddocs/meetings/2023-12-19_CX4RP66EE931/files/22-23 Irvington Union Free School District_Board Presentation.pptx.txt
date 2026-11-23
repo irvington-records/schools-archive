@@ -1,0 +1,425 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/pfiles/CYH25C73D770/$file/22-23%20Irvington%20Union%20Free%20School%20District_Board%20Presentation.pptx | DATE: 2023-12-19 | TITLE: Work Session | 4.1 Annual School Survey Report Presentation | 22-23 Irvington Union Free School District_Board Presentation.pptx
+
+--- slide 1 ---
+School Quality Survey
+Irvington Union Free School District
+School Year: 2022-2023
+Results and Analysis
+--- slide 2 ---
+Details of the Study and Understanding Results
+The Irvington Union Free School District (IUFSD) School Quality Surveys asked parents, staff members, and students in grades 6-12 for feedback on various aspects of the district and its schools. K12 Insight partnered with district team members to develop the surveys, which addressed the following topics:
+
+Learning Experiences
+Support for Students/Staff
+School Leadership
+Family Involvement
+Communication
+
+The surveys were open June 4-27. 
+
+Email invitations with unique survey links were sent to parents, staff members, and students in grades 6-12. Parents could also participate via a public link on the district’s website. Parents with children attending more than one district school were able to take the survey for each school. Reminders were sent throughout the survey window. The survey was translated into Spanish. 
+
+This report summarizes district-level survey results and breaks them down by stakeholder group. This report compares results with those from 2021-2022 and 2020-2021. 
+
+ K12 Insight uses census sampling, which provides data reflective of all voices in the community. While all parents, staff, and students in grades 6-12 were invited to take the survey, not all participated. Statistical tests designed to infer the perceptions of a larger population from a smaller sample size are not appropriate; rather, descriptive statistics provide the most accurate representation of the data. Therefore, the findings herein cannot be generalized beyond the participants. Nevertheless, this study offers valuable insights about the perceptions of parents, staff, and students in grades 6-12.Additional reports provide school-level results.
+
+Findings for each item in the report exclude participants who did not answer. In charts and graphs, data labels less than 5 percent are not shown. Percentages may not total 100 due to rounding. 
+
+--- slide 3 ---
+Participation
+Responding Group	Number of Invitations Delivered (NMax)	Number of Responses (N)	Response Rate (%)	Public-access Link Responses	Total Responses
+Parents	2,045	373	— 	140	513
+Staff	670	178	27%	—	178
+Students	983	416	42%	—	416
+Responding Group	School Year	Number of Responses (N)	School Year	Number of Responses (N)	School Year	Number of Responses (N)
+Parents	2022-2023	513	2021-2022	601	2020-2021	363
+Staff	2022-2023	178	2021-2022	148	2020-2021	141
+Students	2022-2023	416	2021-2022	435	2020-2021	596
+--- slide 4 ---
+Overall School Quality
+4
+--- slide 5 ---
+Overall School Quality: Comparison by Respondent Type
+How would you rate the overall quality of your school? 
+Response	Parents (N=494)	Staff (N=162)	Students (N=416)
+Response
+Excellent	40%	60%	16%
+Response
+Good	49%	37%	69%
+Response
+Fair	10%	2%	13%
+Response
+Poor	1%	1%	1%
+[notes] The overall school quality rating increased among all participant groups. The rating increased 4 percentage points for staff members (to 97% from 93% last school year), 3 percentage points for parents (to 89% from 86%), and 1 percentage point for students (to 85% from 84%).
+--- slide 6 ---
+6
+Parents
+Overall School Quality: Comparison Over Time
+How would you rate the overall quality of your child's school?
+Response	2022-2023 (N=494)	2021-2022 (N=543)	2020-2021 (N=354)
+Response
+Excellent	40%	38%	42%
+Response
+Good	49%	48%	43%
+Response
+Fair	10%	13%	13%
+Response
+Poor	1%	2%	2%
+[notes] 89% from 86%
+--- slide 7 ---
+7
+Staff
+Overall School Quality: Comparison Over Time
+How would you rate the overall quality of your school?
+Response	2022-2023 (N=162)	2021-2022 (N=136)	2020-2021 (N=130)
+Response
+Excellent	60%	60%	61%
+Response
+Good	37%	33%	37%
+Response
+Fair	2%	7%	2%
+Response
+Poor	1%	0%	0%
+[notes] to 97% from 93% last school year
+--- slide 8 ---
+8
+Students
+Overall School Quality: Comparison Over Time
+How would you rate the overall quality of your educational experience at your school this school year?
+Response	2022-2023 (N=416)	2021-2022 (N=435)	2020-2021 (N=596)
+Response
+Excellent	16%	20%	9%
+Response
+Good	69%	64%	59%
+Response
+Fair	13%	14%	28%
+Response
+Poor	1%	2%	5%
+[notes] to 85% from 84%).
+--- slide 9 ---
+Dimension Scores
+9
+--- slide 10 ---
+Dimension Scores: Comparison by Respondent Type
+Answer options: Strongly Agree, Agree, Disagree, Strongly Disagree, Don’t Know Notes: This graph shows Strongly Agree or Agree responses for all items within each dimension.
+Response	Parents (N=469)	Staff (N=160)	Students (N=384)
+	Percentage Strongly Agree or Agree (%)		
+Response
+Learning Experiences	74%	90%	74%
+Response
+Support for Students	74%	90%	78%
+Response
+School Leadership	81%	92%	74%
+Response
+Family Involvement	81%	92%	71%
+Response
+Safety and Behavior	63%	87%	73%
+--- slide 11 ---
+Dimension Scores: Comparison by Respondent Type (Continued)
+Response	Parents (N=469)	Staff (N=160)	Students (N=384)
+	Percentage Strongly Agree or Agree (%)		
+Response
+Learning Experiences	74%	90%	74%
+Response
+Support for Students	74%	90%	78%
+Response
+School Leadership	81%	92%	74%
+Response
+Family Involvement	81%	92%	71%
+Response
+Safety and Behavior	63%	87%	73%
+Answer options: Strongly Agree, Agree, Disagree, Strongly Disagree, Don’t KnowNotes: This graph shows Strongly Agree or Agree responses for all items within each dimension. N/A indicates that questions in that dimension were not asked of that respondent group. 
+[notes] Participating parents and staff members had strong favorability (Strongly Agree or Agree responses) in the Communication dimension. For example, 93% of parents and 94% of staff members said that Irvington UFSD communicated effectively. There was lower agreement among students for this item, partly due to one in five (21%) responding Don’t Know. 
+Both parents and staff said their most frequently used resource for information was their weekly school-specific newsletter and the top two preferred methods of communication were email and text messages. 
+There was an increase in favorability among participating parents and staff members on items in the Safety and Behavior dimension. For example, 70% of parents and 98% of staff members said that school staff are aware of the safety and security procedures, 10 and 7 percentage-point increases, respectively. 78% of parents and 89% of staff members said that students are aware of the safety and security procedures, 8 and 5 percentage-point increases, respectively. And 88% of parents and 92% of staff members said that schools are safe, 9 and 16 percentage-point increases, respectively.
+--- slide 12 ---
+12
+Parents
+Dimension Scores: Comparison Over Time
+Response	2021-2022 (N=552)	2020-2021 (N=354)	2018-2019 (N=518)
+	Percentage Strongly Agree or Agree (%)		
+Response
+Learning Experiences	70%	71%	72%
+Response
+Support for Students	72%	76%	73%
+Response
+School Leadership	74%	81%	76%
+Response
+Family Involvement	80%	82%	81%
+Response
+Communication	91%	92%	0%
+Response
+Safety and Behavior	62%	68%	71%
+Response
+Board of Education	69%	72%	61%
+Response
+District Leadership Team	74%	80%	54%
+Answer options: Strongly Agree, Agree, Disagree, Strongly Disagree, Don’t Know
+Note: This graph shows Strongly Agree or Agree responses for all items within each dimension.
+--- slide 13 ---
+13
+Parents
+Dimension Scores: Comparison Over Time (Continued)
+Response	2021-2022 (N=552)	2020-2021 (N=354)	2018-2019 (N=518)
+	Percentage Strongly Agree or Agree (%)		
+Response
+Learning Experiences	70%	71%	72%
+Response
+Support for Students	72%	76%	73%
+Response
+School Leadership	74%	81%	76%
+Response
+Family Involvement	80%	82%	81%
+Response
+Communication	91%	92%	0%
+Response
+Safety and Behavior	62%	68%	71%
+Response
+Board of Education	69%	72%	61%
+Response
+District Leadership Team	74%	80%	54%
+Answer options: Strongly Agree, Agree, Disagree, Strongly Disagree, Don’t Know
+Note: This graph shows Strongly Agree or Agree responses for all items within each dimension.
+--- slide 14 ---
+14
+Staff
+Dimension Scores: Comparison Over Time
+Response	2021-2022 (N=138)	2020-2021 (N=132)	2018-2019 (N=124)
+	Percentage Strongly Agree or Agree (%)		
+Response
+Learning Experiences	88%	88%	89%
+Response
+Support for Students	90%	91%	92%
+Response
+Support for Staff	82%	89%	0%
+Response
+School Leadership	84%	94%	91%
+Response
+Family Involvement	87%	90%	85%
+Response
+Communication	94%	99%	0%
+Response
+Safety and Behavior	80%	89%	85%
+Response
+Board of Education	75%	80%	56%
+Response
+District Leadership Team	91%	94%	63%
+Answer options: Strongly Agree, Agree, Disagree, Strongly Disagree, Don’t Know
+Note: This graph shows Strongly Agree or Agree responses for all items within each dimension.
+--- slide 15 ---
+15
+Staff
+Dimension Scores: Comparison Over Time (Continued)
+Response	2021-2022 (N=138)	2020-2021 (N=132)	2018-2019 (N=124)
+	Percentage Strongly Agree or Agree (%)		
+Response
+Learning Experiences	88%	88%	89%
+Response
+Support for Students	90%	91%	92%
+Response
+Support for Staff	82%	89%	0%
+Response
+School Leadership	84%	94%	91%
+Response
+Family Involvement	87%	90%	85%
+Response
+Communication	94%	99%	0%
+Response
+Safety and Behavior	80%	89%	85%
+Response
+Board of Education	75%	80%	56%
+Response
+District Leadership Team	91%	94%	63%
+Answer options: Strongly Agree, Agree, Disagree, Strongly Disagree, Don’t Know
+Note: This graph shows Strongly Agree or Agree responses for all items within each dimension.
+--- slide 16 ---
+16
+Students
+Dimension Scores: Comparison Over Time
+Response	2021-2022 (N=428)	2020-2021 (N=586)	2018-2019 (N=648)
+	Percentage Strongly Agree or Agree (%)		
+Response
+Learning Experiences	74%	72%	70%
+Response
+Support for Students	79%	77%	76%
+Response
+School Leadership	61%	61%	45%
+Response
+Family Involvement	71%	67%	77%
+Response
+Communication	75%	74%	0%
+Response
+Safety and Behavior	75%	75%	72%
+Answer options: Strongly Agree, Agree, Disagree, Strongly Disagree, Don’t Know
+Note: This graph shows Strongly Agree or Agree responses for all items within each dimension.
+--- slide 17 ---
+Highest and Lowest-ranking Items
+Parents
+Answer options: Strongly Agree, Agree, Disagree, Strongly Disagree, Don't Know
+Survey Item	Percentage Strongly Agree or Agree (%)	Dimension
+Families are encouraged to attend school-sponsored activities, such as back-to-school night, plays, concerts, and sporting events.	95%	Family Involvement
+This school and partner organizations encourage families to volunteer (PTSA, Booster Club, IEF, etc.).	95%	Family Involvement
+The principal and/or assistant principal were courteous when I had a concern.	92%	School Leadership
+Families are informed about school-sponsored activities, such as athletics, after-school programs, and student performances.	92%	Family Involvement
+School employees and families treat each other with respect.	92%	Family Involvement
+Survey Item	Percentage Strongly Disagree or Disagree (%)	Dimension
+This school offers students a variety of extracurricular activities (clubs, sports, etc.).	26%	Learning Experiences
+The principal and/or assistant principal were helpful when I had a concern.	24%	School Leadership
+Students in this school receive individual support to address their academic needs.	22%	Learning Experiences
+Students are appropriately challenged by their schoolwork.	21%	Learning Experiences
+When utilizing technology to support learning, the amount of screen time has been appropriate for my child.	21%	Learning Experiences
+[notes] Among participants, 21% of parents, 9% of staff members, and 17% of students said that the amount of screen time used to support learning is not appropriate. Of those participants, 99% of parents, 100% of staff, and 87% of students said there was too much screen time. 
+
+Among the lowest ranking items in the Learning Experiences dimension, disagreement was relatively consistent among elementary, middle, and high school parents for most questions. The only two questions where we saw school levels dramatically sway disagreement was that 33% of high school parents and 24% of middle school parents disagreed that screentime in school was appropriate compared to 12% of elementary parents. Also the school offering a variety of extracurricular activities question had 53% disagreement at the elementary level and 11% disagreement at the middle and 7% at the high school level.
+--- slide 18 ---
+Highest and Lowest-ranking Items
+Staff
+Answer options: Strongly Agree, Agree, Disagree, Strongly Disagree, Don't Know
+Survey Item	Percentage Strongly Agree or Agree (%)	Dimension
+Families are encouraged to attend school-sponsored activities, such as back-to-school night, plays, concerts, and sporting events.	98%	Family Involvement
+School staff members are aware of the safety and security procedures.	98%	Safety and Behavior
+There are teachers, counselors, or other staff members to whom a student can go for help with a school problem.	97%	Support for Students
+The principal and/or assistant principal were courteous when I had a concern.	97%	School Leadership
+Families are informed about school-sponsored activities, such as athletics, after-school programs, and student performances.	96%	Family Involvement
+Survey Item	Percentage Strongly Disagree or Disagree (%)	Dimension
+Students are held accountable for their actions.	27%	Safety and Behavior
+There are resources for students to get help with a technology problem.	15%	Support for Students
+Discipline is enforced fairly.	15%	Safety and Behavior
+Discipline is enforced equitably.	15%	Safety and Behavior
+The principal and assistant principal are visible on campus throughout the school day.	12%	School Leadership
+[notes] Despite increases in favorability, two items related to discipline were among the lowest-ranking indicators for participating staff members. Discipline is enforced fairly increased to 74% from 65% and discipline is enforced equitably increased to 71% from 64% last school year. Similarly, only 62% of participating students said that discipline is enforced fairly, a 3 percentage-point decrease. 
+
+Within the safety and behavior dimension, for a majority of the questions, disagreement weighted heavier among staff in the high and middle schools. For example, when asked if students are held accountable for their actions, 56% of high school and 42% of middle school staff disagrees compared to 9% of elementary school staff.
+--- slide 19 ---
+Highest and Lowest-ranking Items
+Students
+Answer options: Strongly Agree, Agree, Disagree, Strongly Disagree, Don't Know
+Survey Item	Percentage Strongly Agree or Agree (%)	Dimension
+The principal and/or assistant principal were responsive.	92%	School Leadership
+This school offers students a variety of extracurricular activities (clubs, sports, etc.).	91%	Learning Experiences
+The principal and assistant principal are visible at school events.	89%	School Leadership
+There are teachers, counselors, or other staff members to whom a student can go for help with a school problem.	88%	Support for Students
+This school is safe.	87%	Safety and Behavior
+Survey Item	Percentage Strongly Disagree or Disagree (%)	Dimension
+Students are shown how lessons relate to life outside of school.	48%	Learning Experiences
+Students receive timely feedback about their work.	29%	Learning Experiences
+The principal and assistant principal clearly communicate the school's goals for the upcoming school year.	23%	School Leadership
+Students receive helpful feedback about their work.	22%	Learning Experiences
+Discipline is enforced fairly.	22%	Safety and Behavior
+[notes] When asked the question “students are shown how lessons relate to life outside of school” 53% of high school students disagreed compared to 46% of middle school students.
+--- slide 20 ---
+Strategic Objectives
+20
+--- slide 21 ---
+2022-2023 School Year Top 3 Strategic Objectives
+
+Providing students with a rigorous, comprehensive, enriched and diversified curricula; STEM education and integrated technology
+Encouraging a culture of innovation, creativity, and risk-taking to inspire a dynamic learning environment.
+
+
+Fostering the social and emotional growth of all students and promoting a culture where students are active participants in society, including: civic and global engagement and learning.
+Providing for a high-quality learning environment, including; facilities maintenance, energy efficiency, sustainability   investment, and a safe school environment.
+ 
+Supporting educators, including: targeted professional learning and opportunities for collaboration.
+ 
+Maintaining a school community that values diversity and ensures equity and inclusion for everyone.
+ 
+Parents
+Students
+Staff
+--- slide 22 ---
+Net Promoter Score
+22
+--- slide 23 ---
+23
+Parents
+Net Promoter Score — School
+How likely are you to recommend this school to a family member or friend?
+Response	Count (N)	Percentage (%)
+Promoters (9-10)	185	38%
+Passives (7-8)	192	40%
+Detractors (0-6)	107	22%
+Note: The Net Promoter Score (NPS) serves as a proxy for public confidence in a school/the district and can potentially be connected to district growth. It is calculated by subtracting the percentage of detractors from the percentage of promoters, which gives a value between -100 and 100. A positive score means there are more people promoting a school/the district than detracting from it. Passives represent individuals who do not have an unequivocal opinion about their school or the district.
+[notes] There were improvements in the school and district Net Promoter Scores (NPS).
+--- slide 24 ---
+24
+Parents
+Impact on Net Promoter Score — School
+What type of impact do the following aspects of your school have on your score?
+Response	 Very Positive Impact	 Positive Impact	 No Impact	 Negative Impact	 Very Negative Impact
+Academic Support (e.g., academic programming and rigor, course offerings) (N=483)	22%	52%	8%	14%	4%
+Student Support (e.g., teacher support, support programs and services) (N=482)	20%	53%	13%	12%	2%
+School Leadership (e.g., availability, visibility, communication) (N=478)	19%	53%	18%	6%	4%
+Opportunities for Family Involvement (e.g., volunteer opportunities, opportunities to provide feedback for improvements) (N=481)	11%	55%	30%	4%	1%
+Safety and Security (e.g., cleanliness of school, student behavior and bullying) (N=484)	18%	60%	14%	7%	2%
+Interactions with School Staff and Teachers (e.g., responsiveness, courteousness, availability) (N=484)	26%	54%	10%	9%	1%
+--- slide 25 ---
+25
+Staff
+Net Promoter Score — School
+How likely are you to recommend this school to a family member or friend?
+Response	Count (N)	Percentage (%)
+Promoters (9-10) or 9	100	65%
+Passives (7-8) or 7	38	25%
+Detractors (0-6) or 5 or 4 or 3 or 2 or 1 or 0 - Not at all Likely	16	10%
+Note: The Net Promoter Score (NPS) serves as a proxy for public confidence in a school/the district and can potentially be connected to district growth. It is calculated by subtracting the percentage of detractors from the percentage of promoters, which gives a value between -100 and 100. A positive score means there are more people promoting a school/the district than detracting from it. Passives represent individuals who do not have an unequivocal opinion about their school or the district.
+--- slide 26 ---
+26
+Staff
+Impact on Net Promoter Score — School
+What type of impact do the following aspects of your school have on your score?
+Response	 Very Positive Impact	 Positive Impact	 No Impact	 Negative Impact	 Very Negative Impact
+Academic Support (e.g., academic programming and rigor, course offerings) (N=160)	41%	48%	8%	3%	1%
+Student Support (e.g., teacher support, support programs and services) (N=160)	39%	49%	8%	3%	1%
+School Leadership (e.g., availability, visibility, communication) (N=158)	40%	46%	9%	3%	2%
+Opportunities for Family Involvement (e.g., volunteer opportunities, opportunities to provide feedback for improvements) (N=160)	23%	55%	19%	2%	1%
+Safety and Security (e.g., cleanliness of school, student behavior and bullying) (N=158)	27%	54%	15%	3%	2%
+Interactions with School Staff and Teachers (e.g., responsiveness, courteousness, availability) (N=161)	43%	50%	5%	1%	1%
+--- slide 27 ---
+27
+Parents
+Net Promoter Score — District
+How likely are you to recommend Irvington UFSD to a family member or friend? 
+Response	Count (N)	Percentage (%)
+Promoters (9-10)	170	36%
+Passives (7-8)	191	41%
+Detractors (0-6)	108	23%
+Note: The Net Promoter Score (NPS) serves as a proxy for public confidence in a school/the district and can potentially be connected to district growth. It is calculated by subtracting the percentage of detractors from the percentage of promoters, which gives a value between -100 and 100. A positive score means there are more people promoting a school/the district than detracting from it. Passives represent individuals who do not have an unequivocal opinion about their school or the district.
+--- slide 28 ---
+28
+Parents
+Impact on Net Promoter Score — District
+What type of impact do the following aspects of Irvington UFSD have on your score?
+Response	 Very Positive Impact	 Positive Impact	 No Impact	 Negative Impact	 Very Negative Impact
+Academic Support (e.g., curriculum adoption, academic programming, instructional resources, teacher quality and training) (N=476)	18%	55%	8%	16%	4%
+Student Support (e.g., behavior policies, student services and resources) (N=475)	16%	51%	17%	13%	3%
+District Leadership (e.g., availability, visibility, communication) (N=469)	13%	54%	23%	7%	4%
+Family and Community Engagement (e.g., visibility, support for community stakeholders, response to input received) (N=471)	13%	59%	23%	4%	1%
+Equity and Access (e.g., inclusive policies and procedures, celebrates diversity, focus on equity) (N=473)	10%	51%	23%	12%	4%
+Strategic Plan (e.g., aligns with community values and priorities, helps students succeed, consistent with district actions) (N=471)	9%	56%	29%	6%	1%
+Interactions with District-level Support Staff (e.g., responsiveness, courteousness, availability) (N=473)	14%	49%	28%	7%	2%
+--- slide 29 ---
+29
+Staff
+Net Promoter Score — District
+How likely are you to recommend Irvington UFSD to a family member or friend? 
+Response	Count (N)	Percentage (%)
+Promoters (9-10)	102	62%
+Passives (7-8)	40	24%
+Detractors (0-6)	23	14%
+Note: The Net Promoter Score (NPS) serves as a proxy for public confidence in a school/the district and can potentially be connected to district growth. It is calculated by subtracting the percentage of detractors from the percentage of promoters, which gives a value between -100 and 100. A positive score means there are more people promoting a school/the district than detracting from it. Passives represent individuals who do not have an unequivocal opinion about their school or the district.
+--- slide 30 ---
+30
+Staff
+Impact on Net Promoter Score — District
+What type of impact do the following aspects of Irvington UFSD have on your score?
+Response	 Very Positive Impact	 Positive Impact	 No Impact	 Negative Impact	 Very Negative Impact
+Academic Support (e.g., curriculum adoption, academic programming, instructional resources, teacher quality and training) (N=164)	34%	56%	6%	3%	1%
+Student Support (e.g., behavior policies, student services and resources) (N=164)	35%	52%	7%	5%	1%
+District Leadership (e.g., availability, visibility, communication) (N=163)	29%	49%	16%	4%	2%
+Family and Community Engagement (e.g., visibility, support for community stakeholders, response to input received) (N=163)	21%	58%	16%	4%	1%
+Equity and Access (e.g., inclusive policies and procedures, celebrates diversity, focus on equity) (N=162)	22%	56%	14%	6%	2%
+Strategic Plan (e.g., aligns with community values and priorities, helps students succeed, consistent with district actions) (N=165)	20%	57%	19%	4%	1%
+Interactions with District-level Support Staff (e.g., responsiveness, courteousness, availability) (N=167)	25%	55%	14%	5%	1%
+--- slide 31 ---
+

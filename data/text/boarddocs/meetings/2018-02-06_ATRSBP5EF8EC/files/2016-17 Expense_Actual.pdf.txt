@@ -1,0 +1,268 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/pfiles/AVQL9E53FB8E/$file/2016-17%20Expense_Actual.pdf | DATE: 2018-02-06 | TITLE: Regular Meeting | 5.1 2018-19 Budget Presentation: Budgetary Climate/Operations & Finance | 2016-17 Expense_Actual.pdf
+
+IRVINGTON UFSD
+Appropriation Status Detail Report From 7/1/2016 To 6/30/2017
+
+Account                        Description                       Expensed
+A1010.4                        Contractual And Other             27,011.75
+A1010.45                       Materials And Supplies             1,161.69
+               1010 BOARD OF EDUCATION                           28,173.44 *
+A1040.16                       Noninstructional Salaries         14,245.00
+A1040.4                        Contractual And Other              4,231.42
+A1040.45                       Materials And Supplies               313.38
+               1040 DISTRICT CLERK                               18,789.80 *
+A1060.4                        Contractual And Other              9,869.00
+A1060.45                       Materials And Supplies               790.24
+               1060 DISTRICT MEETING                             10,659.24 *
+         Total 1000                                              57,622.48 **
+
+A1240.15                        Instructional Salaries          264,372.00
+A1240.16                        Noninstructional Salaries        78,018.00
+A1240.2                         Equipment                         2,000.00
+A1240.4                         Contractual And Other            13,183.75
+A1240.45                        Materials And Supplies            1,611.93
+                 1240 CHIEF SCHOOL ADMINISTRATOR                359,185.68 *
+           Total 1200                                           359,185.68 **
+
+A1310.15                       Instructional Salaries           125,284.11
+A1310.16                       Noninstructional Salaries        207,145.04
+A1310.2                        Equipment                          1,926.00
+A1310.4                        Contractual And Other             46,091.01
+A1310.45                       Materials And Supplies             5,201.37
+A1310.49                       Boces Services                    66,021.23
+                1310 BUSINESS ADMINISTRATION                    451,668.76 *
+A1320.4                        Contractual And Other             50,920.00
+                1320 AUDITING                                    50,920.00 *
+A1325.16                       Noninstructional Salaries         83,236.03
+
+IRVINGTON UFSD
+Appropriation Status Detail Report From 7/1/2016 To 6/30/2017
+
+Account                        Description                        Expensed
+A1325.45                       Materials And Supplies                     0
+                 1325 TREASURER                                   83,236.03 *
+           Total 1300                                            585,824.79 **
+
+A1420.4                         Contractual And Other            180,179.71
+A1420.49                        Boces Services                     1,050.00
+                1420 LEGAL                                       181,229.71 *
+A1430.16                      Noninstructional Salaries           64,047.00
+A1430.4                       Contractual And Other                       0
+A1430.45                      Materials And Supplies                 535.52
+A1430.49                      Boces Services                      15,504.45
+               1430 PERSONNEL                                     80,086.97 *
+A1480.4                       Contractual And Other               16,304.00
+A1480.49                      Boces Services                      11,768.75
+               1480 PUBLIC INFORMATION & SERVICES                 28,072.75 *
+         Total 1400                                              289,389.43 **
+
+A1620.16                     Noninstructional Salaries          1,775,253.18
+A1620.2                      Equipment                             30,760.82
+A1620.4                      Contractual And Other                838,880.06
+A1620.45                     Materials And Supplies               124,110.71
+A1620.49                     Boces Services                        42,069.73
+               1620 OPERATION OF PLANT                          2,811,074.50 *
+A1621.16                     Noninstructional Salaries            134,374.63
+A1621.2                      Equipment                             45,140.83
+A1621.4                      Contractual And Other                949,748.68
+A1621.45                     Materials And Supplies                47,180.73
+               1621 MAINTENANCE OF PLANT                        1,176,444.87 *
+         Total 1620/21                                          3,987,519.37 **
+
+IRVINGTON UFSD
+Appropriation Status Detail Report From 7/1/2016 To 6/30/2017
+
+Account                      Description                          Expensed
+A1670.16                     Noninstructional Salaries             9,436.51
+A1670.4                      Contractual And Other                21,559.06
+A1670.45                     Materials And Supplies                  467.57
+               1670 CENTRAL PRINTING & MAILING                    31,463.14 *
+A1680.2                      Equipment                            81,841.00
+A1680.4                      Contractual And Other                84,526.38
+A1680.49                     Boces Services                       98,751.61
+               1680 CENTRAL DATA PROCESSING                      265,118.99 *
+         Total 1670/80                                           296,582.13
+
+A1910.4                      Unallocated Insurance               192,605.00
+               1910 UNALLOCATED INSURANCE                        192,605.00 *
+A1950.4                      Assessments On School                27,580.32
+               1950 ASSESSMENTS ON SCHOOL PROPERTY                27,580.32 *
+A1964.4                      Refund On Real Property             268,775.10
+               1964 REFUND ON REAL PROPERTY TAXES                268,775.10 *
+A1981.49                     Boces Administrative                150,280.00
+               1981 BOCES ADMINISTRATIVE COSTS                   150,280.00 *
+A1983.49                     Boces Capital Expenses               53,667.00
+               1983                                               53,667.00 *
+         Total 1900                                              692,907.42 **
+
+           Total General Support                                6,269,031.30 ***
+
+A2010.15                      Instructional Salaries             205,817.30
+A2010.16                      Noninstructional Salaries           67,278.00
+A2010.4                       Contractual And Other               67,123.02
+A2010.45                      Materials And Supplies              13,683.30
+A2010.49                      Boces Services                      71,821.73
+                2010 CURRICULUM DEVEL & SUPERVISION              425,723.35 *
+
+IRVINGTON UFSD
+Appropriation Status Detail Report From 7/1/2016 To 6/30/2017
+
+Account                        Description                          Expensed
+A2020.15                       Instructional Salaries            1,083,700.39
+A2020.16                       Noninstructional Salaries           288,220.77
+A2020.2                        Equipment                             4,392.95
+A2020.4                        Contractual And Other                28,842.90
+A2020.45                       Materials And Supplies               11,921.50
+A2020.49                       Boces Services                       72,852.98
+                2020 SUPERVISION-REGULAR SCHOOL                  1,489,931.49 *
+          Total 2000                                             1,915,654.84 **
+A2110.12a                      Teacher Salaries, Full Day K-3    4,042,595.46
+A2110.12b                      Teacher Salaries 4-6              3,503,078.51
+A2110.13                       Teacher Salaries, 7-12            8,042,392.31
+A2110.14                       Substitute Teacher                  323,950.03
+A2110.16                       Noninstructional Salaries           626,175.38
+A2110.2                        Equipment                            43,639.08
+A2110.4                        Contractual And Other               271,902.22
+A2110.45                       Materials And Supplies              174,933.19
+A2110.48                       Textbooks                           116,054.41
+A2110.49b                      Other Boces Services                201,970.30
+                2110 TEACHING-REGULAR SCHOOL                    17,346,690.89 *
+          Total 2110                                            17,346,690.89 **
+
+A2250.15                         Instructional Salaries          3,679,059.99
+A2250.16                         Noninstructional Salaries       1,755,955.23
+A2250.2                          Equipment                           5,672.59
+A2250.4                          Contractual And Other             356,996.65
+A2250.45                         Materials And Supplies             11,048.77
+A2250.471                        Tuition Paid To Public            518,436.76
+A2250.472                        Tuition - All Other             1,097,203.69
+A2250.48                         Textbooks                               550
+A2250.49                         Boces Services                  1,137,831.66
+
+IRVINGTON UFSD
+Appropriation Status Detail Report From 7/1/2016 To 6/30/2017
+
+Account                        Description                                  Expensed
+               2250 PROGRAMS-STUDENTS W/ DISABIL                         8,562,755.34 *
+A2280.15                       Instructional Salaries                               0
+A2280.45                       Materials And Supplies                        4,067.20
+A2280.49                       Boces Services                               54,794.40
+               2280 OCCUPATIONAL EDUCATION                                  58,861.60 *
+         Total Special Programs                                          8,621,616.94 **
+
+A2610.15                        Instructional Salaries                     333,495.52
+A2610.16                        Noninstructional Salaries                  105,937.40
+A2610.2                         Equipment                                           0
+A2610.4                         Contractual And Other                               0
+A2610.45                        Materials And Supplies                      32,950.12
+A2610.49                        Boces Services                              49,015.44
+                 2610 SCHOOL LIBRARY & AUDIOVISUAL                         521,398.48 *
+A2630.15                        Instructional Salaries                     419,770.00
+A2630.16                        Noninstructional Salaries                  172,575.72
+A2630.22                        State-Aided Computer Hdware - Purchase      85,624.19
+A2630.45                        Materials And Supplies                      48,762.67
+A2630.46                        State-Aided Computer Software               31,802.78
+A2630.49                        Boces Services                              24,153.23
+A2630.4b                        State-Aided Computer Hdware-Repair           4,075.34
+A2630.4c                        Contractual & Other (Not Aide Lease)       310,567.56
+                 2630 COMPUTER ASSISTED INSTRUCTION                      1,097,331.49 *
+           Total 2600                                                    1,618,729.97 **
+
+A2810.15                      Instructional Salaries                      698,532.47
+A2810.16                      Noninstructional Salaries                   126,066.44
+A2810.4                       Contractual And Other                        14,040.47
+A2810.45                      Materials And Supplies                        2,694.74
+                2810 GUIDANCE-REGULAR SCHOOL                              841,334.12 *
+
+IRVINGTON UFSD
+Appropriation Status Detail Report From 7/1/2016 To 6/30/2017
+
+Account                         Description                         Expensed
+A2815.16                        Noninstructional Salaries          368,637.14
+A2815.2                         Equipment                                   0
+A2815.4                         Contractual And Other              179,305.30
+A2815.45                        Materials And Supplies               2,889.86
+                 2815 HEALTH SERVICES-REGULAR SCHOOL               550,832.30 *
+A2820.15                        Instructional Salaries             592,588.08
+A2820.4                         Contractual And Other                       0
+A2820.45                        Materials And Supplies                 727.43
+                 2820 PSYCHOLOGICAL SRVC-REG SCHOOL                593,315.51 *
+A2825.16                        Noninstructional Salaries          105,132.00
+A2825.45                        Materials And Supplies                      0
+                 2825 SOCIAL WORK SRVC-REG SCHOOL                  105,132.00 *
+A2850.15                        Instructional Salaries             111,182.75
+A2850.16                        Noninstructional Salaries            7,764.88
+A2850.4                         Contractual And Other                2,355.65
+                 2850 CO-CURRICULAR ACTIV-REG SCHL                 121,303.28 *
+A2855.15                        Instructional Salaries             329,859.77
+A2855.16                        Noninstructional Salaries          262,413.61
+A2855.4                         Contractual And Other               94,993.31
+A2855.45                        Materials And Supplies              49,793.24
+A2855.49                        Boces Services                      83,394.25
+                 2855 INTERSCHOL ATHLETICS-REG SCHL                820,454.18 *
+           Total 2800                                            3,032,371.39 **
+
+           Total Instructional                                  32,535,064.03 ***
+
+A5510.15                        Instructional Salaries              53,693.19
+A5510.4                         Contractual And Other               82,451.00
+                5510 DISTRICT TRANSPORT-MEDICAID                   136,144.19 *
+A5540.4                         Contract Transportation          2,030,265.32
+
+IRVINGTON UFSD
+Appropriation Status Detail Report From 7/1/2016 To 6/30/2017
+
+Account                         Description                         Expensed
+                5540 CONTRACT TRANSPORT-MEDICAID                 2,030,265.32 *
+          Total 5000 Transportation                              2,166,409.51 ***
+
+A9010.8                         State Retirement                   766,435.66
+                9010 STATE RETIREMENT                              766,435.66 *
+A9020.8                         Teachers' Retirement             2,674,302.32
+                9020 TEACHERS' RETIREMENT                        2,674,302.32 *
+A9030.8                         Social Security                  2,126,578.51
+                9030 SOCIAL SECURITY                             2,126,578.51 *
+A9040.8                         Workers' Compensation              292,697.05
+                9040 WORKERS' COMPENSATION                         292,697.05 *
+A9045.8                         Life Insurance                      28,154.88
+                9045 LIFE INSURANCE                                 28,154.88 *
+A9050.8                         Unemployment Insurance               9,921.86
+                9050 UNEMPLOYMENT INSURANCE                          9,921.86 *
+A9055.8                         Disability Insurance                48,039.38
+                9055 DISABILITY INSURANCE                           48,039.38 *
+A9060.8                         Hospital, Medical And Dental     5,706,859.38
+                9060 HOSPITAL, MEDICAL & DENTAL INS              5,706,859.38 *
+A9070.8                         Union Welfare Benefits             317,349.12
+                9070 UNION WELFARE BENEFITS                        317,349.12 *
+A9089.8                         Other, (Specify)                   107,164.67
+                9089 OTHER                                         107,164.67 *
+          Total 9000 Benefits                                   12,077,502.83 **
+
+A9711.6                        Serial Bonds - School             2,720,000.00
+A9711.7                        Serial Bonds - School             1,321,175.01
+                9711 DEBT SERVICE - SERIAL BONDS                 4,041,175.01 *
+A9730.6                        Bond Anticipation Notes             700,000.00
+A9730.7                        Bond Anticipation Notes              13,159.99
+
+IRVINGTON UFSD
+Appropriation Status Detail Report From 7/1/2016 To 6/30/2017
+
+Account                          Description                          Expensed
+                9730                                                 713,159.99 *
+A9785.6b                       Installment Purchase Debt- Other      238,523.30
+A9785.7b                       Installment Purchase Debt- Other       12,029.56
+                 9785 INSTALLMENT PURCHASES                          250,552.86 *
+           Total Debt                                              5,004,887.86 **
+
+A9901.95                      Transfer To Special Aid                43,396.76
+                9901 TRANSFER TO SPECIAL AID                         43,396.76 *
+
+           Total 9000                                             17,125,787.45 ***
+
+                                 Fund A Totals:                   58,096,292.29
+
+
+*          Budget code total
+**         Sub total Function area group
+***        Total Function area
+

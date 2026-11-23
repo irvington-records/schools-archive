@@ -1,0 +1,86 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/pfiles/B4XQ7H67EC70/$file/Extracurricular%20clubs%202018-2019.xlsx | DATE: 2018-09-25 | TITLE: Special Meeting/Work Session | 8.6 Payment for Extracurricular Clubs | Extracurricular clubs 2018-2019.xlsx
+
+--- sheet Sheet9 ---
+First Name	Last Name	Club	School	Group	Step	Stipend			
+Christopher	Cullen	Recycling Rangers Grade 3	Dows	6	4	1831			
+Tiffany	Flynn	Garden Club Grade 3	Dows	8	1	861			
+Kate	Lalier	Maker's Club Grade 1	Dows	7	1	1400			
+Kristin	Mann	Garden Coordinator K-3	Dows	3	0	3500			
+Paul	Manzi	World Language Club Spanish	Dows	8	0	808			
+Katherine	Tripeau	World Language Club French	Dows	8	0	808			
+MaryEllen	Fortini	Board Games (4)	MSS	8	3	969			
+Julie	Cangelosi	Board Games (5)	MSS	8	2	915			
+Susan	Wallace	Coding (5)	MSS	8	0	808			
+Lindsay	Donlon	Craft Club 	MSS	8	2	915			
+Nancy	Woeckener	Destination Imagination Coordinator	MSS	3	2	3607			
+Lisa	Gervasi	DI Instant Challenges 4 split stipend	MSS	8	1	430.5			
+Fiol	Cristina	DI Instant Challenges 5 split stipend	MSS	8	1	430.5			
+Cangelosi	Julie	DI Instant Challenges 5 split stipend	MSS	8	1	430.5			
+Julie	Cangelosi	Environmental Club	MSS	8	1	861			
+Holand	Loren	Gardening Club (5)	MSS	8	0	808			
+MaryEllen	Fortini	Gardening Club (4)	MSS	8	3	969			
+Diane	Watkinson	Homework Club 4th Grade (1 Days) (25%)	MSS	3	3	915.25			
+Amy 	Jones	Homework Club 4th Grade (2 Days) (50%)	MSS	3	8	1965			
+Barbara	Schoeller	Homework Club 4th Grade (2 Days) (50%)	MSS	3	0	1750			
+Nancy	Woeckener	Homework Club 5th Grade (1 Day) (25%)	MSS	3	6	955.75			
+Cristina	Fiol	Homework Club 5th Grade (1 Day) (25%)	MSS	3	2	901.75			
+Michelle	Griffin	Homework Club 5th Grade (1 Day) (25%)	MSS	3	1	888.5			
+Julie	Rostkowski	Homework Club 5th Grade (1 Day) (25%)	MSS	3	3	915.25			
+Nancy	Woeckener	Mathletes - 5	MSS	8	8	1238			
+Christine	Rosner	Mathletes-4	MSS	8	8	1238			
+Diane	Watkinson	School Store 4-5	MSS	7	8	1777			
+Teresa 	Hunt	Baking Club	IMS	8	8	1238			
+Alison	Meiseles	Book Club Split Stipend	IMS	8	1	430.5			
+Eli	Byers	Chess Club	IMS	8	3	969			
+Eve	Zeese	Debate Club	IMS	6	3	1777			
+Luann	Ricciardi	Environmental Club	IMS	7	8	1777			
+Deanna	Tessler	French Club	IMS	8	8	1238			
+Deborah	Scofield	History Club	IMS	8	1	861			
+Judy	Nadler	Homework Center 6	IMS	3	8	3930			
+Deanna	Tessler	Homework Center 7/8	IMS	3	1	3554			
+Paul	Scattaretico	IMS Music Honor Society	IMS 	6	2	1723			
+Linda	Palumbo	National Junior Honor Society	IMS	6	6	1938			
+Karen 	Acrish	Literary Magazine (split)	IMS	6	3	888.5			
+Amy	Panitz	Literary Magazine (split)	IMS	6	3	888.5			
+Eli	Byers	Math Club Split Stipend	IMS	7	2	727			
+Gregg	Pernick	Math Club Split Stipend	IMS	7	2	727			
+Luann	Ricciardi	Midnight Run	IMS	7	8	1777			
+Gregg	Pernick	Ping Pong Club	IMS	8	1	430.5			
+Griffin	Murray	Ping Pong Club	IMS	8	8	619			
+Nicole	Arvanites	Science Olympiad (Split)	IMS	5	8	1561.5			
+Karen	Bodnar	Science Olympiad (Split)	IMS	5	8	1561.5			
+Allyson	Tempest	Spanish Club	IMS	8	6	1131			
+Teresa	Hunt	Stage Manager	IMS	7	3	1508			
+Carol	Labella	Student Council	IMS	5	7	3069			
+Melissa	Lagana	Student Council	IMS	5	3	2854			
+Teresa	Hunt	Talent Show	IMS	8	4	1023			
+Luann	Ricciardi	Theater (Musical)	IMS	2	4	4253			
+Diana	Tomaselli	Yearbook	IMS	4	8	3661			
+Alison	Zerbo	Academic Challenge 75%	HS	5	4	2180.25			
+Ann	Yee	Academic Challenge 25%		5	1	686.5			
+Julia	Orlando	Dance Club (split)	HS	4	3	1696			
+Geri	Winteroth	Drama Production Instrumental	2	6	4361	paid directly through BOCES for Arts in Ed			
+Stephen	DiGiovanni	Drama Production/Director (Fall)	1	2	4684	paid directly through BOCES for Arts in Ed			
+Stephen	DiGiovanni	Drama Production/Director (Spring)	1	2	4684	paid directly through BOCES for Arts in Ed			
+Amy 	Ma	Environmental Club	HS	8	3	969			
+Stephanie	Schilling	Freshman/Sophomore Class Advisor	HS	7	0	1346			
+Trish 	Lyons	Key Club (split)	HS	8	8	619			
+Holly 	Koester	Key Club (split)	HS	8	8	619			
+Michele	Cella	Latin Club (split)	HS	8	8	619			
+Jonathan	Silverman	Latin Club (split)	HS	8	8	619			
+Julie	Ippolito	LGBTQIA	HS	8	3	484.5			
+Emily	Colman	LGBTQIA	HS	8	3	484.5			
+Jennifer	McArdle	Literary Magazine	HS	7	4	1561			
+Cella	Michele	Midnight Run	HS	7	1	1400			
+Erik	Weiselberg	Mock Trial	HS	6	8	2046			
+Diana	Cassidy	National Honor Society	HS	4	3	3392			
+Forman	Jessica	Science Olympiad	HS	5	1	1373			
+Ma	Amy	Science Olympiad	HS	5	1	1373			
+Ippolito	Julie	Senior Class Advisor	HS	4	0	3230			
+Michael	Berkowitz	Student Government (split)	HS	5	0	1346			
+Lauren	Cutignola	Student Government (split)	HS	5	0	1346			
+Stephen	DiGiovanni	Theatrical Prod. (Tech. Asst./Fall)	HS	2	1	4092	paid directly through BOCES for Arts in Ed		
+Stephen	DIGiovanni	Theatrical Prod. (Tech.Asst./Spring)	HS	2	1	4092	paid directly through BOCES for Arts in Ed		
+Patrick	DiBenedetto	Yearbook	HS	1	8	5007			
+Martin	Rescendiz	Yearbook Assistant	HS	4	2	3338			
+

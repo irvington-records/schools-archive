@@ -1,0 +1,19 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/goto?open&id=9F6HCV47E720 | DATE: 2014-02-25 | TITLE: Work Session/Special Meeting - 6:30 p.m.* | 9.1 Re-Appropriation of 2013-14 Budget
+
+Meeting: Feb 25, 2014 - Work Session/Special Meeting - 6:30 p.m.*
+Date: 2014-02-25
+Category: 9. Business Office Matters
+Subject: 9.1 Re-Appropriation of 2013-14 Budget
+Type: Action (Consent)
+
+Re-Appropriation of 2013-14 Budget
+
+	Debit A510 Estimated Revenue                                                     $56,567.73
+
+	     Revenue Code A2703 (Refund of Prior Years' Expenses)
+
+	Credit A960 Appropriations                                                           $56,567.73
+
+	     Expense Code A9040-800 (Workers Comp. Ins.)
+
+	To account for receipt of close-out funds received from Wright Risk.  This is attributable to the District becoming self-funded for workers comp. insurance.  Total check was $146,567.73.  $90,000 was placed in the Workers Comp. Insurance Reserve Fund for future claims.  Balance is placed in General Fund to cover current & anticipated expenses though June 30, 2014.  Any remaining funds at the end of the year would be transferred to the Reserve Fund.

@@ -1,0 +1,4 @@
+SOURCE https://www.irvingtonschools.org/site/Default.aspx?PageType=9&SiteID=10 | DATE 2023-01-27 | TITLE Forgot Password
+
+Enter your user name and we'll send you a link to reset your password. It will go to the email address listed in your user account.
+Contact your site administrator if you don't have an email address listed in your account, or if you've forgotten your user name.

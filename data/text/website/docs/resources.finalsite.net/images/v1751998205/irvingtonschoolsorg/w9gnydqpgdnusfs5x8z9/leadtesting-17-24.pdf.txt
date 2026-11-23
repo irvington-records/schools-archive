@@ -1,0 +1,436 @@
+SOURCE https://www.irvingtonschools.org/fs/resource-manager/view/d89d8329-7720-4407-9171-a92fd3a6d1ac | DATE 2025-07-08 | TITLE leadtesting-17-24.pdf
+
+2150 Smithtown Ave., Suite 3, Ronkonkoma, NY 11779
+   T: 631.580.3191 • F: 631.580.3195 • W: envirohealth.org
+
+
+October 25, 2024
+
+
+Mr. Richard Pittore
+Irvington Union Free School District
+6 Dows Lane
+Irvington, NY 10533
+
+Re: Lead in Drinking Water Sampling & Analysis 2023-2025
+
+Dear Mr. Pittore,
+
+On October 17, 2024, Enviroscience Consultants, LLC performed a semi-annual water sampling event at the
+Irvington Union Free School District. Samples were collected at Main Street School, Dows Lane Elementary
+School, and at the Middle School & High School Campus from water fountains, bottle fillers, and ice
+machines.
+
+First draw samples were collected in wide-mouth 250 milliliter containers and during the early morning,
+prior to any water sources being used. The samples were transported to New York Environmental
+Laboratory and were analyzed for lead concentration. The current limit for lead in drinking water is 5 parts
+per billion (ppb). Several water fountains at Dows Lane Elementary School were taken out of service and
+were therefore not samples. There are plans to cap them permanently.
+
+There were no exceedances.
+
+Please see the attached Outlet Inventory tables and lab reports for detailed results at each location.
+
+Should you have any questions, please feel free to contact me.
+
+
+
+Sincerely,
+
+
+
+
+Susan Richter
+Environmental Project Manager
+                                                                                                                       88 Harbor Road
+                                                                                                            Port Washington, NY 11050
+                                                                                                                        (516) 944-9500
+                                                                                                             www.nyenvironmental.com
+
+
+
+
+                                                     Laboratory Report
+                                                NYE Report #: 2406390-31473
+
+
+          October 22, 2024
+
+          Project Manager
+          Enviroscience Consultants, Inc.
+          2150 Smithtown Avenue
+          Ronkonkoma, NY 11779
+
+
+
+          Project: Irvington UFSD; Dows Lane Elementary School
+
+
+
+
+          Dear Project Manager,
+
+              Enclosed is the Laboratory Analytical Report for potable water sample(s) received on October 18,
+          2024. New York Environmental analyzed the samples on October 21, 2024 for Lead (Pb) by EPA
+          Method 200.9 Rev. 2.2.
+
+              If there are any questions regarding the analyses, please feel free to contact us at your
+          convenience. New York Environmental is a NELAP accredited laboratory. Attached reported results
+          meet the requirements of the NELAP standards unless otherwise noted.
+
+              Samples' analytical results relate only to the samples tested, in the condition received by the
+          laboratory. This report shall not be reproduced except in its entirety without written approval of the
+          laboratory.
+
+              We sincerely thank you for your business, and look forward to being of service for your future
+          environmental testing needs.
+
+
+
+
+                                                                Sincerely,
+
+
+
+
+                                                                Li Tsang, Laboratory Director
+
+
+
+
+                                                                                                                        Page 1 of 2
+NYSDOH ELAP Lab ID: 11510                                                                                      10/22/2024 12:55 PM
+NYE Report #: 2406390-31473
+
+
+ Date Collected:         17 Oct 2024                                                     Analytical Method:      EPA 200.9 Rev. 2.2
+ Date Received:          18 Oct 2024                                                      Analyte, Matrix:       Lead, Potable Water
+ Date Analyzed:          21 Oct 2024
+
+
+
+
+Lab ID             CID      Sample Location/Description                                          LOQ         Result   Units    Flag
+
+241018P028          1       Gym-BF, Initial                                                      0.001 <0.001
+                                                                                                         <0.001       mg/L
+
+241018P029          2       Gym-WF, Initial                                                      0.001 <0.001
+                                                                                                         <0.001       mg/L
+
+241018P030          3       112 (PLTW)-WF, Initial                                               0.001 0.004
+                                                                                                          0.004       mg/L
+
+241018P031          4       115 (PLTW)-WF, Initial                                               0.001 0.005
+                                                                                                          0.005       mg/L
+
+241018P032          5       Multi-Purpose Room-WF, Initial                                       0.001 <0.001
+                                                                                                         <0.001       mg/L
+
+241018P033          6       2nd Floor Lobby-BF, Initial                                          0.001 <0.001
+                                                                                                         <0.001       mg/L
+
+241018P034          7       2nd Floor Lobby-WF, Initial                                          0.001 <0.001
+                                                                                                         <0.001       mg/L
+
+241018P035          8       2nd Floor Hallway-WF, Initial                                        0.001 0.001
+                                                                                                          0.001       mg/L
+
+
+Comment:
+CID: Client ID LOQ: Limit of Quantitation
+
+
+
+
+                                                                                                                          Page 2 of 2
+                                                             NYSDOH ELAP Lab ID: 11510                           10/22/2024 12:55 PM
+                                                                                                                       88 Harbor Road
+                                                                                                            Port Washington, NY 11050
+                                                                                                                        (516) 944-9500
+                                                                                                             www.nyenvironmental.com
+
+
+
+
+                                                     Laboratory Report
+                                                NYE Report #: 2406389-31472
+
+
+          October 22, 2024
+
+          Project Manager
+          Enviroscience Consultants, Inc.
+          2150 Smithtown Avenue
+          Ronkonkoma, NY 11779
+
+
+
+          Project: Irvington UFSD; Main Street School
+
+
+
+
+          Dear Project Manager,
+
+              Enclosed is the Laboratory Analytical Report for potable water sample(s) received on October 18,
+          2024. New York Environmental analyzed the samples on October 21, 2024 for Lead (Pb) by EPA
+          Method 200.9 Rev. 2.2.
+
+              If there are any questions regarding the analyses, please feel free to contact us at your
+          convenience. New York Environmental is a NELAP accredited laboratory. Attached reported results
+          meet the requirements of the NELAP standards unless otherwise noted.
+
+              Samples' analytical results relate only to the samples tested, in the condition received by the
+          laboratory. This report shall not be reproduced except in its entirety without written approval of the
+          laboratory.
+
+              We sincerely thank you for your business, and look forward to being of service for your future
+          environmental testing needs.
+
+
+
+
+                                                                Sincerely,
+
+
+
+
+                                                                Li Tsang, Laboratory Director
+
+
+
+
+                                                                                                                        Page 1 of 2
+NYSDOH ELAP Lab ID: 11510                                                                                      10/22/2024 12:53 PM
+NYE Report #: 2406389-31472
+
+
+ Date Collected:         17 Oct 2024                                                        Analytical Method:      EPA 200.9 Rev. 2.2
+ Date Received:          18 Oct 2024                                                         Analyte, Matrix:       Lead, Potable Water
+ Date Analyzed:          21 Oct 2024
+
+
+
+
+Lab ID             CID      Sample Location/Description                                             LOQ         Result   Units    Flag
+
+241018P019          1       3rd Floor-BF, Initial                                                   0.001 <0.001
+                                                                                                            <0.001       mg/L
+
+241018P020          2       3rd Floor-WF, Initial                                                   0.001 <0.001
+                                                                                                            <0.001       mg/L
+
+241018P021          3       2nd Floor-BF, Initial                                                   0.001 <0.001
+                                                                                                            <0.001       mg/L
+
+241018P022          4       2nd Floor-WF, Initial                                                   0.001 <0.001
+                                                                                                            <0.001       mg/L
+
+241018P023          5       Teachers Lounge (206)-IM, Initial                                       0.001 <0.001
+                                                                                                            <0.001       mg/L
+
+241018P024          6       1st Floor-BF, Initial                                                   0.001 <0.001
+                                                                                                            <0.001       mg/L
+
+241018P025          7       1st Floor-WF, Initial                                                   0.001 <0.001
+                                                                                                            <0.001       mg/L
+
+241018P026          8       Gym-BF, Initial                                                         0.001 <0.001
+                                                                                                            <0.001       mg/L
+
+241018P027          9       Gym-WF, Initial                                                         0.001 <0.001
+                                                                                                            <0.001       mg/L
+
+
+Comment:
+CID: Client ID LOQ: Limit of Quantitation
+
+
+
+
+                                                                                                                             Page 2 of 2
+                                                                NYSDOH ELAP Lab ID: 11510                           10/22/2024 12:53 PM
+                                                                                                                       88 Harbor Road
+                                                                                                            Port Washington, NY 11050
+                                                                                                                        (516) 944-9500
+                                                                                                             www.nyenvironmental.com
+
+
+
+
+                                                     Laboratory Report
+                                                NYE Report #: 2406391-31474
+
+
+          October 22, 2024
+
+          Project Manager
+          Enviroscience Consultants, Inc.
+          2150 Smithtown Avenue
+          Ronkonkoma, NY 11779
+
+
+
+          Project: Irvington UFSD; Irvington Middle & High School
+
+
+
+
+          Dear Project Manager,
+
+              Enclosed is the Laboratory Analytical Report for potable water sample(s) received on October 18,
+          2024. New York Environmental analyzed the samples on October 21, 2024 for Lead (Pb) by EPA
+          Method 200.9 Rev. 2.2.
+
+              If there are any questions regarding the analyses, please feel free to contact us at your
+          convenience. New York Environmental is a NELAP accredited laboratory. Attached reported results
+          meet the requirements of the NELAP standards unless otherwise noted.
+
+              Samples' analytical results relate only to the samples tested, in the condition received by the
+          laboratory. This report shall not be reproduced except in its entirety without written approval of the
+          laboratory.
+
+              We sincerely thank you for your business, and look forward to being of service for your future
+          environmental testing needs.
+
+
+
+
+                                                                Sincerely,
+
+
+
+
+                                                                Li Tsang, Laboratory Director
+
+
+
+
+                                                                                                                        Page 1 of 3
+NYSDOH ELAP Lab ID: 11510                                                                                      10/22/2024 12:57 PM
+NYE Report #: 2406391-31474
+
+
+ Date Collected:         17 Oct 2024                                                        Analytical Method:      EPA 200.9 Rev. 2.2
+ Date Received:          18 Oct 2024                                                         Analyte, Matrix:       Lead, Potable Water
+ Date Analyzed:          21 Oct 2024
+
+
+
+
+Lab ID             CID      Sample Location/Description                                             LOQ         Result   Units    Flag
+
+241018P036          1       LGA-Library Hallway-BF, Initial                                         0.001 <0.001
+                                                                                                            <0.001       mg/L
+
+241018P037          2       LGA-Library Hallway-WF, Initial                                         0.001 <0.001
+                                                                                                            <0.001       mg/L
+
+241018P038          3       Middle School-A Wing-BF, Initial                                        0.001 <0.001
+                                                                                                            <0.001       mg/L
+
+241018P039          4       Middle School-A Wing-WF, Initial                                        0.001 <0.001
+                                                                                                            <0.001       mg/L
+
+241018P040          5       Middle School-B Wing-BF, Initial                                        0.001 <0.001
+                                                                                                            <0.001       mg/L
+
+241018P041          6       Middle School-B Wing-WF, Initial                                        0.001 <0.001
+                                                                                                            <0.001       mg/L
+
+241018P042          7       Middle School-C Wing-BF, Initial                                        0.001 <0.001
+                                                                                                            <0.001       mg/L
+
+241018P043          8       Middle School-C Wing-WF, Initial                                        0.001 <0.001
+                                                                                                            <0.001       mg/L
+
+241018P044          9       Middle School-D Wing-BF, Initial                                        0.001 <0.001
+                                                                                                            <0.001       mg/L
+
+241018P045         10       Middle School-D Wing-WF, Initial                                        0.001 <0.001
+                                                                                                            <0.001       mg/L
+
+241018P046         11       Theater/Gym-Outside Boys Locker Room-WF, Initial                        0.001 <0.001
+                                                                                                            <0.001       mg/L
+
+241018P047         12       Theater/Gym-1st Floor Lobby-BF, Initial                                 0.001 <0.001
+                                                                                                            <0.001       mg/L
+
+241018P048         13       Theater/Gym-1st Floor Lobby-WF, Initial                                 0.001 <0.001
+                                                                                                            <0.001       mg/L
+
+241018P049         14       Theater/Gym-2nd Floor Lobby-WF, Initial                                 0.001 <0.001
+                                                                                                            <0.001       mg/L
+
+241018P050         15       CLP-Outdoor-BF, Initial                                                 0.001 <0.001
+                                                                                                            <0.001       mg/L
+
+241018P051         16       CLP-Outdoor-WF, Initial                                                 0.001 <0.001
+                                                                                                            <0.001       mg/L
+
+241018P052         17       CLP-Outdoor by Inclusive Restroom-BF, Initial                           0.001 <0.001
+                                                                                                            <0.001       mg/L
+
+241018P053         18       CLP-Outdoor by Inclusive Restroom-WF, Initial                           0.001 <0.001
+                                                                                                            <0.001       mg/L
+
+241018P054         19       High School-Garden Level-BF, Initial                                    0.001 <0.001
+                                                                                                            <0.001       mg/L
+
+241018P055         20       High School-Garden Level-WF, Initial                                    0.001 <0.001
+                                                                                                            <0.001       mg/L
+
+241018P056         21       High School-2nd Floor Hallway-BF, Initial                               0.001 <0.001
+                                                                                                            <0.001       mg/L
+
+241018P057         22       High School-2nd Floor by H200-WF, Initial                               0.001 <0.001
+                                                                                                            <0.001       mg/L
+
+241018P058         23       High School-2nd Floor by H200-WF, Initial                               0.001 <0.001
+                                                                                                            <0.001       mg/L
+
+241018P059         24       High School-Cafeteria-BF, Initial                                       0.001 <0.001
+                                                                                                            <0.001       mg/L
+
+241018P060         25       High School-Cafeteria-WF, Initial                                       0.001 <0.001
+                                                                                                            <0.001       mg/L
+
+241018P061         26       CMS-2nd Floor Hallway by S206-WF, Initial                               0.001 <0.001
+                                                                                                            <0.001       mg/L
+
+
+
+
+                                                                                                                             Page 2 of 3
+                                                                NYSDOH ELAP Lab ID: 11510                           10/22/2024 12:57 PM
+ Date Collected:         17 Oct 2024                                                        Analytical Method:      EPA 200.9 Rev. 2.2
+ Date Received:          18 Oct 2024                                                         Analyte, Matrix:       Lead, Potable Water
+ Date Analyzed:          21 Oct 2024
+
+
+
+
+Lab ID             CID      Sample Location/Description                                             LOQ         Result   Units    Flag
+
+241018P062         27       CMS-1st Floor Hallway (East End)-BF, Initial                            0.001 <0.001
+                                                                                                            <0.001       mg/L
+
+241018P063         28       CMS-1st Floor Hallway (East End)-WF, Initial                            0.001 <0.001
+                                                                                                            <0.001       mg/L
+
+241018P064         29       High School-Outside Main Office-BF, Initial                             0.001 <0.001
+                                                                                                            <0.001       mg/L
+
+241018P065         30       High School-Outside Main Office-WF, Initial                             0.001 <0.001
+                                                                                                            <0.001       mg/L
+
+
+Comment:
+CID: Client ID LOQ: Limit of Quantitation
+
+
+
+
+                                                                                                                             Page 3 of 3
+                                                                NYSDOH ELAP Lab ID: 11510                           10/22/2024 12:57 PM

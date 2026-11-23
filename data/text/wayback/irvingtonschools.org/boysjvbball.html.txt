@@ -1,0 +1,22 @@
+SOURCE http://irvingtonschools.org:80/boysjvbball.html | DATE 2002-12-31 | TITLE Boys JV Basketball
+
+Varsity/Junior Varsity Sports
+JV Coach: Bill Ottivich
+| DATE | OPPONENT | TIME | 
+| Dec. 12 | at Hastings | 4:30 PM | 
+| Dec. 16 | at Martin Luther King Jr. | 6:15 PM | 
+| Dec. 17 | Rye | 6:00 PM | 
+| Dec. 19 | at Solomon Schecter | 4:45 PM | 
+| Jan. 7 | Croton-Harmon | 7:00 PM | 
+| Jan. 8 | North Salem | 6:15 PM | 
+| Jan. 13 | Briarcliff | 6:00 PM | 
+| Jan. 15 | at Haldane | 4:30 PM | 
+| Jan. 20 | at Croton-Harmon | 12:00 PM | 
+| Jan. 22 | Westlake | 6:15 PM | 
+| Jan. 23 | Martin Luther King Jr. | 6:15 PM | 
+| Jan. 25 | Pleasantville | 5:30 PM | 
+| Jan. 31 | Briarcliff | 6:00 PM | 
+| Feb. 4 | Haldane | 7:00 PM | 
+| Feb. 6 | at Westlake | 4:30 PM | 
+| Feb. 7 | at Pleasantville | 5:00 PM | 
+| Feb. 11 | Dobbs Ferry | 6:00 PM |

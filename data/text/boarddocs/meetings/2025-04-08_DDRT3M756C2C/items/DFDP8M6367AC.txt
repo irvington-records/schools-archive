@@ -1,0 +1,24 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/goto?open&id=DFDP8M6367AC | DATE: 2025-04-08 | TITLE: Regular Meeting | 12.4 Payment for Extracurricular Clubs
+
+Meeting: Apr 08, 2025 - Regular Meeting
+Date: 2025-04-08
+Category: 12. Personnel Matters
+Subject: 12.4 Payment for Extracurricular Clubs
+Type: Action (Consent)
+
+Name
+	Club
+	Group
+	Step
+	Rate
+
+Jonathan Silverman
+	Ancient Greek Club
+	VII
+	0
+	$1,443 (to be prorated)
+Sarah Federici-Diaz
+	Civil Engineering and Architecture Club
+	VII
+	0
+	$1,443 (to be prorated)

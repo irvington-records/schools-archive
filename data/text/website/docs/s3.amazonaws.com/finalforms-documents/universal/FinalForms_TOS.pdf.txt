@@ -1,0 +1,262 @@
+SOURCE https://s3.amazonaws.com/finalforms-documents/universal/FinalForms_TOS.pdf | DATE 2026-09-22 | TITLE FinalForms_TOS.pdf
+
+FINALFORMS
+AUTHORIZED USER TERMS OF SERVICE AGREEMENT
+​
+BC Technologies Company, doing business as FinalForms (“FinalForms”), is the developer and owner of
+a proprietary Internet-based data management service (“Service”). Among other things, FinalForms
+collects, processes, formats and stores Student Data, as requested by its clients, which include school
+districts. Certain data used by FinalForms to provide its Service can be created by and made accessible
+to Authorized Users, who are designated by such clients. Authorized Users are permitted to establish an
+Account and input Student Data, as part of the Service. This Authorized User Terms of Service
+Agreement (“TOS Agreement”) sets forth the contractual obligations that are binding upon an Authorized
+User’s use of the Service. An Authorized User’s use of the Service constitutes his/her agreement to be
+bound by the terms set forth in this TOS Agreement. If an Authorized User does not agree to be bound by
+this TOS Agreement, he/she may not access the Service. Text message program disclosures are set out
+in Section IX.
+
+
+
+I. GENERAL
+
+Authorized User:​
+An “Authorized User” may be:​
+
+        1) an employee, agent, or representative of a client, the performance of whose job duties on
+        behalf of the client reasonably requires the individual to access the Services, as determined by
+        the client; ​
+        2) any individual specifically designated by a client; and ​
+        3) a student of a client, or a participant in an activity organized by a client, as well as his/her
+        parent, guardian, custodian, or other individual, as permitted by the client.
+
+License:
+FinalForms grants Authorized Users a non-exclusive, non-transferable, non-sublicensable, limited right to
+access and use the Service solely for personal and noncommercial purposes.
+
+Limitations:
+Authorized Users are solely responsible for all equipment, software, and connections, including the
+security and privacy of those connections, to the Internet, which is required to gain access to the Service.
+
+Instructions:
+Instructions for creating a FinalForms Account (“Account”) and for inputting Student Data into the Service
+are provided within the Service.
+
+Verification of Accuracy and Completeness of Student Data:
+The Service provides features that permit an Authorized User to verify the accuracy and completeness of
+Student Data. Authorized Users are responsible for the accuracy and completeness of all Student Data.
+II. SECURITY AND DATA RIGHTS
+
+Account:
+To use the Service, an Authorized User must create an Account. To complete the Account creation
+process, an Authorized User may be required to provide:
+
+        1) His/her legal first and last name;
+        2) A valid e-mail address; and
+        3) Any other information about himself/herself, as prompted by the Service’s registration form.
+
+Age Restriction:
+Children under the age of thirteen (13) are prohibited from becoming Authorized Users or directly
+providing personal information to FinalForms without the consent of their parents or guardians.
+
+Security:
+An Authorized User is solely responsible for maintaining the confidentiality of his/her user identification
+and password. An Authorized User is solely responsible for all activities that occur in connection with
+his/her Account. An Authorized User must immediately notify FinalForms of any unauthorized use of
+his/her Account or other security related breaches of which he/she becomes aware. An Authorized User
+agrees to access and use the Service in accordance with this TOS Agreement and all applicable local,
+state, and federal laws and regulations. FinalForms reserves the right to deny or revoke access to the
+Service, in whole or in part, if FinalForms reasonably believes that an Authorized User is in breach of this
+TOS Agreement or is otherwise using or accessing the Service in a manner that is inconsistent with the
+TOS Agreement.
+
+Exporting of Student Data:
+FinalForms clients may allow Authorized Users to export Student Data from FinalForms. FinalForms
+assumes no responsibility for the use, security, or privacy of Student Data once exported from
+FinalForms.
+
+Financial Information and Billing:
+Authorized Users may be required by clients to provide true, accurate, current, complete, and valid
+financial information for purposes of online billing (“Billing Data”). If an Authorized User supplies Billing
+Data that is untrue, inaccurate, not current, or incomplete, or if FinalForms reasonably believes or
+suspects that Billing Data is untrue, inaccurate, not current or incomplete, FinalForms has the right to
+suspend or terminate his/her status as an Authorized User and/or suspend, discontinue, or terminate the
+Service or any portion thereof temporarily or permanently with or without notice.
+
+By supplying FinalForms with Billing Data, an Authorized User permits FinalForms to charge the credit
+card listed in his/her Billing Data for all applicable fees incurred in connection with his/her use of the
+Service. An Authorized User’s Account will specify all charges that have been made. An Authorized User
+shall notify FinalForms of any changes to his/her Billing Data.
+III. PROPRIETARY RIGHTS
+
+FinalForms Materials:
+The information and materials provided on or through the Service, including any ideas, know-how,
+methodologies, processes, content, data, text, logos, graphics, images, photographs, designs,
+illustrations, charts, graphs, audio and video clips, icons, links, and all modifications and derivative works
+thereof (“Materials”) are exclusively owned by FinalForms, or are licensed for use by FinalForms.
+
+General Restrictions:
+Authorized Users shall not do any of the following, or allow a third party to do any of the following: ​
+
+        1) Use the Service for any fraudulent or illegal purpose;
+        2) Upload, transmit, or otherwise distribute any content that is unlawful, defamatory, harassing,
+        abusive, fraudulent, obscene, contains viruses, or is otherwise objectionable as reasonably
+        determined by FinalForms;
+        3) Use any robot, spider, other automated device, or manual process to monitor or copy any
+        content from the Service;
+        4) Resell, duplicate, make derivative works of, reproduce, or exploit any part of the Service
+        without the express written permission of FinalForms;
+        5) Rent, lease, distribute, or resell the Service, or use the Service for developing a competitor
+        service (or contract with a third party to do so), or remove or alter any of the logos, trademark,
+        patent or copyright notices, confidentiality or proprietary legends, or other notices or markings
+        that are on or in the Service; or
+        6) Decipher, decompile, hack, delete, augment, alter, disassemble, or reverse engineer any of the
+        software comprising or in any way used or downloaded from the Service.
+
+
+
+IV. TERM AND TERMINATION
+
+Term:
+This TOS Agreement will commence as soon as an Authorized User accesses the Service, and will
+continue for the duration of such access and use.
+
+Termination by FinalForms:
+FinalForms may terminate an Authorized User’s access to all or part of the Service at any time, with or
+without notice.
+V. WARRANTIES
+
+Warranties:
+An Authorized User represents and warrants to FinalForms that he/she has the capacity to understand
+and accept this TOS Agreement. Further, an Authorized User represents and warrants that he/she is not
+accessing the service through misrepresentation or false identification.
+
+DISCLAIMER:
+FINALFORMS,ITSEMPLOYEES,REPRESENTATIVES,AND
+SUBCONTRACTORS, IF ANY, MAKE NO REPRESENTATIONS OR WARRANTIES, WHETHER
+EXPRESS, IMPLIED OR STATUTORY, REGARDING OR RELATING TO THE SERVICE PROVIDED TO
+AN AUTHORIZED USER UNDER THIS TOS AGREEMENT. WITHOUT LIMITING THE GENERALITY
+OF THE FOREGOING, FINALFORMS SPECIFICALLY DISCLAIMS ANY AND ALL IMPLIED
+WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND
+NONINFRINGEMENT. THE SERVICE IS PROVIDED “AS IS,” AND “WITH ALL FAULTS.” FINALFORMS
+DOES NOT GUARANTEE THAT AN AUTHORIZED USER’S ACCESS TO THE SERVICE PROVIDED
+UNDER THIS TOS AGREEMENT WILL BE UNINTERRUPTED OR ERROR FREE. FINALFORMS
+DOES NOT GUARANTEE THAT AN AUTHORIZED USER’S INTERNET CONNECTION TO THE
+SERVICE WILL BE SECURE. FINALFORMS MAKES NO REPRESENTATION OR WARRANTY,
+EXPRESS OR IMPLIED, REGARDING THE COMPLETENESS OR ACCURACY OF THE STUDENT
+DATA AN AUTHORIZED USER INPUTS. FINALFORMS DOES NOT WARRANT THAT THE SERVICE
+WILL BE AVAILABLE AT ALL TIMES.
+
+
+
+VI. LIMITATION OF LIABILITY
+​
+FINALFORMS,ITSEMPLOYEES,REPRESENTATIVES,AND
+SUBCONTRACTORS, IF ANY, SHALL NOT BE LIABLE FOR ANY LOSS OF USE, BUSINESS
+INTERRUPTION, LOSS OF OR DAMAGE TO STUDENT DATA, COST OF COVER, DIRECT, INDIRECT,
+SPECIAL, PUNITIVE, INCIDENTAL, OR CONSEQUENTIAL DAMAGES OF ANY KIND IN
+CONNECTION WITH OR ARISING OUT OF THE FURNISHING, PERFORMANCE, OR USE OF THE
+SERVICE UNDER THIS TOS AGREEMENT, WHETHER ALLEGED AS A BREACH OF CONTRACT OR
+TORT, INCLUDING NEGLIGENCE, EVEN IF FINALFORMS HAS BEEN ADVISED OF THE
+POSSIBILITY OF SUCH DAMAGES. IN ADDITION, FINALFORMS WILL NOT BE LIABLE FOR ANY
+DAMAGES CAUSED BY ANY DELAY IN DELIVERY OR FURNISHING ACCESS TO THE SERVICE.
+BECAUSE THE SERVICE IS PROVIDED TO AN AUTHORIZED USER AT NO CHARGE, FINALFORMS
+SHALL NOT BE LIABLE UNDER THIS TOS AGREEMENT FOR DAMAGES OF ANY KIND.
+VII. INDEMNIFICATION
+
+Parent/Guardian and Student:
+FinalForms does not have any responsibility for an Authorized User’s acceptance, participation,
+treatment, or health care. An Authorized User shall indemnify, defend, and hold harmless FinalForms, its
+employees, representatives, and subcontractors, if any, and defend any action brought against the same
+with respect to any claim, demand, cause of action, debt or liability, including reasonable attorneys’ fees,
+arising out of or relating to: ​
+
+        1) Any injury resulting from the use of Student Data;
+        2) Any claim that Student Data is inaccurate or incomplete;
+        3) Claims that content or information provided by an Authorized User infringes the intellectual
+        property rights of a third party; or
+        4) Any non-compliance with or breach of this TOS Agreement.
+
+Authorized User:
+FinalForms does not have any responsibility for the use of Student Data by an Authorized User, including,
+but not limited to sorting, filtering, exporting and printing, and any actions that may occur thereafter. An
+Authorized User assumes all responsibility for the use of exported data. An Authorized User is solely
+responsible for all communication, direct or indirect, initiated by the Authorized User using the Service,
+including, but not limited to notifications, emails, text messages, or phone calls. FinalForms retains
+records of all Authorized User initiated communication for no less than ten (10) years.
+
+
+
+VIII. PRIVACY AND CONFIDENTIALITY
+
+Privacy Policy:
+The FinalForms Privacy Policy is applicable to an Authorized User’s use of the Service and is
+incorporated into this TOS Agreement by reference, and is available here (
+https://www.finalforms.com/wp-content/uploads/2026/02/FinalForms-Privacy-Policy.pdf ). The terms of the
+Privacy Policy may be updated by FinalForms from time to time. Updated FinalForms Privacy Policy
+terms shall likewise be incorporated into this TOS Agreement by this reference.
+
+
+
+X. TEXT MESSAGE PROGRAM (SMS) TERMS
+
+Program:
+FinalForms operates the FinalForms Text Alerts program on behalf of the school district that has enrolled
+you.
+
+Program description:
+By providing your mobile phone number and opting in, you agree to receive recurring automated text
+messages from your school district through FinalForms. These messages include:
+    ●​ Registration and form completion reminders, signature requests, and physical and athletic
+        eligibility expiration notices
+    ●​ Athletic and activity event notifications, including schedules, practice and game changes, and
+        participation reminders
+    ●​ Emergency, weather, closure, and safety announcements
+Message frequency:
+Message frequency varies.
+
+Rates:
+Message and data rates may apply.
+
+Opt-out and help:
+Reply STOP to any message to cancel. Reply HELP for help.
+
+Customer support:
+support@finalforms.com
+
+Carrier liability:
+Carriers are not liable for any delayed or undelivered messages.
+
+Consent is optional:
+Consent to receive text messages is not a condition of registration or of any district service.
+
+Minors:
+Where a mobile number belongs to a student under 18, consent must be provided by the student's parent
+or legal guardian.
+
+Privacy:
+FinalForms’ Privacy Policy is available here (
+https://www.finalforms.com/wp-content/uploads/2026/02/FinalForms-Privacy-Policy.pdf ).
+
+
+X. MISCELLANEOUS
+
+Waiver and Severability:
+Any waiver or modification of this TOS Agreement will not be effective unless executed in writing and
+signed by the Authorized User and a duly authorized representative of FinalForms. The failure of either
+party to enforce, or the delay by either party in enforcing, any of its rights under this TOS Agreement will
+not be deemed to be a waiver or modification by such party of any of its rights under this TOS Agreement.
+If any provision of this TOS Agreement is held to be unenforceable by a court of law, in whole or in part,
+such holding will not affect the validity of the other provisions of this TOS Agreement.
+
+
+
+
+Governing Law:
+This TOS Agreement will be interpreted and construed in accordance with the laws of the State of Ohio,
+without regard to conflict of law principles. All disputes arising out of this TOS Agreement shall be brought
+only in the district and federal courts located in Cuyahoga County, Ohio.
+AN AUTHORIZED USER CONSENTS TO PERSONAL JURISDICTION AND VENUE OF THE COURTS,
+STATE AND FEDERAL, LOCATED IN OHIO.
+
+
+Updated 2026-09-17

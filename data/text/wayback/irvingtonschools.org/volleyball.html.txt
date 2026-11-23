@@ -1,0 +1,22 @@
+SOURCE http://www.irvingtonschools.org:80/volleyball.html | DATE 2002-01-23 | TITLE Volleyball
+
+Varsity/Junior Varsity Sports Fall 2001
+Varsity Coach: Flo Audevard
+| DATE | OPPONENT | TIME | 
+| Sept. 10 | at Rye Neck | 6:00 PM | 
+| Sept. 20 | at Briarcliff | 4:30 PM | 
+| Sept. 21 | at Valhalla | 4:30 PM | 
+| Sept. 24 | Dobbs Ferry | 6:00 PM | 
+| Sept. 25 | Woodlands | 6:00 PM | 
+| Sept. 28 | Our Lady of Victory | 4:15 PM | 
+| Sept. 29 | Edgemont | 11:00 AM | 
+| Oct. 2 | at Blind Brook | 6:00 PM | 
+| Oct. 4 | Keio Academy | 6:00 PM | 
+| Oct. 10 | Hastings | 6:00 PM | 
+| Oct. 12 | Valhalla | 6:00 PM | 
+| Oct. 15 | Dover | 6:00 PM | 
+| Oct. 16 | at Dobbs Ferry | 6:00 PM | 
+| Oct. 20 | Blind Brook | 3:30 PM | 
+| Oct. 22 | at Keio Academy | 6:00 PM | 
+| Oct. 24 | Briarcliff | 6:00 PM | 
+| Oct. 26 | at Hastings | 6:00 PM |

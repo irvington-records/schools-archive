@@ -1,0 +1,16 @@
+SOURCE http://www.irvingtonschools.org:80/news1.html | DATE 1999-10-10 | TITLE News Highlights
+
+Traffic Signal to be Installed at High School Drive ~ 9/14/99
+Back to School 1999 ~ 8/27/99
+Senior Sports Awards ~ 6/7/99
+Long Range Planning Committee: May Update ~ 5/28/99
+Election Results ~ 5/18/99
+Long Range Planning Committee: April Update ~ 4/12/99
+Superintendent's Recommended Budget: 1999-2000 ~ 4/3/99
+Demographer's Report: Executive Summary ~ 1/26/99
+Long Range Planning Committee Report ~ 1/26/99
+District Reaches Settlement With Teachers ~ 1/15/99
+O'Hara Tournament ~ 11/5/98
+Back to School 1998 ~ 9/8/98
+Long Range Instructional Technology Plan ~ 6/26/98
+Dr. Vincent Beni Named Superintendent ~ 6/8/98

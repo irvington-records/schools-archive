@@ -1,0 +1,23 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/goto?open&id=9WAGKC43CB97 | DATE: 2015-05-26 | TITLE: Work Session/Special Meeting - 7:30 pm* | 10.1 Re-Appropriation of 2014-15 Budget
+
+Meeting: May 26, 2015 - Work Session/Special Meeting - 7:30 pm*
+Date: 2015-05-26
+Category: 10. Business Office Matters
+Subject: 10.1 Re-Appropriation of 2014-15 Budget
+Type: Action (Consent)
+
+Re-appropriation of 2014-15 Budget
+
+					Debit A510 Estimated Revenue
+
+					     Revenue Code A2770 misc. Revenue
+
+				$125,360
+
+					Credit A960 Appropriations
+
+					     Expense Code A1621.400-10-0000 Firestopping, Phase 2
+
+				$125,360
+
+	To appropriate funds received from a litigation settlement for capital repairs, for FireStopping (Phase 2) at the High School.  Revised Budget = $56,169,880

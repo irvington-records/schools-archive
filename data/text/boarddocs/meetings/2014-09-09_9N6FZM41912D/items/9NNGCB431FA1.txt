@@ -1,0 +1,55 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/goto?open&id=9NNGCB431FA1 | DATE: 2014-09-09 | TITLE: Regular Meeting - 7:00 p.m.* | 9.3 Budget Transfers
+
+Meeting: Sep 09, 2014 - Regular Meeting - 7:00 p.m.*
+Date: 2014-09-09
+Category: 9. Business Office Matters
+Subject: 9.3 Budget Transfers
+Type: Action (Consent)
+
+Budget Transfer 14/15-02
+
+				Debit   A1310-160 (non-instructional salaries)
+
+				$17,580
+
+				Credit  A1620-490 (Boces-Safe Schools)
+
+				$11,160
+
+				Credit  A1620-490-00-0001 (Boces - Crisis Planning)
+
+				$6,420
+
+	This transfer is to cover expenses for BOCES - Safe Schools and Crisis Management.
+
+	Budget Transfer 14/15-03
+
+				Debit A1010-490 (BOE - Boces)
+
+				$10,750
+
+				Debit A2250-490 (Boces-Spec. Ed Tuition)
+
+					$3,322
+
+				Debit A2110-490 -40-7001 (Boces - Data Warehousing)
+
+				$17,150
+
+				Debit A2630-490-40-6000 (Computer-Dist. Tech.)
+
+				$16,102
+
+				Credit A1680-490 (Boces- Central Data Processing)
+
+				$47,324
+
+				Debit A2010-490 ( Curr. Boces)
+
+				$5,400
+
+				Credit A2630-490-40-6000 (Computer - Dist. Tech)
+
+				$5,400
+
+	This Budget Transfer is for the reclassification of BOCES codes

@@ -1,0 +1,3 @@
+SOURCE https://www.irvingtonschools.org/site/Default.aspx?PageType=7&SiteID=9&IgnoreRedirect=true | DATE 2025-08-03 | TITLE Sign In
+
+You can use this site without being registered or signing in, but registered users who sign in may have access to additional features and information. Please remember that your password is case-sensitive.

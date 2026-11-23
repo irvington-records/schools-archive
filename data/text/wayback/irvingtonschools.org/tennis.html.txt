@@ -1,0 +1,19 @@
+SOURCE http://www.irvingtonschools.org:80/tennis.html | DATE 2002-12-30 | TITLE Tennis
+
+Varsity/Junior Varsity Sports Fall 2002
+Varsity Coach: Gina Maher
+| DATE | OPPONENT | TIME | 
+| Sept. 10 | at Hastings | 4:30 PM | 
+| Sept. 13 | Pleasantville | 4:30 PM | 
+| Sept. 17 | Dobbs Ferry | 4:30 PM | 
+| Sept. 18 | at Croton-Harmon | 4:30 PM | 
+| Sept. 20 | at Westlake | 4:30 PM | 
+| Sept. 25 | Briarcliff | 4:30 PM | 
+| Sept. 27 | Hastings | 4:30 PM | 
+| Sept. 30 | at Pleasantville | 4:30 PM | 
+| Oct. 1 | at Keio Academy | 4:30 PM | 
+| Oct. 2 | at Dobbs Ferry | 4:30 PM | 
+| Oct. 4 | Croton-Harmon | 4:30 PM | 
+| Oct. 7 | Westlake | 4:30 PM | 
+| Oct. 9 | Bronxville | 4:30 PM | 
+| Oct. 11 | at Briarcliff | 4:30 PM |

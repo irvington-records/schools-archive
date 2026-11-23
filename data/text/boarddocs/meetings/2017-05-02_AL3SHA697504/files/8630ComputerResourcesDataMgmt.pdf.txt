@@ -1,0 +1,92 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/pfiles/ALSK624F4ECC/$file/8630ComputerResourcesDataMgmt.pdf | DATE: 2017-05-02 | TITLE: Public Hearing/Regular Meeting* | 9.6 #8630 - Computer Resources & Data Management (New) | 8630ComputerResourcesDataMgmt.pdf
+
+DRAFT
+5/2/17 - 2nd Read
+                                                                                                8630
+
+                                                                                      (X) Local
+
+                 COMPUTER RESOURCES AND DATA MANAGEMENT
+
+        The Board of Education recognizes that the district depends upon computers as an
+integral part of administering and managing the district’s’ resources, including the compilation
+of data and recordkeeping for personnel, students, finances, supplies and materials. This policy
+outlines the Boards expectations in regard to these different aspects of the district’s computer
+resources, which include all devices that process data, including but not limited to desktops,
+laptops, fax machines, copiers, printers and scanners.
+
+General Provisions
+
+        The Superintendent shall be responsible for designating a Technology Coordinator who
+will oversee the use of district computer resources. The Technology Coordinator will prepare in-
+service programs for the training and development of district staff in computer skills, appropriate
+use of computers and for the incorporation of computer use in subject areas.
+
+         The Superintendent, working in conjunction with the designated purchasing agent for the
+district, Administration and the Technology Coordinator, will be responsible for the purchase
+and distribution of computer software and hardware throughout the schools. They shall prepare
+and submit for the Board’s approval a comprehensive multi-year technology plan which shall be
+revised as necessary to reflect changing technology and/or district needs. Disposal and inventory
+of computer resources will follow established financial policy.
+
+        The Superintendent, working with the Technology Coordinator, shall establish
+regulations governing the use and security of the district’s computer resources (computer
+resources include all devices that process data, including but not limited to desktops, laptops, fax
+machines, copiers, printers and scanners). The security and integrity of the district computer
+network and data is a serious concern to the Board and the district will make every reasonable
+effort to maintain the security of the system. All users of the district’s computer resources shall
+comply with this policy and regulation, as well as the district’s policy 4526, Computer Use in
+Instruction. Failure to comply may result in disciplinary action, as well as suspension and/or
+revocation of computer access privileges.
+
+         All users of the district’s computer resources must understand that use is a privilege, not a
+right, and that use entails responsibility. Users of the district’s computer network must not
+expect, nor does the district guarantee, privacy for electronic mail (e-mail) or any use of the
+district’s computer network. The district reserves the right to access and view any material
+stored on district equipment or any material used in conjunction with the district’s computer
+network.
+
+                                                                                         8630
+                                                                                         Page 2
+Management of Computer Records
+
+
+       The Board recognizes that since district data is managed by computer, it is critical to
+exercise appropriate control over computer records, including financial, personnel and student
+information. The Superintendent, working with the Technology Coordinator and the district’s
+business official, shall establish procedures governing management of computer records
+
+The procedures will address:
+
+             ●   passwords,
+             ●   system administration,
+             ●   separation of duties,
+             ●   remote access,
+             ●   encryption,
+             ●   user access and permissions appropriate to job titles and duties,
+             ●   data back-up (including archiving of e-mail),
+             ●   record retention, and
+             ●   disaster recovery plans and notification plans.
+
+       If the district contracts with a third-party vendor for computing services, the
+Superintendent, in consultation with the Technology Coordinator, will ensure that all agreements
+address the procedures listed above, as applicable.
+
+Review and Dissemination
+
+        Since computer technology is a rapidly changing area, it is important that this policy be
+reviewed periodically by the Board and the district’s internal and external auditors. The
+regulation governing appropriate computer use will be distributed annually to staff and students
+and will be included in both employee and student handbooks.
+
+Cross-ref:       1120, School District Records
+                 4526, Computer Use for Instruction
+                 4526.1, Internet Safety
+                 5500, Student Records
+                 6600, Fiscal Accounting and Reporting
+                 6700, Purchasing
+                 6900, Disposal of District Property
+                 8635, Information Security Breach and Notification
+
+Adoption date:
+

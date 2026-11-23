@@ -1,0 +1,30 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/pfiles/98KJUR4C8564/$file/2013-14IrvingtonBidAnalysis.xls | DATE: 2013-06-18 | TITLE: Special Meeting - *7:30 p.m. | 10.8 Bid Award - School Lunch Program Management Services | 2013-14IrvingtonBidAnalysis.xls
+
+--- sheet Bid Price ---
+Irvington Union Free School District Food Service Bid Analysis  June 10, 2013			
+	Admin Fee	Direct Cost	Total Per Meal Cost
+Aramark Education    	0.2141	2.7295	2.9436
+Whitson's Sch Nutrition       	0.2631	3.0571	3.3202000000000003
+--- sheet Summary ---
+Irvington Union Free School District Food Service Bid Analysis  June 10, 2013					
+	ARAMARK	Percent		Whitsons	Percent
+Projections	2013-14			2013-14	
+Full & Reduced Price Lunch Sales	287772.6			154302.0	
+Student & Adult A la carte	208972.0			437873.0	
+Fed & State Reimbursements	70620.99			57241.0	
+Total Est District Revenue	567365.59			649416.0	
+Total Meals Projected	155022.0			184118.0	
+Sub Total Contractors Revenue	456322.7592	1.0		611308.5836	1.0
+Total Contractors Revenue	456322.7592			611308.5836	
+Food Cost	135446.0	0.29682061056401504		219101.0	0.3584130926310782
+Labor Cost	264063.0	0.5786759364423129		295959.0	0.4841401019712428
+Miscellaneous	23625.47	0.05177359560460863		47811.0	0.07821090899532397
+Sub Total Costs	423134.47	0.9272701426109364		562871.0	0.9207641035976449
+Admin Fee FSMC Profit	33188.2892	0.07272985738906358		48441.4458	0.07924221432443829
+Estimated  Return to Irvington UFSD	111042.8308			38107.41639999999	
+Food Cost Per Meal	0.8737211492562346			1.1900031501537058	
+Labor Cost per Meal	1.7033904865115919			1.6074419665649202	
+Misc Cost per Meal	0.15240075602172595			0.2596758600462747	
+Admin Service Fee per Meal	0.21408760821044753			0.2631	
+Total Cost per meal	2.9435999999999996			3.320220976764901	
+

@@ -1,0 +1,12 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/goto?open&id=DMPP5262DD8A | DATE: 2025-10-28 | TITLE: Regular Meeting | 13.6 Appointment of Coaches
+
+Meeting: Oct 28, 2025 - Regular Meeting
+Date: 2025-10-28
+Category: 13. Personnel Matters
+Subject: 13.6 Appointment of Coaches
+Type: Action (Consent)
+
+First Name	Last Name	Sport	Level	Season	Group	Step	Stipend
+Tony	Hastings	Basketball (Boys)	Junior Varsity Head	Winter	1	2	$5,830
+Cole	Giancuzzi	Basketball (Girls)	Junior Varsity Head	Winter	1	1	$5,789
+Kathleen	Tetro	Basketball (Girls)	Modified Head	Winter	1	8	$5,208

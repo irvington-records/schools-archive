@@ -1,0 +1,195 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/pfiles/9KJLJ956A09C/$file/Internet%20Safetyandreg%201st%20read.pdf | DATE: 2014-06-03 | TITLE: Regular Meeting - 7:30 p.m.* | 8.1 Policy/Regulation: Internet Safety (New) | Internet Safetyandreg 1st read.pdf
+
+DRAFT                                          2014               5696
+1st Read – 6/3/14                                                 Non-Instructional/
+                                                                  Business Operations
+
+
+
+SUBJECT:       INTERNET SAFETY                                                                 Formatted: Left
+
+
+         The Board of Education is committed to undertaking efforts that serve to make
+safe for children the use of district technology for access to the Internet and World Wide
+Web and district network. To this end, although unable to guarantee that any selected
+filtering and blocking technology will work perfectly, the Board directs the
+Superintendent of Schools to procure and implement the use of technology protection
+measures that block or filter Internet access by:
+
+   adults to visual depictions that are obscene or child pornography, and
+   minors to visual depictions that are obscene, child pornography, or harmful to
+    minors, as defined in the Children’s Internet Protection Act.
+
+        Subject to staff supervision, however, any such measures may be disabled or
+relaxed for adults conducting bona fide research or other lawful purposes, in accordance
+with criteria established by the Superintendent or his or her designee.
+
+        The Superintendent or his or her designee also shall develop and implement
+procedures that provide for the safety and security of students using electronic mail, chat
+rooms, and other forms of direct electronic communications; monitoring the online
+activities of students using district computers; and restricting student access to materials
+that are harmful to minors.
+
+       In addition, the Board prohibits the unauthorized disclosure, use and
+dissemination of personal information regarding students; unauthorized online access by
+students, including hacking and other unlawful activities; and access by students to
+inappropriate matter on the Internet and World Wide Web. The Superintendent or his or
+her designee shall establish and implement procedures that enforce these restrictions.
+
+        The Technology Coordinator designated under the district’s policy on the
+acceptable use of district computers (policy 3160) shall monitor and examine all district
+computer network activities to ensure compliance with this policy and accompanying
+regulation. He or she also shall be responsible for ensuring that staff and students receive
+training on their requirements.
+
+       All users of the district’s computer network, including access to the Internet and
+World Wide Web, must understand that use is a privilege, not a right, and that any such
+use entails responsibility. They must comply with the requirements of this policy and
+accompanying regulation, in addition to generally accepted rules of network etiquette,
+and the district’s policy on the acceptable use of computers and the internet (policy
+
+3160). Failure to comply may result in disciplinary action including, but not limited to,
+the revocation of computer access privileges.
+
+As part of this policy, and the district’s policy on acceptable use of district computers
+(policy 3160), the district shall also provide age-appropriate resources for appropriate
+online behavior, including: interacting with other individuals on social networking sites
+and in chat rooms, and cyber-bullying awareness and response.
+
+        Resources will be provided even if the district prohibits students from accessing
+social networking sites or chat rooms on district computers.
+
+
+Cross-ref:       3160, Computer Use in Instruction
+
+Ref:   Children’s Internet Protection Act, Public Law No. 106-554
+       Broadband Data Services Improvement Act/ Protecting Children in the 21st
+       Century Act, Public Law No. 110-385
+       47 USC §254
+       20 USC §6777
+
+Adoption date:
+
+                                                                          5696R
+
+INTERNET SAFETY REGULATION
+
+
+        The following rules and regulations implement the Internet Safety Policy adopted
+by the Board of Education to make safe for children the use of district technology for
+access to the Internet and World Wide Web and the district’s network.
+
+
+I.     Definitions
+
+       In accordance with the Children’s Internet Protection Act,
+
+
+          Child pornography refers to any visual depiction, including any photograph,
+           film, video, picture or computer or computer generated image or picture,
+           whether made or produced by electronic, mechanical, or other means, of
+           sexually explicit conduct, where the production of such visual depiction
+           involves the use of a minor engaging in sexually explicit conduct. It also
+           includes any such visual depiction that (a) a digital image, computer image,
+           or computer-generated image that is, or is indistinguishable from, that of a
+           minor engaging in sexually explicit conduct; or (b) has been created, adapted
+           or modified to appear that an identifiable minor is engaging in sexually
+           explicit conduct..
+          Harmful to minors means any picture, image, graphic image file, or other
+           visual depiction that (a) taken as a whole and with respect to minors, appeals
+           to a prurient interest in nudity, sex, or excretion; (b) depicts, describes or
+           represents, in a patently offensive way with respect to what is suitable for
+           minors, an actual or simulated sexual act or sexual contact, actual or
+           simulated normal or perverted sexual acts, or a lewd exhibition of the
+           genitals; and (c) taken as a whole, lacks serious literary, artistic, political, or
+           scientific value as to minors.                                                        Comment [KH1]: Concern regarding the board
+                                                                                                 defining what child pornography is or what harmful
+                                                                                                 may mean.... the attorney states that this language
+                                                                                                 must be included
+II.    Blocking and Filtering Measures
+
+          The Superintendent or his or her designee shall secure information about, and
+           ensure the purchase or provision of, a technology protection measure that
+           blocks access from all district technology to visual depictions on the Internet
+           and World Wide Web and district network that are obscene, child
+           pornography or harmful to minors.
+
+                                                                                 4526.1-R
+
+
+          The district’s Technology Coordinator shall be responsible for ensuring the
+           installation and proper use of any Internet blocking and filtering technology
+           protection measure obtained by the district.
+          The Technology Coordinator or his or her designee may disable or relax the
+           district’s Internet blocking and filtering technology measure only for adult
+           staff members conducting research related to the discharge of their official
+           responsibilities.
+          The computer network coordinator shall monitor the online activities of adult
+           staff members for whom the blocking and filtering technology measure has
+           been disabled or relaxed to ensure there is not access to visual depictions that
+           are obscene, child pornography, otherwise harmful to minors.
+
+III.   Monitoring of Online Activities
+
+          The district’s Technology Coordinator shall be responsible for monitoring to
+           ensure that the online activities of staff and students are consistent with the
+           district’s Internet Safety Policy and this regulation. He or she may inspect,
+           copy, review, and store at any time, and without prior notice, any and all
+           usage of the district’s computer network for accessing the Internet and World
+           Wide Web and direct electronic communications, as well as any and all
+           information transmitted or received during such use. All users of the district’s
+           computer network shall have no expectation of privacy regarding any such
+           materials.
+          Except as otherwise authorized under the district’s Computer Network or
+           Acceptable Use Policy, students may use the district’s computer network to
+           access the Internet and World Wide Web only during supervised class time,
+           study periods or at the school library, and exclusively for research related to
+           their course work.
+          Staff supervising students using district technology shall help to monitor
+           student online activities to ensure students access the Internet and World
+           Wide Web and the district’s network, and/or participate in authorized forms of
+           direct electronic communications in accordance with the district’s Internet
+           Safety Policy and this regulation.
+          The district’s Technology Coordinator shall make reasonable effort to
+           monitor student online activities to ensure students are not engaging in
+           hacking (gaining or attempting to gain unauthorized access to other
+           computers or computer systems), and other unlawful activities.
+
+IV.    Training
+
+          The district’s Technology Coordinator shall provide resources to staff and
+           students on the requirements of the Internet Safety Policy and this regulation
+           at the beginning of each school year.
+          The training of staff and students shall highlight the various activities
+           prohibited by the Internet Safety Policy, and the responsibility of staff to
+           monitor student online activities to ensure compliance therewith.
+          The district shall provide age-appropriate resources/instruction to students
+           regarding appropriate online behavior. Such instruction shall include, but
+           not be limited to: positive interactions with others online, including on social
+           networking sites and in chat rooms; proper online social etiquette; protection
+           from online predators and personal safety; and how to recognize and respond
+           to cyberbullying and other threats.                                                Comment [KH2]: Concern about the obligation
+       
+                                                                                              to define all that should or should not be appropriate.
+           Students shall be directed to consult with their classroom teacher if they are     Our Code-of-Conduct already addresses much of
+           unsure whether their contemplated activities when accessing the Internet or        this. However, the attorney indicated that this
+                                                                                              statement must be included.
+           Worldwide Web or district’s network are directly related to their course work.
+          Staff and students will be advised to not disclose, use and disseminate
+           personal information about students when accessing the Internet or engaging
+           in authorized forms of direct electronic communications.
+          Staff and students will also be informed of the range of possible consequences
+           attendant to a violation of the Internet Safety Policy and this regulation.
+
+V.     Reporting of Violations
+
+          Violations of the Internet Safety Policy and this regulation by students and
+           staff shall be reported to the Building Principal.
+          The Principal shall take appropriate corrective action in accordance with
+           authorized disciplinary procedures.
+          Penalties may include, but are not limited to, the revocation of computer
+           access privileges, as well as school suspension in the case of students and
+           disciplinary charges and law enforcement referrals in the case of teachers.
+
+Adoption date:
+

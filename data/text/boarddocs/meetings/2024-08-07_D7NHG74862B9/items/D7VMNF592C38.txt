@@ -1,0 +1,14 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/goto?open&id=D7VMNF592C38 | DATE: 2024-08-07 | TITLE: Special Meeting - 7:45 am* | 5.2 Budget transfers
+
+Meeting: Aug 07, 2024 - Special Meeting - 7:45 am*
+Date: 2024-08-07
+Category: 5. Business of the Board
+Subject: 5.2 Budget transfers
+Type: Action (Consent)
+
+Transfer to the Judgement and Claims budget code from various BOCES budget codes.
+
+$ Amount	 	Transfer Out-Account Code	Transfer In-Account Code
+$ 360,000	A2250-490-00-0000	A1930-400-00-0000
+$180,000	A2280-490-00-0000	A1930-400-00-0000
+$ 60,000	A2250-490-00-2250	A1930-400-00-0000

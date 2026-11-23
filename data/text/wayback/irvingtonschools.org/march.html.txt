@@ -1,0 +1,127 @@
+SOURCE http://www.irvingtonschools.org:80/march.html | DATE 1999-10-10 | TITLE march.html
+
+<TABLE BORDER CELLSPACING=2 BORDERCOLOR="#000000" CELLPADDING=2 WIDTH=959>
+<TR><TD WIDTH="29%" VALIGN="MIDDLE" COLSPAN=2 HEIGHT=76>
+<P ALIGN="CENTER"><B><FONT SIZE=5>1999</B></FONT></TD>
+<TD WIDTH="43%" VALIGN="MIDDLE" COLSPAN=3 HEIGHT=76>
+<I><FONT SIZE=7><P ALIGN="CENTER">March</I></FONT></TD>
+<TD WIDTH="29%" VALIGN="MIDDLE" COLSPAN=2 HEIGHT=76>
+<B><FONT SIZE=5><P ALIGN="CENTER">1999</B></FONT></TD>
+</TR>
+<TR><TD WIDTH="14%" VALIGN="MIDDLE" HEIGHT=35>
+<B><P ALIGN="CENTER">Sunday</B></TD>
+<TD WIDTH="14%" VALIGN="MIDDLE" HEIGHT=35>
+<B><P ALIGN="CENTER">Monday</B></TD>
+<TD WIDTH="14%" VALIGN="MIDDLE" HEIGHT=35>
+<B><P ALIGN="CENTER">Tuesday</B></TD>
+<TD WIDTH="14%" VALIGN="MIDDLE" HEIGHT=35>
+<B><P ALIGN="CENTER">Wednesday</B></TD>
+<TD WIDTH="14%" VALIGN="MIDDLE" HEIGHT=35>
+<B><P ALIGN="CENTER">Thursday</B></TD>
+<TD WIDTH="14%" VALIGN="MIDDLE" HEIGHT=35>
+<B><P ALIGN="CENTER">Friday</B></TD>
+<TD WIDTH="14%" VALIGN="MIDDLE" HEIGHT=35>
+<B><P ALIGN="CENTER">Saturday</B></TD>
+</TR>
+<TR><TD WIDTH="14%" VALIGN="TOP" HEIGHT=115>
+<FONT SIZE=1><P>&nbsp;</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=115>
+<FONT SIZE=1><P>&nbsp;</P>
+<P>1 </FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=115>
+<FONT SIZE=1><P>2 </FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=115>
+<FONT SIZE=1><P>3 Inter-Village Continuing Education In-Person Registration 7 - 8:30 pm </P>
+<P>Dobbs Ferry HS</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=115>
+<FONT SIZE=1><P>4 Snowdate - Inter-Village Continuing Education </P>
+<P>In-Person Registration</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=115>
+<FONT SIZE=1><P>5 </FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" BGCOLOR="#ffffff" HEIGHT=115>
+<FONT SIZE=1><P>6 IHS Self-Esteem Academy Awards Program 8 pm IHS Auditorium (Parents Invited)</FONT></TD>
+</TR>
+<TR><TD WIDTH="14%" VALIGN="TOP" BGCOLOR="#ffffff" HEIGHT=115>
+<FONT SIZE=1><P>7 </FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=115>
+<FONT SIZE=1><P>8 IHS Spring Sports Begin</P>
+<P>DL Parent Teacher Conferences Early Dismissal </P>
+<P>Grades 3 - 5 11:30 am </P>
+<P>Grades 1 - 2 Noon</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=115>
+<FONT SIZE=1><P>9 IMS Site Committee Meeting 3:45 - 5:15 pm</P>
+<P>Board Public Meeting</P>
+<P>7:30 pm IMS Auditorium</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=115>
+<FONT SIZE=1><P>10 I.E.F. Meeting </P>
+<P>7:45 pm IMS Library</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=115>
+<FONT SIZE=1><P>11 </FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=115>
+<FONT SIZE=1><P>12 </FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" BGCOLOR="#ffffff" HEIGHT=115>
+<FONT SIZE=1><P>13 </FONT></TD>
+</TR>
+<TR><TD WIDTH="14%" VALIGN="TOP" BGCOLOR="#ffffff" HEIGHT=115>
+<FONT SIZE=1><P>14 </FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=115>
+<FONT SIZE=1><P>15 PTSA International Week Begins DL</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=115>
+<FONT SIZE=1><P>16 </FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=115>
+<FONT SIZE=1><P>17 IHS Interim Reports</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=115>
+<FONT SIZE=1><P>18 P.A.C. 9:15 am DL</P>
+<P>IHS Site Committee Meeting 3:30 - 5 pm</P>
+<P>Nominating Petitions for Board Candidates Available</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=115>
+<FONT SIZE=1><P>19 PTSA International Week Ends DL</P>
+<P>Elementary All-County Band &amp; Orchestra Rehearsal 2:30 pm</P>
+<P>Site to be determined</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" BGCOLOR="#ffffff" HEIGHT=115>
+<FONT SIZE=1><P>20 S.A.T. I only</P>
+<P>Elementary All-County Concert 2 pm Site to be determined</FONT></TD>
+</TR>
+<TR><TD WIDTH="14%" VALIGN="TOP" BGCOLOR="#ffffff" HEIGHT=115>
+<FONT SIZE=1><P>21 </FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=115>
+<FONT SIZE=1><P>22 IMS Interim Reports</P>
+<P>Modified Spring Sports Begin</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=115>
+<FONT SIZE=1><P>23 Board Public Meeting</P>
+<P>7:30 pm </P>
+<P>IMS Auditorium </P>
+<P>DL Parent Teacher Conferences Early Dismissal </P>
+<P>Grades 3 - 5 11:30 am </P>
+<P>Grades 1 - 2 Noon</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=115>
+<FONT SIZE=1><P>24 </FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=115>
+<FONT SIZE=1><P>25 Grades 10 &amp; 11 College Information Program</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=115>
+<FONT SIZE=1><P>26 Registration Deadline for May 1 S.A.T. I &amp; S.A.T. II</P>
+<P>Y.A.C. Staff/Student Volleyball Game DL</P>
+<P>PTSA/DL Bingo </P>
+<P>7:30 pm</FONT></TD>
+<TITLE>March ~ 1999</TITLE>
+<TD WIDTH="14%" VALIGN="TOP" BGCOLOR="#ffffff" HEIGHT=115>
+<FONT SIZE=1><P>27 </FONT></TD>
+</TR>
+<TR><TD WIDTH="14%" VALIGN="TOP" BGCOLOR="#ffffff" HEIGHT=115>
+<FONT SIZE=1><P>28 </FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" BGCOLOR="#ffffff" HEIGHT=115>
+<FONT SIZE=1><P>29 SPRING RECESS</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" BGCOLOR="#ffffff" HEIGHT=115>
+<FONT SIZE=1><P>30 </FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" BGCOLOR="#ffffff" HEIGHT=115>
+<FONT SIZE=1><P>31 </FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=115>
+<FONT SIZE=1><P>&nbsp;</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=115>
+<FONT SIZE=1><P>&nbsp;</P>
+<P>&nbsp;</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=115>
+<FONT SIZE=1><P>&nbsp;</P>
+<P>&nbsp;</FONT></TD>
+</TR>
+</TABLE>

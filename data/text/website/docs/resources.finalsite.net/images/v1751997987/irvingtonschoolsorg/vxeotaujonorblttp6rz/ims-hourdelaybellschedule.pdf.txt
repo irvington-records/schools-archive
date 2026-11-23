@@ -1,0 +1,18 @@
+SOURCE https://ims.irvingtonschools.org/fs/resource-manager/view/806718eb-d8c5-458f-8085-1abbf2584291 | DATE 2025-07-08 | TITLE ims-hourdelaybellschedule.pdf
+
+I.M.S.
+
+        Two Hour Delay Bell Schedule
+
+
+Period                 Time​_________
+  1*                     10:33 – 11:05
+  2                      11:08 – 11:36
+  3                      11:39 – 12:07
+  4                      12:10 – 12:42
+  5                      12:45 – 1:14
+  6                      1:17 – 1:46
+  7                      1:49 – 2:18
+  8                      2:21 – 2:49
+9                      2:52 – 3:20
+*Period 1 includes 5 minutes for Homeroom.

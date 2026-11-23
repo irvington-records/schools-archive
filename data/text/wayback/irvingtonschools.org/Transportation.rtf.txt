@@ -1,0 +1,41 @@
+SOURCE http://irvingtonschools.org:80/Transportation.rtf | DATE 2005-02-14 | TITLE Transportation.rtf
+
+Transportation Schedule for 2004-05
+
+
+
+
+School
+Arrive
+Start Day
+End Day
+Depart
+High School
+7:30
+7:45
+2:33
+2:40
+Middle
+8:15
+8:28
+3:13
+3:20
+Main
+8:40
+8:50
+3:10
+3:20
+Dows K-3
+8:00
+8:10
+2:30
+2:40
+
+
+
+
+
+
+
+
+.

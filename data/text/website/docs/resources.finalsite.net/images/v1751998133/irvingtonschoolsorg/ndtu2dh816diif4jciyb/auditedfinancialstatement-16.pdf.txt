@@ -1,0 +1,2962 @@
+SOURCE https://www.irvingtonschools.org/fs/resource-manager/view/f6c89389-0962-4eb2-9fe8-b54fb24b8536 | DATE 2025-07-08 | TITLE auditedfinancialstatement-16.pdf
+
+Irvington Union Free School District
+        Financial Statements
+                as of
+            June 30, 2016
+            Together with
+     Independent Auditor‘s Report
+                                                                  CONTENTS
+
+                                                                                                                                            Page
+
+INDEPENDENT AUDITOR’S REPORT .....................................................................................                           1-2
+
+REQUIRED SUPPLEMENTARY INFORMATION
+
+   Management’s Discussion and Analysis (Unaudited) ...........................................................                             3-13
+
+BASIC FINANCIAL STATEMENTS
+
+   Statement of net position ........................................................................................................        14
+
+   Statement of activities and changes in net position...............................................................                        15
+
+   Balance sheets – Governmental funds and reconciliation of total governmental
+     fund balance to government wide net position...................................................................                         16
+
+   Statements of revenue, expenditures, and changes in fund balance – Governmental funds                                                     17
+
+   Reconciliation of the statements of revenue, expenditures, and changes in fund balance to                                                 18
+    the statement of activities
+
+   Statement of net position - Fiduciary funds ............................................................................                  19
+
+   Statement of changes in net position - Fiduciary funds.........................................................                           20
+
+   Notes to financial statements..................................................................................................          21-48
+
+REQUIRED SUPPLEMENTARY INFORMATION (Unaudited)
+
+   Schedule of revenue, expenditures, and changes in fund balance – Budget and actual -
+    General fund.........................................................................................................................   49-50
+
+   Schedule of funding progress – other post-employment benefit plans.................................                                       51
+
+   Schedule of proportionate share of net pension liability (asset)............................................                              52
+
+   Schedule of contributions – pension plans.............................................................................                    53
+
+OTHER INFORMATION (Unaudited)
+
+   Schedule of change from original budget to revised budget and use of
+    unassigned fund balance – General fund ...........................................................................                       54
+   Section 1318 of Real Property tax law limit calculation .........................................................                         54
+
+   Schedule of project expenditures - Capital projects fund ......................................................                           55
+
+   Schedule of net investment in capital assets .........................................................................                    56
+
+Independent auditor’s report on internal control over financial reporting and
+   on compliance and other matters based on an audit of basic financial statements
+     performed in accordance with Government Auditing Standards.......................................                                      57-58
+                         INDEPENDENT AUDITOR’S REPORT
+
+                         October 13 2016
+
+                         The Board of Education of
+                            Irvington Union Free School District:
+
+                         Report on the Financial Statements
+                         We have audited the accompanying financial statements of the governmental
+                         activities, each major fund and the aggregate remaining fund information of the
+                         Irvington Union Free School District (District) as of and for the year ended June
+                         30, 2016, and the related notes to the financial statements, which collectively
+                         comprise the District’s basic financial statements as listed in the table of
+                         contents.
+
+                         Management’s Responsibility for the Financial Statements
+                         Management is responsible for the preparation and fair presentation of these
+                         financial statements in accordance with accounting principles generally accepted
+                         in the United States of America; this includes the design, implementation, and
+                         maintenance of internal control relevant to the preparation and fair presentation
+                         of financial statements that are free from material misstatement, whether due to
+                         fraud or error.
+
+                         Auditor’s Responsibility
+                         Our responsibility is to express opinions on these financial statements based on
+                         our audit. We conducted our audit in accordance with auditing standards
+                         generally accepted in the United States of America and the standards applicable
+                         to financial audits contained in Government Auditing Standards, issued by the
+                         Comptroller General of the United States. Those standards require that we plan
+                         and perform the audit to obtain reasonable assurance about whether the financial
+                         statements are free from material misstatement.
+                         An audit involves performing procedures to obtain audit evidence about the
+                         amounts and disclosures in the financial statements. The procedures selected
+                         depend on the auditor’s judgment, including the assessment of the risks of
+                         material misstatement of the financial statements, whether due to fraud or error.
+                         In making those risk assessments, the auditor considers internal control relevant
+                         to the entity’s preparation and fair presentation of the financial statements in
+                         order to design audit procedures that are appropriate in the circumstances, but
+                         not for the purpose of expressing an opinion on the effectiveness of the entity’s
+                         internal control. Accordingly, we express no such opinion. An audit also includes
+                         evaluating the appropriateness of accounting policies used and the
+                         reasonableness of significant accounting estimates made by management, as
+                         well as evaluating the overall presentation of the financial statements.
+                         We believe that the audit evidence we have obtained is sufficient and appropriate
+                         to provide a basis for our audit opinions.
+    6 Wembley Court      Opinions
+Albany, New York 12205   In our opinion, the financial statements referred to above present fairly, in all
+   p (518) 464-4080
+   f (518) 464-4087      material respects, the respective financial position of the governmental activities,
+                         each major fund and the aggregate remaining fund information of the Irvington
+   www.bonadio.com       Union Free School District, as of June 30, 2016, and the respective changes in
+                         financial position thereof for the year then ended in accordance with accounting
+                         principles generally accepted in the United States of America.
+
+
+                                                             (Continued)
+
+
+                                                                    1
+     ALBANY • BATAVIA • BUFFALO • E AST AURORA • GENE VA • NYC • RO CHESTER • RUTL AND, V T • SYRACUSE • UTICA
+INDEPENDENT AUDITOR’S REPORT (Continued)
+
+Other Matters
+
+Required Supplementary Information
+Accounting principles generally accepted in the United States of America require that the
+management’s discussion and analysis, budgetary comparison information, schedule of funding
+progress – other post-employment benefit plans, schedule of proportionate share of net pension
+liability (asset), and schedule of contributions – pension plans on pages 3 through 13 and 49 through
+53 be presented to supplement the basic financial statements. Such information, although not a part
+of the basic financial statements, is required by the Governmental Accounting Standards Board, who
+considers it to be an essential part of financial reporting for placing the basic financial statements in
+an appropriate operational, economic, or historical context. We have applied certain limited
+procedures to the required supplementary information in accordance with auditing standards
+generally accepted in the United States of America, which consisted of inquiries of management
+about the methods of preparing the information and comparing the information for consistency with
+management’s responses to our inquiries, the basic financial statements, and other knowledge we
+obtained during our audit of the basic financial statements. We do not express an opinion or provide
+any assurance on the information because the limited procedures do not provide us with sufficient
+evidence to express an opinion or provide any assurance.
+
+Other Information
+Our audit was conducted for the purpose of forming opinions on the financial statements that
+collectively comprise the District’s basic financial statements. The other information on pages 54
+through 56, as required by the New York State Education Department, which is the responsibility of
+management, is presented for purposes of additional analysis and is not a required part of the basic
+financial statements.
+
+The other information included on pages 54 through 56 has not been subjected to the auditing
+procedures applied in the audit of the basic financial statements and, accordingly, we do not express
+an opinion or provide any assurance on them.
+
+Other Reporting Required by Government Auditing Standards
+In accordance with Government Auditing Standards, we have also issued our report dated October
+13, 2016 on our consideration of the District’s internal control over financial reporting and on our
+tests of its compliance with certain provisions of laws, regulations, contracts, and grant agreements
+and other matters. The purpose of that report is to describe the scope of our testing of internal
+control over financial reporting and compliance and the results of that testing, and not to provide an
+opinion on internal control over financial reporting or on compliance. That report is an integral part of
+an audit performed in accordance with Government Auditing Standards in considering the District’s
+internal control over financial reporting and compliance.
+
+
+
+
+                                                   2
+IRVINGTON UNION FREE SCHOOL DISTRICT
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS (UNAUDITED)
+JUNE 30, 2016
+
+
+The following is a discussion and analysis of the School District’s financial performance for the fiscal
+year ended June 30, 2016. The section is a summary of the School District’s financial activities based
+on currently known facts, decisions, or conditions. It is also based on both the government-wide and
+fund-based financial statements. The results of the current year are discussed, as well as a
+comparative analysis to prior year information. This section is only an introduction and should be read
+in conjunction with the School District’s financial statements, which immediately follow this section.
+
+1.           FINANCIAL HIGHLIGHTS
+
+             New York State Law limits the unassigned fund balance that can be retained by the General
+              Fund to 4% of the ensuing year’s budget, exclusive of the amount designated for the
+              subsequent year’s budget. As of June 30, 2016, the total fund balance of the General Fund
+              was $6,080,771. Of this amount, $1,166,386 has been assigned (designated) for
+              subsequent year’s expenditures. The unassigned fund balance is $2,333,200 which
+              represents 4% of the subsequent year’s budget and therefore, falls within the 4% statutory
+              limit. This amount is available for spending at the discretion of the School District. The
+              remainder of the fund balance of $2,581,185 has been restricted for specific purposes.
+
+             On May 17, 2016 the District’s residents authorized the proposed 2016-17 budget in the
+              amount of $58,330,000.
+
+             On October 27, 2015, the District issued $4.6 million of Capital Construction Serial Bonds.
+              The Board of Education authorized the issuance of these bonds, to finance the construction
+              of improvements to all district school buildings and/or sites, on December 15, 2014.
+
+2.       OVERVIEW OF THE FINANCIAL STATEMENTS
+
+This annual report consists of three parts: management’s discussion and analysis (this section), the
+basic financial statements, and required supplementary information. The basic financial statements
+include two kinds of statements that present different views of the District:
+
+            The first two statements are district-wide financial statements that provide both short-term and
+             long-term information about the District’s overall financial status.
+
+
+            The remaining statements are fund financial statements that focus on individual parts of the
+             District, reporting the School District’s operations in more detail than the entity-wide
+             statements.
+
+
+            The governmental fund statements tell how basic services such as regular and special
+             education were financed in the short-term, as well as what remains for future spending.
+
+
+
+
+                                                         3
+2.       OVERVIEW OF THE FINANCIAL STATEMENTS (Continued)
+
+        Fiduciary funds statements provide information about the financial relationships in which the
+         District acts solely as a trustee or agent for the benefit of others, including the employees of
+         the District.
+
+
+The financial statements also include notes that provide additional information about the financial
+statements and the balances reported. The statements are followed by a section of required
+supplementary information that further explains and supports the financial statements with a
+comparison of the District’s budget for the year.
+
+Table A-1          Major Features of the District-Wide and Fund Financial Statements
+
+Table A-1 summarizes the major features of the School District’s financial statements, including the
+portion of the School District’s activities that they cover and the types of information that they
+contain. The remainder of this overview section highlights the structure and contents of each
+statement.
+
+
+                                                                Fund Financial Statements
+                        District-Wide            Governmental Funds                Fiduciary Funds
+ Scope                  Entire District          The day-to-day operating          Instances in which the School
+                        (except fiduciary        activities of the School          District administers resources on
+                        funds)                   District, such as instruction     behalf of someone else, such as
+                                                 and special education.            scholarship programs and student
+                                                                                   activities monies.
+ Required financial     • Statement of net       • Balance sheet                   • Statement of fiduciary net
+ statements               position               • Statement of revenue,             position
+                        • Statement of             expenditures, and               • Statement of changes in fiduciary
+                          activities               changes in fund balance.          net position
+
+
+ Accounting basis       Accrual accounting       Modified accrual accounting        Accrual accounting and economic
+ and measurement        and economic             and current financial focus.       resources focus.
+ focus                  resources focus.
+ Type of                All assets, deferred     Assets, deferred                   All assets and liabilities, both short-
+ asset/deferred         inflows/outflows of      inflows/outflows of deferred       term and long-term; funds do not
+ inflows-outflows of    resources, and           resources, and liabilities that    currently contain capital assets,
+ resources/ liability   liabilities, both        come due during the year or        although they can.
+ information            financial and capital,   soon after; no capital assets
+                        short-term and long-     or long-term liabilities
+                        term debt                included
+ Type of inflow/out     All revenue and          Revenue for which cash is          All additions and deductions during
+ flow information       expenses during          received during or soon after      the year, regardless of when cash is
+                        year, regardless of      the end of the year;               received or paid.
+                        when cash is             expenditures when goods or
+                        received or paid.        services have been received
+                                                 and the related liability is due
+                                                 and payable.
+
+A.       District-Wide Statements
+
+The district-wide statements report information about the District as a whole using accounting
+methods similar to those used by private-sector companies. The statement of net position includes
+all of the District’s assets, deferred inflow/outflows of resources, and liabilities. All of the current
+year’s revenue and expenses are accounted for in the statement of activities regardless of when
+cash is received or paid.
+
+
+
+                                                            4
+2.   OVERVIEW OF THE FINANCIAL STATEMENTS (Continued)
+
+A.    District-Wide Statements (Continued)
+
+The two district-wide statements report the District’s net position and how they have changed. Net
+position – the difference between the District’s assets, deferred inflows/outflows of resources, and
+liabilities – are one way to measure the District’s financial health or position.
+
+•    Over time, increases or decreases in the District’s net position are an indicator of whether its
+     financial position is improving or deteriorating, respectively.
+
+•    For assessment of the overall health of the District, additional nonfinancial factors such as changes
+     in the property tax bases and the condition of buildings and other facilities should be considered.
+
+In the district-wide financial statements, the District’s activities are shown as Governmental activities.
+Most of the District’s basic services are included here, such as regular and special education,
+transportation, and administration. Property taxes and state formula aid finance most of these
+activities.
+
+Net position of the governmental activities differ from the governmental fund balance because
+governmental fund level statements only report transactions using or providing current financial
+resources. Also, capital assets are reported as expenditures when financial resources, (dollars), are
+expended to purchase or build such assets. Likewise, the financial resources that may have been
+borrowed are considered revenue when they are received. Principal and interest payments are
+considered expenditures when paid. Depreciation is not calculated as it does not provide or reduce
+current financial resources. Capital assets and long-term debt are accounted for in account groups
+and do not affect the fund balance.
+
+District-wide statements use an economic resources measurement focus and full accrual basis of
+accounting that involves the following steps to prepare the statement of net position:
+
+        Capitalize current outlays for capital assets.
+
+        Report long-term debt as a liability.
+
+        Depreciate capital assets and allocate the depreciation to the proper function.
+
+        Calculate revenue and expense using the economic resources measurement focus and the
+         full accrual basis of accounting.
+
+        Allocate net position balances as follows:
+
+             o   Net investment in capital assets.
+
+             o   Restricted net position has constraints placed on use by external sources or imposed
+                 by law.
+
+             o   Unrestricted net position is net position that does not meet any of the above
+                 restrictions.
+
+
+
+
+                                                      5
+2.       OVERVIEW OF THE FINANCIAL STATEMENTS (Continued)
+
+B.       Fund Financial Statements
+
+The fund financial statements provide more detailed information about the School District’s funds –
+not the School District as a whole. Funds are accounting devices the School District uses to keep
+track of specific sources of funding and spending on particular programs. The funds have been
+established by the State of New York.
+
+The District has two kinds of funds:
+
+     •   Governmental Funds: Most of the School District’s basic services are included in governmental
+         funds, which generally focus on (1) how cash and other financial assets can readily be converted
+         to cash flow in and out and (2) the balances left at year-end that are available for spending.
+         Consequently, the governmental funds statements provide a detailed short-term view that helps
+         determine whether there are more or fewer financial resources that can be spent in the near
+         future to finance the School District’s programs. Because this information does not encompass
+         the additional long-term focus of the district-wide statements, additional information at the bottom
+         of the governmental funds statements explains the relationship (or differences) between them.
+         The governmental fund statements focus primarily on current financial resources and often have
+         a budgetary orientation. Governmental funds include the general fund, special aid fund, school
+         lunch fund, and the capital projects fund. Required financial statements are the balance sheet
+         and the statement of revenue, expenditures, and changes in fund balance.
+
+     •   Fiduciary Funds: The School District is the trustee, or fiduciary, for assets that belong to others,
+         such as the scholarship fund and the student activities funds. The School District is responsible
+         for ensuring that the assets reported in these funds are used only for their intended purposes
+         and by those to whom the assets belong. The School District excludes these activities from the
+         District-wide financial statements because it cannot use these assets to finance its operations.
+         Fiduciary fund reporting focuses on net position and changes in net position.
+
+
+
+
+                                                       6
+3. FINANCIAL ANALYSIS OF THE DISTRICT AS A WHOLE
+
+A. Net Position
+
+Table A-2          Condensed Statement of Net Position
+
+                                            Fiscal Year       Fiscal Year        Dollar          Percent
+                                               2016              2015            Change          Change
+Current and other assets                   $ 15,895,591     $ 13,994,251           1,901,340        13.6%
+Non-current assets                           55,371,750       57,362,859          (1,991,109)       -3.5%
+  Total assets                               71,267,341       71,357,110             (89,769)       -0.1%
+Deferred outflows of resources                 6,035,321         5,133,294          902,027         17.6%
+   Total Assets and Deferred Outflows         77,302,662        76,490,404          812,258          1.1%
+
+Current liabilities                            9,121,357         9,575,520          (454,163)        -4.7%
+Long-term liabilities                         89,949,920        84,686,251         5,263,669          6.2%
+   Total liabilities                          99,071,277        94,261,771         1,231,240         5.1%
+Deferred inflows of resources                  5,653,475        10,467,670        (4,814,195)      100.0%
+
+Net position:
+ Net investment in capital assets              3,797,137         7,263,965        (3,466,828)       -47.7%
+ Restricted                                    2,581,185         4,035,835        (1,454,650)       -36.0%
+ Unrestricted                                (33,800,412)      (39,538,839)        5,738,427        -14.5%
+    Total net position                       (27,422,090)      (28,239,039)         816,949          -2.9%
+Total Liabilities, Deferred Inflows of
+ Resources and Net Position                $ 77,302,662     $ 76,490,404           2,048,191         1.1%
+
+
+The current and other assets balance as of June 30, 2016 was $15,891,591. The increase of
+$1,901,340 over the prior year balance is primarily due to an increase in the cash balance.
+
+The non-current assets balance as of June 30, 2016 was $55,371,750. The decrease of $1,991,109
+over the prior year balance is due to: 1) a decrease in net Capital Assets due to depreciation and 2) a
+decrease in the District’s portion of net pension asset for the teachers’ retirement system (See Note 1
+for further discussion).
+
+The deferred outflows of resources increased over the prior year balance by $902,027 due to the
+required implementation of the new pension accounting and reporting Statement discussed in Note 1
+which requires the recording of various aspects of the District’s retirement plans’ in this financial
+statement category.
+
+The current liabilities balance as of June 30, 2016 was $9,121,357. The decrease of $454,165 over
+the prior year balance is mainly due to a decrease in accounts payable and accrued expenses offset
+by an increase in the current portion of long term debt.
+
+The deferred inflows of resources of $5,653,475 decreased by $4,814,195 over prior year due to the
+effects of the pension accounting and reporting Statement discussed in Note 1 which requires the
+recording of various aspects of the District’s retirement plans in this financial statement category.
+
+
+
+                                                  7
+3. FINANCIAL ANALYSIS OF THE DISTRICT AS A WHOLE (Continued)
+
+A. Net Position (Continued)
+
+Table A-2            Condensed Statement of Net Position (Continued)
+
+The net investment in capital asset, relates to the investment in capital assets at cost such as land,
+construction in progress, buildings and improvements, and machinery & equipment, net of
+depreciation and related debt. This decrease of $3,466,828 from year to year is due to depreciation
+of assets and decrease in premium on bonds payable.
+
+B. Changes in Net Position
+
+The results of operations as a whole are reported in the Statement of Activities and Changes in Net
+Position. The District’s net position increased by $816,949 in the fiscal year ended June 30, 2016. A
+summary for the years ended June 30, 2016 and 2015 is as follows:
+
+Table A-3            Changes in Net Position
+                                          Fiscal Year                 2015            Dollar        Percent
+                                             2016                  As Restated        Change        Change
+
+                Revenue
+Program Revenue:
+ Charges for services                     $    1,319,358       $      1,577,175   $     (257,817)   -16.3%
+ Operating grants                                643,605                668,417          (24,812)    -3.7%
+General revenues:
+ Real property taxes                          46,680,888             44,820,003        1,860,885     4.2%
+ Other tax items                               5,382,266              5,248,888          133,378     2.5%
+ Use of money and property                       368,940                372,732           (3,792)    -1.0%
+ Sale of property/compensation for loss            9,800                  1,566            8,234    525.8%
+ Federal and State sources                     3,392,261              3,327,784           64,477     1.9%
+ Other                                           577,034              1,214,318         (637,284)   -52.5%
+
+     Total revenue                            58,374,152             57,230,883   $    1,143,269     2.0%
+
+                 Expenses
+
+General support                                7,386,593             10,481,811       (3,095,218)   -29.5%
+Instruction                                   45,537,419             45,441,341           96,078     0.2%
+Pupil transportation                           2,054,084              1,976,135           77,949     3.9%
+Debt service - Interest                        1,959,680              1,195,446          764,234     63.9%
+School lunch program                             619,427                579,035           40,392     7.0%
+
+   Total expenses                             57,557,203             59,673,768       (2,116,565)   -3.5%
+
+Increase (decrease) in net position       $     816,949        $ (2,442,885)      $    3,259,834    133.4%
+
+The District’s fiscal year 2016 revenues totaled $58,374,152. Real property taxes (including other tax
+items) and state and federal sources formula aid accounted for most of the District’s revenue by
+contributing $0.89 and $0.06, respectively, of every dollar raised. The remainder of revenue was
+generated from fees charged for services, operating grants, use of money and property, and other
+miscellaneous sources.
+                                                           8
+3.   FINANCIAL ANALYSIS OF THE DISTRICT AS A WHOLE (Continued)
+
+B. Changes in Net Position (Continued)
+
+The District’s fiscal year 2016 expenses totaled $57,557,203. Costs to support general instruction
+and transportation accounted for 79% of District expenses. The District’s general support activities
+accounted for 17% of total costs. General support decreased from the prior year primarily due to
+changes in estimates related to tax certioraris and long-term employee benefit liabilities.
+
+The District’s continued financial health, as a whole, can be credited to:
+    Long-range financial planning in all programs
+    Consistent District goals which are valued and fostered
+    Continued strong leadership of the District’s Board and administration
+    Constant evaluation of ways to contain costs through increased efficiencies
+
+     Table A-4 Sources of Revenue for Fiscal Year 2016:
+
+
+                          Sources of Revenue for Fiscal 2016
+
+
+
+                                                               Charges for
+                                                                services
+                                                                  2%          Operating
+                             State sources
+                                                                               Grants
+                                  6%
+                   Miscellaneous                                                1%
+                        1%
+
+                           Use of money
+                           and property
+                                1%
+
+                   Other tax items
+                        9%
+
+
+                                                                              Real property
+                                                                                 taxes
+                                                                                  80%
+
+
+
+
+                                                  9
+3.   FINANCIAL ANALYSIS OF THE DISTRICT AS A WHOLE (Continued)
+
+B. Changes in Net Position (Continued)
+
+Table A-5     Expenses for Fiscal Year 2016:
+
+
+                                    Expenses for Fiscal 2016
+                   Debt service -
+                     Interest
+                        3%
+                                                    School lunch
+                                                     program
+                                                        1%
+
+                     Pupil
+                transportation                                     General support
+                     4%                                                13%
+
+
+
+
+                                 Instruction
+                                    79%
+
+
+
+
+                                               10
+4.   FINANCIAL ANALYSIS OF THE DISTRICT FUNDS
+
+As of June 30, 2016, the District's combined governmental funds reported a total fund balance of
+$10,006,404, which is an increase of $2,575,853 from the prior year.
+
+Table A-6 Governmental Funds Highlights
+
+                                                 Fiscal Year        Fiscal Year          Increase       Total %
+                                                    2016               2015             (Decrease)      Change
+General Fund
+   Restricted for Tax Certiorari             $      1,336,831   $      2,991,481    $     (1,654,650)     -55.3%
+   Restricted for Retirement Contributions            854,354            854,354                   -        0.0%
+   Restricted for Workers' Compensation               190,000            190,000                   -        0.0%
+   Restricted for Capital Projects                    200,000                  -             200,000    100.0%
+   Assigned                                         1,166,386            963,161             203,225       21.1%
+   Unassigned                                       2,333,200          2,306,559              26,641        1.2%
+Total Fund Balance - General                        6,080,771          7,305,555          (1,224,784)     -16.8%
+
+School Lunch Fund
+   Assigned                                          111,176            124,996             (13,820)      -11.1%
+Total Fund Balance - School Lunch                    111,176            124,996             (13,820)      -11.1%
+
+Capital Fund
+   Unassigned                                             -             (105,472)           105,472      100.0%
+   Assigned                                         3,814,457                  -          3,814,457      100.0%
+Total Fund Balance - Capital                        3,814,457           (105,472)         3,814,457     3616.6%
+
+Total Fund Balance - All Funds               $ 10,006,404       $      7,325,079    $     2,681,325        36.6%
+
+
+A summary of the changes in fund balance for all funds is as follows:
+
+        The general fund balance decreased by $1,224,784 from year to year. The decrease in the
+         Tax Ceritorari restricted fund balance was offset by the addition of a capital reserve of
+         $200,000.
+
+        The decrease in the school lunch fund balance is due to the expenditures exceeding revenue
+         due to one-time purchases of cafeteria equipment.
+
+        The Capital Fund balance of $3,814,457 as of June 30, 2016, is attributable to the issuance
+         of a capital construction bond in October of 2015.
+
+
+
+
+                                                        11
+5.     GENERAL FUND BUDGETARY HIGHLIGHTS
+
+The District’s voter approved general fund adopted budget for the year ended June 30, 2016 was
+$57,664,000. This amount was increased by encumbrances carried forward from the prior year in
+the amount of $541,161 and budget revisions in the amount of $2,551,933, which resulted in a final
+budget of $60,757,094. The majority of the funding was real property taxes and STAR revenue of
+$51,579,672.
+
+6.     CAPITAL ASSETS AND DEBT ADMINISTRATION
+
+A.     Capital Assets
+
+By the end of 2016, the District had an investment of $40,673,433 in a broad range of capital assets.
+
+Table A-7: Capital Assets (Net of Accumulated Depreciation)
+                                    Fiscal Year    Fiscal Year                              Dollar           Percent
+       Category                        2016           2015                                 Change            Change
+
+Land                                     $       793,200         $      793,200       $              -        0.0%
+Construction in progress                         359,128                577,412               (218,284)      -37.8%
+Land improvements                              2,039,989              2,156,701               (116,712)       -5.4%
+Buildings and improvements                    37,021,224             38,200,251             (1,179,027)       -3.1%
+Furniture & Equipment                            459,892                481,411                (21,519)       -4.5%
+
+     Total                               $ 40,673,433            $ 42,208,975         $     (1,535,542)      -3.6%
+
+
+The total decrease of $1,535,542 from 2015 to 2016 is mainly due to the depreciation of assets
+which was slightly offset by an increase in assets due to the completion of capital construction
+projects, mainly Dows Lane renovations for District Offices, during the year.
+
+B. Debt Administration
+
+At year-end, the District had $91,625,369 of long-term liabilities outstanding. More detailed
+information about the District’s long-term liabilities is presented in the notes to the financial
+statements.
+
+Table A-8: Outstanding Long-Term Liabilities
+
+                                             Fiscal Year         Fiscal Year           Dollar
+             Category                           2016                2015              Change          Percent Change
+
+General obligation bonds/long term BAN   $ 41,756,296           $ 40,925,010      $      831,286             2.0%
+Other post employment benefits             46,023,058             40,832,356           5,190,702            12.7%
+Judgments and claims                        2,169,688              3,247,226          (1,077,538)          -33.2%
+Other long-term liabilities                 1,676,327              1,745,195             (68,868)           -3.9%
+
+      Total                              $ 91,625,369           $ 86,749,787      $       4,875,582          5.6%
+
+
+During the year, the District paid down its long-term debt by retiring $2,710,000 of outstanding bonds
+and $282,972 of other debt. The District’s long term BAN was decreased during the year by $700,000
+from $2,100,000 to $1,400,000. As mentioned earlier, a $4,600,000 Capital Construction Bond was
+issued during the year.
+
+                                                           12
+6.   CAPITAL ASSETS AND DEBT ADMINISTRATION (Continued)
+
+Additionally, other post-employment benefit payable was accrued during 2016 in the amount of
+$5,190,702.
+
+Judgements and claims, which relates to Tax Certiorari claims, decreased by $1,077,538 from year to
+year. This was a result of claims being paid in the 2016 fiscal year.
+
+7.   FACTORS BEARING ON THE FUTURE OF THE DISTRICT
+
+At the time these financial statements were prepared and audited, the District was aware of the
+following existing circumstances that could significantly affect its future financial health:
+
+       While the District has settled several significant tax certiorari cases in recent years, several
+       unsettled cases remain. The results of these tax certiorari cases could impact future
+       budgets.
+
+
+8.   CONTACTING THE DISTRICT’S FINANCIAL MANAGEMENT
+
+This financial report is designed to provide citizens, taxpayers, customers, and investors and creditors
+with a general overview of the finances of the District and to demonstrate the District’s accountability
+with the funds it receives. If you have any questions about this report or need additional financial
+information, please contact:
+
+
+                                              Carol Stein
+                                Assistant Superintendent for Business
+                                 Irvington Union Free School District
+                                          40 North Broadway
+                                         Irvington, NY 10533
+                               Email: Carol.Stein@Irvingtonschools.org
+
+
+
+
+                                                  13
+IRVINGTON UNION FREE SCHOOL DISTRICT
+
+STATEMENT OF NET POSITION - GOVERNMENTAL ACTIVITIES
+JUNE 30, 2016
+
+
+ASSETS AND DEFERRED OUTFLOWS OF RESOURCES
+
+CURRENT ASSETS:
+ Cash - Unrestricted                                                                                 $ 12,049,270
+ Cash - Restricted                                                                                      2,581,185
+ State and federal aid receivable                                                                         375,693
+ Accounts receivable                                                                                      104,943
+ Due from fiduciary funds                                                                                   4,179
+ Due from other governments                                                                               780,321
+
+    Total current assets                                                                               15,895,591
+
+NON CURRENT ASSETS:
+ Net pension asset - TRS                                                                               14,698,317
+ Capital assets, net                                                                                   40,673,433
+
+    Total non current assets                                                                           55,371,750
+
+DEFERRED OUTFLOWS OF RESOURCES:
+ Deferred outflows of resources - pensions ERS                                                          2,731,029
+ Deferred outflows of resources - pensions TRS                                                          3,304,292
+
+    Total deferred outflows of resources                                                                6,035,321
+
+TOTAL ASSETS AND DEFERRED OUTFLOWS OF RESOURCES                                                      $ 77,302,662
+
+LIABILITIES AND DEFERRED INFLOWS OF RESOURCES
+
+CURRENT LIABILITIES:
+ Accounts payable and accrued liabilities                                                                 666,045
+ Accrued interest                                                                                         272,647
+ Due to other governments                                                                                 122,724
+ Due to Teachers' Retirement System                                                                     3,304,292
+ Due to Employees' Retirement System                                                                      237,206
+ Current portion of long term debt                                                                      4,518,443
+
+    Total current liabilities                                                                           9,121,357
+
+LONG-TERM LIABILITIES:
+  BAN Long term                                                                                         1,400,000
+  Bonds payable, net of current portion and premium                                                    37,636,296
+  Net pension liability - ERS                                                                           2,842,994
+  Other post employment benefits                                                                       46,023,058
+  Judgments and claims                                                                                    609,768
+  Installment debt                                                                                        488,388
+  Compensated absences payable                                                                            949,416
+
+    Total long-term liabilities                                                                        89,949,920
+
+DEFERRED INFLOWS OF RESOURCES:
+ Gain on debt refunding                                                                                    37,467
+ Deferred inflows of resources - pensions ERS                                                             370,802
+ Deferred inflows of resources - pensions TRS                                                           5,245,206
+
+    Total deferred inflows of resources                                                                 5,653,475
+
+TOTAL LIABILITIES AND DEFERRED INFLOWS OF RESOURCES                                                   104,724,752
+
+NET POSITION
+
+Net investment in capital assets                                                                         3,797,137
+Restricted                                                                                               2,581,185
+Unrestricted                                                                                           (33,800,412)
+
+TOTAL NET POSITION                                                                                     (27,422,090)
+
+TOTAL LIABILITIES, DEFERRED INFLOWS OF RESOURCES AND NET POSITION                                    $ 77,302,662
+
+
+
+
+                                  The accompanying notes are an integral part of these statements.
+                                                               14
+IRVINGTON UNION FREE SCHOOL DISTRICT
+
+STATEMENT OF ACTIVITIES AND CHANGES IN NET POSITION - GOVERNMENTAL ACTIVITIES
+FOR THE YEAR ENDED JUNE 30, 2016
+
+
+                                                                                                              Program Revenue            Net (Expense)
+                                                                                                                                         Revenue and
+                                                                                                         Charges for        Operating     Changes in
+                                                                                     Expenses             Services           Grants       Net Position
+
+FUNCTIONS/PROGRAMS:
+ General support                                                                 $    (7,386,593)    $             -    $            -   $    (7,386,593)
+ Instruction                                                                         (45,537,419)            807,166           550,273       (44,179,980)
+ Pupil transportation                                                                 (2,054,084)                  -                 -        (2,054,084)
+ Debt service - Interest                                                              (1,959,680)                  -                 -        (1,959,680)
+ School lunch program                                                                   (619,427)            512,192            93,332           (13,903)
+
+TOTAL FUNCTIONS AND PROGRAMS                                                      $ (57,557,203)     $      1,319,358   $      643,605       (55,594,240)
+
+GENERAL REVENUE:
+ Real property taxes                                                                                                                         46,680,888
+ Other tax items                                                                                                                              5,382,266
+ Use of money and property                                                                                                                      368,940
+ Sale of property and compensation for loss                                                                                                       9,800
+ Miscellaneous                                                                                                                                  577,034
+ Federal and state sources                                                                                                                    3,392,261
+
+TOTAL GENERAL REVENUE                                                                                                                        56,411,189
+
+CHANGE IN NET POSITION                                                                                                                          816,949
+
+TOTAL NET POSITION - beginning of year                                                                                                       (28,239,039)
+
+TOTAL NET POSITION - end of year                                                                                                         $ (27,422,090)
+
+
+
+
+                                              The accompanying notes are an integral part of these statements.
+                                                                           15
+IRVINGTON UNION FREE SCHOOL DISTRICT
+
+BALANCE SHEETS - GOVERNMENTAL FUNDS AND RECONCILIATION OF TOTAL GOVERNMENTAL FUNDS TO GOVERNMENT WIDE NET POSITION
+JUNE 30, 2016
+
+
+                                                                                        Governmental Fund Types
+                                                                                                                                                    Total
+                                                                                        Special              School               Capital        Governmental
+                                                                    General              Aid                 Lunch                Projects          Funds
+
+ASSETS:
+
+  Cash - Unrestricted                                           $    8,099,336      $        3,012       $      132,465       $    3,814,457     $   12,049,270
+  Cash - Restricted                                                  2,581,185                   -                    -                    -          2,581,185
+  Accounts receivable                                                    6,008              98,935                    -                    -            104,943
+  Due from other funds                                                 306,720                   -                    -                    -            306,720
+  Due from other governments                                           780,321                   -                    -                    -            780,321
+  State and federal aid receivable                                     113,665             256,152                5,876                    -            375,693
+
+TOTAL ASSETS                                                    $   11,887,235      $      358,099       $      138,341       $    3,814,457     $   16,198,132
+
+LIABILITIES:
+
+  Accounts payable and accrued liabilities                      $    2,142,242              55,558       $       27,165       $              -   $    2,224,965
+  Due to other funds                                                         -             302,541                    -                      -          302,541
+  Due to other governments                                             122,724                   -                    -                      -          122,724
+  Due to Teachers' Retirement System                                 3,304,292                   -                    -                      -        3,304,292
+  Due to Employees' Retirement System                                  237,206                   -                    -                      -          237,206
+
+TOTAL LIABILITIES                                                    5,806,464             358,099               27,165                      -        6,191,728
+
+FUND BALANCE:
+  Restricted
+   Tax certiorari                                                    1,336,831                     -                     -                   -        1,336,831
+   Retirement contributions                                            854,354                     -                     -                   -          854,354
+   Workers compensation                                                190,000                     -                     -                   -          190,000
+   Capital                                                             200,000                     -                     -                   -          200,000
+
+    Total restricted fund balance                                    2,581,185                     -                     -                   -        2,581,185
+
+  Assigned
+   Other                                                               636,386                     -            111,176            3,814,457          4,562,019
+   Appropriated for subsequent years expenditures                      530,000                     -                  -                    -            530,000
+
+    Total assigned fund balance                                      1,166,386                     -            111,176            3,814,457          5,092,019
+
+  Unassigned                                                         2,333,200                     -                     -                   -        2,333,200
+
+  TOTAL FUND BALANCE                                                 6,080,771                     -            111,176            3,814,457         10,006,404
+
+TOTAL LIABILITIES AND FUND BALANCE                              $   11,887,235      $      358,099       $      138,341       $    3,814,457     $   16,198,132
+
+
+
+A reconciliation of total governmental fund balance to government-wide net position follows:
+
+  Total governmental fund balance per above.                                                                                                     $   10,006,404
+
+  Capital assets used in governmental activities are not financial resources and, therefore, are not reported in the funds.                          40,673,433
+
+  Pension plans' activity required to be recorded in the government-wide statements:
+   Net pension asset                                                                                                                                 14,698,317
+   Deferred outflows or resources                                                                                                                     6,035,321
+   Net pension liability                                                                                                                             (2,842,994)
+   Deferred inflows of resources                                                                                                                     (5,616,008)
+
+  Gain on bond refunding recorded as a payment on the fund level                                                                                         (37,467)
+
+  Long-term liabilities, including bonds payable, teachers retirement and compensated absences, are not due and payable in
+       the current period and, therefore, are not reported in the funds.                                                                             (44,043,391)
+
+  Other post employment benefits liability                                                                                                           (46,023,058)
+
+  Interest payable at June 30, 2016, in the government-wide statements under full accrual accounting.                                                  (272,647)
+
+NET POSITION OF GOVERNMENTAL ACTIVITIES                                                                                                          $ (27,422,090)
+
+
+
+
+                                                      The accompanying notes are an integral part of these statements.
+                                                                                   16
+IRVINGTON UNION FREE SCHOOL DISTRICT
+
+STATEMENTS OF REVENUE, EXPENDITURES, AND CHANGES IN FUND BALANCE - GOVERNMENTAL FUNDS
+FOR THE YEAR ENDED JUNE 30, 2016
+
+
+
+
+                                                                                                     Governmental Fund Types
+                                                                                                                                                           Total
+                                                                                                     Special             School           Capital       Governmental
+                                                                                General               Aid                Lunch            Projects         Funds
+
+REVENUE:
+ Real property taxes                                                        $   46,680,888       $            -      $           -    $            -    $   46,680,888
+ Other tax items                                                                 5,382,266                    -                  -                 -         5,382,266
+ Charges for services                                                              807,166                    -                  -                 -           807,166
+ Use of money and property                                                         366,661                    -                  -             2,279           368,940
+ Sale of property and compensation for loss                                          9,800                    -                  -                 -             9,800
+ Miscellaneous                                                                     322,171              232,086                 83                 -           554,340
+ State sources                                                                   3,392,261              175,045              7,849                 -         3,575,155
+ Federal sources                                                                        76              375,152             85,483                 -           460,711
+ Sales - School lunch                                                                    -                    -            512,192                 -           512,192
+
+    Total revenue                                                               56,961,289              782,283            605,607             2,279        58,351,458
+
+EXPENDITURES:
+ General support                                                                 8,302,352                    -                  -                 -         8,302,352
+ Instruction                                                                    30,646,923              783,790                  -                 -        31,430,713
+ Pupil transportation                                                            2,027,962               40,329                  -                 -         2,068,291
+ Employee benefits                                                              12,058,648                    -                  -                 -        12,058,648
+ Debt service - Principal                                                        3,695,924                    -                  -                 -         3,695,924
+ Debt service - Interest                                                         1,369,807                    -                  -                 -         1,369,807
+ Cost of sales                                                                           -                    -            619,427                 -           619,427
+ Capital outlay                                                                          -                    -                  -           928,665           928,665
+
+    Total expenditures                                                          58,101,616              824,119            619,427           928,665        60,473,827
+
+EXCESS (DEFICIENCY) OF REVENUE OVER EXPENDITURES                                 (1,140,327)            (41,836)           (13,820)         (926,386)       (2,122,369)
+
+OTHER SOURCES AND (USES):
+ Proceeds from obligations                                                                -                   -                   -        4,803,694         4,803,694
+ Operating transfers in                                                                   -              41,836                   -           42,621            84,457
+ Operating transfers (out)                                                          (84,457)                  -                   -                -           (84,457)
+
+
+    Total other sources (uses)                                                      (84,457)             41,836                   -        4,846,315         4,803,694
+
+EXCESS (DEFICIENCY) OF REVENUE AND OTHER SOURCES OVER
+ EXPENDITURES AND OTHER (USES)                                                   (1,224,784)                     -         (13,820)        3,919,929         2,681,325
+
+FUND BALANCE - beginning of year                                                 7,305,555                       -         124,996          (105,472)        7,325,079
+
+FUND BALANCE - end of year                                                  $    6,080,771       $               -   $     111,176    $    3,814,457    $   10,006,404
+
+
+
+                                              The accompanying notes are an integral part of these statements.
+                                                                           17
+IRVINGTON UNION FREE SCHOOL DISTRICT
+
+RECONCILIATION OF THE STATEMENTS OF REVENUE, EXPENDITURES, AND CHANGES IN FUND BALANCE
+TO THE STATEMENT OF ACTIVITIES
+FOR THE YEAR ENDED JUNE 30, 2016
+
+
+
+
+Net changes in fund balance - Total governmental funds                                                              $   2,681,325
+
+Capital outlays are expenditures in governmental funds, but are
+  capitalized in the statement of net position.                                                                           808,020
+
+Loss on disposition of capital assets are recorded as a expenditure in the statement of activities                       (261,394)
+
+Depreciation is not recorded as an expenditure in the governmental funds,
+ but is recorded in the statement of activities.                                                                        (2,082,168)
+
+Pension (expense) income resulting from the GASB 68 related actuary reporting is not recorded
+ as an (expenditure) income in the government funds but is recorded in the statement of activities.                     3,936,415
+
+Repayments of long-term debt are recorded as expenditures in the governmental funds,
+ but are recorded as payments of liabilities in the statement of net position.                                          4,810,000
+
+Proceeds from the issuance of long-term debt are recorded as other sources in the governmental funds,
+  but are recorded as additions to liabilities in the statement of net position.                                        (6,000,000)
+
+Premiums from the issuance on bonds that are revenue sources in the governmental funds
+  but are amortized on the statement of net position                                                                      358,714
+
+Expenses related to long term tax certiorari claims in the statement of activities do not require the expenditure
+ but
+  of are
+     current
+         recorded
+             resources
+                   as and
+                      payments
+                            are, of
+                                 therefore,
+                                    liabilitiesnot
+                                                in the
+                                                   reported
+                                                       statement
+                                                            as of net
+                                                              expenditures
+                                                                      assets.
+                                                                           in the governmental funds                    2,636,458
+
+Loss on bond refunding is recorded as expenditures in the governmental funds,
+  but is a deferred outflows of resources in the statement of net position                                               (931,818)
+
+Certain expenses in the statement of activities do not require the expenditure of current
+ but are
+  resources
+         recorded
+             and are,
+                  as payments
+                      therefore, of
+                                 notliabilities
+                                      reportedinas
+                                                 thexpenditures
+                                                     statement ofinnet
+                                                                    theassets.
+                                                                        governmental funds                                 52,099
+
+Accrued post-employment benefits do not require the expenditure of current resources and are, therefore
+ are not reported as expenditures in the governmental funds.                                                            (5,190,702)
+
+
+Change in net position - Governmental activities                                                                    $     816,949
+
+
+
+
+                                    The accompanying notes are an integral part of these statements.
+                                                                18
+IRVINGTON UNION FREE SCHOOL DISTRICT
+
+STATEMENT OF NET POSITION - FIDUCIARY FUNDS
+JUNE 30, 2016
+
+
+
+                                                                                 Private
+                                                                                 Purpose
+                                                                                  Trusts            Agency
+
+ASSETS:
+ Cash                                                                        $              -   $     143,152
+  Cash - restricted                                                                 133,061            31,985
+  Due from other funds                                                                    -                 -
+
+    Total assets                                                             $      133,061     $     175,137
+
+
+LIABILITIES:
+  Extraclassroom activity balances                                                          -          31,985
+  Due to other funds                                                                        -           4,179
+  School store balances                                                                     -           3,021
+  Other liabilities                                                                         -         135,952
+
+    Total liabilities                                                        $              -   $     175,137
+
+NET POSITION:
+ Reserved for private purposes                                               $      133,061
+
+
+
+
+                         The accompanying notes are an integral part of these statements.
+                                                     19
+IRVINGTON UNION FREE SCHOOL DISTRICT
+
+STATEMENT OF CHANGES IN NET POSITION - FIDUCIARY FUNDS
+FOR THE YEAR ENDED JUNE 30, 2016
+
+
+
+                                                                              Private
+                                                                              Purpose
+                                                                               Trusts
+
+ADDITIONS:
+ Contributions                                                            $         9,648
+
+  Total Additions                                                                   9,648
+
+DEDUCTIONS:
+ Scholarships and other private purposes                                           11,973
+
+NET DECREASE                                                                       (2,325)
+
+NET POSITION - beginning of year                                                 135,386
+
+NET POSITION - end of year                                                $      133,061
+
+
+
+
+                      The accompanying notes are an integral part of these statements.
+                                                  20
+IRVINGTON UNION FREE SCHOOL DISTRICT
+
+NOTES TO THE FINANCIAL STATEMENTS
+JUNE 30, 2016
+
+
+1.   NATURE OF OPERATIONS AND SUMMARY OF CERTAIN SIGNIFICANT ACCOUNTING
+     POLICIES
+
+     Irvington Union Free School District provides free K-12 public education to students living
+     within its geographic borders.
+
+     The financial statements of Irvington Union Free School District (School District) have been
+     prepared in conformity with accounting principles generally accepted in the United States of
+     America (GAAP) as applied to governmental units. Those principles are prescribed by the
+     Governmental Accounting Standards Board (GASB), which is the accepted standard-setting
+     body for establishing governmental accounting and financial reporting principles.
+
+     Certain significant accounting principles and policies utilized by the School District are
+     described below:
+
+     Reporting Entity
+     The Irvington Union Free School District is governed by the Laws of New York State. The
+     School District is an independent entity governed by an elected Board of Education (BOE). The
+     President of the Board serves as chief fiscal officer and the Superintendent is the chief executive
+     officer. The BOE has authority to make decisions, power to appoint management and
+     accountability for all fiscal matters.
+
+     The financial reporting entity consists of the primary government, organizations for which the
+     primary government is financially accountable and other organizations for which the nature and
+     significance of their relationship with the primary government are such that exclusion would
+     cause the reporting entity’s financial statements to be misleading or incomplete.
+
+     The accompanying financial statements present the activities of the School District. The
+     School District is not a component unit of another reporting entity. The decision to include a
+     potential component unit in the School District’s reporting entity is based on several criteria
+     including legal standing, fiscal dependency, and financial accountability. Based on the
+     application of these criteria, the following is a brief description of a certain entity included in the
+     School District’s reporting entity.
+
+          Extraclassroom Activity Funds
+          The extraclassroom activity funds of the School District represent funds of the students of
+          the School District. The board of education exercises general oversight of these funds.
+          The extraclassroom activity funds are independent of the School District with respect to its
+          financial transactions and the designation of student management. Separate audited
+          financial statements (cash basis) of the extraclassroom activity funds can be found at the
+          School District’s business office. The School District accounts for assets held as an agent
+          for various student organizations in an agency fund.
+
+
+
+
+                                                   21
+1.   NATURE OF OPERATIONS AND SUMMARY OF CERTAIN SIGNIFICANT ACCOUNTING
+     POLICIES (Continued)
+
+     Joint Venture
+     The School District is a component school district in Southern Westchester Board of Cooperative
+     Education Services (BOCES). BOCES is a voluntary, cooperative association of school districts
+     in a geographic area that shares planning, services, and programs which provide educational
+     and support activities. There is no authority or process by which a school district can terminate
+     its status as a BOCES component.
+
+     BOCES are organized under §1950 of the New York State Education Law. A BOCES board is
+     considered a corporate body. Members of a BOCES board are nominated and elected by their
+     component member boards in accordance with provisions of §1950 of the New York State
+     Education Law. All BOCES property is held by the BOCES board as a corporation (§1950(6)).
+     In addition, BOCES boards also are considered municipal corporations to permit them to
+     contract with other municipalities on a cooperative basis under §119-n(a) of the New York
+     State General Municipal Law.
+
+     BOCES’ budget is comprised of separate budgets for administrative, program, and capital
+     costs. Each component school district’s share of administrative and capital cost is determined
+     by resident public school district enrollment, as defined in the New York State Education Law,
+     §1950(4)(b)(7). In addition, component school districts pay tuition or a service fee for
+     programs in which its students participate.
+
+     Financial statements for the BOCES are available from the BOCES administrative office.
+
+     Basis of Presentation
+     Government-Wide Statements
+     The statement of net position and the statement of activities present financial information
+     about the School District’s governmental activities. These statements include the financial
+     activities of the overall government in its entirety, except those that are fiduciary. Eliminations
+     have been made to minimize the double counting of internal transactions. Governmental
+     activities generally are financed through taxes, state aid, intergovernmental revenue, and other
+     exchange and non-exchange transactions. Operating grants include operating-specific and
+     discretionary (either operating or capital) grants, while the capital grants column reflects
+     capital-specific grants.
+
+     The statement of activities presents a comparison between direct expenses and program
+     revenue for each function of the School District’s governmental activities. Direct expenses are
+     those that are specifically associated with and are clearly identifiable to a particular function.
+     Program revenue includes charges paid by the recipients of goods or services offered by the
+     programs and grants and contributions that are restricted to meeting the operational or capital
+     requirements of a particular program. Revenue that is not classified as program revenue,
+     including all taxes, is presented as general revenue.
+
+     Fund Financial Statements
+     The fund statements provide information about the School District’s funds, including fiduciary
+     funds. Separate statements for each fund category (governmental and fiduciary) are
+     presented. The emphasis of fund financial statements is on major governmental funds, each
+     displayed in a separate column.
+
+     The School District reports the following major governmental funds:
+
+      General Fund - This is the School District’s primary operating fund. It accounts for all
+       financial transactions that are not required to be accounted for in another fund.
+
+
+                                                  22
+1.   NATURE OF OPERATIONS AND SUMMARY OF CERTAIN SIGNIFICANT ACCOUNTING
+     POLICIES (Continued)
+
+     Basis of Presentation (Continued)
+     Fund Financial Statements (Continued)
+      Special Aid Fund - This is a special revenue fund that accounts for the proceeds of specific
+       revenue sources, such as federal and state grants, that are legally restricted to
+       expenditures for specified purposes and other activities whose funds are restricted as to
+       use. These legal restrictions may be imposed either by governments that provide the funds,
+       or by outside parties.
+
+      School Lunch Fund – This is a special revenue fund that accounts for the proceeds of
+       specific revenue sources, such as federal and state grants, that are legally restricted to
+       expenditures for school lunch operations. These legal restrictions may be imposed either
+       by governments that provide the funds, or by outside parties.
+
+      Capital Project Fund - This fund is used to account for the financial resources used for
+       acquisition, construction, or major repair of capital facilities.
+
+     The District reports the following fiduciary funds:
+
+      Fiduciary Funds - These funds are used to account for fiduciary activities. Fiduciary
+       activities are those in which the School District acts as trustee or agent for resources that
+       belong to others. These activities are not included in the School District-wide financial
+       statements, because their resources do not belong to the School District, and are not
+       available to be used. There are two types of fiduciary funds:
+
+               Private purpose trust funds: These funds are used to account for trust arrangements in
+               which principal and income benefits annual third party awards and scholarships for
+               students. Established criteria govern the use of the funds and members of the District
+               or representatives of the donors may serve on committees to determine who benefits.
+
+               Agency funds: These funds are strictly custodial in nature and do not involve the
+               measurement of results of operations. Assets are held by the District as agent for
+               various student groups or extraclassroom activity funds and for payroll or employee
+               withholding.
+
+     Use of Estimates
+     The preparation of financial statements in conformity with accounting principles generally
+     accepted in the United States of America requires management to make estimates and
+     assumptions that affect the reported amount of assets and liabilities and disclosure of
+     contingent assets and liabilities at the dates of the financial statements and the reported
+     revenue and expenses during the reporting period. Actual results could differ from those
+     estimates. Estimates and assumptions are made in a variety of areas, including other post
+     employment benefits liabilities, net pension asset and liability, compensated absences,
+     potential contingent liabilities and useful lives of long-lived assets.
+
+
+
+
+                                                   23
+1. NATURE OF OPERATIONS AND SUMMARY OF CERTAIN SIGNIFICANT ACCOUNTING
+   POLICIES (Continued)
+
+   Measurement Focus and Basis of Accounting
+   The School District-wide and fiduciary fund financial statements are reported using the economic
+   resources measurement focus and the accrual basis of accounting. Revenue is recorded when
+   earned and expenses are recorded at the time liabilities are incurred, regardless of when the
+   related cash transaction takes place. Non-exchange transactions in which the School District
+   gives or receives value without directly receiving or giving equal value in exchange include
+   property taxes, grants, and donations. On an accrual basis, revenue from property taxes is
+   recognized in the fiscal year for which the taxes are levied. Revenue from grants and donations
+   is recognized in the fiscal year in which all eligibility requirements have been satisfied.
+
+   The governmental fund statements are reported using the current financial resources
+   measurement focus and the modified accrual basis of accounting. Under this method, revenue
+   is recognized when measurable and available. The School District considers all revenue
+   reported in the governmental funds to be available if the revenue is collected within ninety days
+   after the end of the fiscal year.
+
+   Expenditures are recorded when the related fund liability is incurred, except for principal and
+   interest on general long-term debt, claims and judgments, and compensated absences, which
+   are recognized as expenditures to the extent they have matured. General capital asset
+   acquisitions are reported as expenditures in governmental funds. Proceeds of general long-term
+   debt and acquisitions under capital leases are reported as other financing sources.
+
+   Cash
+   The School District’s cash consist of cash on hand and demand deposits. New York State law
+   governs the School District’s investment policies. Resources must be deposited in FDIC-insured
+   commercial banks or trust companies located within the state. Permissible investments include
+   obligations of the United States Treasury, United States agencies, repurchase agreements, and
+   obligations of New York State or its localities. Collateral is required for demand and time
+   deposits and certificates of deposit not covered by FDIC insurance.
+
+   Restricted Cash
+   Restricted cash represents cash where use is limited by legal requirements. These assets
+   represent amounts required by statute to be reserved for various purposes. Restricted cash as
+   of year-end includes $2,581,185 within the governmental funds.
+
+   Property Taxes
+   Real property taxes are levied annually by the board of education no later than September 1,
+   and become a lien on September 1. Taxes are collected by the Town of Greenburgh during the
+   period September 30 to January 31.
+
+    Uncollected real property taxes are subsequently enforced by the County in which the School
+    District is located. The County pays an amount representing uncollected real property taxes
+    transmitted to the County for enforcement to the School District no later than the following April
+    1.
+
+   Accounts Receivable
+   Accounts receivable are shown gross, with uncollectible amounts recognized under the direct
+   write-off method. No allowance for uncollectible accounts has been provided since it is believed
+   that such allowance would not be material.
+
+
+
+
+                                                24
+1.   NATURE OF OPERATIONS AND SUMMARY OF CERTAIN SIGNIFICANT ACCOUNTING
+     POLICIES (Continued)
+
+     Interfund transactions
+     The operations of the District include transactions between funds. These transactions may be
+     temporary in nature, such as with interfund borrowings. The District typically loans resources
+     between funds for the purpose of providing cash flow. These interfund receivables and payables
+     are expected to be repaid with one year. Permanent transfers of funds include the transfer of
+     expenditure and revenues to provide financing or other services.
+
+     In the government-wide statements, the amounts reported on the Statement of Net Position for
+     interfund receivables and payables represent amounts due between different fund types
+     (governmental activities and fiduciary funds). Eliminations have been made for all significant
+     interfund receivables and payables between the funds, with the exception of those due from or to
+     the fiduciary funds.
+
+     The governmental funds report all interfund transactions as originally recorded. Interfund
+     receivables and payables may be netted on the accompanying governmental funds balance
+     sheet when it is the District’s practice to settle these amounts at a net balance based upon the
+     right of legal offset.
+
+     Capital Assets, Net
+     Capital assets are reported at actual cost when such data was available. For assets in which
+     there was no data available, estimated historical costs, based on appraisals conducted by
+     independent third-party professionals, were used. Donated assets are reported at estimated fair
+     value at the time received.
+
+     Capitalization thresholds (the dollar value above which asset acquisitions are added to the
+     capital asset accounts), depreciation methods, and estimated useful lives of capital assets
+     reported in the government-wide statements are as follows:
+
+                                              Capitalization   Depreciation    Estimated
+                                               Threshold        Method         Useful Life
+
+          Land improvements                       $ 5,000             SL             20-30 years
+          Buildings and improvements              $ 5,000             SL             20-50 years
+          Furniture and equipment                 $ 5,000             SL              7-20 years
+
+
+     Deferred Outflows and Inflows of Resources
+     In addition to assets, the Statement of Net Position sometimes reports a separate section for
+     deferred outflows of resources. This separate financial statement element, deferred outflows
+     of resources, represents a consumption of net position that applies to a future period and so
+     will not be recognized as an outflow of resources (expense/expenditure) until then. The
+     government has one item that qualifies for reporting in this category:
+
+       Deferred charges resulting from pension contributions made subsequent to the
+        measurement date of the plan. The amortization is expensed against pension expense in
+        future periods.
+       Deferred charges resulting from differences between projected and actual earnings on
+        pension plan investments of the plan. The amortization is expensed against pension
+        expense in future periods.
+
+
+
+
+                                                25
+1.   NATURE OF OPERATIONS AND SUMMARY OF CERTAIN SIGNIFICANT ACCOUNTING
+     POLICIES (Continued)
+
+     Deferred Outflows and Inflows of Resources (Continued)
+     In addition to liabilities, the Statement of Net Position will sometimes report a separate section
+     for deferred inflows of resources. This separate financial statement element, deferred inflows
+     of resources, represents an acquisition of net position that applies to a future period and so will
+     not be recognized as an inflow of resources (revenue) until then.
+
+     The government has the following items that qualify for reporting in this category;
+
+        Deferred charge (gain) on a bond refunding. A deferred charge on refunding results from
+         the difference in the carrying value of the refunding debt and its reacquisition price. The
+         amount is deferred and amortized over the shorter of the life of the refunded or refunding
+         debt. The amortization is expensed against interest expense in future periods.
+
+        The net amount of the District’s balances of deferred inflows of resources related to
+         pensions is reported in the government-wide Statement of Net Position as deferred inflows
+         of resources. This represents the effect of the net change in the District’s proportion of the
+         collective net pension asset or liability and the difference during the measurement period
+         between the District’s contributions and its proportionate share of total contributions to the
+         pension systems not included in pension expense.
+
+     Vested Employee Benefits
+     School District employees are granted vacation in varying amounts, based primarily on length of
+     service and service position. Some earned benefits may be forfeited if not taken within varying
+     time periods.
+
+     Sick leave eligibility and accumulation is specified in negotiated labor contracts, and in
+     individual employment contracts.
+
+     Upon resignation or death, employees may receive a payment based on unused accumulated
+     vacation leave. Upon retirement, employees may receive a payment based on unused
+     accumulated sick leave, based on contractual provisions.
+
+     Consistent with accounting principles generally accepted in the United States of America, an
+     accrual for accumulated sick leave and vacation benefits are included in the compensated
+     absences liability at year-end. The compensated absences liability is calculated based on the
+     pay rates in effect at year-end.
+
+     School District employees participate in the New York State Employees’ Retirement System
+     and the New York State Teachers’ Retirement System.
+
+     Other Post Employment Benefits
+     In addition to providing the pension benefits through the New York State Employees’
+     Retirement System and the New York State Teachers’ Retirement System, the District
+     provides post-employment health insurance coverage to its retired employees and their
+     survivors in accordance with the provisions of the employment contracts negotiated between
+     the District and its employee groups. Substantially all of these employees may become
+     eligible for these benefits if they reach normal retirement age while working for the District.
+     Health care benefits are provided through plans whose premiums are based on the benefits
+     paid during the year. The District pays a variable percentage of the cost of premiums to an
+     insurance company that provides health care insurance. At the fund level the School District
+     recognizes the cost of providing health care insurance by recording its share of insurance
+     premiums as an expenditure or operating transfer to other funds in the general fund in the year
+     paid.
+
+
+
+
+                                                  26
+1.   NATURE OF OPERATIONS AND SUMMARY OF CERTAIN SIGNIFICANT ACCOUNTING
+     POLICIES (Continued)
+
+     Other Post Employment Benefits (Continued)
+     In accordance with the provisions of Governmental Accounting Standards Board Statement
+     No. 45, Accounting and Financial Reporting by Employers for Postemployment Benefits Other
+     Than Pensions, the District has recorded in the government-wide statement of net position the
+     required other post-employment benefits liability of $46,023,058 as of June 30, 2016. The
+     financial disclosures relating to the District’s other post-employment benefits are reflected in
+     Note 8.
+
+     Encumbrances
+     Encumbrance accounting is used for budgetary control and monitoring purposes and is
+     reported as a part of the governmental funds. Under this method, purchase orders, contracts
+     and other commitments for the expenditure of monies are recorded to reserve applicable
+     appropriations. Outstanding encumbrances as of year-end are presented as reservations of
+     fund balance and do not represent expenditures or liabilities. These commitments will be
+     honored in the subsequent period. Related expenditures are recognized at that time, as the
+     liability is incurred or the commitment is paid.
+
+     All encumbrances are classified as either Restricted or Assigned Fund Balance in the General
+     Fund, or as Restricted Fund Balance in the non-general funds.
+
+     Unearned Revenue
+     Unearned revenue is reported when potential revenue does meet both the measurable and
+     available criteria for recognition in the current period. Unearned revenue also arises when
+     resources are received by the School District before it has legal claim to them, as when grant
+     monies are received prior to the incidence of qualifying expenditures. In subsequent periods,
+     when both recognition criteria are met, or when the School District has legal claim to the
+     resources, the liability for unearned revenue is removed and revenue is recorded.
+
+     Statute provides the authority for the School District to levy taxes to be used to finance
+     expenditures within the first 120 days of the succeeding fiscal year. Consequently, such
+     amounts are recognized as revenue in the subsequent fiscal year, rather than when measurable
+     and available.
+
+     Unearned revenue recorded in governmental funds is generally not recorded in the School
+     District-wide statements.
+
+     Short-Term Debt
+     The District may issue Revenue Anticipation Notes (RANs) and Tax Anticipation Notes (TANs),
+     in anticipation of the receipt of revenue. These notes are recorded as a liability of the fund that
+     will actually receive the proceeds from the issuance of the notes. The RANs and TANs
+     represent a liability that will be extinguished by the use of expendable, available resources of the
+     fund.
+
+     The District may issue budget notes up to an amount not to exceed 5% of the amount of the
+     annual budget during any fiscal year for expenditures for which there is an insufficient or no
+     provision made in the annual budget. The budget note must be repaid no later than the close of
+     the second fiscal year succeeding the year in which the note was issued.
+
+     The District may issue Bond Anticipation Notes (BANs), in anticipation of proceeds from the
+     subsequent sale of bonds. These notes are recorded as current liabilities of the funds that will
+     actually receive the proceeds from the issuance of bonds. State law requires that BANs issued
+     for capital purposes be converted to long-term financing within five years after the original issue
+     date.
+
+
+                                                  27
+1.   NATURE OF OPERATIONS AND SUMMARY OF CERTAIN SIGNIFICANT ACCOUNTING
+     POLICIES (Continued)
+
+     Accrued Liabilities and Long-Term Obligations
+     Payables, accrued liabilities, and long-term obligations are reported in the Government-wide
+     financial statements. In the governmental funds, payables and accrued liabilities are paid in a
+     timely manner and in full from current financial resources.
+
+     Claims and judgments, and compensated absences that will be paid from governmental funds,
+     are reported as a liability in the fund financial statements only to the extent that they are due
+     for payment in the current year. Bonds and other long-term obligations that will be paid from
+     governmental funds are recognized as a liability in the fund financial statements when due.
+
+     Long-term obligations represent the District’s future obligations or future economic outflows.
+     The liabilities are reported as due in one year or as long-term liabilities in the Statement of Net
+     Position.
+
+     Restricted Resources
+     When an expense is incurred for purposes for which both restricted and unrestricted net position
+     are available, the School District’s policy concerning which to apply first varies with the intended
+     use, and with associated legal requirements, many of which are described elsewhere in these
+     notes.
+
+
+     Fund Balance/Net Position Classifications
+
+     District-Wide Statements
+     In the district wide statements there are three classes of net position:
+
+     Net investment in capital assets – consists of net capital assets (cost less accumulated
+     depreciation) plus unspent bond proceeds reduced by outstanding balances of related debt
+     obligations from the acquisition, construction or improvements of those assets.
+
+     Restricted net position – reports net position when constraints placed on the assets are either
+     externally imposed by creditors (such as through debt covenants), grantors, contributors, or laws
+     and regulations of other governments, or imposed by law through constitutional provisions or
+     enabling legislation.
+
+     Unrestricted net position – reports all other net position that do not meet the definition of the
+     above two classifications and are deemed to be available for general use by the District.
+
+
+
+
+                                                   28
+1.   NATURE OF OPERATIONS AND SUMMARY OF CERTAIN SIGNIFICANT ACCOUNTING
+     POLICIES (Continued)
+
+     Fund Balance – Reservations and Designations
+
+     In the fund basis statements there are five classifications of fund balance:
+
+     Non-spendable fund balance – Includes amounts that cannot be spent because they are either
+     not in spendable form or legally or contractually required to be maintained intact.
+
+     Restricted fund balance – Includes amounts with constraints placed on the use of resources
+     either externally imposed by creditors, grantors, contributors or laws or regulations of other
+     governments; or imposed by law through constitutional provisions or enabling legislation. The
+     School District has available the following restricted fund balances.
+
+           Capital
+           Capital reserve (Education Law §3651) is used to pay the cost of any object or purpose for
+           which bonds may be issued. The creation of a capital reserve fund requires authorization
+           by a majority of the voters establishing the purpose of the reserve; the ultimate amount, its
+           probable term, and the source of the funds. Expenditures may be made from the reserve
+           only for a specific purpose further authorized by the voters. The form for the required legal
+           notice for the vote on establishing and funding the reserve and the form of the proposition
+           to be placed on the ballot are set forth in §3651 of the Education Law. This reserve is
+           accounted for in the general fund under restricted fund balance.
+
+           Repair
+           Repair reserve (GML §6-d) is used to pay the cost of repairs to capital improvements or
+           equipment, which repairs are of a type not recurring annually. The board of education,
+           without voter approval, may establish a repair reserve fund by a majority vote of its
+           members. Voter approval is required to fund this reserve (opinion of the New York State
+           Comptroller 81-401). Expenditures from this reserve may be made only after a public
+           hearing has been held, except in emergency situations. If no hearing is held, the amount
+           expended must be repaid to the reserve fund over the next two subsequent fiscal years.
+           This reserve is accounted for in the general fund under restricted fund balance.
+
+           Workers’ Compensation
+           Workers’ compensation reserve (GML §6-j) is used to pay for compensation benefits and
+           other expenses authorized by Article 2 of the Workers’ Compensation Law, and for
+           payment of expenses of administering this self-insurance program. The reserve may be
+           established by board action, and is funded by budgetary appropriations and such other
+           funds as may be legally appropriated.
+
+           Within sixty days after the end of any fiscal year, excess amounts may either be
+           transferred to another reserve or the excess applied to the appropriations of the next
+           succeeding fiscal year’s budget. The reserve is accounted for in the general fund under
+           restricted fund balance.
+
+           Unemployment Insurance
+           Unemployment insurance reserve (GML §6-m) is used to pay the cost of reimbursement to
+           the State Unemployment Insurance Fund for payments made to claimants where the
+           employer has elected to use the benefit reimbursement method. The reserve may be
+           established by board action and is funded by budgetary appropriations and such other
+           funds as may be legally appropriated. Within sixty days after the end of any fiscal year,
+           excess amounts may either be transferred to another reserve or the excess applied to the
+           appropriations of the next succeeding fiscal year’s budget. If the School District elects to
+           convert to tax (contribution) basis, excess resources in the fund over the sum sufficient to
+           pay pending claims may be transferred to any other reserve fund. This reserve is
+           accounted for in the general fund under restricted fund balance.
+
+                                                  29
+1.   NATURE OF OPERATIONS AND SUMMARY OF CERTAIN SIGNIFICANT ACCOUNTING
+     POLICIES (Continued)
+
+
+         Debt Service
+         Mandatory reserve for debt service (GML §6-l) is used to establish a reserve for the
+         purpose of retiring the outstanding obligations upon the sale of School District property or
+         capital improvement that was financed by obligations which remain outstanding at the time
+         of sale. The funding of the reserve is from the proceeds of the sale of School District
+         property or capital improvement. The reserve is accounted for in the general fund under
+         restricted fund balance.
+
+         Insurance
+         Insurance reserve is used to pay liability, casualty, and other types of losses, except losses
+         incurred for which the following types of insurance may be purchased: life, accident, health,
+         annuities, fidelity and surety, credit, title residual value, and mortgage guarantee. In
+         addition, this reserve may not be used for any purpose for which a special reserve may be
+         established pursuant to law (for example, for unemployment compensation insurance).
+         The reserve may be established by Board action, and funded by budgetary appropriations,
+         or such other funds as may be legally appropriated. There is no limit on the amount that
+         may be accumulated in the insurance reserve; however, the annual contribution to this
+         reserve may not exceed the greater of $33,000 or 5% of the budget. Settled or
+         compromised claims up to $25,000 may be paid from the reserve without judicial approval.
+         The reserve is accounted for in the general fund under restricted fund balance.
+
+         Liability Claims and Property Loss
+         Property loss reserve and liability reserve (Education Law §1709(8)(c)) are used to pay for
+         property loss and liability claims incurred. Separate funds for property loss and liability
+         claims are required, and these reserves may not in total exceed 3% of the annual budget
+         or $15,000, whichever is greater. This type of reserve fund may be utilized only by school
+         districts, except city school districts with a population greater than 125,000. These reserves
+         are accounted for in the general fund under restricted fund balance.
+
+         Tax Certiorari
+         Tax certiorari reserve (Education Law §3651.1-a) is used to establish a reserve fund for tax
+         certiorari and to expend from the fund without voter approval. The monies held in the
+         reserve shall not exceed the amount which might reasonably be deemed necessary to
+         meet anticipated judgments and claims arising out of tax certiorari proceedings. Any
+         resources deposited to the reserve which are not expended for tax certiorari proceedings
+         in the year such monies are deposited must be returned to the general fund on or before
+         the first day of the fourth fiscal year after deposit of these monies. The reserve is
+         accounted for in the general fund under restricted fund balance.
+
+         Employee Benefit Accrued Liability
+         Reserve for employee benefit accrued liability (GML §6-p) is used to reserve funds for the
+         payment of accrued employee benefit due an employee upon termination of the
+         employee’s service. This reserve may be established by a majority vote of the board, and
+         is funded by budgetary appropriations and such other reserves and funds that may be
+         legally appropriated. The reserve is accounted for in the general fund under restricted fund
+         balance.
+
+         Retirement Contribution
+         Retirement contribution reserve (GML §6-r) is used for the purpose of financing retirement
+         contributions. The reserve must be accounted for separate and apart from all other funds
+         and a detailed report of operation and condition of the fund must be provided to the board.
+         This reserve is accounted for in the general fund under restricted fund balance.
+
+
+
+                                                30
+1.   NATURE OF OPERATIONS AND SUMMARY OF CERTAIN SIGNIFICANT ACCOUNTING
+     POLICIES (Continued)
+
+     Fund Balance – Reservations and Designations (Continued)
+
+          Encumbrances
+          Encumbrance accounting, under which purchase orders, contracts and other commitments
+          of expenditures are recorded for budgetary control purposes in order to reserve applicable
+          appropriations, is employed as a control in preventing over-expenditure of established
+          appropriations. Open encumbrances are reported as restricted fund balance in all funds
+          other than the general fund, since they do not constitute expenditures or liabilities and will
+          be honored through budget appropriations in the subsequent year.
+
+     Committed fund balance – Includes amounts that can be used for the specific purposes
+     pursuant to constraints imposed be formal action of the School Districts highest level of
+     decision making authority, i.e., the Board of Education. The School District has no committed
+     fund balances as of June 30, 2016.
+
+     Assigned fund balance – Includes amounts that are constrained by the School District’s intent
+     to be used for specific purposes, but are neither restricted nor committed. All encumbrances of
+     the general fund are classified as assigned fund balance in the general fund. Encumbrances
+     reported in the general fund amounted to $636,386. As of June 30, 2016, the School District’s
+     encumbrances were classified as follows:
+
+     Assigned fund balance:
+
+         General support                     $        617,773
+         Instruction                                   18,613
+
+              Total encumbrances             $        636,386
+
+
+     Unassigned fund balance - Includes all other general fund amounts that do not meet the
+     definition of the above four classifications and are deemed to be available for general use by the
+     School District.
+
+     New York State Real Property Tax Law §1318 limits the amount of unexpended surplus funds
+     the School District can retain to no more than 4% of the School District’s budget for the general
+     fund for the ensuing fiscal year. Non-spendable and restricted fund balance of the general
+     fund are excluded from the 4% limitation. Amounts appropriated for the subsequent year and
+     encumbrances are also excluded from the 4% limitation.
+
+     Order of Fund Balance Spending Policy
+     The District’s policy is to apply expenditures against non-spendable fund balance, restricted
+     fund balance, committed fund balance, assigned fund balance, and unassigned fund balance
+     at the end of the fiscal year. For all funds, non-spendable fund balances are determined first
+     and then restricted fund balances for specific purposes are determined. Any remaining fund
+     balance amounts for funds other than the general fund are classified as restricted fund
+     balance. In the general fund, committed fund balance is determined next and then assigned.
+     The remaining amounts are reported as unassigned. Assignments of fund balance cannot
+     cause a negative unassigned fund balance.
+
+
+
+
+                                                 31
+1.   NATURE OF OPERATIONS AND SUMMARY OF CERTAIN SIGNIFICANT ACCOUNTING
+     POLICIES (Continued)
+
+     Explanation of Certain Differences Between Governmental Fund Statements and
+     Government Wide Statements
+
+     Due to the differences in the measurement focus and basis of accounting used in the
+     governmental fund statements and the School District-wide statements, certain financial
+     transactions are treated differently. The basic financial statements contain a full reconciliation
+     of these items. The differences result primarily from the economic focus of the statement of
+     activities, compared with the current financial resources focus of the governmental funds.
+
+     Total Fund Balances of Governmental Funds vs. Net Position of Governmental
+     Activities
+     Total fund balances of the School District’s governmental funds differ from “net position” of
+     governmental activities reported in the statement of net position. This difference primarily
+     results from the additional long-term economic focus of the statement of net position versus
+     the solely current financial resources focus of the governmental fund balance sheets.
+
+     Statement of Revenue, Expenditures, and Changes in Fund Balance vs. Statement of
+     Activities
+     Differences between the governmental funds statement of revenue, expenditures, and
+     changes in fund balance and the statement of activities fall into one of three broad categories.
+
+         Long-Term Revenue and Expense Differences
+          Long-term revenue differences arise because governmental funds report revenue only
+          when it is considered “available”, whereas the statement of activities reports revenue
+          when earned. Differences in long-term expenses arise because governmental funds
+          report on a modified accrual basis, whereas the accrual basis of accounting is used on
+          the statement of activities.
+
+         Capital Related Differences
+          Capital related differences include the difference between proceeds for the sale of capital
+          assets reported on governmental fund statements and the gain or loss on the sale of
+          assets as reported on the statement of activities, and the difference between recording
+          an expenditure for the purchase of capital items in the governmental fund statements
+          and depreciation expense on those items as recorded in the statement of activities.
+
+         Long-Term Debt Transaction Differences
+          Long-term debt transaction differences occur because both interest and principal
+          payments are recorded as expenditures in the governmental fund statements, whereas
+          interest payments are recorded in the statement of activities as incurred, and principal
+          payments are recorded as a reduction of liabilities in the statement of net position.
+
+
+
+
+                                                 32
+2.   CASH
+
+     Custodial credit risk is the risk that in the event of a bank failure, the District’s deposits may not
+     be returned to it. While the District does not have a specific policy for custodial credit risk, New
+     York State statutes govern the District’s investment policies, as discussed previously in these
+     Notes.
+
+     The District’s aggregate bank balances (disclosed in the financial statements), included
+     balances not covered by depository insurance at year-end, collateralized as follows:
+
+                                                                        Bank                    Carrying
+                                                                       Balance                  Amount
+
+     Cash and cash equivalents, including trust funds              $   16,165,162           $   14,938,653
+
+     Collateralized with securities held by the pledging
+      financial institution's trust department or agent in
+      the District's name                                          $   15,665,162
+
+     Covered by FDIC insurance                                            500,000
+
+             Total                                                 $   16,165,162
+
+     Restricted cash represents cash and cash equivalents where use is limited by legal
+     requirements. These assets represent amounts required by statute to be reserved for various
+     purposes.
+
+     Restricted cash consists of the following:
+
+     General fund:
+        Cash on deposit for reserves
+          Tax certiorari                                                                $       1,336,831
+          Retirement contributions                                                                854,354
+          Workers compensation                                                                    190,000
+          Capital                                                                                 200,000
+
+         Total general fund restricted cash                                             $       2,581,185
+
+     Trust and agency fund:
+        Cash on deposit for scholarships, private purpose trust funds,
+           and extraclassroom activity funds                                            $        165,046
+
+
+
+
+                                                   33
+3.   PARTICIPATION IN BOCES
+
+     During the year, the School District was billed $1,750,205 for BOCES administrative and
+     program costs.
+
+     The School District’s share of BOCES aid amounted to $396,651.
+
+     Financial statements for BOCES are available from the BOCES administrative office.
+
+
+4.   CAPITAL ASSETS, NET
+
+     Capital asset balances and activity for the year ended June 30, 2016, were as follows:
+                                             July 1, 2015                                 June 30, 2016
+                                               Balance       Additions      Deletions        Balance
+     Governmental activities:
+
+     Capital assets that are not depreciated:
+     Land                                       $        793,200    $           -       $       -     $     793,200
+     Construction in progress                            577,412             74,128         292,412         359,128
+
+       Total non-depreciable cost               $    1,370,612      $        74,128     $   292,412   $    1,152,328
+
+     Capital assets that are depreciated:
+     Land improvements                          $    5,188,736      $       145,962     $         -   $    5,334,698
+     Buildings and improvements                     64,948,316              559,092         205,712       65,301,696
+     Furniture & Equipment                           1,176,036               60,355          20,428        1,215,963
+
+       Total depreciable historical cost            71,313,088              765,409         226,140       71,852,357
+
+     Less accumulated depreciation:
+     Land improvements                               3,032,035              262,674               -        3,294,709
+     Buildings and improvements                     26,748,065            1,738,119         205,712       28,280,472
+     Furniture & Equipment                             694,625               81,375          19,929          756,071
+
+        Total accumulated depreciation              30,474,725            2,082,168         225,641       32,331,252
+
+        Total depreciable cost, net             $ 40,838,363        $ (1,316,759)       $      499    $ 39,521,105
+
+     Total investment in capital assets         $ 42,208,975        $     (1,242,631)   $   292,911   $ 40,673,433
+
+
+     Depreciation expense of $2,082,168 for the year ended June 30, 2016, was allocated to
+     specific functions as follows:
+
+     General support                                            291,504
+     Instruction                                              1,790,664
+
+       Total Depreciation                            $        2,082,168
+
+
+
+
+                                                         34
+5.   LONG-TERM DEBT
+
+     Interest on all debt for the year was composed of:
+
+     Interest paid                                                                   $         1,369,807
+     Less: interest accrued in prior year                                                       (255,878)
+     Less: premium amortization                                                                 (358,714)
+     Plus: amortization on loss on refunding                                                     931,818
+     Plus: interest accrued in current year                                                      272,647
+
+       Total expense                                                                 $         1,959,680
+
+
+     Long-term liability balances and activity for the year are summarized below:
+                                                                                                                       Amounts
+                                             Beginning                                               Ending           Due Within
+                                              Balance             Additions        Deletions         Balance          One Year
+     Government activities:
+       Bonds and notes payable:
+        General obligation debt:
+         Serial bonds payable              $ 36,105,000       $    4,600,000   $     2,710,000     $ 37,995,000   $     2,720,000
+         Premium on bonds                     2,720,010                    -           358,714        2,361,296               -
+         Long term BAN                        2,100,000            1,400,000         2,100,000        1,400,000                 -
+              Total Bonds and BANS           40,925,010            6,000,000         5,168,714       41,756,296         2,720,000
+
+     Other liabilities:
+          Other post employment benefits   $ 40,832,356       $    7,425,893   $     2,235,191     $ 46,023,058   $             -
+          State loan payable                      2,952                    -             2,952                -                 -
+          Installment purchase debt             828,883              181,000           282,972          726,911           238,523
+          Judgment and claims                 3,247,226            2,065,820         3,143,358        2,169,688         1,559,920
+          Compensated absences                  913,360               36,056                 -          949,416                 -
+
+          Total other liabilities             45,824,777           9,708,769         5,664,473       49,869,073         1,798,443
+
+          Total long-term liabilities      $ 86,749,787       $ 15,708,769     $ 10,833,187        $ 91,625,369   $     4,518,443
+
+
+     The District has annually issued a BAN that has been determined to be long term debt based
+     on the estimated time of repayment being longer than one year. These funds were obtained to
+     aid in the payment of significant tax certioraris. In the current year, they repaid the previous
+     year’s outstanding BAN and issued another BAN for $1,400,000.
+
+
+
+
+                                                         35
+5.   LONG-TERM DEBT (Continued)
+
+     Issue dates, maturities, and interest rates on outstanding debt are as follows:
+
+                                                                                                               June 30, 2016
+     Bond Issue                                 Issued                  Maturity      Interest Rate               Balance
+
+
+     Refunding Bond 2014                         2014                     2023        2.00%-5.00%              $    6,655,000
+     Refunding Bond 2015                         2015                     2032        2.75%-5.00%                  23,570,000
+     Serial Bond 2015                            2016                     2030        2.00%-3.00%                   4,290,000
+     Tax Certiorari Refunds                      2008                     2022        3.50% - 4.00%                 2,380,000
+     Tax Certiorari Refunds                      2008                     2023        4.50% - 5.00%                 1,100,000
+
+        Total                                                                                                  $   37,995,000
+
+
+     The following is a summary of the maturities of bonds payable:
+
+                                                                        Principal               Interest                    Total
+     Fiscal Year Ending June 30,
+                 2017                                              $      2,720,000        $     1,321,175         $      4,041,175
+                 2018                                                     2,815,000              1,236,819                4,051,819
+                 2019                                                     2,920,000              1,125,150                4,045,150
+                 2020                                                     3,035,000              1,025,556                4,060,556
+                 2021                                                     3,220,000                918,732                4,138,732
+              2022-2026                                                  11,310,000              2,858,356               14,168,356
+              2027-2031                                                  10,095,000              1,166,300               11,261,300
+                 2032                                                     1,880,000                 56,400                1,936,400
+
+                        Totals                                     $     37,995,000        $     9,708,488         $     47,703,488
+
+
+6.   INTERFUND BALANCES AND ACTIVITY
+
+                                                        Interfund                                 Interfund
+                                           Receivable                  Payable            Revenue          Expenditure
+
+     General fund                      $       306,720         $               -      $           -        $       84,457
+     Special aid fund                                -                   302,541               41,836                   -
+     Capital fund                                    -                         -               42,621                   -
+     Fiduciary funds                                 -                     4,179                    -                   -
+
+       Total governmental activities   $       306,720         $         306,720      $        84,457      $       84,457
+
+
+
+
+                                                    36
+6.    INTERFUND BALANCES AND ACTIVITY (Continued)
+
+      Interfund receivables and payables, other than between governmental activities and fiduciary
+      funds, are eliminated on the Statement of Net Position.
+
+      The School District typically loans resources between funds for the purpose of mitigating the
+      effects of transient cash flow issues.
+
+      All interfund payables are expected to be repaid within one year.
+
+
+7.    PENSION PLANS
+
+       New York State and Local Retirement System
+
+      The District participates in the New York State and Local Retirement System (ERS). ERS is a
+      cost-sharing multiple-employer retirement system, providing retirement benefits as well as
+      death and disability benefits. The net position of the ERS is held in the New York State
+      Common Retirement Fund (the Fund), established to hold all net assets and record changes in
+      plan net position allocated to ERS. ERS benefits are established under the provisions of the
+      New York Retirement and Social Security Law (RSSL). Once an employer elects to participate
+      in ERS, the election is irrevocable.
+
+      The New York State Constitution provides that pension membership is a contractual
+      relationship and plan benefits cannot be diminished or impaired. Benefits can be changed for
+      future members only by enactment of a State statute. The District also participates in the
+      Public Employees’ Group Life Insurance Plan (GLIP), which provides death benefits in the
+      form of life insurance. The system is included in the State’s financial report as a pension trust
+      fund. That report, including information with regard to benefits provided, may be found at
+      www.osc.state.ny.us/retire/publications/index.php or obtained by writing to the New York State
+      and Local Retirement System, 110 State Street, Albany, NY 12244.
+
+      Contributions
+      ERS is noncontributory except for employees who joined ERS after July 27, 1976, who
+      contribute 3 percent of their salary for the first ten years of membership, and employees who
+      joined on or after January 1, 2010 who generally contribute 3 percent of their salary for their
+      entire length of service. Under the authority of the NYSRSSL, the Comptroller annually certifies
+      the actuarially determined rates expressly used in computing the employers’ contributions
+      based on salaries paid during the Systems’ fiscal year ending March 31. Contributions for the
+      current year and two preceding years were equal to 100 percent of the contributions required,
+      and were as follows:
+
+                                        2016        $   807,467
+                                        2015            815,841
+                                        2014            907,555
+
+      Chapter 260 of the Laws of 2004 of the State of New York allows local employers to bond or
+      amortize a portion of their retirement bill for up to 10 years in accordance with the following
+      schedule:
+      For State fiscal year (SFY) 2004-05, the amount in excess of 7 percent of employees’
+        covered pensionable salaries, with the first payment of those pensions’ costs not due until
+        the fiscal year succeeding that fiscal year in which the bonding/amortization was instituted.
+      For SFY 2005-06, the amount in excess of 9.5 percent of employees’ covered pensionable
+        salaries.
+      For SFY 2007-08, the amount in excess of 10.5 percent of the employee’s covered
+        pensionable salaries.
+
+
+                                               37
+7.       PENSION PLANS (Continued)
+
+     New York State Employees’ Retirement System (Continued)
+
+     This law requires all participating employers to make payments on the current basis, while
+     bonding or amortizing existing unpaid amounts relating to the System’s fiscal years ending
+     March 31, 2005 through 2008. The total unpaid liability at the end of the fiscal year was
+     $2,592,994 and is recorded in the Statement of Net Position.
+
+         Chapter 57 of the Laws of 2010 of the State of New York allows local employers to amortize
+          a portion of their retirement bill for 10 years in accordance with the following stipulations:
+         For state fiscal year 2010-11, the amount in excess of the graded rate of 9.5 percent of
+          employees’ covered pensionable salaries, with the first payment of those pension costs not
+          due until the fiscal year succeeding that fiscal year in which the amortization was instituted.
+         For subsequent State fiscal years, the graded rate will increase or decrease by up to one
+          percent depending on the gap between the increase or decrease in the System’s average
+          rate and the previous graded rate.
+
+          For subsequent State fiscal years in which the System’s average rates are lower than the
+          graded rates, the employer will be required to pay the graded rate. Any additional
+          contributions made will first be used to pay off existing amortizations, and then any excess
+          will be deposited into a reserve account and will be used to offset future increases in
+          contribution rates.
+
+     Pension Liabilities, Pension Expense, and Deferred Outflows of Resources and Deferred
+     Inflows of Resources Related to Pensions
+
+     At June 30, 2016, the District reported a net pension liability of $2,842,994 for its proportionate
+     share of the net pension liability. The net pension liability was measured as of March 31, 2016,
+     and the total pension liability used to calculate the net pension liability was determined by the
+     actuarial valuation as of that date. The District’s proportion of the net pension liability was based
+     on a projection of the Districts’ long-term share of contributions to the pension plan relative to the
+     projected contributions of all participating members, actuarially determined.
+
+     At June 30, 2016, the District’s proportion was 0.0177130 percent, which was an increase of 2%
+     from its proportion measured June 30, 2015.
+
+
+
+
+                                                38
+7.   PENSION PLANS (Continued)
+
+      New York State Employees’ Retirement System (Continued)
+
+      For the year ended June 30, 2016, the District recognized pension expense of $1,009,873.
+      At June 30, 2016, the District reported deferred outflows of resources and deferred inflows of
+      resources related to pensions from the following sources:
+
+                                                                                               Deferred
+                                                                                               Outflows        Deferred Inflows
+                                                                                                  of                  of
+                                                                                               Resources         Resources
+
+
+      Differences between expected and actual experience                                             14,366           336,989
+      Changes of Assumptions                                                                        758,141                  -
+      Net difference between projected and actual earnings on pension plan investments             1,686,620                 -
+      Changes in proportion and differences between the District's
+         contributions and proportionate share of contributions                                      34,696            33,813
+      Contributions subsequent to the measurement date                                               237,206                -
+                                                                                                   2,731,029          370,802
+
+      $237,206 reported as deferred outflows of resources related to pensions resulting from the
+      District’s contributions subsequent to the measurement date will be recognized as a
+      reduction of the net pension liability in the year ended June 30, 2017. Other amounts
+      reported as deferred outflows of resources and deferred inflows of resources related to
+      pensions will be recognized in pension expense as follows:
+                                       Plan's Year Ended March 31:
+                                                                       2017    $         535,630
+                                                                       2018              535,630
+                                                                       2019              535,630
+                                                                       2020              516,131
+                                                                  Thereafter              -
+                                                                               $    2,123,021
+
+      Actuarial Assumptions
+      The total pension liability at March 31, 2016 was determined by using an actuarial valuation
+      as of April 1, 2015, with update procedures used to roll forward the total pension liability to
+      March 31, 2016. The actuarial valuation used the following actuarial assumptions:
+
+      Actuarial cost method                       Entry age normal
+      Inflation                                   2.50%
+      Salary scale                                3.8 percent indexed by service
+      Projected COLAs                             1.3% compounded annually
+      Decrements                                  Developed from the Plan's 2015 experience study of the
+                                                    period April 1, 2010 through March 31, 2015
+      Mortality improvement                       Society of Actuaries Scale MP-2014
+      Investment Rate of Return                   7.0% compounded annually, net of investment expenses
+
+                                                     39
+7.       PENSION PLANS (Continued) The long-term expected rate of return on pension
+plan investments was determined using a building-block method in which best-estimate
+ranges of expected future real rates of return (expected return, net of investment expenses
+and inflation) are developed for each major asset class. These ranges are combined to
+produce the long-term expected rate of return by weighting the expected future real rates of
+return by the target asset allocation percentage and by adding expected inflation. The
+allocation and best estimates of arithmetic real rates of return for each major asset class as
+of March 31, 2016 are summarized below:
+
+
+
+New York State and Local Retirement System (Continued)
+
+
+                                                Target           Long-term expected
+Asset Class                                    Allocation          real rate of term
+Domestic Equity                                        38.0%                    7.30%
+International Equity                                   13.0%                    8.55%
+Private Equity                                         10.0%                   11.00%
+Real Estate                                              8.0%                   8.25%
+Absolute Return                                          3.0%                   6.75%
+Opportunistic Portfolio                                  3.0%                   8.60%
+Real Asset                                               3.0%                   8.65%
+Bonds, Cash & Mortgages                                18.0%                    4.00%
+Cash                                                     2.0%                   2.25%
+Inflation Indexed Bonds                                2.0%                     4.00%
+                                                     100.0%
+
+
+Discount Rate
+The discount rate used to calculate the total pension liability was 7.0%. The projection of
+cash flows used to determine the discount rate assumes that contributions from plan
+members will be made at the current contribution rates and that contributions from employers
+will be made at statutorily required rates, actuarially. Based upon the assumptions, the Plan’s
+fiduciary net position was projected to be available to make all projected future benefit
+payments of current plan members. Therefore the long term expected rate of return on
+pension plan investments was applied to all periods of projected benefit payments to
+determine the total pension liability.
+
+
+
+
+                                      40
+7.   PENSION PLANS (Continued)
+
+      New York State and Local Retirement System (Continued)
+
+      Sensitivity of the Proportionate Share of the Net Pension Liability to the Discount Rate
+      Assumption
+      The following presents the District’s proportionate share of the net pension liability calculated
+      using the discount rate of 7.0 percent, as well as what the District’s proportionate share of
+      the net pension liability would be if it were calculated using a discount rate that is 1 percent
+      lower (6.0%) or 1 percent higher (8.0%) than the current rate:
+
+
+                                                                                                                              1% Increase
+                                                      1 % Decrease (6.0%)           Current Assumption (7.0%)                   (8.0%)
+
+       Proportionate Share of Net Pension
+                 Liability (Asset)                $                   6,410,744      $                 2,842,994     $                 (171,603)
+
+
+      Pension Plan Fiduciary Net Position
+      The components of the current-year net pension liability of the employers as of March 31,
+      2016, were as follows (in thousands):
+
+                                                                                                                                   District's
+                                                                                                            District's            allocation
+                                                                                  Pension Plan's       proportionate share      percentage as
+                                                                                   Fiduciary Net       of Plan's Fiduciary      determined by
+                                                                                      Position            Net Position             the Plan
+
+      Total pension liability                                                 $          172,303,544   $           30,520          0.0177130%
+      Net position                                                                   (156,253,265)                 (27,677)        0.0177130%
+      Net pension liability (asset)                                           $        16,050,279      $             2,843         0.0177130%
+
+      Fiduciary net position as a percentage of total pension liability                        90.7%                90.7%
+
+
+      New York State Teachers’ Retirement System
+
+      The District participates in the New York State Teachers’ Retirement System (NYSTRS).
+      This is a cost-sharing, multiple employer public employee retirement system. The system
+      offers a wide range of plans and benefits, which are related to years of service and final
+      average salary, vesting of retirement benefits, death, and disability.
+
+      The New York State Teachers’ Retirement Board administers NYSTRS. The system
+      provides benefits to plan members and beneficiaries as authorized by the Education Law
+      and the Retirement and Social Security Law of the State of New York. NYSTRS issues a
+      publicly available financial report that contains financial statements and required
+      supplementary information for the system. The report may be obtained by writing to
+      NYSTRS, 10 Corporate Woods Drive, Albany, New York 12211-2395.
+
+
+
+
+                                                            41
+7.      PENSION PLANS (Continued)
+
+          New York State Teachers’ Retirement System (Continued)
+
+          Contributions
+
+          The System is noncontributory for the employees who joined prior to July 27, 1976. For
+          employees who joined the System after July 27, 1976, and prior to January 1, 2010,
+          employees contribute 3% of their salary, except that employees in the System more than ten
+          years are no longer required to contribute. For employees who joined after January 1, 2010
+          and prior to April 1, 2012, contributions of 3.5% are paid throughout their active membership.
+
+          Employees who joined after April 1, 2012, contribute 3% to 6% of their salary throughout
+          their active membership. Pursuant to Article 11 of the Education Law, the New York State
+          Teachers’ Retirement Board establishes rates annually for NYSTRS.
+
+          The District is required to contribute at an actuarially determined rate. The District
+          contributions made to the systems were equal to 100% of the contributions required for each
+          year. The required contributions for the current year and two preceding years were:
+
+                                                              2016   $    3,726,288
+                                                              2015        3,861,050
+                                                              2014        2,448,947
+
+          Pension Liabilities, Pension Expense, and Deferred Outflows of Resources and
+          Deferred Inflows of Resources Related to Pensions
+
+          At June 30, 2016, the District reported an asset of $14,698,317 for its proportionate share of
+          the net pension asset. The net pension asset was measured as of June 30, 2015, and the
+          total pension liability used to calculate the net pension asset was determined by the actuarial
+          valuation as of that date. The District’s proportion of the net pension asset was based on a
+          projection of the Districts’ long-term share of contributions to the pension plan relative to the
+          projected contributions of all participating members, actuarially determined.
+
+          At June 30, 2016, the District’s proportion was 0.141509 percent, which was an increase of 4
+          percent from its proportion measured June 30, 2015.
+
+          For the year ended June 30, 2016, the District recognized pension expense of $(1,004,038).
+          At June 30, 2016 the District reported deferred outflows of resources and deferred inflows of
+          resources related to pensions from the following sources:
+
+                                                                                          Deferred
+                                                                                          Outflows      Deferred Inflows
+                                                                                             of                of
+                                                                                          Resources       Resources
+
+
+Differences between expected and actual experience                                    $           -     $      407,353
+Net difference between projected and actual earnings on pension plan investments                  -          4,646,215
+Changes in proportion and differences between the District's
+     contributions and proportionate share of contributions                                       -            191,638
+Contributions subsequent to the measurement date                                            3,304,292              -
+                                                                                      $     3,304,292   $    5,245,206
+
+
+
+                                                         42
+7.   PENSION PLANS (Continued)
+
+      New York State Teachers’ Retirement System (Continued)
+
+      $3,304,292 reported as deferred outflows of resources related to pensions resulting from the
+      District’s contributions subsequent to the measurement date will be recognized as a
+      reduction of the net pension liability in the year ended June 30, 2017. Other amounts
+      reported as deferred inflows of resources related to pensions that will be recognized in
+      pension expense as follows:
+
+                                  Plan's Year Ended June 30:
+                                                            2016       $    (1,897,347)
+                                                            2017            (1,897,347)
+                                                            2018            (1,897,347)
+                                                            2019              749,340
+                                                            2020               (74,122)
+                                                    Thereafter                (228,383)
+                                                                       $    (5,245,206)
+
+      Actuarial Assumptions
+      The total pension liability at the June 30, 2015 measurement date was determined by an
+      actuarial valuation as of June 30, 2014, with update procedures used to roll forward the total
+      pension liability to June 30, 2015. These actuarial valuations used the following actuarial
+      assumptions:
+      Inflation                            3.00%
+      Projected Salary Increases           Rates of increase differ based on age and gender.
+                                           They have been calculated based upon recent NYSTRS
+                                           member experience.
+
+                                              Age        Female     Male
+                                              25         10.35%    10.91%
+                                              35         6.26%     6.27%
+                                              45         5.39%     5.04%
+                                              55         4.42%     4.01%
+
+
+      Projected COLAs                      1.625% compounded annually
+      Investment Rate of Return            8.0% compounded annually, net of pension plan investment
+                                           expense, including inflation.
+
+      Annuitant morality rates are based on plan member experience, with adjustments for
+      mortality improvements based on society of Actuaries Scale AA.
+
+      The actuarial assumptions used in the June 30, 2014 were based on the results of an
+      actuarial experience study for the period July 1, 2005 to June 30, 2010.
+
+
+
+
+                                                    43
+7.   PENSION PLANS (Continued)
+
+      New York State Teachers’ Retirement System (Continued)
+
+      The long-term expected rate of return on pension plan investments was determined in
+      accordance with Actuarial Standard of Practice (ASOP) No. 27, Selection of Economic
+      Assumptions for Measuring Pension Obligations. ASOP No. 27 provides guidance on the
+      selection of an appropriate assumed investment rate of return. Consideration was given to
+      expected future real rates of return (expected returns, net of pension plan investment
+      expense and inflation) for each major asset class as well as historical investment data and
+      plan performance. Best estimates of arithmetic real rates of return for each major asset
+      class included in the Systems target asset allocation as of the valuation date of June 30,
+      2015 are summarized in the following table:
+
+                                                               Target                 Long-term expected
+      Asset Class                                             Allocation                real rate of term
+      Domestic Equity                                                   37.0%                          6.50%
+      International Equity                                              18.0%                          7.70%
+      Real Estate                                                       10.0%                          4.60%
+      Alternative Investments                                             7.0%                         9.90%
+      Domestic fixed Income Securities                                  17.0%                          2.10%
+      Global Fixed Income Securities                                      2.0%                         1.90%
+      Mortgages                                                           8.0%                         3.40%
+      Short - term fixed income                                           1.0%                         1.20%
+                                                                        100.0%
+
+
+      Discount Rate
+      The discount rate used to measure the total pension liability was 8.0 percent. The projection
+      of cash flows used to determine the discount rate assumed that contributions from plan
+      members will be made at the current member contribution rates and that contributions from
+      school districts will be made at statutorily required rates, actuarially determined. Based on
+      those assumptions, the System’s fiduciary net position was projected to be available to make
+      all projected future benefit payments of current plan members. Therefore, the long-term
+      expected rate of return on pension plan investments was applied to all periods of projected
+      benefit payments to determine the total pension liability.
+
+      Sensitivity of the Proportionate Share of the Net Pension Liability to the Discount Rate
+      Assumption
+
+      The following presents the net pension liability (asset) of the school districts calculated using
+      the discount rate of 8.0 percent, as well as what the school districts’ net pension liability
+      (asset) would be if it were calculated using a discount rate that is 1-percentage-point lower
+      (7.0 percent) or 1-percentage-point higher (9.0 percent) than the current rate:
+
+                                               1 % Decrease              Current Assumption           1% Increase
+                                                  (7.0%)                       (8.0%)                   (9.0%)
+
+        Proportionate Share of Net Pension
+                  Liability (Asset)        $            1,002,615   $              (14,698,317)   $         (28,087,915)
+
+
+
+                                                   44
+7.   PENSION PLANS (Continued)
+
+       New York State Teachers Retirement System (Continued)
+
+       Pension Plan Fiduciary Net Position
+       The components of the current-year net pension (asset) of the employers plan as June 30,
+       2015, were as follows:
+                                                                                                                           District's
+                                                                                                       District's         allocation
+                                                                               Pension Plan's     proportionate share   percentage as
+                                                                                Fiduciary Net     of Plan's Fiduciary   determined by
+                                                                                   Position          Net Position          the Plan
+       Total pension liability                                             $        99,332,104    $          140,564      0.1415090%
+       Net position                                                               (109,718,917)             (155,262)     0.1415090%
+       Net pension liability (asset)                                       $       (10,386,813)   $          (14,698)     0.1415090%
+
+       Fiduciary net position as a percentage of total pension liability                110.5%                110.5%
+
+
+8.   OTHER POST EMPLOYMENT BENEFITS
+
+     Plan Description
+     The District provides certain other post-employment benefits (predominately health insurance)
+     for retired employees of the District. The District administers the Other Post Employment
+     Benefits Plan (the "OPEB Plan") as a single-employer defined benefit Other Post Employment
+     Benefit Plan (OPEB).
+
+     In general, the District provides health insurance coverage for retired employees and their
+     survivors. Substantially all the District’s employees may become eligible for this benefit if they
+     reach age 55 and retire with 10-20 years of service to the District.
+
+     The Retirement Plan can be amended by action of the District subject to applicable collective
+     bargaining and employment agreements. The number of retired employees currently eligible to
+     receive benefits at June 30, 2016, was approximately 157. The OPEB Plan does not issue a
+     stand-alone financial report because there are no assets legally segregated for the sole purpose
+     of paying benefits under the plan.
+
+     Funding Policy
+     The obligations of the OPEB Plan are established by action of the District pursuant to applicable
+     collective bargaining and employment agreements. The required premium contribution rates of
+     retirees range from 0% to 65%, depending on whether its employee or spouse. The District will
+     pay its portion of the premium for the retiree and spouse for the lifetime of the retiree. The costs
+     of administering the OPEB Plan are paid by the District. The District currently contributes
+     enough money to the OPEB Plan to satisfy current obligations on a pay-as-you-go basis to cover
+     annual premiums. The amount paid during 2016 by the District was $1,722,255.
+
+     Annual OPEB Cost and Net OPEB Obligation
+     The District's annual OPEB cost is calculated based on the annual required contribution of the
+     employer (ARC), an amount actuarially determined in accordance with generally accepted
+     accounting principles. The ARC represents a level of funding that, if paid on an ongoing basis,
+     is projected to cover the normal cost each year plus the amortization of the unfunded actuarial
+     accrued liability over a period not to exceed 30 years.
+
+
+                                                                 45
+8.   OTHER POST-EMPLOYMENT BENEFITS (Continued)
+
+     The following table shows the components of the District’s annual OPEB cost for the year, the
+     amount actually contributed to the Retirement Plan, and the changes in the District’s net OPEB
+     obligation:
+
+
+        Annual required contribution                                 $       9,601,839
+        Interest on net OPEB obligation                                      1,570,788
+        Adjustment to ARC                                                   (3,746,734)
+
+        Annual OPEB cost (expense)                                           7,425,893
+        Contributions made                                                  (2,235,191)
+
+        Increase in net OPEB obligation                                      5,190,702
+
+        Net OPEB obligation - beginning of year                             40,832,356
+
+        Net OPEB obligation - end of year                            $      46,023,058
+
+        Percentage of annual OPEB cost contributed                          30.1%
+
+
+     Trend information – The District’s annual OPEB cost, the percentage of the annual OPEB cost
+     contributed to the plan, and the net OPEB obligation is as follows:
+
+         Year          OPEB              Contribution         OPEB Cost           % of ARC          OPEB
+        Ended          Cost                (ARC)              Contributed        Contributed       Obligation
+
+       6/30/16     $    8,988,550    $      9,601,839        $ (2,235,191)                -23%   $ 46,023,058
+       6/30/15          8,918,168           9,424,428          (2,088,863)                -22%     39,269,699
+       6/30/14          7,639,576           8,069,533          (2,750,149)                -34%     32,440,394
+
+     Funded Status and Funding Progress
+     The projection of future benefits for an ongoing plan involves estimates of the value of reported
+     amounts and assumptions about the probability of occurrence of events far into the future.
+     Examples include assumptions about future employment, mortality, and the healthcare cost
+     trend. Amounts determined regarding the funded status of the OPEB Plan and the annual
+     required contributions of the employer are subject to continual revision as actual results are
+     compared with past expectations and new estimates are made about the future. The OPEB
+     Plan is currently not funded.
+
+     The schedule of funding progress presents information on the actuarial value of plan assets
+     relative to the actuarial accrued liabilities for benefits. In the future, the schedule will provide
+     multi-year trend information about the value of plan assets relative to the AAL.
+
+     Actuarial Methods and Assumptions
+     Projections of benefits for financial reporting purposes are based on the substantive plan and
+     include the types of benefits provided at the time of each valuation and the historical pattern of
+     sharing benefit costs between the employer and plan members to that point. The actuarial
+     methods and assumptions used include techniques that are designed to reduce the effects of
+     short-term volatility in actuarial accrued liabilities and the actuarial value of assets, consistent
+     with the long-term perspective of the calculations.
+
+
+                                                        46
+8.    OTHER POST EMPLOYMENT BENEFITS (Continued)
+
+      In the July 1, 2015 actuarial valuation, the following methods and assumptions were used:
+
+      Actuarial cost method                         Projected unit credit
+      Discount rate*                                4.0%
+      Medical care cost trend rate                  9% in 2014, decreasing 0.5% per year to an
+                                                    ultimate rate of 5.0% in 2022
+      Unfunded actuarial accrued liability:
+       Amortization period                          30 years
+       Amortization method                          Level dollar
+       Amortization basis                           Open
+
+      * As the plan is unfunded, the assumed discount rate considers that the District's investment
+      assets are low risk in nature, such as money market funds or certificates of deposit.
+
+
+9.    RISK MANAGEMENT
+
+      The School District is exposed to various risks of loss related to torts, theft, damage, injuries,
+      errors and omissions, natural disasters, and other risks. These risks are covered by
+      commercial insurance purchased from independent third parties. Settled claims from these
+      risks have not exceeded commercial insurance coverage for the past two years.
+
+
+10.   STEWARDSHIP, COMPLIANCE AND ACCOUNTABILITY
+
+      Budgets
+      The District administrations prepare a proposed budget for approval by the Board of Education
+      for the General Fund. The voters of the District approved the proposed appropriation budget
+      for the General Fund.
+
+      Appropriations are adopted at the program line item level.
+
+      Appropriations established by the adoption of the budget constitute a limitation on
+      expenditures (and encumbrances) that may be incurred. Appropriations lapse at the end of
+      the fiscal year unless expended or encumbered. Encumbrances will lapse if not expended in
+      the subsequent year. Appropriations authorized for the current year are increased by the
+      planned use of specific reserves, and budget amendments approved by the Board of
+      Education as a result of selected new revenue sources not included in the original budget
+      (when permitted by law). These Supplemental appropriations may occur subject to legal
+      restrictions, if the Board approves them because of a need that exists which was not
+      determined at the time the budget was adopted. No supplemental appropriations occurred
+      during the year.
+
+      Budgets are adopted annually on a basis consistent with generally accepted accounting
+      principles. Appropriations authorized for the year are increased by the amount of
+      encumbrances carried forward from the prior year.
+
+      Budgets are established and used for individual capital project funds expenditures as approved
+      by a special referendum of the District’s voters. The maximum project amount authorized is
+      based primarily upon the cost of the project, plus any requirements for external borrowings, not
+      annual appropriations. These budgets do not lapse and are carried over to subsequent fiscal
+      years until the completion of the projects.
+
+      Portions of fund balances are reserved and not available for current expenses or expenditures,
+      as reported in the governmental funds balance sheet.
+
+                                                  47
+11.   CONTINGENCIES AND COMMITMENTS
+
+      General Information
+      The School District has received grants which are subject to audit by agencies of the state and
+      federal governments. Such audits may result in disallowances and a request for a return of
+      funds. Based on prior audits, the School District’s administration believes disallowances, if any,
+      will be immaterial.
+
+      The School District has various commitments with contractors for the completion of capital
+      projects.
+
+
+12.   ACCOUNTING PRONOUNCEMENT ISSUED NOT YET IMPLEMENTED
+
+      In June 2015, the GASB issued Statement No. 75 Accounting and Financial Reporting for
+      Postemployment Benefits Other Than Pensions. Statement No. 75 replaces the requirements
+      of Statements No. 45, Accounting and Financial Reporting by Employers for Postemployment
+      Benefits Other Than Pensions, as amended, and No. 57, OPEB Measurements by Agent
+      Employers and Agent Multiple-Employer Plans, for OPEB. Statement No. 74, Financial
+      Reporting for Postemployment Benefit Plans Other Than Pension Plans, establishes new
+      accounting and financial reporting requirements for OPEB plans. The District is required to
+      adopt the provisions of these Statements for the year ending June 30, 2018, with early adoption
+      encouraged.
+
+      In August 2015, the GASB issued Statement No. 77 Tax Abatement Disclosures. This
+      Statement establishes financial reporting standards for tax abatement agreements entered into
+      by state and local governments. The disclosures required by this Statement encompass tax
+      abatements resulting from both (a) agreements that are entered into by the reporting
+      government and (b) agreements that are entered into by other governments and that reduce
+      the reporting government’s tax revenues. The provisions of this Statement should be applied to
+      all state and local governments subject to such tax abatement agreements. The District is
+      required to adopt the provisions of these Statements for the year ending June 30, 2018, with
+      early adoption encouraged.
+
+      The District has not assessed the impact of these statements on its future financial statements.
+
+
+
+
+                                                  48
+REQUIRED SUPPLEMENTARY INFORMATION
+IRVINGTON UNION FREE SCHOOL DISTRICT
+
+SCHEDULE OF REVENUE, EXPENDITURES, AND CHANGES IN FUND BALANCE - BUDGET AND ACTUAL - GENERAL FUND
+FOR THE YEAR ENDED JUNE 30, 2016
+
+
+
+
+                                                                                                                               Final Budget
+                                                                         Original            Final            Actual          Variance with
+                                                                         Budget             Budget       (Budgetary Basis)   Budgetary Actual
+REVENUE
+
+LOCAL SOURCES:
+ Real property taxes                                                 $   50,927,598     $   46,720,066    $   46,680,888     $      (39,178)
+ Other tax items                                                          1,177,000          5,384,532         5,382,266             (2,266)
+ Charges for services                                                       976,900            976,900           807,166           (169,734)
+ Use of money and property                                                  360,000            360,000           366,661              6,661
+ Sale of property and compensation for loss                                       -                  -             9,800              9,800
+ Miscellaneous                                                              505,000            505,000           322,171           (182,829)
+
+   Total local sources                                                   53,946,498         53,946,498        53,568,952           (377,546)
+
+State sources                                                             3,285,502          3,309,269         3,392,261             82,992
+Medicaid reimbursement                                                       10,000             10,000                76             (9,924)
+
+   Total revenue                                                     $   57,242,000     $   57,265,767    $   56,961,289     $     (304,478)
+
+OTHER FINANCING SOURCES
+
+ Transfers from other funds                                                         -                -                 -                   -
+
+
+   Total revenues and other sources                                      57,242,000         57,265,767        56,961,289           (304,478)
+
+
+
+
+                                                                  (Continued)
+
+
+
+
+                                                  See accompanying independent auditor's report
+                                                                      49
+IRVINGTON UNION FREE SCHOOL DISTRICT
+SCHEDULE OF REVENUE, EXPENDITURES, AND CHANGES IN FUND BALANCE - BUDGET AND ACTUAL - GENERAL FUND (Continued)
+FOR THE YEAR ENDED JUNE 30, 2016
+
+
+
+                                                                                                                                                      Final Budget
+                                                                              Original            Final              Actual                          Variance with
+                                                                              Budget             Budget         (Budgetary Basis)   Encumbrances    Budgetary Actual
+EXPENDITURES
+
+GENERAL SUPPORT:
+ Board of education                                                       $       69,195     $       96,970      $       78,893     $      4,882    $       13,195
+ Central administration                                                          359,459            363,350             359,715                -             3,635
+ Finance                                                                         597,608            619,401             589,586               92            29,723
+ Staff                                                                           372,818            424,726             359,144                -            65,582
+ Central services                                                              4,071,073          4,700,775           3,940,615          612,799           147,361
+ Special items                                                                   451,337          2,990,202           2,974,399                -            15,803
+
+    Total general support                                                      5,921,490          9,195,424           8,302,352          617,773           275,299
+
+INSTRUCTION:
+  Instruction, administration, and improvement                                 1,742,906          1,762,080           1,705,048              434            56,598
+  Teaching - Regular school                                                   17,119,546         17,054,381          16,842,356           11,775           200,250
+  Programs for children with handicapping conditions                           8,381,916          8,157,271           7,482,713              987           673,571
+  Occupational education                                                         131,942            131,942             130,528                -             1,414
+  Instructional media                                                          1,582,034          1,603,494           1,488,210            4,737           110,547
+  Pupil services                                                               2,977,291          3,049,494           2,998,068              680            50,746
+
+    Total instruction                                                         31,935,635         31,758,662          30,646,923           18,613         1,093,126
+
+Pupil transportation                                                           2,280,967          2,281,125           2,027,962                -           253,163
+Employee benefits                                                             12,336,196         12,361,671          12,058,648                -           303,023
+Debt service - Principal                                                       3,623,728          3,696,072           3,695,924                -               148
+Debt service - Interest                                                        1,510,984          1,372,019           1,369,807                -             2,212
+
+    Total expenditures                                                        57,609,000         60,664,973          58,101,616          636,386         1,926,971
+
+OTHER FINANCING USES
+
+  Transfers to other funds                                                        55,000               92,121           84,457                 -             7,664
+
+
+    Total expenditures and other uses                                         57,664,000         60,757,094          58,186,073          636,386         1,934,635
+
+NET CHANGE IN FUND BALANCES                                                     (422,000)         (3,491,327)        (1,224,784)        (636,386)        1,630,157
+
+FUND BALANCE - beginning of year                                                                                      7,305,555
+
+FUND BALANCE - end of year                                                                                       $    6,080,771
+
+
+
+
+                                                       See accompanying independent auditor's report
+                                                                           50
+IRVINGTON UNION FREE SCHOOL DISTRICT
+
+SCHEDULE OF FUNDING PROGRESS - OTHER POST EMPLOYMENT BENEFITS PLAN
+FOR THE YEAR ENDED JUNE 30, 2016
+
+
+                                  (a)                 (b)                 (b-a)             (a/b)                (c)            ((b-a)/c)
+                               Actuarial          Actuarial             Unfunded                                              UAAL as a
+                               Value of           Accrued                 AAL              Funded              Covered       percentage of
+Actuarial Valuation Date        Assets         Liability (AAL)           (UAAL)             Ratio               Payroll     Covered Payroll
+
+July 1, 2015               $               -   $    96,542,559      $   96,542,559                 0.00%   $   27,689,459         348.66%
+July 1, 2014               $               -   $    87,964,133      $   87,964,133                 0.00%   $   26,591,312         330.80%
+July 1, 2012               $               -   $    77,832,540      $   77,832,540                 0.00%   $   24,491,420         317.80%
+July 1, 2010               $               -   $    66,167,808      $   66,167,808                 0.00%   $   22,591,312         292.89%
+
+
+
+
+                                                   See accompanying independent auditor's report
+                                                                       51
+IRVINGTON UNION FREE SCHOOL DISTRICT
+
+SCHEDULE OF PROPORTIONATE SHARE OF NET PENSION LIABILITY (ASSET)
+FOR THE YEAR ENDED JUNE 30, 2016
+
+                                                                                                                             Last 10 Fiscal Years (Dollar amounts displayed in thousands)
+
+NEW YORK STATE EMPLOYEES' RETIREMENT SYSTEM PLAN                                                2016               2015         2014         2013         2012         2011         2010    2009   2008   2007
+
+Proportion of the net pension liability (asset)                                          0.0177130%         0.0173740%
+
+Proportionate share of the net pension liability (asset)                             $      2,843.0     $        586.9
+
+Covered-employee payroll                                                             $      4,619.1     $      4,526.5
+
+Proportionate share of the net pension liability (asset)
+  as a percentage of its covered-employee payroll                                            61.55%         12.97%
+
+Plan fiduciary net position as a percentage of the total pension liability (asset)           90.68%         97.95%
+
+
+
+
+                                                                                                                             Last 10 Fiscal Years (Dollar amounts displayed in thousands)
+NEW YORK STATE TEACHERS' RETIREMENT SYSTEM PLAN                                                 2016               2015         2014         2013          2012         2011         2010   2009   2008   2007
+
+Proportion of the net pension liability (asset)                                          0.1415090%         0.1360390%
+
+Proportionate share of the net pension liability (asset)                             $     (14,698.3)   $     (15,153.9)
+
+Covered-employee payroll                                                             $     21,257.0     $     20,095.1
+
+Proportionate share of the net pension liability (asset)
+  as a percentage of its covered-employee payroll                                           -69.15%         -75.41%
+
+Plan fiduciary net position as a percentage of the total pension liability (asset)          110.46%         111.48%
+
+
+
+
+                                                                                          See accompanying independent auditor's report
+                                                                                                              52
+IRVINGTON UNION FREE SCHOOL DISTRICT
+
+SCHEDULE OF CONTRIBUTIONS - PENSION PLANS
+FOR THE YEAR ENDED JUNE 30, 2016
+
+                                                                                                                          Last 10 Fiscal Years (Dollar amounts displayed in thousands)
+NEW YORK STATE EMPLOYEES' RETIREMENT SYSTEM PLAN                           2016           2015              2014             2013              2012             2011             2010    2009   2008   2007
+
+
+Contractually required contribution                                    $      807.5   $        815.8
+Contributions in relation to the contractually required contribution          807.5            815.8
+Contribution deficiency (excess)                                       $        -     $          -
+
+
+Covered-employee payroll                                               $    4,619.1   $      4,526.5
+Contributions as a percentage of covered-employee payroll                    17.48%          18.02%
+
+
+
+
+                                                                                                                         Last 10 Fiscal Years (Dollar amounts displayed in thousands)
+NEW YORK STATE TEACHERS' RETIREMENT SYSTEM PLAN                            2016           2015              2014             2013             2012             2011             2010     2009   2008   2007
+
+
+Contractually required contribution                                    $    3,726.3   $      3,861.1
+Contributions in relation to the contractually required contribution        3,726.3          3,861.1
+Contribution deficiency (excess)                                       $        -     $          -
+
+
+Covered-employee payroll                                               $   21,257.0   $    20,095.1
+Contributions as a percentage of covered-employee payroll                    17.53%          19.21%
+
+
+
+
+                                                                                          See accompanying independent auditor's report
+                                                                                                              53
+OTHER INFORMATION
+IRVINGTON UNION FREE SCHOOL DISTRICT
+
+SCHEDULE OF CHANGE FROM ORIGINAL BUDGET TO REVISED BUDGET
+AND USE OF UNASSIGNED FUND BALANCE - GENERAL FUND
+FOR THE YEAR ENDED JUNE 30, 2016 (UNAUDITED)
+
+
+
+
+CHANGE FROM ADOPTED BUDGET TO REVISED BUDGET
+
+ Adopted budget                                                                                       $    57,664,000
+
+   Add: Prior year's encumbrances                                                                            541,161
+
+ Original budget                                                                                           58,205,161
+
+   Budget revision                                                                                          2,551,933
+
+ Final budget                                                                                         $    60,757,094
+
+
+
+
+SECTION 1318 OF REAL PROPERTY TAX LAW LIMIT CALCULATION
+
+  2016-17 voter-approved expenditure budget                                         $   58,330,000
+  Maximum allowed (4% of 2016-17 budget)                                                               $    2,333,200
+
+  General Fund Fund Balance Subject to Section 1318 of Real Property Tax Law *:
+
+   Total fund balance:                                                              $    6,080,771
+
+   Less:
+
+     Committed fund balance                                                                      -
+     Restricted fund balance                                                             2,581,185
+     Assigned fund balance:
+        Appropriated fund balance                                                         530,000
+        Encumbrances included in committed and assigned fund balance                      636,386
+
+       Total adjustments                                                            $    3,747,571
+
+       General Fund Fund Balance Subject to Section 1318 of Real Property Tax Law                     $     2,333,200
+
+       Actual percentage                                                                                        4.00%
+
+ * Per Office of the State Comptroller's "Fund Balance Reporting and Governmental Fund Type Definitions", Updated
+   April 2011 (Originally Issued November 2010), the portion of [General Fund] fund balance subject to Section 1318 of
+   the Real Property Tax Law is: unrestricted fund balance (i.e., the total of the committed, assigned, and unassigned
+   classifications), minus appropriated fund balance, amounts reserved for insurance recovery, amounts reserved for
+   tax reduction, and encumbrances included in committed and assigned fund balance.
+
+
+
+
+                                    See accompanying independent auditor's report
+                                                        54
+IRVINGTON UNION FREE SCHOOL DISTRICT
+
+SCHEDULE OF PROJECT EXPENDITURES - CAPITAL PROJECTS FUND
+FOR THE YEAR ENDED JUNE 30, 2016 (UNAUDITED)
+
+
+
+
+                                                                                                                                        Expenditures
+
+                                                                                                                            Prior           Current                         Available
+                               Project Title                                   SED Project #            Budget              Years            Year            Total          Balance
+
+         Dows Lane Renovations                                                     0002-016        $       440,373      $      19,141   $      421,232   $    440,373   $             -
+         Dows Univent/HVAC Project/Gym Lighting                                    0002-017                726,991             13,863            2,392         16,255           710,736
+         Main Street Gym Roof & Lighting/Boiler Conversion & Controls              0004-005                357,602             13,738          280,059        293,797            63,805
+         Middle School Dust Bowl & Vestibules Project                              0013-004                298,445              8,595            2,650         11,245           287,200
+         Meszaros Field & East Field Projects + MS/HS Boiler Controls              0007-018              2,892,232             98,182           41,333        139,515         2,752,716
+
+                                                                                                   $     4,715,643      $     153,519   $      747,666   $    901,185   $     3,814,457
+
+
+
+
+                                                                        See accompanying independent auditor's report
+                                                                                            55
+IRVINGTON UNION FREE SCHOOL DISTRICT
+
+SCHEDULE OF NET INVESTMENT IN CAPITAL ASSETS
+JUNE 30, 2016 (UNAUDITED)
+
+
+
+
+Capital assets, net                                                                             $   40,673,433
+
+Deduct:
+ Capital related bond anticipation notes                                                    -
+ Capital related premium on bonds payable                                           2,361,296        2,361,296
+
+  Short-term portion of capital related bonds payable                               2,305,000
+  Long-term portion of capital related bonds payable                               32,210,000
+    Less: Unspent bond proceeds                                                             -       34,515,000
+
+
+Net investment in capital assets                                                                $    3,797,137
+
+
+
+
+                                   See accompanying independent auditor's report
+                                                       56
+                         INDEPENDENT AUDITOR’S REPORT ON INTERNAL CONTROL OVER
+                         FINANCIAL REPORTING AND ON COMPLIANCE AND OTHER MATTERS
+                         BASED ON AN AUDIT OF FINANCIAL STATEMENTS PERFORMED IN
+                         ACCORDANCE WITH GOVERNMENT AUDITING STANDARDS
+
+                         October 13, 2016
+
+                         To the Board of Education
+                             Irvington Union Free School District:
+                         We have audited, in accordance with the auditing standards generally accepted
+                         in the United States of America and the standards applicable to financial audits
+                         contained in Government Auditing Standards issued by the Comptroller General
+                         of the United States, the financial statements of the governmental activities, each
+                         major fund, and the aggregate remaining fund information of the Irvington Union
+                         Free School District (District), as of and for the year ended June 30, 2016, and
+                         the related notes to the financial statements, which collectively comprise the
+                         District’s basic financial statements, and have issued our report thereon dated
+                         October 13, 2016.
+                         Internal Control over Financial Reporting
+                         In planning and performing our audit of the financial statements, we considered
+                         the District’s internal control over financial reporting (internal control) to
+                         determine the audit procedures that are appropriate in the circumstances for the
+                         purpose of expressing our opinions on the financial statements, but not for the
+                         purpose of expressing an opinion on the effectiveness of the District’s internal
+                         control. Accordingly, we do not express an opinion on the effectiveness of the
+                         District’s internal control.
+                         A deficiency in internal control exists when the design or operation of a control
+                         does not allow management or employees, in the normal course of performing
+                         their assigned functions, to prevent, or detect and correct, misstatements on a
+                         timely basis. A material weakness is a deficiency, or a combination of
+                         deficiencies, in internal control, such that there is a reasonable possibility that a
+                         material misstatement of the entity’s financial statements will not be prevented, or
+                         detected and corrected on a timely basis. A significant deficiency is a deficiency,
+                         or a combination of deficiencies, in internal control that is less severe than a
+                         material weakness, yet important enough to merit attention by those charged with
+                         governance.
+                         Our consideration of internal control was for the limited purpose described in the
+                         first paragraph of this section and was not designed to identify all deficiencies in
+                         internal control that might be material weaknesses or, significant deficiencies.
+                         Given these limitations, during our audit we did not identify any deficiencies in
+                         internal control that we consider to be material weaknesses. However, material
+                         weaknesses may exist that have not been identified.
+                         Compliance and Other Matters
+    6 Wembley Court      As part of obtaining reasonable assurance about whether the District’s financial
+Albany, New York 12205
+   p (518) 464-4080      statements are free from material misstatement, we performed tests of its
+   f (518) 464-4087      compliance with certain provisions of laws, regulations, contracts, and grant
+                         agreements, noncompliance with which could have a direct and material effect
+   www.bonadio.com
+                         on the determination of financial statement amounts. However, providing an
+                         opinion on compliance with those provisions was not an objective of our audit,
+                         and accordingly, we do not express such an opinion. The results of our tests
+                         disclosed no instances of noncompliance or other matters that are required to be
+                         reported under Government Auditing Standards.
+
+                                                             (Continued)
+                                                                  57
+     ALBANY • BATAVIA • BUFFALO • E AST AURORA • GENE VA • NYC • RO CHESTER • RUTL AND, V T • SYRACUSE • UTICA
+INDEPENDENT AUDITOR’S REPORT ON INTERNAL CONTROL OVER FINANCIAL
+REPORTING AND ON COMPLIANCE AND OTHER MATTERS BASED ON AN AUDIT OF
+FINANCIAL STATEMENTS PERFORMED IN ACCORDANCE WITH GOVERNMENT AUDITING
+STANDARDS (Continued)
+
+Purpose of this Report
+The purpose of this report is solely to describe the scope of our testing of internal control and
+compliance and the results of that testing, and not to provide an opinion on the effectiveness of the
+entity’s internal control or on compliance. This report is an integral part of an audit performed in
+accordance with Government Auditing Standards in considering the entity’s internal control and
+compliance. Accordingly, this communication is not suitable for any other purpose.
+
+
+
+
+                                                 58

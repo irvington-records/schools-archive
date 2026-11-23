@@ -1,0 +1,23 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/goto?open&id=A2LRVE62152F | DATE: 2015-10-13 | TITLE: Regular Meeting - 7:30 p.m.* | 12.3 Re-Appropriation of 2015-2016 Budget
+
+Meeting: Oct 13, 2015 - Regular Meeting - 7:30 p.m.*
+Date: 2015-10-13
+Category: 12. Business Office Matters
+Subject: 12.3 Re-Appropriation of 2015-2016 Budget
+Type: Action (Consent)
+
+Re-Appropriation of 2015-2016 Budget
+
+					Debit A510 Estimated Revenue
+
+					    Revenue Code A3060 Records Management Grant
+
+				$23,767
+
+					Credit A960 Appropriations
+
+					    Expense Code A1460.490  Records Management -BOCES
+
+				$23,767
+
+	To account for receipt of funds from a Local Government Records Management Grant.  Revenue will be used to film District facility blueprints for preservation.

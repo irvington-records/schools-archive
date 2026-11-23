@@ -1,0 +1,1900 @@
+SOURCE https://www.irvingtonschools.org/fs/resource-manager/view/7a340b1c-5590-4492-ac0c-3cfc00a9ff06 | DATE 2026-09-30 | TITLE IrvingtonUFSDLeadinDrinkingWaterSamplingRemediationPlan2026-2028.pdf
+
+Districtwide Lead in Drinking Water
+Sampling and Remediation Plan for 2026-2028 Compliance.
+
+
+                     Irvington UFSD
+
+
+
+                    September 2026
+
+
+                  Enviroscience Project #27912
+        DISTRICTWIDE LEAD IN DRINKING WATER SAMPLING AND REMEDIATION PLAN
+
+                                          2026-2028
+
+
+
+
+                                     SEPTEMBER 2026
+
+
+
+                               ENVIROSCIENCE PROJECT #27912
+
+
+
+
+Prepared for: IRVINGTON UFSD
+              6 Dows Lane
+              Irvington, New York 10533
+
+
+Prepared by: ENVIROSCIENCE CONSULTANTS, LLC
+             2150 Smithtown Avenue
+             Ronkonkoma, New York 11779
+             (631) 580-3191
+
+
+
+
+Project Manager:
+                   Casey Lee
+
+
+                                                                                    Irvington UFSD
+                                                              Districtwide Lead in Water 2026-2028
+                               TABLE OF CONTENTS
+
+
+
+Section      Title
+
+1.0          Executive Summary
+
+2.0          Sampling Methodology
+
+3.0          Initial Results
+
+
+
+
+Appendices
+
+             Appendix A        Dows Lane Elementary School
+
+             Appendix B        Main Street School
+
+             Appendix C        Middle School/High School Campus
+
+
+
+
+                                                                                   Irvington UFSD
+                                                             Districtwide Lead in Water 2026-2028
+1.0 EXECUTIVE SUMMARY
+
+The Irvington UFSD has developed their Lead in Drinking Water Sampling and Remediation Plan
+for the 2026-2028 compliance period, as required by the New York State Department of Health
+(Public Health Law Sections 1370-a and 1110, Subpart 67-4 Lead Testing in School Drinking
+Water).
+
+In accordance with the regulation, this Lead Remediation Plan is prepared to identify locations
+deemed as Applicable Drinking Water Sources and report first draw sample results, to mitigate
+locations where sample results exceed 5 parts per billion, to identify locations deemed as Non-
+Applicable Water Sources, communicate this designation to building occupants, and to develop
+strategies for monitoring locations deemed Non-Applicable Water Sources to ensure building
+occupants do not consume water from these locations.
+
+
+The following locations within the Irvington UFSD buildings have been deemed Applicable
+Drinking Water Sources by the administration:
+
+   1) Water fountains and bottle filling stations;
+   2) Kitchen water faucets and pot fillers used in food preparation;
+   3) Ice machines
+   4) Nurse’s Office and Faculty Room sinks
+
+First draw samples were collected from each of these locations within the district and analyzed
+by a New York State Department of Health ELAP certified laboratory. The chains of custody are
+available upon request. For results at or below 5 ppb, no further action is required until the
+2029-2031 compliance period. For locations above 5 ppb, options include: second and third
+draw sample collection to determine source of lead, designation of the location as Non-
+Applicable Water Source, or permanent removal of the fixture from the location. In either case,
+the result was communicated by Enviroscience Consultants, and the fixture was shut off by the
+district immediately upon receipt of results.
+
+
+
+
+                                                                                         Irvington UFSD
+                                                                   Districtwide Lead in Water 2026-2028
+The following locations within the Irvington UFSD buildings were deemed Non-Applicable
+Water Sources by the administration:
+
+   1) Science Laboratory sinks
+   2) Art Room sinks
+   3) Technical Classroom sinks
+   4) Other Classroom sinks
+   5) Bathroom sinks
+   6) Outside spigots not used for sports or gardening
+   7) Custodial Closet sinks
+   8) Mixed Valve sinks (or hot only)
+   9) Coach’s Office and Locker Room Showers
+
+In these cases, the Irvington UFSD staff have placed signs adjacent to the fixture to notify
+occupants that the water is not intended for consumption. To further support this protocol, the
+following management of the locations is required:
+
+   1) Science Laboratory sinks - communicate in writing with students that these locations are
+      for science experiments and hand washing only, not for consumption. This is most easily
+      accomplished by including this language in the laboratory safety paperwork distributed
+      to students at the beginning of the school year. This program should be monitored by
+      the respective science teachers, and any deficiencies reported for assessment and
+      revision, if necessary, by the Facilities Department.
+
+
+   2) Art Room sinks - communicate in writing to students that these locations are for
+      cleaning of art supplies and hand washing only, not for consumption. This is most easily
+      accomplished by including this language in the course paperwork distributed to students
+      at the beginning of the school year. This program should be monitored by the respective
+      art teachers, and any deficiencies reported for assessment and revision, if necessary, by
+      the Facilities Department.
+
+   3) Technical Classroom sinks - classrooms in this category often include wood shop or auto
+       mechanics classrooms, where students are to hand wash after bathroom usage or
+       activities as part of a regular hygiene program. This program should be monitored by
+       teachers and staff to ensure consumption is not taking place, and any deficiencies
+       reported for assessment and revision, if necessary, by the Facilities Department.
+
+
+                                                                                         Irvington UFSD
+                                                                   Districtwide Lead in Water 2026-2028
+4) Other Classroom sinks - classrooms in this category often include elementary classrooms,
+   where students are to hand wash after bathroom usage or activities as part of a regular
+   hygiene program. This program should be monitored by teachers and staff to ensure
+   consumption is not taking place, and any deficiencies reported for assessment and
+   revision, if necessary, by the Facilities Department.
+
+5) Bathroom sinks - in intermediate buildings, signage should be sufficient for
+   communicating the concept of hand washing only. In elementary schools, if signs are to
+   be posted, then personal hygiene should be integrated into curriculum to ensure
+   students understand bathroom sinks are for hand washing only, and not consumption.
+   Further, show what the signage looks like in bathrooms, so they learn to recognize its
+   meaning. This program should be monitored by teachers and staff to ensure
+   consumption is not taking place, and any deficiencies reported for assessment and
+   revision, if necessary, by the Facilities Department.
+
+6) Outside spigots - all-weather signage and or a key operated fixture should be installed at
+   each location. Further, spigots will have a special key maintained by the custodial staff
+   to ensure that non-authorized persons do not fill sports coolers or use hoses for
+   consumption. This program should be monitored by custodial staff to ensure
+   consumption is not taking place, and any deficiencies reported for assessment and
+   revision, if necessary, by the Facilities Department.
+
+7) Custodial Closet sinks - these locations should be accessed by custodial personnel only
+   and locked when not in use. Access to others should be restricted. This program should
+   be monitored by custodial staff to ensure consumption is not taking place, and any
+   deficiencies reported for assessment and revision, if necessary, by the Facilities
+   Department.
+
+8) Mixed Valve sinks (or hot only) – per Public Health Law Sections 1370-a and
+   1110, Subpart 67-4 Lead Testing in School Drinking Water mixed valve or hot water only
+   sources are not required to be sampled. Signage is required for these sources. Signage
+   should be sufficient for communicating the concept of hand washing only. In
+   elementary schools, personal hygiene should be integrated into curriculum to ensure
+   students understand bathroom sinks are for hand washing only, and not consumption.
+   Further, show what the signage looks like so they learn to recognize its meaning. This
+
+
+                                                                                      Irvington UFSD
+                                                                Districtwide Lead in Water 2026-2028
+         program should be monitored by teachers and staff to ensure consumption is not taking
+         place, and any deficiencies reported for assessment and revision, if necessary, by the
+         Facilities Department.
+
+   9) Showers – Signs should be posted upon the entrance of the shower where easily seen.
+      Further, an effort should be made to limit potential water damage. Staff should inspect
+      the condition of signs regularly.
+
+All locations deemed Non-Applicable, but do not have signs, should be taken offline until signs
+have been posted. Signs are suggested to have pictures that instruct for handwashing only, do
+not drink.
+
+2.0 SAMPLING METHODOLOGY
+
+In accordance with the regulation, Enviroscience Consultants, LLC performed initial water
+sampling at the Irvington UFSD buildings on September 23rd, 24th, and 25th, 2026. Samples
+were collected in wide-mouth 250 milliliter containers and were collected in the morning hours
+before the facilities opened. The water sources were not used for at least 8 hours and not
+more than 18 hours prior to sampling. Unique source numbers and designations were assigned
+to each source location. Unique sample identification numbers were assigned to each sample
+taken. The key to fixture type codes and source designations are shown below.
+
+
+
+                                 Code Key for Lead in Water
+                                        Fixture Type Codes
+    BF          Bottle Filler      SK         Sink              SS         Slop Sink
+    HB          Hose Bib           SL         Supply Line       V          Valve
+    IM          Ice Machine        SP         Spigot            WC         Water Cooler
+    OS          Other Source       SPY        Spray             WF         Water Fountain
+    PF          Pot Filler
+
+                                        Source Designations
+    App         Applicable         N/A        Non-Applicable
+
+
+
+
+                                                                                           Irvington UFSD
+                                                                     Districtwide Lead in Water 2026-2028
+3.0 INITIAL RESULTS
+
+All water source locations in each of the school buildings were assessed. Water source
+locations identified as drinking water sources were considered Applicable, and first draw
+samples were collected. Water source locations identified as non-drinking water sources were
+considered Non-Applicable, and these locations were documented.
+
+The results of the initial sampling and the use of signs warning against water use at Non-
+Applicable sources is documented in the School Water Outlet Inventory for each building.
+
+All elevated locations should be taken off line until the remediation is completed. Any other
+drinking water sources in these buildings that were not functional at the time of initial sampling
+and have not been tested should be tested before returning to service. All locations deemed
+Non-Applicable, but do not have signs, should be taken offline until signs have been posted.
+Signs are suggested to have pictures that instruct for handwashing only, do not drink.
+
+The following is a summary of results in parts per billion (ppb) of locations in the Irvington UFSD
+where first-draw sample results were found above 5 ppb:
+
+
+
+
+                               Dows Lane Elementary School
+                                                    SAMPLE
+       SAMPLE LOCATION                 RESULT                                 REMARKS
+                                                     DATE
+                                         No Exceedances
+
+
+
+                                      Main Street School
+                                                    SAMPLE
+       SAMPLE LOCATION                 RESULT                                 REMARKS
+                                                     DATE
+                                         No Exceedances
+
+
+
+
+                                                                                           Irvington UFSD
+                                                                     Districtwide Lead in Water 2026-2028
+                  Middle School/High School Campus
+                                     SAMPLE
+SAMPLE LOCATION           RESULT                          REMARKS
+                                      DATE
+                            No Exceedances
+
+
+
+
+                                                                       Irvington UFSD
+                                                 Districtwide Lead in Water 2026-2028
+        Appendix A
+
+Dows Lane Elementary School
+
+
+
+
+                                                    Irvington UFSD
+                              Districtwide Lead in Water 2026-2028
+Irvington UFSD                                                                School Water Outlet Inventory                       Lead in School Drinking Water Program 2026 - 2028
+Dows Lane Elementary School
+                                                                     Latest         Latest     15 Second   60 Second
+                                                              App                                                        Flush
+                                                    Fixture         1st Draw       1st Draw      Draw        Draw
+  Fixture #                 Sample Location                    or                                                      Sampling                        Remarks
+                                                     Type            Results       Sampling     Results     Results
+                                                              N/A                                                        Date
+                                                                      (ppb)          Date        (ppb)       (ppb)
+
+  1001-01     Gym Bubbler                            WF       App    <1.0          9/25/2026       -           -          -                                -
+
+  1001-02     Gym Bottle Filler                       BF      App    <1.0          9/25/2026       -           -          -                                -
+
+  1002-03     Supt Bathroom                           SK      N/A                  9/25/2026       -           -          -                               Sign
+
+  1003-01     Custodian                               SK      N/A                  9/25/2026       -           -          -                               Sign
+
+  1004-01     Café Bathroom                           SK      N/A                  9/25/2026       -           -          -                               Sign
+
+  1004-02     Café Bathroom                           SK      N/A                  9/25/2026       -           -          -                               Sign
+
+  1005-01     Kitchen 3-Bay Sink - Left               SK      App    <1.0          9/25/2026       -           -          -                                -
+
+  1005-02     Kitchen 3-Bay Sink - Right              SK      App    <1.0          9/25/2026       -           -          -                                -
+
+  1005-03     Kitchen 3-Bay Sink - Spray             SPY      App    <1.0          9/25/2026       -           -          -                                -
+
+  1005-04     Kitchen 2-Bay Sink                      SK      App     2.0          9/25/2026       -           -          -                                -
+
+  1005-05     Kitchen 2-Bay Sink - Spray             SPY      App     2.0          9/25/2026       -           -          -                                -
+
+  1005-06     Kitchen Handwash                        SK      N/A                  9/25/2026       -           -          -                               Sign
+
+  1006-01     1st Floor Men's Faculty Bathroom        SK      N/A                  9/25/2026       -           -          -                               Sign
+
+  1006-02     1st Floor Men's Faculty Bathroom        SK      N/A                  9/25/2026       -           -          -                               Sign
+
+  1007-01     1st Floor Women's Faculty Bathroom      SK      N/A                  9/25/2026       -           -          -                               Sign
+
+  2001-01     2nd Floor Women's Faculty Bathroom      SK      N/A                  9/25/2026       -           -          -                               Sign
+
+  3001-01     3rd Floor Women's Faculty Bathroom      SK      N/A                  9/25/2026       -           -          -                               Sign
+
+  1008-01     Room 101 Bubbler                       WF       N/A                  9/25/2026       -           -          -                       Removed from Service
+
+
+
+
+Action Level = 5.0 parts per billion (ppb) (µg/L)                                       Page 1 of 7
+                                                                                     Updated 9/28/26
+Irvington UFSD                                                                School Water Outlet Inventory                       Lead in School Drinking Water Program 2026 - 2028
+Dows Lane Elementary School
+                                                                     Latest         Latest     15 Second   60 Second
+                                                              App                                                        Flush
+                                                    Fixture         1st Draw       1st Draw      Draw        Draw
+  Fixture #               Sample Location                      or                                                      Sampling                        Remarks
+                                                     Type            Results       Sampling     Results     Results
+                                                              N/A                                                        Date
+                                                                      (ppb)          Date        (ppb)       (ppb)
+
+  1008-02     Room 101                                SK      N/A                  9/25/2026       -           -          -                               Sign
+
+  1008-03     Room 101 Bathroom                       SK      N/A                  9/25/2026       -           -          -                               Sign
+
+  1009-01     Room 102 Bubbler                       WF       N/A                  9/25/2026       -           -          -                       Removed from Service
+
+  1009-02     Room 102                                SK      N/A                  9/25/2026       -           -          -                               Sign
+
+  1009-03     Room 102 Bathroom                       SK      N/A                  9/25/2026       -           -          -                               Sign
+
+   1010-01    Room 103 Bubbler                       WF       N/A                  9/25/2026       -           -          -                       Removed from Service
+
+   1010-02    Room 103                                SK      N/A                  9/25/2026       -           -          -                               Sign
+
+   1010-03    Room 103 Bathroom                       SK      N/A                  9/25/2026       -           -          -                               Sign
+
+   1011-01    Room 104 Bubbler                       WF       N/A                  9/25/2026       -           -          -                       Removed from Service
+
+   1011-02    Room 104                                SK      N/A                  9/25/2026       -           -          -                               Sign
+
+   1011-03    Room 104 Bathroom                       SK      N/A                  9/25/2026       -           -          -                               Sign
+
+   1012-01    Room 105 Bubbler                       WF       N/A                  9/25/2026       -           -          -                       Removed from Service
+
+   1012-02    Room 105                                SK      N/A                  9/25/2026       -           -          -                               Sign
+
+   1012-03    Room 105 Bathroom                       SK      N/A                  9/25/2026       -           -          -                               Sign
+
+   1013-01    Room 106 Bubbler                       WF       N/A                  9/25/2026       -           -          -                       Removed from Service
+
+   1013-02    Room 106                                SK      N/A                  9/25/2026       -           -          -                               Sign
+
+   1013-03    Room 106 Bathroom                       SK      N/A                  9/25/2026       -           -          -                               Sign
+
+   1014-01    Room 107 Bubbler                       WF       N/A                  9/25/2026       -           -          -                       Removed from Service
+
+
+
+
+Action Level = 5.0 parts per billion (ppb) (µg/L)                                       Page 2 of 7
+                                                                                     Updated 9/28/26
+Irvington UFSD                                                                School Water Outlet Inventory                       Lead in School Drinking Water Program 2026 - 2028
+Dows Lane Elementary School
+                                                                     Latest         Latest     15 Second   60 Second
+                                                              App                                                        Flush
+                                                    Fixture         1st Draw       1st Draw      Draw        Draw
+  Fixture #                    Sample Location                 or                                                      Sampling                          Remarks
+                                                     Type            Results       Sampling     Results     Results
+                                                              N/A                                                        Date
+                                                                      (ppb)          Date        (ppb)       (ppb)
+
+   1014-02    Room 107                                SK      N/A                  9/25/2026       -           -          -                                Sign
+
+   1014-03    Room 107 Bathroom                       SK      N/A                  9/25/2026       -           -          -                                Sign
+
+   1015-01    Room 108 Bubbler                       WF       N/A                  9/25/2026       -           -          -                       Removed from Service
+
+   1015-02    Room 108                                SK      N/A                  9/25/2026       -           -          -                                Sign
+
+   1015-03    Room 108 Bathroom                       SK      N/A                  9/25/2026       -           -          -                                Sign
+
+   1016-01    Room 109 Bubbler                       WF       N/A                  9/25/2026       -           -          -                       Removed from Service
+
+   1016-02    Room 109                                SK      N/A                  9/25/2026       -           -          -                                Sign
+
+   1016-03    Room 109 Bathroom                       SK      N/A                  9/25/2026       -           -          -                                Sign
+
+   1017-01    Room 110 Teacher's Lounge               SK      App     2.0          9/25/2026       -           -          -                                  -
+
+   1018-01    Room 111 Bubbler                       WF       N/A                  9/25/2026       -           -          -                       Non-Functional; Shut off
+
+   1018-02    Room 111                                SK      App    <1.0          9/25/2026       -           -          -                                  -
+
+   1018-03    Room 111 Bathroom                       SK      N/A                  9/25/2026       -           -          -                                Sign
+
+   1019-01    Nurse's Office                          SK      App     4.0          9/25/2026       -           -          -                                  -
+
+   1019-02    Nurse's Office Bathroom                 SK      N/A                  9/25/2026       -           -          -                                Sign
+
+   1020-01    Room 112 Bubbler                       WF       N/A                  9/25/2026       -           -          -                       Non-Functional; Shut off
+
+   1020-02    Room 112                                SK      App     2.0          9/25/2026       -           -          -                                  -
+
+   1021-01    Room 115 PLTW Bubbler                  WF       App     2.0          9/25/2026       -           -          -                                  -
+
+   1021-02    Room 115 PLTW                           SK      App     1.0          9/25/2026       -           -          -                                  -
+
+
+
+
+Action Level = 5.0 parts per billion (ppb) (µg/L)                                       Page 3 of 7
+                                                                                     Updated 9/28/26
+Irvington UFSD                                                                School Water Outlet Inventory                       Lead in School Drinking Water Program 2026 - 2028
+Dows Lane Elementary School
+                                                                     Latest         Latest     15 Second   60 Second
+                                                              App                                                        Flush
+                                                    Fixture         1st Draw       1st Draw      Draw        Draw
+  Fixture #                Sample Location                     or                                                      Sampling                        Remarks
+                                                     Type            Results       Sampling     Results     Results
+                                                              N/A                                                        Date
+                                                                      (ppb)          Date        (ppb)       (ppb)
+
+   1022-01    Library                                 SK      N/A                  9/25/2026       -           -          -                               Sign
+
+   1022-02    Library                                 SK      N/A                  9/25/2026       -           -          -                               Sign
+
+   1023-01    Library Bathroom East                   SK      N/A                  9/25/2026       -           -          -                               Sign
+
+   1024-01    Library Bathroom West                   SK      N/A                  9/25/2026       -           -          -                               Sign
+
+   1025-01    Room 126                                SK      N/A                  9/25/2026       -           -          -                               Sign
+
+   1025-02    Room 126                                SK      N/A                  9/25/2026       -           -          -                               Sign
+
+   1025-03    Room 126 Bubbler                       WF       N/A                  9/25/2026       -           -          -                       Removed from Service
+
+   1025-04    Room 126 Bathroom                       SK      N/A                  9/25/2026       -           -          -                               Sign
+
+   1026-01    Room 127                                SK      N/A                  9/25/2026       -           -          -                               Sign
+
+   1026-02    Room 127                                SK      N/A                  9/25/2026       -           -          -                               Sign
+
+   1026-03    Room 127 Bubbler                       WF       N/A                  9/25/2026       -           -          -                       Removed from Service
+
+   1026-04    Room 127 Bathroom                       SK      N/A                  9/25/2026       -           -          -                               Sign
+
+   1027-01    Room 128                                SK      N/A                  9/25/2026       -           -          -                               Sign
+
+   1027-02    Room 128                                SK      N/A                  9/25/2026       -           -          -                               Sign
+
+   1027-03    Room 128 Bubbler                       WF       N/A                  9/25/2026       -           -          -                       Removed from Service
+
+   1027-04    Room 128 Bathroom                       SK      N/A                  9/25/2026       -           -          -                               Sign
+
+   1028-01    Room 129                                SK      N/A                  9/25/2026       -           -          -                               Sign
+
+   1028-02    Room 129                                SK      N/A                  9/25/2026       -           -          -                               Sign
+
+
+
+
+Action Level = 5.0 parts per billion (ppb) (µg/L)                                       Page 4 of 7
+                                                                                     Updated 9/28/26
+Irvington UFSD                                                                School Water Outlet Inventory                       Lead in School Drinking Water Program 2026 - 2028
+Dows Lane Elementary School
+                                                                     Latest         Latest     15 Second   60 Second
+                                                              App                                                        Flush
+                                                    Fixture         1st Draw       1st Draw      Draw        Draw
+  Fixture #                 Sample Location                    or                                                      Sampling                        Remarks
+                                                     Type            Results       Sampling     Results     Results
+                                                              N/A                                                        Date
+                                                                      (ppb)          Date        (ppb)       (ppb)
+
+   1028-03    Room 129 Bubbler                       WF       N/A                  9/25/2026       -           -          -                       Removed from Service
+
+   1028-04    Room 129 Bathroom                       SK      N/A                  9/25/2026       -           -          -                               Sign
+
+   1029-01    Room 130                                SK      N/A                  9/25/2026       -           -          -                               Sign
+
+   1029-02    Room 130                                SK      N/A                  9/25/2026       -           -          -                               Sign
+
+   1029-03    Room 130 Bubbler                       WF       N/A                  9/25/2026       -           -          -                       Removed from Service
+
+   1029-04    Room 130 Bathroom                       SK      N/A                  9/25/2026       -           -          -                               Sign
+
+   2002-01    2nd Floor Lobby Bubbler                WF       App    <1.0          9/25/2026       -           -          -                                -
+
+   2002-02    2nd Floor Lobby                         BF      App    <1.0          9/25/2026       -           -          -                                -
+
+   2003-01    2nd Floor NW Boy's Bathroom             SK      N/A                  9/25/2026       -           -          -                               Sign
+
+   2003-02    2nd Floor NW Boy's Bathroom             SK      N/A                  9/25/2026       -           -          -                               Sign
+
+   2004-01    2nd Floor NW Girl's Bathroom            SK      N/A                  9/25/2026       -           -          -                               Sign
+
+   2004-02    2nd Floor NW Girl's Bathroom            SK      N/A                  9/25/2026       -           -          -                               Sign
+
+   2004-03    2nd Floor NW Girl's Bathroom            SK      N/A                  9/25/2026       -           -          -                               Sign
+
+   1030-01    MPR Bubbler                            WF       App     1.0          9/25/2026       -           -          -                                -
+
+   1030-02    MPR Girl's Bathroom                     SK      N/A                  9/25/2026       -           -          -                               Sign
+
+   1030-03    MPR Girl's Bathroom                     SK      N/A                  9/25/2026       -           -          -                               Sign
+
+   1030-04    MPR Boy's Bathroom                      SK      N/A                  9/25/2026       -           -          -                               Sign
+
+   1030-05    MPR Boy's Bathroom                      SK      N/A                  9/25/2026       -           -          -                               Sign
+
+
+
+
+Action Level = 5.0 parts per billion (ppb) (µg/L)                                       Page 5 of 7
+                                                                                     Updated 9/28/26
+Irvington UFSD                                                                School Water Outlet Inventory                       Lead in School Drinking Water Program 2026 - 2028
+Dows Lane Elementary School
+                                                                     Latest         Latest     15 Second   60 Second
+                                                              App                                                        Flush
+                                                    Fixture         1st Draw       1st Draw      Draw        Draw
+  Fixture #                Sample Location                     or                                                      Sampling                        Remarks
+                                                     Type            Results       Sampling     Results     Results
+                                                              N/A                                                        Date
+                                                                      (ppb)          Date        (ppb)       (ppb)
+
+   2005-01    Room 201 Bubbler                       WF       N/A                  9/25/2026       -           -          -                       Removed from Service
+
+   2005-02    Room 201                                SK      N/A                  9/25/2026       -           -          -                               Sign
+
+   2006-01    Room 202 Bubbler                       WF       N/A                  9/25/2026       -           -          -                       Removed from Service
+
+   2006-02    Room 202                                SK      N/A                  9/25/2026       -           -          -                               Sign
+
+   2007-01    Room 203 Bubbler                       WF       N/A                  9/25/2026       -           -          -                       Removed from Service
+
+   2007-02    Room 203                                SK      N/A                  9/25/2026       -           -          -                               Sign
+
+   2008-01    Hall Outside Room 203 Bubbler          WF       App     1.0          9/25/2026       -           -          -                                -
+
+   2009-01    Room 204 Bubbler                       WF       N/A                  9/25/2026       -           -          -                       Removed from Service
+
+   2009-02    Room 204                                SK      N/A                  9/25/2026       -           -          -                               Sign
+
+   2010-01    Room 205 Bubbler                       WF       N/A                  9/25/2026       -           -          -                       Removed from Service
+
+   2010-02    Room 205                                SK      N/A                  9/25/2026       -           -          -                               Sign
+
+   2011-01    Room 206 Bubbler                       WF       N/A                  9/25/2026       -           -          -                       Removed from Service
+
+   2011-02    Room 206                                SK      N/A                  9/25/2026       -           -          -                               Sign
+
+   2012-01    Room 207 Bubbler                       WF       N/A                  9/25/2026       -           -          -                       Removed from Service
+
+   2012-02    Room 207                                SK      N/A                  9/25/2026       -           -          -                               Sign
+
+   2013-01    Room 208 Bubbler                       WF       N/A                  9/25/2026       -           -          -                       Removed from Service
+
+   2013-02    Room 208                                SK      N/A                  9/25/2026       -           -          -                               Sign
+
+   2014-01    Room 209 Bubbler                       WF       N/A                  9/25/2026       -           -          -                       Removed from Service
+
+
+
+
+Action Level = 5.0 parts per billion (ppb) (µg/L)                                       Page 6 of 7
+                                                                                     Updated 9/28/26
+Irvington UFSD                                                                School Water Outlet Inventory                       Lead in School Drinking Water Program 2026 - 2028
+Dows Lane Elementary School
+                                                                     Latest         Latest     15 Second   60 Second
+                                                              App                                                        Flush
+                                                    Fixture         1st Draw       1st Draw      Draw        Draw
+  Fixture #                 Sample Location                    or                                                      Sampling                        Remarks
+                                                     Type            Results       Sampling     Results     Results
+                                                              N/A                                                        Date
+                                                                      (ppb)          Date        (ppb)       (ppb)
+
+   2014-02    Room 209                                SK      N/A                  9/25/2026       -           -          -                               Sign
+
+   2015-01    Room 210 Bubbler                       WF       N/A                  9/25/2026       -           -          -                       Removed from Service
+
+   2015-02    Room 210                                SK      N/A                  9/25/2026       -           -          -                               Sign
+
+   2016-01    Room 211 Bubbler                       WF       N/A                  9/25/2026       -           -          -                       Removed from Service
+
+   2016-02    Room 211                                SK      N/A                  9/25/2026       -           -          -                               Sign
+
+   1031-01    DO Bathroom                             SK      N/A                  9/25/2026       -           -          -                               Sign
+
+   4001-01    Hose Bib North                          HB      N/A                  9/25/2026       -           -          -                               Sign
+
+   4002-01    Hose Bib South                          HB      N/A                  9/25/2026       -           -          -                               Sign
+
+   1032-01    1st Floor OW Custodial Slop Sink        SS      N/A                  9/25/2026       -           -          -                               Sign
+
+   2017-01    2nd Floor OW Custodial Slop Sink        SS      N/A                  9/25/2026       -           -          -                               Sign
+
+   1033-01    1st Floor NW Custodial Slop Sink        SS      N/A                  9/25/2026       -           -          -                               Sign
+
+   2018-01    2nd Floor NW Custodial Slop Sink        SS      N/A                  9/25/2026       -           -          -                               Sign
+
+   1030-06    MPR Custodial Slop Sink                 SS      N/A                  9/25/2026       -           -          -                               Sign
+
+   1034-01    Custodial Slop Sink                     SS      N/A                  9/25/2026       -           -          -                               Sign
+
+   4003-01    Outdoor Bathroom                        SK      N/A                  9/25/2026       -           -          -                               Sign
+
+   4003-02    Outdoor Bathroom                        SK      N/A                  9/25/2026       -           -          -                               Sign
+
+   4004-01    Outdoor Bathroom Bubbler               WF       App    <1.0          9/25/2026       -           -          -                                -
+
+   4004-02    Outdoor Bathroom Bottle Filler          BF      App    <1.0          9/25/2026       -           -          -                                -
+
+
+
+
+Action Level = 5.0 parts per billion (ppb) (µg/L)                                       Page 7 of 7
+                                                                                     Updated 9/28/26
+                                                                                                       88 Harbor Road
+                                                                                            Port Washington, NY 11050
+                                                                                                        (516) 944-9500
+                                                                                             www.nyenvironmental.com
+
+
+
+
+                                                     Laboratory Report
+
+
+             September 28, 2026
+
+             Project Manager
+             Enviroscience Consultants, Inc.
+             2150 Smithtown Ave.
+             Ronkonkoma, NY, 11779
+
+
+
+             Project:               Irvington UFSD (Dows Lane Elementary School)
+             Project Address:       Dows Lane Elementary School
+             Report ID:             260925030-4336
+             Sample IDs:            260925030-368 - 260925030-386
+
+
+                  New York Environmental is a NELAC accredited laboratory. Attached reported results meet the
+             requirements of the NELAC standard unless otherwise noted.
+
+                  Samples' analytical results relate only to the parameters tested for the samples received in the
+             condition received by the laboratory, as noted on the Chain of Custody. This report shall not be
+             reproduced except in its entirety without written approval of the laboratory.
+
+                  We sincerely thank you for your business, and look forward to being of service for your future
+             environmental testing needs.
+
+
+
+                                                            Sincerely,
+
+
+
+
+                                                               Li Tsang, Laboratory Director
+
+
+
+
+Page 1 of 2
+9/28/2026 1:36 PM                                   NYSDOH ELAP Lab ID: 11510
+NYE Report #: 260925030-4336
+
+      Date Collected:                  25-Sep-26                                            Analytical Method:           EPA 200.9
+      Date Received:                   25-Sep-26                                             Analyte, Matrix:        Lead, Potable Water
+      Date Analyzed:                   28-Sep-26
+
+
+
+Lab ID                  CID   Sample Location/Description                                                  LOQ    Result   Units      Flag
+
+260925030-368            1    Gym Bubbler - WF; initial                                                   0.001   <0.001    mg/L
+
+260925030-369            2    Gym Bottle Filler - BF; initial                                             0.001   <0.001    mg/L
+
+260925030-370            3    Kitchen 3 - Bay - Left - SK; initial                                        0.001   <0.001    mg/L
+
+260925030-371            4    Kitchen 3 - Bay - Right - SK; initial                                       0.001   <0.001    mg/L
+
+260925030-372            5    Kitchen 3 - Bay - Right Spray - SPY; initial                                0.001   <0.001    mg/L
+
+260925030-373            6    Kitchen 2 - Bay - SK; initial                                               0.001   0.002     mg/L
+
+260925030-374            7    Kitchen 2 - Bay Spray - SPY; initial                                        0.001   0.002     mg/L
+
+260925030-375            8    Room 110 Teacher's Lounge - SK; initial                                     0.001   0.002     mg/L
+
+260925030-376            9    Room 111 - SK; initial                                                      0.001   <0.001    mg/L
+
+260925030-377           10    Nurse's Office - SK; initial                                                0.001   0.004     mg/L
+
+260925030-378           11    Room 112 - SK; initial                                                      0.001   0.002     mg/L
+
+260925030-379           12    Room 115 PLTW - SK; initial                                                 0.001   0.001     mg/L
+
+260925030-380           13    Room 115 PLTW Bubbler - WF; initial                                         0.001   0.002     mg/L
+
+260925030-381           14    2nd Floor Lobby Bubbler - WF; initial                                       0.001   <0.001    mg/L
+
+260925030-382           15    2nd Floor Lobby Bottle Filler - BF; initial                                 0.001   <0.001    mg/L
+
+260925030-383           16    Hall by Room 203 Bubbler - WF; initial                                      0.001   0.001     mg/L
+
+260925030-384           17    MPR Bubbler - WF; initial                                                   0.001   0.001     mg/L
+
+260925030-385           18    Outside Bathroom Bubbler - WF; initial                                      0.001   <0.001    mg/L
+
+260925030-386           19    Outside Bathroom Bottle Filler - BF; initial                                0.001   <0.001    mg/L
+Comment(s):
+LOQ: Limit of Quantitation
+CID: Client ID
+
+
+
+
+                                                                                                                                     Page 2 of 2
+                                                                NYSDOH ELAP Lab ID: 11510                                     9/28/2026 1:36 PM
+   Appendix B
+
+Main Street School
+
+
+
+
+                                           Irvington UFSD
+                     Districtwide Lead in Water 2026-2028
+Irvington UFSD                                                                School Water Outlet Inventory                       Lead in School Drinking Water Program 2026 - 2028
+Main Street School
+                                                                     Latest         Latest     15 Second   60 Second
+                                                              App                                                        Flush
+                                                    Fixture         1st Draw       1st Draw      Draw        Draw
+  Fixture #                  Sample Location                   or                                                      Sampling                        Remarks
+                                                     Type            Results       Sampling     Results     Results
+                                                              N/A                                                        Date
+                                                                      (ppb)          Date        (ppb)       (ppb)
+
+  1001-01     Gym Bottle Filler                       BF      App    <1.0          9/23/2026       -           -          -                                -
+
+  1001-02     Gym Bubbler                            WF       App    <1.0          9/23/2026       -           -          -                                -
+
+  1001-03     Gym Boy's Bathroom                      SK      N/A                  9/23/2026       -           -          -                              Sign
+
+  1001-04     Gym Boy's Bathroom                      SK      N/A                  9/23/2026       -           -          -                              Sign
+
+  1001-05     Gym Girl's Bathroom                     SK      N/A                  9/23/2026       -           -          -                              Sign
+
+  1001-06     Gym Girl's Bathroom                     SK      N/A                  9/23/2026       -           -          -                              Sign
+
+  1001-07     Gym Girl's Bathroom                     SK      N/A                  9/23/2026       -           -          -                              Sign
+
+  2001-01     Nurse's Office Exam Area                SK      App    <1.0          9/23/2026       -           -          -                                -
+
+  2001-02     Nurse's Office Bathroom - Left          SK      App    <1.0          9/23/2026       -           -          -                                -
+
+  2001-03     Nurse's Office Bathroom - Right         SK      App    <1.0          9/23/2026       -           -          -                                -
+
+  2002-01     Custodian's Office                      SK      N/A                  9/23/2026       -           -          -                              Sign
+
+  1002-01     1st Floor Custodial Slop Sink           SS      N/A                  9/23/2026       -           -          -                              Sign
+
+  1003-01     1st Floor Girl's Bathroom               SK      N/A                  9/23/2026       -           -          -                              Sign
+
+  1003-02     1st Floor Girl's Bathroom               SK      N/A                  9/23/2026       -           -          -                              Sign
+
+  1003-03     1st Floor Girl's Bathroom               SK      N/A                  9/23/2026       -           -          -                              Sign
+
+  1004-01     1st Floor Boy's Bathroom                SK      N/A                  9/23/2026       -           -          -                              Sign
+
+  1005-01     1st Floor Bubbler                      WF       App    <1.0          9/23/2026       -           -          -                                -
+
+  1005-02     1st Floor Bottle Filler                 BF      App    <1.0          9/23/2026       -           -          -                                -
+
+
+
+
+Action Level = 5.0 parts per billion (ppb) (µg/L)                                       Page 1 of 3
+                                                                                     Updated 9/28/26
+Irvington UFSD                                                                School Water Outlet Inventory                       Lead in School Drinking Water Program 2026 - 2028
+Main Street School
+                                                                     Latest         Latest     15 Second   60 Second
+                                                              App                                                        Flush
+                                                    Fixture         1st Draw       1st Draw      Draw        Draw
+  Fixture #                  Sample Location                   or                                                      Sampling                        Remarks
+                                                     Type            Results       Sampling     Results     Results
+                                                              N/A                                                        Date
+                                                                      (ppb)          Date        (ppb)       (ppb)
+
+  2003-01     2nd Floor Custodial Slop Sink           SS      N/A                  9/23/2026       -           -          -                              Sign
+
+  2004-01     2nd Floor Girl's Bathroom               SK      N/A                  9/23/2026       -           -          -                              Sign
+
+  2004-02     2nd Floor Girl's Bathroom               SK      N/A                  9/23/2026       -           -          -                              Sign
+
+  2004-03     2nd Floor Girl's Bathroom               SK      N/A                  9/23/2026       -           -          -                              Sign
+
+  2005-01     2nd Floor Boy's Bathroom                SK      N/A                  9/23/2026       -           -          -                              Sign
+
+  2005-02     2nd Floor Boy's Bathroom                SK      N/A                  9/23/2026       -           -          -                              Sign
+
+  2006-01     2nd Floor Bubbler                      WF       App    <1.0          9/23/2026       -           -          -                                -
+
+  2006-02     2nd Floor Bottle Filler                 BF      App    <1.0          9/23/2026       -           -          -                                -
+
+  3001-01     3rd Floor Custodial Slop Sink           SS      N/A                  9/23/2026       -           -          -                              Sign
+
+  3002-01     3rd Floor Girl's Bathroom               SK      N/A                  9/23/2026       -           -          -                              Sign
+
+  3002-02     3rd Floor Girl's Bathroom               SK      N/A                  9/23/2026       -           -          -                              Sign
+
+  3002-03     3rd Floor Girl's Bathroom               SK      N/A                  9/23/2026       -           -          -                              Sign
+
+  3003-01     3rd Floor Boy's Bathroom                SK      N/A                  9/23/2026       -           -          -                              Sign
+
+  3003-02     3rd Floor Boy's Bathroom                SK      N/A                  9/23/2026       -           -          -                              Sign
+
+  3004-01     Room 304                                SK      N/A                  9/23/2026       -           -          -                              Sign
+
+   3005-01    Room 306                                SK      N/A                  9/23/2026       -           -          -                              Sign
+
+   1005-01    Kitchen Prep Area 3-Bay                 SK      App     1.0          9/23/2026       -           -          -                                -
+
+   1005-02    Kitchen Prep Area Handwash              SK      N/A                  9/23/2026       -           -          -                              Sign
+
+
+
+
+Action Level = 5.0 parts per billion (ppb) (µg/L)                                       Page 2 of 3
+                                                                                     Updated 9/28/26
+Irvington UFSD                                                                School Water Outlet Inventory                       Lead in School Drinking Water Program 2026 - 2028
+Main Street School
+                                                                     Latest         Latest     15 Second   60 Second
+                                                              App                                                        Flush
+                                                    Fixture         1st Draw       1st Draw      Draw        Draw
+  Fixture #                  Sample Location                   or                                                      Sampling                         Remarks
+                                                     Type            Results       Sampling     Results     Results
+                                                              N/A                                                        Date
+                                                                      (ppb)          Date        (ppb)       (ppb)
+
+   3006-01    PLTW                                    SK      N/A                  9/23/2026       -           -          -                                Sign
+
+   2007-01    Teacher's Lounge                        SK      App    <1.0          9/23/2026       -           -          -                                  -
+
+   2007-02    Teacher's Lounge Spray                 SPY      N/A                  9/23/2026       -           -          -                       Non-functional, Shut off
+
+   2007-03    Teacher's Lounge Ice Machine            IM      N/A                  9/23/2026       -           -          -                       Non-functional, Shut off
+
+   3007-01    3rd Floor Bubbler                      WF       App    <1.0          9/23/2026       -           -          -                                  -
+
+   3007-02    3rd Floor Bottle Filler                 BF      App    <1.0          9/23/2026       -           -          -                                  -
+
+      -       Art Room                                SK      N/A                  9/23/2026       -           -          -                                Sign
+
+      -       Art Room                                SK      N/A                  9/23/2026       -           -          -                                Sign
+
+      -       Gym Girl's Bathroom                     SK      N/A                  9/23/2026       -           -          -                                Sign
+
+      -       Gym Girl's Bathroom                     SK      N/A                  9/23/2026       -           -          -                                Sign
+
+      -       Gym Girl's Bathroom                     SK      N/A                  9/23/2026       -           -          -                                Sign
+
+      -       Gym Girl's Bathroom                     SK      N/A                  9/23/2026       -           -          -                                Sign
+
+      -       PE Bathroom                             SK      N/A                  9/23/2026       -           -          -                                Sign
+
+      -       PE Shower                              SPY      N/A                  9/23/2026       -           -          -                                Sign
+
+
+
+
+Action Level = 5.0 parts per billion (ppb) (µg/L)                                       Page 3 of 3
+                                                                                     Updated 9/28/26
+                                                                                                       88 Harbor Road
+                                                                                            Port Washington, NY 11050
+                                                                                                        (516) 944-9500
+                                                                                             www.nyenvironmental.com
+
+
+
+
+                                                     Laboratory Report
+
+
+             September 24, 2026
+
+             Project Manager
+             Enviroscience Consultants, Inc.
+             2150 Smithtown Ave.
+             Ronkonkoma, NY, 11779
+
+
+
+             Project:               Irvington UFSD
+             Project Address:       Main Street School
+             Report ID:             260923001-4290
+             Sample IDs:            260923001-014 - 260923001-026
+
+
+                  New York Environmental is a NELAC accredited laboratory. Attached reported results meet the
+             requirements of the NELAC standard unless otherwise noted.
+
+                  Samples' analytical results relate only to the parameters tested for the samples received in the
+             condition received by the laboratory, as noted on the Chain of Custody. This report shall not be
+             reproduced except in its entirety without written approval of the laboratory.
+
+                  We sincerely thank you for your business, and look forward to being of service for your future
+             environmental testing needs.
+
+
+
+                                                            Sincerely,
+
+
+
+
+                                                               Li Tsang, Laboratory Director
+
+
+
+
+Page 1 of 2
+9/24/2026 9:24 AM                                   NYSDOH ELAP Lab ID: 11510
+NYE Report #: 260923001-4290
+
+      Date Collected:                   23-Sep-26                                            Analytical Method:           EPA 200.9
+      Date Received:                    23-Sep-26                                             Analyte, Matrix:        Lead, Potable Water
+      Date Analyzed:                    24-Sep-26
+
+
+
+Lab ID                  CID   Sample Location/Description                                                   LOQ    Result   Units      Flag
+
+260923001-014            1    Nurse's Office Exam Area - SK; initial                                       0.001   <0.001    mg/L
+
+260923001-015            2    Nurse's Office Bathroom - Left - SK; initial                                 0.001   <0.001    mg/L
+
+260923001-016            3    Nurse's Office Bathroom - Right - SK; initial                                0.001   <0.001    mg/L
+
+260923001-017            4    Teacher's Lounge - SK; initial                                               0.001   <0.001    mg/L
+
+260923001-018            5    2nd Floor Bubbler - WF; initial                                              0.001   <0.001    mg/L
+
+260923001-019            6    2nd Floor Bottle Filler - BF; initial                                        0.001   <0.001    mg/L
+
+260923001-020            7    3rd Floor Bubbler - WF; initial                                              0.001   <0.001    mg/L
+
+260923001-021            8    3rd Floor Bottle Filler - BF; initial                                        0.001   <0.001    mg/L
+
+260923001-022            9    1st Floor Bubbler - WF; initial                                              0.001   <0.001    mg/L
+
+260923001-023           10    1st Floor Bottle Filler - BF; initial                                        0.001   <0.001    mg/L
+
+260923001-024           11    Kitchen / Prep Area 3-Bay - SK; initial                                      0.001   0.001     mg/L
+
+260923001-025           12    Gym Bubbler - WF; initial                                                    0.001   <0.001    mg/L
+
+260923001-026           13    Gym Bottle Filler - BF; initial                                              0.001   <0.001    mg/L
+Comment(s):
+LOQ: Limit of Quantitation
+CID: Client ID
+
+
+
+
+                                                                                                                                      Page 2 of 2
+                                                                 NYSDOH ELAP Lab ID: 11510                                     9/24/2026 9:24 AM
+          Appendix C
+
+Middle School/High School Campus
+
+
+
+
+                                                   Irvington UFSD
+                             Districtwide Lead in Water 2026-2028
+Irvington UFSD                                                                     School Water Outlet Inventory                       Lead in School Drinking Water Program 2026 - 2028
+High School/Middle School Campus
+                                                                          Latest         Latest     15 Second   60 Second
+                                                                   App                                                        Flush
+                                                         Fixture         1st Draw       1st Draw      Draw        Draw
+  Fixture #                   Sample Location                       or                                                      Sampling                        Remarks
+                                                          Type            Results       Sampling     Results     Results
+                                                                   N/A                                                        Date
+                                                                           (ppb)          Date        (ppb)       (ppb)
+
+
+                                                                                             CMS
+   2001-01    Kitchen 2-Bay                                SK      App     2.0          9/24/2026       -           -          -                                -
+
+   2001-02    Kitchen 2-Bay Spray                         SPY      App    <1.0          9/24/2026       -           -          -                                -
+
+   2001-03    Kitchen 3-Bay Dishwash                       SK      N/A                  9/24/2026       -           -          -                               Sign
+
+   2001-04    Kitchen Island                               SK      App    <1.0          9/24/2026       -           -          -                                -
+
+   2001-05    Kitchen Handwash                             SK      N/A                  9/24/2026       -           -          -                               Sign
+
+   2001-06    Kitchen Deli Line Handwash                   SK      N/A                  9/24/2026       -           -          -                               Sign
+
+   2001-07    Kitchen Ice Machine                          IM      App    <1.0          9/24/2026       -           -          -                                -
+
+   2002-01    Cafeteria Bubbler                           WF       App    <1.0          9/24/2026       -           -          -                                -
+
+   2002-02    Cafeteria Bottle Filler                      BF      App    <1.0          9/24/2026       -           -          -                                -
+
+   3001-01    3rd Floor Hallway Bubbler                   WF       N/A                  9/24/2026       -           -          -                       Removed from Service
+
+   2003-01    2nd Floor Hallway Bubbler by S-201          WF       N/A                  9/24/2026       -           -          -                       Removed from Service
+
+   1001-01    1st Floor Hallway Bubbler by S-101          WF       App    <1.0          9/24/2026       -           -          -                                -
+
+   1001-02    1st Floor Hallway Bottle Filler by S-101     BF      App    <1.0          9/24/2026       -           -          -                                -
+
+   1002-01    1st Floor Hallway Bubbler by S-106          WF       N/A                  9/24/2026       -           -          -                       Removed from Service
+
+   1003-01    1st Floor Boy's Bathroom - Left              SK      N/A                  9/24/2026       -           -          -                               Sign
+
+   1003-02    1st Floor Boy's Bathroom - Right             SK      N/A                  9/24/2026       -           -          -                               Sign
+
+   1004-01    1st Floor Girl's Bathroom - Left             SK      N/A                  9/24/2026       -           -          -                               Sign
+
+
+
+Action Level = 5.0 parts per billion (ppb) (µg/L)                                           Page 1 of 16
+                                                                                          Updated 9/29/26
+Irvington UFSD                                                                School Water Outlet Inventory                       Lead in School Drinking Water Program 2026 - 2028
+High School/Middle School Campus
+                                                                     Latest         Latest     15 Second   60 Second
+                                                              App                                                        Flush
+                                                    Fixture         1st Draw       1st Draw      Draw        Draw
+  Fixture #                 Sample Location                    or                                                      Sampling                        Remarks
+                                                     Type            Results       Sampling     Results     Results
+                                                              N/A                                                        Date
+                                                                      (ppb)          Date        (ppb)       (ppb)
+
+   1004-02    1st Floor Girl's Bathroom - Right       SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   1005-01    1st Floor Bathroom                      SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   1006-01    1st Floor Custodial Closet              SS      N/A                  9/24/2026       -           -          -                              Sign
+
+   1007-01    S-101                                   SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   1007-02    S-101                                   SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   1007-03    S-101                                   SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   1007-04    S-101                                   SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   1007-05    S-101                                   SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   1007-06    S-101                                   SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   1008-01    S-102                                   SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   1009-01    S-103                                   SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   1009-02    S-103                                   SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   1009-03    S-103                                   SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   1009-04    S-103                                   SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   1009-05    S-103                                   SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   1009-06    S-103                                   SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   1010-01    S-104                                   SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   1010-02    S-104                                   SK      N/A                  9/24/2026       -           -          -                              Sign
+
+
+
+
+Action Level = 5.0 parts per billion (ppb) (µg/L)                                      Page 2 of 16
+                                                                                     Updated 9/29/26
+Irvington UFSD                                                                School Water Outlet Inventory                       Lead in School Drinking Water Program 2026 - 2028
+High School/Middle School Campus
+                                                                     Latest         Latest     15 Second   60 Second
+                                                              App                                                        Flush
+                                                    Fixture         1st Draw       1st Draw      Draw        Draw
+  Fixture #                 Sample Location                    or                                                      Sampling                        Remarks
+                                                     Type            Results       Sampling     Results     Results
+                                                              N/A                                                        Date
+                                                                      (ppb)          Date        (ppb)       (ppb)
+
+   1010-03    S-104                                   SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   1010-04    S-104                                   SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   1010-05    S-104                                   SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   1010-06    S-104                                   SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   1011-01    S-105                                   SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   1012-01    S-106                                   SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   1012-02    S-106                                   SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   1012-03    S-106                                   SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   1012-04    S-106                                   SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   1012-05    S-106                                   SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   1012-06    S-106                                   SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   2004-01    2nd Floor Boy's Bathroom - Left         SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   2004-02    2nd Floor Boy's Bathroom - Right        SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   2005-01    2nd Floor Girl's Bathroom - Left        SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   2005-02    2nd Floor Girl's Bathroom - Right       SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   2006-01    2nd Floor Custodial Closet              SS      N/A                  9/24/2026       -           -          -                              Sign
+
+   2007-01    S-201                                   SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   2007-02    S-201                                   SK      N/A                  9/24/2026       -           -          -                              Sign
+
+
+
+
+Action Level = 5.0 parts per billion (ppb) (µg/L)                                      Page 3 of 16
+                                                                                     Updated 9/29/26
+Irvington UFSD                                                                School Water Outlet Inventory                       Lead in School Drinking Water Program 2026 - 2028
+High School/Middle School Campus
+                                                                     Latest         Latest     15 Second   60 Second
+                                                              App                                                        Flush
+                                                    Fixture         1st Draw       1st Draw      Draw        Draw
+  Fixture #               Sample Location                      or                                                      Sampling                        Remarks
+                                                     Type            Results       Sampling     Results     Results
+                                                              N/A                                                        Date
+                                                                      (ppb)          Date        (ppb)       (ppb)
+
+   2007-03    S-201                                   SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   2007-04    S-201                                   SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   2007-05    S-201                                   SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   2007-06    S-201                                   SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   2008-01    S-202                                   SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   2009-01    S-203                                   SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   2009-02    S-203                                   SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   2009-03    S-203                                   SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   2009-04    S-203                                   SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   2009-05    S-203                                   SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   2009-06    S-203                                   SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   2010-01    S-204                                   SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   2010-02    S-204                                   SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   2010-03    S-204                                   SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   2010-04    S-204                                   SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   2010-05    S-204                                   SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   2010-06    S-204                                   SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   2011-01    S-205                                   SK      N/A                  9/24/2026       -           -          -                              Sign
+
+
+
+
+Action Level = 5.0 parts per billion (ppb) (µg/L)                                      Page 4 of 16
+                                                                                     Updated 9/29/26
+Irvington UFSD                                                                School Water Outlet Inventory                       Lead in School Drinking Water Program 2026 - 2028
+High School/Middle School Campus
+                                                                     Latest         Latest     15 Second   60 Second
+                                                              App                                                        Flush
+                                                    Fixture         1st Draw       1st Draw      Draw        Draw
+  Fixture #                 Sample Location                    or                                                      Sampling                        Remarks
+                                                     Type            Results       Sampling     Results     Results
+                                                              N/A                                                        Date
+                                                                      (ppb)          Date        (ppb)       (ppb)
+
+   2012-01    2nd Floor Hallway Bubbler by S-206     WF       App    <1.0          9/24/2026       -           -          -                                -
+
+   2013-01    S-206                                   SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   2013-02    S-206                                   SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   2013-03    S-206                                   SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   2013-04    S-206                                   SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   2013-05    S-206                                   SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   2013-06    S-206                                   SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   3002-01    3rd Floor Bathroom                      SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   3003-01    3rd Floor Custodial Closet              SS      N/A                  9/24/2026       -           -          -                              Sign
+
+   3004-01    S-301                                   SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   3004-02    S-301                                   SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   3004-03    S-301                                   SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   3004-04    S-301                                   SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   3004-05    S-301                                   SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   3004-06    S-301                                   SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   3005-01    S-302                                   SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   3006-01    S-303                                   SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   3006-02    S-303                                   SK      N/A                  9/24/2026       -           -          -                              Sign
+
+
+
+
+Action Level = 5.0 parts per billion (ppb) (µg/L)                                      Page 5 of 16
+                                                                                     Updated 9/29/26
+Irvington UFSD                                                                School Water Outlet Inventory                       Lead in School Drinking Water Program 2026 - 2028
+High School/Middle School Campus
+                                                                     Latest         Latest     15 Second   60 Second
+                                                              App                                                        Flush
+                                                    Fixture         1st Draw       1st Draw      Draw        Draw
+  Fixture #                Sample Location                     or                                                      Sampling                        Remarks
+                                                     Type            Results       Sampling     Results     Results
+                                                              N/A                                                        Date
+                                                                      (ppb)          Date        (ppb)       (ppb)
+
+   3006-03    S-303                                   SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   3006-04    S-303                                   SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   3006-05    S-303                                   SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   3006-06    S-303                                   SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   3007-01    S-304                                   SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   3007-02    S-304                                   SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   3007-03    S-304                                   SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   3007-04    S-304                                   SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   3007-05    S-304                                   SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   3007-06    S-304                                   SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   3008-01    S-305                                   SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   3009-01    S-306                                   SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   3009-02    S-306                                   SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   3009-03    S-306                                   SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   3009-04    S-306                                   SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   3009-05    S-306                                   SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   3009-06    S-306                                   SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   1013-01    Ground Floor Bathroom - Left            SK      N/A                  9/24/2026       -           -          -                              Sign
+
+
+
+
+Action Level = 5.0 parts per billion (ppb) (µg/L)                                      Page 6 of 16
+                                                                                     Updated 9/29/26
+Irvington UFSD                                                                School Water Outlet Inventory                       Lead in School Drinking Water Program 2026 - 2028
+High School/Middle School Campus
+                                                                     Latest         Latest     15 Second   60 Second
+                                                              App                                                        Flush
+                                                    Fixture         1st Draw       1st Draw      Draw        Draw
+  Fixture #                 Sample Location                    or                                                      Sampling                        Remarks
+                                                     Type            Results       Sampling     Results     Results
+                                                              N/A                                                        Date
+                                                                      (ppb)          Date        (ppb)       (ppb)
+
+   1013-02    Ground Floor Bathroom - Right           SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   1014-01    Boiler Room                             SS      N/A                  9/24/2026       -           -          -                              Sign
+
+   1015-01    Facilities Garage                       SS      N/A                  9/24/2026       -           -          -                              Sign
+
+
+
+
+Action Level = 5.0 parts per billion (ppb) (µg/L)                                      Page 7 of 16
+                                                                                     Updated 9/29/26
+Irvington UFSD                                                                  School Water Outlet Inventory                       Lead in School Drinking Water Program 2026 - 2028
+High School/Middle School Campus
+                                                                       Latest         Latest     15 Second   60 Second
+                                                                App                                                        Flush
+                                                      Fixture         1st Draw       1st Draw      Draw        Draw
+  Fixture #                 Sample Location                      or                                                      Sampling                        Remarks
+                                                       Type            Results       Sampling     Results     Results
+                                                                N/A                                                        Date
+                                                                        (ppb)          Date        (ppb)       (ppb)
+
+
+                                                                                   High School
+   1001-01    HS Garden Level Bubbler                  WF       N/A                  9/24/2026       -           -          -                       Removed from Service
+
+   1002-01    HS Garden Level Hallway Bubbler          WF       App    <1.0          9/24/2026       -           -          -                                -
+
+   1002-02    HS Garden Level Hallway Bottle Filler     BF      App    <1.0          9/24/2026       -           -          -                                -
+
+   1003-01    Marra Lounge Bathroom                     SK      N/A                  9/24/2026       -           -          -                               Sign
+
+   1004-01    Loading Dock Bathroom                     SK      N/A                  9/24/2026       -           -          -                               Sign
+
+   1005-01    GL Boy's Bathroom - Left                  SK      N/A                  9/24/2026       -           -          -                               Sign
+
+   1005-02    GL Boy's Bathroom - Right                 SK      N/A                  9/24/2026       -           -          -                               Sign
+
+   1006-01    GL Girl's Bathroom - Left                 SK      N/A                  9/24/2026       -           -          -                               Sign
+
+   1006-02    GL Girl's Bathroom - Right                SK      N/A                  9/24/2026       -           -          -                               Sign
+
+   1007-01    Room H-018                                SK      App     2.0          9/24/2026       -           -          -                                -
+
+   1008-01    BOCES Nurse's Office                      SK      App     3.0          9/24/2026       -           -          -                                -
+
+   1009-01    Marra Lounge                              SK      App    <1.0          9/24/2026       -           -          -                                -
+
+   1010-01    1st Floor Boy's Bathroom - Left           SK      N/A                  9/24/2026       -           -          -                               Sign
+
+   1010-02    1st Floor Boy's Bathroom - Right          SK      N/A                  9/24/2026       -           -          -                               Sign
+
+   1011-01    1st Floor Girl's Bathroom - Left          SK      N/A                  9/24/2026       -           -          -                               Sign
+
+   1011-02    1st Floor Girl's Bathroom - Right         SK      N/A                  9/24/2026       -           -          -                               Sign
+
+   1012-01    Faculty Men's Bathroom - Left             SK      N/A                  9/24/2026       -           -          -                               Sign
+
+
+
+Action Level = 5.0 parts per billion (ppb) (µg/L)                                        Page 8 of 16
+                                                                                       Updated 9/29/26
+Irvington UFSD                                                                     School Water Outlet Inventory                       Lead in School Drinking Water Program 2026 - 2028
+High School/Middle School Campus
+                                                                          Latest         Latest     15 Second   60 Second
+                                                                   App                                                        Flush
+                                                         Fixture         1st Draw       1st Draw      Draw        Draw
+  Fixture #                    Sample Location                      or                                                      Sampling                        Remarks
+                                                          Type            Results       Sampling     Results     Results
+                                                                   N/A                                                        Date
+                                                                           (ppb)          Date        (ppb)       (ppb)
+
+   1012-02    Faculty Men's Bathroom - Right               SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   1013-01    Faculty Women's Bathroom - Left              SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   1013-02    Faculty Women's Bathroom - Right             SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   1014-01    Bathroom by Main Office                      SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   1015-01    Main Office Bubbler                         WF       App    <1.0          9/24/2026       -           -          -                                -
+
+   1015-02    Main Office Bottle Filler                    BF      App    <1.0          9/24/2026       -           -          -                                -
+
+   1016-01    1st Floor Hallway Bubbler by H-124          WF       App    <1.0          9/24/2026       -           -          -                                -
+
+   1016-02    1st Floor Hallway Bottle Filler by H-124     BF      App    <1.0          9/24/2026       -           -          -                                -
+
+   1017-01    Nurse's Office                               SK      App    <1.0          9/24/2026       -           -          -                                -
+
+   1017-02    Nurse's Office Bathroom                     WF       App    <1.0          9/24/2026       -           -          -                                -
+
+   2001-01    2nd Floor Hallway Bubbler                   WF       App    <1.0          9/24/2026       -           -          -                                -
+
+   2001-02    2nd Floor Hallway Bottle Filler              BF      App    <1.0          9/25/2026       -           -          -                                -
+
+   2002-01    2nd Floor Bubbler by H-224                   SK      App    <1.0          9/24/2026       -           -          -                                -
+
+   2003-01    2nd Floor Boy's Bathroom - Left              SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   2003-02    2nd Floor Boy's Bathroom - Right             SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   2004-01    2nd Floor Girl's Bathroom - Left             SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   2004-02    2nd Floor Girl's Bathroom - Right            SK      N/A                  9/24/2026       -           -          -                              Sign
+
+
+
+
+Action Level = 5.0 parts per billion (ppb) (µg/L)                                           Page 9 of 16
+                                                                                          Updated 9/29/26
+Irvington UFSD                                                                School Water Outlet Inventory                       Lead in School Drinking Water Program 2026 - 2028
+High School/Middle School Campus
+                                                                     Latest         Latest     15 Second   60 Second
+                                                              App                                                        Flush
+                                                    Fixture         1st Draw       1st Draw      Draw        Draw
+  Fixture #                    Sample Location                 or                                                      Sampling                        Remarks
+                                                     Type            Results       Sampling     Results     Results
+                                                              N/A                                                        Date
+                                                                      (ppb)          Date        (ppb)       (ppb)
+
+
+                                                                              Middle School
+   1001-01    Nurse's Office                          SK      App    <1.0          9/24/2026       -           -          -                                -
+
+   1001-02    Nurse's Bathroom                        SK      App    <1.0          9/24/2026       -           -          -                                -
+
+   1002-01    A Wing Bottle Filler                    BF      App    <1.0          9/24/2026       -           -          -                                -
+
+   1002-02    A Wing Bubbler                         WF       App    <1.0          9/24/2026       -           -          -                                -
+
+   1003-01    1st Floor B Wing Bathroom               SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   1004-01    1st Floor Boy's Bathroom - Left         SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   1004-02    1st Floor Boy's Bathroom - Right        SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   1005-01    1st Floor Girl's Bathroom - Left        SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   1005-02    1st Floor Girl's Bathroom - Center      SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   1005-03    1st Floor Girl's Bathroom - Right       SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   1006-01    1st Floor Custodial Closet              SS      N/A                  9/24/2026       -           -          -                              Sign
+
+   1007-01    B Wing Bottle Filler                    BF      App    <1.0          9/24/2026       -           -          -                                -
+
+   1007-02    B Wing Bubbler                         WF       App    <1.0          9/24/2026       -           -          -                                -
+
+   1008-01    D Wing Bathroom                         SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   2001-01    2nd Floor Boy's Bathroom - Left         SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   2001-02    2nd Floor Boy's Bathroom - Right        SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   2002-01    2nd Floor Girl's Bathroom - Left        SK      N/A                  9/24/2026       -           -          -                              Sign
+
+
+
+Action Level = 5.0 parts per billion (ppb) (µg/L)                                     Page 10 of 16
+                                                                                     Updated 9/29/26
+Irvington UFSD                                                                School Water Outlet Inventory                       Lead in School Drinking Water Program 2026 - 2028
+High School/Middle School Campus
+                                                                     Latest         Latest     15 Second   60 Second
+                                                              App                                                        Flush
+                                                    Fixture         1st Draw       1st Draw      Draw        Draw
+  Fixture #                 Sample Location                    or                                                      Sampling                        Remarks
+                                                     Type            Results       Sampling     Results     Results
+                                                              N/A                                                        Date
+                                                                      (ppb)          Date        (ppb)       (ppb)
+
+   2002-02    2nd Floor Girl's Bathroom - Center      SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   2002-03    2nd Floor Girl's Bathroom - Right       SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   1009-01    C Wing Bottle Filler                    BF      App    <1.0          9/24/2026       -           -          -                                -
+
+   1009-02    C Wing Bubbler                         WF       App    <1.0          9/24/2026       -           -          -                                -
+
+   1010-01    D Wing Bottle Filler                    BF      App    <1.0          9/24/2026       -           -          -                                -
+
+   1010-02    D Wing Bubbler                         WF       App    <1.0          9/24/2026       -           -          -                                -
+
+   1011-01    Teacher's Lounge                        SK      App    <1.0          9/24/2026       -           -          -                                -
+
+
+
+
+Action Level = 5.0 parts per billion (ppb) (µg/L)                                     Page 11 of 16
+                                                                                     Updated 9/29/26
+Irvington UFSD                                                                School Water Outlet Inventory                       Lead in School Drinking Water Program 2026 - 2028
+High School/Middle School Campus
+                                                                     Latest         Latest     15 Second   60 Second
+                                                              App                                                        Flush
+                                                    Fixture         1st Draw       1st Draw      Draw        Draw
+  Fixture #                 Sample Location                    or                                                      Sampling                        Remarks
+                                                     Type            Results       Sampling     Results     Results
+                                                              N/A                                                        Date
+                                                                      (ppb)          Date        (ppb)       (ppb)
+
+
+                                                                               Theater/Gym
+   1001-01    Main Lobby Bottle Filler                BF      App    <1.0          9/24/2026       -           -          -                                -
+
+   1001-02    Main Lobby Bubbler                     WF       App    <1.0          9/24/2026       -           -          -                                -
+
+   1002-01    Boy's Bathroom Sink                     SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   1002-02    Boy's Bathroom Sink                     SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   1002-03    Boy's Bathroom Sink                     SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   1002-04    Boy's Bathroom Sink                     SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   1003-01    Girl's Bathroom Sink                    SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   1003-02    Girl's Bathroom Sink                    SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   1003-03    Girl's Bathroom Sink                    SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   1003-04    Girl's Bathroom Sink                    SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   1004-01    Stage Dressing Room                     SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   1004-02    Stage Dressing Room                     SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   1004-03    Stage Dressing Room                     SS      N/A                  9/24/2026       -           -          -                              Sign
+
+   1005-01    Storage Room                            SS      N/A                  9/24/2026       -           -          -                              Sign
+
+   1005-02    Storage Room Ice Machine                IM      App    <1.0          9/24/2026       -           -          -                                -
+
+   1006-01    Boy's Coach's Office                    SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   1006-02    Boy's Coach's Office Shower            SPY      N/A                  9/24/2026       -           -          -                              Sign
+
+
+
+Action Level = 5.0 parts per billion (ppb) (µg/L)                                     Page 12 of 16
+                                                                                     Updated 9/29/26
+Irvington UFSD                                                                 School Water Outlet Inventory                       Lead in School Drinking Water Program 2026 - 2028
+High School/Middle School Campus
+                                                                      Latest         Latest     15 Second   60 Second
+                                                               App                                                        Flush
+                                                     Fixture         1st Draw       1st Draw      Draw        Draw
+  Fixture #                  Sample Location                    or                                                      Sampling                        Remarks
+                                                      Type            Results       Sampling     Results     Results
+                                                               N/A                                                        Date
+                                                                       (ppb)          Date        (ppb)       (ppb)
+
+   1007-01    Hallway by Boy's Locker Room Bubbler    WF       App    <1.0          9/24/2026       -           -          -                                -
+
+   1008-01    Boy's Locker Room                        SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   1008-02    Boy's Locker Room                        SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   1008-03    Boy's Locker Room                        SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   1008-04    Boy's Locker Room                        SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   1008-05    Boy's Locker Room Showers               SPY      N/A                  9/24/2026       -           -          -                              Sign
+
+   1008-06    Boy's Locker Room Showers               SPY      N/A                  9/24/2026       -           -          -                              Sign
+
+   1008-07    Boy's Locker Room Showers               SPY      N/A                  9/24/2026       -           -          -                              Sign
+
+   1008-08    Boy's Locker Room Showers               SPY      N/A                  9/24/2026       -           -          -                              Sign
+
+   1009-01    Girl's Coach's Office                    SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   1009-02    Girl's Coach's Office Shower            SPY      N/A                  9/24/2026       -           -          -                              Sign
+
+   1010-01    Girl's Locker Room                       SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   1010-02    Girl's Locker Room                       SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   1010-03    Girl's Locker Room                       SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   1010-04    Girl's Locker Room                       SK      N/A                  9/24/2026       -           -          -                              Sign
+
+   1010-05    Girl's Locker Room Showers              SPY      N/A                  9/24/2026       -           -          -                              Sign
+
+   1010-06    Girl's Locker Room Showers              SPY      N/A                  9/24/2026       -           -          -                              Sign
+
+   1010-07    Girl's Locker Room Showers              SPY      N/A                  9/24/2026       -           -          -                              Sign
+
+
+
+
+Action Level = 5.0 parts per billion (ppb) (µg/L)                                      Page 13 of 16
+                                                                                      Updated 9/29/26
+Irvington UFSD                                                                School Water Outlet Inventory                       Lead in School Drinking Water Program 2026 - 2028
+High School/Middle School Campus
+                                                                     Latest         Latest     15 Second   60 Second
+                                                              App                                                        Flush
+                                                    Fixture         1st Draw       1st Draw      Draw        Draw
+  Fixture #                 Sample Location                    or                                                      Sampling                        Remarks
+                                                     Type            Results       Sampling     Results     Results
+                                                              N/A                                                        Date
+                                                                      (ppb)          Date        (ppb)       (ppb)
+
+   1010-08    Girl's Locker Room Showers             SPY      N/A                  9/24/2026       -           -          -                               Sign
+
+   2001-01    2nd Floor Lobby Bubbler                WF       N/A                  9/24/2026       -           -          -                       Removed from Service
+
+   1011-01    Gym Bubbler                            WF       N/A                  9/24/2026       -           -          -                       Removed from Service
+
+   1011-02    Gym Bubbler                            WF       N/A                  9/24/2026       -           -          -                       Removed from Service
+
+   1011-03    Gym Bubbler                            WF       N/A                  9/24/2026       -           -          -                       Removed from Service
+
+
+
+
+Action Level = 5.0 parts per billion (ppb) (µg/L)                                     Page 14 of 16
+                                                                                     Updated 9/29/26
+Irvington UFSD                                                                School Water Outlet Inventory                       Lead in School Drinking Water Program 2026 - 2028
+High School/Middle School Campus
+                                                                     Latest         Latest     15 Second   60 Second
+                                                              App                                                        Flush
+                                                    Fixture         1st Draw       1st Draw      Draw        Draw
+  Fixture #                  Sample Location                   or                                                      Sampling                        Remarks
+                                                     Type            Results       Sampling     Results     Results
+                                                              N/A                                                        Date
+                                                                      (ppb)          Date        (ppb)       (ppb)
+
+
+                                                                                        LGA
+   1001-01    Library Hallway Right Bubbler          WF       N/A                  9/24/2026       -           -          -                       Removed from Service
+
+   1002-01    Library Hallway Left Bubbler           WF       App    <1.0          9/24/2026       -           -          -                                -
+
+   1002-02    Library Hallway Left Bottle Filler      BF      App    <1.0          9/24/2026       -           -          -                                -
+
+   1003-01    Gym Bubbler                            WF       N/A                  9/24/2026       -           -          -                       Removed from Service
+
+   1003-02    Gym Bubbler                            WF       N/A                  9/24/2026       -           -          -                       Removed from Service
+
+   1004-01    Boy's Coach's Bathroom                  SK      N/A                  9/24/2026       -           -          -                               Sign
+
+   1004-02    Boy's Coach's Shower                   SPY      N/A                  9/24/2026       -           -          -                               Sign
+
+   1005-01    Boy's Locker Room                       SK      N/A                  9/24/2026       -           -          -                               Sign
+
+   1005-02    Boy's Locker Room                       SK      N/A                  9/24/2026       -           -          -                               Sign
+
+   1006-01    Girl's Locker Room                      SK      N/A                  9/24/2026       -           -          -                               Sign
+
+   1006-02    Girl's Locker Room                      SK      N/A                  9/24/2026       -           -          -                               Sign
+
+   1007-01    Girl's Coach's Bathroom                 SK      N/A                  9/24/2026       -           -          -                               Sign
+
+
+
+
+Action Level = 5.0 parts per billion (ppb) (µg/L)                                     Page 15 of 16
+                                                                                     Updated 9/29/26
+Irvington UFSD                                                                     School Water Outlet Inventory                       Lead in School Drinking Water Program 2026 - 2028
+High School/Middle School Campus
+                                                                          Latest         Latest     15 Second   60 Second
+                                                                   App                                                        Flush
+                                                         Fixture         1st Draw       1st Draw      Draw        Draw
+  Fixture #                 Sample Location                         or                                                      Sampling                          Remarks
+                                                          Type            Results       Sampling     Results     Results
+                                                                   N/A                                                        Date
+                                                                           (ppb)          Date        (ppb)       (ppb)
+
+
+                                                                                              CLP
+   4001-01    Concession Outdoor Bubbler - Side           WF       App    <1.0          9/24/2026       -           -          -                                   -
+
+   4001-02    Concession Outdoor Bottle Filler - Side     WF       App    <1.0          9/24/2026       -           -          -                                   -
+
+   4002-01    Concession Outdoor Cooler Hose             HB/OS     N/A                  9/24/2026       -           -          -                 Non-functional; Locked with Water Key
+
+   4003-01    Concession Outdoor Bubbler - Front          WF       App    <1.0          9/24/2026       -           -          -                                   -
+
+   4003-02    Concession Outdoor Bottle Filler - Front     BF      App    <1.0          9/24/2026       -           -          -                                   -
+
+   4004-01    Concession                                   SK      App    <1.0          9/24/2026       -           -          -                                   -
+
+   4004-02    Concession Handwash                          SK      N/A                  9/24/2026       -           -          -                                 Sign
+
+   4004-03    Concession Ice Machine                       IM      App    <1.0          9/24/2026       -           -          -                                   -
+
+   4004-04    Concession Slop Sink                         SS      N/A                  9/24/2026       -           -          -                                 Sign
+
+   4005-01    Concession Bathroom - Left                   SK      N/A                  9/24/2026       -           -          -                                 Sign
+
+   4005-02    Concession Bathroom - Right                  SK      N/A                  9/24/2026       -           -          -                                 Sign
+
+
+
+
+Action Level = 5.0 parts per billion (ppb) (µg/L)                                          Page 16 of 16
+                                                                                          Updated 9/29/26
+                                                                                                       88 Harbor Road
+                                                                                            Port Washington, NY 11050
+                                                                                                        (516) 944-9500
+                                                                                             www.nyenvironmental.com
+
+
+
+
+                                                     Laboratory Report
+
+
+             September 28, 2026
+
+             Project Manager
+             Enviroscience Consultants, Inc.
+             2150 Smithtown Ave.
+             Ronkonkoma, NY, 11779
+
+
+
+             Project:               Irvington UFSD (Irvington Middle / High School Campus)
+             Project Address:       Irvington Middle / High School Campus
+             Report ID:             260925031-4337
+             Sample IDs:            260925031-433 - 260925031-478
+
+
+                  New York Environmental is a NELAC accredited laboratory. Attached reported results meet the
+             requirements of the NELAC standard unless otherwise noted.
+
+                  Samples' analytical results relate only to the parameters tested for the samples received in the
+             condition received by the laboratory, as noted on the Chain of Custody. This report shall not be
+             reproduced except in its entirety without written approval of the laboratory.
+
+                  We sincerely thank you for your business, and look forward to being of service for your future
+             environmental testing needs.
+
+
+
+                                                            Sincerely,
+
+
+
+
+                                                               Li Tsang, Laboratory Director
+
+
+
+
+Page 1 of 3
+9/28/2026 1:39 PM                                   NYSDOH ELAP Lab ID: 11510
+NYE Report #: 260925031-4337
+
+     Date Collected:                  24-Sep-26                                           Analytical Method:           EPA 200.9
+     Date Received:                   25-Sep-26                                            Analyte, Matrix:        Lead, Potable Water
+     Date Analyzed:                   28-Sep-26
+
+
+
+Lab ID                 CID   Sample Location/Description                                                 LOQ    Result   Units      Flag
+
+260925031-433           1    HS - Garden Level Bubbler - WF; initial                                    0.001   <0.001    mg/L
+
+260925031-434           2    HS - Garden Level Bottle Filler - BF; initial                              0.001   <0.001    mg/L
+
+260925031-435           3    HS - 2nd Floor Hallway Bubbler - WF; initial                               0.001   <0.001    mg/L
+
+260925031-436           4    HS - 2nd Floor Hallway Bottle Filler - BF; initial                         0.001   <0.001    mg/L
+
+260925031-437           5    HS - 2nd Floor Bubbler by H-224 - WF; initial                              0.001   <0.001    mg/L
+
+260925031-438           6    CMS - Cafeteria Bubbler - WF; initial                                      0.001   <0.001    mg/L
+
+260925031-439           7    CMS - Cafeteria Bottle Filler - BF; initial                                0.001   <0.001    mg/L
+
+260925031-440           8    CMS - Kitchen 2-Bay - SK; initial                                          0.001   0.002     mg/L
+
+260925031-441           9    CMS - Kitchen 2-Bay Sprayer - SPY; initial                                 0.001   <0.001    mg/L
+
+260925031-442          10    CMS - Kitchen Ice Machine - IM; initial                                    0.001   <0.001    mg/L
+
+260925031-443          11    CMS - Kitchen Island - SK; initial                                         0.001   <0.001    mg/L
+
+260925031-444          12    CMS - 2nd Floor Hall Bubbler by S206 - WF; initial                         0.001   <0.001    mg/L
+
+260925031-445          13    CMS - 1st Floor Hall Bubbler by S101 - WF; initial                         0.001   <0.001    mg/L
+
+260925031-446          14    CMS - 1st Floor Hall Bottle Filler by S101 - BF; initial                   0.001   <0.001    mg/L
+
+260925031-447          15    HS - 1st Floor Hall Bubbler by H124 - WF; initial                          0.001   <0.001    mg/L
+
+260925031-448          16    HS - 1st Floor Hall Bottle Filler by H124 - BF; initial                    0.001   <0.001    mg/L
+
+260925031-449          17    HS - Nurse's Office - SK; initial                                          0.001   <0.001    mg/L
+
+260925031-450          18    HS - Nurse's Office Bathroom - SK; initial                                 0.001   <0.001    mg/L
+
+260925031-451          19    HS - Main Office Bubbler - WF; initial                                     0.001   <0.001    mg/L
+
+260925031-452          20    HS - Main Office Bottle Filler - BF; initial                               0.001   <0.001    mg/L
+
+260925031-453          21    LGA - Library Hall Left Bubbler - WF; initial                              0.001   <0.001    mg/L
+
+260925031-454          22    LGA - Library Hall Left Bottle Filler - BF; initial                        0.001   <0.001    mg/L
+
+260925031-455          23    Middle School - B Wing Bubbler - WF; initial                               0.001   <0.001    mg/L
+
+260925031-456          24    Middle School - B Wing Bottle Filler - BF; initial                         0.001   <0.001    mg/L
+
+260925031-457          25    Middle School - A Wing Bubbler - WF; initial                               0.001   <0.001    mg/L
+
+260925031-458          26    Middle School - A Wing Bottle Filler - BF; initial                         0.001   <0.001    mg/L
+
+260925031-459          27    Middle School - Nurse's Office - SK; initial                               0.001   <0.001    mg/L
+
+260925031-460          28    Middle School - Nurse's Office Bathroom - SK; initial                      0.001   <0.001    mg/L
+
+260925031-461          29    Middle School - D Wing Bubbler - WF; initial                               0.001   <0.001    mg/L
+
+260925031-462          30    Middle School - D Wing Bottle Filler - BF; initial                         0.001   <0.001    mg/L
+
+260925031-463          31    Middle School - Teacher's Lounge - SK; initial                             0.001   <0.001    mg/L
+
+260925031-464          32    Middle School - C Wing Bubbler - WF; initial                               0.001   <0.001    mg/L
+
+260925031-465          33    Middle School - C Wing Bottle Filler - BF; initial                         0.001   <0.001    mg/L
+
+260925031-466          34    Theater/Gym - Hall by Boy's Locker Rm - WF; initial                        0.001   <0.001    mg/L
+
+
+
+
+                                                                                                                                   Page 2 of 3
+                                                              NYSDOH ELAP Lab ID: 11510                                     9/28/2026 1:39 PM
+NYE Report #: 260925031-4337
+
+      Date Collected:                  24-Sep-26                                            Analytical Method:           EPA 200.9
+      Date Received:                   25-Sep-26                                             Analyte, Matrix:        Lead, Potable Water
+      Date Analyzed:                   28-Sep-26
+
+
+
+Lab ID                  CID   Sample Location/Description                                                  LOQ    Result   Units      Flag
+
+260925031-467           35    Theater/Gym - Storage Ice Machine - IM; initial                             0.001   <0.001    mg/L
+
+260925031-468           36    Theater/Gym - Main Lobby Bubbler - WF; initial                              0.001   <0.001    mg/L
+
+260925031-469           37    Theater/Gym - Main Lobby Bottle Filler - BF; initial                        0.001   <0.001    mg/L
+
+260925031-470           38    CLP - Outdoor Bubbler - Front - WF; initial                                 0.001   <0.001    mg/L
+
+260925031-471           39    CLP - Outdoor Bottle Filler - Front - BF; initial                           0.001   <0.001    mg/L
+
+260925031-472           40    CLP - Outdoor Bubbler - Side - WF; initial                                  0.001   <0.001    mg/L
+
+260925031-473           41    CLP - Outdoor Bottle Filler - Side - BF; initial                            0.001   <0.001    mg/L
+
+260925031-474           42    CLP - Concession Sink - SK; initial                                         0.001   <0.001    mg/L
+
+260925031-475           43    CLP - Ice Machine - IM; initial                                             0.001   <0.001    mg/L
+
+260925031-476           44    HS - Marra Lounge - SK; initial                                             0.001   <0.001    mg/L
+
+260925031-477           45    HS - Room H-018 - SK; initial                                               0.001   0.002     mg/L
+
+260925031-478           46    HS - BOCES Nurse's Office - SK; initial                                     0.001   0.003     mg/L
+Comment(s):
+LOQ: Limit of Quantitation
+CID: Client ID
+
+
+
+
+                                                                                                                                     Page 3 of 3
+                                                                NYSDOH ELAP Lab ID: 11510                                     9/28/2026 1:39 PM

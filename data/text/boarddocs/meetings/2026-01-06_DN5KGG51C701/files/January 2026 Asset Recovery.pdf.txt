@@ -1,0 +1,242 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/pfiles/DPUJW24F18FE/$file/January%202026%20Asset%20Recovery.pdf | DATE: 2026-01-06 | TITLE: Regular Meeting | 12.3 Declaration of Obsolete/Surplus Equipment | January 2026 Asset Recovery.pdf
+
+                                                                 Asset Recovery January 6, 2026
+
+
+  Asset ID      Serial Number        Asset Type   Manufacturer                           Model                      Assigned to Location Site      Notes
+ET206711IR    PU421ETF18001288           AP         Fortinet                    Fortinet FAP-U421EV-A               2025 2nd Round AR IHS Nonfunctional/End of Life
+ET171797IR    PU421ETF19007250           AP         Fortinet                    Fortinet FAP-U421EV-A               2025 2nd Round AR IHS Nonfunctional/End of Life
+ET201231IR       5CD040C450         Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET201615IR       5CD04081ZN         Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET201254IR       5CD040C40D         Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET201886IR       5CD040BZT0         Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET201878IR      5CD040BZHG          Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET201737IR       5CD040C02C         Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET201602IR       5CD04081ZD         Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET201288IR       5CD040C496         Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET201522IR      5CD040BZTM          Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET201427IR       5CD040BZZC         Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET201349IR       5CD040C24L         Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET201985IR       5CD040C3ZG         Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET201443IR      5CD040C3W2          Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET204660IR       5CD0407NL8         Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET201214IR       5CD04082G1         Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET201512IR      5CD040821W          Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET171879IR        P204NVB3          Chromebook      Lenovo              Lenovo 300e Chromebook 2nd Gen MTK          2025 2nd Round AR IHS Nonfunctional/End of Life
+ET201776IR       5CD040BZGS         Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET201756IR       5CD040C47H         Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET201563IR       5CD04081XV         Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET172000IR NXGNZAA002921201717600   Chromebook       Acer                 Acer Chromebook 11 (C771, C771T)          2025 2nd Round AR IHS Nonfunctional/End of Life
+HSMS-TC-7 NXGE8AA0046481DA4E7600    Chromebook       Acer              Acer Chromebook 14 for Work (CP5-471)        2025 2nd Round AR IHS Nonfunctional/End of Life
+ET201892IR       5CD040BZS1         Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET201695IR      5CD040BZWC          Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET201997IR       5CD040C26R         Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET201828IR       5CD040C3FL         Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET201595IR       5CD04080SR         Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET201824IR       5CD040BZX0         Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET201832IR       5CD0408206         Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET201707IR       5CD040BZYV         Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET201375IR       5CD04082D5         Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET201748IR      5CD040BZW3          Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET201365IR       5CD040BZPN         Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET201264IR       5CD040BZVH         Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET204625IR       5CD040C403         Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET201333IR       5CD040C3GK         Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET201572IR      5CD040BZWX          Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET101437IR       5CD040BZGY         Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET201395IR      5CD040BYMN          Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET201310IR       5CD0408299         Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET201580IR      5CD040C49M          Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE   2025 2nd Round AR IHS Nonfunctional/End of Life
+
+
+
+12/30/2025                                                                                                                                                            1
+
+                                                                   Asset Recovery January 6, 2026
+
+
+  Asset ID        Serial Number        Asset Type   Manufacturer                        Model                         Assigned to Location Site      Notes
+ET201385IR         5CD040C003         Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET201692IR         5CD040BZB3         Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET201218IR         5CD040C44J         Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET201355IR         5CD040C4BD         Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET201312IR         5CD04082H5         Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET201608IR         5CD040BZYL         Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET201734IR         5CD0347DK3         Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET201303IR         5CD040C2ZP         Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET201754IR         5CD040BZ2S         Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET201524IR         5CD040BZ4G         Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET204643IR         5CD040C43H         Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET201829IR         5CD040BZYD         Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET201328IR         5CD040C4BC         Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET201665IR         5CD04082L4         Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET201788IR         5CD040BZLN         Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET201724IR        5CD040BZXM          Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET204509IR         5CD040BZXS         Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET201611IR         5CD040BZVJ         Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET201899IR         5CD040BZTD         Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET201858IR        5CD040BZWQ          Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET201311IR         5CD040C4BV         Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET201377IR         5CD04082J3         Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET201658IR        5CD040BZWP          Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET201887IR         5CD040C3VY         Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET201988IR        5CD04081WR          Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET201344IR         5CD040C27J         Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET201550IR         5CD04081YV         Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET201266IR         5CD040BZZ1         Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET201649IR         5CD04082H4         Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET201840IR         5CD040BZXK         Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET201972IR         5CD040C00K         Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET201308IR         5CD040BZYB         Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET201283IR         5CD040BZT5         Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET201716IR         5CD040BZLS         Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET201693IR         5CD040BZX6         Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET201668IR         5CD040C00F         Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET201476IR         5CD0407NKY         Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET201543IR         5CD040BZVS         Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET202404IR        5CD0349NNG          Chromebook        HP                      Chromebook x360 14b-ca0               2025 2nd Round AR IHS Nonfunctional/End of Life
+ET203979IR   NXATNAA002124182477611   Chromebook       Acer             Acer Chromebook Spin 511 (R752T, R752TN)      2025 2nd Round AR IHS Nonfunctional/End of Life
+ET203690IR   NXATNAA002124182C57611   Chromebook       Acer             Acer Chromebook Spin 511 (R752T, R752TN)      2025 2nd Round AR IHS Nonfunctional/End of Life
+ET204044IR   NXATNAA00212418B057611   Chromebook       Acer             Acer Chromebook Spin 511 (R752T, R752TN)      2025 2nd Round AR IHS Nonfunctional/End of Life
+ET205351IR   NXATNAA0021240FF707611   Chromebook       Acer             Acer Chromebook Spin 511 (R752T, R752TN)      2025 2nd Round AR IHS Nonfunctional/End of Life
+
+
+
+12/30/2025                                                                                                                                                              2
+
+                                                                   Asset Recovery January 6, 2026
+
+
+  Asset ID        Serial Number        Asset Type   Manufacturer                       Model                      Assigned to Location Site      Notes
+ET203617IR   NXATNAA0021240F4457611   Chromebook       Acer            Acer Chromebook Spin 511 (R752T, R752TN)   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET204034IR   NXATNAA0021241EFEC7611   Chromebook       Acer            Acer Chromebook Spin 511 (R752T, R752TN)   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET204106IR   NXATNAA0021241EFD57611   Chromebook       Acer            Acer Chromebook Spin 511 (R752T, R752TN)   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET204072IR   NXATNAA002124182847611   Chromebook       Acer            Acer Chromebook Spin 511 (R752T, R752TN)   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET204071IR   NXATNAA0021240F6F67611   Chromebook       Acer            Acer Chromebook Spin 511 (R752T, R752TN)   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET204079IR   NXATNAA0021241824C7611   Chromebook       Acer            Acer Chromebook Spin 511 (R752T, R752TN)   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET204036IR   NXATNAA00212417E7C7611   Chromebook       Acer            Acer Chromebook Spin 511 (R752T, R752TN)   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET203989IR   NXATNAA0021240F6F47611   Chromebook       Acer            Acer Chromebook Spin 511 (R752T, R752TN)   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET204001IR   NXATNAA002124181F37611   Chromebook       Acer            Acer Chromebook Spin 511 (R752T, R752TN)   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET204104IR   NXATNAA0021241824F7611   Chromebook       Acer            Acer Chromebook Spin 511 (R752T, R752TN)   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET204040IR   NXATNAA0021240F6717611   Chromebook       Acer            Acer Chromebook Spin 511 (R752T, R752TN)   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET203809IR   NXATNAA0021240FDF57611   Chromebook       Acer            Acer Chromebook Spin 511 (R752T, R752TN)   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET204109IR   NXATNAA00212417EB87611   Chromebook       Acer            Acer Chromebook Spin 511 (R752T, R752TN)   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET205350IR   NXATNAA0021240FF7A7611   Chromebook       Acer            Acer Chromebook Spin 511 (R752T, R752TN)   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET205487IR   NXATNAA0021240F5F67611   Chromebook       Acer            Acer Chromebook Spin 511 (R752T, R752TN)   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET205333IR   NXATNAA00212417EF37611   Chromebook       Acer            Acer Chromebook Spin 511 (R752T, R752TN)   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET203953IR   NXATNAA0021240F5FA7611   Chromebook       Acer            Acer Chromebook Spin 511 (R752T, R752TN)   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET203970IR   NXATNAA0021241EC717611   Chromebook       Acer            Acer Chromebook Spin 511 (R752T, R752TN)   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET204110IR   NXATNAA0021241EFFA7611   Chromebook       Acer            Acer Chromebook Spin 511 (R752T, R752TN)   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET205334IR   NXATNAA002124182F87611   Chromebook       Acer            Acer Chromebook Spin 511 (R752T, R752TN)   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET204039IR   NXATNAA002124182ED7611   Chromebook       Acer            Acer Chromebook Spin 511 (R752T, R752TN)   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET204048IR   NXATNAA002124182F67611   Chromebook       Acer            Acer Chromebook Spin 511 (R752T, R752TN)   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET204024IR   NXATNAA0021241EC4C7611   Chromebook       Acer            Acer Chromebook Spin 511 (R752T, R752TN)   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET204233IR   NXATNAA0021241EEBC7611   Chromebook       Acer            Acer Chromebook Spin 511 (R752T, R752TN)   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET204484IR   NXATNAA002124181FF7611   Chromebook       Acer            Acer Chromebook Spin 511 (R752T, R752TN)   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET204269IR   NXATNAA0021240FBA87611   Chromebook       Acer            Acer Chromebook Spin 511 (R752T, R752TN)   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET205255IR   NXATNAA0021241EC317611   Chromebook       Acer            Acer Chromebook Spin 511 (R752T, R752TN)   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET204214IR   NXATNAA0021241EB8F7611   Chromebook       Acer            Acer Chromebook Spin 511 (R752T, R752TN)   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET205331IR   NXATNAA0021241EFCE7611   Chromebook       Acer            Acer Chromebook Spin 511 (R752T, R752TN)   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET203654IR   NXATNAA0021240F8DC7611   Chromebook       Acer            Acer Chromebook Spin 511 (R752T, R752TN)   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET205275IR   NXATNAA0021241F0257611   Chromebook       Acer            Acer Chromebook Spin 511 (R752T, R752TN)   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET204333IR   NXATNAA0021240F69D7611   Chromebook       Acer            Acer Chromebook Spin 511 (R752T, R752TN)   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET204351IR   NXATNAA0021241EC907611   Chromebook       Acer            Acer Chromebook Spin 511 (R752T, R752TN)   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET204387IR   NXATNAA0021240FC9F7611   Chromebook       Acer            Acer Chromebook Spin 511 (R752T, R752TN)   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET204390IR   NXATNAA0021240F8E37611   Chromebook       Acer            Acer Chromebook Spin 511 (R752T, R752TN)   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET204317IR   NXATNAA0021241EB517611   Chromebook       Acer            Acer Chromebook Spin 511 (R752T, R752TN)   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET204551IR   NXATNAA0021240F6097611   Chromebook       Acer            Acer Chromebook Spin 511 (R752T, R752TN)   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET205228IR   NXATNAA0021241EC6A7611   Chromebook       Acer            Acer Chromebook Spin 511 (R752T, R752TN)   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET204535IR   NXATNAA0021240F6337611   Chromebook       Acer            Acer Chromebook Spin 511 (R752T, R752TN)   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET204132IR   NXATNAA0021240F6447611   Chromebook       Acer            Acer Chromebook Spin 511 (R752T, R752TN)   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET205194IR   NXATNAA0021240F8897611   Chromebook       Acer            Acer Chromebook Spin 511 (R752T, R752TN)   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET205434IR   NXATNAA0021241EC347611   Chromebook       Acer            Acer Chromebook Spin 511 (R752T, R752TN)   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET205226IR   NXATNAA0021241F0347611   Chromebook       Acer            Acer Chromebook Spin 511 (R752T, R752TN)   2025 2nd Round AR IHS Nonfunctional/End of Life
+
+
+
+12/30/2025                                                                                                                                                          3
+
+                                                                     Asset Recovery January 6, 2026
+
+
+  Asset ID       Serial Number         Asset Type     Manufacturer                          Model                   Assigned to Location Site      Notes
+ET204536IR NXATNAA0021241EBB27611     Chromebook         Acer            Acer Chromebook Spin 511 (R752T, R752TN)   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET204569IR NXATNAA0021241EBFE7611     Chromebook         Acer            Acer Chromebook Spin 511 (R752T, R752TN)   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET205208IR NXATNAA0021241EBFD7611     Chromebook         Acer            Acer Chromebook Spin 511 (R752T, R752TN)   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET204232IR NXATNAA0021241EDAA7611     Chromebook         Acer            Acer Chromebook Spin 511 (R752T, R752TN)   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET204550IR NXATNAA0021240F89D7611     Chromebook         Acer            Acer Chromebook Spin 511 (R752T, R752TN)   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET204735IR NXATNAA0021241EB6C7611     Chromebook         Acer            Acer Chromebook Spin 511 (R752T, R752TN)   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET247467IR NXATNAA0021241EEAE7611     Chromebook         Acer            Acer Chromebook Spin 511 (R752T, R752TN)   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET204310IR NXATNAA0021241EF8C7611     Chromebook         Acer            Acer Chromebook Spin 511 (R752T, R752TN)   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET205154IR NXATNAA0021241ED4A7611     Chromebook         Acer            Acer Chromebook Spin 511 (R752T, R752TN)   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET204275IR NXATNAA00212417EB67611     Chromebook         Acer            Acer Chromebook Spin 511 (R752T, R752TN)   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET204272IR NXATNAA0021241EC697611     Chromebook         Acer            Acer Chromebook Spin 511 (R752T, R752TN)   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET204354IR NXATNAA0021241827D7611     Chromebook         Acer            Acer Chromebook Spin 511 (R752T, R752TN)   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET205222IR NXATNAA0021241826D7611     Chromebook         Acer            Acer Chromebook Spin 511 (R752T, R752TN)   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET206703IR          943H3Y3           Chromebook          Dell                  Dell Chromebook 3110 2-in-1         2025 2nd Round AR IHS Nonfunctional/End of Life
+ET205614IR          9TL24Y3           Chromebook          Dell                  Dell Chromebook 3110 2-in-1         2025 2nd Round AR IHS Nonfunctional/End of Life
+ET205632IR          9C3H3Y3           Chromebook          Dell                  Dell Chromebook 3110 2-in-1         2025 2nd Round AR IHS Nonfunctional/End of Life
+ET171540IR 1S10M7000QUSMJ073JPJ          Desktop        Lenovo                          Lenovo M710s                2025 2nd Round AR IHS Nonfunctional/End of Life
+ET170763IR 1S10M7000QUSMJ05PUNZ          Desktop        Lenovo                          Lenovo M710s                2025 2nd Round AR IHS Nonfunctional/End of Life
+ET202366IR 1S11DC0037USMJ0FM2GN          Desktop        Lenovo                    Lenovo ThinkCentre M70s           2025 2nd Round AR IHS Nonfunctional/End of Life
+ET202828IR 1S11DC0037USMJ0FM1FQ          Desktop        Lenovo                    Lenovo ThinkCentre M70s           2025 2nd Round AR IHS Nonfunctional/End of Life
+ET202858IR 1S11DC0037USMJ0FM2KZ          Desktop        Lenovo                    Lenovo ThinkCentre M70s           2025 2nd Round AR IHS Nonfunctional/End of Life
+ET202798IR         MJ0A26KQ              Desktop        Lenovo                          Lenovo M720s                2025 2nd Round AR IHS Nonfunctional/End of Life
+ET204540IR 1S11DC0036USMJ0HW2PP          Desktop        Lenovo                    Lenovo ThinkCentre M70s           2025 2nd Round AR IHS Nonfunctional/End of Life
+ET204925IR 1S11DC0036USMJ0HW0D5          Desktop        Lenovo                    Lenovo ThinkCentre M70s           2025 2nd Round AR IHS Nonfunctional/End of Life
+ET205776IR         9Y99WX3               Desktop          Dell                      Dell OptiPlex AIO 7410          2025 2nd Round AR IHS Nonfunctional/End of Life
+ET205748IR         31B9WX9               Desktop          Dell                      Dell OptiPlex AIO 7410          2025 2nd Round AR IHS Nonfunctional/End of Life
+ET172389IR     D0X64Z2UA12587       Interactive Board  NewLine                        Newline TT7519RS              2025 2nd Round AR IHS Nonfunctional/End of Life
+ET172369IR     D0X64Z2UA12589       Interactive Board  NewLine                        Newline TT7519RS              2025 2nd Round AR IHS Nonfunctional/End of Life
+  118107        C020FW35B0375       Interactive Board   SMART                          SMART SBM680                 2025 2nd Round AR IHS Nonfunctional/End of Life
+ET101154IR     G032HW44P0279        Interactive Board   SMART                          SMART SBM680                 2025 2nd Round AR IHS Nonfunctional/End of Life
+ET101173IR     G032HW23P0137        Interactive Board   SMART                          SMART SBM680                 2025 2nd Round AR IHS Nonfunctional/End of Life
+ET203305IR     ZD0N53XU970908       Interactive Board  NewLine                        Newline TT7518RS              2025 2nd Round AR IHS Nonfunctional/End of Life
+ET203000IR     DDHC1Z2MB72029       Interactive Board  NewLine                        Newline TT7519RS              2025 2nd Round AR IHS Nonfunctional/End of Life
+ET202295IR     ZD0N53XU971402       Interactive Board  NewLine                        Newline TT7518RS              2025 2nd Round AR IHS Nonfunctional/End of Life
+ET203063IR    6K5WCFW2BU9DFLN       Interactive Board  NewLine                        Newline TT7518RS              2025 2nd Round AR IHS Nonfunctional/End of Life
+ET202088IR 1S20RA004WUSPF1V7TFF          Laptop         Lenovo                            Lenovo E14                2025 2nd Round AR IHS Nonfunctional/End of Life
+ET202324IR         PF35HAQY              Laptop         Lenovo                   Lenovo Thinkpad E14 Gen 2          2025 2nd Round AR IHS Nonfunctional/End of Life
+ET202371IR  1S20TA002FUSPF34S2B6         Laptop         Lenovo                   Lenovo Thinkpad E14 Gen 2          2025 2nd Round AR IHS Nonfunctional/End of Life
+ET203301IR         MP259ERG              Laptop         Lenovo                     ThinkBook 14s Yoga ITL           2025 2nd Round AR IHS Nonfunctional/End of Life
+ET203353IR         PF3BB8Z2              Laptop          Acer                              Acer V14                 2025 2nd Round AR IHS Nonfunctional/End of Life
+ET202277IR        9616692154             Laptop        Microsoft                   Microsoft Surface Book 2         2025 2nd Round AR IHS Nonfunctional/End of Life
+ET203403IR       27137114957             Laptop        Microsoft                   Microsoft Surface Book 3         2025 2nd Round AR IHS Nonfunctional/End of Life
+ET171843IR MMLY7AA008832082E5851C        Monitor         Acer                           Acer V226HQL                2025 2nd Round AR IHS Nonfunctional/End of Life
+
+
+
+12/30/2025                                                                                                                                                            4
+
+                                                                Asset Recovery January 6, 2026
+
+
+  Asset ID      Serial Number       Asset Type   Manufacturer                         Model           Assigned to Location Site      Notes
+ET203163IR MMLY7AA0068520AC908559    Monitor        Acer                          Acer V226HQL        2025 2nd Round AR IHS Nonfunctional/End of Life
+ET203164IR MMLXLAA01091503DA04254    Monitor        Acer                          Acer V226HQL        2025 2nd Round AR IHS Nonfunctional/End of Life
+ET204968IR MMTCYAA00314912F3F8555    Monitor        Acer                           Acer B227Q         2025 2nd Round AR IHS Nonfunctional/End of Life
+ET205005IR MMTCYAA00314912F798555    Monitor        Acer                           Acer B227Q         2025 2nd Round AR IHS Nonfunctional/End of Life
+ET202265IR MMTCYAA0031501A24C8555    Monitor        Acer                           Acer B227Q         2025 2nd Round AR IHS Nonfunctional/End of Life
+ET202212IR MMTCYAA0031471958E8555    Monitor        Acer                           Acer B227Q         2025 2nd Round AR IHS Nonfunctional/End of Life
+  116133         CNBK640220           Printer        HP                              HP 1505          2025 2nd Round AR IHS Nonfunctional/End of Life
+  116006         CNBK622042           Printer        HP                              HP 1505          2025 2nd Round AR IHS Nonfunctional/End of Life
+  117775        VND3C05089            Printer        HP                              HP 1606          2025 2nd Round AR IHS Nonfunctional/End of Life
+  117345         CNB9F33839           Printer        HP                             HP 2035n          2025 2nd Round AR IHS Nonfunctional/End of Life
+ET101448IR    CN85H6H1HT067P          Printer        HP                              HP 3630          2025 2nd Round AR IHS Nonfunctional/End of Life
+  117313        CNB9D33490            Printer        HP                        HP LaserJet P2035n     2025 2nd Round AR IHS Nonfunctional/End of Life
+  117545         CNB9995686           Printer        HP                            HP p2055dm         2025 2nd Round AR IHS Nonfunctional/End of Life
+  117506         CNDY942592           Printer        HP                            HP P4015tn         2025 2nd Round AR IHS Nonfunctional/End of Life
+  117893        VND3C60938            Printer        HP                        HP Laserjet P1606dn    2025 2nd Round AR IHS Nonfunctional/End of Life
+ET202270IR       PHBHL01097           Printer        HP                       HP Laserjet Pro M402n   2025 2nd Round AR IHS Nonfunctional/End of Life
+ET171066IR        6200166RA          Projector      NEC                            NEC M323X          2025 2nd Round AR IHS Nonfunctional/End of Life
+ET171040IR        6X00663RE          Projector      NEC                          NEC NP-M323X         2025 2nd Round AR IHS Nonfunctional/End of Life
+ET202834IR        7600348EJ          Projector      NEC                         NEC NP-UM361X         2025 2nd Round AR IHS Nonfunctional/End of Life
+ET203148IR        8500007TF          Projector      NEC                            NEC ME361X         2025 2nd Round AR IHS Nonfunctional/End of Life
+ET202373IR      R9WR60T1ZTJ           Tablet      Samsung                          Galaxy Tab A       2025 2nd Round AR IHS Nonfunctional/End of Life
+ET202376IR      R9WR60T1V1J           Tablet      Samsung                          Galaxy Tab A       2025 2nd Round AR IHS Nonfunctional/End of Life
+
+
+
+
+12/30/2025                                                                                                                                              5
+

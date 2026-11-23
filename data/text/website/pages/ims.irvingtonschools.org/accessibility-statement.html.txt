@@ -1,0 +1,14 @@
+SOURCE https://ims.irvingtonschools.org/accessibility-statement | DATE 2025-06-24 | TITLE Accessibility Statement - Irvington Middle School
+
+Accessibility Statement
+We want everyone who visits the Your School website to feel welcome and find the experience rewarding.
+What are we doing?
+To help us make the Your School website a positive place for everyone, we've been using the Web Content Accessibility Guidelines (WCAG) 2.0. These guidelines explain how to make web content more accessible for people with disabilities, and user friendly for everyone.
+The guidelines have three levels of accessibility (A, AA and AAA). We’ve chosen Level AA as the target for the Your School website.
+How are we doing?
+We've worked hard on the Your School website and believe we've achieved our goal of Level AA accessibility. We monitor the website regularly to maintain this, but if you do find any problems, please get in touch.
+Let us know what you think
+If you enjoyed using the Your School website, or if you had trouble with any part of it, please get in touch. We'd like to hear from you in any of the following ways:
+- email us at accessibility@yourschool.com
+- call us on 555-555-5555 ext:555
+This accessibility statement was generated on 16th May 2017 using the Accessibility Statement Generator.

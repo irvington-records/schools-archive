@@ -1,0 +1,4 @@
+2019-04-02 | 2019 04 02 22 17 30 | https://www.youtube.com/watch?v=uxXoVbN3od0
+(slides auto-extracted from 1280x720 video; scene>0.08, OCR words>=12, phash<=8; 0 slides from 1 candidate views; Apple Vision OCR)
+
+(no shared-screen slides detected)

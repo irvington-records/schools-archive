@@ -1,0 +1,21 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/goto?open&id=DGMKBW512216 | DATE: 2025-06-03 | TITLE: Regular Meeting | 3.2 Recognition of Science Research Award Winners 2024-25
+
+Meeting: Jun 03, 2025 - Regular Meeting
+Date: 2025-06-03
+Category: 3. Recognitions
+Subject: 3.2 Recognition of Science Research Award Winners 2024-25
+Type: Recognition
+
+Recipients: Max Bloom and Deven Choksi
+
+Max Bloom:
+
+Topic: Computational Biology & Bioinformatics
+The Structure Biology of TCR-pMHC Complexes in Autoimmune Disease
+Approximately 50 million Americans suffer from autoimmune diseases: conditions where the immune system mistakenly attacks healthy tissues. Autoimmune diseases are primarily driven by self-antigens presented to immune receptors such as the major histocompatibility complex (MHC) and the T-cell receptor (TCR). Together, they form the TCR-pMHC protein complex, which initiates immune responses. In autoimmune disease, regions of the MHC, known as MHC-II, present self-antigens to TCRs, initiating a damaging immune response. A crucial hypervariable region of the TCR, the complementarity-determining region 3 (CDR3), influences T-cell responses, ranging from pathogen clearance to pathogenicity in autoimmune conditions. Despite progress in understanding T-cell autoreactivity, the biophysical properties of CDR3 amino acid sequences in autoimmune diseases remain poorly characterized. This study hypothesized that The biophysical properties of CDR3 regions in disease-enriched TCRs critically influence pathogenic T-cell autoreactivity, contributing to rheumatoid arthritis development. This study aimed to identify whether CDR3 sequences enriched/overrepresented in rheumatoid arthritis (RA) patients exhibit distinct interaction patterns with autoimmune-associated MHC-II residues. Using publicly available de-identified TCR-CDR3 datasets, enrichment analysis was done to identify specific CDR3 sequences enriched in RA patients. These CDR3 sequences were then inserted into in-silico structural templates of TCR-pMHC and analyzed for structural orientation and interaction profiles. Findings suggest that the biophysical properties of CDR3 sequences do influence their pathogenic potential, and self-reactivity in autoimmune diseases could be potentially more peptide-independent than previously thought. Applications of this research include the identification of high risk autoimmune patients using pathogenic CDR3 sequences as biomarkers, and novel autoimmune treatments that act on these CDR3 sequences.
+
+Deven Choksi:
+
+Topic: Plant Science
+Defining the Relationship Between the Foliar Nematode L. crenatae mccanni and Beech Leaf Disease
+Throughout the Northeastern Hemisphere in American Beech and mortality is seen within 6-7 years after a tree first exhibits symptoms. Scientists performed testing to determine possible causes of the disease and settled on two explanations: either the presence of the nematode alone or the facilitation of bacteria via the nematode caused disease progression. It was hypothesized that the greater the nematode density within a leaf, the worse the progression of disease. To test this, a modified pan technique was used to make nematode solutions for 16 leaves at different stages of disease progression. Then, for each leaf, nematodes were counted in 5 samples of 0.2 mL of nematode suspension for each leaf, averaged, and used to calculate nematode density for that leaf. An ANOVA analysis then was run to determine if there was a statistically significant relationship between the number of nematodes and the category of disease progression. It was determined that the leaves with the most prominent disease progression contained the largest number of nematodes. The results of the ANOVA analysis showed that there was a significant relationship of 0.01 between average number of nematodes and disease category. These results show the sole presence of the nematodes do influence disease progression, and as the number of nematodes within a leaf increases, so will disease progression. If this relationship is correct, scientists would know where to focus their efforts in making a cure for the disease.

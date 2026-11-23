@@ -1,0 +1,35 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/goto?open&id=9BNLYD58D209 | DATE: 2013-10-08 | TITLE: Regular Meeting - 6:30 p.m.* | 10.5 Budget Transfers
+
+Meeting: Oct 08, 2013 - Regular Meeting - 6:30 p.m.*
+Date: 2013-10-08
+Category: 10. Business Office Matters
+Subject: 10.5 Budget Transfers
+Type: Action (Consent)
+
+Budget Transfer 13/14 -02
+
+	Credit  A2610-490 (Library/AV BOCES)                        $2,900
+
+	Debit   A2110-400-40-7000 (Other Exp. Dist. Testing)   $2,900
+
+	Credit  A2610-490 (Library/AV BOCES)                        $2,100
+
+	Debit   A2020-490-40-7000 (Prof. Dev. BOCES)           $2,100
+
+	This transfer is to cover the increase in Library software costs and new software ordered for 13/14 school year.
+
+	Budget Transfer 13/14-03
+
+	Credit  A5540-400-00-2250 (Transp. - Special Education)                $20,838
+
+	Debit   A5510-490-00-2250 (Transp. - BOCES-Special Education)   $20,838
+
+	Ardsley School District is providing Special Education Transportation previously provided by BOCES at a cost savings.
+
+	Budget Transfer 13/14-04
+
+	Credit  A1989-400 (Refund of Prior Years' Revenue)    $34,597
+
+	Debit   A2250-470 (Tuition-Special Schools)                  $34,597
+
+	This transfer is to cover refund due Hastings School District for tuition paid for special education student but did not attend Irvington in 2012-13.

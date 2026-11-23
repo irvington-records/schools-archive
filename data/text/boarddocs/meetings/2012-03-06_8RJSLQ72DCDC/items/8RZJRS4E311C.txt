@@ -1,0 +1,37 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/goto?open&id=8RZJRS4E311C | DATE: 2012-03-06 | TITLE: Regular Public Meeting - 7:30 p.m. | 9.2 Budget Transfers
+
+Meeting: Mar 06, 2012 - Regular Public Meeting - 7:30 p.m.
+Date: 2012-03-06
+Category: 9. Business Office Matters
+Subject: 9.2 Budget Transfers
+Type: Action (Consent)
+
+Budget Transfer 2011/12-16
+
+	     Credit A1430-490-00-0000 (Personnel-BOCES/Recruitment)     $3,226
+
+	     Debit  A2110-490-40-7000 (Prof. Dev.-Sub Reimbursement)     $3,000
+
+	     Debit  A2110-140-00-0000 (Substitute Teacher Salaries)           $  226
+
+	This is to cover Substitute Teacher reimbursement.
+
+	     Credit A2020-490-40-7000 (Prof. Dev.-BOCES)                         $6,739
+
+	     Debit  A2110-138-00-0000 (7-12 health Payout)                        $6,739
+
+	This is to cover Professional Learning Services.
+
+	    Credit  A2610-490-00-0000 (Library/AV BOCES)                       $3,400
+
+	    Debit   A2630-490-40-6000 (Computer-BOCES- Dist. Tech)       $3,400
+
+	This is to cover additional Library Automation
+
+	Budget Transfer 2011/12-17
+
+	     Credit A9040-800-00-0000 (Worker's Compensation)                $10,640
+
+	     Debit  A1980-400-00-0000 (MTA Payroll Tax)                             $10,640
+
+	This is to cover additional Worker's Compensation Fund.

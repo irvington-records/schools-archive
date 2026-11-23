@@ -1,0 +1,30 @@
+SOURCE http://irvingtonschools.org:80/jrbookaward.rtf | DATE 2005-02-14 | TITLE jrbookaward.rtf
+
+2004   Book Award
+
+
+Vassar 						Amanda McCarthy
+
+Harvard-Radcliffe				Robert (Will) Forster
+
+Pace University					Joseph Florio
+
+Cornell						Zachary Feinstein
+
+University of Pennsylvania			Romit Bhattacharya
+
+Smith College					Kaitlyn Litcofsky
+
+George Washington University		Tristan Naumann
+
+Wellesley 						Carla Kalvin
+
+St. Michael’s college				Pamela Ryan
+							Martin Pepeljugoski
+
+Yale							Anees Benferhat
+
+Dartmouth						Erica Cooper
+							Eric Saar
+
+West Point Award				Terikazu Onoda

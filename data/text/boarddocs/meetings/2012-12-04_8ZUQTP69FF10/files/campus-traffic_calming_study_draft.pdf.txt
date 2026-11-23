@@ -1,0 +1,517 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/pfiles/92NLM8572C3E/$file/campus-traffic_calming_study_draft.pdf | DATE: 2012-12-04 | TITLE: Regular Meeting - 7:30 p.m.* REVISED AGENDA | 10.1 LAN Associates Presentation on Meszaros Field and Traffic Calming Study | campus-traffic_calming_study_draft.pdf
+
+             TRAFFIC CALMING STUDY
+
+                          AT
+
+IRVINGTON HIGH SCHOOL / MIDDLE SCHOOL COMPLEX
+
+
+
+
+                    Submitted for:
+
+        Irvington Union Free School District
+                 40 North Broadway
+                 Irvington, NY 10533
+
+    Attn: Ms. Beverly Miller, Business Administrator
+
+
+
+
+                                                LAN Job #4.1091.06
+                                                November 21, 2012
+
+LAN ASSOCIATES                                                                                      1
+
+
+INTRODUCTION
+
+LAN Associates Engineering, Planning, Architecture, Surveying, LLP (LAN) was requested by the
+Irvington School District to propose a plan to slow traffic through the High School and Middle School
+campus with the suggestions of speed humps and/or rumble strips (known under the broader topic of
+traffic calming).
+
+Through research of governing bodies’ design standards and requirements, the following was found
+about what circumstances warrant traffic calming devices.
+
+MUTCD
+
+Speed Humps
+
+Speed Humps are not covered in MUTCD as they are not considered a Traffic Control Device (TCD).
+MUTCD directs the reader to seek guidance from the Institute of Transportation Engineers (ITE).
+
+In the FAQ section of the MUTCD website (http://mutcd.fhwa.dot.gov/knowledge/faqs/faq_general.htm),
+Question 27 addresses MUTCD’s exclusion of the subject matter:
+
+        “Q: Why doesn't the MUTCD contain standards for the design and spacing of speed
+        humps and bumps?
+
+        A: Speed bumps and humps are considered "physical features" of a roadway rather than traffic
+        control devices (TCDs), so the MUTCD does not address the height, width, length, or spacing of
+        the actual humps and bumps. The Institute of Transportation Engineers (www.ite.org) publishes
+        technical guidance on criteria, dimensions, spacing, etc. of speed humps that many cities and
+        counties use in developing their own policies for these features. The pavement markings and
+        signs used to warn road users of the physical features of the road, such as signs and markings
+        for speed humps, are TCDs and are therefore covered by the MUTCD.”
+
+Signs and markings, however, are considered TCDs, and therefore are covered under MUTCD.
+
+Section 3B.25 states the standard for speed hump markings:
+
+http://mutcd.fhwa.dot.gov/pdfs/2009r1r2/part3.pdf
+
+        “Section 3B.25 Speed Hump Markings
+
+        Standard:
+
+        01 If speed hump markings are used, they shall be a series of white markings placed on a
+        speed hump to identify its location. If markings are used for a speed hump that does not also
+        function as a crosswalk or speed Table, the markings shall comply with Option A, B, or C shown
+        in Figure 3B-29. If markings are used for a speed hump that also functions as a crosswalk or
+        speed Table, the markings shall comply with Option A or B shown in Figure 3B-30.”
+
+
+
+
+                                                                                  LAN Job #4.1091.06
+
+LAN ASSOCIATES                                                                                             2
+
+
+
+
+Rumble Strips
+
+Part 3 of the MUTCD (Markings), Section 3J.02 addresses rumble strips.
+
+http://mutcd.fhwa.dot.gov/pdfs/2009r1r2/part3.pdf
+
+        “Section 3J.02 Transverse Rumble Strip Markings
+
+        Support:
+
+        01 Transverse rumble strips consist of intermittent narrow, transverse areas of rough-textured or
+        slightly raised or depressed road surface that extend across the travel lanes to alert drivers to
+        unusual vehicular traffic conditions. Through noise and vibration, they attract the attention of road
+        users to features such as unexpected changes in alignment and conditions requiring a reduction
+        in speed or a stop.
+
+
+                                                                                       LAN Job #4.1091.06
+
+LAN ASSOCIATES                                                                                             3
+
+
+        02 This Manual contains no provisions regarding the design and placement of transverse rumble
+        strips that approximate the color of the pavement. The provisions in this Manual address the use
+        of markings in combination with a transverse rumble strip.
+
+        Standard:
+
+        03 Except as otherwise provided in Section 6F.87 for TTC zones, if the color of a transverse
+        rumble strip used within a travel lane is not the color of the pavement, the color of the transverse
+        rumble strip shall be either black or white.
+
+        Guidance:
+
+        04 White transverse rumble strips used in a travel lane should not be placed in locations where
+        they could be confused with other transverse markings such as stop lines or crosswalks.”
+
+Section 6F.87 covers rumble strips as a “Temporary Traffic Control Device.”
+
+http://mutcd.fhwa.dot.gov/htm/2009/part6/part6f.htm
+
+        Section 6F.87 Rumble Strips
+
+        Support:
+
+        01 Transverse rumble strips consist of intermittent, narrow, transverse areas of rough-textured or
+        slightly raised or depressed road surface that extend across the travel lanes to alert drivers to
+        unusual vehicular traffic conditions. Through noise and vibration they attract the driver's attention
+        to such features as unexpected changes in alignment and to conditions requiring a stop.
+
+        02 Longitudinal rumble strips consist of a series of rough-textured or slightly raised or depressed
+        road surfaces located along the shoulder to alert road users that they are leaving the travel lanes.
+
+        Standard:
+
+        03 If it is desirable to use a color other than the color of the pavement for a longitudinal
+        rumble strip, the color of the rumble strip shall be the same color as the longitudinal line
+        the rumble strip supplements.
+
+        04 If the color of a transverse rumble strip used within a travel lane is not the color of the
+        pavement, the color of the rumble strip shall be white, black, or orange.
+
+        Option:
+
+        05 Intervals between transverse rumble strips may be reduced as the distance to the approached
+        conditions is diminished in order to convey an impression that a closure speed is too fast and/or
+        that an action is imminent. A sign warning drivers of the onset of rumble strips may be placed in
+        advance of any transverse rumble strip installation.
+
+        Guidance:
+
+        06 Transverse rumble strips should be placed transverse to vehicular traffic movement. They
+        should not adversely affect overall pavement skid resistance under wet or dry conditions.
+
+        07 In urban areas, even though a closer spacing might be warranted, transverse rumble strips
+        should be designed in a manner that does not promote unnecessary braking or erratic steering
+        maneuvers by road users.
+
+
+
+                                                                                       LAN Job #4.1091.06
+
+LAN ASSOCIATES                                                                                           4
+
+
+        08 Transverse rumble strips should not be placed on sharp horizontal or vertical curves.
+
+        09 Rumble strips should not be placed through pedestrian crossings or on bicycle routes.
+
+        10 Transverse rumble strips should not be placed on roadways used by bicyclists unless a
+        minimum clear path of 4 feet is provided at each edge of the roadway or on each paved shoulder
+        as described in AASHTO's "Guide to the Development of Bicycle Facilities" (see Section 1A.11).
+
+        11 Longitudinal rumble strips should not be placed on the shoulder of a roadway that is used by
+        bicyclists unless a minimum clear path of 4 feet is also provided on the shoulder.
+
+FHWA
+
+Speed Humps
+
+FHWA redirects to ITE concerning traffic calming, but also provides the following descriptions:
+
+http://safety.fhwa.dot.gov/saferjourney/library/countermeasures/28.htm
+
+        “Traffic Calming
+        28. Speed Hump / Table
+
+        Speed humps are paved (usually asphalt) and approximately 3-4 inches high at their center, and
+        extend the full width of the street. Speed humps should not be confused with a speed "bump" that
+        is often found in mall parking lots. There are several designs for speed humps. The traditional 12-
+        foot hump has a design speed of 15 to 20 mph, a 14-foot one a few mph higher, and a 22-foot
+        table, of 25 to 30 mph. The longer humps are much gentler for larger vehicles.
+
+        A speed table is a term used to describe a very long and broad speed hump, or for a flat-topped
+        speed hump, where sometimes a pedestrian crossing is provided in the flat portion of the speed
+        table. The speed table can either be parabolic, making it more like a speed hump, or trapezoidal,
+        which is used more frequently in Europe. Speed tables can be used in combination with curb
+        extensions where parking exists.
+
+
+
+
+                                                                                      LAN Job #4.1091.06
+
+LAN ASSOCIATES                                                                                          5
+
+
+       Purpose:
+
+          Reduces vehicle speeds. Raised measures tend to have the most predictable speed
+           reduction impacts.
+
+          Enhances the pedestrian environment and pedestrian crossings.
+
+       Considerations:
+
+          Do not use if sight distance is limited and/or if the street is on a steep grade.
+
+          If the street is a bus route or primary emergency route, design must be coordinated with
+           operators. Usually some devices are acceptable if used prudently - one device may be
+           appropriate and may serve the primary need, e.g. if there is a particular location along a
+           street that is most in need of slowing traffic and improving pedestrian conditions.
+
+          The aesthetics of speed humps and speed tables can be improved through the use of color
+           and specialized paving materials.
+
+          Noise may increase particularly if trucks use the route regularly.
+
+          May create drainage problems on some streets.
+
+       Estimated Cost:
+
+       The cost for each speed hump is approximately $2,000. Speed tables are $5,000–$15,000, again
+       depending on drainage conditions and materials used.”
+
+Rumble Strips
+
+Chapter 5 “Rumble Strips” Of Low Cost Treatments for Horizontal Curve Safety addresses the use of
+rumble strips to warn motorists of upcoming horizontal curves.
+
+http://safety.fhwa.dot.gov/roadway_dept/horicurves/fhwasa07002/ch5.cfm
+
+       “Roadway Rumble Strip
+
+       Application Guideline
+
+          Roadway (or Transverse) rumble strips (RRS) can be raised bars or grooves placed across
+           the travel lane. For horizontal curve applications, RRSs are a warning device to supplement
+           signing and alert drivers of the need to reduce speed or at least pay attention as they
+           negotiate the curve.
+
+          Based on the available literature, the guidelines for their use on horizontal curves are:
+
+          Documented crash problem where conventional treatments, discussed earlier, have failed to
+           solve the safety problem.
+
+          Road segment with distinct differences between the roadway speed limit and the curve
+           advisory speed of at least 20 mi/h.
+
+          Proximity of another geometric feature such as a side street with limited sight distance; a
+           second, sharper curve a short distance beyond the first curve; or a downgrade leading into
+           the curve.
+
+
+
+                                                                                        LAN Job #4.1091.06
+
+LAN ASSOCIATES                                                                                        6
+
+
+
+        Long tangent section ends with a curve.
+
+
+
+
+     For this RRS application a set of 5 grooves and painted lines were placed 200 ft before the
+     curve.
+
+        Some of the concerns with the use of RRS include:
+
+        Noise complaints by nearby residents—avoid using them in residential areas.
+
+        Motorist use opposing lanes to avoid rumble strips—a potential problem for local travelers
+         that is reduced by using a discontinuous pattern design such as gaps in the bars or grooves
+         across the pavement.
+
+        Maintenance problems—grooved RRS is more durable, lasting longer than raised bars,
+         especially in areas with snowplowing.
+
+        Motorist worries—keep depth of groove or height of bar to ½ in or less and use a warning
+         sign RUMBLE STRIPS AHEAD.
+
+        Bicyclist and motorcyclist concerns—address by installing discontinuous pattern design—and
+         warning sign RUMBLE STRIPS AHEAD.
+
+        Overuse of rumble strips—leads to "crying wolf" attitude and therefore should be used
+         sparingly.
+
+     Design
+
+     Generally, limit rumble strips to a maximum height or depth of ½ in to minimize the jarring action
+     to vehicles. If thermoplastic materials are used to create raised bars for RRS, the material should
+     be white.
+
+     Configure rumble strips so that most drivers are not tempted to go around the rumble strip by
+     driving onto the shoulder or into an adjacent lane. Agencies can do this by extending the rumble
+     strip over part of the shoulder as well as the full width of the traveled way or by using a
+     discontinuous rumble strip design.
+
+
+
+
+                                                                                   LAN Job #4.1091.06
+
+LAN ASSOCIATES                                                                                          7
+
+
+        Effectiveness
+
+        There is currently no conclusive evidence of roadway rumble strip effectiveness in reducing
+        crashes at curves. They do tend to reduce speed, in most cases, but not to a practical level.”
+
+NYSDOT
+
+Speed Humps
+
+NYSDOT addresses speed humps and rumble strips (traffic calming devices), but states that cities and
+villages are responsible for the application of traffic calming.
+
+https://www.dot.ny.gov/divisions/engineering/design/dqab/hdm/chapter-25
+
+        “Context:
+
+        In general, NYSDOT is responsible for medium- to high-speed highways, while cities and villages
+        are responsible for the lower-speed highways and streets where the use of traffic-calming
+        techniques would be appropriate. This chapter is intended to cover those situations where the
+        Department’s personnel are involved with projects where traffic calming may be under
+        consideration.”
+
+In Chapter 25 of the NYSDOT design manual (Traffic Calming), speed humps are addressed and directs
+the reader to Guidelines for the Design and Application of Speed Humps, which is found in the ITE
+literature.
+
+https://www.dot.ny.gov/divisions/engineering/design/dqab/hdm/hdm-repository/chapt_25.pdf
+
+Rumble Strips
+
+Rumble strips are addressed by the NYSDOT, but only their temporary application in work zones, not in
+permanent traffic calming applications.
+
+https://www.dot.ny.gov/divisions/engineering/technical-services/trans-r-and-d-repository/sr140.pdf
+
+ITE
+
+Speed Humps
+
+MUTCD, FHWA and NYSDOT direct readers to ITE in the topic of speed humps, and NYSDOT
+specifically call out Guidelines for the Design and Application of Speed Humps.
+
+http://www.ite.org/traffic/documents/JEA93A11.pdf
+
+http://www.ite.org/traffic/documents/AB07H1101.pdf
+
+        “Chapter 4 Design and Construction Considerations
+
+        Once the decision has been made to employ speed humps in a residential traffic management
+        program, this chapter assists in identifying the essential design and construction considerations.
+        Items discussed are:
+
+               Dimensions and cross sections for the recommended parabolic profile hump (12 ft length,
+                with a center of 3 in. to 4 in.).
+
+               Relationship between hump spacing and impacts on vehicle speeds.
+
+
+                                                                                     LAN Job #4.1091.06
+
+LAN ASSOCIATES                                                                                             8
+
+
+
+               Coordination with traffic control devices, street lighting, drainage, utilities and on-street
+                parking.
+
+               Treatment of humps ends for curbed and non-curbed streets.
+
+               Supporting signs and markings.
+
+               Construction materials and procedures.”
+
+
+
+
+http://www.ite.org/traffic/soartm/Chapter3a.pdf
+
+        “Speed Humps
+
+        In 1997 the Institute of Transportation Engineers (ITE) approved the Guidelines for the Design
+        and Application of Speed Humps, RP-023A, which provided recommended practice based on
+                                                              (4)
+        national and international research and experience ITE reported that speed humps should be
+        installed on roadway facilities classified as local streets by the American Association of State
+        Highway and Transportation Officials (AASHTO). The roadway should not be more than two
+        travel lanes or traveled significantly by long wheel-based vehicles. Additionally, it should have a
+        horizontal curve of 300 feet radius or more and a grade of eight percent or less. The posted or
+        prima facie speed limit should be 30 mph or less; ITE warned that installation.”
+
+Rumble Strips
+
+Rumble strips are covered in ITE literature, both the size descriptions, as well as location and spacing
+suggestions.
+
+http://www.ite.org/traffic/soartm/Chapter3a.pdf
+
+        “Rumble Strips
+
+        Rumble strips, patterned sections of rough pavement, were developed in the 1960’s as a means
+        for alerting drivers to the presence of a dangerous condition or a specific control device. While
+        used primarily on freeways and arterial streets, they may have potential as a speed reduction
+        device in neighborhoods.
+
+        Primary Traffic Effects
+
+        Effects on Traffic Volume: None
+
+
+
+
+                                                                                       LAN Job #4.1091.06
+
+LAN ASSOCIATES                                                                                          9
+
+
+     Effects on Traffic Speed: The studies which have evaluated the effects of rumble strips on speed
+     show their effect to be mainly at the upper end of acceptable speeds in residential areas. A test of
+     3/4” chips in Great Britain showed that 1-foot long strips caused discomfort at about 25 mph. A
+     test of similar material in Contra Costa County reduced speeds 450 feet away from an
+     intersection from 41 to 37 mph. Other tests of 3/4” chips in Minnesota showed speeds 300 feet in
+     advance of intersections to slow from 31 to 28 mph. Clearly, these latter tests show small effects
+     at speeds above those desirable in neighborhoods. It is unclear if these strips would cause
+     sufficient discomfort in neighborhoods to affect speed. A test of 1/2” high strips, 6 inches wide
+     and two feet apart installed in three test locations in Calgary, Alberta showed reductions in
+     average speed of l-4 mph with the resulting speeds being in the 21-28 mph range. Another test in
+     Ottawa, Canada produced a negligible impact on speed. In San Francisco, rumble strips 3/4” to
+     1-1/2” in height reduced speeds from 5 to 15mph with the post-implementation 95th percentile
+     speed ranging from 16 to 30 mph.
+
+     Effect on Traffic Safety: The studies show that the strips have had a noticeable positive effect in
+     reducing accidents when placed in advance of a stop sign. At a T intersection in Contra Costa
+     County, California rumble strips cut the accident rate by 60 percent. Subsequent overlaying of the
+     strips due to repaving brought about a return to the previous pattern, again demonstrating the
+     strips’ effectiveness. Accident experience at nine rural intersections in Illinois decreased by 32-30
+     percent. Again, these are arterial studies; effects in lower speed residential areas have not been
+     determined. No specific instances of bicyclist safety problems resulting from rumble strips have
+     been reported. However, difficulties caused bicyclists by types of raised pavement markers
+     sometimes used in rumble strips are well documented.
+
+     Effect on Traffic Noise: Noise levels have been measured only inside the car in the U.S. studies
+     noted above. The Contra Costa study observed that the 3/4” chippings raised noise levels from
+     92 to 100 db, with closed windows. Other studies have suggested more modest increases in the
+     2-3 db range. In the Calgary and Ottawa experiments, the strips were removed due to complaints
+     of noise. San Francisco limits application of rumble strips to streets of less than 2500 ADT (due to
+     problems with noise on busier streets).”
+
+
+
+
+                                                                                    LAN Job #4.1091.06
+
+LAN ASSOCIATES                                                                                                                         10
+
+
+RECOMMENDATIONS
+
+LAN proposes the installation of both speed humps as well as rumble strips. There are certain areas on
+the site that are either too steep (in excess of 8% grade) or are too sharp of a curve (curve radius less
+than 300’) for the installation of speed humps, as per the above-referenced requirements. These areas
+are depicted on the attached Proposed Plan.
+
+Speed humps are proposed at locations where the above-mentioned restrictions are not present, and
+drainage implications are not negatively affected. These places are in front of the theater/gym building
+“C”, before the curve that is restrictively sharp, and at the crest of the roadway profile, as to not create
+ponding on the high side of the speed hump. Another location is to the west of the athletic field,
+downslope from the catch basins that are located on either side of the roadway, again preventing
+negative changes to the stormwater system.
+
+Rumble strips are proposed at locations that follow the design procedures mentioned in the ITE literature.
+These places are on Heritage Hill Road, east of the stop sign at Link Road. One set of rumble strips
+(0.25” thick, 4” wide, 10’ long, as per Barco’s Parking Lot and Traffic Control Products model # J19-69) is
+proposed 250’ east of the stop sign, consisting of six (6) strips, 3’ on center. Another set of strips,
+following the same design as the former, is proposed 50’ from the last strip in the first set, as suggested in
+the ITE literature.
+
+Appropriate signs, as described by MUTCD are proposed where applicable. “SPEED HUMP” (W17-1) is
+proposed at each speed hump, on both sides of the road. “STOP AHEAD” (W3-1) is proposed 200’ uphill
+from the existing stop sign at Heritage Hill Road and Link Road. Another “STOP AHEAD” sign is
+proposed 125’ east of the stop sign at the entrance to the lower parking lot. “RUMBLE STRIP” (custom) is
+suggested at the east side of the uphill set of rumble strips, but is not required.
+
+Appropriate markings, as described by MUTCD are proposed where applicable. MUTCD provides three
+“options of pavement markings for speed humps without crosswalks” (Figure 3B-29). Option B is depicted
+on the proposed plans, but any of the three may be chosen by the client.
+
+
+KAB:kab/ks/P:\100-LAN LLP\1000-1099\1091\1091.06\Admin\Report\109106TrafficCalmingStudy112112.docx 11/21/2012 2:15 PM
+
+
+
+
+                                                                                                                        LAN Job #4.1091.06
+

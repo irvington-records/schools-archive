@@ -1,0 +1,47 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/goto?open&id=DM7MD85AB481 | DATE: 2025-10-14 | TITLE: Regular Meeting | 13.4 Payment for Extracurricular Clubs
+
+Meeting: Oct 14, 2025 - Regular Meeting
+Date: 2025-10-14
+Category: 13. Personnel Matters
+Subject: 13.4 Payment for Extracurricular Clubs
+Type: Action (Consent)
+
+Name
+	Club
+	Group
+	Step
+	Split
+	Payment
+	School
+
+Taylor Ramos
+	Video Production Club
+	6
+	0
+	50%
+	$880
+	MS
+
+Marina Zanki
+	Video Production Club
+	6
+	0
+	50%
+	$880
+	MS
+
+Anthony Hastings
+	Positive Impact Club
+	8
+	0
+	50%
+	$440
+	HS
+
+Francesca Pulice
+	Positive Impact Club
+	8
+	0
+	50%
+	$440
+	HS

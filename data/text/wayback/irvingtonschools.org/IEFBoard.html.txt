@@ -1,0 +1,9 @@
+SOURCE http://www.irvingtonschools.org:80/IEFBoard.html | DATE 2006-08-31 | TITLE IEF Board
+
+| Robin Abbott | Ronda L. Billig** | Hilary Chenel | Jose Colon | 
+| Hope Davis | Julie Farmer | Allyson Felix | Eileen Fisher** | 
+| Renee Gargano** | Amy Goldman | Wendy Handler | Kelly Imamura | 
+| Jill Jackowitz | Paul Janos | Susan Kasarsky | Rebecca Lazar | 
+| Joseph Macchia | Dr. Kathleen Matusiak* | Anthony Mercando | Parker Reilly | 
+| Alison Romaine | Robert Saar | Roberta Goodman Samberg** | Jon Scott | 
+| Barry Seaman | Janice Silverberg* | Suzanne Stein | Craig Vogel | David Zweibel |

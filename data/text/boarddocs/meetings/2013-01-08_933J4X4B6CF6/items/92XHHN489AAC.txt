@@ -1,0 +1,15 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/goto?open&id=92XHHN489AAC | DATE: 2013-01-08 | TITLE: Regular Meeting - *7:30 p.m. | 9.3 Budget Transfers
+
+Meeting: Jan 08, 2013 - Regular Meeting - *7:30 p.m.
+Date: 2013-01-08
+Category: 9. Business Office Matters
+Subject: 9.3 Budget Transfers
+Type: Action (Consent)
+
+Budget Transfer 12/13-07
+
+	Debit   A2250-470-00-0000 (Spec. Ed.-Tuition-Special Schools)     $45,000
+
+	Credit A2250-400-40-4000 (Spec. Ed. - Homebound)                      $45,000
+
+	This transfer is to cover Special Ed. home instruction by The Learning Shop.

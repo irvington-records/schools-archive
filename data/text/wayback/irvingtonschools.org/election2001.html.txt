@@ -1,0 +1,12 @@
+SOURCE http://www.irvingtonschools.org:80/election2001.html | DATE 2002-04-30 | TITLE Election Results
+
+Election Results May 15, 2001
+The Results of the Irvington School District Election are as follows:
+Budget:
+Yes - 769
+No - 311
+Trustees:
+George Huzinec - 756
+Diane Mundree - 684
+Lester Jacobs - 491
+George Huzinec and Diane Mundree will begin their three year term on July 1, 2001.

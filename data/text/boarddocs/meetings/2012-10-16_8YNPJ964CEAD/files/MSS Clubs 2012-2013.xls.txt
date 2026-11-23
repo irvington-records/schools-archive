@@ -1,0 +1,19 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/pfiles/8YYFYX41762D/$file/MSS%20Clubs%202012-2013.xls | DATE: 2012-10-16 | TITLE: Work Session/Special Meeting - 7:30 pm | 9.5 Payment for Extracurricular Clubs | MSS Clubs 2012-2013.xls
+
+--- sheet Sheet1 ---
+ EXTRACURRICULAR CLUBS 2012-2013				
+MAIN ST. SCHOOL				
+Homework Club 4th Grade (1 day)	Mary Ellen Fortini	III	2.0	1141.0
+Homework Club 4th Grade (2 days\)	Amy Jones	III	3.0	2317.0
+Homework Club Grade 5 (1 day)	Ronni Alpert	III	2.0	1141.0
+Homework Club Grade 5 (1 day)	Alison Meiseles	III	1.0	1124.0
+Homework Club Grade 5 (1 day)	Julie Cangelosi	III	2.0	1141.0
+Mathletes-4	Christine Rosner	VIII	6.0	1073.0
+Mathletes-5	Christine Rosner	VIII	5.0	1073.0
+School Store 4-5	Diane Watkinson	VII	3.0	1431.0
+Stock Market Club	Gwenn Carney	VI	8.0	1942.0
+Television Club	Alison Meiseles	VIII	7.0	1124.0
+			Subtotal	13507.0
+--- sheet Sheet2 ---
+--- sheet Sheet3 ---
+

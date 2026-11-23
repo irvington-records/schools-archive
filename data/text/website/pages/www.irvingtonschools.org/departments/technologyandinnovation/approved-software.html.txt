@@ -1,0 +1,5 @@
+SOURCE https://www.irvingtonschools.org/departments/technologyandinnovation/approved-software | DATE 2026-07-14 | TITLE Approved Software
+
+List of Approved Software
+**Please note: All NYS BOCES are transitioning from DPIT to SDPC software support for Data Privacy Agreements (DPA). During this transition please refer to the approved software inventory listings below:
+Part 1 - SDPC - List of Approved SoftwarePart 2 - DPIT - List of Approved Software

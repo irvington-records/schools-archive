@@ -1,0 +1,14 @@
+SOURCE http://irvingtonschools.org:80/track.html | DATE 2002-12-31 | TITLE Winter Track
+
+Varsity/Junior Varsity Sports
+Coach: Laura Peterson
+Asst Coach: Michael Slavin
+| DATE | OPPONENT | TIME | 
+| Dec. 13 | Kick-off at Rockland CC | 4:30 PM | 
+| Jan. 7 | Freshmen/Sophmores Meet at Rockland CC | 4:30 PM | 
+| Jan. 10 | Rockland Invitational at Rockland CC | 4:30 PM | 
+| Jan. 24 | One Event Meet at Rockland CC | 4:30 PM | 
+| Feb. 1 | League Meet at Rockland CC | 2:00 PM | 
+| Feb. 9 | Westchester County Meet at West Point | 4:00 PM | 
+| Feb. 22 | Sectionals at West Point | 12:00 PM | 
+| Mar. 2 | State Qualifiers at West Point | TBA |

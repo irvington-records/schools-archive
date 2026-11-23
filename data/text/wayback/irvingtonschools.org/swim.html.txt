@@ -1,0 +1,14 @@
+SOURCE http://www.irvingtonschools.org:80/swim.html | DATE 2002-12-30 | TITLE Girls Swimming
+
+Varsity/Junior Varsity Sports Fall 2002
+Coach: Jennifer Mc Ardle
+| DATE | OPPONENT | TIME | 
+| Sept. 23 | at Edgemont | 4:30 PM | 
+| Sept. 25 | at Edgemont | 4:30 PM | 
+| Sept. 30 | at Edgemont | 4:30 PM | 
+| Oct. 2 | at Brewster | 4:30 PM | 
+| Oct. 7 | at Edgemont | 4:30 PM | 
+| Oct. 9 | at Edgemont | 4:30 PM | 
+| Oct. 15 | at Bronxville | 5:00 PM | 
+| Oct. 17 | at Horace Greely | 5:00 PM | 
+| Oct. 21 | at Suffern | 4:30 PM |

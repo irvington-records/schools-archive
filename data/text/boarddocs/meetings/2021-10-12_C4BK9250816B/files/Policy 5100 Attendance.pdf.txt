@@ -1,0 +1,374 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/pfiles/C7JJXW4C74D4/$file/Policy%205100%20Attendance.pdf | DATE: 2021-10-12 | TITLE: Regular Meeting | 8.3 2nd Read Policy-5100 Attendance | Policy 5100 Attendance.pdf
+
+5100 ATTENDANCE                                                                                         Commented [2]: ended on 1/13. In February continue
+                                                                                                        discussion regarding paragraph 2
+In accordance with state law and regulations, it is the policy of the Irvington Union Free School
+District to ensure the maintenance of adequate attendance records verifying the attendance of all
+children at instruction. In addition, it is the policy of the District to create the means to examine
+attendance patterns so as to develop effective intervention strategies to improve student
+attendance.
+
+It is the objective of this policy to encourage that each student attend school for the maximum         Deleted: on time,
+number of days and instructional periods possible and arrive punctually for each. In furtherance
+of this objective, the District shall utilize strategies such as: collecting feedback from students
+and families,; identifying and addressing systemic barriers to improving attendance; the                Deleted: ,
+integration of attendance standards for the purposes of conferral of course credit. and other           Deleted: positive attendance incentives
+interventions, including developmentally-appropriate disciplinary consequences as necessary.            Formatted: Font color: Auto
+                                                                                                        Deleted: including
+State Mandated Record Keeping
+                                                                                                        Deleted: appropriate disciplinary and other consequences
+a) Attendance record keeping shall conform to the following:                                            Deleted: as appropriate
+                                                                                                        Deleted: ;
+1.     Elementary schools shall ensure that attendance is taken once each day.                          Deleted: , as well as
+2.     In departmentalized grades including grades 6-12, attendance shall be taken in                   Deleted: the integration of attendance standards for the
+each period of scheduled instruction, with an exception for consecutive periods where                   purposes of conferral of course credit.
+classes are in the same room.                                                                           Deleted:
+3.     In Grades K-12, any absence for a school day or part of a school day shall be                    Deleted: Effective no later than July 1, 2003
+recorded as excused or unexcused as provided for in this policy.                                        Deleted: A
+4.     In Grades K-12, events of late arrival or early departure shall be recorded as                   Deleted: a
+excused or unexcused as provided for in this policy.
+5.     A record shall be maintained of each scheduled day of instruction during which
+school is closed for all or part of the day because of extraordinary circumstances
+including adverse weather, failure of the heating system or water supply, fuel supply
+shortage or structural damage to the building, etc.
+6.     A record shall be made of the date when a student withdraws from enrollment or
+is dropped from enrollment in accordance with §3202(3-a) of the Education Law.
+
+b) The Board of Education shall designate an attendance officer annually, who shall
+designate the appropriate staff members to record student attendance.                                   Deleted: All entries in the register of attendance shall
+                                                                                                        be made by a teacher or another employee designated
+                                                                                                        by the Board of Education. Any individual authorized to
+c) Student attendance records shall be reviewed by the Principal of each school building                make entries in the register of attendance shall, by oath
+in the District for the purpose of initiating appropriate actions to address unexcused                  or affirmation, verify the contents of the entries.
+student absences, tardiness and early departures.                                                       Deleted: Effective the 2003-2004 school year, s
+
+d) The register of attendance shall consist of any written or electronic record to record
+attendance, absence, tardiness, or early departure (ATED) of a student. The register
+shall be maintained for every period that a student is scheduled to attend actual
+instruction or supervised study during the course of the school day during the school
+
+year, from July 1 through June 30. The register at every school building shall include   Deleted: I
+separate notations regarding student presence, absence, tardiness, and early
+departure. The contents of the register for each student shall contain the information
+prescribed in regulations of the Commissioner of Education (Part 104).
+
+e) The attendance coding to be used is as follows and will modified based on New York
+State requirements such as those additional attendance codes and requirements that
+have been established during the COVID-19 pandemic*:
+
+                                                                                         Deleted: Unverified
+ Court Date                    CRT                            Excused                    Deleted: UNV
+                                                                                         Deleted: Unverified
+ Late to Class                 L                              Unexcused
+                                                                                         Deleted: Tardy/Excused
+ Excused Late                  EL                             Excused
+                                                                                         Deleted: TDX
+ Field Trip                    FLD                            School Activity
+                                                                                         Deleted: Excused Tardy
+ In-school Suspension          ISS                            Excused
+ Illness                       ILL                            Excused                    Deleted: house
+ Religious                     REL                            Excused                    Deleted: H
+ Out of School Suspension      OSS                            Excused                    Deleted: Suspended
+                                                                                         Deleted: SUS
+ Unexcused                     U                              Unexcused                  Deleted: Tardy
+ Activity                      ACT                            School Activity
+                                                                                         Deleted: TDU
+                                                                                         Deleted: Unexcused Tardy
+ Excused                       A                              Excused
+                                                                                         Deleted: AUX
+ Doctor                        DOC                            Excused
+ Early Dismissal               ED                             Excused                    Deleted: Child/Work
+ Family Illness                FI                             Excused                    Deleted: CHW
+ Guidance                      GUI                            Excused                    Deleted: Excused
+ Main Office                   MAOF                           Excused                    Deleted: EX
+ Homebound                     HBD                            Excused
+ Homebound Hospital            HHI                            Excused
+ Instruction
+ Internship                    INTR                           Excused
+ Music                         MUS                            Excused
+ Nurse                         NUR                            Excused
+ Off-site Instruction          OSI                            Excused
+ Other                         OTH                            Unexcused
+ Psychologist                  PSI                            Excused
+ Road test                     RDT                            Excused
+ School Visit                  SV                             Excused
+ Sport                         SPT                            Excused
+ Testing                       TEST                           Excused
+ Vacation                      VAC                            Unexcused
+ Military Obligations          MIL                            Excused
+ Bereavement                   DTH                            Excused
+
+ *Absent Attending Remotely     AR                              Unexcused
+ – Student assigned to be in-
+ person but chose to attend
+ remotely (internal code)
+ *Present but quarantining      PQUR                            Present
+ *Quarantining and absent       QUR                             Excused
+
+
+
+
+Excused and Unexcused Absences
+
+In accordance with New York State law, The Board recognizes the following as legal
+excuses for student absence, each of which must be verified by the student's
+parent/guardian or school personnel, where applicable:
+
+a) Personal illness
+
+b) Death in the immediate family
+
+c) Religious observance
+
+d) Required attendance in court
+
+e) Approved school-sponsored activities, including field trips, interscholastic athletics,
+musical and other competitions
+
+f) Directed or authorized presence at the Administrative Offices or Nurse's Office.
+
+g) Quarantine
+
+h) Emergency dental and medical appointments
+
+i) Military obligations
+
+j) Approved cooperative work study program
+
+k) College visitations [only for juniors and seniors], with the prior knowledge and
+approval of parents and counselors, so long as it does not exceed 4 days in a school
+year.
+
+
+
+The written excuse must be presented by the student on the day when returning to
+school following such absence.
+
+Any absence not provided for on the excused list shall be deemed an unexcused
+absence.
+
+Excused and Unexcused Absences
+
+
+OLD NOTE: The Commissioner’s regulations require that the school board determine which
+absences, tardiness and early dismissals will be excused and which will not be excused. The
+listing below may be modified to reflect your district’s practices.
+One way districts can improve retention of homeless students due to absences is to permit
+absence due to homelessness. In this way, any penalties that would accrue for unexcused
+absences would not be imposed for absences due to homelessness. It would be up to school
+administrators to determine the validity of this excuse, as they must do for any other type of
+excuse.
+However, rather than including homelessness as a blanket excusal, we suggest explicitly
+including circumstances related to homelessness that could be approved by the building
+administrator.
+If the district does not include absences due to homelessness in its list of excused absences, then
+care must be taken throughout the rest of the policy to exempt homeless students from negative
+consequences of unexcused absences.
+
+
+Excused ATEDs are defined as absences, tardiness, and early departures from class or school
+due to:
+●       personal illness,
+●       illness or death in the family,
+●       impassable roads or weather,
+●       religious observance,
+●       quarantine,
+●       required court appearances,
+●       attendance at health clinics,
+●       approved college visits,
+●       approved cooperative work programs,
+●       military obligations, or
+●       such other reasons as may be approved by the appropriate building administrator
+(including, but not limited to, absences due to circumstances related to homelessness).
+
+
+OLD NOTE: If your district has a strong military presence among students and their families, the
+Board may wish to consider adding the following language to the paragraph above. The items in
+bold, including the number of days permitted, can be determined by the Board.
+“Students whose parent or legal guardian has been called for military deployment, is on leave
+from, or is returning from a combat zone or combat support may be excused an additional five
+[5] days, but work must be made up according to the rules applicable to other excused absences.
+
+Parents must notify the [Building Principal] no less than three [3] days before the intended
+absences and each case will be approved on a case by case basis by the [Building Principal].”
+
+All other ATEDs are considered unexcused absences.
+
+OLD NOTE: Although not specifically required by federal law, homeless liaisons must ensure
+that homeless unaccompanied youth (i.e., a homeless child not in the physical custody of a parent
+or guardian) have opportunities to meet the state’s academic standards, and that all homeless
+children have a full and equal opportunity to succeed in school. Therefore, we suggest that the
+homeless liaison assist with providing or obtaining absence documentation.
+
+All ATEDs must be accounted for. It is the parent’s responsibility to notify the school office
+within 24 hours of the ATED and to provide a written excuse upon the student’s return to school.
+For homeless students, the homeless liaison will assist the student in providing or obtaining
+documentation if needed.
+
+
+
+
+Credit, Make-up Work
+
+High School Course Credit
+
+Any high school student who has been determined to exceed 10 unexcused absences
+in a semester course, or to exceed 20 unexcused absences in a full year course
+maybe ineligible for course credit. (Please refer to the New York State list of reasons for         Deleted: shall
+excused absences on page 2. Any reason not on this list is an unexcused absence.)
+
+Any high school student who has been determined to exceed 10 excused absences in
+a semester course, or to exceed 20 excused absences in a full year course may be
+ineligible for course credit if required make-up assignments are not submitted in a timely
+manner (as noted in Section B below). In departmentalized classes, the course credit
+standard may be applied separately for each course of instruction.                                  Deleted: shall
+
+The parent/guardian of a student shall be notified by telephone and/or in writing,
+whenever a student has unexcused absences in excess of six per semester, regardless
+of whether the course is a semester or full year course.
+
+Make-up Assignments, Excused Absences
+
+Make-up assignments will generally be required for all excused absences in a timely                 Deleted: shall
+fashion following the student's return to class. The timeline for submission of makeup              Deleted: within one week of
+work will be established by the classroom teacher in consultation with the student’s
+counselor, case manager and/or building principal, as necessary.
+
+The Classroom Teacher, School Counseling Department Department or Principal's
+Office shall be responsible for making a personal contact with the high school student
+when absences are in excess of 6 per semester for the purpose of determining what
+reason or reasons are contributing to the student's poor attendance. Parental contact
+will also be made for students in such situations at the elementary, middle level and
+high school levels. Reasonable efforts shall be made to assist the student in
+addressing the causes of the attendance challenge. Such efforts may include:                      Deleted: problem
+
+a) Discussions with the student's teacher(s)
+
+b) Discussions and/or meetings with the student and his/her parent/guardian
+
+c) Discussions with the student's guidance counselor
+
+d) Consideration of the suspension of extra and/or co-curricular activity privileges              Deleted: Consideration of Recommendation to the
+                                                                                                  appropriate authorities for
+e) Referral to outside interventions                                                              Formatted: Font color: Auto
+
+Makeup Assignments, Unexcused Absences
+
+When there is a planned unexcused absence (e.g., a family trip) teachers are not
+required to provide schoolwork in advance of the unexcused absence. Make-up                       Deleted: no
+assignments will generally be required for such absences in a timely fashion following            Deleted: will be given
+the student's return to class. The timeline for submission of makeup work will be                 Deleted: shall
+established by the classroom teacher in consultation with the student’s counselor and/or
+building principal, as necessary.
+
+
+
+                                                                                                  Deleted: Students will be given a period of time to
+                                                                                                  make up the missed work upon their return, but the
+                                                                                                  absence will still be counted as unexcused for
+Encouraging Student Attendance                                                                    attendance purposes. With the approval of the Building
+                                                                                                  Principal, make-up assignments may be waived in
+                                                                                                  exceptional circumstances or where a Section 504
+a)                                                                                                accommodation is warranted.
+                                                                                                  Commented [3]: Can we move this to below the
+b) At the secondary level, eligibility for extra- and co-curricular activities, interscholastic   section - excused and unexcused absences ? It may
+sports and attendance at school sponsored activities shall be restricted to those                 flow more natuarlly
+students whose attendance supports course credit in each of their academic subjects.              Deleted: With the approval of the Building
+                                                                                                  Administration, in consultation with
+c) At the secondary level, class cutting shall be deemed an infraction of the Code of             Deleted: counseling
+Conduct in the nature of insubordination to the teacher and school administration. The            Deleted: guidance services, teachers at the elementary
+Code shall prescribe a range of disciplinary interventions to address class cutting.              level shall utilize attendance incentives (addressing not
+                                                                                                  only attendance but also tardiness and early departure
+                                                                                                  as well), including recognition of students with good
+d) Whenever a student exhibits a pattern of unexcused absence, tardiness or early                 attendance, consideration of such students for special
+departure, notice will be given to the parent/guardian, in writing and/or by telephone            privileges and activities that are unavailable to all
+communication, and the student shall be conferred with by the classroom teacher                   students, and commendation certificates that shall be
+                                                                                                  issued to the student's parent/guardian.
+
+and/or a guidance counselor regarding the pattern in an effort to remediate the
+underlying problem. Notice shall also be given to the Building Principal who may
+address the matter with the student and/or his/her parent/guardian.
+
+e) In the event that the school level interventions have not improved the student's
+attendance, the Principal may recommend interventions such as a Person In Need of
+Supervision (PINS) petition to the Family Court and/or contact with the appropriate
+social services agency to initiate a neglect petition.
+
+f)                                                                                                    Deleted: At all grade levels, improving the school climate
+Consequences of Excessive ATEDs                                                                       through student surveys in order to provide a safe, supportive
+                                                                                                      school environment and engage students in school.
+                                                                                                      Formatted: Justified, Space Before: 0 pt, After: 0 pt,
+A designated staff member(s) will contact the student’s parents and the student’s guidance            Line spacing: At least 0.05 pt, Border: Top: (No border),
+counselor in the event that a student’s record reveals excessive ATED’s, excused and/or               Bottom: (No border), Left: (No border), Right: (No
+unexcused. Excessive ATED’s is defined as: three consecutive absences, and/or total absences,         border), Between : (No border), Pattern: Clear
+or tardies. Such staff member(s) will remind parents of the attendance policy, explain the            Deleted: ¶
+ramifications of excessive ATEDs, stress the importance of class attendance and discuss               Deleted: ¶
+appropriate intervention strategies to correct the situation. Students identified as chronically
+                                                                                                      Deleted: g) Engaging students and families, determine
+absent will be considered for a mentor program.                                                       whether systemic barriers to attendance exist for students,
+                                                                                                      and develop solutions to remove those barriers.
+
+OLD NOTE: Under ESSA, the State must develop a plan to ensure that homeless students do               Deleted: ¶
+not face barriers to accessing extracurricular activities. While we do not yet know what New
+York State’s plan will be, we have suggested text below as measures the district can take to
+retain homeless students in school. Even where a homeless student’s absence is not directly due
+to homelessness, it may be good practice to keep homeless students engaged in school, and not
+deny privileges.
+
+
+Unexcused ATEDs may result in disciplinary action consistent with the district’s code of
+conduct. Those penalties may include, for example, detention or denial of the privilege of
+participating in or attending extracurricular events. However, absences related to homelessness
+will not result in negative consequences where the district determines that it would be in the best
+interests of the student in retaining the student in school.
+
+
+OLD NOTE: The following paragraph is intended to put a mechanism in place for identifying
+educational neglect. If there is a particular staff member designated in the district for this
+purpose, or a particular process, please modify the paragraph accordingly.
+
+
+In addition, the designated staff member will contact local Child Protective Services (CPS) if
+they suspect that the child is being educationally neglected. The designated staff member will
+provide CPS with the information necessary to initiate a report. If other staff members suspect
+education neglect, they must follow the procedures outlined in Board policy and regulation
+5460, Child Abuse in a Domestic Setting, and advise the School Principal.
+
+District-Approved Online/Distance/Remote Learning
+
+Students learning remotely must demonstrate daily school participation, which is to be      Deleted: will need to show
+recorded by teachers and reported under the provisions of this policy. Such
+participation will vary depending on the type of remote learning taking place and shall
+be authorized by the Superintendent of Schools/designee. This can include
+documented participation in online or virtual classes, completion of assignments,
+documentation of daily school activities and learning, or correspondence via online
+platform, email, and telephone. Teachers are also expected to pay adequate attention        Deleted: particular
+to the educational progress of students learning remotely, and initiate appropriate
+interventions with the student and their family if a student does not show adequate
+engagement or growth.
+
+Oversight Responsibilities
+
+a) The Building Principal and/or his/her administrative designee shall be responsible for
+reviewing student attendance records and initiating appropriate action consistent with
+this policy.
+
+b) The Attendance Officer shall review building level student attendance records to         Commented [4]: See if there is a legal requirement for
+determine if the comprehensive student attendance policy is effective. If a decline in      the BOE to review such report
+attendance is evident, the District may recommend that the Board will revise the policy     Deleted: Board of Education
+as deemed necessary to improve student attendance.                                          Deleted: annually
+                                                                                            Deleted: Board
+Distribution of Policy
+                                                                                            Deleted: shall
+
+The Superintendent of Schools, at the direction of the Board of Education, shall publish
+to the community information about the District's Comprehensive Student Attendance
+Policy. The policy shall be available and explained at student assemblies, at assemblies
+on open school nights (if any), and a plain language summary of the policy shall be
+prepared for distribution to parents/guardians. Each teacher and new teacher(s),
+promptly upon hire, shall be provided with a copy of the policy and any amendments
+thereto. Copies of the policy shall also be maintained by the District's Records Access
+Officer for issuance upon request by any interested party.
+
+Adopted:                                                                                    Deleted: August 25, 2020
+

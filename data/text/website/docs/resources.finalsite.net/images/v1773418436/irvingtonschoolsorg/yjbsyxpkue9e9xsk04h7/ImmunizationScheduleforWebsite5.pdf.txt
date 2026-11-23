@@ -1,0 +1,189 @@
+SOURCE https://dl.irvingtonschools.org/fs/resource-manager/view/592b00e5-2862-47c1-9031-df6cf1f86622 | DATE 2026-03-13 | TITLE ImmunizationScheduleforWebsite5.pdf
+
+New York State Immunization Requirements
+                        for School Entrance/Attendance
+Children in New York State must be properly immunized to attend school. An official immunization record, signed or stamped by a
+healthcare provider, must be submitted to the school district within 14 days of the first school day. Acceptable records include
+those from a pediatrician, the New York State Immunization Information System (NYSIIS), or the New York City Department of
+Health Citywide Immunization Registry (CIR).
+
+The New York State Department of Health and the NYC Health Department endorse the AAP immunization schedule. Doses
+given before the recommended ages or intervals are invalid and do not count toward the number of doses listed below. Children
+in gradeless classes must meet the immunization requirements of their age-equivalent grade. Check footnotes for
+vaccine-specific details.
+
+
+             Dose requirements MUST be read with the footnotes of this schedule
+
+
+   Vaccines                                  Kindergarten and                      Grades 6, 7,                 Grade
+                                          Grades 1, 2, 3, 4 and 5                    8, 9, 10                     12
+                                                                                     and 11
+
+
+
+
+   Diphtheria and Tetanus                             5 doses
+   toxoid-containing                                 or 4 doses
+   vaccine and Pertussis                   if the 4th dose was received
+   vaccine                           at 4 years or older and the series was                        3 doses
+   (DTaP/DTP/Tdap/Td)2                started at less than 1 year of age or
+                                                      3 doses
+                                        if 7 years or older and the series
+                                           was started at 1 year or older
+
+   Tetanus and Diphtheria
+   toxoid-containing                                                                               1 dose
+   vaccine and Pertussis                       Not applicable                             given after age 10 years
+   vaccine
+   adolescent booster (Tdap)3
+
+   Polio vaccine (IPV/OPV)4                                                 4 doses
+                                                                           or 3 doses
+                                                          if the 3rd dose was received at 4 years or older
+
+   Measles, Mumps and
+   Rubella vaccine (MMR)5                                                     2 doses
+
+   Hepatitis B vaccine6                                                   3 doses
+                                      or 2 doses of adult hepatitis B vaccine (Recombivax) for children who received the
+                                          doses at least 4 months apart between the ages of 11 years through 15 years
+
+   Varicella (Chickenpox)
+   vaccine7                                                                   2 doses
+
+   Meningococcal                                                                                                 Grade 12:
+   conjugate vaccine                                                                                              2 doses
+   (MenACWY)8                                                                     Grades 7, 8,                   or 1 dose
+                                               Not applicable                      9, 10 and 11:             if the dose was
+                                                                                      1 dose                  received at 16
+                                                                                                              years or older
+
+
+
+   Haemophilus
+   influenzae type b
+   conjugate                                                             Not applicable
+   vaccine (Hib)9
+
+   Pneumococcal
+   Conjugate vaccine                                                     Not applicable
+   (PCV)10
+
+
+
+
+                                                                                                                                   1
+                                                    NYS Department of Health
+
+1. Demonstrated serologic evidence of measles, mumps or rubella antibodies               5. Measles, mumps, and rubella (MMR) vaccine. (Minimum age: 12 months)
+    or laboratory confirmation of these diseases is acceptable proof of immunity
+                                                                                             a. The first dose of MMR vaccine must have been received on or after
+    to these diseases. Serologic tests for polio are acceptable proof of
+                                                                                                 the first birthday. The second dose must have been received at least
+    immunity only if the test was performed before September 1, 2019, and all
+                                                                                                 28 days (4 weeks) after the first dose to be considered valid.
+    three serotypes were positive. A positive blood test for hepatitis B surface
+    antibody is acceptable proof of immunity to hepatitis B. Demonstrated                    b. Measles: One dose is required for pre-kindergarten. Two doses are
+    serologic evidence of varicella antibodies, laboratory confirmation of                      required for grades kindergarten through 12.
+    varicella disease or diagnosis by a physician, physician assistant or nurse
+                                                                                             c. Mumps: One dose is required for pre-kindergarten. Two doses are
+    practitioner that a child has had varicella disease is acceptable proof of
+                                                                                                 required for grades kindergarten through 12.
+    immunity to varicella.
+                                                                                             d. Rubella: At least one dose is required for all grades (pre-kindergarten
+   *Serological titers are never accepted for tetanus, diphtheria, pertussis,
+                                                                                                through 12).
+   meningococcal, haemophilus influenzae type b, and pneumococcal
+   diseases.                                                                             6. Hepatitis B vaccine
+2. Diphtheria and tetanus toxoids and acellular pertussis (DTaP) vaccine.                    a. Dose 1 may be given at birth or anytime thereafter. Dose 2 must be
+   (Minimum age: 6 weeks)                                                                       given at least 4 weeks (28 days) after dose 1. Dose 3 must be at least 8
+                                                                                                weeks after dose 2 AND at least 16 weeks after dose 1 AND no earlier
+   a. Children starting the series on time should receive a 5-dose series of
+                                                                                                than age 24 weeks (when 4 doses are given, substitute “dose 4” for
+      DTaP vaccine at 2 months, 4 months, 6 months and at 15 through 18
+                                                                                                “dose 3” in these calculations).
+      months and at 4 years or older. The fourth dose may be received as
+      early as age 12 months, provided at least 6 months have elapsed                        b. Two doses of adult hepatitis B vaccine (Recombivax) received at least
+      since the third dose. However, the fourth dose of DTaP need not be                       4 months apart at age 11 through 15 years will meet the requirement.
+      repeated if it was administered at least 4 months after the third dose
+      of DTaP. The final dose in the series must be received on or after the             7. Varicella (chickenpox) vaccine. (Minimum age: 12 months)
+      fourth birthday and at least 6 months after the previous dose.                         a. The first dose of varicella vaccine must have been received on or after
+   b. If the fourth dose of DTaP was administered at 4 years or older, and at                    the first birthday. The second dose must have been received at least
+       least 6 months after dose 3, the fifth (booster) dose of DTaP vaccine is                  28 days (4 weeks) after the first dose to be considered valid.
+       not required.                                                                         b. For children younger than 13 years, the recommended minimum interval
+       c. Children 7 years and older who are not fully immunized with the                    between doses is 3 months (if the second dose was administered at least
+     childhood DTaP vaccine series should receive Tdap vaccine as the first                   4 weeks after the first dose, it can be accepted as valid); for persons 13
+     dose in the catch-up series; if additional doses are needed, use Td or                       years and older, the minimum interval between doses is 4 weeks.
+   Tdap vaccine. If the first dose was received before their first birthday, then
+                                                                                         8. Meningococcal conjugate ACWY vaccine (MenACWY). (Minimum age
+   4 doses are required, as long as the final dose was received at 4 years or
+                                                                                            for grades 7 through 12: 10 years).
+     older. If the first dose was received on or after the first birthday, then 3
+    doses are required, as long as the final dose was received at 4 years or                 a. One dose of meningococcal conjugate vaccine is required for students
+                                        older.                                                  entering grades 7, 8, 9, 10 and 11.
+
+   d. For further information, refer to the AAP Recommended Child and                        b. For students in grade 12, if the first dose of meningococcal conjugate
+       Adolescent Immunization Schedule for Ages 18 or Younger                                   vaccine was received at 16 years or older, the second (booster) dose is
+                                                                                                 not required.
+   e. For further information, refer to the AAP Recommended Catch-Up
+                                                                                             c. The second dose must have been received at 16 years or older.
+       Immunization Guidance Table 2 (page 3).
+                                                                                                 The minimum interval between doses is 8 weeks.
+3. Tetanus and diphtheria toxoids and acellular pertussis (Tdap) adolescent
+                                                                                         9. Haemophilus influenzae type b (Hib) conjugate vaccine. (Minimum age:
+   booster vaccine. (Minimum age for grades 6 through 11: 10 years; minimum
+                                                                                            6 weeks)
+   age for grade 12: 7 years).
+                                                                                             a. Children starting the series on time should receive Hib vaccine at 2
+   a. Students 11 years or older entering grades 6 through 12 are required
+                                                                                                months, 4 months, 6 months and at 12 through 15 months. Children
+       to have one dose of Tdap.
+                                                                                                older than 15 months must get caught up according to the ACIP
+   b. In addition to the grade 6 through 12 requirement, Tdap may also be                       catch-up schedule. The final dose must be received on or after 12
+       given as part of the catch-up series for students 7 years of age and                     months.
+       older who are not fully immunized with the childhood DTaP series, as
+                                                                                             b. If 2 doses of vaccine were received before age 12 months, only 3 doses
+       described above. In school year 2025-26, only doses of Tdap given at
+                                                                                                 are required with dose 3 at 12 through 15 months and at least 8 weeks
+       age 10 years or older will satisfy the Tdap requirement for students in
+                                                                                                 after dose 2.
+       grades 6 through 11; however, doses of Tdap given at age 7 years or
+       older will satisfy the requirement for students in grade 12.                          c. If dose 1 was received at age 12 through 14 months, only 2 doses are
+                                                                                                  required with dose 2 at least 8 weeks after dose 1.
+   c. Students who are 10 years old in grade 6 and who have not yet
+       received a Tdap vaccine are in compliance until they turn 11 years                    d. If dose 1 was received at 15 months or older, only 1 dose is required.
+       old.
+                                                                                             e. Hib vaccine is not required for children 5 years or older.
+   d. For further information, refer to the AAP Recommended                                  f. For further information, refer to the AAP Recommended Catch-Up
+       Catch-Up Immunization Guidance Table 2 (page 3).                                          Immunization Guidance Table 2 (page 3).
+4. Inactivated polio vaccine (IPV) or oral polio vaccine (OPV). (Minimum age:            10. Pneumococcal conjugate vaccine (PCV). (Minimum age: 6 weeks)
+    6 weeks)
+                                                                                             a. Children starting the series on time should receive PCV vaccine at 2
+   a. Children starting the series on time should receive a series of IPV at 2                  months, 4 months, 6 months and at 12 through 15 months. Children
+      months, 4 months and at 6 through 18 months, and at 4 years or older.                     older than 15 months must get caught up according to the ACIP
+      The final dose in the series must be received on or after the fourth                      catch‑up schedule. The final dose must be received on or after 12
+      birthday and at least 6 months after the previous dose.                                   months.
+   b. For students who received their fourth dose before age 4 and prior to                  b. Unvaccinated children ages 7 through 11 months are required to receive
+      August 7, 2010, 4 doses separated by at least 4 weeks is sufficient.                      2 doses, at least 4 weeks apart, followed by a third dose at 12 through
+   c. If the third dose of polio vaccine was received at 4 years or older and                   15 months.
+       at least 6 months after the previous dose, the fourth dose of polio                   c. Unvaccinated children ages 12 through 23 months are required to
+       vaccine is not required.                                                                  receive 2 doses of vaccine at least 8 weeks apart.
+   d. For children with a record of OPV, only trivalent OPV (tOPV) counts                    d. If one dose of vaccine was received at 24 months or older, no further
+       toward New York State school polio vaccine requirements. Doses of                         doses are required.
+       OPV given before April 1, 2016, should be counted unless specifically
+       noted as monovalent, bivalent or as given during a poliovirus                         e. PCV is not required for children 5 years or older.
+       immunization campaign. Doses of OPV given on or after April 1, 2016,                  f. For further information, refer to the. AAP Recommended Catch-Up
+       must not be counted.                                                                      Immunization Guidance Table 2 (page 3) *Depending on the vaccine
+   e. For further information, refer to the AAP Recommended                                      brand, the schedule may change.
+       Catch-Up Immunization Guidance Table 2 (page 3).
+
+
+                                                                     For further information, contact:
+                                                                 New York State Department of Health
+                                                                    Division of Vaccine Excellence
+                                                                   Room 649, Corning Tower ESP
+                                                                           Albany, NY 12237
+                                                                            (518) 473-4437
+
+                                                                                                                                                                 2

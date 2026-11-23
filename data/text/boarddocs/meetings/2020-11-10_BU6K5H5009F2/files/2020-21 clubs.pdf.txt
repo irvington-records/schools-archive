@@ -1,0 +1,163 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/pfiles/BV7S936FD846/$file/2020-21%20clubs.pdf | DATE: 2020-11-10 | TITLE: Regular Meeting | 12.5 Payment for Extracurricular Clubs | 2020-21 clubs.pdf
+
+First Name Last Name     Club                                  School        Split? Group Step Stipend
+
+Marisa      Micolucci    Art Club                              Dows                  8     1     $876.00
+
+Christopher Cullen       Recycling Rangers                     Dows                  6     6    $1,971.00
+
+Ann         Yee          Academic Challenge                    High School   split   5     3    $1,450.50
+
+Devon       Steuer       Academic Challenge                    High School   split   5     0    $1,368.50
+
+Kathleen    Tetro        Art Club                              High School           8     5   $1,095.00
+
+Holly       Koester      Community Service Coordinator         High School   split   8     8     $629.50
+
+Trish       Lyons        Community Service Coordinator         High School   split   8     6     $575.00
+
+Jennifer    Lentini      Debate Club                           High School           5     2   $2,847.00
+
+Rebecca     Nani         DECA (Business Club)                  High School           5     1   $2,792.00
+
+Stephen     DiGiovanni   *Drama Production/Director (Spring)   High School           1     4   $4,872.00
+
+Debra       McCumber     Flag Team                             High School           8     4   $1,040.00
+
+Stephanie   Schilling    Freshman/Sophomore Class Advisor      High School           7     2   $1,478.00
+
+Debra       McCumber     High School Band                      High School           6     8   $2,080.00
+
+Jonathan    Silverman    Latin Club                            High School   split   8     8     $629.50
+
+Lilah       Katz         Latin Club                            High School   split   8     0     $410.50
+
+Emily       Colman       LGBTQIA                               High School   split   8     5     $547.50
+
+Julie       Ippolito     LGBTQIA                               High School   split   8     5     $547.50
+
+Jennifer    Lentini      Literary Magazine                     High School           7     6    $1,697.00
+
+Lauren      Paverman     Midnight Run                          High School           7     0    $1,369.00
+
+Erik        Weiselberg   Mock Trial                            High School           6     8   $2,080.00
+
+Rey       Serrano      Model UN                  High School           5   3   $2,901.00
+
+Trish     Lyons        National Honor Society    High School           4   0   $3,285.00
+
+                       Recycling Club            High School
+
+Kristen   Clancy       Robotics Club             High School           4   0   $3,285.00
+
+Amy       Ma           Science Olympiad          High School   split   5   2   $1,423.50
+
+Jessica   Forman       Science Olympiad          High School   split   5   2   $1,423.50
+
+Julie     Ippolit      Senior Class Advisor      High School           4   2   $3,394.00
+
+Lauren    Cutignola    Student Council           High School   split   1   2   $2,381.50
+
+Michael   Berkowitz    Student Council           High School   split   1   2   $2,381.50
+
+Martin    Resendiz     Yearbook Assistant        High School           4   4   $3,504.00
+
+Patrick   DiBenedetto Yearbook                   High School           1   8   $5,091.00
+
+Nancy     Woeckener    Board Games (4)           Main Street           8   0     $821.00
+
+Loren     Holand       Board Games (5)           Main Street           8   0     $821.00
+
+Amy       Jones        Homework Club 4th Grade   Main Street   50%     3   8    $1,998.00
+
+Diane     Watkinson    Homework Club 4th Grade   Main Street   25%     3   5     $958.00
+
+Nancy     Woeckener    Homework Club 4th Grade   Main Street   25%     3   8     $999.00
+
+Julie     Rostkowski   Homework Club 5th Grade   Main Street   25%     3   4     $944.25
+
+Barbara   Schoeller    Homework Club 5th Grade   Main Street   25%     3   1     $903.25
+
+Stacey    Cole         Homework Club 5th Grade   Main Street   25%     3   1     $903.25
+
+Loren     Holand       Homework Club 5th Grade   Main Street   25%     3   2     $917.00
+
+Nancy     Woeckener    Mathletes (4)             Main Street           8   8    $1,259.00
+
+Christine   Rosner         Mathletes (5)             Main Street     8   8    $1,259.00
+
+Diane       Watkinson      Newspaper (4)             Main Street     6   0    $1,642.00
+
+Michelle    Sensi          Newspaper (5)             Main Street     6   0    $1,642.00
+
+Michelle    Sensi          Readers Theater (4)       Main Street     8   1     $876.00
+
+Barbara     Schoeller      Readers Theater (5)       Main Street     8   1     $876.00
+
+Sarah       Katz           Running Club (4)          Main Street     8   0     $821.00
+
+Danielle    Lee            Running Club (4)          Main Street     8   0     $821.00
+
+Stacey      Cole           Running Club (5)          Main Street     8   2     $931.00
+
+Debby       Martins        Set Design                Main Street     7   2    $1,478.00
+
+Lea         PantelopoulosStage Manager               Main Street     7   1    $1,423.00
+
+Nicole      Allison        Theater Club 4-5          Main Street     3   0    $3,558.00
+
+
+Teresa      Hunt           Baking Club               Middle School   8   8    $1,259.00
+
+Alsion      Meiseles       Book Club                 Middle School   8   3    $985.00
+
+Eli         Byers          Chess Club                Middle School   8   5   $1,095.00
+
+Eve         Zeese          Debate Club               Middle School   6   5    $1,916.00
+
+Luann       Ricciardi      Drama Club                Middle School   2   6   $4,434.00
+
+Luann       Ricciardi      Environmental Club        Middle School   7   8   $1,807.00
+
+Deanna      Tessler        French Club               Middle School   8   8    $1,259.00
+
+Deanna      Tessler        Homework Center 7/8       Middle School   3   3   $3,723.00
+
+Judy        Nadler         Homework Club 6           Middle School   3   8   $3,996.00
+
+Paul        Scattaretico   IMS Music Honor Society   Middle School   6   4    $1,861.00
+
+Amy         Panitz         Literary Magazine               Middle School   split   6   5    $958.00
+
+Karen       Acrish         Literary Magazine               Middle School   split   6   5    $958.00
+
+Gregg       Pernick        Math Club                       Middle School   split   8   4    $520.00
+
+Eli         Byers          Math Club                       Middle School   split   8   4    $520.00
+
+Olivia      Evanko         Midnight Run (.5)               Middle School   split   7   0    $684.50
+
+Luann       Ricciardi      Midnight Run (.5)               Middle School   split   7   8    $903.50
+
+Diana       Cassidy        National Honor Society          Middle School           5   3   $2,901.00
+
+Linda       Palumbo        National Junior Honor Society   Middle School           6   8   $2,080.00
+
+Karen       Bodnar         Science Olympiad                Middle School   split   5   8   $1,587.50
+
+Nicole      Arvanites      Science Olympiad                Middle School   split   5   8   $1,587.50
+
+Allyson     Tempest        Spanish Club                    Middle School           8   8    $1,259.00
+
+Teresa      Hunt           Stage Manager (Musical)         Middle School           7   5   $1,642.00
+
+Carol       LaBella        Student Council                 Middle School           5   8   $3,175.00
+
+Melissa     Lagana         Student Council                 Middle School           5   5    $3,011.00
+
+Teresa      Hunt           Talent Show                     Middle School           8   6    $1,150.00
+
+Diana       Tomaselli      Yearbook                        Middle School           4   8   $3,723.00
+
+Paid by BOCES Arts & Ed*
+

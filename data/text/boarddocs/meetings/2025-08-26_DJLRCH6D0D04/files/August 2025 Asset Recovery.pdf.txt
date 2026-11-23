@@ -1,0 +1,339 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/pfiles/DKGRFX6DD5E6/$file/August%202025%20Asset%20Recovery.pdf | DATE: 2025-08-26 | TITLE: Regular Meeting | 12.8 Declaration of Obsolete/Surplus Equipment | August 2025 Asset Recovery.pdf
+
+                                                                        Asset Recovery August 26, 2025
+
+
+
+         Asset ID              Serial Number        Asset Type   Manufacturer                         Model                        Assigned to Location   Site            Notes
+       ET201147IR         NXGP6AA001911194397600   Chromebook       Acer                 Acer Chromebook 11 (C771, C771T)              August 25 AR       IDO    Nonfunctional/End of Life
+       ET172021IR         NXGNZAA002921201237600   Chromebook       Acer                 Acer Chromebook 11 (C771, C771T)              August 25 AR       IDO    Nonfunctional/End of Life
+       ET171549IR         NXGM8AA0068490BD817600   Chromebook       Acer               Acer Chromebook 11 N7 (C731, C731T)             August 25 AR       IDO    Nonfunctional/End of Life
+       ET171846IR         NXGM8AA00690104E8F7600   Chromebook       Acer               Acer Chromebook 11 N7 (C731, C731T)             August 25 AR       IDO    Nonfunctional/End of Life
+       HSMS‐TC‐25         NXGE8AA0046481DA467600   Chromebook       Acer              Acer Chromebook 14 for Work (CP5‐471)            August 25 AR       IDO    Nonfunctional/End of Life
+       ET171996IR         NXGNZAA0029212013A7600   Chromebook       Acer                 Acer Chromebook 11 (C771, C771T)              August 25 AR       IDO    Nonfunctional/End of Life
+      ET202106IR             L8NXCV12B99034A       Chromebook       Acer                      ASUS Chromebook C423                     August 25 AR       IDO    Nonfunctional/End of Life
+       ET171417IR         NXGE8AA004706191367600   Chromebook       Acer              Acer Chromebook 14 for Work (CP5‐471)            August 25 AR       IDO    Nonfunctional/End of Life
+       ET201294IR         NXGP6AA0019111931C7600   Chromebook       Acer                 Acer Chromebook 11 (C771, C771T)              August 25 AR       IDO    Nonfunctional/End of Life
+ NXGM8AA0068470CB7D7600   NXGM8AA0068470CB7D7600   Chromebook       Acer               Acer Chromebook 11 N7 (C731, C731T)             August 25 AR       IDO    Nonfunctional/End of Life
+       ET205236IR         NXATNAA0021240FF7B7611   Chromebook       Acer             Acer Chromebook Spin 511 (R752T, R752TN)          August 25 AR       IDO    Nonfunctional/End of Life
+       ET201679IR               5CD040BZ9T         Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE       August 25 AR       IDO    Nonfunctional/End of Life
+       ET201729IR               5CD04081XQ         Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE       August 25 AR       IDO    Nonfunctional/End of Life
+       ET201495IR               5CD0407NLY         Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE       August 25 AR       IDO    Nonfunctional/End of Life
+       ET201371IR              5CD04081YW          Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE       August 25 AR       IDO    Nonfunctional/End of Life
+       ET201405IR               5CD04081YC         Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE       August 25 AR       IDO    Nonfunctional/End of Life
+       ET201281IR               5CD04081YX         Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE       August 25 AR       IDO    Nonfunctional/End of Life
+       ET201350IR               5CD0407Y5C         Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE       August 25 AR       IDO    Nonfunctional/End of Life
+       ET201713IR               5CD040BZT6         Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE       August 25 AR       IDO    Nonfunctional/End of Life
+       ET201532IR               5CD040C472         Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE       August 25 AR       IDO    Nonfunctional/End of Life
+       ET201910IR               5CD040C48T         Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE       August 25 AR       IDO    Nonfunctional/End of Life
+       ET201719IR               5CD040BZVB         Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE       August 25 AR       IDO    Nonfunctional/End of Life
+       ET201631IR               5CD040C497         Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE       August 25 AR       IDO    Nonfunctional/End of Life
+       ET201757IR               5CD040C22V         Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE       August 25 AR       IDO    Nonfunctional/End of Life
+       ET201898IR               5CD040BZMZ         Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE       August 25 AR       IDO    Nonfunctional/End of Life
+       ET201907IR               5CD04080QF         Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE       August 25 AR       IDO    Nonfunctional/End of Life
+       ET201366IR               5CD040C46N         Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE       August 25 AR       IDO    Nonfunctional/End of Life
+       ET201354IR               5CD040810Z         Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE       August 25 AR       IDO    Nonfunctional/End of Life
+       ET205542IR               5CD0347C6C         Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE       August 25 AR       IDO    Nonfunctional/End of Life
+       ET201842IR               5CD04081Z9         Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE       August 25 AR       IDO    Nonfunctional/End of Life
+       ET201534IR               5CD0347FVD         Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE       August 25 AR       IDO    Nonfunctional/End of Life
+       ET201767IR               5CD0347DD9         Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE       August 25 AR       IDO    Nonfunctional/End of Life
+       ET201321IR               5CD040C465         Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE       August 25 AR       IDO    Nonfunctional/End of Life
+       ET201827IR              5CD040BZW9          Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE       August 25 AR       IDO    Nonfunctional/End of Life
+       ET201302IR               5CD04081YP         Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE       August 25 AR       IDO    Nonfunctional/End of Life
+       ET201843IR               5CD040C38Y         Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE       August 25 AR       IDO    Nonfunctional/End of Life
+       ET201370IR               5CD040C23V         Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE       August 25 AR       IDO    Nonfunctional/End of Life
+       ET201515IR               5CD040826L         Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE       August 25 AR       IDO    Nonfunctional/End of Life
+       ET201645IR               5CD040C3FH         Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE       August 25 AR       IDO    Nonfunctional/End of Life
+       ET201833IR               5CD040BZXB         Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE       August 25 AR       IDO    Nonfunctional/End of Life
+       ET201659IR               5CD0407N72         Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE       August 25 AR       IDO    Nonfunctional/End of Life
+       ET201761IR               5CD040BZD9         Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE       August 25 AR       IDO    Nonfunctional/End of Life
+       ET201268IR               5CD04082CS         Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE       August 25 AR       IDO    Nonfunctional/End of Life
+       ET201844IR               5CD040BZV7         Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE       August 25 AR       IDO    Nonfunctional/End of Life
+       ET201699IR               5CD04082G0         Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE       August 25 AR       IDO    Nonfunctional/End of Life
+       ET201999IR               5CD040C4C1         Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE       August 25 AR       IDO    Nonfunctional/End of Life
+       ET201703IR               5CD0407NJX         Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE       August 25 AR       IDO    Nonfunctional/End of Life
+       ET201801IR               5CD040BZSQ         Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE       August 25 AR       IDO    Nonfunctional/End of Life
+       ET201884IR               5CD040C4CH         Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE       August 25 AR       IDO    Nonfunctional/End of Life
+       ET201666IR               5CD040BYZ9         Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE       August 25 AR       IDO    Nonfunctional/End of Life
+       ET201237IR               5CD040C3LG         Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE       August 25 AR       IDO    Nonfunctional/End of Life
+
+
+
+8/12/2025                                                                                                                                                                                    1
+
+                                                          Asset Recovery August 26, 2025
+
+
+
+          Asset ID   Serial Number    Asset Type   Manufacturer                        Model                         Assigned to Location   Site            Notes
+        ET201904IR    5CD040820V     Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE       August 25 AR       IDO    Nonfunctional/End of Life
+        ET172010IR    5CD841861H     Chromebook        HP               Chromebook 14‐ca1 / Chromebook 14‐ca0            August 25 AR       IDO    Nonfunctional/End of Life
+        ET201860IR    5CD040C48C     Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE       August 25 AR       IDO    Nonfunctional/End of Life
+        ET201953IR    5CD040BZV1     Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE       August 25 AR       IDO    Nonfunctional/End of Life
+        ET201592IR    5CD040BZTH     Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE       August 25 AR       IDO    Nonfunctional/End of Life
+        ET201958IR    5CD040C00G     Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE       August 25 AR       IDO    Nonfunctional/End of Life
+        ET201973IR    5CD040C00C     Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE       August 25 AR       IDO    Nonfunctional/End of Life
+        ET201249IR    5CD040BZYK     Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE       August 25 AR       IDO    Nonfunctional/End of Life
+        ET201870IR   5CD040BZWY      Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE       August 25 AR       IDO    Nonfunctional/End of Life
+        ET201372IR    5CD04080NB     Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE       August 25 AR       IDO    Nonfunctional/End of Life
+        ET201709IR    5CD040BZQ2     Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE       August 25 AR       IDO    Nonfunctional/End of Life
+        ET201520IR    5CD040C3VC     Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE       August 25 AR       IDO    Nonfunctional/End of Life
+        ET201982IR    5CD040C234     Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE       August 25 AR       IDO    Nonfunctional/End of Life
+        ET201819IR    5CD040BZ48     Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE       August 25 AR       IDO    Nonfunctional/End of Life
+        ET201582IR    5CD04082K3     Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE       August 25 AR       IDO    Nonfunctional/End of Life
+        ET201334IR    5CD040C3VP     Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE       August 25 AR       IDO    Nonfunctional/End of Life
+        ET201826IR    5CD040C49G     Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE       August 25 AR       IDO    Nonfunctional/End of Life
+        ET201675IR    5CD040BZVZ     Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE       August 25 AR       IDO    Nonfunctional/End of Life
+        ET201356IR    5CD040C3Q0     Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE       August 25 AR       IDO    Nonfunctional/End of Life
+        ET201967IR    5CD040C43L     Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE       August 25 AR       IDO    Nonfunctional/End of Life
+        ET201545IR    5CD04082K0     Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE       August 25 AR       IDO    Nonfunctional/End of Life
+        ET201335IR    5CD040C477     Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE       August 25 AR       IDO    Nonfunctional/End of Life
+        ET201391IR    5CD040BZXZ     Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE       August 25 AR       IDO    Nonfunctional/End of Life
+        ET201726IR    5CD04081YY     Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE       August 25 AR       IDO    Nonfunctional/End of Life
+        ET201905IR    5CD04081YQ     Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE       August 25 AR       IDO    Nonfunctional/End of Life
+        ET201963IR    5CD04081XY     Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE       August 25 AR       IDO    Nonfunctional/End of Life
+        ET201981IR   5CD04080NN      Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE       August 25 AR       IDO    Nonfunctional/End of Life
+        ET201974IR    5CD040C053     Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE       August 25 AR       IDO    Nonfunctional/End of Life
+        ET201750IR    5CD040BZN0     Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE       August 25 AR       IDO    Nonfunctional/End of Life
+        ET201731IR   5CD040BZWW      Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE       August 25 AR       IDO    Nonfunctional/End of Life
+        ET201425IR    5CD0408045     Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE       August 25 AR       IDO    Nonfunctional/End of Life
+        ET201220IR    5CD04081ZZ     Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE       August 25 AR       IDO    Nonfunctional/End of Life
+        ET201627IR    5CD040BZ4Z     Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE       August 25 AR       IDO    Nonfunctional/End of Life
+        ET201605IR    5CD040BZY5     Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE       August 25 AR       IDO    Nonfunctional/End of Life
+        ET201316IR    5CD040C49S     Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE       August 25 AR       IDO    Nonfunctional/End of Life
+        ET201740IR    5CD040BZVY     Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE       August 25 AR       IDO    Nonfunctional/End of Life
+        ET202959IR    5CD040BZJS     Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE       August 25 AR       IDO    Nonfunctional/End of Life
+        ET201909IR    5CD040BZS4     Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE       August 25 AR       IDO    Nonfunctional/End of Life
+        ET201893IR    5CD040C43V     Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE       August 25 AR       IDO    Nonfunctional/End of Life
+        ET201959IR    5CD040820R     Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE       August 25 AR       IDO    Nonfunctional/End of Life
+        ET201235IR    5CD040C43K     Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE       August 25 AR       IDO    Nonfunctional/End of Life
+        ET201762IR    5CD040BZRJ     Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE       August 25 AR       IDO    Nonfunctional/End of Life
+        ET201770IR    5CD040BZT7     Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE       August 25 AR       IDO    Nonfunctional/End of Life
+        ET201359IR    5CD040C00B     Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE       August 25 AR       IDO    Nonfunctional/End of Life
+        ET201342IR   5CD040C49W      Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE       August 25 AR       IDO    Nonfunctional/End of Life
+        ET172311IR    5CD047N24Z     Chromebook        HP               Chromebook 14‐ca1 / Chromebook 14‐ca0            August 25 AR       IDO    Nonfunctional/End of Life
+        ET201914IR    5CD040BZ69     Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE       August 25 AR       IDO    Nonfunctional/End of Life
+        ET201594IR   5CD040BZW8      Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE       August 25 AR       IDO    Nonfunctional/End of Life
+        ET201863IR    5CD040BZDY     Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE       August 25 AR       IDO    Nonfunctional/End of Life
+        ET201975IR    5CD040C49Q     Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE       August 25 AR       IDO    Nonfunctional/End of Life
+        ET201392IR    5CD040C4BF     Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE       August 25 AR       IDO    Nonfunctional/End of Life
+
+
+
+8/12/2025                                                                                                                                                                      2
+
+                                                                   Asset Recovery August 26, 2025
+
+
+
+          Asset ID         Serial Number       Asset Type   Manufacturer                         Model                        Assigned to Location   Site            Notes
+        ET201637IR          5CD040BZ6V        Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE       August 25 AR       IDO    Nonfunctional/End of Life
+        ET201216IR          5CD04082GK        Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE       August 25 AR       IDO    Nonfunctional/End of Life
+        ET201374IR          5CD040C291        Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE       August 25 AR       IDO    Nonfunctional/End of Life
+        ET201730IR           5CD040BZYS       Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE       August 25 AR       IDO    Nonfunctional/End of Life
+        ET201868IR          5CD040C3Y5        Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE       August 25 AR       IDO    Nonfunctional/End of Life
+        ET201584IR          5CD04081YT        Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE       August 25 AR       IDO    Nonfunctional/End of Life
+        ET201725IR          5CD040BZQG        Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE       August 25 AR       IDO    Nonfunctional/End of Life
+        ET201234IR          5CD040BZXV        Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE       August 25 AR       IDO    Nonfunctional/End of Life
+        ET201624IR          5CD040BZPQ        Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE       August 25 AR       IDO    Nonfunctional/End of Life
+        ET201660IR          5CD040BYQ6        Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE       August 25 AR       IDO    Nonfunctional/End of Life
+        ET201987IR          5CD04082D1        Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE       August 25 AR       IDO    Nonfunctional/End of Life
+        ET202972IR          5CD040BZR1        Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE       August 25 AR       IDO    Nonfunctional/End of Life
+        ET201847IR          5CD040BZMH        Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE       August 25 AR       IDO    Nonfunctional/End of Life
+        ET201683IR          5CD04081YG        Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE       August 25 AR       IDO    Nonfunctional/End of Life
+        ET201351IR           5CD040C3TJ       Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE       August 25 AR       IDO    Nonfunctional/End of Life
+        ET201618IR          5CD040C23Q        Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE       August 25 AR       IDO    Nonfunctional/End of Life
+        ET201861IR          5CD040C49F        Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE       August 25 AR       IDO    Nonfunctional/End of Life
+        ET201406IR          5CD04081WT        Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE       August 25 AR       IDO    Nonfunctional/End of Life
+        ET201834IR          5CD040C21Q        Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE       August 25 AR       IDO    Nonfunctional/End of Life
+        ET201593IR           5CD040BZL5       Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE       August 25 AR       IDO    Nonfunctional/End of Life
+        ET201636IR          5CD040C49H        Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE       August 25 AR       IDO    Nonfunctional/End of Life
+        ET201996IR          5CD04082FQ        Chromebook        HP         HP Chromebook 11A G6 EE/ HP Chromebook 11A G8 EE       August 25 AR       IDO    Nonfunctional/End of Life
+        ET202175IR            P203PLFL        Chromebook      Lenovo                Lenovo Ideapad C330 Chromebook                August 25 AR       IDO    Nonfunctional/End of Life
+        ET171855IR            P204FTXX        Chromebook      Lenovo                Lenovo Ideapad C330 Chromebook                August 25 AR       IDO    Nonfunctional/End of Life
+        ET171927IR            P204FTX3        Chromebook      Lenovo                Lenovo Ideapad C330 Chromebook                August 25 AR       IDO    Nonfunctional/End of Life
+       ET205546IR             P204FTFR        Chromebook      Lenovo                Lenovo Ideapad C330 Chromebook                August 25 AR       IDO    Nonfunctional/End of Life
+        ET171862IR            P204FU2C        Chromebook      Lenovo                Lenovo Ideapad C330 Chromebook                August 25 AR       IDO    Nonfunctional/End of Life
+        ET171882IR            P204NVX4        Chromebook      Lenovo              Lenovo 300e Chromebook 2nd Gen MTK              August 25 AR       IDO    Nonfunctional/End of Life
+        ET172279IR        0Q9T91HK408223      Chromebook     Samsung                     Samsung Chromebook 3                     August 25 AR       IDO    Nonfunctional/End of Life
+        ET170823IR   1S10M7000QUSMJ05PUPW       Desktop       Lenovo                         Lenovo M720s                         August 25 AR       IDO    Nonfunctional/End of Life
+        ET170880IR   1S10M7000QUSMJ05R1SN       Desktop       Lenovo                         Lenovo M710s                         August 25 AR       IDO    Nonfunctional/End of Life
+        ET170893IR   1S10M7000QUSMJ05PUQK       Desktop       Lenovo                         Lenovo M710s                         August 25 AR       IDO    Nonfunctional/End of Life
+        ET170891IR   1S10M7000QUSMJ05PUQB       Desktop       Lenovo                         Lenovo M710s                         August 25 AR       IDO    Nonfunctional/End of Life
+        ET172306IR    1S10M7000QUSMJ074BF0      Desktop       Lenovo                         Lenovo M710s                         August 25 AR       IDO    Nonfunctional/End of Life
+        ET170846IR   1S10M7000QUSMJ05R1UV       Desktop       Lenovo                         Lenovo M710s                         August 25 AR       IDO    Nonfunctional/End of Life
+        ET202165IR     1S10ST002FUSMJ0937S5     Desktop       Lenovo                         Lenovo M710s                         August 25 AR       IDO    Nonfunctional/End of Life
+        ET202148IR   1S10M7000QUSMJ074BG3       Desktop       Lenovo                         Lenovo M710s                         August 25 AR       IDO    Nonfunctional/End of Life
+        ET202911IR            MJ0A26HA          Desktop       Lenovo                         Lenovo M720s                         August 25 AR       IDO    Nonfunctional/End of Life
+        ET203104IR            MJ094GD1          Desktop       Lenovo                         Lenovo M720s                         August 25 AR       IDO    Nonfunctional/End of Life
+        ET203132IR            MJ0937W1          Desktop       Lenovo                         Lenovo M720s                         August 25 AR       IDO    Nonfunctional/End of Life
+        ET203136IR            MJ094G9V          Desktop       Lenovo                         Lenovo M720s                         August 25 AR       IDO    Nonfunctional/End of Life
+        ET203137IR            MJ09947M          Desktop       Lenovo                         Lenovo M720s                         August 25 AR       IDO    Nonfunctional/End of Life
+        ET203140IR            MJ074BF9          Desktop       Lenovo                         Lenovo M710s                         August 25 AR       IDO    Nonfunctional/End of Life
+        ET203141IR            MJ077J2B          Desktop       Lenovo                         Lenovo M710s                         August 25 AR       IDO    Nonfunctional/End of Life
+        ET203143IR            MJ073JSL          Desktop       Lenovo                         Lenovo M710s                         August 25 AR       IDO    Nonfunctional/End of Life
+        ET203147IR            MJ073JPH          Desktop       Lenovo                         Lenovo M710s                         August 25 AR       IDO    Nonfunctional/End of Life
+        ET203146IR            MJ093CA9          Desktop       Lenovo                         Lenovo M720s                         August 25 AR       IDO    Nonfunctional/End of Life
+        ET204670IR            MJ094GCR          Desktop       Lenovo                         Lenovo M720s                         August 25 AR       IDO    Nonfunctional/End of Life
+        ET203033IR           MJ093CBW           Desktop       Lenovo                         Lenovo M720s                         August 25 AR       IDO    Nonfunctional/End of Life
+        ET203096IR            MJ074BF5          Desktop       Lenovo                         Lenovo M710s                         August 25 AR       IDO    Nonfunctional/End of Life
+        ET202054IR            MJ03E32J          Desktop       Lenovo                    Lenovo ThinkCentre M70s                   August 25 AR       IDO    Nonfunctional/End of Life
+
+
+
+8/12/2025                                                                                                                                                                               3
+
+                                                                   Asset Recovery August 26, 2025
+
+
+
+          Asset ID          Serial Number      Asset Type   Manufacturer                          Model                Assigned to Location   Site            Notes
+        ET203003IR          VNG3N06129             Fax          HP                          HP MFP M227fdn                 August 25 AR       IDO    Nonfunctional/End of Life
+        ET202137IR     1S20RA004WUSPF1X44PF      Laptop       Lenovo                            Lenovo E14                 August 25 AR       IDO    Nonfunctional/End of Life
+        ET202306IR            PF36F6G2           Laptop       Lenovo                    Lenovo Thinkpad E14 Gen 2          August 25 AR       IDO    Nonfunctional/End of Life
+        ET202307IR            PF35JBV5           Laptop       Lenovo                    Lenovo Thinkpad E14 Gen 2          August 25 AR       IDO    Nonfunctional/End of Life
+        ET202308IR           PF36GMNQ            Laptop       Lenovo                    Lenovo Thinkpad E14 Gen 2          August 25 AR       IDO    Nonfunctional/End of Life
+        ET202309IR            PF34SJMV           Laptop       Lenovo                    Lenovo Thinkpad E14 Gen 2          August 25 AR       IDO    Nonfunctional/End of Life
+        ET202310IR           PF36HM0W            Laptop       Lenovo                    Lenovo Thinkpad E14 Gen 2          August 25 AR       IDO    Nonfunctional/End of Life
+        ET202311IR            PF36DS8K           Laptop       Lenovo                    Lenovo Thinkpad E14 Gen 2          August 25 AR       IDO    Nonfunctional/End of Life
+        ET202322IR            PF36DKPV           Laptop       Lenovo                    Lenovo Thinkpad E14 Gen 2          August 25 AR       IDO    Nonfunctional/End of Life
+        ET202323IR            PF36DS7X           Laptop       Lenovo                    Lenovo Thinkpad E14 Gen 2          August 25 AR       IDO    Nonfunctional/End of Life
+        ET202328IR            PF34Q76X           Laptop       Lenovo                    Lenovo Thinkpad E14 Gen 2          August 25 AR       IDO    Nonfunctional/End of Life
+        ET202329IR            PF34S132           Laptop       Lenovo                    Lenovo Thinkpad E14 Gen 2          August 25 AR       IDO    Nonfunctional/End of Life
+        ET202330IR            PF34S2AE           Laptop       Lenovo                    Lenovo Thinkpad E14 Gen 2          August 25 AR       IDO    Nonfunctional/End of Life
+        ET202332IR             PF35JBPK          Laptop       Lenovo                    Lenovo Thinkpad E14 Gen 2          August 25 AR       IDO    Nonfunctional/End of Life
+        ET202334IR            PF34SD0A           Laptop       Lenovo                    Lenovo Thinkpad E14 Gen 2          August 25 AR       IDO    Nonfunctional/End of Life
+        ET202335IR            PF36DRZH           Laptop       Lenovo                    Lenovo Thinkpad E14 Gen 2          August 25 AR       IDO    Nonfunctional/End of Life
+        ET202336IR            PF34SD1P           Laptop       Lenovo                    Lenovo Thinkpad E14 Gen 2          August 25 AR       IDO    Nonfunctional/End of Life
+        ET202338IR            PF34NS9Y           Laptop       Lenovo                    Lenovo Thinkpad E14 Gen 2          August 25 AR       IDO    Nonfunctional/End of Life
+        ET202339IR            PF34NGGJ           Laptop       Lenovo                    Lenovo Thinkpad E14 Gen 2          August 25 AR       IDO    Nonfunctional/End of Life
+        ET202340IR            PF36DX5H           Laptop       Lenovo                    Lenovo Thinkpad E14 Gen 2          August 25 AR       IDO    Nonfunctional/End of Life
+        ET202341IR            PF34NJSC           Laptop       Lenovo                    Lenovo Thinkpad E14 Gen 2          August 25 AR       IDO    Nonfunctional/End of Life
+        ET170223IR            PC0MB1J9           Laptop       Lenovo                           Lenovo X270                 August 25 AR       IDO    Nonfunctional/End of Life
+        ET100285IR     1S20BX001PUSPC09E53L      Laptop       Lenovo                           Lenovo T450s                August 25 AR       IDO    Nonfunctional/End of Life
+        ET100321IR     1S20BX001PUSPC09E2W2      Laptop       Lenovo                           Lenovo T450s                August 25 AR       IDO    Nonfunctional/End of Life
+        ET170222IR     1S20FN002SUSPC0KZ7X3      Laptop       Lenovo                           Lenovo T450s                August 25 AR       IDO    Nonfunctional/End of Life
+        ET170221IR     1S20FN002JUSPC0L121Q      Laptop       Lenovo                          Lenovo T460S                 August 25 AR       IDO    Nonfunctional/End of Life
+        ET203233IR    1S20XW004GUSPF30KYWS       Laptop       Lenovo                 Lenovo ThinkPad X1 Carbon Gen 9       August 25 AR       IDO    Nonfunctional/End of Life
+        ET203350IR            PF‐1KN1ST          Laptop       Lenovo                           Lenovo T480                 August 25 AR       IDO    Nonfunctional/End of Life
+        ET205073IR            PF‐16PSZN          Laptop       Lenovo                           Lenovo T480                 August 25 AR       IDO    Nonfunctional/End of Life
+        ET172204IR     1s20H1005AUSPF0XSFWZ      Laptop       Lenovo                           Lenovo E470                 August 25 AR       IDO    Nonfunctional/End of Life
+        ET170856IR            PC0HVRX7           Laptop       Lenovo                         Thinkpad T460s                August 25 AR       IDO    Nonfunctional/End of Life
+        ET205703IR           CB36021420          Laptop       Lenovo                          Lenovo Y50‐70                August 25 AR       IDO    Nonfunctional/End of Life
+        ET202289IR          33484610254          Laptop      Microsoft                    Microsoft Surfacebook            August 25 AR       IDO    Nonfunctional/End of Life
+          116464      ETLE10D0339210194D8521    Monitor        Acer                              Acer V173                 August 25 AR       IDO    Nonfunctional/End of Life
+        ET202033IR   MMLXKAA0034310B3644207     Monitor        Acer                           Acer V206HQL                 August 25 AR       IDO    Nonfunctional/End of Life
+          116441      ETLE10D033921019408521    Monitor        Acer                              Acer V173                 August 25 AR       IDO    Nonfunctional/End of Life
+          116449      ETLE10D0339170A0548521    Monitor        Acer                              Acer V173                 August 25 AR       IDO    Nonfunctional/End of Life
+          117523      ETLJE0W16811807F134307    Monitor        Acer                              Acer V173                 August 25 AR       IDO    Nonfunctional/End of Life
+          116453      ETLE10D03392101E588521    Monitor        Acer                              Acer V173                 August 25 AR       IDO    Nonfunctional/End of Life
+          117756      ETLJE0W16811807D104307    Monitor        Acer                             Acer v193w                 August 25 AR       IDO    Nonfunctional/End of Life
+          117087      ETLC108148021034DB4202    Monitor        Acer                             Acer v193w                 August 25 AR       IDO    Nonfunctional/End of Life
+        ET202036IR    ETLJE0W16811807F4D4307    Monitor        Acer                             Acer v193w                 August 25 AR       IDO    Nonfunctional/End of Life
+          117630      ETLJE0W16811807F1D4307    Monitor        Acer                             Acer v193w                 August 25 AR       IDO    Nonfunctional/End of Life
+        ET202068IR   MMLY0AA00181403DCC8507     Monitor        Acer                            Acer v196hql                August 25 AR       IDO    Nonfunctional/End of Life
+        ET172331IR   MMLY7AA01311115A8485WK     Monitor        Acer                           Acer V226HQL                 August 25 AR       IDO    Nonfunctional/End of Life
+        ET202123IR   MMLY7AA01303504EC085WK     Monitor        Acer                           Acer V226HQL                 August 25 AR       IDO    Nonfunctional/End of Life
+        ET202018IR   MMLY7AA0068520A94E8559     Monitor        Acer                           Acer V226HQL                 August 25 AR       IDO    Nonfunctional/End of Life
+        ET202152IR   MMLXLAA01091503DA54254     Monitor        Acer                           Acer V226HQL                 August 25 AR       IDO    Nonfunctional/End of Life
+        ET202114IR   MMLXLAA01091503D6F4254     Monitor        Acer                           Acer V226HQL                 August 25 AR       IDO    Nonfunctional/End of Life
+        ET202124IR   MMLY7AA01303504EB285WK     Monitor        Acer                           Acer V226HQL                 August 25 AR       IDO    Nonfunctional/End of Life
+        ET202116IR   MMLY7AA0069160FB788559     Monitor        Acer                           Acer V226HQL                 August 25 AR       IDO    Nonfunctional/End of Life
+
+
+
+8/12/2025                                                                                                                                                                        4
+
+                                                                     Asset Recovery August 26, 2025
+
+
+
+          Asset ID          Serial Number        Asset Type   Manufacturer                           Model                Assigned to Location   Site            Notes
+        ET203234IR   MMLY7AA0131240C08B85WK       Monitor         Acer                           Acer V226HQL                 August 25 AR       IDO    Nonfunctional/End of Life
+        ET203236IR   MMLY7AA0131240C08C85WK       Monitor         Acer                           Acer V226HQL                 August 25 AR       IDO    Nonfunctional/End of Life
+        ET203237IR   MMLY7AA0131240C08D85WK       Monitor         Acer                           Acer V226HQL                 August 25 AR       IDO    Nonfunctional/End of Life
+        ET203240IR   MMLY7AA0131240B40685WK       Monitor         Acer                           Acer V226HQL                 August 25 AR       IDO    Nonfunctional/End of Life
+        ET203243IR   MMLY7AA0131351FC1885WM       Monitor         Acer                           Acer V226HQL                 August 25 AR       IDO    Nonfunctional/End of Life
+        ET202768IR   MMLXLAA01091503D9B4254       Monitor         Acer                           Acer V226HQL                 August 25 AR       IDO    Nonfunctional/End of Life
+        ET202770IR   MMLY7AA0131240F46585WK       Monitor         Acer                           Acer V226HQL                 August 25 AR       IDO    Nonfunctional/End of Life
+        ET203103IR   MMLY7AA00883208180851C       Monitor         Acer                           Acer V226HQL                 August 25 AR       IDO    Nonfunctional/End of Life
+        ET203322IR   MMLY7AA0131091AEB385WK       Monitor         Acer                           Acer V226HQL                 August 25 AR       IDO    Nonfunctional/End of Life
+          117757      ETLJE0W16811807F324307      Monitor         Acer                            Acer v193w                  August 25 AR       IDO    Nonfunctional/End of Life
+          117567      ETLJE0W168124050524305      Monitor         Acer                            Acer v193w                  August 25 AR       IDO    Nonfunctional/End of Life
+        ET203015IR   MMLY0AA00181403DC98507       Monitor         Acer                           Acer v196hql                 August 25 AR       IDO    Nonfunctional/End of Life
+        ET203001IR   MMLY7AA0131240F4SE85WK       Monitor         Acer                           Acer V226HQL                 August 25 AR       IDO    Nonfunctional/End of Life
+        ET203017IR   MMLY7AA0131240F46185WK       Monitor         Acer                           Acer V226HQL                 August 25 AR       IDO    Nonfunctional/End of Life
+        ET203155IR   MMLY7AA00883208174851C       Monitor         Acer                           Acer V226HQL                 August 25 AR       IDO    Nonfunctional/End of Life
+        ET203083IR   MMLXKAA0036500B2E94236       Monitor         Acer                           Acer V206HQL                 August 25 AR       IDO    Nonfunctional/End of Life
+        ET202159IR   MMT0WAA004613060D724B5       Monitor         Acer                           Acer V226HQL                 August 25 AR       IDO    Nonfunctional/End of Life
+        ET202297IR   MMLY7AA0132050000985WK       Monitor         Acer                           Acer V226HQL                 August 25 AR       IDO    Nonfunctional/End of Life
+        ET202808IR   MMLY7AA0132050031A85WK       Monitor         Acer                           Acer V226HQL                 August 25 AR       IDO    Nonfunctional/End of Life
+        ET204690IR   MMLY7AA0132050030485WK       Monitor         Acer                           Acer V226HQL                 August 25 AR       IDO    Nonfunctional/End of Life
+        ET204853IR   MMLY7AA0132050030D85WK       Monitor         Acer                           Acer V226HQL                 August 25 AR       IDO    Nonfunctional/End of Life
+        ET204907IR   MMLY7AA0132050030685WK       Monitor         Acer                           Acer V226HQL                 August 25 AR       IDO    Nonfunctional/End of Life
+        ET204906IR   MMLY7AA0132050030B85WK       Monitor         Acer                           Acer V226HQL                 August 25 AR       IDO    Nonfunctional/End of Life
+        ET204494IR   MMLY7AA0069160F74D8559       Monitor         Acer                           Acer V226HQL                 August 25 AR       IDO    Nonfunctional/End of Life
+        ET202815IR   MMLY7AA0131091AE8685WK       Monitor         Acer                           Acer V226HQL                 August 25 AR       IDO    Nonfunctional/End of Life
+        ET204517IR   MMLY7880068520AC988559       Monitor         Acer                           Acer V226HQL                 August 25 AR       IDO    Nonfunctional/End of Life
+        ET204488IR   MMLXLAA01091503D6E4254       Monitor         Acer                           Acer V226HQL                 August 25 AR       IDO    Nonfunctional/End of Life
+        ET204680IR   MMLY7AA0131091AEC185WK       Monitor         Acer                           Acer V226HQL                 August 25 AR       IDO    Nonfunctional/End of Life
+        ET204697IR   MMLY7AA0131091AECA85WK       Monitor         Acer                           Acer V226HQL                 August 25 AR       IDO    Nonfunctional/End of Life
+        ET206216IR    CN‐OFXV33‐74261‐SCI‐OGTL    Monitor         Dell                            Dell S2415H                 August 25 AR       IDO    Nonfunctional/End of Life
+        ET171963IR   MMLY7AA0069160FB898559       Monitor         Acer                           Acer V226HQL                 August 25 AR       IDO    Nonfunctional/End of Life
+         ET202020I     1S10B6001SUSMJ03E32J          PC         Lenovo                            Lenovo M73                  August 25 AR       IDO    Nonfunctional/End of Life
+        ET202071IR            L3JZ015941           Printer       Epson                            Epson gts80                 August 25 AR       IDO    Nonfunctional/End of Life
+        ET203066IR            NWQ72239             Printer      Canon                        Canon IM MF4880dw                August 25 AR       IDO    Nonfunctional/End of Life
+        ET101238IR          W8VY003559             Printer       Epson                       Epson SureColor P400             August 25 AR       IDO    Nonfunctional/End of Life
+        ET204663IR             B7090373            Printer       Fargo                          Fargo DTC1250e                August 25 AR       IDO    Nonfunctional/End of Life
+          106751            VNB3M36473             Printer         HP                              HP 1022n                   August 25 AR       IDO    Nonfunctional/End of Life
+          118311            VND3C60955             Printer         HP                               HP 1606                   August 25 AR       IDO    Nonfunctional/End of Life
+          118312            VND3C60951             Printer         HP                               HP 1606                   August 25 AR       IDO    Nonfunctional/End of Life
+        ET172132IR        CN77S4N19C067P           Printer         HP                               HP 3630                   August 25 AR       IDO    Nonfunctional/End of Life
+          117578             JPBCC3J0C4            Printer         HP                              HP CP4525                  August 25 AR       IDO    Nonfunctional/End of Life
+        ET171272IR          CNDG327435             Printer         HP                        HP LJPro 400 m451nw              August 25 AR       IDO    Nonfunctional/End of Life
+          117489             CNDY944210            Printer         HP                             HP P4015tn                  August 25 AR       IDO    Nonfunctional/End of Life
+        ET204714IR          CNDG227894             Printer         HP                  HP LaserJet Pro 400 color M451nw       August 25 AR       IDO    Nonfunctional/End of Life
+        ET101459IR            4700044EC           Projector       NEC                             NEC M322X                   August 25 AR       IDO    Nonfunctional/End of Life
+        ET171069IR            5600290RJ           Projector       NEC                             NEC M322X                   August 25 AR       IDO    Nonfunctional/End of Life
+        ET171067IR            4X00085RD           Projector       NEC                             NEC M322X                   August 25 AR       IDO    Nonfunctional/End of Life
+        ET171057IR            4Y00917RD           Projector       NEC                             NEC M322X                   August 25 AR       IDO    Nonfunctional/End of Life
+        ET202127IR            6901021RD           Projector       NEC                             NEC M323X                   August 25 AR       IDO    Nonfunctional/End of Life
+        ET202004IR            8Z00130TG           Projector       NEC                           NEC NP‐ME361X                 August 25 AR       IDO    Nonfunctional/End of Life
+        ET203292IR            6X00659RE           Projector       NEC                           NEC NP‐M323X                  August 25 AR       IDO    Nonfunctional/End of Life
+
+
+
+8/12/2025                                                                                                                                                                           5
+
+                                                                       Asset Recovery August 26, 2025
+
+
+
+          Asset ID       Serial Number       Asset Type         Manufacturer                           Model               Assigned to Location   Site            Notes
+        ET203288IR         6X00689RE          Projector             NEC                             NEC M323X                  August 25 AR       IDO    Nonfunctional/End of Life
+        ET100495IR         5500471RJ          Projector             NEC                           NEC NP‐M322X                 August 25 AR       IDO    Nonfunctional/End of Life
+        ET171011IR         6X00666RE          Projector             NEC                           NEC NP‐M323X                 August 25 AR       IDO    Nonfunctional/End of Life
+        ET203169IR        T9TF470344L         Projector            Epson                   Epson PowerLitePro G6450WU          August 25 AR       IDO    Nonfunctional/End of Life
+        ET202218IR         8500025TF          Projector             NEC                           NEC NP‐ME361X                August 25 AR       IDO    Nonfunctional/End of Life
+        ET172304IR         8600065TF          Projector             NEC                            NEC ME361X                  August 25 AR       IDO    Nonfunctional/End of Life
+        ET171855IR   NP‐M322X 5500534RJ       Projector             NEC                             NEC M322X                  August 25 AR       IDO    Nonfunctional/End of Life
+        ET172167IR       FOC2207T09G            Switch             Cisco                    Cisco Catalyst 2960 X Series       August 25 AR       IDO    Nonfunctional/End of Life
+        ET172164IR       FOC2207T0C8            Switch             Cisco                    Cisco Catalyst 2960 X Series       August 25 AR       IDO    Nonfunctional/End of Life
+        ET172165IR       FOC2207T00U            Switch             Cisco                    Cisco Catalyst 2960 X Series       August 25 AR       IDO    Nonfunctional/End of Life
+        ET172168IR       FOC2207T0A1            Switch             Cisco                    Cisco Catalyst 2960 X Series       August 25 AR       IDO    Nonfunctional/End of Life
+        ET203054IR      DMRPD5CVFK10            Tablet             Apple                       Apple iPad Air A1474            August 25 AR       IDO    Nonfunctional/End of Life
+        ET203037IR     DMQPDWZAFK10             Tablet             Apple                       Apple iPad Air A1474            August 25 AR       IDO    Nonfunctional/End of Life
+        ET203020IR      DMPPGKJRFK10            Tablet             Apple                       Apple iPad Air A1474            August 25 AR       IDO    Nonfunctional/End of Life
+        ET201462IR     DMQPDW51FK10             Tablet             Apple                       Apple iPad Air A1474            August 25 AR       IDO    Nonfunctional/End of Life
+        ET202909IR       DMPPJUGFK10            Tablet             Apple                       Apple iPad Air A1474            August 25 AR       IDO    Nonfunctional/End of Life
+        ET203327IR     DMQPDYZWFK10             Tablet             Apple                       Apple iPad Air A1474            August 25 AR       IDO    Nonfunctional/End of Life
+        ET203328IR      DMQPGRSZFK10            Tablet             Apple                       Apple iPad Air A1474            August 25 AR       IDO    Nonfunctional/End of Life
+          117598       DMQGTR55DFHW             Tablet             Apple                         Apple iPad A1403              August 25 AR       IDO    Nonfunctional/End of Life
+        ET202860IR    FWC5HDTA18000146    Wireless Controller     Fortinet                        FortiWLC 500D                August 25 AR       IDO    Nonfunctional/End of Life
+        ET205602IR    FWC5HD3A16000009    Wireless Controller     Fortinet                        FortiWLC 500D                August 25 AR       IDO    Nonfunctional/End of Life
+
+
+
+
+8/12/2025                                                                                                                                                                            6
+

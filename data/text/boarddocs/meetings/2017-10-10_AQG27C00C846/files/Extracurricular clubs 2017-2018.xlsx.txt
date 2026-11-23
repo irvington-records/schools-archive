@@ -1,0 +1,89 @@
+# SOURCE: https://go.boarddocs.com/ny/iufsd/Board.nsf/pfiles/ARZHR848DC01/$file/Extracurricular%20clubs%202017-2018.xlsx | DATE: 2017-10-10 | TITLE: Regular Meeting | 9.5 Payment for Extracurricular Clubs | Extracurricular clubs 2017-2018.xlsx
+
+--- sheet Sheet1 ---
+School	First Name	Last Name	Club	Group	Step	Stipend	
+Dows	Christopher	Cullen	Recycling Rangers	6	3	1777	
+MSS	Christine	Rosner	Mathletes-4	8	8	1238	
+MSS	Georgia	Tasigiannis	Stage Manager	7	5	1615	
+MSS	Amy	Jones	Homework Club 4th Grade (2 Days) (50%)	3	8	1965	
+MSS	Diane	Watkinson	Homework Club 4th Grade (1 Days) (25%)	3	2	901.75	
+MSS	Nancy	Woeckener	Homework Club 4th Grade (1 Day) (25%)	3	5	942.25	
+MSS	Diane	Watkinson	School Store 4-5	7	8	1777	
+MSS	Nancy	Woeckener	Mathletes - 5	8	7	1185	
+MSS	Loren	Holand	Homework Club 5th Grade (1 Day) (25%)	3	1	888.5	
+MSS	Cristina	Fiol	Homework Club 5th Grade (1 Day) (25%)	3	1	888.5	
+MSS	Michelle	Griffin	Homework Club 5th Grade (1 Day) (25%)	3	0	875	
+MSS	Julie	Rostkowski	Homework Club 5th Grade (1 Day) (25%)	3	2	901.75	
+MSS	Michelle	Griffin	Gardening Club	8	1	861	
+MSS	MaryEllen	Fortini	Gardening Club	8	2	915	
+MSS	MaryEllen	Fortini	Board Games (4)	8	2	915	
+MSS	Julie	Cangelosi	Board Games (5)	8	1	861	
+MSS	Deb	Ottaviano	Theater Club 4-5	3	8	1965	
+MSS	Nancy	Woeckener	Destination Imagination Coordinator	3	1	3554	
+MSS	Lindsay	Donlon	Craft Club	8	1	861	
+MSS	Lisa	Gervasi	DI Instant Challenges 4 split stipend	8	0	404	
+MSS	Georgia	Tasigiannis	DI Instant Challenges 4 split stipend	8	0	404	
+MSS	Cristina	Fiol	DI Instant Challenges 5 split stipend	8	0	404	
+MSS	Cangelosi	Julie	DI Instant Challenges 5 split stipend	8	0	404	
+MSS	Julie	Cangelosi	Environmental Club	8	0	808	
+IMS	Nicole	Arvanites	Science Olympiad (Split)	5	7	1534.5	
+IMS	Karen	Bodnar	Science Olympiad (Split)	5	8	1561.5	
+IMS	Luann	Ricciardi	Environmental Club	7	7	1723	
+IMS	Luann	Ricciardi	Midnight Run	7	8	1777	
+IMS	Luann	Ricciardi	Theater (Musical)	2	3		
+IMS	Eve	Zeese	Debate Club	6	2	1723	
+IMS	Diana	Tomaselli	Yearbook	4	8	3661	
+IMS	Judy	Nadler	Homework Center 6	3	7	3877	
+IMS	Deanna	Tessler	Homework Center 7/8	3	0	3500	
+IMS	Allyson	Tempest	Spanish Club	8	5	1077	
+IMS	Teresa	Hunt	Talent Show	8	3	969	
+IMS	Carol	Labella	Student Council	5	6	3015	
+IMS	Melissa	Lagana	Student Council	5	2	2800	
+IMS	Linda	Palumbo	Junior National Honor Society	6	5	1884	
+IMS	Deanna	Tessler	French Club	8	8	1238	
+IMS	Eli	Byers	Chess Club	8	2	915	
+IMS	Paul	Scattaretico	IMS Music Honor Society	6	1	1669	
+IMS	Karen	Acrish	Literary Magazine (split)	6	2	861.5	
+IMS	Amy	Panitz	Literary Magazine (split)	6	2	861.5	
+IMS	Teresa	Hunt	Stage Manager	7	2	1454	
+IMS	Gregg	Pernick	Ping Pong Club (split)	8	0	404	
+IMS	Griffin	Murray	Ping Pong Club (split)	8	7	592.5	
+IMS	Eli	Byers	Math Club Split Stipend	7	1	700	
+IMS	Gregg	Pernick	Math Club Split Stipend	7	1	700	
+IMS	Deborah	Scofield	History Club	8	0	808	
+IMS	Alison	Meiseles	Book Club Split Stipend	8	0	404	
+IMS	Samantha	Gold	Book Club Split Stipend	8	0	404	
+IMS	Teresa	Hunt	Baking Club	8	0	808	
+IMS	Mary	Bachrach	School Store	7	8	1777	
+MS	Gina	Maher	AV Club MS/HS (split)	1	8	2503.5	
+HS	Amy	Ma	Environmental Club	8	2	915	
+HS	Debra	McCumber	Flag Team	8	1	861	
+HS	Erik	Weiselberg	Mock Trial	6	8	2046	
+HS	Patrick	DiBenedetto	Yearbook	1	8	5007	
+HS	Michele	Cella	Latin Club (split)	8	8	619	
+HS	Jonathan	Silverman	Latin Club (split)	8	8	619	
+HS	Trish	Lyons	Community Service Coordinator	5	3	2854	
+HS	Trish	Lyons	Key Club (split)	8	8	619	
+HS	Holly	Koester	Key Club (split)	8	8	619	
+HS	Diana	Cassidy	National Honor Society	5	2	2800	
+HS	Debra	McCumber	High School Band	6	6	1938	
+HS	Stephen	DiGiovanni	Drama Production/Director (Fall)	1	1	4630	
+HS	Stephen	DiGiovanni	Drama Production/Director (Spring)	1	1	4630	
+HS	Stephen	DiGiovanni	Theatrical Prod. (Tech. Asst./Fall)	2	0	4038	
+HS	Geri	Winteroth	Drama Production Instrumental	2	5	4307	
+HS	Courtney	Geelan	Model UN Split Stipend	5	8	1561.5	
+HS	Rey	Serrano	Model UN Split Stipend	5	0	1346	
+HS	Claudia	Rodriguez	Student Government (split)	5	7	1534.5	
+HS	Sara	Lake-Garcia	Student Government (split)	5	8	1561.5	
+HS	Lauren	Cutignola	Freshman/Sophomore Class Advisor	7	2	1454	
+HS	Jennifer	McArdle	Literary Magazine	7	3	1508	
+HS	Alison	Zerbo	Academic Challenge	5	3	2854	
+HS	Martin	Rescendiz	Yearbook Assistant	4	1	3284	
+HS	Julia	Orlando	Dance Club (split)	4	2	1669	
+HS	Ann	Testa	Dance Club (split)	4	1	1642	
+HS	Julie	Ippolito	LGBTQIA	8	2	915	
+HS	Kathleen	Tetro	Art Club (split)	8	2	915	
+HS	Stephen	DiGiovanni	AV Club MS/HS (split)	1	8	2503.5	
+--- sheet Sheet2 ---
+--- sheet Sheet3 ---
+

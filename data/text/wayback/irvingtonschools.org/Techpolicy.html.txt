@@ -1,0 +1,31 @@
+SOURCE http://www.irvingtonschools.org:80/Techpolicy.html | DATE 2004-09-05 | TITLE Internet Policy
+
+Irvington, N.Y. 10533
+POLICY FOR THE ACCEPTABLE AND SAFE USE OF TECHNOLOGY AND THE INTERNET
+The Board of the Irvington UFSD recognizes that the use of computer technology and the Internet ("technology") has become an increasingly important aspect of our educational environment. The Board wishes to promote the appropriate use of technology so as to maximize the positive educational benefits for our students and our staff. These uses include the access and exchange of information; communications; and the organization, analysis and presentation of information. Therefore, the Board establishes the following principles and rules for the safe and appropriate use of the District’s technological resources:
+- While the Board respects the principles of academic freedom and freedom of speech, the access or transmission of materials using district technology resources which are inappropriate in the school environment is strictly prohibited. These materials include but are not limited to the following: those which are obscene or pornographic, prejudicial or discriminatory, lewd or profane.
+- The use of district technology to knowingly violate United States or New York State regulations is prohibited. Users of district technology must respect copyrights and trademarks and are prohibited from plagiarizing information found on the Internet.
+- The use of district technology for commercial purposes is prohibited.
+- The posting of an individual student’s photograph with his or her name, or any student's telephone number or address on the Internet is strictly prohibited. When posting a student’s work on a District web page, it is appropriate to list only the student’s first name and grade.
+- District technology may not be used for chat rooms or personal E-mail, other than for school-sponsored educational purposes. Students will not post personal information about themselves or others such as address or telephone number. Students will not meet with anyone contacted online without their parent’s prior approval and supervision.
+- Users of District technology are responsible for safekeeping of their user ID and password. Accessing another person’s files is strictly prohibited.
+- Purposely misusing the District’s technology resources which results in damage to the system or data will result in suspension of privileges and financial liability equal to the cost of repairing the system. Misuse of the system includes, but is not limited to knowingly importing viruses into the system or "spamming" (the replication and mass dissemination of large messages).
+- Irvington UFSD technology resources are school district property. The District reserves the right to review any files and communications on its system at any time to insure compliance with this policy. Any violations discovered by the system operator will be reported immediately to the Superintendent.
+- The primary use of the District’s technology is the promotion of educational objectives.
+- Users will promptly notify a system operator or district administrator of any violation of this policy.
+Each user of the technology resources of the Irvington UFSD, including students, faculty, staff or community member will be required to complete and return the attached form before access to the system will be granted.
+Failure to abide by the above rules and regulations will result in a suspension of technology access privileges, financial liability for damages or other disciplinary action.
+IRVINGTON UNION FREE SCHOOL DISTRICT
+Acceptable and Safe Use
+Of Technology and the Internet
+I have read the Irvington UFSD Policy for the Acceptable and Safe Use of Technology and the Internet. I understand and will abide by this policy. I also understand that violation of this policy could result in suspension of my access privileges, financial liability for damages or other disciplinary action.
+User Name: ______________________________________ Date: _______________
+User Signature: __________________________________________________________
+School: ___ Dows Lane ___ IMS ___ IHS
+___ Student ___ Faculty/Staff ___ Community member
+Parent or Guardian: (For users under 18 years of age.)
+As the parent or guardian of ____________________________, I have read and reviewed with my child, the Irvington UFSD Policy for Acceptable and Safe Use of Technology and the Internet and accept its provisions. I also give permission for my child to utilize the technology resources of the Irvington UFSD.
+Name of Parent or Guardian: ________________________________________________
+(Please Print)
+Signature of Parent or Guardian: _____________________________________________
+Date: ____________________
