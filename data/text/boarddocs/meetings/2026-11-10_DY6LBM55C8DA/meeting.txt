@@ -33,6 +33,9 @@ Agenda as PDF
 - Print the
 Agenda
 
+- View
+Minutes
+
 - Watch
 Video
 

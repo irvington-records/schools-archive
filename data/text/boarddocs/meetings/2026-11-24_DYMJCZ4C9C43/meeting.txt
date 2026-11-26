@@ -33,4 +33,7 @@ Agenda as PDF
 - Print the
 Agenda
 
+- Watch
+Video
+
 Meeting Audio
